@@ -1,0 +1,36 @@
+{
+  "code": "su",
+  "name": "Sundanese",
+  "nativeName": "ᮘᮞ ᮞᮥᮔ᮪ᮓ (Basa Sunda)",
+  "family": "Austronesian",
+  "branch": "Malayo-Polynesian",
+  "speakers": {
+    "native": 40000000,
+    "total": 42000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ID"],
+  "writingSystem": "Latin / Sundanese script",
+  "dialects": [
+    "Priangan",
+    "Bogor",
+    "Cirebon",
+    "Banten",
+    "Northern Sundanese"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Sundanese is an Austronesian language spoken by the Sundanese people in the western third of the island of Java, Indonesia, primarily in the provinces of West Java and Banten. It is the second most widely spoken regional language in Indonesia after Javanese. Like Javanese, Sundanese features a system of speech levels that reflect social hierarchy, though its system is somewhat less elaborate, with distinctions primarily between informal (loma), polite (lemes), and very formal registers.",
+  "historicalNotes": "The earliest known Sundanese inscription dates to the 14th century, although the Sundanese cultural region was referenced in earlier Old Javanese texts. The Sundanese script, an abugida derived from the ancient Brahmi script through Pallava and Old Sundanese intermediaries, was used for literary and administrative purposes in the pre-colonial Sundanese kingdoms of Pajajaran and Galuh. Under Dutch colonial rule and following Indonesian independence, the Latin alphabet became the dominant writing system. The traditional Sundanese script has experienced a revival in recent decades, appearing on street signs and public buildings in West Java as part of cultural preservation efforts.",
+  "relatedLanguages": ["jv", "ms", "id", "tl"],
+  "resources": [
+    {
+      "title": "Ethnologue - Sundanese",
+      "url": "https://www.ethnologue.com/language/sun/"
+    },
+    {
+      "title": "Glottolog - Sundanese",
+      "url": "https://glottolog.org/resource/languoid/id/sund1252"
+    }
+  ],
+  "geojson": "su.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "bo",
+  "name": "Tibetan",
+  "nativeName": "བོད་སྐད",
+  "family": "Sino-Tibetan",
+  "branch": "Tibeto-Burman",
+  "speakers": {
+    "native": 1200000,
+    "total": 6000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["CN", "IN", "NP", "BT"],
+  "writingSystem": "Tibetan",
+  "dialects": [
+    "Central Tibetan (U-Tsang)",
+    "Khams Tibetan",
+    "Amdo Tibetan",
+    "Ladakhi",
+    "Dzongkha",
+    "Sherpa"
+  ],
+  "endangermentStatus": "vulnerable",
+  "description": "Tibetan is a Sino-Tibetan language spoken across the Tibetan Plateau and in diaspora communities worldwide. Standard Tibetan is based on the Lhasa dialect of Central Tibet. The language uses an Indic-derived script created in the 7th century and has a vast literary tradition, particularly in Buddhist philosophy.",
+  "historicalNotes": "The Tibetan script was created in the 7th century by Thonmi Sambhota, commissioned by King Songtsen Gampo, based on Indian Brahmi scripts. Tibetan became the primary language for translating Buddhist texts from Sanskrit, creating one of the most extensive Buddhist literary traditions. The spoken language has diverged significantly from the written form over centuries. After the Chinese annexation of Tibet in 1950, Tibetan has faced increasing pressure from Mandarin Chinese.",
+  "relatedLanguages": ["my", "dz"],
+  "resources": [
+    {
+      "title": "Ethnologue - Tibetan",
+      "url": "https://www.ethnologue.com/language/bod/"
+    },
+    {
+      "title": "Glottolog - Tibetan",
+      "url": "https://glottolog.org/resource/languoid/id/tibi1272"
+    }
+  ],
+  "geojson": "bo.geojson"
+}

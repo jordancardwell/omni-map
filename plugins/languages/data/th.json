@@ -1,0 +1,36 @@
+{
+  "code": "th",
+  "name": "Thai",
+  "nativeName": "ภาษาไทย",
+  "family": "Kra-Dai",
+  "branch": "Tai",
+  "speakers": {
+    "native": 21000000,
+    "total": 61000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["TH"],
+  "writingSystem": "Thai",
+  "dialects": [
+    "Central Thai (Standard)",
+    "Northern Thai (Lanna)",
+    "Northeastern Thai (Isan)",
+    "Southern Thai",
+    "Khorat Thai"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Thai is the official language of Thailand. It is a tonal language with five tones and uses its own abugida script derived from Khmer. Central Thai, based on the Bangkok dialect, serves as the standard form. Thai has a complex system of registers and pronouns reflecting social relationships and formality.",
+  "historicalNotes": "The Thai script was created in 1283 by King Ramkhamhaeng the Great of the Sukhothai Kingdom, adapted from the Khmer script. Thai belongs to the Tai branch of the Kra-Dai language family, with origins traced to southern China. The Tai peoples migrated southward into Southeast Asia over several centuries. Modern Standard Thai was codified during the reign of King Rama VI in the early 20th century.",
+  "relatedLanguages": ["lo"],
+  "resources": [
+    {
+      "title": "Ethnologue - Thai",
+      "url": "https://www.ethnologue.com/language/tha/"
+    },
+    {
+      "title": "Glottolog - Thai",
+      "url": "https://glottolog.org/resource/languoid/id/thai1261"
+    }
+  ],
+  "geojson": "th.geojson"
+}

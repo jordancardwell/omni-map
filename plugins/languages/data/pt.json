@@ -1,0 +1,36 @@
+{
+  "code": "pt",
+  "name": "Portuguese",
+  "nativeName": "Português",
+  "family": "Indo-European",
+  "branch": "Romance",
+  "speakers": {
+    "native": 260000000,
+    "total": 270000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["BR", "PT", "AO", "MZ", "GW", "TL", "CV", "ST", "GQ", "MO"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Brazilian Portuguese",
+    "European Portuguese",
+    "African Portuguese",
+    "Angolan Portuguese",
+    "Mozambican Portuguese"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Portuguese is a Romance language originating from the Iberian Peninsula. It is the official language of Portugal, Brazil, and several African and Asian nations. As the most spoken language in South America and the Southern Hemisphere, Portuguese is the sixth most spoken language in the world by total number of native speakers.",
+  "historicalNotes": "Portuguese evolved from Galician-Portuguese, a medieval Romance language of the Iberian Peninsula. The language spread globally during the Age of Discovery (15th-16th centuries) through Portuguese maritime exploration and colonization. The Orthographic Agreement of 1990 aimed to unify the spelling standards of Portuguese-speaking countries. Brazil, as the largest Portuguese-speaking country, has significantly influenced the language's modern development.",
+  "relatedLanguages": ["es", "fr", "it", "ro", "gl"],
+  "resources": [
+    {
+      "title": "Ethnologue - Portuguese",
+      "url": "https://www.ethnologue.com/language/por/"
+    },
+    {
+      "title": "Glottolog - Portuguese",
+      "url": "https://glottolog.org/resource/languoid/id/port1283"
+    }
+  ],
+  "geojson": "pt.geojson"
+}

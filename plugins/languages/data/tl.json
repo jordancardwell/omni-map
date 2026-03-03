@@ -1,0 +1,37 @@
+{
+  "code": "tl",
+  "name": "Tagalog",
+  "nativeName": "Tagalog",
+  "family": "Austronesian",
+  "branch": "Malayo-Polynesian",
+  "speakers": {
+    "native": 28000000,
+    "total": 82000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["PH"],
+  "writingSystem": "Latin (Filipino alphabet)",
+  "dialects": [
+    "Manila Tagalog",
+    "Bulacan Tagalog",
+    "Batangas Tagalog",
+    "Bataan Tagalog",
+    "Lubang Tagalog",
+    "Marinduque Tagalog"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Tagalog is an Austronesian language spoken as a first language by a quarter of the Philippine population. It forms the basis of Filipino, the national language of the Philippines. Tagalog uses a verb-initial word order and an Austronesian alignment system (focus/voice system) that marks the semantic role of the topic noun phrase.",
+  "historicalNotes": "Before Spanish colonization, Tagalog was written in Baybayin, an Indic-derived abugida script. Spanish missionaries Romanized the script in the 16th century. After Philippine independence in 1946, Tagalog was selected as the basis for the national language (initially called Pilipino, later Filipino). The Filipino alphabet, adopted in 1987, expanded the traditional Abakada alphabet to include letters for Spanish and English loanwords.",
+  "relatedLanguages": ["ms", "id"],
+  "resources": [
+    {
+      "title": "Ethnologue - Tagalog",
+      "url": "https://www.ethnologue.com/language/tgl/"
+    },
+    {
+      "title": "Glottolog - Tagalog",
+      "url": "https://glottolog.org/resource/languoid/id/taga1270"
+    }
+  ],
+  "geojson": "tl.geojson"
+}

@@ -1,0 +1,39 @@
+{
+  "code": "ka",
+  "name": "Georgian",
+  "nativeName": "ქართული",
+  "family": "Kartvelian",
+  "branch": "Karto-Zan",
+  "speakers": {
+    "native": 3700000,
+    "total": 4000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["GE"],
+  "writingSystem": "Georgian script (Mkhedruli)",
+  "dialects": [
+    "Kartlian",
+    "Kakhetian",
+    "Imeretian",
+    "Gurian",
+    "Adjarian",
+    "Rachian",
+    "Lechkhumian",
+    "Meskhetian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Georgian is a Kartvelian language and the most widely spoken of the South Caucasian language family, which is unrelated to any other known language family. It is the official language of Georgia and is spoken primarily in the Caucasus region. Georgian is renowned for its unique alphabet, complex consonant clusters (allowing up to eight consonants in a row), and a polypersonal verb system that can encode subject, direct object, and indirect object within a single verb form.",
+  "historicalNotes": "Georgian has one of the oldest literary traditions in the world, with the earliest inscriptions dating to the 5th century AD. The Georgian alphabet, which has three historical forms (Asomtavruli, Nuskhuri, and Mkhedruli), is recognized as a UNESCO Intangible Cultural Heritage. The 12th-century epic poem 'The Knight in the Panther's Skin' by Shota Rustaveli is considered the pinnacle of Georgian literature. The Kartvelian language family, to which Georgian belongs, has no proven genetic relationship to any other language family, making it one of the world's primary language families.",
+  "relatedLanguages": [],
+  "resources": [
+    {
+      "title": "Ethnologue - Georgian",
+      "url": "https://www.ethnologue.com/language/kat/"
+    },
+    {
+      "title": "Glottolog - Georgian",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1302"
+    }
+  ],
+  "geojson": "ka.geojson"
+}

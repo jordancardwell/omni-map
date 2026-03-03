@@ -1,0 +1,38 @@
+{
+  "code": "fi",
+  "name": "Finnish",
+  "nativeName": "Suomi",
+  "family": "Uralic",
+  "branch": "Finnic",
+  "speakers": {
+    "native": 5400000,
+    "total": 6000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["FI", "SE", "NO", "EE"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Western Finnish",
+    "Eastern Finnish",
+    "Tavastian",
+    "South Ostrobothnian",
+    "North Ostrobothnian",
+    "Savonian",
+    "Karelian Finnish"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Finnish is a Uralic language unrelated to the Indo-European languages that surround it. It is the majority language of Finland and one of the EU's official languages. Finnish is known for its extensive case system (15 grammatical cases), agglutinative morphology, and vowel harmony. It lacks grammatical gender and uses postpositions rather than prepositions.",
+  "historicalNotes": "Finnish was primarily an oral language until the 16th century, when Mikael Agricola, the Bishop of Turku, created the first Finnish-language written works, including a translation of the New Testament (1548). Finland was part of the Swedish kingdom for centuries, making Swedish the dominant written language. Finnish gained official status alongside Swedish in 1863 under Russian rule, and the Kalevala epic (compiled by Elias Lönnrot in 1835) played a crucial role in Finnish national identity and the standardization of the language.",
+  "relatedLanguages": ["hu"],
+  "resources": [
+    {
+      "title": "Ethnologue - Finnish",
+      "url": "https://www.ethnologue.com/language/fin/"
+    },
+    {
+      "title": "Glottolog - Finnish",
+      "url": "https://glottolog.org/resource/languoid/id/finn1318"
+    }
+  ],
+  "geojson": "fi.geojson"
+}

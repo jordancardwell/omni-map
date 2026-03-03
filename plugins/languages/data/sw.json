@@ -1,0 +1,37 @@
+{
+  "code": "sw",
+  "name": "Swahili",
+  "nativeName": "Kiswahili",
+  "family": "Niger-Congo",
+  "branch": "Bantu",
+  "speakers": {
+    "native": 16000000,
+    "total": 200000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["TZ", "KE", "UG", "CD", "RW", "BI", "MZ", "SO"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Kiunguja",
+    "Kimvita",
+    "Kiamu",
+    "Kingwana",
+    "Sheng",
+    "Comorian Swahili"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Swahili is a Bantu language that serves as a lingua franca across much of East and Central Africa, making it one of the most widely spoken languages on the continent. It is an official language of Tanzania, Kenya, Uganda, Rwanda, and the Democratic Republic of the Congo, as well as a working language of the African Union and the East African Community. Despite having roughly 16 million native speakers concentrated along the East African coast, Swahili is used as a second language by an estimated 200 million people, reflecting its critical role in regional commerce, education, and media.",
+  "historicalNotes": "Swahili emerged from centuries of interaction between Bantu-speaking coastal communities and Arab, Persian, and Indian Ocean traders, resulting in significant Arabic lexical influence while retaining a thoroughly Bantu grammatical structure. The earliest known Swahili writings date to the early 18th century using the Arabic-based script, though the language shifted to the Latin alphabet under European colonial administration. During the independence movements of the 1960s, Swahili became a powerful symbol of pan-African identity, and Tanzania's first president Julius Nyerere championed it as a unifying national language, a role it continues to expand across the continent today.",
+  "relatedLanguages": ["zu", "xh"],
+  "resources": [
+    {
+      "title": "Ethnologue - Swahili",
+      "url": "https://www.ethnologue.com/language/swh/"
+    },
+    {
+      "title": "Glottolog - Swahili",
+      "url": "https://glottolog.org/resource/languoid/id/swah1253"
+    }
+  ],
+  "geojson": "sw.geojson"
+}

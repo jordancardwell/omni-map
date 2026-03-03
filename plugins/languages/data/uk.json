@@ -1,0 +1,35 @@
+{
+  "code": "uk",
+  "name": "Ukrainian",
+  "nativeName": "Українська",
+  "family": "Indo-European",
+  "branch": "Balto-Slavic",
+  "speakers": {
+    "native": 33000000,
+    "total": 40000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["UA", "PL", "CA", "BR", "AR", "US"],
+  "writingSystem": "Cyrillic",
+  "dialects": [
+    "Northern Ukrainian",
+    "Southeastern Ukrainian",
+    "Southwestern Ukrainian",
+    "Surzhyk"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Ukrainian is an East Slavic language and the official state language of Ukraine. It is one of the three East Slavic languages alongside Russian and Belarusian. Ukrainian uses the Cyrillic script with additional characters not found in Russian, and has a rich literary heritage dating back centuries.",
+  "historicalNotes": "Ukrainian descended from Old East Slavic, the common language of the medieval state of Kievan Rus'. The language was suppressed under Russian imperial rule through the Ems Decree (1876) and Valuev Circular (1863) which restricted Ukrainian publications. After Ukrainian independence in 1991, the language underwent a revival. The ongoing Ukrainian language revival emphasizes its distinct identity from Russian, with updated orthographic standards adopted in 2019.",
+  "relatedLanguages": ["ru", "be", "pl", "cs", "sk"],
+  "resources": [
+    {
+      "title": "Ethnologue - Ukrainian",
+      "url": "https://www.ethnologue.com/language/ukr/"
+    },
+    {
+      "title": "Glottolog - Ukrainian",
+      "url": "https://glottolog.org/resource/languoid/id/ukra1253"
+    }
+  ],
+  "geojson": "uk.geojson"
+}

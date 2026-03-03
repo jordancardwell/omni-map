@@ -1,0 +1,34 @@
+{
+  "code": "kk",
+  "name": "Kazakh",
+  "nativeName": "Қазақ тілі",
+  "family": "Turkic",
+  "branch": "Kipchak",
+  "speakers": {
+    "native": 13000000,
+    "total": 16000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["KZ", "CN", "RU", "UZ", "MN"],
+  "writingSystem": "Cyrillic / Latin (transitioning)",
+  "dialects": [
+    "Northeastern Kazakh",
+    "Southern Kazakh",
+    "Western Kazakh"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Kazakh is a Kipchak Turkic language and the official language of Kazakhstan. It is closely related to Karakalpak and Nogai. Kazakhstan is currently transitioning the Kazakh script from Cyrillic to Latin, with full adoption planned by 2031. Kazakh has a rich tradition of oral poetry and epic literature.",
+  "historicalNotes": "Kazakh emerged as a distinct language in the 15th century with the formation of the Kazakh Khanate. The language has a strong tradition of oral literature, including epic poems such as Kyz Zhibek and Kobylandy Batyr. Written Kazakh originally used the Arabic script, switched to Latin in 1929, then to Cyrillic in 1940 under Soviet rule. In 2017, Kazakhstan announced a phased transition to Latin script, reflecting its post-independence identity.",
+  "relatedLanguages": ["tr", "az", "uz"],
+  "resources": [
+    {
+      "title": "Ethnologue - Kazakh",
+      "url": "https://www.ethnologue.com/language/kaz/"
+    },
+    {
+      "title": "Glottolog - Kazakh",
+      "url": "https://glottolog.org/resource/languoid/id/kaza1248"
+    }
+  ],
+  "geojson": "kk.geojson"
+}

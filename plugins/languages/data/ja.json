@@ -1,0 +1,38 @@
+{
+  "code": "ja",
+  "name": "Japanese",
+  "nativeName": "日本語",
+  "family": "Japonic",
+  "branch": "Japanese",
+  "speakers": {
+    "native": 125000000,
+    "total": 128000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["JP"],
+  "writingSystem": "Japanese (Kanji, Hiragana, Katakana)",
+  "dialects": [
+    "Tokyo dialect",
+    "Kansai dialect",
+    "Tohoku dialect",
+    "Kyushu dialect",
+    "Hokkaido dialect",
+    "Shikoku dialect",
+    "Okinawan Japanese"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Japanese is the national language of Japan, spoken by virtually the entire population. It uses three writing systems: kanji (Chinese characters), hiragana (cursive syllabary), and katakana (angular syllabary for foreign words). Japanese is an agglutinative language with a complex system of honorifics reflecting social hierarchy.",
+  "historicalNotes": "The earliest Japanese texts date to the 8th century, written using Chinese characters adapted for Japanese (man'yogana). The hiragana and katakana syllabaries developed during the Heian period (794–1185). Modern Standard Japanese is based on the Tokyo dialect and was standardized during the Meiji era. Japan's post-WWII script reforms simplified many kanji and established the joyo kanji list.",
+  "relatedLanguages": ["ryu"],
+  "resources": [
+    {
+      "title": "Ethnologue - Japanese",
+      "url": "https://www.ethnologue.com/language/jpn/"
+    },
+    {
+      "title": "Glottolog - Japanese",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1643"
+    }
+  ],
+  "geojson": "ja.geojson"
+}

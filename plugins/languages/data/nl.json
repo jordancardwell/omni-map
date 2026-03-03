@@ -1,0 +1,37 @@
+{
+  "code": "nl",
+  "name": "Dutch",
+  "nativeName": "Nederlands",
+  "family": "Indo-European",
+  "branch": "Germanic",
+  "speakers": {
+    "native": 25000000,
+    "total": 30000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["NL", "BE", "SR", "CW", "AW", "SX"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Flemish",
+    "Hollandic",
+    "Brabantian",
+    "Limburgish",
+    "Zeelandic",
+    "Surinamese Dutch"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Dutch is a West Germanic language spoken primarily in the Netherlands and Belgium (Flanders). It is also an official language of Suriname and several Caribbean islands. Dutch is closely related to German and English, and served as the basis for Afrikaans, spoken in South Africa and Namibia.",
+  "historicalNotes": "Dutch evolved from Old Frankish and Old Low Franconian dialects. The Dutch Golden Age (17th century) saw the language spread through colonial trade to Southeast Asia, South Africa, and the Americas. The Dutch Language Union (Nederlandse Taalunie), established in 1980, coordinates language policy between the Netherlands, Belgium, and Suriname. Afrikaans, spoken in South Africa, diverged from Dutch in the 17th century.",
+  "relatedLanguages": ["de", "en", "fy", "af"],
+  "resources": [
+    {
+      "title": "Ethnologue - Dutch",
+      "url": "https://www.ethnologue.com/language/nld/"
+    },
+    {
+      "title": "Glottolog - Dutch",
+      "url": "https://glottolog.org/resource/languoid/id/dutc1256"
+    }
+  ],
+  "geojson": "nl.geojson"
+}

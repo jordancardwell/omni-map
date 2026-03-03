@@ -1,0 +1,38 @@
+{
+  "code": "yo",
+  "name": "Yoruba",
+  "nativeName": "Èdè Yorùbá",
+  "family": "Niger-Congo",
+  "branch": "Volta-Niger",
+  "speakers": {
+    "native": 47000000,
+    "total": 55000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["NG", "BJ", "TG"],
+  "writingSystem": "Latin (Yoruba alphabet)",
+  "dialects": [
+    "Standard Yoruba",
+    "Ekiti",
+    "Ijebu",
+    "Oyo",
+    "Ondo",
+    "Igbomina",
+    "Ijesa"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Yoruba is a major West African language of the Volta-Niger branch of the Niger-Congo family, spoken predominantly in southwestern Nigeria, Benin, and Togo. It is one of the three largest ethnic languages in Nigeria alongside Hausa and Igbo, and serves as a key language of commerce, literature, and cultural expression in the region. Yoruba is a tonal language with three primary tones (high, mid, and low), and its rich literary tradition spans centuries of oral poetry, proverbs, and the celebrated Ifa divination corpus.",
+  "historicalNotes": "The Yoruba people built some of West Africa's most sophisticated pre-colonial urban civilizations, including the kingdoms of Ife, Oyo, and Benin, with Ile-Ife regarded as the spiritual homeland of the Yoruba. The modern Yoruba orthography was developed in the 19th century by Samuel Ajayi Crowther, a freed Yoruba slave who became the first African Anglican bishop and produced the first Yoruba translation of the Bible. Through the transatlantic slave trade, Yoruba cultural and linguistic influence spread to the Americas, where it remains a living liturgical language in Afro-Brazilian Candomble, Cuban Santeria, and Trinidadian Orisha traditions.",
+  "relatedLanguages": ["ig"],
+  "resources": [
+    {
+      "title": "Ethnologue - Yoruba",
+      "url": "https://www.ethnologue.com/language/yor/"
+    },
+    {
+      "title": "Glottolog - Yoruba",
+      "url": "https://glottolog.org/resource/languoid/id/yoru1245"
+    }
+  ],
+  "geojson": "yo.geojson"
+}

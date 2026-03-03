@@ -1,0 +1,36 @@
+{
+  "code": "zu",
+  "name": "Zulu",
+  "nativeName": "isiZulu",
+  "family": "Niger-Congo",
+  "branch": "Bantu",
+  "speakers": {
+    "native": 13600000,
+    "total": 28000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ZA", "LS", "SZ", "MW"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Standard Zulu",
+    "Kwazulu",
+    "Lala",
+    "Qwabe",
+    "Northern Zulu"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Zulu is the most widely spoken home language in South Africa, belonging to the Nguni subgroup of the Bantu branch of the Niger-Congo language family. It is one of South Africa's eleven official languages and serves as a lingua franca in the KwaZulu-Natal province and in urban centers such as Johannesburg and Durban. Zulu is renowned for its distinctive click consonants, borrowed from neighboring Khoisan languages, and its agglutinative morphology that allows complex meanings to be expressed through elaborate noun class and verb agreement systems.",
+  "historicalNotes": "The Zulu language rose to continental prominence through the Zulu Kingdom founded by King Shaka in the early 19th century, whose military innovations and political consolidation unified disparate Nguni clans into a powerful state that reshaped the demographic landscape of southern Africa through the Mfecane upheaval. The first written Zulu texts were produced by European missionaries in the mid-19th century, and the language was standardized through grammars and dictionaries that drew primarily on the dialect of the royal court. During the apartheid era, Zulu was confined to Bantustan education policies, but after 1994 it gained official status in the new democratic South Africa, and today it thrives in media, music (particularly maskandi and gospel), and literature.",
+  "relatedLanguages": ["xh", "sw"],
+  "resources": [
+    {
+      "title": "Ethnologue - Zulu",
+      "url": "https://www.ethnologue.com/language/zul/"
+    },
+    {
+      "title": "Glottolog - Zulu",
+      "url": "https://glottolog.org/resource/languoid/id/zulu1248"
+    }
+  ],
+  "geojson": "zu.geojson"
+}

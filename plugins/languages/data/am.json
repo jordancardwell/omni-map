@@ -1,0 +1,36 @@
+{
+  "code": "am",
+  "name": "Amharic",
+  "nativeName": "አማርኛ",
+  "family": "Afro-Asiatic",
+  "branch": "Semitic",
+  "speakers": {
+    "native": 32000000,
+    "total": 57500000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ET"],
+  "writingSystem": "Ge'ez script (Ethiopic)",
+  "dialects": [
+    "Gondar",
+    "Gojjam",
+    "Wollo",
+    "Shewa (Addis Ababa)",
+    "Lasta"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Amharic is an Ethio-Semitic language and the official working language of Ethiopia. It is the second most spoken Semitic language in the world after Arabic. Amharic uses the Ge'ez script, one of the oldest alphabets still in use, which is an abugida where each character represents a consonant-vowel combination.",
+  "historicalNotes": "Amharic emerged as a distinct language around the 12th century CE, evolving from earlier Ethio-Semitic languages. It became the language of the Ethiopian court during the Solomonic dynasty (1270 CE) and replaced Ge'ez as the literary language by the 19th century. The language played a key role in Ethiopian state-building and remains central to Ethiopian national identity.",
+  "relatedLanguages": ["ar", "he"],
+  "resources": [
+    {
+      "title": "Ethnologue - Amharic",
+      "url": "https://www.ethnologue.com/language/amh/"
+    },
+    {
+      "title": "Glottolog - Amharic",
+      "url": "https://glottolog.org/resource/languoid/id/amha1245"
+    }
+  ],
+  "geojson": "am.geojson"
+}

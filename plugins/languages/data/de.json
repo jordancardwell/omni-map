@@ -1,0 +1,39 @@
+{
+  "code": "de",
+  "name": "German",
+  "nativeName": "Deutsch",
+  "family": "Indo-European",
+  "branch": "Germanic",
+  "speakers": {
+    "native": 95000000,
+    "total": 135000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["DE", "AT", "CH", "LI", "LU", "BE", "IT"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Standard German",
+    "Bavarian",
+    "Swiss German",
+    "Austrian German",
+    "Low German",
+    "Alemannic",
+    "Swabian",
+    "Saxon"
+  ],
+  "endangermentStatus": "safe",
+  "description": "German is a West Germanic language mainly spoken in Central Europe. It is the most widely spoken native language in the European Union and serves as an official language of Germany, Austria, Switzerland, Liechtenstein, Luxembourg, and Belgium. German is known for its compound word formation and grammatical case system.",
+  "historicalNotes": "German evolved from the Proto-Germanic language family. The Second Sound Shift (c. 500 CE) differentiated High German from Low German. Martin Luther's Bible translation (1522-1534) was pivotal in standardizing the language. The Brothers Grimm published the first comprehensive German dictionary in 1838. German orthography was reformed in 1996 to simplify spelling rules.",
+  "relatedLanguages": ["en", "nl", "da", "sv", "no"],
+  "resources": [
+    {
+      "title": "Ethnologue - German",
+      "url": "https://www.ethnologue.com/language/deu/"
+    },
+    {
+      "title": "Glottolog - German",
+      "url": "https://glottolog.org/resource/languoid/id/stan1295"
+    }
+  ],
+  "geojson": "de.geojson"
+}

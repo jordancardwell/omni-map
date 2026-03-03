@@ -1,0 +1,36 @@
+{
+  "code": "te",
+  "name": "Telugu",
+  "nativeName": "తెలుగు",
+  "family": "Dravidian",
+  "branch": "South-Central Dravidian",
+  "speakers": {
+    "native": 83000000,
+    "total": 96000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IN"],
+  "writingSystem": "Telugu script",
+  "dialects": [
+    "Coastal Andhra",
+    "Rayalaseema",
+    "Telangana",
+    "Nellore",
+    "Ceded Districts"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Telugu is a South-Central Dravidian language and the most widely spoken Dravidian language by number of native speakers. It is the official language of the Indian states of Andhra Pradesh and Telangana. Telugu is sometimes called the 'Italian of the East' for its vowel-ending words and melodious sound.",
+  "historicalNotes": "Telugu inscriptions date back to the 6th century CE, with literary works appearing from the 11th century. The language flourished under the Kakatiya dynasty (1163-1323) and the Vijayanagara Empire (1336-1646). Telugu was designated a classical language of India in 2008. The script evolved from the Bhattiprolu script through the Telugu-Kannada script tradition.",
+  "relatedLanguages": ["ta", "kn", "ml"],
+  "resources": [
+    {
+      "title": "Ethnologue - Telugu",
+      "url": "https://www.ethnologue.com/language/tel/"
+    },
+    {
+      "title": "Glottolog - Telugu",
+      "url": "https://glottolog.org/resource/languoid/id/telu1262"
+    }
+  ],
+  "geojson": "te.geojson"
+}

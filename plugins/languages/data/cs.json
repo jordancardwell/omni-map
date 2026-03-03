@@ -1,0 +1,35 @@
+{
+  "code": "cs",
+  "name": "Czech",
+  "nativeName": "Čeština",
+  "family": "Indo-European",
+  "branch": "Balto-Slavic",
+  "speakers": {
+    "native": 10700000,
+    "total": 13900000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["CZ", "SK", "US", "AT"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Bohemian",
+    "Moravian",
+    "Silesian Czech",
+    "Common Czech"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Czech is a West Slavic language and the official language of the Czech Republic. It is closely related to Slovak, with a high degree of mutual intelligibility. Czech is known for its complex declension system with seven grammatical cases, and its use of háčky (diacritical marks) to indicate palatalized and other modified consonants.",
+  "historicalNotes": "Czech emerged as a distinct language in the late medieval period. Jan Hus reformed Czech orthography in the early 15th century, introducing the system of diacritical marks still used today. The language was suppressed during Habsburg rule, but the Czech National Revival (18th-19th centuries) restored it as a literary and official language. Josef Dobrovský and Josef Jungmann were key figures in codifying modern Czech.",
+  "relatedLanguages": ["sk", "pl", "hr", "sl"],
+  "resources": [
+    {
+      "title": "Ethnologue - Czech",
+      "url": "https://www.ethnologue.com/language/ces/"
+    },
+    {
+      "title": "Glottolog - Czech",
+      "url": "https://glottolog.org/resource/languoid/id/czec1258"
+    }
+  ],
+  "geojson": "cs.geojson"
+}

@@ -1,0 +1,38 @@
+{
+  "code": "ha",
+  "name": "Hausa",
+  "nativeName": "هَوُسَ",
+  "family": "Afro-Asiatic",
+  "branch": "Chadic",
+  "speakers": {
+    "native": 54000000,
+    "total": 80000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["NG", "NE", "GH", "CM", "TD", "BF"],
+  "writingSystem": "Latin (Boko) / Arabic (Ajami)",
+  "dialects": [
+    "Kano",
+    "Sokoto",
+    "Zaria (Zazzaganci)",
+    "Bauchi",
+    "Daura",
+    "Katsina",
+    "Ghanaian Hausa"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Hausa is the most widely spoken Chadic language and serves as a lingua franca across much of West Africa. It is predominantly spoken in northern Nigeria and southern Niger, and is one of the most spoken languages on the African continent. Hausa has a rich tradition of oral and written literature.",
+  "historicalNotes": "Hausa civilization dates back over a thousand years, with the Hausa city-states (Hausa Bakwai) forming major centers of trade and learning in West Africa. Historically written in the Arabic-based Ajami script, Hausa transitioned to the Latin-based Boko alphabet during British colonial rule. The language spread extensively along trans-Saharan trade routes and remains a key language of commerce and media in West Africa.",
+  "relatedLanguages": ["ar"],
+  "resources": [
+    {
+      "title": "Ethnologue - Hausa",
+      "url": "https://www.ethnologue.com/language/hau/"
+    },
+    {
+      "title": "Glottolog - Hausa",
+      "url": "https://glottolog.org/resource/languoid/id/haus1257"
+    }
+  ],
+  "geojson": "ha.geojson"
+}

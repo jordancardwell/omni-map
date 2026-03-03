@@ -1,0 +1,35 @@
+{
+  "code": "so",
+  "name": "Somali",
+  "nativeName": "Soomaali",
+  "family": "Afro-Asiatic",
+  "branch": "Cushitic",
+  "speakers": {
+    "native": 22000000,
+    "total": 24000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["SO", "ET", "DJ", "KE"],
+  "writingSystem": "Latin (Somali alphabet)",
+  "dialects": [
+    "Northern Somali (Standard)",
+    "Benaadir (Coastal)",
+    "Maay",
+    "Ashraaf"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Somali is a Cushitic language and the official language of Somalia. It is also widely spoken in the Somali Region of Ethiopia, Djibouti, and northeastern Kenya. Somali has a rich oral literary tradition, with poetry holding a central place in Somali culture and society.",
+  "historicalNotes": "Somali has a long history as an oral language with an exceptionally rich poetic tradition. Although written in the Arabic-based Osmanya and Wadaad scripts historically, the modern Latin-based orthography was officially adopted in 1972 under President Siad Barre. The standardized script helped unify various dialect groups and enabled mass literacy campaigns. Somali poetry is renowned for its complexity and cultural importance.",
+  "relatedLanguages": ["ar"],
+  "resources": [
+    {
+      "title": "Ethnologue - Somali",
+      "url": "https://www.ethnologue.com/language/som/"
+    },
+    {
+      "title": "Glottolog - Somali",
+      "url": "https://glottolog.org/resource/languoid/id/soma1255"
+    }
+  ],
+  "geojson": "so.geojson"
+}

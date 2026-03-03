@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "so",
+        "name": "Somali",
+        "region": "Somalia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [41.0, 11.5], [43.0, 11.5], [45.5, 11.8], [48.0, 11.0],
+          [49.0, 10.0], [50.5, 8.0], [50.0, 5.0], [48.5, 2.0],
+          [46.0, 0.0], [44.5, 1.5], [42.0, 3.0], [41.5, 5.0],
+          [42.5, 8.0], [41.0, 11.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "so",
+        "name": "Somali",
+        "region": "Ogaden (Ethiopia)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [40.0, 9.5], [42.0, 8.5], [42.5, 8.0], [41.5, 5.0],
+          [42.0, 3.0], [40.5, 4.0], [38.5, 5.5], [38.0, 7.0],
+          [39.5, 8.5], [40.0, 9.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "so",
+        "name": "Somali",
+        "region": "Djibouti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [41.8, 11.0], [42.5, 11.6], [43.4, 11.5], [43.5, 11.0],
+          [42.8, 10.9], [41.8, 11.0]
+        ]]
+      }
+    }
+  ]
+}

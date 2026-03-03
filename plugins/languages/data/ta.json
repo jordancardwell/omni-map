@@ -1,0 +1,37 @@
+{
+  "code": "ta",
+  "name": "Tamil",
+  "nativeName": "தமிழ்",
+  "family": "Dravidian",
+  "branch": "Southern Dravidian",
+  "speakers": {
+    "native": 78000000,
+    "total": 87000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IN", "LK", "SG", "MY"],
+  "writingSystem": "Tamil script",
+  "dialects": [
+    "Central Tamil",
+    "Madras Tamil",
+    "Kongu Tamil",
+    "Madurai Tamil",
+    "Jaffna Tamil",
+    "Sri Lankan Tamil"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Tamil is a Dravidian language and one of the longest-surviving classical languages in the world. It is the official language of the Indian state of Tamil Nadu and one of the official languages of Sri Lanka and Singapore. Tamil has a continuous literary tradition spanning over two thousand years.",
+  "historicalNotes": "Tamil is one of the oldest living languages, with literature dating back to at least the 3rd century BCE (Sangam literature). It was designated a classical language of India in 2004 — the first language to receive this distinction. The earliest known Tamil inscriptions (Tamil-Brahmi) date to around 500 BCE. Tamil has maintained remarkable continuity, with modern speakers able to comprehend classical texts with some study.",
+  "relatedLanguages": ["kn", "ml", "te"],
+  "resources": [
+    {
+      "title": "Ethnologue - Tamil",
+      "url": "https://www.ethnologue.com/language/tam/"
+    },
+    {
+      "title": "Glottolog - Tamil",
+      "url": "https://glottolog.org/resource/languoid/id/tami1289"
+    }
+  ],
+  "geojson": "ta.geojson"
+}

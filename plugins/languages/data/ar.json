@@ -1,0 +1,39 @@
+{
+  "code": "ar",
+  "name": "Arabic",
+  "nativeName": "العربية",
+  "family": "Afro-Asiatic",
+  "branch": "Semitic",
+  "speakers": {
+    "native": 310000000,
+    "total": 380000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["SA", "EG", "IQ", "MA", "DZ", "SD", "YE", "SY", "TN", "JO", "LY", "LB", "AE", "OM", "KW", "QA", "BH", "MR", "PS"],
+  "writingSystem": "Arabic script",
+  "dialects": [
+    "Modern Standard Arabic",
+    "Egyptian Arabic",
+    "Levantine Arabic",
+    "Gulf Arabic",
+    "Maghrebi Arabic",
+    "Iraqi Arabic",
+    "Yemeni Arabic",
+    "Sudanese Arabic"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Arabic is a Semitic language and the lingua franca of the Arab world. Modern Standard Arabic is the literary standard across the Middle East and North Africa, while numerous regional dialects serve as spoken vernaculars. Arabic is also the liturgical language of Islam.",
+  "historicalNotes": "Arabic originated in the Arabian Peninsula and spread rapidly with the Islamic conquests of the 7th and 8th centuries. Classical Arabic, the language of the Quran, served as the basis for Modern Standard Arabic. During the Islamic Golden Age (8th-14th centuries), Arabic was the language of science and philosophy. Many English words derive from Arabic, including algebra, algorithm, and alchemy.",
+  "relatedLanguages": ["he", "am", "mt"],
+  "resources": [
+    {
+      "title": "Ethnologue - Arabic",
+      "url": "https://www.ethnologue.com/language/arb/"
+    },
+    {
+      "title": "Glottolog - Arabic",
+      "url": "https://glottolog.org/resource/languoid/id/stan1318"
+    }
+  ],
+  "geojson": "ar.geojson"
+}

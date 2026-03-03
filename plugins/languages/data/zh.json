@@ -1,0 +1,39 @@
+{
+  "code": "zh",
+  "name": "Mandarin Chinese",
+  "nativeName": "普通话",
+  "family": "Sino-Tibetan",
+  "branch": "Sinitic",
+  "speakers": {
+    "native": 920000000,
+    "total": 1120000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["CN", "TW", "SG", "MY"],
+  "writingSystem": "Chinese characters (Hanzi)",
+  "dialects": [
+    "Beijing dialect",
+    "Northeastern Mandarin",
+    "Jilu Mandarin",
+    "Jiao-Liao Mandarin",
+    "Zhongyuan Mandarin",
+    "Lanyin Mandarin",
+    "Southwestern Mandarin",
+    "Jianghuai Mandarin"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Mandarin Chinese is the most spoken language in the world by native speakers. It is the official language of China (as Putonghua) and Taiwan (as Guoyu), and one of four official languages of Singapore. Mandarin is a tonal language with four main tones.",
+  "historicalNotes": "Mandarin developed from Middle Chinese during the late Tang dynasty. The term 'Mandarin' derives from the Portuguese 'mandarim', referring to officials of the Chinese empire. Modern Standard Mandarin was established after the fall of the Qing dynasty in 1912, based on the Beijing dialect. Simplified characters were introduced in mainland China in the 1950s.",
+  "relatedLanguages": ["yue", "wuu", "nan", "hak"],
+  "resources": [
+    {
+      "title": "Ethnologue - Mandarin Chinese",
+      "url": "https://www.ethnologue.com/language/cmn/"
+    },
+    {
+      "title": "Glottolog - Mandarin Chinese",
+      "url": "https://glottolog.org/resource/languoid/id/mand1415"
+    }
+  ],
+  "geojson": "zh.geojson"
+}

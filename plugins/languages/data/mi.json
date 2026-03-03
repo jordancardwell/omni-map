@@ -1,0 +1,35 @@
+{
+  "code": "mi",
+  "name": "Maori",
+  "nativeName": "Te Reo Māori",
+  "family": "Austronesian",
+  "branch": "Polynesian",
+  "speakers": {
+    "native": 50000,
+    "total": 185000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["NZ"],
+  "writingSystem": "Latin (Māori alphabet)",
+  "dialects": [
+    "Eastern (Tūhoe)",
+    "Western (Waikato-Maniapoto)",
+    "Northern (Ngāpuhi)",
+    "Southern (Ngāi Tahu)"
+  ],
+  "endangermentStatus": "endangered",
+  "description": "Maori is a Polynesian language spoken by the Māori people, the indigenous population of New Zealand (Aotearoa). It became an official language of New Zealand in 1987 under the Māori Language Act. Maori shares significant lexical and grammatical similarities with other Eastern Polynesian languages, particularly Hawaiian and Tahitian, reflecting a common ancestry in the Polynesian migrations across the Pacific. The language uses a predicate-initial word order and a rich system of particles to mark tense, aspect, and mood.",
+  "historicalNotes": "Māori was brought to New Zealand by Polynesian settlers who arrived from Eastern Polynesia around 1250-1300 CE, making it one of the most recently established Polynesian languages. Prior to European contact, Māori was purely an oral language with a strong tradition of whakapapa (genealogical recitation), waiata (songs), and karakia (incantations). Missionaries developed a written form in the early 19th century, and Māori literacy spread rapidly. However, government policies from the 1860s onward that promoted English-only education led to a severe decline in Māori speakers throughout the 20th century. The Māori language revitalization movement, which accelerated from the 1980s with the establishment of Kōhanga Reo (language nests) and Kura Kaupapa Māori (immersion schools), has been internationally recognized as a model for indigenous language recovery.",
+  "relatedLanguages": ["haw"],
+  "resources": [
+    {
+      "title": "Ethnologue - Maori",
+      "url": "https://www.ethnologue.com/language/mri/"
+    },
+    {
+      "title": "Glottolog - Maori",
+      "url": "https://glottolog.org/resource/languoid/id/maor1246"
+    }
+  ],
+  "geojson": "mi.geojson"
+}

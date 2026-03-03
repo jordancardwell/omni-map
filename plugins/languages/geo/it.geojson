@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "it",
+        "name": "Italian",
+        "region": "Northern Italy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [6.6, 44.1], [7.7, 44.2], [7.6, 45.1], [8.6, 46.1],
+          [10.5, 46.8], [12.0, 47.0], [13.7, 46.5], [13.8, 45.6],
+          [12.4, 45.4], [12.3, 44.2], [11.0, 44.0], [8.5, 44.3],
+          [6.6, 44.1]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "it",
+        "name": "Italian",
+        "region": "Central and Southern Italy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [11.0, 44.0], [12.3, 44.2], [14.0, 42.5], [15.5, 42.0],
+          [16.5, 41.5], [18.5, 40.0], [16.5, 39.0], [15.6, 38.0],
+          [16.2, 37.9], [15.1, 36.7], [12.4, 37.8], [13.0, 38.2],
+          [12.4, 38.2], [11.8, 37.5], [12.5, 38.0], [11.0, 42.4],
+          [11.0, 44.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "it",
+        "name": "Italian",
+        "region": "Sardinia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [8.1, 39.0], [9.6, 39.1], [9.8, 40.9], [9.2, 41.3],
+          [8.2, 41.0], [8.1, 39.0]
+        ]]
+      }
+    }
+  ]
+}

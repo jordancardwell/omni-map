@@ -1,0 +1,37 @@
+{
+  "code": "sv",
+  "name": "Swedish",
+  "nativeName": "Svenska",
+  "family": "Indo-European",
+  "branch": "Germanic",
+  "speakers": {
+    "native": 10000000,
+    "total": 13000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["SE", "FI", "AX"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Central Swedish",
+    "Finland Swedish",
+    "Gotlandic",
+    "South Swedish",
+    "Norrland Swedish",
+    "East Swedish"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Swedish is a North Germanic language and the most widely spoken of the Scandinavian languages. It is the official language of Sweden and one of two official languages of Finland. Swedish is mutually intelligible with Norwegian and, to a lesser extent, Danish. It is known for its melodic intonation and pitch accent system.",
+  "historicalNotes": "Swedish evolved from Old Norse, the common language of the Norse peoples during the Viking Age (8th-11th centuries). Old Swedish emerged as a distinct language around the 12th century. The printing of the Bible in Swedish (Gustav Vasa Bible, 1541) was a landmark in standardizing the language. Modern Swedish spelling was standardized in the early 20th century with a major spelling reform in 1906.",
+  "relatedLanguages": ["no", "da", "is", "de", "en"],
+  "resources": [
+    {
+      "title": "Ethnologue - Swedish",
+      "url": "https://www.ethnologue.com/language/swe/"
+    },
+    {
+      "title": "Glottolog - Swedish",
+      "url": "https://glottolog.org/resource/languoid/id/swed1254"
+    }
+  ],
+  "geojson": "sv.geojson"
+}

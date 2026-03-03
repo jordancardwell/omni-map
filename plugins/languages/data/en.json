@@ -1,0 +1,37 @@
+{
+  "code": "en",
+  "name": "English",
+  "nativeName": "English",
+  "family": "Indo-European",
+  "branch": "Germanic",
+  "speakers": {
+    "native": 380000000,
+    "total": 1500000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["GB", "US", "CA", "AU", "NZ", "IE", "ZA", "IN", "PH", "NG"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "American English",
+    "British English",
+    "Australian English",
+    "Canadian English",
+    "South African English",
+    "Indian English"
+  ],
+  "endangermentStatus": "safe",
+  "description": "English is a West Germanic language that originated in early medieval England. It is the most widely spoken language in the world by total number of speakers, serving as the primary language of international communication, science, technology, and aviation.",
+  "historicalNotes": "English evolved from Anglo-Saxon (Old English) brought to Britain by Germanic settlers in the 5th century. The Norman Conquest of 1066 introduced significant French vocabulary. The Great Vowel Shift (1400-1700) transformed pronunciation. British colonialism spread English worldwide from the 16th century onward.",
+  "relatedLanguages": ["de", "nl", "fy", "da", "sv", "no"],
+  "resources": [
+    {
+      "title": "Ethnologue - English",
+      "url": "https://www.ethnologue.com/language/eng/"
+    },
+    {
+      "title": "Glottolog - English",
+      "url": "https://glottolog.org/resource/languoid/id/stan1293"
+    }
+  ],
+  "geojson": "en.geojson"
+}

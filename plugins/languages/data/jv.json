@@ -1,0 +1,36 @@
+{
+  "code": "jv",
+  "name": "Javanese",
+  "nativeName": "ꦧꦱꦗꦮ (Basa Jawa)",
+  "family": "Austronesian",
+  "branch": "Malayo-Polynesian",
+  "speakers": {
+    "native": 82000000,
+    "total": 98000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ID"],
+  "writingSystem": "Latin / Javanese script (Hanacaraka)",
+  "dialects": [
+    "Central Javanese",
+    "Eastern Javanese",
+    "Western Javanese (Banyumasan)",
+    "Osing",
+    "Tenggerese"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Javanese is an Austronesian language spoken primarily on the island of Java in Indonesia, making it one of the most widely spoken languages in the world by number of native speakers. It is the native language of the Javanese people, the largest ethnic group in Indonesia. Javanese features an elaborate system of speech levels (ngoko, madya, and krama) that encode social relationships and formality, reflecting the deeply hierarchical nature of Javanese culture.",
+  "historicalNotes": "Javanese has one of the longest written traditions in Southeast Asia, with Old Javanese (Kawi) texts dating back to the 9th century CE. The language was historically written in the Javanese script (Hanacaraka), an abugida descended from the Brahmi script of India via the Kawi script. During the Dutch colonial period the Latin alphabet gradually replaced the Javanese script for everyday use, though the traditional script is still taught in schools in Central Java and used for ceremonial and cultural purposes. The Javanese literary tradition includes major works such as the Kakawin Ramayana and numerous adaptations of Indian epics.",
+  "relatedLanguages": ["su", "ms", "id", "tl"],
+  "resources": [
+    {
+      "title": "Ethnologue - Javanese",
+      "url": "https://www.ethnologue.com/language/jav/"
+    },
+    {
+      "title": "Glottolog - Javanese",
+      "url": "https://glottolog.org/resource/languoid/id/java1254"
+    }
+  ],
+  "geojson": "jv.geojson"
+}

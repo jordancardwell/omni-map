@@ -1,0 +1,38 @@
+{
+  "code": "ms",
+  "name": "Malay",
+  "nativeName": "Bahasa Melayu",
+  "family": "Austronesian",
+  "branch": "Malayo-Polynesian",
+  "speakers": {
+    "native": 77000000,
+    "total": 290000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["MY", "SG", "BN", "ID"],
+  "writingSystem": "Latin (Rumi)",
+  "dialects": [
+    "Standard Malay (Bahasa Baku)",
+    "Johor-Riau Malay",
+    "Kedah Malay",
+    "Kelantan Malay",
+    "Terengganu Malay",
+    "Sarawak Malay",
+    "Brunei Malay"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Malay is the official language of Malaysia, Brunei, and Singapore, and is closely related to Indonesian. It has served as a lingua franca across the Malay Archipelago for centuries. Malay is an agglutinative language with a relatively simple phonology and uses Latin script (Rumi), though Jawi (Arabic-based) script is still used in some contexts.",
+  "historicalNotes": "Malay has been a major trade language of Southeast Asia since the Srivijaya empire (7th–13th centuries). The oldest known Malay inscriptions, from the 7th century, were found in Sumatra and written in Pallava script. Malay adopted Arabic script (Jawi) with the spread of Islam in the 13th–14th centuries, and later shifted to Latin script under European colonial influence. The language was standardized as Bahasa Malaysia after Malaysian independence in 1957.",
+  "relatedLanguages": ["id", "tl"],
+  "resources": [
+    {
+      "title": "Ethnologue - Malay",
+      "url": "https://www.ethnologue.com/language/zsm/"
+    },
+    {
+      "title": "Glottolog - Malay",
+      "url": "https://glottolog.org/resource/languoid/id/stan1306"
+    }
+  ],
+  "geojson": "ms.geojson"
+}

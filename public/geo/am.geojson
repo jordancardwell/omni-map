@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "am",
+        "name": "Amharic",
+        "region": "Central Ethiopia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.5, 12.5], [38.0, 13.5], [39.5, 13.8], [40.0, 12.5],
+          [42.0, 11.0], [42.0, 9.0], [40.5, 8.0], [39.0, 7.5],
+          [37.5, 7.5], [36.0, 8.0], [35.5, 9.5], [36.0, 11.0],
+          [36.5, 12.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "am",
+        "name": "Amharic",
+        "region": "Northern Ethiopia (Gondar)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.0, 11.0], [36.5, 12.5], [38.0, 13.5], [38.5, 14.5],
+          [37.5, 14.5], [36.5, 14.0], [35.5, 12.5], [36.0, 11.0]
+        ]]
+      }
+    }
+  ]
+}

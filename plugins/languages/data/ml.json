@@ -1,0 +1,36 @@
+{
+  "code": "ml",
+  "name": "Malayalam",
+  "nativeName": "മലയാളം",
+  "family": "Dravidian",
+  "branch": "Southern Dravidian",
+  "speakers": {
+    "native": 38000000,
+    "total": 40000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IN"],
+  "writingSystem": "Malayalam script",
+  "dialects": [
+    "Malabar",
+    "Central Kerala",
+    "South Kerala",
+    "Kasaragod",
+    "Lakshadweep"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Malayalam is a Southern Dravidian language and the official language of the Indian state of Kerala and the union territory of Lakshadweep. It is closely related to Tamil, having diverged from Proto-Tamil-Malayalam around the 9th century CE. Malayalam has one of the most complex scripts among Indian languages.",
+  "historicalNotes": "Malayalam diverged from Tamil between the 8th and 10th centuries CE, developing its own distinct literary tradition. The earliest known Malayalam inscription dates to approximately 830 CE. The language was heavily influenced by Sanskrit, leading to a Sanskritized literary form called Manipravalam. Malayalam was designated a classical language of India in 2013. Kerala's near-universal literacy rate has contributed to a vibrant literary culture.",
+  "relatedLanguages": ["ta", "kn", "te"],
+  "resources": [
+    {
+      "title": "Ethnologue - Malayalam",
+      "url": "https://www.ethnologue.com/language/mal/"
+    },
+    {
+      "title": "Glottolog - Malayalam",
+      "url": "https://glottolog.org/resource/languoid/id/mala1464"
+    }
+  ],
+  "geojson": "ml.geojson"
+}

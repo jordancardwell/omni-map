@@ -1,0 +1,38 @@
+{
+  "code": "bn",
+  "name": "Bengali",
+  "nativeName": "বাংলা",
+  "family": "Indo-European",
+  "branch": "Indo-Aryan",
+  "speakers": {
+    "native": 234000000,
+    "total": 273000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["BD", "IN"],
+  "writingSystem": "Bengali-Assamese",
+  "dialects": [
+    "Rarhi",
+    "Varendra",
+    "Sundarbani",
+    "Chittagonian",
+    "Sylheti",
+    "Rangpuri",
+    "Dhaka Bengali"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Bengali is an Indo-Aryan language spoken primarily in Bangladesh and the Indian states of West Bengal, Tripura, and Assam. It is the fifth most spoken native language in the world and the official language of Bangladesh. Bengali has a rich literary tradition and its own script derived from ancient Brahmi.",
+  "historicalNotes": "Bengali evolved from Magadhi Prakrit and Pali through the intermediate stage of Apabhramsha. The Charyapada, composed between the 8th and 12th centuries, are the earliest known Bengali literary works. Rabindranath Tagore, writing in Bengali, became the first non-European Nobel laureate in Literature (1913). The Bengali Language Movement of 1952 in East Pakistan (now Bangladesh) led to Bengali becoming an official language and is commemorated as International Mother Language Day.",
+  "relatedLanguages": ["hi", "as", "or", "pa"],
+  "resources": [
+    {
+      "title": "Ethnologue - Bengali",
+      "url": "https://www.ethnologue.com/language/ben/"
+    },
+    {
+      "title": "Glottolog - Bengali",
+      "url": "https://glottolog.org/resource/languoid/id/beng1280"
+    }
+  ],
+  "geojson": "bn.geojson"
+}

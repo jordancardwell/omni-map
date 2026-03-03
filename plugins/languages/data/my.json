@@ -1,0 +1,37 @@
+{
+  "code": "my",
+  "name": "Burmese",
+  "nativeName": "မြန်မာစာ",
+  "family": "Sino-Tibetan",
+  "branch": "Tibeto-Burman",
+  "speakers": {
+    "native": 33000000,
+    "total": 43000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["MM"],
+  "writingSystem": "Myanmar (Burmese)",
+  "dialects": [
+    "Standard Burmese (Mandalay-Yangon)",
+    "Arakanese (Rakhine)",
+    "Intha",
+    "Tavoyan",
+    "Yaw",
+    "Merguese"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Burmese is the official language of Myanmar (Burma). It is the most widely spoken Tibeto-Burman language. Burmese is a tonal language with three tones and uses a distinctive rounded script derived from the Mon script. It is the first language of the Bamar people and a lingua franca among Myanmar's diverse ethnic groups.",
+  "historicalNotes": "The earliest known Burmese inscription is the Myazedi inscription from 1113 CE. The Burmese script evolved from the Mon script, which itself derives from an Indian Brahmi script. The rounded shapes of Burmese letters are believed to have developed because the original writing medium was palm leaves, which would tear with straight lines. Burmese literature flourished during the Bagan period (9th–13th centuries).",
+  "relatedLanguages": ["bo", "lus"],
+  "resources": [
+    {
+      "title": "Ethnologue - Burmese",
+      "url": "https://www.ethnologue.com/language/mya/"
+    },
+    {
+      "title": "Glottolog - Burmese",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1310"
+    }
+  ],
+  "geojson": "my.geojson"
+}

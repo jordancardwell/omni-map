@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "yue",
+        "name": "Cantonese",
+        "region": "Guangdong"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [109.5, 21.5], [110.0, 20.5], [111.5, 20.5], [113.0, 22.0],
+          [114.5, 22.5], [116.0, 23.5], [117.0, 23.5], [116.5, 25.0],
+          [115.0, 25.5], [113.5, 25.0], [112.0, 24.5], [111.0, 24.0],
+          [110.0, 23.5], [109.5, 22.5], [109.5, 21.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "yue",
+        "name": "Cantonese",
+        "region": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [113.8, 22.2], [114.0, 22.1], [114.4, 22.3],
+          [114.3, 22.5], [114.0, 22.5], [113.8, 22.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "yue",
+        "name": "Cantonese",
+        "region": "Guangxi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [107.5, 22.0], [108.0, 21.5], [109.0, 21.5],
+          [109.5, 22.5], [109.0, 23.5], [108.0, 24.0],
+          [107.0, 23.5], [107.5, 22.0]
+        ]]
+      }
+    }
+  ]
+}

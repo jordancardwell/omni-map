@@ -1,0 +1,36 @@
+{
+  "code": "uz",
+  "name": "Uzbek",
+  "nativeName": "Oʻzbek tili",
+  "family": "Turkic",
+  "branch": "Karluk",
+  "speakers": {
+    "native": 35000000,
+    "total": 40000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["UZ", "AF", "TJ", "KG", "KZ"],
+  "writingSystem": "Latin (Uzbekistan) / Arabic (Afghanistan)",
+  "dialects": [
+    "Northern Uzbek",
+    "Southern Uzbek",
+    "Tashkent",
+    "Ferghana",
+    "Khorezm"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Uzbek is a Karluk Turkic language and the official language of Uzbekistan. It is the most widely spoken Turkic language in Central Asia and differs from most other Turkic languages in having lost vowel harmony. Uzbek serves as a lingua franca in parts of Central Asia.",
+  "historicalNotes": "Uzbek descends from Chagatai, the literary Turkic language of Central Asia that flourished under Timurid rule (14th-16th centuries). The great poet Alisher Navoi (1441-1501) is considered the founder of Uzbek literary tradition. The script changed from Arabic to Latin in 1928, to Cyrillic in 1940 under Soviet rule, and back to Latin after independence in 1991, though the Latin transition is still ongoing.",
+  "relatedLanguages": ["tr", "az", "kk"],
+  "resources": [
+    {
+      "title": "Ethnologue - Uzbek",
+      "url": "https://www.ethnologue.com/language/uzn/"
+    },
+    {
+      "title": "Glottolog - Uzbek",
+      "url": "https://glottolog.org/resource/languoid/id/uzbe1247"
+    }
+  ],
+  "geojson": "uz.geojson"
+}

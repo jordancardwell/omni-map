@@ -1,0 +1,36 @@
+{
+  "code": "kn",
+  "name": "Kannada",
+  "nativeName": "ಕನ್ನಡ",
+  "family": "Dravidian",
+  "branch": "Southern Dravidian",
+  "speakers": {
+    "native": 44000000,
+    "total": 59000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IN"],
+  "writingSystem": "Kannada script",
+  "dialects": [
+    "Mysore-Bangalore",
+    "Dharwad",
+    "Mangalore",
+    "Gulbarga",
+    "Havyaka"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Kannada is a Southern Dravidian language and the official language of the Indian state of Karnataka. It has a rich literary heritage and is one of the oldest Dravidian languages with a written tradition. The Kannada script is closely related to the Telugu script, both deriving from the Kadamba script.",
+  "historicalNotes": "Kannada has one of the oldest Dravidian literary traditions, with the Halmidi inscription (450 CE) being the earliest known Kannada-language stone inscription. The Kavirajamarga (850 CE) is the earliest extant work on Kannada grammar and poetics. Kannada was designated a classical language of India in 2008. The language has produced notable literary figures, including eight Jnanpith Award winners — more than any other Dravidian language.",
+  "relatedLanguages": ["ta", "te", "ml"],
+  "resources": [
+    {
+      "title": "Ethnologue - Kannada",
+      "url": "https://www.ethnologue.com/language/kan/"
+    },
+    {
+      "title": "Glottolog - Kannada",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1305"
+    }
+  ],
+  "geojson": "kn.geojson"
+}

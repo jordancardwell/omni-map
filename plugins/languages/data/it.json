@@ -1,0 +1,38 @@
+{
+  "code": "it",
+  "name": "Italian",
+  "nativeName": "Italiano",
+  "family": "Indo-European",
+  "branch": "Romance",
+  "speakers": {
+    "native": 67000000,
+    "total": 85000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IT", "CH", "SM", "VA", "HR", "SI"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Tuscan",
+    "Neapolitan",
+    "Sicilian",
+    "Venetian",
+    "Lombard",
+    "Piedmontese",
+    "Ligurian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Italian is a Romance language of the Indo-European family. It is the official language of Italy, Switzerland (Ticino and Grisons), San Marino, and Vatican City. Italian evolved from the Tuscan dialect and is known for its role in art, music, cuisine, and fashion, with many Italian terms adopted internationally in these fields.",
+  "historicalNotes": "Italian developed from Vulgar Latin, with the Tuscan dialect becoming the literary standard through the works of Dante Alighieri, Petrarch, and Boccaccio in the 13th-14th centuries. Dante's 'Divine Comedy' (1320) is often credited with establishing the foundation of literary Italian. Italian unification in 1861 promoted Tuscan-based standard Italian as the national language, though regional languages remain widely spoken.",
+  "relatedLanguages": ["es", "fr", "pt", "ro", "ca"],
+  "resources": [
+    {
+      "title": "Ethnologue - Italian",
+      "url": "https://www.ethnologue.com/language/ita/"
+    },
+    {
+      "title": "Glottolog - Italian",
+      "url": "https://glottolog.org/resource/languoid/id/ital1282"
+    }
+  ],
+  "geojson": "it.geojson"
+}

@@ -1,0 +1,38 @@
+{
+  "code": "es",
+  "name": "Spanish",
+  "nativeName": "Español",
+  "family": "Indo-European",
+  "branch": "Romance",
+  "speakers": {
+    "native": 475000000,
+    "total": 560000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ES", "MX", "CO", "AR", "PE", "VE", "CL", "EC", "GT", "CU", "BO", "DO", "HN", "PY", "SV", "NI", "CR", "PA", "UY", "PR", "US"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Castilian",
+    "Andalusian",
+    "Mexican Spanish",
+    "Rioplatense",
+    "Caribbean Spanish",
+    "Andean Spanish",
+    "Central American Spanish"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Spanish is a Romance language originating from the Iberian Peninsula. It is the official or national language of 20 countries and the second most spoken native language in the world. Spanish is also the third most used language on the internet.",
+  "historicalNotes": "Spanish evolved from Vulgar Latin on the Iberian Peninsula after the fall of the Roman Empire. The Reconquista (718-1492) spread Castilian Spanish southward. The colonization of the Americas beginning in 1492 brought Spanish to the New World. The Royal Spanish Academy (Real Academia Española) was founded in 1713 to standardize the language.",
+  "relatedLanguages": ["pt", "fr", "it", "ca", "gl", "ro"],
+  "resources": [
+    {
+      "title": "Ethnologue - Spanish",
+      "url": "https://www.ethnologue.com/language/spa/"
+    },
+    {
+      "title": "Glottolog - Spanish",
+      "url": "https://glottolog.org/resource/languoid/id/stan1288"
+    }
+  ],
+  "geojson": "es.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "lo",
+  "name": "Lao",
+  "nativeName": "ພາສາລາວ",
+  "family": "Kra-Dai",
+  "branch": "Tai",
+  "speakers": {
+    "native": 3500000,
+    "total": 30000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["LA", "TH"],
+  "writingSystem": "Lao",
+  "dialects": [
+    "Vientiane Lao",
+    "Northern Lao",
+    "Northeastern Lao",
+    "Central Lao",
+    "Southern Lao",
+    "Western Lao"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Lao is the official language of Laos. It is closely related to Thai and the two languages are mutually intelligible to a significant degree. Lao is a tonal language with six tones and uses its own script derived from the Khmer script. The Isan dialect of northeastern Thailand is essentially Lao spoken in Thailand.",
+  "historicalNotes": "Lao developed from the Tai languages as the Tai peoples migrated from southern China into the Mekong valley. The Lao script evolved from the ancient Khmer script via the Fak Kham script of the Lan Xang kingdom. Unlike Thai, Lao script was simplified after the communist Pathet Lao came to power in 1975, removing some consonant classes and vowel symbols. The language has significant Buddhist Pali and Sanskrit vocabulary from centuries of Theravada Buddhist influence.",
+  "relatedLanguages": ["th"],
+  "resources": [
+    {
+      "title": "Ethnologue - Lao",
+      "url": "https://www.ethnologue.com/language/lao/"
+    },
+    {
+      "title": "Glottolog - Lao",
+      "url": "https://glottolog.org/resource/languoid/id/laoo1244"
+    }
+  ],
+  "geojson": "lo.geojson"
+}

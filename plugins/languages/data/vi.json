@@ -1,0 +1,35 @@
+{
+  "code": "vi",
+  "name": "Vietnamese",
+  "nativeName": "Tiếng Việt",
+  "family": "Austroasiatic",
+  "branch": "Vietic",
+  "speakers": {
+    "native": 85000000,
+    "total": 86000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["VN"],
+  "writingSystem": "Latin (Vietnamese alphabet)",
+  "dialects": [
+    "Northern Vietnamese (Hanoi)",
+    "Central Vietnamese (Hue)",
+    "Southern Vietnamese (Saigon)",
+    "North-Central Vietnamese"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Vietnamese is the official language of Vietnam and the most spoken Austroasiatic language. It is a tonal language with six tones in the standard northern dialect. Vietnamese uses the Latin-based Vietnamese alphabet (Quoc Ngu) with extensive diacritics to mark tones and modified vowels.",
+  "historicalNotes": "Vietnamese was historically written in Chinese characters (chu Han) and a locally developed character system called chu Nom. The Romanized script Quoc Ngu was developed by Portuguese and French missionaries in the 17th century, notably Alexandre de Rhodes. It became the official writing system under French colonial rule and was universally adopted after independence. Vietnamese has borrowed extensively from Chinese, which comprises a large portion of its vocabulary.",
+  "relatedLanguages": ["km"],
+  "resources": [
+    {
+      "title": "Ethnologue - Vietnamese",
+      "url": "https://www.ethnologue.com/language/vie/"
+    },
+    {
+      "title": "Glottolog - Vietnamese",
+      "url": "https://glottolog.org/resource/languoid/id/viet1252"
+    }
+  ],
+  "geojson": "vi.geojson"
+}

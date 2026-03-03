@@ -1,0 +1,36 @@
+{
+  "code": "az",
+  "name": "Azerbaijani",
+  "nativeName": "Azərbaycan dili",
+  "family": "Turkic",
+  "branch": "Oghuz",
+  "speakers": {
+    "native": 24000000,
+    "total": 33000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["AZ", "IR", "GE", "TR", "RU"],
+  "writingSystem": "Latin (Azerbaijan) / Arabic (Iran)",
+  "dialects": [
+    "North Azerbaijani",
+    "South Azerbaijani",
+    "Shirvan",
+    "Quba",
+    "Karabakh"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Azerbaijani is an Oghuz Turkic language closely related to Turkish. It is the official language of Azerbaijan and is widely spoken in northwestern Iran, where South Azerbaijani speakers may outnumber those in Azerbaijan itself. The language is mutually intelligible with Turkish to a significant degree.",
+  "historicalNotes": "Azerbaijani literature dates to the 13th century, with the poet Nasimi being one of the earliest prominent Azerbaijani-language writers. The language was written in Arabic script until the Soviet period, when it was briefly switched to Latin (1929), then to Cyrillic (1939). After independence in 1991, Azerbaijan re-adopted the Latin script. South Azerbaijani in Iran continues to use the Arabic script.",
+  "relatedLanguages": ["tr", "uz", "kk"],
+  "resources": [
+    {
+      "title": "Ethnologue - Azerbaijani",
+      "url": "https://www.ethnologue.com/language/azj/"
+    },
+    {
+      "title": "Glottolog - Azerbaijani",
+      "url": "https://glottolog.org/resource/languoid/id/nort2697"
+    }
+  ],
+  "geojson": "az.geojson"
+}

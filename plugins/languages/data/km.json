@@ -1,0 +1,36 @@
+{
+  "code": "km",
+  "name": "Khmer",
+  "nativeName": "ភាសាខ្មែរ",
+  "family": "Austroasiatic",
+  "branch": "Khmeric",
+  "speakers": {
+    "native": 16000000,
+    "total": 18000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["KH", "VN", "TH"],
+  "writingSystem": "Khmer",
+  "dialects": [
+    "Standard Khmer (Phnom Penh)",
+    "Northern Khmer",
+    "Western Khmer (Cardamom)",
+    "Southern Khmer",
+    "Khmer Krom"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Khmer is the official language of Cambodia and the most widely spoken Austroasiatic language after Vietnamese. Unlike most mainland Southeast Asian languages, Khmer is not tonal. The Khmer script is an abugida derived from Indian Brahmi and is one of the oldest scripts still in use in Southeast Asia.",
+  "historicalNotes": "Khmer has the oldest attested written record of any mainland Southeast Asian language, with inscriptions dating to the 7th century CE. The Khmer Empire (802–1431) at Angkor produced extensive inscriptions in both Sanskrit and Khmer. The Khmer alphabet holds a Guinness World Record as the largest alphabet. The language suffered during the Khmer Rouge era (1975–1979) when many educated speakers were killed, but has since recovered.",
+  "relatedLanguages": ["vi"],
+  "resources": [
+    {
+      "title": "Ethnologue - Khmer",
+      "url": "https://www.ethnologue.com/language/khm/"
+    },
+    {
+      "title": "Glottolog - Khmer",
+      "url": "https://glottolog.org/resource/languoid/id/cent1989"
+    }
+  ],
+  "geojson": "km.geojson"
+}

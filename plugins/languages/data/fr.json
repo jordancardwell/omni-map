@@ -1,0 +1,38 @@
+{
+  "code": "fr",
+  "name": "French",
+  "nativeName": "Français",
+  "family": "Indo-European",
+  "branch": "Romance",
+  "speakers": {
+    "native": 80000000,
+    "total": 310000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["FR", "BE", "CH", "CA", "SN", "CI", "CD", "CM", "MG", "ML", "NE", "BF", "HT", "LU", "MC"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Parisian French",
+    "Québécois",
+    "Belgian French",
+    "Swiss French",
+    "African French",
+    "Acadian French",
+    "Cajun French"
+  ],
+  "endangermentStatus": "safe",
+  "description": "French is a Romance language of the Indo-European family. It is the official language of 29 countries across multiple continents and one of six official languages of the United Nations. French serves as a major language of international diplomacy, culture, and commerce.",
+  "historicalNotes": "French evolved from the Vulgar Latin of the Roman Empire, particularly the Gallo-Romance dialects of northern France. The Ordinance of Villers-Cotterêts (1539) established French as the official administrative language. The Académie française, founded in 1635, has regulated the language since. French colonialism spread the language across Africa, the Caribbean, and Southeast Asia from the 17th century onward.",
+  "relatedLanguages": ["es", "it", "pt", "ro", "ca"],
+  "resources": [
+    {
+      "title": "Ethnologue - French",
+      "url": "https://www.ethnologue.com/language/fra/"
+    },
+    {
+      "title": "Glottolog - French",
+      "url": "https://glottolog.org/resource/languoid/id/stan1290"
+    }
+  ],
+  "geojson": "fr.geojson"
+}

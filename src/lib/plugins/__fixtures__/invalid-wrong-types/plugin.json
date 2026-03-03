@@ -1,0 +1,10 @@
+{
+  "id": "wrong-types",
+  "name": "Wrong Types Plugin",
+  "description": "Has wrong field types",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "star",
+  "defaultColor": "#000000",
+  "categories": "not-an-array"
+}

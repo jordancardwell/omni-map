@@ -1,0 +1,37 @@
+{
+  "code": "id",
+  "name": "Indonesian",
+  "nativeName": "Bahasa Indonesia",
+  "family": "Austronesian",
+  "branch": "Malayo-Polynesian",
+  "speakers": {
+    "native": 43600000,
+    "total": 199000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ID"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Standard Indonesian",
+    "Jakartan Indonesian",
+    "Sumatran Indonesian",
+    "Sulawesi Indonesian",
+    "Kalimantan Indonesian",
+    "Papuan Indonesian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Indonesian (Bahasa Indonesia) is the official language of Indonesia, the world's fourth most populous country. Based on a standardized form of Malay, Indonesian serves as a unifying lingua franca for a nation of over 700 living languages. It is one of the most widely spoken languages in the world and is notable for its relatively simple grammar and lack of tones.",
+  "historicalNotes": "Indonesian was proclaimed the language of national unity in the 1928 Youth Pledge during the Indonesian independence movement. It was chosen over Javanese (the most widely spoken local language) because Malay had long served as the region's trade lingua franca and was not associated with the dominant Javanese ethnic group. Upon independence in 1945, it became the official language. Indonesian spelling was reformed in 1947 (Soewandi) and again in 1972 (Enhanced Spelling System) to align more closely with Malaysian Malay.",
+  "relatedLanguages": ["ms", "tl"],
+  "resources": [
+    {
+      "title": "Ethnologue - Indonesian",
+      "url": "https://www.ethnologue.com/language/ind/"
+    },
+    {
+      "title": "Glottolog - Indonesian",
+      "url": "https://glottolog.org/resource/languoid/id/indo1316"
+    }
+  ],
+  "geojson": "id.geojson"
+}

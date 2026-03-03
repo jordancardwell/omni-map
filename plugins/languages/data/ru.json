@@ -1,0 +1,36 @@
+{
+  "code": "ru",
+  "name": "Russian",
+  "nativeName": "Русский",
+  "family": "Indo-European",
+  "branch": "Balto-Slavic",
+  "speakers": {
+    "native": 150000000,
+    "total": 258000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["RU", "BY", "KZ", "KG", "UA", "LV", "EE", "LT", "MD", "UZ"],
+  "writingSystem": "Cyrillic",
+  "dialects": [
+    "Northern Russian",
+    "Southern Russian",
+    "Central Russian",
+    "Moscow dialect",
+    "St. Petersburg dialect"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Russian is an East Slavic language and the most widely spoken Slavic language. It is the official language of Russia, Belarus, Kazakhstan, and Kyrgyzstan. Russian serves as one of the six official languages of the United Nations and is a lingua franca across much of Central Asia and Eastern Europe.",
+  "historicalNotes": "Russian descends from Old East Slavic, the common language of Kievan Rus'. The modern literary language emerged in the 18th century with the reforms of Mikhail Lomonosov. Alexander Pushkin is widely credited with establishing the foundation of modern Russian literature. The Bolshevik Revolution of 1917 led to spelling reforms that simplified the orthography. Soviet-era policies spread Russian across Central Asia and Eastern Europe.",
+  "relatedLanguages": ["uk", "be", "pl", "cs", "bg"],
+  "resources": [
+    {
+      "title": "Ethnologue - Russian",
+      "url": "https://www.ethnologue.com/language/rus/"
+    },
+    {
+      "title": "Glottolog - Russian",
+      "url": "https://glottolog.org/resource/languoid/id/russ1263"
+    }
+  ],
+  "geojson": "ru.geojson"
+}

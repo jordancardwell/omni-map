@@ -1,0 +1,36 @@
+{
+  "code": "tr",
+  "name": "Turkish",
+  "nativeName": "Türkçe",
+  "family": "Turkic",
+  "branch": "Oghuz",
+  "speakers": {
+    "native": 82000000,
+    "total": 88000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["TR", "CY", "BG", "GR", "DE"],
+  "writingSystem": "Latin (Turkish alphabet)",
+  "dialects": [
+    "Istanbul Turkish (Standard)",
+    "Rumelian",
+    "Anatolian",
+    "Cyprus Turkish",
+    "Meskhetian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Turkish is an Oghuz Turkic language and the most widely spoken Turkic language. It is the official language of Turkey and Northern Cyprus and a co-official language of Cyprus. Turkish is an agglutinative language with vowel harmony and a subject-object-verb word order.",
+  "historicalNotes": "Turkish descends from Old Turkic and evolved through the Seljuk and Ottoman periods. Ottoman Turkish was heavily influenced by Arabic and Persian and written in the Arabic script. In 1928, Mustafa Kemal Atatürk introduced a sweeping language reform, replacing the Arabic script with a modified Latin alphabet and purging many Arabic and Persian loanwords. This reform dramatically increased literacy rates across Turkey.",
+  "relatedLanguages": ["az", "uz", "kk"],
+  "resources": [
+    {
+      "title": "Ethnologue - Turkish",
+      "url": "https://www.ethnologue.com/language/tur/"
+    },
+    {
+      "title": "Glottolog - Turkish",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1301"
+    }
+  ],
+  "geojson": "tr.geojson"
+}

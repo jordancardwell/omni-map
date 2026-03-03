@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "tl",
+        "name": "Tagalog",
+        "region": "Luzon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [119.5, 14.5], [120.0, 16.0], [120.5, 18.0], [121.0, 18.5],
+          [122.0, 18.5], [122.5, 17.0], [122.0, 16.0], [121.5, 14.5],
+          [121.0, 13.5], [120.5, 13.5], [120.0, 14.0], [119.5, 14.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "tl",
+        "name": "Tagalog",
+        "region": "Visayas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [122.0, 10.0], [122.5, 10.5], [123.0, 11.5], [124.0, 11.5],
+          [124.5, 11.0], [124.5, 10.0], [124.0, 9.5], [123.0, 9.5],
+          [122.0, 10.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "tl",
+        "name": "Tagalog",
+        "region": "Mindanao"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [123.5, 9.0], [124.0, 9.5], [125.0, 9.5], [126.0, 9.0],
+          [126.5, 8.0], [126.5, 7.0], [125.5, 6.0], [124.5, 6.5],
+          [123.5, 7.5], [123.0, 8.0], [123.5, 9.0]
+        ]]
+      }
+    }
+  ]
+}

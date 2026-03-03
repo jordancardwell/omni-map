@@ -1,0 +1,10 @@
+{
+  "id": "languages",
+  "name": "World Languages",
+  "description": "Geographic regions of world languages",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#4A90D9",
+  "categories": ["linguistics", "culture"]
+}

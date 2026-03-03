@@ -1,0 +1,36 @@
+{
+  "code": "he",
+  "name": "Hebrew",
+  "nativeName": "עברית",
+  "family": "Afro-Asiatic",
+  "branch": "Semitic",
+  "speakers": {
+    "native": 9000000,
+    "total": 10000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IL", "PS"],
+  "writingSystem": "Hebrew script",
+  "dialects": [
+    "Modern Hebrew (Ivrit)",
+    "Sephardi Hebrew",
+    "Ashkenazi Hebrew",
+    "Mizrahi Hebrew",
+    "Yemenite Hebrew"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Hebrew is a Northwest Semitic language and the official language of Israel. It is the only successfully revived dead language in history, having been revived as a spoken language in the late 19th and early 20th centuries after centuries of use primarily as a liturgical and literary language.",
+  "historicalNotes": "Biblical Hebrew dates back to the 10th century BCE and was the language of the Hebrew Bible. After the Bar Kokhba revolt (135 CE), Hebrew ceased to be an everyday spoken language but continued as a literary and liturgical language. Eliezer Ben-Yehuda spearheaded the revival of Hebrew as a modern spoken language in the 1880s, and it became an official language of British Mandate Palestine in 1921.",
+  "relatedLanguages": ["ar", "am"],
+  "resources": [
+    {
+      "title": "Ethnologue - Hebrew",
+      "url": "https://www.ethnologue.com/language/heb/"
+    },
+    {
+      "title": "Glottolog - Hebrew",
+      "url": "https://glottolog.org/resource/languoid/id/hebr1245"
+    }
+  ],
+  "geojson": "he.geojson"
+}

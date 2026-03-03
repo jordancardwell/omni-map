@@ -1,0 +1,37 @@
+{
+  "code": "el",
+  "name": "Greek",
+  "nativeName": "Ελληνικά",
+  "family": "Indo-European",
+  "branch": "Hellenic",
+  "speakers": {
+    "native": 13500000,
+    "total": 13500000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["GR", "CY", "AL", "TR", "IT"],
+  "writingSystem": "Greek",
+  "dialects": [
+    "Demotic Greek",
+    "Pontic Greek",
+    "Cappadocian Greek",
+    "Cretan Greek",
+    "Cypriot Greek",
+    "Tsakonian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Greek is an independent branch of the Indo-European family and the official language of Greece and Cyprus. It has the longest documented history of any living Indo-European language, spanning over 3,400 years. The Greek alphabet, developed around 800 BCE, was the first to include vowels and is the ancestor of the Latin and Cyrillic scripts.",
+  "historicalNotes": "Greek has been spoken in the Balkans since at least the 3rd millennium BCE. Ancient Greek produced foundational works of Western literature, philosophy, and science. The Koine Greek of the Hellenistic period became the lingua franca of the eastern Mediterranean and the language of the New Testament. Modern Greek emerged gradually from Medieval Greek, and the Greek language question (Katharevousa vs. Demotic) was resolved in 1976 when Demotic was made the official standard.",
+  "relatedLanguages": [],
+  "resources": [
+    {
+      "title": "Ethnologue - Greek",
+      "url": "https://www.ethnologue.com/language/ell/"
+    },
+    {
+      "title": "Glottolog - Greek",
+      "url": "https://glottolog.org/resource/languoid/id/mode1248"
+    }
+  ],
+  "geojson": "el.geojson"
+}

@@ -1,0 +1,38 @@
+{
+  "code": "pa",
+  "name": "Punjabi",
+  "nativeName": "ਪੰਜਾਬੀ",
+  "family": "Indo-European",
+  "branch": "Indo-Aryan",
+  "speakers": {
+    "native": 113000000,
+    "total": 150000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["PK", "IN", "GB", "CA", "US", "AE", "AU"],
+  "writingSystem": "Gurmukhi / Shahmukhi",
+  "dialects": [
+    "Majhi",
+    "Doabi",
+    "Malwai",
+    "Pwadhi",
+    "Pothohari",
+    "Multani",
+    "Jhangochi"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Punjabi is an Indo-Aryan language spoken primarily in the Punjab regions of Pakistan and India. It is the most spoken language in Pakistan by native speakers and the eleventh most spoken language in India. Punjabi is unique among Indo-Aryan languages for its tonal system, having three distinct tones that affect meaning.",
+  "historicalNotes": "Punjabi evolved from Shauraseni Prakrit through the Apabhramsha stage. The earliest Punjabi literature dates to the writings of the Sufi poet Fariduddin Ganjshakar in the 12th century. Guru Angad developed the Gurmukhi script in the 16th century for writing Sikh scriptures. The partition of Punjab in 1947 divided the language between India (using Gurmukhi script) and Pakistan (using Shahmukhi, a Perso-Arabic script).",
+  "relatedLanguages": ["hi", "ur", "gu", "sd", "bn"],
+  "resources": [
+    {
+      "title": "Ethnologue - Punjabi",
+      "url": "https://www.ethnologue.com/language/pan/"
+    },
+    {
+      "title": "Glottolog - Punjabi",
+      "url": "https://glottolog.org/resource/languoid/id/panj1256"
+    }
+  ],
+  "geojson": "pa.geojson"
+}

@@ -1,0 +1,39 @@
+{
+  "code": "hu",
+  "name": "Hungarian",
+  "nativeName": "Magyar",
+  "family": "Uralic",
+  "branch": "Ugric",
+  "speakers": {
+    "native": 13000000,
+    "total": 14500000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["HU", "RO", "SK", "RS", "UA", "AT", "SI", "HR"],
+  "writingSystem": "Latin (Hungarian alphabet)",
+  "dialects": [
+    "Central Transdanubian",
+    "Southern",
+    "Western Transdanubian",
+    "Palóc",
+    "Northeastern",
+    "Transylvanian",
+    "Székely",
+    "Csángó"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Hungarian is a Uralic language and the only major language in the Ugric branch, making it a linguistic island in Central Europe surrounded by Indo-European languages. It is the official language of Hungary and a recognized minority language in several neighboring countries. Hungarian is notable for its agglutinative morphology, vowel harmony, and extensive case system with 18 grammatical cases.",
+  "historicalNotes": "The Hungarian people migrated from the Ural Mountains region to the Carpathian Basin around 895 AD. The earliest known Hungarian text is the Funeral Sermon and Prayer (Halotti Beszéd és Könyörgés) from around 1192. The Hungarian language reform movement (nyelvújítás) of the 18th-19th centuries modernized the vocabulary, creating thousands of new words. Despite centuries of Latin, German, and Ottoman Turkish influence, Hungarian maintained its Uralic character and remains one of the few non-Indo-European languages in Europe.",
+  "relatedLanguages": ["fi"],
+  "resources": [
+    {
+      "title": "Ethnologue - Hungarian",
+      "url": "https://www.ethnologue.com/language/hun/"
+    },
+    {
+      "title": "Glottolog - Hungarian",
+      "url": "https://glottolog.org/resource/languoid/id/hung1274"
+    }
+  ],
+  "geojson": "hu.geojson"
+}

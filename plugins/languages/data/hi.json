@@ -1,0 +1,39 @@
+{
+  "code": "hi",
+  "name": "Hindi",
+  "nativeName": "हिन्दी",
+  "family": "Indo-European",
+  "branch": "Indo-Aryan",
+  "speakers": {
+    "native": 345000000,
+    "total": 610000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IN", "NP", "FJ", "MU", "TT", "GY", "SR"],
+  "writingSystem": "Devanagari",
+  "dialects": [
+    "Khariboli",
+    "Braj Bhasha",
+    "Awadhi",
+    "Chhattisgarhi",
+    "Marwari",
+    "Bhojpuri",
+    "Bundeli",
+    "Kannauji"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Hindi is an Indo-Aryan language spoken mainly in northern, central, eastern, and western India. It is the official language of the Government of India, alongside English. Hindi and Urdu are mutually intelligible as spoken languages, together forming Hindustani.",
+  "historicalNotes": "Hindi descends from Shauraseni Prakrit through the medieval Apabhramsha languages. Modern Hindi emerged in the 19th century, adopting the Devanagari script and drawing vocabulary from Sanskrit (as opposed to Urdu, which draws from Persian and Arabic). After Indian independence in 1947, Hindi in Devanagari was declared the official language. The language has been significantly influenced by Persian, Arabic, Portuguese, and English.",
+  "relatedLanguages": ["ur", "bn", "pa", "gu", "mr", "ne"],
+  "resources": [
+    {
+      "title": "Ethnologue - Hindi",
+      "url": "https://www.ethnologue.com/language/hin/"
+    },
+    {
+      "title": "Glottolog - Hindi",
+      "url": "https://glottolog.org/resource/languoid/id/hind1269"
+    }
+  ],
+  "geojson": "hi.geojson"
+}

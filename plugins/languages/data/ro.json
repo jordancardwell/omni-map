@@ -1,0 +1,37 @@
+{
+  "code": "ro",
+  "name": "Romanian",
+  "nativeName": "Română",
+  "family": "Indo-European",
+  "branch": "Romance",
+  "speakers": {
+    "native": 24000000,
+    "total": 28000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["RO", "MD", "RS", "UA", "HU"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Daco-Romanian",
+    "Moldovan",
+    "Transylvanian",
+    "Banat",
+    "Oltenian",
+    "Muntenian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Romanian is an Eastern Romance language and the official language of Romania and Moldova. It is the only Romance language that developed in the eastern part of Latin Europe and retains notable Slavic, Greek, and Turkish influences. Romanian preserves features of Latin grammar that were lost in other Romance languages.",
+  "historicalNotes": "Romanian descends from Vulgar Latin spoken in the Roman province of Dacia (conquered 106 CE). After the Roman withdrawal in 271 CE, the language evolved in relative isolation from other Romance languages. The earliest known Romanian text, Neacșu's Letter, dates to 1521. Romanian switched from the Cyrillic to the Latin script in the mid-19th century. Moldova used Cyrillic until 1989 and officially readopted the Latin script after independence.",
+  "relatedLanguages": ["it", "fr", "es", "pt", "ca"],
+  "resources": [
+    {
+      "title": "Ethnologue - Romanian",
+      "url": "https://www.ethnologue.com/language/ron/"
+    },
+    {
+      "title": "Glottolog - Romanian",
+      "url": "https://glottolog.org/resource/languoid/id/roma1327"
+    }
+  ],
+  "geojson": "ro.geojson"
+}

@@ -1,0 +1,39 @@
+{
+  "code": "ko",
+  "name": "Korean",
+  "nativeName": "한국어",
+  "family": "Koreanic",
+  "branch": "Korean",
+  "speakers": {
+    "native": 81700000,
+    "total": 82000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["KR", "KP", "CN"],
+  "writingSystem": "Hangul",
+  "dialects": [
+    "Seoul dialect",
+    "Gyeongsang dialect",
+    "Jeolla dialect",
+    "Chungcheong dialect",
+    "Gangwon dialect",
+    "Jeju dialect",
+    "Pyongan dialect",
+    "Hamgyong dialect"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Korean is the official language of both South Korea and North Korea. It is written in Hangul, a featural alphabet invented in 1443 by King Sejong the Great. Korean is a language isolate within the Koreanic family, with no widely accepted genetic relationship to other language families.",
+  "historicalNotes": "Before the invention of Hangul in 1443, Korean was written using Classical Chinese characters (hanja). King Sejong the Great commissioned the creation of Hangul to increase literacy among commoners. The script was initially called Hunminjeongeum ('The Correct Sounds for the Instruction of the People'). After the division of Korea in 1945, the two Koreas developed divergent standard forms, though mutual intelligibility remains high.",
+  "relatedLanguages": [],
+  "resources": [
+    {
+      "title": "Ethnologue - Korean",
+      "url": "https://www.ethnologue.com/language/kor/"
+    },
+    {
+      "title": "Glottolog - Korean",
+      "url": "https://glottolog.org/resource/languoid/id/kore1280"
+    }
+  ],
+  "geojson": "ko.geojson"
+}

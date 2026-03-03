@@ -1,0 +1,36 @@
+{
+  "code": "pl",
+  "name": "Polish",
+  "nativeName": "Polski",
+  "family": "Indo-European",
+  "branch": "Balto-Slavic",
+  "speakers": {
+    "native": 45000000,
+    "total": 50000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["PL", "US", "GB", "DE", "CZ", "FR", "CA"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Greater Polish",
+    "Lesser Polish",
+    "Masovian",
+    "Silesian",
+    "Kashubian"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Polish is a West Slavic language and the official language of Poland. It is the sixth most spoken language in the European Union. Polish is known for its complex consonant clusters, seven grammatical cases, and a rich system of palatalized consonants. It uses the Latin script with additional diacritical marks.",
+  "historicalNotes": "Polish emerged from the Proto-Slavic language and the earliest written records date to the 12th century. The first printed Polish text appeared in 1475. Poland's partitions (1772-1918) threatened the language, but it survived through literature and underground education. The language was standardized in the 19th century, drawing heavily on the Greater Polish and Lesser Polish dialects.",
+  "relatedLanguages": ["cs", "sk", "uk", "ru", "hr"],
+  "resources": [
+    {
+      "title": "Ethnologue - Polish",
+      "url": "https://www.ethnologue.com/language/pol/"
+    },
+    {
+      "title": "Glottolog - Polish",
+      "url": "https://glottolog.org/resource/languoid/id/poli1260"
+    }
+  ],
+  "geojson": "pl.geojson"
+}

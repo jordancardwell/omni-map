@@ -1,0 +1,37 @@
+{
+  "code": "fa",
+  "name": "Persian",
+  "nativeName": "فارسی",
+  "family": "Indo-European",
+  "branch": "Indo-Iranian",
+  "speakers": {
+    "native": 77000000,
+    "total": 110000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["IR", "AF", "TJ", "UZ", "IQ", "BH"],
+  "writingSystem": "Perso-Arabic",
+  "dialects": [
+    "Iranian Persian (Farsi)",
+    "Dari (Afghan Persian)",
+    "Tajik",
+    "Hazaragi",
+    "Aimaq",
+    "Bukharic"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Persian, also known as Farsi, is an Iranian language within the Indo-European family. It is the official language of Iran, and its varieties Dari and Tajik are official in Afghanistan and Tajikistan respectively. Persian has been a prestigious literary and cultural language for over a millennium, deeply influencing Turkish, Urdu, and other languages of the Islamic world.",
+  "historicalNotes": "Persian has a continuous literary tradition spanning over 2,500 years, from Old Persian of the Achaemenid Empire (6th century BCE) through Middle Persian (Pahlavi) of the Sassanid era to New Persian emerging in the 9th century CE. The great poets Ferdowsi, Hafez, Rumi, and Sa'di wrote in New Persian. After the Arab conquest, Persian adopted the Arabic script and absorbed significant Arabic vocabulary while maintaining its Indo-European grammatical structure.",
+  "relatedLanguages": ["ku", "ps", "tg", "hi", "ur"],
+  "resources": [
+    {
+      "title": "Ethnologue - Persian",
+      "url": "https://www.ethnologue.com/language/fas/"
+    },
+    {
+      "title": "Glottolog - Persian",
+      "url": "https://glottolog.org/resource/languoid/id/west2369"
+    }
+  ],
+  "geojson": "fa.geojson"
+}

@@ -1,0 +1,38 @@
+{
+  "code": "ig",
+  "name": "Igbo",
+  "nativeName": "Asụsụ Igbo",
+  "family": "Niger-Congo",
+  "branch": "Volta-Niger",
+  "speakers": {
+    "native": 31000000,
+    "total": 35000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["NG"],
+  "writingSystem": "Latin (Önwu alphabet)",
+  "dialects": [
+    "Central Igbo",
+    "Onitsha",
+    "Owerri",
+    "Ngwa",
+    "Bonny-Opobo",
+    "Ogbaru",
+    "Ikwerre"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Igbo is a major language of the Volta-Niger branch of the Niger-Congo family, spoken predominantly in southeastern Nigeria. It is one of Nigeria's three officially recognized major languages and serves as the primary means of communication for the Igbo people, one of Africa's largest ethnic groups. Igbo is notable for its rich dialectal variation, with significant phonological and lexical differences across regions, and its complex tonal system that uses two primary tones to distinguish meaning.",
+  "historicalNotes": "The Igbo people have a long history of decentralized political organization, with autonomous communities governed by councils of elders and titled individuals, a system distinct from the centralized kingdoms found elsewhere in West Africa. The first Igbo texts appeared in the early 19th century through the work of missionaries, and the Önwu orthography was officially standardized in 1961 to unify the various writing systems that had been proposed. The Igbo language and identity gained worldwide attention during the Nigerian Civil War (1967-1970) when the Igbo-majority region declared independence as the Republic of Biafra, and today there are active efforts to promote Igbo literacy and digital presence amid concerns about language shift among younger urban speakers.",
+  "relatedLanguages": ["yo"],
+  "resources": [
+    {
+      "title": "Ethnologue - Igbo",
+      "url": "https://www.ethnologue.com/language/ibo/"
+    },
+    {
+      "title": "Glottolog - Igbo",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1417"
+    }
+  ],
+  "geojson": "ig.geojson"
+}

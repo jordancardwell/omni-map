@@ -1,0 +1,37 @@
+{
+  "code": "xh",
+  "name": "Xhosa",
+  "nativeName": "isiXhosa",
+  "family": "Niger-Congo",
+  "branch": "Bantu",
+  "speakers": {
+    "native": 8200000,
+    "total": 19200000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["ZA"],
+  "writingSystem": "Latin",
+  "dialects": [
+    "Gcaleka",
+    "Ngqika",
+    "Thembu",
+    "Bomvana",
+    "Mpondomise",
+    "Mpondo"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Xhosa is a Nguni Bantu language spoken primarily in the Eastern Cape and Western Cape provinces of South Africa. It is one of the country's eleven official languages and the second most common home language after Zulu, with which it shares considerable mutual intelligibility. Xhosa is internationally recognized for its extensive use of click consonants, featuring eighteen distinct click sounds across three basic click types (dental, lateral, and postalveolar), making it one of the most phonologically complex languages in the world.",
+  "historicalNotes": "The Xhosa people were among the first Bantu-speaking groups to encounter European colonists at the Great Fish River frontier in the late 18th century, leading to a century of frontier wars (the Cape Frontier Wars, 1779-1879) that profoundly shaped South African history. Missionary work by figures such as John Bennie and John Ross produced the first Xhosa orthography and printed texts in the 1820s, and the first Xhosa-language newspaper, Isigidimi samaXhosa, began publication in 1876. The language holds deep political significance as the mother tongue of Nelson Mandela and Desmond Tutu, and it continues to flourish in education, broadcasting, and a growing body of contemporary literature.",
+  "relatedLanguages": ["zu", "sw"],
+  "resources": [
+    {
+      "title": "Ethnologue - Xhosa",
+      "url": "https://www.ethnologue.com/language/xho/"
+    },
+    {
+      "title": "Glottolog - Xhosa",
+      "url": "https://glottolog.org/resource/languoid/id/xhos1239"
+    }
+  ],
+  "geojson": "xh.geojson"
+}

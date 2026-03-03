@@ -1,0 +1,10 @@
+{
+  "id": "climate",
+  "name": "Climate Zones",
+  "description": "World climate classification zones",
+  "type": "regions",
+  "version": "0.1.0",
+  "icon": "thermometer",
+  "defaultColor": "#E74C3C",
+  "categories": ["geography"]
+}

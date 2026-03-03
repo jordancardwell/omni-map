@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "te",
+        "name": "Telugu",
+        "region": "Andhra Pradesh and Telangana (India)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.0, 15.0], [77.5, 16.5], [78.0, 17.5], [78.5, 18.5],
+          [79.5, 19.0], [80.5, 18.5], [81.5, 17.5], [82.5, 17.0],
+          [83.5, 16.5], [84.0, 15.5], [83.0, 14.5], [81.5, 14.0],
+          [80.3, 13.5], [79.5, 13.5], [78.5, 14.0], [77.5, 14.5],
+          [77.0, 15.0]
+        ]]
+      }
+    }
+  ]
+}

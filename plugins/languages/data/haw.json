@@ -1,0 +1,36 @@
+{
+  "code": "haw",
+  "name": "Hawaiian",
+  "nativeName": "ʻŌlelo Hawaiʻi",
+  "family": "Austronesian",
+  "branch": "Polynesian",
+  "speakers": {
+    "native": 2000,
+    "total": 24000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["US"],
+  "writingSystem": "Latin (Hawaiian alphabet)",
+  "dialects": [
+    "Niʻihau",
+    "Kauaʻi",
+    "Oʻahu",
+    "Maui",
+    "Hawaiʻi Island"
+  ],
+  "endangermentStatus": "critically endangered",
+  "description": "Hawaiian is a Polynesian language native to the Hawaiian Islands, where it is one of two official languages alongside English. It has one of the smallest phoneme inventories in the world, with only eight consonants and five vowels, and makes extensive use of vowel length and the glottal stop (ʻokina) to distinguish words. Hawaiian is closely related to other Eastern Polynesian languages including Tahitian, Marquesan, and Maori, reflecting the ancient Polynesian voyaging tradition across the Pacific.",
+  "historicalNotes": "Hawaiian was a thriving oral language for centuries before European contact in 1778, with a rich tradition of chants (mele), genealogies, and navigational knowledge. American missionaries developed a written form using the Latin alphabet in the 1820s, and by the mid-19th century Hawaiʻi had one of the highest literacy rates in the world, with a flourishing Hawaiian-language press. Following the overthrow of the Hawaiian Kingdom in 1893 and annexation by the United States in 1898, Hawaiian was banned as a medium of instruction in schools, leading to a dramatic decline in speakers. A revitalization movement beginning in the 1970s, anchored by Hawaiian-language immersion preschools (Pūnana Leo) and K-12 schools (Kula Kaiapuni), has produced a new generation of speakers, though the language remains critically endangered.",
+  "relatedLanguages": ["mi"],
+  "resources": [
+    {
+      "title": "Ethnologue - Hawaiian",
+      "url": "https://www.ethnologue.com/language/haw/"
+    },
+    {
+      "title": "Glottolog - Hawaiian",
+      "url": "https://glottolog.org/resource/languoid/id/hawa1245"
+    }
+  ],
+  "geojson": "haw.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "yue",
+  "name": "Cantonese",
+  "nativeName": "廣東話",
+  "family": "Sino-Tibetan",
+  "branch": "Sinitic",
+  "speakers": {
+    "native": 85500000,
+    "total": 86000000,
+    "source": "Ethnologue 2024"
+  },
+  "regions": ["CN", "HK", "MO"],
+  "writingSystem": "Chinese characters (Hanzi)",
+  "dialects": [
+    "Guangzhou Cantonese",
+    "Hong Kong Cantonese",
+    "Macau Cantonese",
+    "Taishan dialect",
+    "Toisan dialect",
+    "Zhongshan dialect"
+  ],
+  "endangermentStatus": "safe",
+  "description": "Cantonese is a Sinitic language originating from Guangzhou (Canton), the capital of Guangdong province in southern China. It is the dominant language of Hong Kong and Macau and is widely spoken in overseas Chinese communities. Cantonese is a tonal language with six to nine tones depending on analysis, compared to Mandarin's four.",
+  "historicalNotes": "Cantonese preserves many features of Middle Chinese that have been lost in Mandarin, including final stop consonants (-p, -t, -k) and a larger tonal inventory. The language gained international prominence through Hong Kong's film and music industries. Written Cantonese uses standard Chinese characters plus additional characters unique to Cantonese. The language has been spoken in Guangdong for over two thousand years.",
+  "relatedLanguages": ["zh", "wuu", "nan"],
+  "resources": [
+    {
+      "title": "Ethnologue - Yue Chinese",
+      "url": "https://www.ethnologue.com/language/yue/"
+    },
+    {
+      "title": "Glottolog - Yue Chinese",
+      "url": "https://glottolog.org/resource/languoid/id/yuec1235"
+    }
+  ],
+  "geojson": "yue.geojson"
+}
