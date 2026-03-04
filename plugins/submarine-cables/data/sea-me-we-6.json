@@ -1,0 +1,20 @@
+{
+  "code": "sea-me-we-6",
+  "name": "SEA-ME-WE 6",
+  "capacityTbps": 100,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 19200,
+  "yearLaid": 2023,
+  "rfsDate": "2025-01",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Marseille, France",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Djibouti, Djibouti",
+    "Mumbai, India",
+    "Singapore"
+  ],
+  "description": "Next generation of the SEA-ME-WE series with 100+ Tbps design capacity.",
+  "geojson": "sea-me-we-6.geojson"
+}

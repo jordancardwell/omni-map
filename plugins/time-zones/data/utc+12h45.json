@@ -1,0 +1,20 @@
+{
+  "code": "utc+12h45",
+  "name": "Chatham Island Standard Time",
+  "nativeName": "UTC+12:45",
+  "utcOffset": "UTC+12:45",
+  "utcOffsetHours": 12.75,
+  "offsetGroup": "8. Pacific (UTC+11 to +14)",
+  "ianaNames": [
+    "Pacific/Chatham"
+  ],
+  "countries": [
+    "New Zealand (Chatham Islands)"
+  ],
+  "dstRules": "Observes DST (UTC+13:45 in summer, Sep–Apr)",
+  "description": "Used exclusively by New Zealand's Chatham Islands, a remote archipelago about 800 km east of the South Island. With a population of about 600, it maintains its 45-minute offset from New Zealand time, established because of its eastern longitude.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+12h45.geojson"
+}

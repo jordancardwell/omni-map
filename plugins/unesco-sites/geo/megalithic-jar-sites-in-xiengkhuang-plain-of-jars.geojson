@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1522222222,
+          19.4310555556
+        ]
+      },
+      "properties": {
+        "code": "megalithic-jar-sites-in-xiengkhuang-plain-of-jars",
+        "name": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
+        "type": "Cultural",
+        "country": "Lao People's Democratic Republic",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

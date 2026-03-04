@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-old-town-of-tallinn",
+  "name": "Historic Centre (Old Town) of Tallinn",
+  "type": "Cultural",
+  "country": "Estonia",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The origins of Tallinn date back to the 13th century, when a castle was built there by the crusading knights of the Teutonic Order. It developed as a major centre of the Hanseatic League, and its wealth is demonstrated by the opulence of the public buildings (the churches in particular) and the domestic architecture of the merchants' houses, which have survived to a remarkable degree despite the ravages of fire and war in the intervening centuries.",
+  "danger": false,
+  "geojson": "historic-centre-old-town-of-tallinn.geojson"
+}

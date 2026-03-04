@@ -1,0 +1,19 @@
+{
+  "code": "pek-pvg",
+  "name": "Beijing — Shanghai",
+  "airports": [
+    "PEK",
+    "PVG"
+  ],
+  "distanceKm": 1099,
+  "weeklyFlights": 350,
+  "airlines": [
+    "Air China",
+    "China Eastern",
+    "China Southern"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PEK–PVG route between Beijing and Shanghai. Distance: 1,099 km. ~350 weekly flights operated by Air China, China Eastern, China Southern.",
+  "geojson": "pek-pvg.geojson"
+}

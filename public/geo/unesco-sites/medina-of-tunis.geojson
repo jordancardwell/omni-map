@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16667,
+          36.81667
+        ]
+      },
+      "properties": {
+        "code": "medina-of-tunis",
+        "name": "Medina of Tunis",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

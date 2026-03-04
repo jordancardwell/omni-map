@@ -1,0 +1,16 @@
+{
+  "code": "cn-coast-central",
+  "name": "CN Coast Central",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2146,
+  "yearLaid": 2017,
+  "rfsDate": "2009-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Shanghai, China",
+    "Fuzhou, China"
+  ],
+  "description": "CN Coast Central connecting Shanghai to Fuzhou in East Asia.",
+  "geojson": "cn-coast-central.geojson"
+}

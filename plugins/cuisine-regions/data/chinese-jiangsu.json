@@ -1,0 +1,35 @@
+{
+  "code": "chinese-jiangsu",
+  "name": "Jiangsu Cuisine (Su)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Jiangsu cuisine is known for its soft textures, careful presentation, and moderate seasoning. It emphasizes maintaining the original flavor of ingredients through meticulous cooking techniques. The cuisine reflects the refined culture of the Yangtze River Delta.",
+  "signatureDishes": [
+    "Sweet and Sour Mandarin Fish",
+    "Lion's Head Meatballs",
+    "Yangzhou Fried Rice",
+    "Nanjing Salted Duck"
+  ],
+  "keyIngredients": [
+    "Freshwater Fish",
+    "Rice",
+    "Sugar",
+    "Vinegar",
+    "Bamboo Shoots",
+    "Tofu"
+  ],
+  "cookingTechniques": [
+    "Stewing",
+    "Braising",
+    "Steaming",
+    "Precise knife work",
+    "Slow simmering"
+  ],
+  "unescoRecognition": "Yangzhou designated UNESCO City of Gastronomy (2019)",
+  "keyRegions": [
+    "Jiangsu Province",
+    "Nanjing",
+    "Suzhou",
+    "Yangzhou"
+  ],
+  "geojson": "chinese-jiangsu.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sa-bh-cable",
+  "name": "SA-BH Cable",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 995,
+  "yearLaid": 2019,
+  "rfsDate": "2015-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Dammam, Saudi Arabia",
+    "Manama, Bahrain"
+  ],
+  "description": "SA-BH Cable connecting Dammam to Manama in the Middle East.",
+  "geojson": "sa-bh-cable.geojson"
+}

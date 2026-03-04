@@ -1,0 +1,19 @@
+{
+  "code": "gharial",
+  "name": "Gharial",
+  "scientificName": "Gavialis gangeticus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~650 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Large rivers with sandbars",
+  "threats": [
+    "Dam construction",
+    "Sand mining",
+    "Fishing nets",
+    "River pollution"
+  ],
+  "conservationEfforts": "National Chambal Sanctuary in India protects the largest population. Captive breeding and head-starting programs release juveniles into the wild.",
+  "description": "One of the longest of all crocodilians with a distinctive narrow snout. Males develop a bulbous growth on the tip of their snout called a ghara, used to produce buzzing vocalizations.",
+  "geojson": "gharial.geojson"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "trans-saharan",
+        "name": "Trans-Saharan Western Route",
+        "featureType": "route",
+        "routeType": "land"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.01, 16.77],
+          [-3.40, 18.08],
+          [-4.33, 20.07],
+          [-5.01, 22.33],
+          [-5.35, 24.58],
+          [-5.01, 27.15],
+          [-4.43, 29.25],
+          [-4.01, 31.63],
+          [-5.01, 33.97]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "trans-saharan",
+        "name": "Trans-Saharan Central Route",
+        "featureType": "route",
+        "routeType": "land"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.05, 16.27],
+          [0.23, 18.44],
+          [1.05, 21.47],
+          [2.11, 24.79],
+          [3.04, 27.67],
+          [4.33, 29.12],
+          [6.12, 30.05],
+          [8.47, 31.96],
+          [9.54, 33.88],
+          [10.18, 36.81]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "trans-saharan",
+        "name": "Trans-Saharan Eastern Route",
+        "featureType": "route",
+        "routeType": "land"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [8.52, 12.00],
+          [8.99, 13.52],
+          [9.08, 16.27],
+          [9.45, 19.12],
+          [10.06, 22.47],
+          [10.41, 24.97],
+          [11.58, 27.04],
+          [13.18, 32.90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Timbuktu", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-3.01, 16.77] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Gao", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-0.05, 16.27] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Djenné", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-4.56, 13.91] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Sijilmasa", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-4.28, 31.28] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Fez", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-5.01, 33.97] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Ghadames", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [9.50, 30.13] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Tripoli", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [13.18, 32.90] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Kano", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [8.52, 12.00] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "trans-saharan", "name": "Tunis", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [10.18, 36.81] }
+    }
+  ]
+}

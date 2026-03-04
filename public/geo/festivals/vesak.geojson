@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6337,
+          7.2906
+        ]
+      },
+      "properties": {
+        "code": "vesak",
+        "name": "Vesak",
+        "festivalType": "Religious",
+        "dateOrSeason": "May (full moon)",
+        "location": "Kandy, Sri Lanka"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "dwd",
+  "name": "Extremely Cold Continental (Dry Winter)",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month <22°C; coldest month <-38°C",
+  "precipitationPattern": "Very dry winters, light summer precipitation",
+  "vegetation": "Sparse larch taiga, lichen, permafrost terrain",
+  "exampleCities": [
+    "Verkhoyansk",
+    "Oymyakon"
+  ],
+  "description": "Extremely cold continental climate with dry winters (Dwd) contains the coldest inhabited places on Earth. Found in the interior of northeastern Siberia, where extreme continentality and persistent winter high pressure create winter temperatures below -60°C. The Pole of Cold (Oymyakon/Verkhoyansk) lies within this zone.",
+  "typicalWeather": "Extreme cold defines this climate. Winter temperatures routinely drop below -40°C and can reach -65°C. Summers are surprisingly warm (10-20°C) but very brief. Annual precipitation under 250mm, mostly in summer. Permafrost is continuous and hundreds of meters deep.",
+  "geojson": "dwd.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "mesoamerica",
+  "name": "Mesoamerica",
+  "location": "Central America and Southern Mexico",
+  "areaKm2": 1130019,
+  "habitatRemaining": "20.0%",
+  "plantSpecies": 17000,
+  "endemicPlants": 2941,
+  "vertebrateSpecies": 2859,
+  "endemicVertebrates": 724,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Resplendent quetzal",
+    "Baird's tapir",
+    "Scarlet macaw",
+    "Jaguar",
+    "Howler monkey"
+  ],
+  "threats": [
+    "Deforestation",
+    "Agriculture",
+    "Urbanization",
+    "Climate change",
+    "Drug trafficking land clearing"
+  ],
+  "conservationEfforts": "Mesoamerican Biological Corridor connects protected areas from Mexico to Panama. Belize Barrier Reef is a World Heritage Site. Community-based ecotourism provides economic alternatives. Guatemala's Maya Biosphere Reserve protects 2.1 million hectares.",
+  "description": "Mesoamerica extends from central Mexico through Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama. This hotspot bridges North and South America, serving as a critical biological corridor for species migration between continents.\n\nThe region's extraordinary vertebrate diversity — with over 2,800 species — reflects its role as a meeting ground for Nearctic and Neotropical fauna. Cloud forests draped in mosses and orchids harbor the resplendent quetzal, while lowland rainforests support jaguars and tapirs. Coral reefs along the Caribbean coast form the world's second-largest barrier reef.",
+  "geojson": "mesoamerica.geojson"
+}

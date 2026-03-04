@@ -1,0 +1,15 @@
+{
+  "code": "landmarks-of-the-ancient-kingdom-of-saba-marib",
+  "name": "Landmarks of the Ancient Kingdom of Saba, Marib",
+  "type": "Cultural",
+  "country": "Yemen",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The Landmarks of the Ancient Kingdom of Saba, Marib, is a serial property comprising seven archaeological sites that bear witness to the rich Kingdom of Saba and its architectural, aesthetic and technological achievements from the 1st millennium BCE to the arrival of Islam around 630 CE. They bear witness to the complex centralized administration of the Kingdom when it controlled much of the incense route across the Arabian Peninsula, playing a key role in the wider network of cultural exchange fostered by trade with the Mediterranean and East Africa. Located in a semi-arid landscape of valleys, mountains and deserts, the property encompasses the remains of large urban settlements with monumental temples, ramparts and other buildings. The irrigation system of ancient Ma'rib reflects technological prowess in hydrological engineering and agriculture on a scale unparalleled in ancient South Arabia, resulting in the creation of the largest ancient man-made oasis.",
+  "danger": true,
+  "geojson": "landmarks-of-the-ancient-kingdom-of-saba-marib.geojson"
+}

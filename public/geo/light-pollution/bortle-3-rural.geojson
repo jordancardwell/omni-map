@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-3-rural",
+        "name": "Rural Sky",
+        "region": "Rural Midwest USA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102,
+              38
+            ],
+            [
+              -97,
+              38
+            ],
+            [
+              -97,
+              42
+            ],
+            [
+              -102,
+              42
+            ],
+            [
+              -102,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-3-rural",
+        "name": "Rural Sky",
+        "region": "Central Spain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              38
+            ],
+            [
+              -2,
+              38
+            ],
+            [
+              -2,
+              41
+            ],
+            [
+              -5,
+              41
+            ],
+            [
+              -5,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-3-rural",
+        "name": "Rural Sky",
+        "region": "Rural Norway"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              60
+            ],
+            [
+              18,
+              60
+            ],
+            [
+              18,
+              64
+            ],
+            [
+              12,
+              64
+            ],
+            [
+              12,
+              60
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-3-rural",
+        "name": "Rural Sky",
+        "region": "Outback Queensland, Australia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              142,
+              -24
+            ],
+            [
+              148,
+              -24
+            ],
+            [
+              148,
+              -20
+            ],
+            [
+              142,
+              -20
+            ],
+            [
+              142,
+              -24
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

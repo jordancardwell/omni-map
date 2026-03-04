@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[149.5502,-30.3128]},"properties":{"code":"atca","name":"Australia Telescope Compact Array","observatoryType":"Radio","status":"Operational","country":"Australia"}}]}

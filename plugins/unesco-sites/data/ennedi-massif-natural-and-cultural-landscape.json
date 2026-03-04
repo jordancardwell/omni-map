@@ -1,0 +1,16 @@
+{
+  "code": "ennedi-massif-natural-and-cultural-landscape",
+  "name": "Ennedi Massif: Natural and Cultural Landscape",
+  "type": "Mixed",
+  "country": "Chad",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iii)",
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Africa",
+  "description": "In the northeast of the country, the sandstone Ennedi Massif has been sculpted over time by water and wind erosion into a plateau featuring canyons and valleys that present a spectacular landscape marked by cliffs, natural arches and pitons. In the largest canyons, the permanent presence of water plays an essential role in the Massif’s ecosystem, sustaining flora and fauna as well as human life. Thousands of images have been painted and carved into the rock surface of caves, canyons and shelters, presenting one of the largest ensembles of rock art in the Sahara.",
+  "danger": false,
+  "geojson": "ennedi-massif-natural-and-cultural-landscape.geojson"
+}

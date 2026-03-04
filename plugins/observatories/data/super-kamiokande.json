@@ -1,0 +1,21 @@
+{
+  "code": "super-kamiokande",
+  "name": "Super-Kamiokande",
+  "country": "Japan",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 358,
+  "aperture": "39.3 m diameter tank",
+  "telescopes": [
+    "Super-K",
+    "Hyper-K (planned)"
+  ],
+  "keyDiscoveries": [
+    "Neutrino oscillations (Nobel Prize 2015)",
+    "Solar neutrinos",
+    "Supernova neutrinos"
+  ],
+  "location": "Super-Kamiokande, Japan",
+  "description": "A massive underground water Cherenkov detector in the Kamioka mine. Discovered that neutrinos have mass through observation of neutrino oscillations.",
+  "geojson": "super-kamiokande.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "doh-mad",
+  "name": "Doha — Madrid",
+  "airports": [
+    "DOH",
+    "MAD"
+  ],
+  "distanceKm": 5330,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–MAD route between Doha and Madrid. Distance: 5,330 km. ~20 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-mad.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "in-west-coast",
+  "name": "IN West Coast",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2132,
+  "yearLaid": 2011,
+  "rfsDate": "2015-06",
+  "owner": "BSNL",
+  "landingPoints": [
+    "Mumbai, India",
+    "Cochin, India"
+  ],
+  "description": "IN West Coast connecting Mumbai to Cochin.",
+  "geojson": "in-west-coast.geojson"
+}

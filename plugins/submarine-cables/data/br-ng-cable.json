@@ -1,0 +1,16 @@
+{
+  "code": "br-ng-cable",
+  "name": "BR-NG Cable",
+  "capacityTbps": 32,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13361,
+  "yearLaid": 2017,
+  "rfsDate": "2017-06",
+  "owner": "MainOne",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Lagos, Nigeria"
+  ],
+  "description": "BR-NG Cable connecting Fortaleza to Lagos.",
+  "geojson": "br-ng-cable.geojson"
+}

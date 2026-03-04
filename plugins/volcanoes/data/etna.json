@@ -1,0 +1,22 @@
+{
+  "code": "etna",
+  "name": "Mount Etna",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3357,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Italy",
+  "region": "Sicily",
+  "location": "Sicily, Italy",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Pyroclastic flows",
+    "Aviation hazards"
+  ],
+  "eruptionHistory": "One of the world's most active volcanoes with nearly continuous eruption for the past 3,500 years. Major eruptions in 1669, 1928, 1991-93, and frequent summit activity.",
+  "description": "Mount Etna is Europe's tallest and most active volcano. Its near-constant eruptions have been documented since ancient times, making it one of the best-studied volcanoes in the world.",
+  "geojson": "etna.geojson"
+}

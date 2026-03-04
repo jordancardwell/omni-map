@@ -1,0 +1,16 @@
+{
+  "code": "mnt",
+  "name": "Mongolian Tögrög",
+  "isoCode": "MNT",
+  "symbol": "₮",
+  "region": "Asia",
+  "centralBank": "Bank of Mongolia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Mongolia"
+  ],
+  "countryCount": 1,
+  "description": "The Mongolian Tögrög is the currency of Mongolia, known for its vast steppes and mining sector.",
+  "historicalNotes": "Introduced in 1925, replacing the Mongolian dollar. Mongolia's economy is heavily dependent on copper and gold mining.",
+  "geojson": "mnt.geojson"
+}

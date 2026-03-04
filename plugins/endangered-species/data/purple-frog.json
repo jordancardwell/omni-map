@@ -1,0 +1,18 @@
+{
+  "code": "purple-frog",
+  "name": "Purple Frog",
+  "scientificName": "Nasikabatrachus sahyadrensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown",
+  "populationTrend": "Decreasing",
+  "habitatType": "Western Ghats underground",
+  "threats": [
+    "Habitat loss",
+    "Road construction",
+    "Changing land use"
+  ],
+  "conservationEfforts": "Discovered only in 2003. Protected under Indian Wildlife Act. Research programs study ecology. Community awareness campaigns in Kerala.",
+  "description": "One of the most bizarre frogs ever discovered, the bloated purple frog spends most of its life underground and only emerges for about two weeks per year to breed during the monsoon. It diverged from its nearest relatives 100 million years ago.",
+  "geojson": "purple-frog.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "faroes-shetland",
+  "name": "Faroes-Shetland",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 600,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Faroese Telecom",
+  "landingPoints": [
+    "Tórshavn, Faroe Islands",
+    "Highbridge, UK"
+  ],
+  "description": "Cable connecting the Faroe Islands to the UK.",
+  "geojson": "faroes-shetland.geojson"
+}

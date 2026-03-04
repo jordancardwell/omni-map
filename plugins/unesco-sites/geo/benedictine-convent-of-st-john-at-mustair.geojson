@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.44765,
+          46.62945
+        ]
+      },
+      "properties": {
+        "code": "benedictine-convent-of-st-john-at-mustair",
+        "name": "Benedictine Convent of St John at Müstair",
+        "type": "Cultural",
+        "country": "Switzerland",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

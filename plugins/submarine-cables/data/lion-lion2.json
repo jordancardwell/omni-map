@@ -1,0 +1,18 @@
+{
+  "code": "lion-lion2",
+  "name": "LION/LION2",
+  "capacityTbps": 1.28,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3000,
+  "yearLaid": 2009,
+  "rfsDate": "2012-04",
+  "owner": "Orange",
+  "landingPoints": [
+    "Toamasina, Madagascar",
+    "Port Louis, Mauritius",
+    "Saint-Denis, Réunion",
+    "Mamoudzou, Mayotte"
+  ],
+  "description": "Lower Indian Ocean Network cables connecting Indian Ocean islands.",
+  "geojson": "lion-lion2.geojson"
+}

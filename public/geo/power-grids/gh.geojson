@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gh","name":"Ghana","country":"GH","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-3.3,4.7],[-3.3,11.2],[1.2,11.2],[1.2,4.7],[-3.3,4.7]]]}}]}

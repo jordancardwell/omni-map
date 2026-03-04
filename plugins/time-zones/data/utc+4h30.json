@@ -1,0 +1,20 @@
+{
+  "code": "utc+4h30",
+  "name": "Afghanistan Time",
+  "nativeName": "UTC+04:30",
+  "utcOffset": "UTC+04:30",
+  "utcOffsetHours": 4.5,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Asia/Kabul"
+  ],
+  "countries": [
+    "Afghanistan"
+  ],
+  "dstRules": "No DST observed",
+  "description": "Used exclusively by Afghanistan. This half-hour offset was adopted in 1945. Afghanistan's position at the crossroads of Central and South Asia is reflected in its unique timezone, bridging the Gulf and South Asian time zones.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+4h30.geojson"
+}

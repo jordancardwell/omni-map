@@ -1,0 +1,20 @@
+{
+  "code": "ska-mid",
+  "name": "SKA-Mid",
+  "country": "South Africa",
+  "observatoryType": "Radio",
+  "status": "Under Construction",
+  "elevation": 1038,
+  "aperture": "197 dishes (133 new + 64 MeerKAT)",
+  "telescopes": [
+    "SKA-Mid"
+  ],
+  "keyDiscoveries": [
+    "Expected: Hydrogen cosmology",
+    "Pulsar timing arrays",
+    "Cradle of life"
+  ],
+  "location": "SKA-Mid, South Africa",
+  "description": "The mid-frequency component of the SKA in the Karoo. Will integrate 64 MeerKAT dishes with 133 new 15m dishes for unprecedented sensitivity.",
+  "geojson": "ska-mid.geojson"
+}

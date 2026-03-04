@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.607572,
+          4.003344
+        ]
+      },
+      "properties": {
+        "code": "malpelo-fauna-and-flora-sanctuary",
+        "name": "Malpelo Fauna and Flora Sanctuary",
+        "type": "Natural",
+        "country": "Colombia",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5966667,
+          37.74611111
+        ]
+      },
+      "properties": {
+        "code": "yosemite-national-park",
+        "name": "Yosemite National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

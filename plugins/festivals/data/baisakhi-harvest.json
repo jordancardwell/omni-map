@@ -1,0 +1,14 @@
+{
+  "code": "baisakhi-harvest",
+  "name": "Baisakhi (Harvest)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "April 13",
+  "origin": "Punjabi tradition",
+  "estimatedAttendance": "Tens of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Wheat harvest celebrations; bhangra and gidda dancing; visiting gurdwaras; fairs and community feasts; traditional wrestling.",
+  "historicalBackground": "Baisakhi marks the spring wheat harvest in Punjab. It coincides with the founding of the Khalsa but is also celebrated as a harvest festival by all Punjabis.",
+  "description": "Punjab's exuberant spring harvest festival, celebrating the wheat crop with energetic bhangra dancing, fairs, and feasting.",
+  "location": "Punjab, India",
+  "geojson": "baisakhi-harvest.geojson"
+}

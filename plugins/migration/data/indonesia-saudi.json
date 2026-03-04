@@ -1,0 +1,18 @@
+{
+  "code": "indonesia-saudi",
+  "name": "Indonesia \u2192 Saudi Arabia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Indonesia \u2192 Saudi Arabia",
+  "badgeValue": "~1.6 million",
+  "origin": "Indonesia",
+  "destination": "Saudi Arabia",
+  "estimatedMigrants": "~1.6 million",
+  "drivers": [
+    "Domestic worker demand",
+    "Religious connection",
+    "Hajj pilgrimage",
+    "Wage premium"
+  ],
+  "description": "Indonesian migration to Saudi Arabia is driven by demand for domestic workers and religious connections as the world's largest Muslim-majority country. Many Indonesians travel for Hajj pilgrimage and remain for work. Domestic workers have faced documented exploitation, leading to periodic migration bans and bilateral negotiations on worker protections.",
+  "geojson": "indonesia-saudi.geojson"
+}

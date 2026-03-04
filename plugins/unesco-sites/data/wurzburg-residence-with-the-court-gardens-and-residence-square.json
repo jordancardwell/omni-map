@@ -1,0 +1,15 @@
+{
+  "code": "wurzburg-residence-with-the-court-gardens-and-residence-square",
+  "name": "Würzburg Residence with the Court Gardens and Residence Square",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This magnificent Baroque palace – one of the largest and most beautiful in Germany and surrounded by wonderful gardens – was created under the patronage of the prince-bishops Lothar Franz and Friedrich Carl von Schönborn. It was built and decorated in the 18th century by an international team of architects, painters (including Tiepolo), sculptors and stucco-workers, led by Balthasar Neumann.",
+  "danger": false,
+  "geojson": "wurzburg-residence-with-the-court-gardens-and-residence-square.geojson"
+}

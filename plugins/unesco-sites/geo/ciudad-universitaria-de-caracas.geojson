@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.89068,
+          10.49073
+        ]
+      },
+      "properties": {
+        "code": "ciudad-universitaria-de-caracas",
+        "name": "Ciudad Universitaria de Caracas",
+        "type": "Cultural",
+        "country": "Venezuela (Bolivarian Republic of)",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

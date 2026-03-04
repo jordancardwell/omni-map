@@ -1,0 +1,16 @@
+{
+  "code": "fr-uk-celtic",
+  "name": "FR-UK Celtic",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 862,
+  "yearLaid": 2014,
+  "rfsDate": "2014-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Penmarc'h, France",
+    "Bude, UK"
+  ],
+  "description": "FR-UK Celtic connecting Penmarc'h to Bude in Europe.",
+  "geojson": "fr-uk-celtic.geojson"
+}

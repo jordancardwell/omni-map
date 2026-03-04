@@ -1,0 +1,16 @@
+{
+  "code": "cve",
+  "name": "Cape Verdean Escudo",
+  "isoCode": "CVE",
+  "symbol": "Esc",
+  "region": "Africa",
+  "centralBank": "Bank of Cape Verde",
+  "exchangeRateEra": "Pegged to EUR",
+  "countries": [
+    "Cape Verde"
+  ],
+  "countryCount": 1,
+  "description": "The Cape Verdean Escudo is pegged to the Euro through a special partnership agreement with Portugal.",
+  "historicalNotes": "The escudo was adopted in 1914. Cape Verde's special peg to the Euro reflects its historical ties to Portugal and its strategic location in the mid-Atlantic.",
+  "geojson": "cve.geojson"
+}

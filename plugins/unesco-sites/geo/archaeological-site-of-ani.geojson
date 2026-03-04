@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5666666667,
+          40.5
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-ani",
+        "name": "Archaeological Site of Ani",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

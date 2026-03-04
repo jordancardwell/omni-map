@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6544444444,
+          34.29
+        ]
+      },
+      "properties": {
+        "code": "the-persian-qanat",
+        "name": "The Persian Qanat",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

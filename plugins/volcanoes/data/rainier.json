@@ -1,0 +1,22 @@
+{
+  "code": "rainier",
+  "name": "Mount Rainier",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 4392,
+  "lastEruption": "1894",
+  "vei": 3,
+  "country": "United States",
+  "region": "Cascades",
+  "location": "Cascades, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lahars",
+    "Pyroclastic flows",
+    "Ashfall",
+    "Glacial outburst floods"
+  ],
+  "eruptionHistory": "Last confirmed eruption in the 1890s. Considered one of the most dangerous volcanoes in the US due to massive glacier-fed lahar potential threatening Tacoma and Seattle suburbs.",
+  "description": "Mount Rainier is an active stratovolcano and the most glaciated peak in the contiguous US. It is classified as a Decade Volcano due to the extreme risk lahars pose to nearby populated areas.",
+  "geojson": "rainier.geojson"
+}

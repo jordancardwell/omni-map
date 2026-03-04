@@ -1,0 +1,17 @@
+{
+  "code": "uz",
+  "name": "Uzbekistan",
+  "avgDownloadMbps": 12.8,
+  "avgUploadMbps": 8.4,
+  "avgLatencyMs": 30,
+  "mobileDownloadMbps": 18.6,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 12.8,
+  "fixedUploadMbps": 8.4,
+  "rank": 130,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Central Asia",
+  "dataYear": 2024,
+  "trendDescription": "Rapidly developing broadband market. ~26% year-over-year growth.",
+  "geojson": "uz.geojson"
+}

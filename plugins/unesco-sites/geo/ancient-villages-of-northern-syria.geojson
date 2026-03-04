@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8441666667,
+          36.3341666667
+        ]
+      },
+      "properties": {
+        "code": "ancient-villages-of-northern-syria",
+        "name": "Ancient Villages of Northern Syria",
+        "type": "Cultural",
+        "country": "Syrian Arab Republic",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

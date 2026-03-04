@@ -1,0 +1,15 @@
+{
+  "code": "morne-trois-pitons-national-park",
+  "name": "Morne Trois Pitons National Park",
+  "type": "Natural",
+  "country": "Dominica",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(viii)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Luxuriant natural tropical forest blends with scenic volcanic features of great scientific interest in this national park centred on the 1,342-m-high volcano known as Morne Trois Pitons. With its precipitous slopes and deeply incised valleys, 50 fumaroles, hot springs, three freshwater lakes, a 'boiling lake' and five volcanoes, located on the park's nearly 7,000 ha, together with the richest biodiversity in the Lesser Antilles, Morne Trois Pitons National Park presents a rare combination of natural features of World Heritage value.",
+  "danger": false,
+  "geojson": "morne-trois-pitons-national-park.geojson"
+}

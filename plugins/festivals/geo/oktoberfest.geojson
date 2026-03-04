@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "code": "oktoberfest",
+        "name": "Oktoberfest",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Late September–early October",
+        "location": "Munich, Germany"
+      }
+    }
+  ]
+}

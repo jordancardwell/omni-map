@@ -1,0 +1,22 @@
+{
+  "code": "hudson",
+  "name": "Cerro Hudson",
+  "volcanoType": "Caldera",
+  "status": "Historically Active",
+  "elevation": 1905,
+  "lastEruption": "2011",
+  "vei": 5,
+  "country": "Chile",
+  "region": "Aysén",
+  "location": "Aysén, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars",
+    "Jökulhlaup"
+  ],
+  "eruptionHistory": "The 1991 eruption was one of the largest in Chile in the 20th century, depositing heavy ashfall across Argentine Patagonia.",
+  "description": "Cerro Hudson is an ice-filled caldera whose 1991 eruption devastated surrounding areas and deposited heavy ashfall on Argentine Patagonia.",
+  "geojson": "hudson.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "festa-junina",
+  "name": "Festa Junina",
+  "festivalType": "Cultural",
+  "dateOrSeason": "June",
+  "origin": "Brazilian/Portuguese tradition",
+  "estimatedAttendance": "Millions across Brazil",
+  "unescoICH": "Not inscribed",
+  "traditions": "Forró dancing; quadrilha (square dance); bonfire lighting; fireworks; traditional foods (pamonha, canjica, corn cake); mock weddings.",
+  "historicalBackground": "Festa Junina arrived with Portuguese colonizers, blending Catholic saints' days (Saints Anthony, John, Peter) with indigenous and African harvest celebrations.",
+  "description": "Brazil's beloved June festivals celebrating rural culture with forró music, traditional dances, bonfires, and corn-based delicacies.",
+  "location": "São Paulo, Brazil",
+  "geojson": "festa-junina.geojson"
+}

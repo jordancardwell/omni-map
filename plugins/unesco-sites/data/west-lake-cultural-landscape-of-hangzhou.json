@@ -1,0 +1,15 @@
+{
+  "code": "west-lake-cultural-landscape-of-hangzhou",
+  "name": "West Lake Cultural Landscape of Hangzhou",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The West Lake Cultural Landscape of Hangzhou, comprising the West Lake and the hills surrounding its three sides, has inspired famous poets, scholars and artists since the 9th century. It comprises numerous temples, pagodas, pavilions, gardens and ornamental trees, as well as causeways and artificial islands. These additions have been made to improve the landscape west of the city of Hangzhou to the south of the Yangtze river. The West Lake has influenced garden design in the rest of China as well as Japan and Korea over the centuries and bears an exceptional testimony to the cultural tradition of improving landscapes to create a series of vistas reflecting an idealised fusion between humans and nature.",
+  "danger": false,
+  "geojson": "west-lake-cultural-landscape-of-hangzhou.geojson"
+}

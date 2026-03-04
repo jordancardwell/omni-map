@@ -1,0 +1,19 @@
+{
+  "code": "dhole",
+  "name": "Dhole",
+  "scientificName": "Cuon alpinus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~4,500-10,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Deciduous and evergreen forest",
+  "threats": [
+    "Habitat loss",
+    "Prey depletion",
+    "Disease",
+    "Human persecution"
+  ],
+  "conservationEfforts": "Protected in many Asian countries. Wildlife corridors maintain connectivity between populations. Disease management programs reduce rabies and canine distemper.",
+  "description": "Asia's wild dog, also known as the Asiatic wild dog. They hunt in packs and can take prey ten times their own size. Their whistling calls coordinate pack movements through dense forest.",
+  "geojson": "dhole.geojson"
+}

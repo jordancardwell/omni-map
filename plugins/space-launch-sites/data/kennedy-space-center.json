@@ -1,0 +1,18 @@
+{
+  "code": "kennedy-space-center",
+  "name": "Kennedy Space Center",
+  "country": "United States",
+  "operator": "NASA / SpaceX",
+  "coordinates": "28.5728°N, 80.6490°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Apollo 11",
+    "STS-1 (first Shuttle)",
+    "Artemis I",
+    "Falcon Heavy demo"
+  ],
+  "orbitalInclinationRange": "28.5°–57°",
+  "location": "Kennedy Space Center, United States",
+  "description": "America's premier human spaceflight launch facility at Cape Canaveral, Florida. Home to historic Apollo Moon missions, the Space Shuttle program, and now SpaceX Falcon 9/Heavy launches from LC-39A.",
+  "geojson": "kennedy-space-center.geojson"
+}

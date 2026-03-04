@@ -1,0 +1,17 @@
+{
+  "code": "vallee-de-mai-nature-reserve",
+  "name": "Vallée de Mai Nature Reserve",
+  "type": "Natural",
+  "country": "Seychelles",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "In the heart of the small island of Praslin, the reserve has the vestiges of a natural palm forest preserved in almost its original state. The famous coco de mer, from a palm-tree once believed to grow in the depths of the sea, is the largest seed in the plant kingdom.",
+  "danger": false,
+  "geojson": "vallee-de-mai-nature-reserve.geojson"
+}

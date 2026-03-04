@@ -1,0 +1,16 @@
+{
+  "code": "hi-interisland-1",
+  "name": "HI Interisland-1",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3741,
+  "yearLaid": 2012,
+  "rfsDate": "2019-06",
+  "owner": "Hawaiian Telcom",
+  "landingPoints": [
+    "Honolulu, USA",
+    "Maui, USA"
+  ],
+  "description": "HI Interisland-1 connecting Honolulu to Maui in the Pacific.",
+  "geojson": "hi-interisland-1.geojson"
+}

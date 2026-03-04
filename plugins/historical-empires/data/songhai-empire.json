@@ -1,0 +1,25 @@
+{
+  "code": "songhai-empire",
+  "name": "Songhai Empire",
+  "era": "Early Modern",
+  "peakYear": "1500 CE",
+  "areaAtPeakKm2": 1400000,
+  "populationEstimate": "15 million",
+  "capital": "Gao",
+  "keyAchievements": [
+    "Expanded Timbuktu",
+    "Efficient provincial administration",
+    "Islamic scholarship",
+    "Niger River trade control",
+    "Professional army and navy"
+  ],
+  "declineFactors": [
+    "Moroccan invasion",
+    "Internal civil war",
+    "Gunpowder technology gap",
+    "Succession crisis",
+    "Loss of trade monopoly"
+  ],
+  "description": "The Songhai Empire (c. 1430–1591) was the largest empire in African history by territory. Rising from the ashes of the Mali Empire, it controlled the vital trans-Saharan trade routes and the fertile Niger River valley.\n\nUnder Sunni Ali and Askia Muhammad, the empire developed an efficient bureaucracy, a professional standing army with a river fleet, and expanded Timbuktu as a center of Islamic learning. The empire fell in 1591 when Moroccan forces armed with gunpowder weapons defeated the Songhai army at the Battle of Tondibi.",
+  "geojson": "songhai-empire.geojson"
+}

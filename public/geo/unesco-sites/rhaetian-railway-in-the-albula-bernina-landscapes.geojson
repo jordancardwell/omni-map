@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8463888889,
+          46.4983333333
+        ]
+      },
+      "properties": {
+        "code": "rhaetian-railway-in-the-albula-bernina-landscapes",
+        "name": "Rhaetian Railway in the Albula / Bernina Landscapes",
+        "type": "Cultural",
+        "country": "Italy, Switzerland",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1880555555,
+          19.3322222222
+        ]
+      },
+      "properties": {
+        "code": "central-university-city-campus-of-the-i-universidad-nacional-autonoma-de-mexico",
+        "name": "Central University City Campus of the Universidad Nacional Autónoma de México (UNAM)",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

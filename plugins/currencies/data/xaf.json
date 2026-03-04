@@ -1,0 +1,21 @@
+{
+  "code": "xaf",
+  "name": "Central African CFA Franc",
+  "isoCode": "XAF",
+  "symbol": "FCFA",
+  "region": "Africa",
+  "centralBank": "Bank of Central African States (BEAC)",
+  "exchangeRateEra": "Pegged to EUR",
+  "countries": [
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Republic of the Congo",
+    "Equatorial Guinea",
+    "Gabon"
+  ],
+  "countryCount": 6,
+  "description": "The Central African CFA Franc is shared by six Central African nations. Like its West African counterpart, it is pegged to the Euro.",
+  "historicalNotes": "Created in 1945 alongside the West African CFA franc. Despite having the same value, the two CFA francs are not interchangeable. The monetary arrangement has colonial origins.",
+  "geojson": "xaf.geojson"
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "amber-road",
+        "name": "Amber Road",
+        "featureType": "route",
+        "routeType": "land"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [18.65, 54.35],
+          [18.01, 53.13],
+          [17.04, 51.11],
+          [16.61, 50.30],
+          [16.88, 49.20],
+          [16.61, 48.21],
+          [15.44, 47.07],
+          [14.51, 46.06],
+          [13.37, 45.65],
+          [12.34, 45.44]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Gdańsk", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [18.65, 54.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Wrocław", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [17.04, 51.11] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Brno", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [16.61, 49.20] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Vienna", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [16.37, 48.21] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Ljubljana", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [14.51, 46.06] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Aquileia", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [13.37, 45.77] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "amber-road", "name": "Venice", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [12.34, 45.44] }
+    }
+  ]
+}

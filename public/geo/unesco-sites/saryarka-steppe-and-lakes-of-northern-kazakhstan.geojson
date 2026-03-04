@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1888888889,
+          50.4333333333
+        ]
+      },
+      "properties": {
+        "code": "saryarka-steppe-and-lakes-of-northern-kazakhstan",
+        "name": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+        "type": "Natural",
+        "country": "Kazakhstan",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

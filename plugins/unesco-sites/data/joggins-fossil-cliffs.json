@@ -1,0 +1,14 @@
+{
+  "code": "joggins-fossil-cliffs",
+  "name": "Joggins Fossil Cliffs",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Joggins Fossil Cliffs, a 689 ha palaeontological site along the coast of Nova Scotia (eastern Canada), have been described as the “coal age Galápagos” due to their wealth of fossils from the Carboniferous period (354 to 290 million years ago). The rocks of this site are considered to be iconic for this period of the history of Earth and are the world’s thickest and most comprehensive record of the Pennsylvanian strata (dating back 318 to 303 million years) with the most complete known fossil record of terrestrial life from that time. These include the remains and tracks of very early animals and the rainforest in which they lived, left in situ, intact and undisturbed. With its 14.7 km of sea cliffs, low bluffs, rock platforms and beach, the site groups remains of three ecosystems: estuarine bay, floodplain rainforest and fire prone forested alluvial plain with freshwater pools. It offers the richest assemblage known of the fossil life in these three ecosystems with 96 genera and 148 species of fossils and 20 footprint groups. The site is listed as containing outstanding examples representing major stages in the history of Earth.",
+  "danger": false,
+  "geojson": "joggins-fossil-cliffs.geojson"
+}

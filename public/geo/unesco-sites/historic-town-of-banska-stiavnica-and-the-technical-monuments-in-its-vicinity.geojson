@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9,
+          48.46111
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-banska-stiavnica-and-the-technical-monuments-in-its-vicinity",
+        "name": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+        "type": "Cultural",
+        "country": "Slovakia",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

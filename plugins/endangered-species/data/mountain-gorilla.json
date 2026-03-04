@@ -1,0 +1,19 @@
+{
+  "code": "mountain-gorilla",
+  "name": "Mountain Gorilla",
+  "scientificName": "Gorilla beringei beringei",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Montane cloud forest",
+  "threats": [
+    "Habitat loss",
+    "Poaching",
+    "Disease",
+    "Political instability"
+  ],
+  "conservationEfforts": "Dian Fossey Gorilla Fund and Gorilla Doctors provide veterinary care. Tourism revenue funds conservation. Population has grown from 620 in 1989 to over 1,000 today.",
+  "description": "Mountain gorillas live in the volcanic mountains of central Africa at elevations of 2,200-4,300 meters. They are one of conservation's greatest success stories, with populations slowly recovering.",
+  "geojson": "mountain-gorilla.geojson"
+}

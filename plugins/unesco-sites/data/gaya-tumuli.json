@@ -1,0 +1,14 @@
+{
+  "code": "gaya-tumuli",
+  "name": "Gaya Tumuli",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This serial property includes archaeological cemetery sites with burial mounds attributed to the Gaya Confederacy, which developed in the southern part of the Korean Peninsula from the 1st to the 6th century CE. Through their geographical distribution and landscape characteristics, types of burials, and grave goods, the cemeteries attest to the distinctive Gaya political system in which polities existed as autonomous political equals while sharing cultural commonalities. The introduction of new forms of tombs and the intensification of the spatial hierarchy in the tumuli sites reflect the structural changes experienced by Gaya society during its history.",
+  "danger": false,
+  "geojson": "gaya-tumuli.geojson"
+}

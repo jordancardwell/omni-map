@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.4076,46.4551]},"properties":{"code":"ligo-hanford","name":"LIGO Hanford","observatoryType":"Multi-messenger","status":"Operational","country":"United States"}}]}

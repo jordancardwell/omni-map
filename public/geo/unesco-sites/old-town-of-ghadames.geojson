@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          30.13333333
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-ghadames",
+        "name": "Old Town of Ghadamès",
+        "type": "Cultural",
+        "country": "Libya",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "gip",
+  "name": "Gibraltar Pound",
+  "isoCode": "GIP",
+  "symbol": "£",
+  "region": "Europe",
+  "centralBank": "Government of Gibraltar",
+  "exchangeRateEra": "Pegged to GBP at par",
+  "countries": [
+    "Gibraltar"
+  ],
+  "countryCount": 1,
+  "description": "The Gibraltar Pound is pegged at par with the British Pound Sterling. Gibraltar is a British Overseas Territory at the southern tip of the Iberian Peninsula.",
+  "historicalNotes": "Gibraltar has issued its own banknotes and coins since 1898. The territory is strategically located at the entrance to the Mediterranean Sea.",
+  "geojson": "gip.geojson"
+}

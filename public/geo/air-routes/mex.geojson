@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mex","name":"Mexico City International","featureType":"airport","iataCode":"MEX","annualPassengers":39500000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[-99.0721,19.4363]}}]}

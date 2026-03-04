@@ -1,0 +1,18 @@
+{
+  "code": "abingdon-tortoise",
+  "name": "Fernandina Giant Tortoise",
+  "scientificName": "Chelonoidis phantasticus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~1 confirmed individual",
+  "populationTrend": "Unknown",
+  "habitatType": "Volcanic island forest",
+  "threats": [
+    "Volcanic eruptions",
+    "Invasive species",
+    "Extremely small population"
+  ],
+  "conservationEfforts": "A single female was found alive on Fernandina Island in 2019, over 100 years after the only other known specimen. Galápagos National Park is searching for additional individuals.",
+  "description": "Thought extinct for over 100 years until a lone female was found in 2019 on Fernandina, one of the most volcanically active islands in the Galápagos. Expeditions continue searching for more individuals.",
+  "geojson": "abingdon-tortoise.geojson"
+}

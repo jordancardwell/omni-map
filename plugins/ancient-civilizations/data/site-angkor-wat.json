@@ -1,0 +1,12 @@
+{
+  "code": "site-angkor-wat",
+  "name": "Angkor Wat",
+  "period": "c. 1113–1150 CE",
+  "region": "Southeast Asia",
+  "type": "Archaeological Site",
+  "writingSystem": "Khmer script",
+  "majorAchievements": ["Largest religious monument in the world", "Bas-relief galleries", "Astronomical alignment", "Moat and water management"],
+  "keyCities": ["Angkor"],
+  "description": "Angkor Wat is the largest religious monument in the world, originally built as a Hindu temple dedicated to Vishnu and gradually transformed into a Buddhist site. Its five lotus-shaped towers, extensive bas-reliefs depicting scenes from Hindu mythology, and massive moat represent the pinnacle of Khmer architecture. The temple complex covers over 160 hectares.",
+  "geojson": "site-angkor-wat.geojson"
+}

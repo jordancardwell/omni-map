@@ -1,0 +1,16 @@
+{
+  "code": "hk-g-hong-kong-guam",
+  "name": "HK-G (Hong Kong-Guam)",
+  "capacityTbps": 48,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3900,
+  "yearLaid": 2019,
+  "rfsDate": "2020-10",
+  "owner": "RTI Connectivity",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Guam"
+  ],
+  "description": "High-capacity cable connecting Hong Kong to the US Pacific territory of Guam.",
+  "geojson": "hk-g-hong-kong-guam.geojson"
+}

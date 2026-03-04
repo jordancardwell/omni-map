@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-bukhara",
+  "name": "Historic Centre of Bukhara",
+  "type": "Cultural",
+  "country": "Uzbekistan",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Bukhara, which is situated on the Silk Route, is more than 2,000 years old. It is the most complete example of a medieval city in Central Asia, with an urban fabric that has remained largely intact. Monuments of particular interest include the famous tomb of Ismail Samani, a masterpiece of 10th-century Muslim architecture, and a large number of 17th-century madrasas.",
+  "danger": false,
+  "geojson": "historic-centre-of-bukhara.geojson"
+}

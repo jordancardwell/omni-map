@@ -1,0 +1,14 @@
+{
+  "code": "royal-court-of-tiebele",
+  "name": "Royal Court of Tiébélé",
+  "type": "Cultural",
+  "country": "Burkina Faso",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The property is an earthen architectural complex established since the 16th century that bears testimony to the social organization and cultural values of the Kasena people. Enclosed by a protective compound wall, the Royal Court consists of a set of buildings arranged in distinct concessions separated by walls and passageways leading to ceremonial and gathering places outside the compound. Built by the men of the Royal Court, the huts are then adorned with decorations of symbolic significance by the women, who are the sole guardians of this knowledge and ensure this tradition is kept alive.",
+  "danger": false,
+  "geojson": "royal-court-of-tiebele.geojson"
+}

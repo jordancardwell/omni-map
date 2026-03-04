@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ke","name":"Kenya","country":"KE","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[33.9,-4.7],[33.9,5.5],[41.9,5.5],[41.9,-4.7],[33.9,-4.7]]]}}]}

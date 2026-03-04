@@ -1,0 +1,14 @@
+{
+  "code": "yule-iceland",
+  "name": "Yule (Jól)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "December 12–January 6",
+  "origin": "Icelandic tradition",
+  "estimatedAttendance": "370,000+ Icelanders",
+  "unescoICH": "Not inscribed",
+  "traditions": "Yule Lads (Jólasveinar) visiting children for 13 nights; Yule Cat legend; hangikjöt (smoked lamb); laufabrauð (leaf bread).",
+  "historicalBackground": "Icelandic Yule traditions preserve Viking-era midwinter celebrations. The 13 Yule Lads descend from the mountains, one per night before Christmas.",
+  "description": "Iceland's atmospheric midwinter celebration, where ancient Viking traditions blend with the 13 mischievous Yule Lads visiting over Christmas.",
+  "location": "Reykjavik, Iceland",
+  "geojson": "yule-iceland.geojson"
+}

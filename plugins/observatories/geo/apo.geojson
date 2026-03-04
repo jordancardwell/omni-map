@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8203,32.7803]},"properties":{"code":"apo","name":"Apache Point Observatory","observatoryType":"Optical","status":"Operational","country":"United States"}}]}

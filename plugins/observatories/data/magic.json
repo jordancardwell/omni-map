@@ -1,0 +1,21 @@
+{
+  "code": "magic",
+  "name": "MAGIC Telescopes",
+  "country": "Spain",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 2200,
+  "aperture": "2 × 17 m mirrors",
+  "telescopes": [
+    "MAGIC-I",
+    "MAGIC-II"
+  ],
+  "keyDiscoveries": [
+    "Very-high-energy gamma-ray sources",
+    "Gamma-ray bursts at TeV",
+    "Dark matter limits"
+  ],
+  "location": "MAGIC Telescopes, Spain",
+  "description": "Twin 17m Cherenkov telescopes at La Palma detecting very-high-energy gamma rays. First to detect a gamma-ray burst at energies above 300 GeV.",
+  "geojson": "magic.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5658611111,
+          22.2855194444
+        ]
+      },
+      "properties": {
+        "code": "kaiping-diaolou-and-villages",
+        "name": "Kaiping Diaolou and Villages",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

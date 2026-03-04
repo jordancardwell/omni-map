@@ -1,0 +1,17 @@
+{
+  "code": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+  "name": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Seat of supreme power for over five centuries (1416-1911), the Forbidden City in Beijing, with its landscaped gardens and many buildings (whose nearly 10,000 rooms contain furniture and works of art), constitutes a priceless testimony to Chinese civilization during the Ming and Qing dynasties. The Imperial Palace of the Qing Dynasty in Shenyang consists of 114 buildings constructed between 1625–26 and 1783. It contains an important library and testifies to the foundation of the last dynasty that ruled China, before it expanded its power to the centre of the country and moved the capital to Beijing. This palace then became auxiliary to the Imperial Palace in Beijing. This remarkable architectural edifice offers important historical testimony to the history of the Qing Dynasty and to the cultural traditions of the Manchu and other tribes in the north of China.",
+  "danger": false,
+  "geojson": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang.geojson"
+}

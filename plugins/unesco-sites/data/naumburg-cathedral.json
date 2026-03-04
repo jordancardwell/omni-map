@@ -1,0 +1,15 @@
+{
+  "code": "naumburg-cathedral",
+  "name": "Naumburg Cathedral",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the eastern part of the Thuringian Basin, the Cathedral of Naumburg, whose construction began in 1028, is an outstanding testimony to medieval art and architecture. Its Romanesque structure, flanked by two Gothic choirs, demonstrates the stylistic transition from late Romanesque to early Gothic. The west choir, dating to the first half of the 13th century, reflects changes in religious practice and the appearance of science and nature in the figurative arts. The choir and life-size sculptures of the founders of the Cathedral are masterpieces of the workshop known as the ‘Naumburg Master’.",
+  "danger": false,
+  "geojson": "naumburg-cathedral.geojson"
+}

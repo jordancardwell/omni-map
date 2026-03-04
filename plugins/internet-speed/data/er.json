@@ -1,0 +1,17 @@
+{
+  "code": "er",
+  "name": "Eritrea",
+  "avgDownloadMbps": 2.8,
+  "avgUploadMbps": 0.8,
+  "avgLatencyMs": 68,
+  "mobileDownloadMbps": 3.4,
+  "mobileUploadMbps": 1,
+  "fixedDownloadMbps": 2.8,
+  "fixedUploadMbps": 0.8,
+  "rank": 194,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Among the world's least connected countries. ~4% year-over-year growth.",
+  "geojson": "er.geojson"
+}

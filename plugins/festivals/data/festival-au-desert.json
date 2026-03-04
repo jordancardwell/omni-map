@@ -1,0 +1,14 @@
+{
+  "code": "festival-au-desert",
+  "name": "Festival au Désert",
+  "festivalType": "Cultural",
+  "dateOrSeason": "January",
+  "origin": "Tuareg tradition",
+  "estimatedAttendance": "Thousands of visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Tuareg and desert blues music; camel races; sword dances; storytelling under the stars; nomadic cultural exchanges.",
+  "historicalBackground": "The Festival au Désert began in 2001 near Timbuktu to celebrate Tuareg peace accords. It drew international attention to Saharan culture and desert blues.",
+  "description": "The legendary desert music festival near Timbuktu, where Tuareg musicians and international artists perform under the Saharan stars.",
+  "location": "Timbuktu, Mali",
+  "geojson": "festival-au-desert.geojson"
+}

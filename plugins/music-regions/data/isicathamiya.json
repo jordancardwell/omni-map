@@ -1,0 +1,25 @@
+{
+  "code": "isicathamiya",
+  "name": "Isicathamiya",
+  "region": "KwaZulu-Natal, South Africa",
+  "traditionFamily": "Southern African",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "A Cappella Vocals",
+    "Body Movement"
+  ],
+  "keyArtists": [
+    "Ladysmith Black Mambazo",
+    "Solomon Linda",
+    "King Star Brothers",
+    "Nqo Brothers"
+  ],
+  "description": "Isicathamiya is an a cappella vocal tradition of the Zulu people of South Africa, made famous internationally by Ladysmith Black Mambazo through their collaboration with Paul Simon on the album 'Graceland.' Meaning 'walking softly,' isicathamiya features tight harmonies, gentle choreography, and competitive performances (ingoma ebusuku or 'night music') held in Durban's migrant worker hostels on Saturday nights.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – South African A Cappella",
+      "url": "https://folkways.si.edu/search?query=isicathamiya"
+    }
+  ],
+  "geojson": "isicathamiya.geojson"
+}

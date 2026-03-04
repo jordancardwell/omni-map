@@ -1,0 +1,17 @@
+{
+  "code": "monet",
+  "name": "Monet",
+  "capacityTbps": 65,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10500,
+  "yearLaid": 2017,
+  "rfsDate": "2017-12",
+  "owner": "Google, Algar, Angola Cables",
+  "landingPoints": [
+    "Boca Raton, USA",
+    "Fortaleza, Brazil",
+    "Santos, Brazil"
+  ],
+  "description": "US-Brazil cable system with 65 Tbps capacity.",
+  "geojson": "monet.geojson"
+}

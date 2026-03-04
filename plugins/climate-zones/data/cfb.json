@@ -1,0 +1,19 @@
+{
+  "code": "cfb",
+  "name": "Oceanic",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month <22°C; coldest month >0°C",
+  "precipitationPattern": "Year-round precipitation; no dry season",
+  "vegetation": "Temperate deciduous forest, lush meadows, moorland",
+  "exampleCities": [
+    "London",
+    "Paris",
+    "Berlin",
+    "Melbourne",
+    "Seattle",
+    "Wellington"
+  ],
+  "description": "Oceanic climate (Cfb) features mild temperatures year-round with no extreme heat or cold. Maritime influence moderates seasonal temperature swings. Found in Western Europe, New Zealand, Pacific Northwest, and southeastern Australia. Known for overcast skies and reliable but moderate rainfall.",
+  "typicalWeather": "Cool, mild conditions year-round. Summers are warm but rarely hot (16-22°C). Winters are cool but not severe (1-7°C). Overcast skies are frequent. Rainfall is regular and moderate, typically 600-1200mm annually. Snowfall is light and infrequent at low elevations.",
+  "geojson": "cfb.geojson"
+}

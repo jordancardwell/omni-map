@@ -1,0 +1,39 @@
+{
+  "id": "religions",
+  "name": "World Religions",
+  "description": "Geographic distribution of major world religions and faith traditions",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#8B5CF6",
+  "categories": ["culture", "society"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Culture & Society",
+  "thumbnail": "#8B5CF6",
+  "schema": "ReligionMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "family", "denominations"],
+    "groupBy": "family",
+    "titleField": "name",
+    "subtitleField": "foundingPeriod",
+    "badgeField": "adherents.estimated",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "foundingPeriod"
+  },
+  "detailFields": [
+    { "key": "family", "label": "Religion Family", "type": "text" },
+    { "key": "foundingPeriod", "label": "Founded", "type": "text" },
+    { "key": "adherents.estimated", "label": "Estimated Adherents", "type": "formatted-number" },
+    { "key": "adherents.percentWorld", "label": "% of World Population", "type": "text" },
+    { "key": "adherents.source", "label": "Source", "type": "text" },
+    { "key": "keyRegions", "label": "Key Regions", "type": "tags" },
+    { "key": "denominations", "label": "Denominations / Branches", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "historicalNotes", "label": "Historical Notes", "type": "markdown" }
+  ]
+}

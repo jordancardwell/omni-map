@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3255277778,
+          38.9371666667
+        ]
+      },
+      "properties": {
+        "code": "royal-building-of-i-mafra-i-palace-basilica-convent-i-cerco-i-garden-and-hunting",
+        "name": "Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada)",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "za-east-coast-1",
+  "name": "ZA East Coast-1",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 649,
+  "yearLaid": 2010,
+  "rfsDate": "2020-06",
+  "owner": "Telkom SA",
+  "landingPoints": [
+    "Durban, South Africa",
+    "Port Elizabeth, South Africa"
+  ],
+  "description": "ZA East Coast-1 connecting Durban to Port Elizabeth in East Africa/Indian Ocean.",
+  "geojson": "za-east-coast-1.geojson"
+}

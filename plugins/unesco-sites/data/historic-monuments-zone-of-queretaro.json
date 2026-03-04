@@ -1,0 +1,15 @@
+{
+  "code": "historic-monuments-zone-of-queretaro",
+  "name": "Historic Monuments Zone of Querétaro",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The old colonial town of Querétaro is unusual in having retained the geometric street plan of the Spanish conquerors side by side with the twisting alleys of the Indian quarters. The Otomi, the Tarasco, the Chichimeca and the Spanish lived together peacefully in the town, which is notable for the many ornate civil and religious Baroque monuments from its golden age in the 17th and 18th centuries.",
+  "danger": false,
+  "geojson": "historic-monuments-zone-of-queretaro.geojson"
+}

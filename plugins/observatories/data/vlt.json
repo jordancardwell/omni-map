@@ -1,0 +1,24 @@
+{
+  "code": "vlt",
+  "name": "Very Large Telescope (VLT)",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2635,
+  "aperture": "4 × 8.2 m",
+  "telescopes": [
+    "Antu",
+    "Kueyen",
+    "Melipal",
+    "Yepun",
+    "VLTI"
+  ],
+  "keyDiscoveries": [
+    "First image of exoplanet",
+    "Stellar orbits around Sgr A*",
+    "Accelerating universe confirmation"
+  ],
+  "location": "Very Large Telescope (VLT), Chile",
+  "description": "ESO's flagship facility at Cerro Paranal. Its four 8.2m Unit Telescopes can work independently or combine light interferometrically, making it the world's most productive ground-based observatory.",
+  "geojson": "vlt.geojson"
+}

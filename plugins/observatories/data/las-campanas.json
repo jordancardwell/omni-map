@@ -1,0 +1,23 @@
+{
+  "code": "las-campanas",
+  "name": "Las Campanas Observatory",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2516,
+  "aperture": "6.5 m (Magellan)",
+  "telescopes": [
+    "Magellan Baade",
+    "Magellan Clay",
+    "Swope 1m",
+    "du Pont 2.5m"
+  ],
+  "keyDiscoveries": [
+    "Supernovae distance ladder",
+    "Type Ia cosmology",
+    "Exoplanet surveys"
+  ],
+  "location": "Las Campanas Observatory, Chile",
+  "description": "Carnegie Institution observatory in the Chilean Andes. Home to the twin Magellan telescopes and future site of the Giant Magellan Telescope.",
+  "geojson": "las-campanas.geojson"
+}

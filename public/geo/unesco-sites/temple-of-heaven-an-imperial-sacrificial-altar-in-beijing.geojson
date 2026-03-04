@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4447222,
+          39.84555556
+        ]
+      },
+      "properties": {
+        "code": "temple-of-heaven-an-imperial-sacrificial-altar-in-beijing",
+        "name": "Temple of Heaven: an Imperial Sacrificial Altar in Beijing",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

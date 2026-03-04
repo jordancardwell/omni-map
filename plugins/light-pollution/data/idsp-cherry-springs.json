@@ -1,0 +1,23 @@
+{
+  "code": "idsp-cherry-springs",
+  "name": "Cherry Springs State Park",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Park (Gold Tier)",
+  "designationYear": "2008",
+  "areaSqKm": 19,
+  "visibleObjects": [
+    "Milky Way",
+    "Andromeda Galaxy",
+    "Triangulum Galaxy (naked eye)",
+    "Zodiacal light"
+  ],
+  "exampleLocations": [
+    "Potter County, Pennsylvania, USA"
+  ],
+  "nearestDarkSkyReserves": [
+    "Cherry Springs (this site)"
+  ],
+  "description": "One of the darkest locations in the eastern United States, located on a mountaintop in Pennsylvania's Susquehannock State Forest. Despite being within a day's drive of 60 million people, the park's 2,300-foot elevation and surrounding forestland create surprisingly dark skies. It is a major destination for amateur astronomers from the US East Coast and hosts star parties drawing thousands of participants throughout the summer months.",
+  "geojson": "idsp-cherry-springs.geojson"
+}

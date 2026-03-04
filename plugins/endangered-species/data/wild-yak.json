@@ -1,0 +1,19 @@
+{
+  "code": "wild-yak",
+  "name": "Wild Yak",
+  "scientificName": "Bos mutus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~7,500-10,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "High altitude grassland and steppe",
+  "threats": [
+    "Hybridization with domestic yak",
+    "Hunting",
+    "Habitat disturbance",
+    "Competition with livestock"
+  ],
+  "conservationEfforts": "Chang Tang Nature Reserve in Tibet protects core habitat. Anti-poaching enforcement improved. Chinese government expanded protected areas on the Tibetan Plateau.",
+  "description": "The wild ancestor of the domestic yak, standing nearly 2 meters tall at the shoulder. They live at elevations of 4,000-6,000 meters on the Tibetan Plateau, where temperatures drop to -40°C.",
+  "geojson": "wild-yak.geojson"
+}

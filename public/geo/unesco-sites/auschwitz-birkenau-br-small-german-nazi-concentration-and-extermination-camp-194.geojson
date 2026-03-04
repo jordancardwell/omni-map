@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.175,
+          50.0388888889
+        ]
+      },
+      "properties": {
+        "code": "auschwitz-birkenau-br-small-german-nazi-concentration-and-extermination-camp-194",
+        "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

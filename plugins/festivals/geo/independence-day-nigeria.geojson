@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792,
+          6.5244
+        ]
+      },
+      "properties": {
+        "code": "independence-day-nigeria",
+        "name": "Independence Day (Nigeria)",
+        "festivalType": "National",
+        "dateOrSeason": "October 1",
+        "location": "Lagos, Nigeria"
+      }
+    }
+  ]
+}

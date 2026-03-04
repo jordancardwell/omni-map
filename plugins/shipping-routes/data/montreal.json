@@ -1,0 +1,15 @@
+{
+  "code": "montreal",
+  "name": "Port of Montreal",
+  "country": "Canada",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "Great Lakes–St. Lawrence Seaway"
+  ],
+  "description": "Port of Montreal in Canada. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "montreal.geojson"
+}

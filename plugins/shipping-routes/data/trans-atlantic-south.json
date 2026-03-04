@@ -1,0 +1,8 @@
+{
+  "code": "trans-atlantic-south",
+  "name": "Trans-Atlantic Southern Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Connects West African and South American ports. Major corridor for oil exports from Nigeria/Angola and agricultural commodities from Brazil.",
+  "geojson": "trans-atlantic-south.geojson"
+}

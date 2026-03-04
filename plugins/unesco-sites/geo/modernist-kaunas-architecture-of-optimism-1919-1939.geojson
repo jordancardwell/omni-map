@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9291666667,
+          54.8969444444
+        ]
+      },
+      "properties": {
+        "code": "modernist-kaunas-architecture-of-optimism-1919-1939",
+        "name": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+        "type": "Cultural",
+        "country": "Lithuania",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

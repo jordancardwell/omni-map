@@ -1,0 +1,17 @@
+{
+  "code": "clt-ord",
+  "name": "Charlotte — Chicago",
+  "airports": [
+    "CLT",
+    "ORD"
+  ],
+  "distanceKm": 964,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CLT–ORD route between Charlotte and Chicago. Distance: 964 km. ~60 weekly flights operated by American.",
+  "geojson": "clt-ord.geojson"
+}

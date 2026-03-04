@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911111111,
+          52.54888889
+        ]
+      },
+      "properties": {
+        "code": "droogmakerij-de-beemster-beemster-polder",
+        "name": "Droogmakerij de Beemster (Beemster Polder)",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

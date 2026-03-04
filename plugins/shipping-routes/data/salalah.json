@@ -1,0 +1,15 @@
+{
+  "code": "salalah",
+  "name": "Port of Salalah",
+  "country": "Oman",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Horn of Africa & Gulf of Aden",
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Salalah in Oman. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "salalah.geojson"
+}

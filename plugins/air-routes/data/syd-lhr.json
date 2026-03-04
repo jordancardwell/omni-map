@@ -1,0 +1,17 @@
+{
+  "code": "syd-lhr",
+  "name": "Sydney — London",
+  "airports": [
+    "SYD",
+    "LHR"
+  ],
+  "distanceKm": 17020,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Qantas"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SYD–LHR route between Sydney and London. Distance: 17,020 km. ~20 weekly flights operated by Qantas.",
+  "geojson": "syd-lhr.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "bwindi-impenetrable-national-park",
+  "name": "Bwindi Impenetrable National Park",
+  "type": "Natural",
+  "country": "Uganda",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Located in south-western Uganda, at the junction of the plain and mountain forests, Bwindi Park covers 32,000 ha and is known for its exceptional biodiversity, with more than 160 species of trees and over 100 species of ferns. Many types of birds and butterflies can also be found there, as well as many endangered species, including the mountain gorilla.",
+  "danger": false,
+  "geojson": "bwindi-impenetrable-national-park.geojson"
+}

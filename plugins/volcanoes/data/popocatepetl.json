@@ -1,0 +1,22 @@
+{
+  "code": "popocatepetl",
+  "name": "Popocatépetl",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 5426,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Mexico",
+  "region": "Trans-Mexican Volcanic Belt",
+  "location": "Trans-Mexican Volcanic Belt, Mexico",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "Has been in near-continuous activity since 1994 after 70 years of dormancy. Frequent vulcanian explosions and dome growth/collapse cycles.",
+  "description": "Popocatépetl is one of Mexico's most active volcanoes, towering over the Mexico City metropolitan area. Over 25 million people live within potential hazard zones.",
+  "geojson": "popocatepetl.geojson"
+}

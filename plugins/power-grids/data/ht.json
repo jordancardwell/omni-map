@@ -1,0 +1,18 @@
+{
+  "code": "ht",
+  "name": "Haiti",
+  "voltage": "110V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)"
+  ],
+  "voltageStandard": "110V",
+  "adapterNotes": "US-style plugs. Power supply can be unreliable; consider a surge protector.",
+  "geojson": "ht.geojson"
+}

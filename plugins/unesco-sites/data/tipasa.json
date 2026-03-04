@@ -1,0 +1,15 @@
+{
+  "code": "tipasa",
+  "name": "Tipasa",
+  "type": "Cultural",
+  "country": "Algeria",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "On the shores of the Mediterranean, Tipasa was an ancient Punic trading-post conquered by Rome and turned into a strategic base for the conquest of the kingdoms of Mauritania. It comprises a unique group of Phoenician, Roman, palaeochristian and Byzantine ruins alongside indigenous monuments such as the Kbor er Roumia, the great royal mausoleum of Mauretania.",
+  "danger": false,
+  "geojson": "tipasa.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "maidanak",
+  "name": "Maidanak Observatory",
+  "country": "Uzbekistan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2593,
+  "aperture": "1.5 m (AZT-22)",
+  "telescopes": [
+    "AZT-22 1.5m",
+    "Zeiss-600"
+  ],
+  "keyDiscoveries": [
+    "Site characterization",
+    "Gravitational microlensing",
+    "Stellar photometry"
+  ],
+  "location": "Maidanak Observatory, Uzbekistan",
+  "description": "One of the best astronomical sites in the CIS, in the Pamir-Alay range. Exceptional seeing conditions rivaling top sites worldwide.",
+  "geojson": "maidanak.geojson"
+}

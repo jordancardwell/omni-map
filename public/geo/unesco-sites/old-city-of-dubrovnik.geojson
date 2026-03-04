@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1088611111,
+          42.6414211111
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-dubrovnik",
+        "name": "Old City of Dubrovnik",
+        "type": "Cultural",
+        "country": "Croatia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

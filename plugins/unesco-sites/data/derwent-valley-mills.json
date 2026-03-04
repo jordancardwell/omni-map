@@ -1,0 +1,15 @@
+{
+  "code": "derwent-valley-mills",
+  "name": "Derwent Valley Mills",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Derwent Valley in central England contains a series of 18th- and 19th- century cotton mills and an industrial landscape of high historical and technological interest. The modern factory owes its origins to the mills at Cromford, where Richard Arkwright's inventions were first put into industrial-scale production. The workers' housing associated with this and the other mills remains intact and illustrate the socio-economic development of the area.",
+  "danger": false,
+  "geojson": "derwent-valley-mills.geojson"
+}

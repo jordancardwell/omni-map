@@ -1,0 +1,16 @@
+{
+  "code": "sacs-south-atlantic-cable-system",
+  "name": "SACS (South Atlantic Cable System)",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6200,
+  "yearLaid": 2018,
+  "rfsDate": "2018-09",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Luanda, Angola"
+  ],
+  "description": "First direct cable connecting South America to Africa, bypassing traditional Europe routing.",
+  "geojson": "sacs-south-atlantic-cable-system.geojson"
+}

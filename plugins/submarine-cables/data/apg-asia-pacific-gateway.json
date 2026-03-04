@@ -1,0 +1,20 @@
+{
+  "code": "apg-asia-pacific-gateway",
+  "name": "APG (Asia Pacific Gateway)",
+  "capacityTbps": 54.8,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10400,
+  "yearLaid": 2014,
+  "rfsDate": "2016-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Ho Chi Minh City, Vietnam",
+    "Hong Kong, China",
+    "Tokyo, Japan",
+    "Singapore",
+    "Taipei, Taiwan",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "Asia Pacific Gateway cable connecting major markets in the Asia-Pacific region.",
+  "geojson": "apg-asia-pacific-gateway.geojson"
+}

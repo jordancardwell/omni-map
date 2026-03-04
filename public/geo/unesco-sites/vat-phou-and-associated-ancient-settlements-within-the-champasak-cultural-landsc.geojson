@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8222222222,
+          14.8483333333
+        ]
+      },
+      "properties": {
+        "code": "vat-phou-and-associated-ancient-settlements-within-the-champasak-cultural-landsc",
+        "name": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+        "type": "Cultural",
+        "country": "Lao People's Democratic Republic",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

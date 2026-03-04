@@ -1,0 +1,14 @@
+{
+  "code": "charleston",
+  "name": "Port of Charleston",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "East Coast Americas Route"
+  ],
+  "description": "Port of Charleston in United States. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "charleston.geojson"
+}

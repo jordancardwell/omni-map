@@ -1,0 +1,20 @@
+{
+  "code": "apo-reef",
+  "name": "Apo Reef",
+  "location": "Mindoro, Philippines",
+  "areaKm2": 34,
+  "reefType": "Atoll",
+  "healthStatus": "Near Threatened",
+  "coralSpecies": 385,
+  "marineSpecies": 530,
+  "threats": [
+    "Illegal fishing",
+    "Crown-of-thorns starfish",
+    "Coral bleaching",
+    "Anchor damage",
+    "Poaching"
+  ],
+  "conservationStatus": "Apo Reef Natural Park, managed by the Apo Reef Protected Area Management Board. Philippines' largest contiguous reef system.",
+  "description": "Apo Reef is the largest contiguous coral reef system in the Philippines and the second-largest in the world after Australia's Great Barrier Reef. The atoll-like structure covers 34 km² of reef area in the Mindoro Strait.\n\nThe reef's remote location in the Sulu Sea has helped preserve its ecological integrity, though enforcement of no-take zones remains challenging. Apo Reef supports exceptional coral diversity with nearly 400 species, and is an important aggregation site for sharks, mantas, and marine turtles. The reef is a critical component of the broader Coral Triangle ecosystem.",
+  "geojson": "apo-reef.geojson"
+}

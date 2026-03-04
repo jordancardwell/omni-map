@@ -1,0 +1,20 @@
+{
+  "code": "dkist",
+  "name": "Daniel K. Inouye Solar Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3084,
+  "aperture": "4 m",
+  "telescopes": [
+    "DKIST"
+  ],
+  "keyDiscoveries": [
+    "Highest-resolution solar images ever",
+    "Magnetic field mapping",
+    "Solar corona studies"
+  ],
+  "location": "Daniel K. Inouye Solar Telescope, United States",
+  "description": "The world's largest solar telescope on Haleakalā, Maui. Its 4m aperture resolves features as small as 20 km on the Sun's surface.",
+  "geojson": "dkist.geojson"
+}

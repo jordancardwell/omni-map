@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"nasa","name":"Nasa","people":"Nasa","region":"Central America / Caribbean"},"geometry":{"type":"Polygon","coordinates":[[[-75.4,2.8],[-75.6,3.5],[-76.1,3.5],[-76.5,3.2],[-76.8,2.4],[-76.2,2.2],[-75.6,2.2],[-75.4,2.8]]]}}]}

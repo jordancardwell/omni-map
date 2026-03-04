@@ -1,0 +1,14 @@
+{
+  "code": "punic-town-of-kerkuane-and-its-necropolis",
+  "name": "Punic Town of Kerkuane and its Necropolis",
+  "type": "Cultural",
+  "country": "Tunisia",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "This Phoenician city was probably abandoned during the First Punic War (c. 250 B.C.) and as a result was not rebuilt by the Romans. The remains constitute the only example of a Phoenicio-Punic city to have survived. The houses were built to a standard plan in accordance with a sophisticated notion of town planning.",
+  "danger": false,
+  "geojson": "punic-town-of-kerkuane-and-its-necropolis.geojson"
+}

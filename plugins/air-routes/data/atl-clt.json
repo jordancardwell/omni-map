@@ -1,0 +1,18 @@
+{
+  "code": "atl-clt",
+  "name": "Atlanta — Charlotte",
+  "airports": [
+    "ATL",
+    "CLT"
+  ],
+  "distanceKm": 364,
+  "weeklyFlights": 100,
+  "airlines": [
+    "American",
+    "Delta"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–CLT route between Atlanta and Charlotte. Distance: 364 km. ~100 weekly flights operated by American, Delta.",
+  "geojson": "atl-clt.geojson"
+}

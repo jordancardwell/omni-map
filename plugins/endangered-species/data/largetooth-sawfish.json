@@ -1,0 +1,18 @@
+{
+  "code": "largetooth-sawfish",
+  "name": "Largetooth Sawfish",
+  "scientificName": "Pristis pristis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical river and coast",
+  "threats": [
+    "Bycatch",
+    "Habitat loss",
+    "Sawfish product trade"
+  ],
+  "conservationEfforts": "Listed on CITES Appendix I. Protected under Australian legislation. Sawfish conservation networks in West Africa and Central America. Indigenous ranger monitoring in northern Australia.",
+  "description": "Historically one of the most widespread sawfish, now extinct from most of its former range. Its toothed rostrum was once traded as a curiosity, contributing to population decline.",
+  "geojson": "largetooth-sawfish.geojson"
+}

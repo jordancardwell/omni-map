@@ -1,0 +1,16 @@
+{
+  "code": "portovenere-cinque-terre-and-the-islands-palmaria-tino-and-tinetto",
+  "name": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Ligurian coast between Cinque Terre and Portovenere is a cultural landscape of great scenic and cultural value. The layout and disposition of the small towns and the shaping of the surrounding landscape, overcoming the disadvantages of a steep, uneven terrain, encapsulate the continuous history of human settlement in this region over the past millennium.",
+  "danger": false,
+  "geojson": "portovenere-cinque-terre-and-the-islands-palmaria-tino-and-tinetto.geojson"
+}

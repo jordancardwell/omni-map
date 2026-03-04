@@ -1,0 +1,18 @@
+{
+  "code": "ctu-icn",
+  "name": "Chengdu — Seoul",
+  "airports": [
+    "CTU",
+    "ICN"
+  ],
+  "distanceKm": 2211,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Sichuan Airlines",
+    "Korean Air"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CTU–ICN route between Chengdu and Seoul. Distance: 2,211 km. ~25 weekly flights operated by Sichuan Airlines, Korean Air.",
+  "geojson": "ctu-icn.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "brasilia",
+  "name": "Brasilia",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Brasilia, a capital created ex nihilo in the centre of the country in 1956, was a landmark in the history of town planning. Urban planner Lucio Costa and architect Oscar Niemeyer intended that every element – from the layout of the residential and administrative districts (often compared to the shape of a bird in flight) to the symmetry of the buildings themselves – should be in harmony with the city’s overall design. The official buildings, in particular, are innovative and imaginative.",
+  "danger": false,
+  "geojson": "brasilia.geojson"
+}

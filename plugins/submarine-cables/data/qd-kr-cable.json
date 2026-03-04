@@ -1,0 +1,16 @@
+{
+  "code": "qd-kr-cable",
+  "name": "QD-KR Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 478,
+  "yearLaid": 2021,
+  "rfsDate": "2020-06",
+  "owner": "China Unicom",
+  "landingPoints": [
+    "Qingdao, China",
+    "Busan, South Korea"
+  ],
+  "description": "QD-KR Cable connecting Qingdao to Busan in East Asia.",
+  "geojson": "qd-kr-cable.geojson"
+}

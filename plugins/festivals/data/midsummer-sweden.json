@@ -1,0 +1,14 @@
+{
+  "code": "midsummer-sweden",
+  "name": "Midsummer (Midsommar)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Friday between June 19–25",
+  "origin": "Swedish tradition",
+  "estimatedAttendance": "Millions across Sweden",
+  "unescoICH": "Not inscribed",
+  "traditions": "Raising and dancing around the maypole (midsommarstång); flower crowns; strawberry cake; herring feast; singing traditional songs.",
+  "historicalBackground": "Midsommar has pre-Christian origins celebrating the summer solstice. The maypole tradition dates to the Middle Ages and symbolizes fertility.",
+  "description": "Sweden's most cherished holiday, celebrating the summer solstice with maypole dances, flower crowns, and festive feasts in the midnight sun.",
+  "location": "Stockholm, Sweden",
+  "geojson": "midsummer-sweden.geojson"
+}

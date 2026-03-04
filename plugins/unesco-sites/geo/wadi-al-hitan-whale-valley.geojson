@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.18333,
+          29.33333
+        ]
+      },
+      "properties": {
+        "code": "wadi-al-hitan-whale-valley",
+        "name": "Wadi Al-Hitan (Whale Valley)",
+        "type": "Natural",
+        "country": "Egypt",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

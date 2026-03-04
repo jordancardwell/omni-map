@@ -1,0 +1,14 @@
+{
+  "code": "okinawan-eisa",
+  "name": "Eisa Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "August (Obon period)",
+  "origin": "Okinawan tradition",
+  "estimatedAttendance": "200,000+ spectators",
+  "unescoICH": "Not inscribed",
+  "traditions": "Dynamic group dancing with taiko drums (paranku and odaiko); traditional Ryukyuan music; kachashi dance; community performances.",
+  "historicalBackground": "Eisa dance originated in the 17th century as a Buddhist Obon observance unique to Okinawa. It blends Ryukyuan culture with mainland Japanese Bon Odori traditions.",
+  "description": "Okinawa's electrifying drum dance festival, where troupes of dancers perform dynamic Eisa dances to honor ancestors during the Obon season.",
+  "location": "Okinawa, Japan",
+  "geojson": "okinawan-eisa.geojson"
+}

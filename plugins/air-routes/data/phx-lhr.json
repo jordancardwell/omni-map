@@ -1,0 +1,17 @@
+{
+  "code": "phx-lhr",
+  "name": "Phoenix — London",
+  "airports": [
+    "PHX",
+    "LHR"
+  ],
+  "distanceKm": 8463,
+  "weeklyFlights": 20,
+  "airlines": [
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PHX–LHR route between Phoenix and London. Distance: 8,463 km. ~20 weekly flights operated by British Airways.",
+  "geojson": "phx-lhr.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.86667,
+          -14.26667
+        ]
+      },
+      "properties": {
+        "code": "noel-kempff-mercado-national-park",
+        "name": "Noel Kempff Mercado National Park",
+        "type": "Natural",
+        "country": "Bolivia (Plurinational State of)",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

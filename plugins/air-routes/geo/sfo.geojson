@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sfo","name":"San Francisco International","featureType":"airport","iataCode":"SFO","annualPassengers":55000000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[-122.379,37.6213]}}]}

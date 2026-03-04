@@ -1,0 +1,14 @@
+{
+  "code": "dia-de-la-independencia-mexico",
+  "name": "Mexican Independence Day",
+  "festivalType": "National",
+  "dateOrSeason": "September 15–16",
+  "origin": "Mexican national",
+  "estimatedAttendance": "130+ million Mexicans",
+  "unescoICH": "Not inscribed",
+  "traditions": "El Grito de Dolores reenactment from National Palace; bell ringing; fireworks; patriotic music; traditional food; parades.",
+  "historicalBackground": "Mexico's Independence Day commemorates the Grito de Dolores on September 16, 1810, when Father Miguel Hidalgo called for revolt against Spanish rule.",
+  "description": "Mexico's passionate celebration of independence, beginning with the dramatic El Grito ceremony and culminating in nationwide festivities.",
+  "location": "Mexico City, Mexico",
+  "geojson": "dia-de-la-independencia-mexico.geojson"
+}

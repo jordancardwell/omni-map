@@ -1,0 +1,16 @@
+{
+  "code": "gu-pw-cable",
+  "name": "GU-PW Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2756,
+  "yearLaid": 2018,
+  "rfsDate": "2023-06",
+  "owner": "BSCC",
+  "landingPoints": [
+    "Guam",
+    "Koror, Palau"
+  ],
+  "description": "GU-PW Cable connecting Guam to Koror in the Pacific.",
+  "geojson": "gu-pw-cable.geojson"
+}

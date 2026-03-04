@@ -1,0 +1,15 @@
+{
+  "code": "tokaj-wine-region-historic-cultural-landscape",
+  "name": "Tokaj Wine Region Historic Cultural Landscape",
+  "type": "Cultural",
+  "country": "Hungary",
+  "yearInscribed": "2002",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries.",
+  "danger": false,
+  "geojson": "tokaj-wine-region-historic-cultural-landscape.geojson"
+}

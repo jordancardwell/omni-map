@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.692,
+          -1.047
+        ]
+      },
+      "properties": {
+        "code": "bwindi-impenetrable-national-park",
+        "name": "Bwindi Impenetrable National Park",
+        "type": "Natural",
+        "country": "Uganda",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

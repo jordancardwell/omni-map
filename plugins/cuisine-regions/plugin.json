@@ -1,0 +1,37 @@
+{
+  "id": "cuisine-regions",
+  "name": "Cuisine & Food Culture Regions",
+  "description": "Major world culinary regions showcasing how geography shapes food culture",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#E67E22",
+  "categories": ["culture", "food"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Culture & Society",
+  "thumbnail": "#E67E22",
+  "schema": "CuisineMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "cuisineFamily", "keyIngredients", "signatureDishes"],
+    "groupBy": "cuisineFamily",
+    "titleField": "name",
+    "subtitleField": "cuisineFamily",
+    "badgeField": "signatureDishes",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "cuisineFamily"
+  },
+  "detailFields": [
+    { "key": "cuisineFamily", "label": "Cuisine Family", "type": "text" },
+    { "key": "description", "label": "Overview", "type": "markdown" },
+    { "key": "signatureDishes", "label": "Signature Dishes", "type": "tags" },
+    { "key": "keyIngredients", "label": "Key Ingredients", "type": "tags" },
+    { "key": "cookingTechniques", "label": "Cooking Techniques", "type": "tags" },
+    { "key": "unescoRecognition", "label": "UNESCO Recognition", "type": "text" },
+    { "key": "keyRegions", "label": "Key Regions", "type": "tags" }
+  ]
+}

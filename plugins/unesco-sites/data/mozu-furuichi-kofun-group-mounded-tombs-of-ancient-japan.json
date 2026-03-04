@@ -1,0 +1,15 @@
+{
+  "code": "mozu-furuichi-kofun-group-mounded-tombs-of-ancient-japan",
+  "name": "Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located on a plateau above the Osaka Plain, this property includes 49 kofun (“old mounds” in Japanese). These tombs were for members of the elite. These kofun have been selected from among a total of 160,000 in Japan and form the richest material representation of the Kofun period, from the 3rd to the 6th century CE. They demonstrate the differences in social classes of that period and show evidence of a highly sophisticated funerary system. Burial mounds of significant variations in size, kofun take the geometrically elaborate design forms of keyhole, scallop, square or circle. They were decorated with paving stones and clay figures. The kofun demonstrate exceptional technical achievements of earthen constructions.",
+  "danger": false,
+  "geojson": "mozu-furuichi-kofun-group-mounded-tombs-of-ancient-japan.geojson"
+}

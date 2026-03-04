@@ -1,0 +1,17 @@
+{
+  "code": "woomera",
+  "name": "Woomera Test Range",
+  "country": "Australia",
+  "operator": "Australian DOD / RAAF",
+  "coordinates": "31.1000°S, 136.8340°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "WRESAT (Australia's first satellite, 1967)",
+    "Europa rocket tests",
+    "Black Arrow launches"
+  ],
+  "orbitalInclinationRange": "83°–96°",
+  "location": "Woomera Test Range, Australia",
+  "description": "Historic Australian launch range in South Australia. Launched Australia's first satellite (WRESAT) in 1967 using a US Redstone rocket. Also used for British Black Arrow and European Europa rocket programs.",
+  "geojson": "woomera.geojson"
+}

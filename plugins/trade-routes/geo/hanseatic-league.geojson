@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "hanseatic-league",
+        "name": "Baltic Route (Lübeck – Novgorod)",
+        "featureType": "route",
+        "routeType": "maritime"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.69, 53.87],
+          [12.13, 54.09],
+          [13.38, 54.10],
+          [16.17, 54.52],
+          [18.65, 54.35],
+          [20.51, 54.72],
+          [21.01, 56.33],
+          [24.11, 56.95],
+          [24.75, 59.44],
+          [27.18, 59.38],
+          [28.20, 59.37],
+          [30.32, 59.93],
+          [31.28, 58.52]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "hanseatic-league",
+        "name": "North Sea Route (Lübeck – London – Bruges)",
+        "featureType": "route",
+        "routeType": "maritime"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.69, 53.87],
+          [9.99, 53.55],
+          [8.81, 53.08],
+          [7.20, 53.34],
+          [5.48, 53.22],
+          [3.73, 52.08],
+          [1.73, 52.63],
+          [0.13, 51.51],
+          [-0.12, 51.51],
+          [0.53, 51.25],
+          [1.62, 51.22],
+          [3.22, 51.21]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "hanseatic-league",
+        "name": "Scandinavian Route (Lübeck – Bergen – Stockholm)",
+        "featureType": "route",
+        "routeType": "maritime"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.69, 53.87],
+          [10.40, 55.39],
+          [11.97, 57.71],
+          [9.72, 58.97],
+          [6.93, 60.06],
+          [5.32, 60.39]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "hanseatic-league",
+        "name": "Stockholm Route",
+        "featureType": "route",
+        "routeType": "maritime"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.69, 53.87],
+          [12.13, 54.09],
+          [13.38, 54.10],
+          [14.78, 55.43],
+          [16.33, 56.67],
+          [18.07, 59.33]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Lübeck", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [10.69, 53.87] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Hamburg", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [9.99, 53.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Bremen", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [8.81, 53.08] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Bruges", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [3.22, 51.21] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "London", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-0.12, 51.51] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Bergen", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [5.32, 60.39] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Novgorod", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [31.28, 58.52] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Gdańsk", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [18.65, 54.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Riga", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [24.11, 56.95] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "hanseatic-league", "name": "Stockholm", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [18.07, 59.33] }
+    }
+  ]
+}

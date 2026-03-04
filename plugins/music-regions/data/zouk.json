@@ -1,0 +1,29 @@
+{
+  "code": "zouk",
+  "name": "Zouk",
+  "region": "French Antilles (Guadeloupe & Martinique)",
+  "traditionFamily": "Caribbean",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Synthesizer",
+    "Bass Guitar",
+    "Drums",
+    "Ti Bwa (Sticks)",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Kassav'",
+    "Zouk Machine",
+    "Tanya Saint-Val",
+    "Jean-Philippe Marthely",
+    "Jacob Desvarieux"
+  ],
+  "description": "Zouk is a fast, carnival-style rhythmic music originating from the French Caribbean islands of Guadeloupe and Martinique. Created in the 1980s by the band Kassav', zouk fuses traditional gwo ka and biguine rhythms with modern electronic production, funk, and Caribbean cadence. The word 'zouk' means 'party' in Antillean Creole. Zouk has spread widely to Brazil, Cape Verde, and Lusophone Africa.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Caribbean",
+      "url": "https://folkways.si.edu/search?query=zouk"
+    }
+  ],
+  "geojson": "zouk.geojson"
+}

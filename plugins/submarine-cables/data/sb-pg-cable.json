@@ -1,0 +1,16 @@
+{
+  "code": "sb-pg-cable",
+  "name": "SB-PG Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 4120,
+  "yearLaid": 2021,
+  "rfsDate": "2016-06",
+  "owner": "BSCC",
+  "landingPoints": [
+    "Honiara, Solomon Islands",
+    "Port Moresby, Papua New Guinea"
+  ],
+  "description": "SB-PG Cable connecting Honiara to Port Moresby in the Pacific.",
+  "geojson": "sb-pg-cable.geojson"
+}

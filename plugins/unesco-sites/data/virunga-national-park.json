@@ -1,0 +1,16 @@
+{
+  "code": "virunga-national-park",
+  "name": "Virunga National Park",
+  "type": "Natural",
+  "country": "Democratic Republic of the Congo",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there.",
+  "danger": true,
+  "geojson": "virunga-national-park.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "oukaimeden",
+  "name": "Oukaimeden Observatory",
+  "country": "Morocco",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2700,
+  "aperture": "0.6 m",
+  "telescopes": [
+    "TRAPPIST-North 0.6m",
+    "MOSS"
+  ],
+  "keyDiscoveries": [
+    "TRAPPIST exoplanet survey (North)",
+    "Asteroid discoveries",
+    "Meteor observations"
+  ],
+  "location": "Oukaimeden Observatory, Morocco",
+  "description": "Cadi Ayyad University observatory in the Atlas Mountains. Home of TRAPPIST-North telescope, the northern counterpart to the system that discovered TRAPPIST-1 planets.",
+  "geojson": "oukaimeden.geojson"
+}

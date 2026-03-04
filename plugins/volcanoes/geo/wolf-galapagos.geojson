@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.35,0.02]},"properties":{"code":"wolf-galapagos","name":"Wolf Volcano","volcanoType":"Shield volcano","status":"Erupting/Recent","elevation":1710,"lastEruption":"2022","vei":2}}]}

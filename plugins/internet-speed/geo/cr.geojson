@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cr","name":"Costa Rica","country":"CR","speedTier":"Moderate (30–75 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-85.9,8.2],[-85.9,11.2],[-82.6,11.2],[-82.6,8.2],[-85.9,8.2]]]}}]}

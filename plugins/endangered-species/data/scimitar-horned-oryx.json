@@ -1,0 +1,18 @@
+{
+  "code": "scimitar-horned-oryx",
+  "name": "Scimitar-horned Oryx",
+  "scientificName": "Oryx dammah",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~400 in wild (reintroduced)",
+  "populationTrend": "Increasing",
+  "habitatType": "Sahelo-Saharan grassland and desert",
+  "threats": [
+    "Overhunting",
+    "Desertification",
+    "Competition with livestock"
+  ],
+  "conservationEfforts": "Reintroduced to Chad in 2016 from captive herds. Ouadi Rimé-Ouadi Achim Game Reserve hosts reintroduced population. Thousands exist in captivity.",
+  "description": "Once found across the entire Sahel from Senegal to Egypt, this oryx was declared Extinct in the Wild in 2000. Reintroduction to Chad has re-established a wild population.",
+  "geojson": "scimitar-horned-oryx.geojson"
+}

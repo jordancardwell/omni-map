@@ -1,0 +1,14 @@
+{
+  "code": "kuwait",
+  "name": "Port of Kuwait",
+  "country": "Kuwait",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Port of Kuwait in Kuwait. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+  "geojson": "kuwait.geojson"
+}

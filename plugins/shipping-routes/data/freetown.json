@@ -1,0 +1,14 @@
+{
+  "code": "freetown",
+  "name": "Port of Freetown",
+  "country": "Sierra Leone",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Freetown in Sierra Leone. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "freetown.geojson"
+}

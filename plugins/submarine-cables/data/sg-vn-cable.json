@@ -1,0 +1,16 @@
+{
+  "code": "sg-vn-cable",
+  "name": "SG-VN Cable",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 647,
+  "yearLaid": 2018,
+  "rfsDate": "2017-06",
+  "owner": "Viettel",
+  "landingPoints": [
+    "Singapore",
+    "Ho Chi Minh City, Vietnam"
+  ],
+  "description": "SG-VN Cable connecting Singapore to Ho Chi Minh City in Southeast Asia.",
+  "geojson": "sg-vn-cable.geojson"
+}

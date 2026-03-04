@@ -1,0 +1,15 @@
+{
+  "code": "tongariro-national-park",
+  "name": "Tongariro National Park",
+  "type": "Mixed",
+  "country": "New Zealand",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes.",
+  "danger": false,
+  "geojson": "tongariro-national-park.geojson"
+}

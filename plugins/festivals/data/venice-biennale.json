@@ -1,0 +1,14 @@
+{
+  "code": "venice-biennale",
+  "name": "Venice Biennale",
+  "festivalType": "Cultural",
+  "dateOrSeason": "May–November (odd years)",
+  "origin": "International tradition",
+  "estimatedAttendance": "600,000+ visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "National pavilions in Giardini; Arsenale exhibitions; collateral events; Golden Lion awards; art installations across Venice.",
+  "historicalBackground": "The Venice Biennale was founded in 1895 as one of the first international art exhibitions. It has expanded to include architecture, cinema, dance, music, and theater.",
+  "description": "The world's most prestigious international art exhibition, showcasing contemporary art from over 80 countries across Venice's historic venues.",
+  "location": "Venice, Italy",
+  "geojson": "venice-biennale.geojson"
+}

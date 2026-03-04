@@ -1,0 +1,15 @@
+{
+  "code": "walvis-bay",
+  "name": "Port of Walvis Bay",
+  "country": "Namibia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West African Coastal Route",
+    "Cape of Good Hope Route"
+  ],
+  "description": "Port of Walvis Bay in Namibia. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+  "geojson": "walvis-bay.geojson"
+}

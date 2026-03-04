@@ -1,0 +1,16 @@
+{
+  "code": "ph-sg-cable",
+  "name": "PH-SG Cable",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4872,
+  "yearLaid": 2022,
+  "rfsDate": "2017-06",
+  "owner": "Globe Telecom",
+  "landingPoints": [
+    "Manila, Philippines",
+    "Singapore"
+  ],
+  "description": "PH-SG Cable connecting Manila to Singapore.",
+  "geojson": "ph-sg-cable.geojson"
+}

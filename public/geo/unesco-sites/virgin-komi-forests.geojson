@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9525,
+          63.6258333333
+        ]
+      },
+      "properties": {
+        "code": "virgin-komi-forests",
+        "name": "Virgin Komi Forests",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

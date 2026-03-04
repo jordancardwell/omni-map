@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1986111111,
+          37.9997222222
+        ]
+      },
+      "properties": {
+        "code": "parthian-fortresses-of-nisa",
+        "name": "Parthian Fortresses of Nisa",
+        "type": "Cultural",
+        "country": "Turkmenistan",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "maratha-military-landscapes-of-india",
+  "name": "Maratha Military Landscapes of India",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property includes twelve major fortifications, mostly in Maharashtra State, with one in Tamil Nadu. These forts, such as Raigad, Shivneri, and Sindhudurg, were built, adapted, or expanded by the Marathas between the late 17th and early 19th centuries. Strategically located on coastal and mountainous terrain, they formed a complex defence system supporting Maratha military dominance, trade protection, and territorial control. This network played a key role in the Marathas’ rise as a major political and military force.",
+  "danger": false,
+  "geojson": "maratha-military-landscapes-of-india.geojson"
+}

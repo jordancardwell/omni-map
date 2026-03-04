@@ -1,0 +1,16 @@
+{
+  "code": "tz-mu-cable",
+  "name": "TZ-MU Cable",
+  "capacityTbps": 59,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15462,
+  "yearLaid": 2020,
+  "rfsDate": "2017-06",
+  "owner": "Liquid",
+  "landingPoints": [
+    "Dar es Salaam, Tanzania",
+    "Port Louis, Mauritius"
+  ],
+  "description": "TZ-MU Cable connecting Dar es Salaam to Port Louis.",
+  "geojson": "tz-mu-cable.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "venice",
+  "name": "Port of Venice",
+  "country": "Italy",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Venice in Italy. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "venice.geojson"
+}

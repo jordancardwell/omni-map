@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[117.5753,40.3956]},"properties":{"code":"einstein-probe","name":"Einstein Probe Operations","observatoryType":"Space-based","status":"Operational","country":"China"}}]}

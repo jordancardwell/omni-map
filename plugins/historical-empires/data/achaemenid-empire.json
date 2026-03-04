@@ -1,0 +1,25 @@
+{
+  "code": "achaemenid-empire",
+  "name": "Persian Empire (Achaemenid)",
+  "era": "Ancient",
+  "peakYear": "480 BCE",
+  "areaAtPeakKm2": 5500000,
+  "populationEstimate": "50 million",
+  "capital": "Persepolis",
+  "keyAchievements": [
+    "Royal Road postal system",
+    "Satrap governance",
+    "Zoroastrianism spread",
+    "Cyrus Cylinder (human rights)",
+    "Qanat irrigation"
+  ],
+  "declineFactors": [
+    "Alexander the Great's conquest",
+    "Internal revolts",
+    "Succession crises",
+    "Greek resistance",
+    "Administrative overextension"
+  ],
+  "description": "The Achaemenid Empire, founded by Cyrus the Great in 550 BCE, was the first true superpower of the ancient world. At its height under Darius I, it stretched from Egypt and Libya in the west to the Indus Valley in the east.\n\nThe empire was remarkable for its tolerance — Cyrus freed the Jews from Babylonian captivity, and the Cyrus Cylinder is often considered the first declaration of human rights. The Royal Road connected the empire's vast territories, enabling trade and communication.",
+  "geojson": "achaemenid-empire.geojson"
+}

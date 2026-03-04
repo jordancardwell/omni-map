@@ -1,0 +1,20 @@
+{
+  "code": "peace-cable",
+  "name": "PEACE Cable",
+  "capacityTbps": 96,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2021,
+  "rfsDate": "2022-12",
+  "owner": "PEACE Cable International",
+  "landingPoints": [
+    "Karachi, Pakistan",
+    "Marseille, France",
+    "Mombasa, Kenya",
+    "Djibouti, Djibouti",
+    "Suez, Egypt",
+    "Alexandria, Egypt"
+  ],
+  "description": "Pakistan-East Africa-Connecting Europe cable with 96 Tbps capacity.",
+  "geojson": "peace-cable.geojson"
+}

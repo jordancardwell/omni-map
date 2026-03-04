@@ -1,0 +1,15 @@
+{
+  "code": "historic-monuments-of-novgorod-and-surroundings",
+  "name": "Historic Monuments of Novgorod and Surroundings",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the ancient trade route between Central Asia and northern Europe, Novgorod was Russia's first capital in the 9th century. Surrounded by churches and monasteries, it was a centre for Orthodox spirituality as well as Russian architecture. Its medieval monuments and the 14th-century frescoes of Theophanes the Greek (Andrei Rublev's teacher) illustrate the development of its remarkable architecture and cultural creativity.",
+  "danger": false,
+  "geojson": "historic-monuments-of-novgorod-and-surroundings.geojson"
+}

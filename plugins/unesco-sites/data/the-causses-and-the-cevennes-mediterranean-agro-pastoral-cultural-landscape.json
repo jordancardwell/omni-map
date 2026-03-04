@@ -1,0 +1,15 @@
+{
+  "code": "the-causses-and-the-cevennes-mediterranean-agro-pastoral-cultural-landscape",
+  "name": "The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "This 302,319 ha property, in the southern part of central France, is a mountain landscape interspersed by deep valleys that is representative of the relationship between agro-pastoral systems and their biophysical environment, notably through drailles or drove roads. Villages and substantial stone farmhouses on deep terraces of the Causses reflect the organization of large abbeys from the 11th century. Mont Lozère, inside the property, is one of the last places where summer transhumance is still practiced in the traditional way, using the drailles.",
+  "danger": false,
+  "geojson": "the-causses-and-the-cevennes-mediterranean-agro-pastoral-cultural-landscape.geojson"
+}

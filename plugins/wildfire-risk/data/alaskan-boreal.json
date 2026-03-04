@@ -1,0 +1,15 @@
+{
+  "code": "alaskan-boreal",
+  "name": "Alaskan Boreal Interior",
+  "region": "North America",
+  "riskGroup": "4. Low",
+  "riskLevel": "Low",
+  "fireFrequency": "Low-Moderate — but rapidly increasing with Arctic warming",
+  "dominantVegetation": "Black spruce boreal forest, tundra transition, permafrost terrain",
+  "fireSeasonMonths": "May – August",
+  "areaBurnedAnnual": "~400,000 ha average; highly variable year to year",
+  "seasonalPattern": "Fire season is concentrated in the short boreal summer (May–August) when extended daylight and warm temperatures dry out black spruce forests. Lightning is the primary ignition source. Fire years are highly variable — some years see minimal burning while others experience millions of hectares burned. The frequency and northward extent of fires are increasing as permafrost thaws and the tundra dries.",
+  "historicalFires": ["2015 Alaska Fire Season (2.1M ha)", "2019 Swan Lake Fire (70K ha)", "2004 Interior Alaska Fires (2.7M ha)", "2022 Tundra Fires (expanding northward)"],
+  "description": "Alaska's interior boreal forest — dominated by black spruce over permafrost — has historically experienced infrequent but large fire events. However, Arctic warming is fundamentally changing fire dynamics. The 2015 season burned over 2 million hectares, and fires are increasingly burning into tundra regions where they haven't occurred in thousands of years. Permafrost fires release ancient carbon stored in frozen soils, and 'zombie fires' can smolder underground through winter to reignite in spring. While currently lower risk than lower-latitude fire zones, Alaska represents the fastest-changing fire regime on Earth.",
+  "geojson": "alaskan-boreal.geojson"
+}

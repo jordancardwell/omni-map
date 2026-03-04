@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tpe","name":"Taiwan Taoyuan International","featureType":"airport","iataCode":"TPE","annualPassengers":36000000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[121.2325,25.0777]}}]}

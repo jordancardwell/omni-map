@@ -1,0 +1,21 @@
+{
+  "code": "tartu",
+  "name": "Tartu Observatory",
+  "country": "Estonia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 70,
+  "aperture": "1.5 m (planned)",
+  "telescopes": [
+    "0.6m AZT-12",
+    "Schmidt telescope"
+  ],
+  "keyDiscoveries": [
+    "Galaxy supercluster studies",
+    "Cosmic web mapping",
+    "Dark matter distribution"
+  ],
+  "location": "Tartu Observatory, Estonia",
+  "description": "Estonian national observatory that pioneered studies of the cosmic web and galaxy superclusters under Jaan Einasto, revealing the large-scale structure of the universe.",
+  "geojson": "tartu.geojson"
+}

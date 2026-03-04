@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.93583,
+          11.51028
+        ]
+      },
+      "properties": {
+        "code": "mountain-railways-of-india",
+        "name": "Mountain Railways of India",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "aec-1-aqua-comms",
+  "name": "AEC-1 (Aqua Comms)",
+  "capacityTbps": 72,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5500,
+  "yearLaid": 2015,
+  "rfsDate": "2015-12",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Wall Township, USA",
+    "Killala, Ireland",
+    "Southport, UK"
+  ],
+  "description": "Americas Europe Connect-1, a low-latency transatlantic route via Ireland.",
+  "geojson": "aec-1-aqua-comms.geojson"
+}

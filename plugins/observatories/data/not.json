@@ -1,0 +1,20 @@
+{
+  "code": "not",
+  "name": "Nordic Optical Telescope",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2382,
+  "aperture": "2.56 m",
+  "telescopes": [
+    "NOT"
+  ],
+  "keyDiscoveries": [
+    "Supernovae follow-up",
+    "Exoplanet transits",
+    "Gamma-ray burst afterglows"
+  ],
+  "location": "Nordic Optical Telescope, Spain",
+  "description": "A 2.56m telescope on La Palma operated by Nordic countries. Known for excellent image quality and flexible scheduling for rapid follow-up observations.",
+  "geojson": "not.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"es","name":"Spain","country":"ES","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-9.4,36],[-9.4,43.8],[3.3,43.8],[3.3,36],[-9.4,36]]]}}]}

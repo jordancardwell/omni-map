@@ -1,0 +1,16 @@
+{
+  "code": "wst",
+  "name": "Samoan Tālā",
+  "isoCode": "WST",
+  "symbol": "WS$",
+  "region": "Oceania",
+  "centralBank": "Central Bank of Samoa",
+  "exchangeRateEra": "Pegged to basket",
+  "countries": [
+    "Samoa"
+  ],
+  "countryCount": 1,
+  "description": "The Samoan Tālā is the currency of Samoa, the first Pacific Island nation to gain independence.",
+  "historicalNotes": "Introduced in 1967. In 2011, Samoa moved to the west side of the International Date Line, skipping December 30 entirely.",
+  "geojson": "wst.geojson"
+}

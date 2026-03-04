@@ -1,0 +1,12 @@
+{
+  "code": "hanseatic-league",
+  "name": "Hanseatic League Routes",
+  "routeType": "Maritime",
+  "era": "Medieval",
+  "period": "c. 1200 – 1669 CE",
+  "commodities": ["Herring", "Salt", "Grain", "Timber", "Furs", "Wool", "Beer", "Cloth", "Wax", "Metals"],
+  "majorStops": ["Lübeck", "Hamburg", "Bremen", "Bruges", "London", "Bergen", "Novgorod", "Gdańsk", "Riga", "Stockholm"],
+  "significance": "The Hanseatic League was a medieval commercial confederation of merchant guilds that dominated trade in Northern Europe, establishing one of history's earliest international trade organizations",
+  "description": "The Hanseatic League (Hanse) was a medieval commercial and defensive confederation of merchant guilds and market towns in Northwestern and Central Europe. At its peak, it included nearly 200 cities and dominated Baltic and North Sea trade for over 400 years.\n\nFounded around Lübeck in the 12th century, the League established a network of trading posts (Kontore) at key foreign cities: London (Steelyard), Bruges, Bergen, and Novgorod. These posts served as warehouses, residences, and commercial exchanges for Hanseatic merchants.\n\nThe League's trade followed predictable patterns: grain and timber from the eastern Baltic, furs and wax from Russia, herring and stockfish from Scandinavia, salt from Lüneburg, wool and cloth from Flanders and England. Lübeck, situated at the nexus of Baltic and North Sea trade, served as the League's unofficial capital.\n\nThe Hanse pioneered many modern commercial practices: standardized weights and measures, trade law, maritime insurance, and collective bargaining. Its decline came from the rise of nation-states, competition from Dutch and English merchants, and shifting trade patterns after the discovery of the Americas.",
+  "geojson": "hanseatic-league.geojson"
+}

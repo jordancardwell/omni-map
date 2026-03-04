@@ -1,0 +1,16 @@
+{
+  "code": "shahrud-iran",
+  "name": "Shahrud Launch Area",
+  "country": "Iran",
+  "operator": "IRGC",
+  "coordinates": "36.4200°N, 55.5800°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Qaem SLV tests",
+    "Military rocket development"
+  ],
+  "orbitalInclinationRange": "36°–80°",
+  "location": "Shahrud Launch Area, Iran",
+  "description": "Secondary Iranian military launch and test area near Shahrud. Used for solid-fuel rocket development and testing by the Islamic Revolutionary Guard Corps aerospace division.",
+  "geojson": "shahrud-iran.geojson"
+}

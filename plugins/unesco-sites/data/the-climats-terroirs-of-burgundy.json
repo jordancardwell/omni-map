@@ -1,0 +1,15 @@
+{
+  "code": "the-climats-terroirs-of-burgundy",
+  "name": "The Climats, terroirs of Burgundy",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The climates are precisely delimited vineyard parcels on the slopes of the Côte de Nuits and the Côte de Beaune south of the city of Dijon. They differ from one another due to specific natural conditions (geology and exposure) as well as vine types and have been shaped by human cultivation. Over time they came to be recognized by the wine they produce. This cultural landscape consists of two parts. Firstly, the vineyards and associated production units including villages and the town of Beaune, which together represent the commercial dimension of the production system. The second part includes the historic centre of Dijon, which embodies the political regulatory impetus that gave birth to the climats system. The site is an outstanding example of grape cultivation and wine production developed since the High Middle Ages.",
+  "danger": false,
+  "geojson": "the-climats-terroirs-of-burgundy.geojson"
+}

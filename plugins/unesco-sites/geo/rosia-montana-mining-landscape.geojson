@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1305555556,
+          46.3061111111
+        ]
+      },
+      "properties": {
+        "code": "rosia-montana-mining-landscape",
+        "name": "Roșia Montană Mining Landscape",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

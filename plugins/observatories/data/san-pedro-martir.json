@@ -1,0 +1,22 @@
+{
+  "code": "san-pedro-martir",
+  "name": "Observatorio Astronómico Nacional (San Pedro Mártir)",
+  "country": "Mexico",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2830,
+  "aperture": "2.1 m",
+  "telescopes": [
+    "2.1m",
+    "1.5m",
+    "0.84m"
+  ],
+  "keyDiscoveries": [
+    "Planetary nebulae studies",
+    "Star formation regions",
+    "Transient follow-up"
+  ],
+  "location": "Observatorio Astronómico Nacional (San Pedro Mártir), Mexico",
+  "description": "UNAM's primary observing site in Baja California. One of the darkest observatory sites in North America with excellent seeing conditions.",
+  "geojson": "san-pedro-martir.geojson"
+}

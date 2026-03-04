@@ -1,0 +1,18 @@
+{
+  "code": "lhr-bom",
+  "name": "London — Mumbai",
+  "airports": [
+    "LHR",
+    "BOM"
+  ],
+  "distanceKm": 7212,
+  "weeklyFlights": 40,
+  "airlines": [
+    "British Airways",
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LHR–BOM route between London and Mumbai. Distance: 7,212 km. ~40 weekly flights operated by British Airways, Air India.",
+  "geojson": "lhr-bom.geojson"
+}

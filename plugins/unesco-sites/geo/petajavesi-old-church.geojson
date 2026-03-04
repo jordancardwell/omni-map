@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.18333,
+          62.25
+        ]
+      },
+      "properties": {
+        "code": "petajavesi-old-church",
+        "name": "Petäjävesi Old Church",
+        "type": "Cultural",
+        "country": "Finland",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "tropical-grasslands",
+  "name": "Tropical & Subtropical Grasslands, Savannas & Shrublands",
+  "biomeType": "Grassland",
+  "areaKm2": 20000000,
+  "keyCharacteristics": "Open grasslands with scattered trees, shaped by fire and seasonal drought. Support the largest remaining concentrations of large mammals.",
+  "typicalFlora": ["Elephant grass", "Red oat grass", "Acacia", "Baobab", "Savanna woodland trees", "Fire-resistant grasses"],
+  "typicalFauna": ["African elephant", "Lion", "Wildebeest", "Giraffe", "Zebra", "Cheetah"],
+  "threatLevel": "High",
+  "conservationStatus": "Extensive conversion to cropland and cattle ranching, particularly in the Brazilian Cerrado. African savannas face pressure from expanding agriculture and poaching.",
+  "description": "Tropical and subtropical grasslands, savannas, and shrublands are characterized by a continuous grass layer with scattered trees and shrubs. They are shaped by the interaction of fire, drought, herbivory, and soil conditions.\n\nThese ecosystems support the most spectacular concentrations of large mammals on Earth, particularly in East Africa's Serengeti-Mara ecosystem. The Brazilian Cerrado is the most biodiverse savanna, with over 12,000 plant species.\n\nFire is a crucial ecological process, maintaining the open structure and preventing forest encroachment. Many species are fire-adapted, with underground storage organs and rapid resprouting ability.",
+  "geojson": "tropical-grasslands.geojson"
+}

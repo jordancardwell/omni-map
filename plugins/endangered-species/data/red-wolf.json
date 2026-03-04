@@ -1,0 +1,19 @@
+{
+  "code": "red-wolf",
+  "name": "Red Wolf",
+  "scientificName": "Canis rufus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~15-20 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal prairie and marsh",
+  "threats": [
+    "Hybridization with coyotes",
+    "Habitat loss",
+    "Gunshot mortality",
+    "Political opposition"
+  ],
+  "conservationEfforts": "USFWS Alligator River National Wildlife Refuge maintains the only wild population. Captive breeding program holds about 250 wolves in 43 facilities.",
+  "description": "Once found throughout the southeastern United States, the red wolf was declared extinct in the wild in 1980 before being reintroduced to North Carolina in 1987. It remains critically endangered with fewer than 20 wild individuals.",
+  "geojson": "red-wolf.geojson"
+}

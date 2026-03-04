@@ -1,0 +1,28 @@
+{
+  "code": "utc+5",
+  "name": "Pakistan Standard Time",
+  "nativeName": "UTC+05:00",
+  "utcOffset": "UTC+05:00",
+  "utcOffsetHours": 5,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Asia/Karachi",
+    "Asia/Tashkent",
+    "Asia/Yekaterinburg",
+    "Indian/Maldives"
+  ],
+  "countries": [
+    "Pakistan",
+    "Uzbekistan",
+    "Tajikistan",
+    "Turkmenistan",
+    "Russia (Urals/Yekaterinburg)",
+    "Maldives"
+  ],
+  "dstRules": "Generally no DST observed; Pakistan briefly used DST in 2002 and 2008–2009",
+  "description": "Spans from the Ural Mountains in Russia through Central Asia to Pakistan. Karachi and Lahore are among the most populous cities in this zone. The historical Silk Road traversed much of this timezone's territory.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+5.geojson"
+}

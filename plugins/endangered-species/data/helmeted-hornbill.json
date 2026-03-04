@@ -1,0 +1,18 @@
+{
+  "code": "helmeted-hornbill",
+  "name": "Helmeted Hornbill",
+  "scientificName": "Rhinoplax vigil",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "Unknown, rapidly declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland forest",
+  "threats": [
+    "Poaching for casque",
+    "Deforestation",
+    "Illegal trade"
+  ],
+  "conservationEfforts": "CITES Appendix I listing since 1975. Helmeted Hornbill Working Group coordinates range-state conservation. Anti-poaching patrols in key habitats. Demand reduction campaigns in consumer countries.",
+  "description": "The only hornbill with a solid casque (hornlike structure on the bill), making it a target for illegal trade as a substitute for ivory. Males engage in dramatic aerial casque-butting contests.",
+  "geojson": "helmeted-hornbill.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "phoenician",
+  "name": "Phoenician Civilization",
+  "period": "c. 1500–300 BCE",
+  "region": "Middle East",
+  "type": "Civilization",
+  "writingSystem": "Phoenician alphabet",
+  "majorAchievements": ["Alphabet invention", "Maritime navigation", "Purple dye (Tyrian purple)", "Glass manufacturing", "Colonial network", "Circumnavigation of Africa"],
+  "keyCities": ["Tyre", "Sidon", "Byblos", "Carthage", "Berytus"],
+  "description": "The Phoenicians were master seafarers and traders based along the coast of modern-day Lebanon. Their greatest legacy is the Phoenician alphabet, the ancestor of virtually all modern alphabets including Greek, Latin, Arabic, and Hebrew. Phoenician merchants established trading colonies across the Mediterranean, including Carthage, which would grow to rival Rome itself.",
+  "geojson": "phoenician.geojson"
+}

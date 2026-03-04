@@ -1,0 +1,15 @@
+{
+  "code": "le-havre",
+  "name": "Le Havre",
+  "country": "France",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 80,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "English Channel Route",
+    "Trans-Atlantic Northern Route"
+  ],
+  "description": "Le Havre in France. Annual cargo throughput: ~80 million tons. Type: Multi-Purpose Port.",
+  "geojson": "le-havre.geojson"
+}

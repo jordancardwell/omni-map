@@ -1,0 +1,16 @@
+{
+  "code": "za-br-cable",
+  "name": "ZA-BR Cable",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4728,
+  "yearLaid": 2011,
+  "rfsDate": "2017-06",
+  "owner": "SACS",
+  "landingPoints": [
+    "Cape Town, South Africa",
+    "Fortaleza, Brazil"
+  ],
+  "description": "ZA-BR Cable connecting Cape Town to Fortaleza.",
+  "geojson": "za-br-cable.geojson"
+}

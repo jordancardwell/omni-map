@@ -1,0 +1,15 @@
+{
+  "code": "san-cristobal-de-la-laguna",
+  "name": "San Cristóbal de La Laguna",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "San Cristóbal de La Laguna, in the Canary Islands, has two nuclei: the original, unplanned Upper Town; and the Lower Town, the first ideal 'city-territory' laid out according to philosophical principles. Its wide streets and open spaces have a number of fine churches and public and private buildings dating from the 16th to the 18th century.",
+  "danger": false,
+  "geojson": "san-cristobal-de-la-laguna.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "blaenavon-industrial-landscape",
+  "name": "Blaenavon Industrial Landscape",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The area around Blaenavon is evidence of the pre-eminence of South Wales as the world's major producer of iron and coal in the 19th century. All the necessary elements can still be seen - coal and ore mines, quarries, a primitive railway system, furnaces, workers' homes, and the social infrastructure of their community.",
+  "danger": false,
+  "geojson": "blaenavon-industrial-landscape.geojson"
+}

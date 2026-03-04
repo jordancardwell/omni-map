@@ -1,0 +1,17 @@
+{
+  "code": "jed-bkk",
+  "name": "Jeddah — Bangkok",
+  "airports": [
+    "JED",
+    "BKK"
+  ],
+  "distanceKm": 6546,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Saudia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–BKK route between Jeddah and Bangkok. Distance: 6,546 km. ~20 weekly flights operated by Saudia.",
+  "geojson": "jed-bkk.geojson"
+}

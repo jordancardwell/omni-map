@@ -1,0 +1,17 @@
+{
+  "code": "np",
+  "name": "Nepal",
+  "avgDownloadMbps": 14.6,
+  "avgUploadMbps": 10.2,
+  "avgLatencyMs": 32,
+  "mobileDownloadMbps": 16.4,
+  "mobileUploadMbps": 3.8,
+  "fixedDownloadMbps": 14.6,
+  "fixedUploadMbps": 10.2,
+  "rank": 125,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "South Asia",
+  "dataYear": 2024,
+  "trendDescription": "Challenging terrain but improving. ~18% year-over-year growth.",
+  "geojson": "np.geojson"
+}

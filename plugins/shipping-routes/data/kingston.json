@@ -1,0 +1,14 @@
+{
+  "code": "kingston",
+  "name": "Port of Kingston",
+  "country": "Jamaica",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Kingston in Jamaica. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+  "geojson": "kingston.geojson"
+}

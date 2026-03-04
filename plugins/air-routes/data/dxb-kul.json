@@ -1,0 +1,18 @@
+{
+  "code": "dxb-kul",
+  "name": "Dubai — Kuala Lumpur",
+  "airports": [
+    "DXB",
+    "KUL"
+  ],
+  "distanceKm": 5549,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Emirates",
+    "Malaysia Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DXB–KUL route between Dubai and Kuala Lumpur. Distance: 5,549 km. ~50 weekly flights operated by Emirates, Malaysia Airlines.",
+  "geojson": "dxb-kul.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mad","name":"Madrid Barajas","featureType":"airport","iataCode":"MAD","annualPassengers":46000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[-3.5668,40.4936]}}]}

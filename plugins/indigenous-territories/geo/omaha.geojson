@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"omaha","name":"Omaha","people":"Omaha","region":"North America"},"geometry":{"type":"Polygon","coordinates":[[[-95.4,42],[-95.7,42.6],[-96.5,42.7],[-97.2,42.7],[-97.3,42],[-97,41.5],[-96.5,41.4],[-95.6,41.4],[-95.4,42]]]}}]}

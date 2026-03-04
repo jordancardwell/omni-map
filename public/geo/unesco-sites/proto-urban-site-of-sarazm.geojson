@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.4587222222,
+          39.5078888889
+        ]
+      },
+      "properties": {
+        "code": "proto-urban-site-of-sarazm",
+        "name": "Proto-urban Site of Sarazm",
+        "type": "Cultural",
+        "country": "Tajikistan",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

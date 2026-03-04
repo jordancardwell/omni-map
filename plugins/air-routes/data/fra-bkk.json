@@ -1,0 +1,18 @@
+{
+  "code": "fra-bkk",
+  "name": "Frankfurt — Bangkok",
+  "airports": [
+    "FRA",
+    "BKK"
+  ],
+  "distanceKm": 8999,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Lufthansa",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "FRA–BKK route between Frankfurt and Bangkok. Distance: 8,999 km. ~30 weekly flights operated by Lufthansa, Thai Airways.",
+  "geojson": "fra-bkk.geojson"
+}

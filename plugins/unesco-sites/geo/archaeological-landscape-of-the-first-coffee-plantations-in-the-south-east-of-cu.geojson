@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39138889,
+          20.03
+        ]
+      },
+      "properties": {
+        "code": "archaeological-landscape-of-the-first-coffee-plantations-in-the-south-east-of-cu",
+        "name": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

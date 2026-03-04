@@ -1,0 +1,19 @@
+{
+  "code": "del-sin",
+  "name": "Delhi — Singapore",
+  "airports": [
+    "DEL",
+    "SIN"
+  ],
+  "distanceKm": 4157,
+  "weeklyFlights": 130,
+  "airlines": [
+    "IndiGo",
+    "Air India",
+    "Singapore Airlines"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DEL–SIN route between Delhi and Singapore. Distance: 4,157 km. ~130 weekly flights operated by IndiGo, Air India, Singapore Airlines.",
+  "geojson": "del-sin.geojson"
+}

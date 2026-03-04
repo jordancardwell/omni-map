@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5023055556,
+          50.9679722222
+        ]
+      },
+      "properties": {
+        "code": "krzemionki-prehistoric-striped-flint-mining-region",
+        "name": "Krzemionki Prehistoric Striped Flint Mining Region",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

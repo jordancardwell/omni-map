@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.31833,
+          40.47139
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-aigai-modern-name-vergina",
+        "name": "Archaeological Site of Aigai (modern name Vergina)",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "topaz",
+  "name": "Topaz",
+  "capacityTbps": 240,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 7800,
+  "yearLaid": 2023,
+  "rfsDate": "2025-01",
+  "owner": "Google",
+  "landingPoints": [
+    "Vancouver, Canada",
+    "Tokyo, Japan"
+  ],
+  "description": "Ultra-high-capacity trans-Pacific cable with 16 fiber pairs, using novel cable design.",
+  "geojson": "topaz.geojson"
+}

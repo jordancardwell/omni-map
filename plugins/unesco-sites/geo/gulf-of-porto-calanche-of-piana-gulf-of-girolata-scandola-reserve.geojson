@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.628833333,
+          42.32519444
+        ]
+      },
+      "properties": {
+        "code": "gulf-of-porto-calanche-of-piana-gulf-of-girolata-scandola-reserve",
+        "name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "type": "Natural",
+        "country": "France",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "cocos",
+  "name": "Cocos Plate",
+  "plateClass": "Minor",
+  "crustType": "Oceanic",
+  "area": 2.9,
+  "movementDirection": "Northeast",
+  "movementRate": "55–80",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent"
+  ],
+  "adjacentPlates": [
+    "pacific",
+    "north-american",
+    "caribbean",
+    "nazca"
+  ],
+  "notableFeatures": [
+    "Middle America Trench",
+    "East Pacific Rise",
+    "Cocos Ridge",
+    "Galapagos Hotspot"
+  ],
+  "description": "The Cocos Plate is a small oceanic plate beneath the Pacific Ocean off the west coast of Central America. It subducts beneath the Caribbean and North American plates at the Middle America Trench, generating earthquakes and volcanic activity throughout Central America and southern Mexico. The Cocos Ridge, an aseismic ridge running from the Galapagos, is being subducted along with the plate.",
+  "geologicalHistory": "The Cocos Plate, like the Nazca Plate, formed from the breakup of the Farallon Plate about 23 million years ago. It is one of the fastest-subducting plates, with convergence rates reaching 80 mm/year along the Middle America Trench. Major earthquakes along this subduction zone include the devastating 1985 Mexico City earthquake (magnitude 8.0).",
+  "geojson": "cocos.geojson"
+}

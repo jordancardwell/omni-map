@@ -1,0 +1,27 @@
+{
+  "code": "philippine-sea",
+  "name": "Philippine Sea Plate",
+  "plateClass": "Minor",
+  "crustType": "Oceanic",
+  "area": 5.5,
+  "movementDirection": "West-Northwest",
+  "movementRate": "60–80",
+  "boundaryTypes": [
+    "Convergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "eurasian",
+    "pacific",
+    "indo-australian"
+  ],
+  "notableFeatures": [
+    "Mariana Trench",
+    "Philippine Trench",
+    "Izu-Bonin-Mariana Arc",
+    "Challenger Deep"
+  ],
+  "description": "The Philippine Sea Plate is an oceanic plate located in the western Pacific Ocean. It is bounded by subduction zones on nearly all sides, making it one of the most seismically active regions on Earth. It contains the Mariana Trench, including Challenger Deep — the deepest point in the world's oceans at approximately 10,935 meters below sea level.",
+  "geologicalHistory": "The Philippine Sea Plate formed by seafloor spreading in the Eocene epoch (about 50 million years ago). The Mariana Trench formed as the Pacific Plate began subducting beneath the Philippine Sea Plate. The Izu-Bonin-Mariana arc system has been building volcanic islands along the plate's eastern boundary for tens of millions of years.",
+  "geojson": "philippine-sea.geojson"
+}

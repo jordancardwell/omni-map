@@ -1,0 +1,14 @@
+{
+  "code": "archaeological-site-of-sabratha",
+  "name": "Archaeological Site of Sabratha",
+  "type": "Cultural",
+  "country": "Libya",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D.",
+  "danger": true,
+  "geojson": "archaeological-site-of-sabratha.geojson"
+}

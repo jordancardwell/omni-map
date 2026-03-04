@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48687,
+          48.47573
+        ]
+      },
+      "properties": {
+        "code": "caves-of-aggtelek-karst-and-slovak-karst",
+        "name": "Caves of Aggtelek Karst and Slovak Karst",
+        "type": "Natural",
+        "country": "Hungary, Slovakia",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

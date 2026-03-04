@@ -1,0 +1,16 @@
+{
+  "code": "la-guam-cable",
+  "name": "LA-Guam Cable",
+  "capacityTbps": 41,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4806,
+  "yearLaid": 2016,
+  "rfsDate": "2019-06",
+  "owner": "Docomo Pacific",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Guam"
+  ],
+  "description": "LA-Guam Cable connecting Los Angeles to Guam.",
+  "geojson": "la-guam-cable.geojson"
+}

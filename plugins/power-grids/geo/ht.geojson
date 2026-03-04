@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ht","name":"Haiti","country":"HT","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-74.5,18.1],[-74.5,20.1],[-71.6,20.1],[-71.6,18.1],[-74.5,18.1]]]}}]}

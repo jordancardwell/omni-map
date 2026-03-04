@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2393083333,
+          37.9031
+        ]
+      },
+      "properties": {
+        "code": "diyarbakr-fortress-and-hevsel-gardens-cultural-landscape",
+        "name": "Diyarbakır Fortress and Hevsel Gardens Cultural Landscape",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

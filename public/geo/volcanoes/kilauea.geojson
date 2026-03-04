@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2834,19.4069]},"properties":{"code":"kilauea","name":"Kīlauea","volcanoType":"Shield volcano","status":"Erupting/Recent","elevation":1247,"lastEruption":"2023","vei":4}}]}

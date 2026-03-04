@@ -1,0 +1,28 @@
+{
+  "code": "bortle-3-rural",
+  "name": "Rural Sky",
+  "bortleGroup": "2. Rural (Class 3-4)",
+  "bortleClass": "Class 3 — Rural Sky",
+  "skyBrightness": "21.69–21.89 mag/arcsec²",
+  "limitingMagnitude": "6.6–7.0",
+  "milkyWayVisibility": "Very good — Milky Way still appears complex and structured; some light domes visible on horizon",
+  "visibleObjects": [
+    "M15, M4 globulars (naked eye)",
+    "Milky Way structure",
+    "Light domes on horizon",
+    "M31 conspicuous",
+    "Zodiacal light in spring/autumn"
+  ],
+  "exampleLocations": [
+    "Rural Midwest USA",
+    "Central Spain",
+    "Rural Norway",
+    "Outback Queensland, Australia"
+  ],
+  "nearestDarkSkyReserves": [
+    "Kerry International Dark Sky Reserve",
+    "Brecon Beacons Dark Sky Reserve"
+  ],
+  "description": "Good quality rural skies where some light pollution is evident low on the horizon as light domes over distant towns. The Milky Way appears broad and complex overhead but may fade near the horizon in the direction of population centers. Globular clusters and bright Messier objects are accessible with the naked eye. These conditions are found across much of rural Earth — agricultural areas, small-town surroundings, and large undeveloped regions. About 10-15% of the global population lives under Class 3 skies.",
+  "geojson": "bortle-3-rural.geojson"
+}

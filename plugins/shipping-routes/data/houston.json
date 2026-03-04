@@ -1,0 +1,15 @@
+{
+  "code": "houston",
+  "name": "Port of Houston",
+  "country": "United States",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 275,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route",
+    "Panama Canal Route"
+  ],
+  "description": "Port of Houston in United States. Annual cargo throughput: ~275 million tons. Type: Multi-Purpose Port.",
+  "geojson": "houston.geojson"
+}

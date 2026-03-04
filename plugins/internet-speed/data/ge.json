@@ -1,0 +1,17 @@
+{
+  "code": "ge",
+  "name": "Georgia",
+  "avgDownloadMbps": 35.6,
+  "avgUploadMbps": 22.4,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 28.2,
+  "mobileUploadMbps": 6.2,
+  "fixedDownloadMbps": 35.6,
+  "fixedUploadMbps": 22.4,
+  "rank": 85,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Affordable broadband market. ~10% year-over-year growth.",
+  "geojson": "ge.geojson"
+}

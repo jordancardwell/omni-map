@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-6-bright-suburban",
+        "name": "Bright Suburban Sky",
+        "region": "Inner suburbs of major cities"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74,
+              39
+            ],
+            [
+              -72,
+              39
+            ],
+            [
+              -72,
+              42
+            ],
+            [
+              -74,
+              42
+            ],
+            [
+              -74,
+              39
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-6-bright-suburban",
+        "name": "Bright Suburban Sky",
+        "region": "Medium-sized cities"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1,
+              51
+            ],
+            [
+              2,
+              51
+            ],
+            [
+              2,
+              53
+            ],
+            [
+              -1,
+              53
+            ],
+            [
+              -1,
+              51
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-6-bright-suburban",
+        "name": "Bright Suburban Sky",
+        "region": "Suburban Tokyo fringe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.2,
+              35.3
+            ],
+            [
+              140.2,
+              35.3
+            ],
+            [
+              140.2,
+              36.2
+            ],
+            [
+              139.2,
+              36.2
+            ],
+            [
+              139.2,
+              35.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-6-bright-suburban",
+        "name": "Bright Suburban Sky",
+        "region": "Suburban London fringe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47,
+              -24
+            ],
+            [
+              -46,
+              -24
+            ],
+            [
+              -46,
+              -23
+            ],
+            [
+              -47,
+              -23
+            ],
+            [
+              -47,
+              -24
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

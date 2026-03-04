@@ -1,0 +1,16 @@
+{
+  "code": "bdt",
+  "name": "Bangladeshi Taka",
+  "isoCode": "BDT",
+  "symbol": "৳",
+  "region": "Asia",
+  "centralBank": "Bangladesh Bank",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Bangladesh"
+  ],
+  "countryCount": 1,
+  "description": "The Taka is the currency of Bangladesh, the world's second-largest garment exporter.",
+  "historicalNotes": "Introduced in 1972 after Bangladesh's independence from Pakistan. Bangladesh has achieved significant economic growth and poverty reduction since the 1990s.",
+  "geojson": "bdt.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "bezymianny",
+  "name": "Bezymianny",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2882,
+  "lastEruption": "2023",
+  "vei": 5,
+  "country": "Russia",
+  "region": "Kamchatka",
+  "location": "Kamchatka, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava domes",
+    "Lahars"
+  ],
+  "eruptionHistory": "The 1956 eruption was similar to Mount St. Helens — a massive lateral blast that removed the summit. Has been rebuilding its dome with frequent eruptions since.",
+  "description": "Bezymianny's catastrophic 1956 eruption provided the template for understanding lateral blast eruptions, later replicated at Mount St. Helens in 1980.",
+  "geojson": "bezymianny.geojson"
+}

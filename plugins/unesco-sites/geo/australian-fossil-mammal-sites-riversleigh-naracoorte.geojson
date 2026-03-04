@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7166667,
+          -19.08333333
+        ]
+      },
+      "properties": {
+        "code": "australian-fossil-mammal-sites-riversleigh-naracoorte",
+        "name": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

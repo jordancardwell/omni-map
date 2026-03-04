@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.452183,
+          22.145887
+        ]
+      },
+      "properties": {
+        "code": "urban-historic-centre-of-cienfuegos",
+        "name": "Urban Historic Centre of Cienfuegos",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ctu","name":"Chengdu Tianfu International","featureType":"airport","iataCode":"CTU","annualPassengers":48500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[104.0004,30.3197]}}]}

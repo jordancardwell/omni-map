@@ -1,0 +1,17 @@
+{
+  "code": "pvg-lhr",
+  "name": "Shanghai — London",
+  "airports": [
+    "PVG",
+    "LHR"
+  ],
+  "distanceKm": 9241,
+  "weeklyFlights": 25,
+  "airlines": [
+    "China Eastern"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PVG–LHR route between Shanghai and London. Distance: 9,241 km. ~25 weekly flights operated by China Eastern.",
+  "geojson": "pvg-lhr.geojson"
+}

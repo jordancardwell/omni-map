@@ -1,0 +1,18 @@
+{
+  "code": "dr-congo-uganda",
+  "name": "DR Congo \u2192 Uganda",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Democratic Republic of Congo \u2192 Uganda",
+  "badgeValue": "~470,000",
+  "origin": "Democratic Republic of Congo",
+  "destination": "Uganda",
+  "estimatedMigrants": "~470,000",
+  "drivers": [
+    "Armed conflict",
+    "Ethnic violence",
+    "Resource conflicts",
+    "M23 insurgency"
+  ],
+  "description": "Eastern DR Congo has experienced decades of conflict involving armed groups, resource exploitation, and ethnic tensions. Uganda receives significant numbers of Congolese refugees fleeing violence in North Kivu, South Kivu, and Ituri provinces. The M23 insurgency and other militia activity continue to drive displacement. Refugees are settled across western Uganda, with many in Kyangwali and Nakivale settlements.",
+  "geojson": "dr-congo-uganda.geojson"
+}

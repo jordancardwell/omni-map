@@ -1,0 +1,12 @@
+{
+  "code": "atl",
+  "name": "Hartsfield-Jackson Atlanta International",
+  "iataCode": "ATL",
+  "city": "Atlanta",
+  "country": "United States",
+  "annualPassengers": 93700000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "Hartsfield-Jackson Atlanta International (ATL) in Atlanta, United States. Annual passengers: ~93.7M. Classification: Mega Hub.",
+  "geojson": "atl.geojson"
+}

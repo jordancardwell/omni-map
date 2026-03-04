@@ -1,0 +1,18 @@
+{
+  "code": "metiss",
+  "name": "METISS",
+  "capacityTbps": 60,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3500,
+  "yearLaid": 2022,
+  "rfsDate": "2023-06",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Saint-Denis, Réunion",
+    "Port Louis, Mauritius",
+    "Toamasina, Madagascar",
+    "Durban, South Africa"
+  ],
+  "description": "Melting Pot Indianoceanic Submarine System connecting Indian Ocean islands to South Africa.",
+  "geojson": "metiss.geojson"
+}

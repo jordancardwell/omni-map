@@ -1,0 +1,20 @@
+{
+  "code": "tuorla",
+  "name": "Tuorla Observatory",
+  "country": "Finland",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 40,
+  "aperture": "1 m",
+  "telescopes": [
+    "1m reflector"
+  ],
+  "keyDiscoveries": [
+    "BL Lacertae object monitoring",
+    "Blazar variability",
+    "Active galactic nuclei"
+  ],
+  "location": "Tuorla Observatory, Finland",
+  "description": "University of Turku observatory known for long-term monitoring of blazars and active galactic nuclei, contributing to multi-wavelength campaigns.",
+  "geojson": "tuorla.geojson"
+}

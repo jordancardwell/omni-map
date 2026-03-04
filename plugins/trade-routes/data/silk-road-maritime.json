@@ -1,0 +1,12 @@
+{
+  "code": "silk-road-maritime",
+  "name": "Silk Road (Maritime)",
+  "routeType": "Maritime",
+  "era": "Ancient & Medieval",
+  "period": "c. 200 BCE – 1500s CE",
+  "commodities": ["Silk", "Porcelain", "Tea", "Spices", "Sandalwood", "Ivory", "Incense", "Coral", "Pearls"],
+  "majorStops": ["Guangzhou", "Hanoi", "Palembang", "Malacca", "Calicut", "Muscat", "Aden", "Jeddah", "Alexandria"],
+  "significance": "The maritime counterpart of the overland Silk Road, connecting Chinese ports to Southeast Asia, India, Arabia, and East Africa through monsoon-driven sailing routes",
+  "description": "The Maritime Silk Road linked the South China Sea to the Indian Ocean and beyond, forming one of the world's earliest long-distance sea trade networks. Chinese, Malay, Indian, Arab, and Persian merchants navigated these waters using seasonal monsoon winds.\n\nMajor goods included Chinese silk and porcelain heading west, while spices, aromatics, and precious materials flowed east. The route also facilitated the spread of Hinduism, Buddhism, and Islam across Southeast Asia.\n\nKey ports like Guangzhou, Palembang, Malacca, and Calicut served as cosmopolitan trading hubs where diverse cultures mixed. The route's importance grew as overland Silk Road disruptions pushed more trade to sea, eventually helping to inspire the Age of Exploration.",
+  "geojson": "silk-road-maritime.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "murujuga-cultural-landscape",
+  "name": "Murujuga Cultural Landscape",
+  "type": "Cultural",
+  "country": "Australia",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Murujuga is a deeply storied land and seascape located in northwest Australia. It encompasses the Burrup Peninsula, the Dampier Archipelago, surrounding marine areas and the submerged landscape. Murujuga is shaped by the Lore — rules and narratives put in place to create the Country — and the enduring presence of the Ngarda-Ngarli, Traditional Owners and Custodians of the site. The property holds profound cultural and spiritual significance, reflecting over 50,000 years of continuous care and management by Traditional Law that has adapted to the changing needs of Country over periods of dramatic climatic and environmental change. Murujuga is renowned for its dense concentration of archaeological and spiritual sites that reflect the interaction between people and place over thousands of generations. Its extraordinary rock art assemblage records a complex system of Lore and Traditional Law, features unique motifs and demonstrates artistic and technical mastery.",
+  "danger": false,
+  "geojson": "murujuga-cultural-landscape.geojson"
+}

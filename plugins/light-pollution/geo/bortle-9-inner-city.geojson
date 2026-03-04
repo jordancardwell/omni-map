@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-9-inner-city",
+        "name": "Inner-City Sky",
+        "region": "Manhattan, New York"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.05,
+              40.68
+            ],
+            [
+              -73.9,
+              40.68
+            ],
+            [
+              -73.9,
+              40.85
+            ],
+            [
+              -74.05,
+              40.85
+            ],
+            [
+              -74.05,
+              40.68
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-9-inner-city",
+        "name": "Inner-City Sky",
+        "region": "Central London"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.25,
+              51.45
+            ],
+            [
+              0.05,
+              51.45
+            ],
+            [
+              0.05,
+              51.58
+            ],
+            [
+              -0.25,
+              51.58
+            ],
+            [
+              -0.25,
+              51.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-9-inner-city",
+        "name": "Inner-City Sky",
+        "region": "Central Tokyo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.6,
+              35.55
+            ],
+            [
+              139.9,
+              35.55
+            ],
+            [
+              139.9,
+              35.8
+            ],
+            [
+              139.6,
+              35.8
+            ],
+            [
+              139.6,
+              35.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-9-inner-city",
+        "name": "Inner-City Sky",
+        "region": "Hong Kong Central"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.9,
+              22.2
+            ],
+            [
+              114.3,
+              22.2
+            ],
+            [
+              114.3,
+              22.45
+            ],
+            [
+              113.9,
+              22.45
+            ],
+            [
+              113.9,
+              22.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-9-inner-city",
+        "name": "Inner-City Sky",
+        "region": "Singapore"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6,
+              1.2
+            ],
+            [
+              104.05,
+              1.2
+            ],
+            [
+              104.05,
+              1.45
+            ],
+            [
+              103.6,
+              1.45
+            ],
+            [
+              103.6,
+              1.2
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

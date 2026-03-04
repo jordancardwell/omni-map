@@ -1,0 +1,752 @@
+[
+  {
+    "code": "abbasid-caliphate",
+    "name": "Abbasid Caliphate",
+    "era": "Medieval",
+    "peakYear": "850 CE",
+    "areaAtPeakKm2": 11100000,
+    "populationEstimate": "50 million",
+    "capital": "Baghdad",
+    "keyAchievements": [
+      "House of Wisdom",
+      "Islamic Golden Age",
+      "Algebra and algorithm development",
+      "Medical advances",
+      "Translation movement"
+    ],
+    "declineFactors": [
+      "Fragmentation into emirates",
+      "Turkish military influence",
+      "Mongol sack of Baghdad",
+      "Buyid and Seljuk domination",
+      "Loss of political authority"
+    ],
+    "description": "The Abbasid Caliphate (750–1258 CE) presided over the Islamic Golden Age, a period of extraordinary scientific, cultural, and intellectual achievement. Centered in Baghdad, the empire became the world's foremost center of learning.\n\nThe House of Wisdom in Baghdad translated and preserved Greek, Persian, and Indian texts, making advances in mathematics (algebra, algorithms), medicine, astronomy, and philosophy. The Mongol destruction of Baghdad in 1258 is considered one of history's greatest cultural catastrophes.",
+    "geojson": "abbasid-caliphate.geojson"
+  },
+  {
+    "code": "achaemenid-empire",
+    "name": "Persian Empire (Achaemenid)",
+    "era": "Ancient",
+    "peakYear": "480 BCE",
+    "areaAtPeakKm2": 5500000,
+    "populationEstimate": "50 million",
+    "capital": "Persepolis",
+    "keyAchievements": [
+      "Royal Road postal system",
+      "Satrap governance",
+      "Zoroastrianism spread",
+      "Cyrus Cylinder (human rights)",
+      "Qanat irrigation"
+    ],
+    "declineFactors": [
+      "Alexander the Great's conquest",
+      "Internal revolts",
+      "Succession crises",
+      "Greek resistance",
+      "Administrative overextension"
+    ],
+    "description": "The Achaemenid Empire, founded by Cyrus the Great in 550 BCE, was the first true superpower of the ancient world. At its height under Darius I, it stretched from Egypt and Libya in the west to the Indus Valley in the east.\n\nThe empire was remarkable for its tolerance — Cyrus freed the Jews from Babylonian captivity, and the Cyrus Cylinder is often considered the first declaration of human rights. The Royal Road connected the empire's vast territories, enabling trade and communication.",
+    "geojson": "achaemenid-empire.geojson"
+  },
+  {
+    "code": "aztec-empire",
+    "name": "Aztec Empire",
+    "era": "Early Modern",
+    "peakYear": "1519 CE",
+    "areaAtPeakKm2": 220000,
+    "populationEstimate": "6 million",
+    "capital": "Tenochtitlan",
+    "keyAchievements": [
+      "Tenochtitlan city engineering",
+      "Chinampas floating gardens",
+      "Calendar system",
+      "Tribute trade network",
+      "Monumental architecture"
+    ],
+    "declineFactors": [
+      "Spanish conquest",
+      "Smallpox epidemic",
+      "Alliance of conquered peoples with Spanish",
+      "Technological disadvantage",
+      "Moctezuma's hesitation"
+    ],
+    "description": "The Aztec Empire (1428–1521 CE) dominated central Mexico from its island capital of Tenochtitlan, one of the largest cities in the world at the time with a population of over 200,000. The city was built on an island in Lake Texcoco, connected to the mainland by causeways.\n\nThe Aztecs developed sophisticated agricultural techniques (chinampas), a complex calendar system, monumental architecture, and an extensive tribute network. The empire fell to Hernán Cortés and his indigenous allies in 1521, accelerated by devastating smallpox epidemics.",
+    "geojson": "aztec-empire.geojson"
+  },
+  {
+    "code": "british-empire",
+    "name": "British Empire",
+    "era": "Modern",
+    "peakYear": "1920 CE",
+    "areaAtPeakKm2": 35500000,
+    "populationEstimate": "412 million",
+    "capital": "London",
+    "keyAchievements": [
+      "Industrial Revolution",
+      "Parliamentary democracy spread",
+      "English language globalization",
+      "Common law system",
+      "Abolition of slave trade"
+    ],
+    "declineFactors": [
+      "World War I and II costs",
+      "Decolonization movements",
+      "Rise of nationalism",
+      "American ascendancy",
+      "Suez Crisis"
+    ],
+    "description": "The British Empire was the largest empire in history, covering approximately a quarter of the world's land surface at its peak in 1920. It spanned every continent and included territories from Canada to Australia, India to Africa.\n\nThe empire's legacy is complex — it spread the English language, common law, and parliamentary governance globally, while also causing immense suffering through colonialism, exploitation, and the displacement of indigenous peoples. Decolonization accelerated after World War II.",
+    "geojson": "british-empire.geojson"
+  },
+  {
+    "code": "byzantine-empire",
+    "name": "Byzantine Empire",
+    "era": "Medieval",
+    "peakYear": "555 CE",
+    "areaAtPeakKm2": 3500000,
+    "populationEstimate": "26 million",
+    "capital": "Constantinople",
+    "keyAchievements": [
+      "Justinian Code",
+      "Hagia Sophia",
+      "Preservation of Greek learning",
+      "Orthodox Christianity spread",
+      "Diplomatic sophistication"
+    ],
+    "declineFactors": [
+      "Arab conquests",
+      "Fourth Crusade sack of Constantinople",
+      "Ottoman expansion",
+      "Plague of Justinian",
+      "Internal religious conflicts"
+    ],
+    "description": "The Byzantine Empire was the continuation of the Eastern Roman Empire, lasting from the fall of Rome in 476 CE until the Ottoman conquest of Constantinople in 1453. At its peak under Justinian I, it reclaimed much of the western Mediterranean.\n\nByzantium preserved and transmitted Greco-Roman culture, law, and learning to both the Islamic world and medieval Europe. The Justinian Code became the foundation of European legal systems. The empire's fall in 1453 sent Greek scholars westward, helping spark the Renaissance.",
+    "geojson": "byzantine-empire.geojson"
+  },
+  {
+    "code": "dutch-colonial-empire",
+    "name": "Dutch Colonial Empire",
+    "era": "Early Modern",
+    "peakYear": "1670 CE",
+    "areaAtPeakKm2": 3700000,
+    "populationEstimate": "36 million",
+    "capital": "Amsterdam",
+    "keyAchievements": [
+      "Dutch East India Company (VOC)",
+      "Global trade network",
+      "Financial innovation (stock exchange)",
+      "Cartography advances",
+      "Religious tolerance"
+    ],
+    "declineFactors": [
+      "Anglo-Dutch Wars",
+      "French invasion",
+      "British competition",
+      "Napoleonic occupation",
+      "Indonesian independence"
+    ],
+    "description": "The Dutch Colonial Empire was built during the Dutch Golden Age of the 17th century, when the Netherlands became the world's foremost maritime and economic power. The Dutch East India Company (VOC) was the world's first multinational corporation and first company to issue stock.\n\nThe Dutch established colonies and trading posts across Southeast Asia (Indonesia), South Africa, the Caribbean, and briefly controlled parts of Brazil and North America (New Amsterdam, now New York). Their innovations in finance, including the Amsterdam Stock Exchange, laid the foundations of modern capitalism.",
+    "geojson": "dutch-colonial-empire.geojson"
+  },
+  {
+    "code": "egyptian-empire",
+    "name": "Egyptian Empire (New Kingdom)",
+    "era": "Ancient",
+    "peakYear": "1250 BCE",
+    "areaAtPeakKm2": 1000000,
+    "populationEstimate": "5 million",
+    "capital": "Thebes",
+    "keyAchievements": [
+      "Pyramids and temples",
+      "Hieroglyphic writing",
+      "Medical knowledge",
+      "Mathematical advances",
+      "Monumental architecture"
+    ],
+    "declineFactors": [
+      "Sea Peoples invasions",
+      "Internal power struggles",
+      "Libyan incursions",
+      "Economic decline",
+      "Priestly power growth"
+    ],
+    "description": "The New Kingdom of Egypt (1550–1070 BCE) represented the peak of ancient Egyptian power and cultural achievement. Under pharaohs like Thutmose III, Hatshepsut, Akhenaten, and Ramesses II, Egypt controlled vast territories from Nubia to Syria.\n\nThis era produced some of Egypt's most iconic monuments, including the temples of Karnak, Luxor, and Abu Simbel. It was also the era of Tutankhamun, whose intact tomb gave the modern world its most intimate glimpse of ancient Egyptian civilization.",
+    "geojson": "egyptian-empire.geojson"
+  },
+  {
+    "code": "ethiopian-empire",
+    "name": "Ethiopian Empire (Aksumite)",
+    "era": "Ancient",
+    "peakYear": "350 CE",
+    "areaAtPeakKm2": 1250000,
+    "populationEstimate": "5 million",
+    "capital": "Aksum",
+    "keyAchievements": [
+      "Obelisk architecture",
+      "Early Christianity adoption",
+      "Ge'ez script",
+      "International trade hub",
+      "Coinage system"
+    ],
+    "declineFactors": [
+      "Islamic expansion",
+      "Trade route shifts",
+      "Environmental degradation",
+      "Isolation from allies",
+      "Internal fragmentation"
+    ],
+    "description": "The Aksumite Empire (c. 100–940 CE) was one of the great civilizations of the ancient world, centered in present-day Ethiopia and Eritrea. It was one of the four great powers of its time, alongside Rome, Persia, and China.\n\nAksum was among the first states to adopt Christianity (c. 330 CE), developed its own script (Ge'ez), minted its own coins, and erected massive stone obelisks that still stand today. Its strategic location at the crossroads of African, Arabian, and Indian Ocean trade routes made it a vital commercial hub.",
+    "geojson": "ethiopian-empire.geojson"
+  },
+  {
+    "code": "french-colonial-empire",
+    "name": "French Colonial Empire",
+    "era": "Modern",
+    "peakYear": "1920 CE",
+    "areaAtPeakKm2": 11500000,
+    "populationEstimate": "112 million",
+    "capital": "Paris",
+    "keyAchievements": [
+      "French language spread",
+      "Napoleonic Code",
+      "Cultural mission civilisatrice",
+      "Infrastructure development",
+      "Scientific expeditions"
+    ],
+    "declineFactors": [
+      "World Wars",
+      "Vietnamese independence",
+      "Algerian War",
+      "African decolonization",
+      "Suez Crisis"
+    ],
+    "description": "The French Colonial Empire was the second-largest colonial empire after Britain, spanning territories across Africa, Southeast Asia, the Pacific, and the Americas. At its peak after World War I, it covered about 8% of the world's land area.\n\nFrance's colonial legacy includes the spread of the French language (now spoken by 300+ million people), legal systems based on the Napoleonic Code, and lasting cultural influences in former colonies. Decolonization was often violent, particularly in Algeria and Indochina.",
+    "geojson": "french-colonial-empire.geojson"
+  },
+  {
+    "code": "gupta-empire",
+    "name": "Gupta Empire",
+    "era": "Ancient",
+    "peakYear": "400 CE",
+    "areaAtPeakKm2": 3500000,
+    "populationEstimate": "35 million",
+    "capital": "Pataliputra",
+    "keyAchievements": [
+      "Zero and decimal system",
+      "Sanskrit literature golden age",
+      "Nalanda University",
+      "Iron pillar metallurgy",
+      "Ayurvedic medicine advances"
+    ],
+    "declineFactors": [
+      "Hunnic invasions",
+      "Provincial governors' autonomy",
+      "Succession disputes",
+      "Economic disruption",
+      "Loss of trade routes"
+    ],
+    "description": "The Gupta Empire (320–550 CE) presided over the Indian Golden Age, a period of extraordinary advances in science, mathematics, astronomy, philosophy, literature, and art. India under the Guptas was one of the world's most advanced civilizations.\n\nGupta scholars invented the numeral system (including zero) that the entire world uses today, made advances in astronomy that predated Copernicus, and developed Sanskrit literature to its highest form. The iron pillar of Delhi, which has resisted corrosion for 1,600 years, demonstrates their metallurgical sophistication.",
+    "geojson": "gupta-empire.geojson"
+  },
+  {
+    "code": "han-dynasty",
+    "name": "Han Dynasty",
+    "era": "Ancient",
+    "peakYear": "100 BCE",
+    "areaAtPeakKm2": 6500000,
+    "populationEstimate": "60 million",
+    "capital": "Chang'an (Xi'an)",
+    "keyAchievements": [
+      "Paper invention",
+      "Silk Road trade",
+      "Civil service examinations",
+      "Confucianism as state ideology",
+      "Iron and steel technology"
+    ],
+    "declineFactors": [
+      "Eunuch court influence",
+      "Yellow Turban Rebellion",
+      "Land concentration",
+      "Warlord fragmentation",
+      "Economic inequality"
+    ],
+    "description": "The Han Dynasty (206 BCE–220 CE) is considered one of the golden ages of Chinese civilization. It established many of the political and cultural norms that would define China for two millennia, including the civil service examination system and Confucian state ideology.\n\nThe Han era saw the invention of paper, significant advances in metallurgy and agriculture, and the opening of the Silk Road. The term 'Han Chinese' — the majority ethnic group in China today — derives from this dynasty.",
+    "geojson": "han-dynasty.geojson"
+  },
+  {
+    "code": "holy-roman-empire",
+    "name": "Holy Roman Empire",
+    "era": "Medieval",
+    "peakYear": "1050 CE",
+    "areaAtPeakKm2": 950000,
+    "populationEstimate": "25 million",
+    "capital": "Aachen / Prague / Vienna",
+    "keyAchievements": [
+      "University founding",
+      "Gothic cathedral architecture",
+      "Hanseatic League trade",
+      "Imperial Diet governance",
+      "Cultural patronage"
+    ],
+    "declineFactors": [
+      "Religious fragmentation",
+      "Thirty Years' War",
+      "Princely autonomy growth",
+      "Napoleonic dissolution",
+      "Rise of Prussia and Austria"
+    ],
+    "description": "The Holy Roman Empire (800/962–1806) was a multi-ethnic complex of territories in Western and Central Europe. Despite Voltaire's famous quip that it was 'neither holy, nor Roman, nor an empire,' it was the dominant political structure in central Europe for centuries.\n\nThe empire fostered the development of universities, Gothic architecture, and the Hanseatic trading network. Its decentralized structure, while often seen as a weakness, allowed for diverse cultural development and laid the groundwork for modern European federalism.",
+    "geojson": "holy-roman-empire.geojson"
+  },
+  {
+    "code": "inca-empire",
+    "name": "Inca Empire",
+    "era": "Early Modern",
+    "peakYear": "1527 CE",
+    "areaAtPeakKm2": 2000000,
+    "populationEstimate": "12 million",
+    "capital": "Cusco",
+    "keyAchievements": [
+      "Machu Picchu construction",
+      "Quipu record-keeping",
+      "Road network (Qhapaq Ñan)",
+      "Terrace agriculture",
+      "Administrative efficiency"
+    ],
+    "declineFactors": [
+      "Spanish conquest",
+      "Smallpox epidemic",
+      "Civil war between Atahualpa and Huáscar",
+      "Technological disadvantage",
+      "Internal divisions"
+    ],
+    "description": "The Inca Empire (Tawantinsuyu) was the largest empire in pre-Columbian America, stretching along the western coast of South America from present-day Colombia to Chile. Despite lacking a written language, wheeled transport, or iron tools, the Inca built one of history's most sophisticated civilizations.\n\nTheir achievements include Machu Picchu, a 40,000 km road network through the Andes, advanced agricultural terracing, and the quipu system for record-keeping. The empire fell rapidly after Spanish conquistador Francisco Pizarro arrived in 1532.",
+    "geojson": "inca-empire.geojson"
+  },
+  {
+    "code": "khmer-empire",
+    "name": "Khmer Empire",
+    "era": "Medieval",
+    "peakYear": "1150 CE",
+    "areaAtPeakKm2": 1000000,
+    "populationEstimate": "2 million",
+    "capital": "Angkor",
+    "keyAchievements": [
+      "Angkor Wat",
+      "Hydraulic engineering",
+      "Hindu-Buddhist synthesis",
+      "Monumental temple architecture",
+      "Rice paddy innovation"
+    ],
+    "declineFactors": [
+      "Thai expansion",
+      "Hydraulic system failure",
+      "Climate change",
+      "Overbuilding strain",
+      "Ayutthaya sack of Angkor"
+    ],
+    "description": "The Khmer Empire (802–1431 CE) was the dominant power in Southeast Asia, centered on the monumental city of Angkor in present-day Cambodia. At its peak, Angkor was the largest pre-industrial city in the world, with an urban sprawl covering over 1,000 square kilometers.\n\nThe empire's most enduring legacy is Angkor Wat, the world's largest religious monument, along with hundreds of other temples. The Khmer developed sophisticated hydraulic engineering to manage monsoon waters, enabling intensive rice cultivation that supported their massive population.",
+    "geojson": "khmer-empire.geojson"
+  },
+  {
+    "code": "macedonian-empire",
+    "name": "Macedonian Empire (Alexander)",
+    "era": "Ancient",
+    "peakYear": "323 BCE",
+    "areaAtPeakKm2": 5200000,
+    "populationEstimate": "50 million",
+    "capital": "Babylon",
+    "keyAchievements": [
+      "Hellenistic culture spread",
+      "Alexandria founded",
+      "East-West cultural fusion",
+      "Military innovation",
+      "Scientific patronage"
+    ],
+    "declineFactors": [
+      "Alexander's death",
+      "Wars of the Diadochi",
+      "Empire fragmentation",
+      "No succession plan",
+      "Overextension"
+    ],
+    "description": "Alexander the Great's empire was built in just 13 years (336–323 BCE) through one of history's most remarkable military campaigns. Starting from Macedonia, Alexander conquered the Persian Empire, Egypt, and territories as far east as India.\n\nAlexander's conquests spread Greek culture across a vast area, creating the Hellenistic world that blended Greek, Persian, Egyptian, and Indian traditions. Though the empire fractured immediately after his death, the cultural synthesis he initiated shaped civilization for centuries.",
+    "geojson": "macedonian-empire.geojson"
+  },
+  {
+    "code": "mali-empire",
+    "name": "Mali Empire",
+    "era": "Medieval",
+    "peakYear": "1350 CE",
+    "areaAtPeakKm2": 1240000,
+    "populationEstimate": "20 million",
+    "capital": "Niani",
+    "keyAchievements": [
+      "Timbuktu as learning center",
+      "Mansa Musa's wealth",
+      "Trans-Saharan trade control",
+      "Sankore University",
+      "Gold and salt trade"
+    ],
+    "declineFactors": [
+      "Succession disputes",
+      "Songhai expansion",
+      "Loss of trade routes",
+      "Provincial rebellion",
+      "Mossi raids"
+    ],
+    "description": "The Mali Empire (c. 1235–1600) was one of the wealthiest and most powerful states in African history. Founded by Sundiata Keita, it dominated West Africa through control of the gold and salt trade across the Sahara.\n\nMansa Musa, Mali's most famous ruler, is often considered the wealthiest person in history. His 1324 pilgrimage to Mecca was so lavish that he reportedly crashed the gold market in Cairo. Timbuktu became a renowned center of Islamic learning, housing the famous Sankore University.",
+    "geojson": "mali-empire.geojson"
+  },
+  {
+    "code": "maurya-empire",
+    "name": "Maurya Empire",
+    "era": "Ancient",
+    "peakYear": "250 BCE",
+    "areaAtPeakKm2": 5000000,
+    "populationEstimate": "68 million",
+    "capital": "Pataliputra",
+    "keyAchievements": [
+      "Ashoka's edicts",
+      "Buddhism spread",
+      "Arthashastra political treatise",
+      "Unified Indian subcontinent",
+      "Advanced road network"
+    ],
+    "declineFactors": [
+      "Weak successors after Ashoka",
+      "Economic strain",
+      "Regional rebellion",
+      "Brahmanical revival",
+      "Military fragmentation"
+    ],
+    "description": "The Maurya Empire (322–185 BCE) was the first empire to unify most of the Indian subcontinent. Founded by Chandragupta Maurya with the guidance of his advisor Kautilya (author of the Arthashastra), it reached its zenith under Emperor Ashoka.\n\nAshoka's conversion to Buddhism after the bloody Kalinga War led to one of history's most remarkable transformations — a warrior emperor becoming a promoter of peace, dharma, and non-violence. His rock edicts, found across the subcontinent, remain some of the earliest written records of Indian history.",
+    "geojson": "maurya-empire.geojson"
+  },
+  {
+    "code": "mongol-empire",
+    "name": "Mongol Empire",
+    "era": "Medieval",
+    "peakYear": "1279 CE",
+    "areaAtPeakKm2": 24000000,
+    "populationEstimate": "110 million",
+    "capital": "Karakorum",
+    "keyAchievements": [
+      "Pax Mongolica",
+      "Silk Road revival",
+      "Postal system (Yam)",
+      "Religious tolerance",
+      "Unified Eurasian trade"
+    ],
+    "declineFactors": [
+      "Succession disputes",
+      "Fragmentation into khanates",
+      "Black Death",
+      "Overextension",
+      "Assimilation into local cultures"
+    ],
+    "description": "The Mongol Empire was the largest contiguous land empire in history, founded by Genghis Khan in 1206. At its peak under Kublai Khan, it stretched from Eastern Europe to the Sea of Japan, covering much of Central Asia, China, Persia, and Russia.\n\nThe empire facilitated unprecedented cultural exchange along the Silk Road during the Pax Mongolica. Despite its reputation for brutal conquest, it promoted trade, religious tolerance, and diplomatic communication across Eurasia.",
+    "geojson": "mongol-empire.geojson"
+  },
+  {
+    "code": "mughal-empire",
+    "name": "Mughal Empire",
+    "era": "Early Modern",
+    "peakYear": "1700 CE",
+    "areaAtPeakKm2": 4000000,
+    "populationEstimate": "158 million",
+    "capital": "Agra / Delhi",
+    "keyAchievements": [
+      "Taj Mahal",
+      "Mughal miniature painting",
+      "Religious syncretism under Akbar",
+      "Revenue system reform",
+      "Architectural masterworks"
+    ],
+    "declineFactors": [
+      "Aurangzeb's policies",
+      "Maratha resistance",
+      "Regional autonomy",
+      "British East India Company",
+      "Succession wars"
+    ],
+    "description": "The Mughal Empire (1526–1857) ruled most of the Indian subcontinent at its peak and was one of the world's wealthiest states, controlling approximately 25% of global GDP in the 17th century.\n\nThe Mughals created some of humanity's greatest architectural achievements, including the Taj Mahal and the Red Fort. Emperor Akbar promoted religious tolerance and a syncretic culture blending Persian, Indian, and Islamic traditions. The empire's decline began under Aurangzeb and ended with British colonization.",
+    "geojson": "mughal-empire.geojson"
+  },
+  {
+    "code": "ottoman-empire",
+    "name": "Ottoman Empire",
+    "era": "Early Modern",
+    "peakYear": "1683 CE",
+    "areaAtPeakKm2": 5200000,
+    "populationEstimate": "30 million",
+    "capital": "Constantinople (Istanbul)",
+    "keyAchievements": [
+      "Millet system of governance",
+      "Architectural masterworks",
+      "Bridge between East and West",
+      "Islamic Golden Age continuation",
+      "Legal codification"
+    ],
+    "declineFactors": [
+      "Military defeats",
+      "Nationalist movements",
+      "Economic stagnation",
+      "Failure to industrialize",
+      "World War I"
+    ],
+    "description": "The Ottoman Empire was one of the longest-lived empires in history, lasting from 1299 to 1922. At its peak under Suleiman the Magnificent, it controlled Southeast Europe, Western Asia, and North Africa, including the holy cities of Mecca, Medina, and Jerusalem.\n\nThe Ottomans were known for their administrative sophistication, religious tolerance through the millet system, and architectural achievements like the Süleymaniye Mosque. The empire's dissolution after World War I reshaped the modern Middle East.",
+    "geojson": "ottoman-empire.geojson"
+  },
+  {
+    "code": "portuguese-empire",
+    "name": "Portuguese Empire",
+    "era": "Early Modern",
+    "peakYear": "1820 CE",
+    "areaAtPeakKm2": 10400000,
+    "populationEstimate": "36 million",
+    "capital": "Lisbon",
+    "keyAchievements": [
+      "Maritime exploration pioneering",
+      "Global trade network",
+      "Navigation technology",
+      "Portuguese language spread",
+      "Cartography advances"
+    ],
+    "declineFactors": [
+      "Union with Spain",
+      "Dutch competition",
+      "Brazilian independence",
+      "Colonial wars",
+      "Economic decline"
+    ],
+    "description": "The Portuguese Empire was the first and longest-lived European colonial empire, spanning nearly six centuries (1415–1999). Portugal pioneered the Age of Exploration under Prince Henry the Navigator, establishing trade routes to Africa, India, Southeast Asia, and Brazil.\n\nPortuguese explorers like Vasco da Gama and Ferdinand Magellan transformed global trade and navigation. The empire's legacy includes the Portuguese language (spoken by 260+ million people), Lusophone cultures across four continents, and the foundation of global maritime commerce.",
+    "geojson": "portuguese-empire.geojson"
+  },
+  {
+    "code": "qing-dynasty",
+    "name": "Qing Dynasty",
+    "era": "Early Modern",
+    "peakYear": "1790 CE",
+    "areaAtPeakKm2": 14700000,
+    "populationEstimate": "400 million",
+    "capital": "Beijing",
+    "keyAchievements": [
+      "Kangxi-Qianlong golden age",
+      "Tibet and Xinjiang incorporation",
+      "Population boom",
+      "Porcelain and silk production",
+      "Literary compilations"
+    ],
+    "declineFactors": [
+      "Opium Wars",
+      "Taiping Rebellion",
+      "Foreign concessions",
+      "Boxer Rebellion",
+      "Xinhai Revolution"
+    ],
+    "description": "The Qing Dynasty (1644–1912) was the last imperial dynasty of China and at its peak was the most populous country in the world. Founded by the Manchu people, it expanded China's territory to include Tibet, Xinjiang, Mongolia, and Taiwan.\n\nThe Kangxi and Qianlong emperors presided over an era of prosperity and cultural achievement. However, the 19th century brought devastating conflicts: the Opium Wars with Britain, the Taiping Rebellion (which killed 20–30 million people), and growing foreign interference that ultimately led to the dynasty's fall in 1912.",
+    "geojson": "qing-dynasty.geojson"
+  },
+  {
+    "code": "roman-empire",
+    "name": "Roman Empire",
+    "era": "Ancient",
+    "peakYear": "117 CE",
+    "areaAtPeakKm2": 5000000,
+    "populationEstimate": "70 million",
+    "capital": "Rome",
+    "keyAchievements": [
+      "Roman law",
+      "Road networks",
+      "Aqueducts",
+      "Latin language spread",
+      "Republican government"
+    ],
+    "declineFactors": [
+      "Barbarian invasions",
+      "Economic instability",
+      "Political corruption",
+      "Military overextension",
+      "Division into East and West"
+    ],
+    "description": "The Roman Empire was one of the largest and most influential civilizations in world history. At its peak under Emperor Trajan in 117 CE, it controlled the entire Mediterranean basin, much of Western Europe, North Africa, and the Near East.\n\nRome's legacy includes its legal system, engineering marvels like roads and aqueducts, Latin (the ancestor of Romance languages), and the spread of Christianity. The empire's fall in 476 CE marked the beginning of the Middle Ages in Europe.",
+    "geojson": "roman-empire.geojson"
+  },
+  {
+    "code": "russian-empire",
+    "name": "Russian Empire",
+    "era": "Modern",
+    "peakYear": "1866 CE",
+    "areaAtPeakKm2": 22800000,
+    "populationEstimate": "176 million",
+    "capital": "Saint Petersburg",
+    "keyAchievements": [
+      "Trans-Siberian Railway",
+      "Arctic exploration",
+      "Literary golden age",
+      "Scientific contributions",
+      "Expansion to Pacific"
+    ],
+    "declineFactors": [
+      "Crimean War defeat",
+      "Emancipation challenges",
+      "1905 Revolution",
+      "World War I losses",
+      "Bolshevik Revolution"
+    ],
+    "description": "The Russian Empire was the third-largest empire in history, stretching from Eastern Europe across Siberia to Alaska and into Central Asia. Under the Romanov dynasty, Russia transformed from a medieval principality into a major European power.\n\nThe empire produced a remarkable literary and artistic tradition (Tolstoy, Dostoevsky, Tchaikovsky) and made significant scientific contributions. However, its autocratic system and failure to modernize led to the 1917 Revolution and the rise of the Soviet Union.",
+    "geojson": "russian-empire.geojson"
+  },
+  {
+    "code": "sassanid-empire",
+    "name": "Sassanid Empire",
+    "era": "Ancient",
+    "peakYear": "620 CE",
+    "areaAtPeakKm2": 3500000,
+    "populationEstimate": "20 million",
+    "capital": "Ctesiphon",
+    "keyAchievements": [
+      "Zoroastrian state religion",
+      "Academy of Gondishapur",
+      "Taq Kasra arch",
+      "Silk trade control",
+      "Metalwork and textiles"
+    ],
+    "declineFactors": [
+      "Arab Muslim conquest",
+      "Byzantine wars exhaustion",
+      "Plague",
+      "Internal instability",
+      "Khosrow II's overreach"
+    ],
+    "description": "The Sassanid Empire (224–651 CE) was the last great Persian empire before the Islamic conquest. It was the principal rival of the Roman/Byzantine Empire for over 400 years, and the two superpowers shaped the political and cultural landscape of the ancient Near East.\n\nThe Sassanids established Zoroastrianism as the state religion, built magnificent palaces and cities, and founded the Academy of Gondishapur — one of the world's first universities, combining Greek, Indian, and Persian knowledge. Their art and administrative systems profoundly influenced the early Islamic caliphates.",
+    "geojson": "sassanid-empire.geojson"
+  },
+  {
+    "code": "songhai-empire",
+    "name": "Songhai Empire",
+    "era": "Early Modern",
+    "peakYear": "1500 CE",
+    "areaAtPeakKm2": 1400000,
+    "populationEstimate": "15 million",
+    "capital": "Gao",
+    "keyAchievements": [
+      "Expanded Timbuktu",
+      "Efficient provincial administration",
+      "Islamic scholarship",
+      "Niger River trade control",
+      "Professional army and navy"
+    ],
+    "declineFactors": [
+      "Moroccan invasion",
+      "Internal civil war",
+      "Gunpowder technology gap",
+      "Succession crisis",
+      "Loss of trade monopoly"
+    ],
+    "description": "The Songhai Empire (c. 1430–1591) was the largest empire in African history by territory. Rising from the ashes of the Mali Empire, it controlled the vital trans-Saharan trade routes and the fertile Niger River valley.\n\nUnder Sunni Ali and Askia Muhammad, the empire developed an efficient bureaucracy, a professional standing army with a river fleet, and expanded Timbuktu as a center of Islamic learning. The empire fell in 1591 when Moroccan forces armed with gunpowder weapons defeated the Songhai army at the Battle of Tondibi.",
+    "geojson": "songhai-empire.geojson"
+  },
+  {
+    "code": "spanish-empire",
+    "name": "Spanish Empire",
+    "era": "Early Modern",
+    "peakYear": "1790 CE",
+    "areaAtPeakKm2": 13700000,
+    "populationEstimate": "68 million",
+    "capital": "Madrid",
+    "keyAchievements": [
+      "Global maritime empire",
+      "Columbian Exchange",
+      "Spanish language spread",
+      "Silver trade network",
+      "Catholic mission system"
+    ],
+    "declineFactors": [
+      "Armada defeat",
+      "Colonial independence movements",
+      "Economic mismanagement",
+      "Napoleonic invasion",
+      "Spanish-American War"
+    ],
+    "description": "The Spanish Empire was one of the first global empires, spanning the Americas, parts of Europe, Africa, Asia, and Oceania. At its peak, it was said that 'the sun never set' on Spanish territories.\n\nSpain's colonization of the Americas fundamentally reshaped the world through the Columbian Exchange — the transfer of plants, animals, diseases, and cultures between hemispheres. The empire spread the Spanish language (now spoken by 500+ million people) and Catholicism across the globe.",
+    "geojson": "spanish-empire.geojson"
+  },
+  {
+    "code": "tang-dynasty",
+    "name": "Tang Dynasty",
+    "era": "Medieval",
+    "peakYear": "750 CE",
+    "areaAtPeakKm2": 5400000,
+    "populationEstimate": "80 million",
+    "capital": "Chang'an (Xi'an)",
+    "keyAchievements": [
+      "Poetry golden age",
+      "Woodblock printing",
+      "Gunpowder invention",
+      "Cosmopolitan capital",
+      "Silk Road peak trade"
+    ],
+    "declineFactors": [
+      "An Lushan Rebellion",
+      "Eunuch influence",
+      "Provincial warlordism",
+      "Huang Chao Rebellion",
+      "Tibetan invasions"
+    ],
+    "description": "The Tang Dynasty (618–907 CE) is widely considered the golden age of Chinese civilization. Its capital Chang'an was the world's largest city, home to over a million people from diverse cultures and religions, making it the most cosmopolitan city of its era.\n\nThe Tang era saw extraordinary achievements in poetry (Li Bai, Du Fu), art, music, and technology (woodblock printing, gunpowder). The dynasty's influence extended across East and Central Asia, profoundly shaping Korean, Japanese, and Vietnamese cultures.",
+    "geojson": "tang-dynasty.geojson"
+  },
+  {
+    "code": "timurid-empire",
+    "name": "Timurid Empire",
+    "era": "Medieval",
+    "peakYear": "1405 CE",
+    "areaAtPeakKm2": 4400000,
+    "populationEstimate": "35 million",
+    "capital": "Samarkand",
+    "keyAchievements": [
+      "Timurid Renaissance",
+      "Astronomical observatories",
+      "Persian literature patronage",
+      "Architectural achievements",
+      "Samarkand as cultural center"
+    ],
+    "declineFactors": [
+      "Succession disputes",
+      "Fragmentation",
+      "Uzbek invasions",
+      "Internal rivalries",
+      "Loss of military cohesion"
+    ],
+    "description": "The Timurid Empire (1370–1507) was founded by Timur (Tamerlane), who claimed descent from Genghis Khan. From his capital at Samarkand, Timur conquered vast territories spanning Central Asia, Persia, Mesopotamia, and parts of India and Anatolia.\n\nWhile Timur's conquests were devastatingly destructive, the Timurid dynasty that followed became great patrons of art, science, and architecture. The Timurid Renaissance in Herat and Samarkand produced extraordinary miniature painting, poetry, and the astronomical work of Ulugh Beg. The Mughal Empire was founded by a Timurid prince, Babur.",
+    "geojson": "timurid-empire.geojson"
+  },
+  {
+    "code": "umayyad-caliphate",
+    "name": "Umayyad Caliphate",
+    "era": "Medieval",
+    "peakYear": "750 CE",
+    "areaAtPeakKm2": 11100000,
+    "populationEstimate": "62 million",
+    "capital": "Damascus",
+    "keyAchievements": [
+      "Arabic language unification",
+      "Dome of the Rock construction",
+      "Postal system",
+      "Coinage standardization",
+      "Greatest Islamic territorial extent"
+    ],
+    "declineFactors": [
+      "Abbasid revolution",
+      "Berber revolts",
+      "Tribal factionalism",
+      "Non-Arab Muslim grievances",
+      "Overextension"
+    ],
+    "description": "The Umayyad Caliphate (661–750 CE) was the largest empire the world had yet seen, stretching from the Iberian Peninsula to Central Asia. It was the second of the four major Islamic caliphates and marked the peak territorial expansion of the early Islamic conquests.\n\nThe Umayyads established Arabic as the administrative language of this vast empire and built iconic monuments like the Dome of the Rock in Jerusalem. Despite their achievements, resentment from non-Arab Muslims and internal rivalries led to the Abbasid Revolution in 750 CE.",
+    "geojson": "umayyad-caliphate.geojson"
+  }
+]

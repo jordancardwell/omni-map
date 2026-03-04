@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[120.3496,15.1429]},"properties":{"code":"pinatubo","name":"Mount Pinatubo","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1486,"lastEruption":"1991","vei":6}}]}

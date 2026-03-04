@@ -1,0 +1,16 @@
+{
+  "code": "ru-jp-far-east",
+  "name": "RU-JP Far East",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6892,
+  "yearLaid": 2017,
+  "rfsDate": "2022-06",
+  "owner": "TransTeleCom",
+  "landingPoints": [
+    "Vladivostok, Russia",
+    "Tokyo, Japan"
+  ],
+  "description": "RU-JP Far East connecting Vladivostok to Tokyo.",
+  "geojson": "ru-jp-far-east.geojson"
+}

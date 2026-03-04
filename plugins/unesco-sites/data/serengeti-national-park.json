@@ -1,0 +1,15 @@
+{
+  "code": "serengeti-national-park",
+  "name": "Serengeti National Park",
+  "type": "Natural",
+  "country": "United Republic of Tanzania",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world.",
+  "danger": false,
+  "geojson": "serengeti-national-park.geojson"
+}

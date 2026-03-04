@@ -1,0 +1,20 @@
+{
+  "code": "barren-island",
+  "name": "Barren Island",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 354,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "India",
+  "region": "Andaman Islands",
+  "location": "Andaman Islands, India",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall"
+  ],
+  "eruptionHistory": "The only confirmed active volcano in India. Has been intermittently erupting since 1991.",
+  "description": "Barren Island is the only confirmed active volcano in the Indian subcontinent. Located in the Andaman Sea, it has been intermittently active since 1991.",
+  "geojson": "barren-island.geojson"
+}

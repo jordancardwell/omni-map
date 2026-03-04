@@ -1,0 +1,17 @@
+{
+  "code": "tj",
+  "name": "Tajikistan",
+  "avgDownloadMbps": 11.8,
+  "avgUploadMbps": 5.4,
+  "avgLatencyMs": 38,
+  "mobileDownloadMbps": 10.6,
+  "mobileUploadMbps": 2.6,
+  "fixedDownloadMbps": 11.8,
+  "fixedUploadMbps": 5.4,
+  "rank": 136,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Central Asia",
+  "dataYear": 2024,
+  "trendDescription": "Central Asia's developing market. ~14% year-over-year growth.",
+  "geojson": "tj.geojson"
+}

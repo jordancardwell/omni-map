@@ -1,0 +1,19 @@
+{
+  "code": "olm",
+  "name": "Olm",
+  "scientificName": "Proteus anguinus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown",
+  "populationTrend": "Stable",
+  "habitatType": "Underground cave rivers",
+  "threats": [
+    "Water pollution",
+    "Habitat disturbance",
+    "Climate change",
+    "Tourism"
+  ],
+  "conservationEfforts": "Protected in Postojna Cave and other karst systems. EU Habitats Directive lists it as a priority species. Water quality monitoring in cave systems.",
+  "description": "Europe's only cave-dwelling vertebrate, the olm is a blind, pink-skinned salamander that lives in total darkness in the karst caves of the Dinaric Alps. It can survive up to 10 years without food.",
+  "geojson": "olm.geojson"
+}

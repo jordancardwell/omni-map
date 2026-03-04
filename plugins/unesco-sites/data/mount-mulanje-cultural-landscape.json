@@ -1,0 +1,14 @@
+{
+  "code": "mount-mulanje-cultural-landscape",
+  "name": "Mount Mulanje Cultural Landscape",
+  "type": "Cultural",
+  "country": "Malawi",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature.",
+  "danger": false,
+  "geojson": "mount-mulanje-cultural-landscape.geojson"
+}

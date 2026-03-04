@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"karakum-desert","name":"Karakum Desert","region":"Central Asia"},"geometry":{"type":"Polygon","coordinates":[[[53,42],[56,42],[59,42],[62,41],[64,40],[65,38],[64,36],[62,36],[60,37],[58,38],[56,38],[54,39],[53,40],[53,42]]]}}]}

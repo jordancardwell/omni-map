@@ -1,0 +1,21 @@
+{
+  "code": "lisa-pathfinder-esac",
+  "name": "LISA Pathfinder / LISA (ESAC)",
+  "country": "Spain",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 770,
+  "aperture": "N/A (gravitational wave)",
+  "telescopes": [
+    "LISA Pathfinder (completed)",
+    "LISA (in development)"
+  ],
+  "keyDiscoveries": [
+    "Gravitational wave detection in space validated",
+    "Drag-free spacecraft technology",
+    "Expected: Low-frequency gravitational waves"
+  ],
+  "location": "LISA Pathfinder / LISA (ESAC), Spain",
+  "description": "LISA Pathfinder demonstrated the technology for space-based gravitational wave detection. LISA, launching ~2035, will detect low-frequency gravitational waves from supermassive black hole mergers.",
+  "geojson": "lisa-pathfinder-esac.geojson"
+}

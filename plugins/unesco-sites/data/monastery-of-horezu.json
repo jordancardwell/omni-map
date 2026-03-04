@@ -1,0 +1,14 @@
+{
+  "code": "monastery-of-horezu",
+  "name": "Monastery of Horezu",
+  "type": "Cultural",
+  "country": "Romania",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded in 1690 by Prince Constantine Brancovan, the monastery of Horezu, in Walachia, is a masterpiece of the 'Brancovan' style. It is known for its architectural purity and balance, the richness of its sculptural detail, the treatment of its religious compositions, its votive portraits and its painted decorative works. The school of mural and icon painting established at the monastery in the 18th century was famous throughout the Balkan region.",
+  "danger": false,
+  "geojson": "monastery-of-horezu.geojson"
+}

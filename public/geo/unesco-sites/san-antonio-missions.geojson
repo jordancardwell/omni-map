@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.46,
+          29.3280555556
+        ]
+      },
+      "properties": {
+        "code": "san-antonio-missions",
+        "name": "San Antonio Missions",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

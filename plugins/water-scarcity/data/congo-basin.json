@@ -1,0 +1,15 @@
+{
+  "code": "congo-basin",
+  "name": "Congo Basin",
+  "region": "Central Africa",
+  "stressGroup": "1. Low (<10%)",
+  "waterStressLevel": "Low",
+  "waterStressRatio": "< 5% — withdrawal-to-availability",
+  "depletionRate": "Negligible — abundant precipitation year-round",
+  "droughtRisk": "Low",
+  "seasonalVariability": "Low",
+  "affectedPopulation": 75000000,
+  "riskFactors": ["Deforestation", "Mining runoff", "Urbanization", "Climate variability"],
+  "description": "The Congo Basin is the second largest river basin on Earth and drains the world's second largest tropical rainforest. Annual rainfall exceeds 1,500 mm across most of the basin, keeping water stress extremely low. WRI Aqueduct 4.0 classifies the region as low stress, though governance challenges affect water quality.",
+  "geojson": "congo-basin.geojson"
+}

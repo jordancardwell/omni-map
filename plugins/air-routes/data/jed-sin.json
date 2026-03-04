@@ -1,0 +1,17 @@
+{
+  "code": "jed-sin",
+  "name": "Jeddah — Singapore",
+  "airports": [
+    "JED",
+    "SIN"
+  ],
+  "distanceKm": 7359,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Saudia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–SIN route between Jeddah and Singapore. Distance: 7,359 km. ~20 weekly flights operated by Saudia.",
+  "geojson": "jed-sin.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.71028,
+          41.095
+        ]
+      },
+      "properties": {
+        "code": "monasteries-of-haghpat-and-sanahin",
+        "name": "Monasteries of Haghpat and Sanahin",
+        "type": "Cultural",
+        "country": "Armenia",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

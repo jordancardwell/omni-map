@@ -1,0 +1,18 @@
+{
+  "code": "fiji-crested-iguana",
+  "name": "Fiji Crested Iguana",
+  "scientificName": "Brachylophus vitiensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~6,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Dry tropical forest",
+  "threats": [
+    "Habitat loss",
+    "Invasive cats and goats",
+    "Fire"
+  ],
+  "conservationEfforts": "National Trust of Fiji protects Yadua Taba island (main population). Goat eradication on key islands. Captive breeding at Kula Eco Park.",
+  "description": "One of the most striking reptiles in the Pacific, with bright emerald-green banding and a tall crest. It was only described by science in 1979. Its island forest habitat is disappearing rapidly.",
+  "geojson": "fiji-crested-iguana.geojson"
+}

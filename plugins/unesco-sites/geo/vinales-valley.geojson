@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71667,
+          22.61667
+        ]
+      },
+      "properties": {
+        "code": "vinales-valley",
+        "name": "Viñales Valley",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

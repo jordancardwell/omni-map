@@ -1,0 +1,14 @@
+{
+  "code": "dia-de-los-muertos",
+  "name": "Día de los Muertos",
+  "festivalType": "Cultural",
+  "dateOrSeason": "November 1–2",
+  "origin": "Mexican/Mesoamerican tradition",
+  "estimatedAttendance": "Millions across Mexico",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "Building ofrendas (altars) with marigolds, photos, and favorite foods; sugar skulls; face painting as calaveras; visiting cemeteries; pan de muerto.",
+  "historicalBackground": "Día de los Muertos blends pre-Columbian Aztec and Maya death rituals with Catholic All Saints' and All Souls' Days, creating a uniquely Mexican tradition.",
+  "description": "Mexico's iconic celebration honoring the dead, where families create elaborate altars and visit cemeteries to commune with departed loved ones.",
+  "location": "Mexico City, Mexico",
+  "geojson": "dia-de-los-muertos.geojson"
+}

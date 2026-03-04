@@ -1,0 +1,14 @@
+{
+  "code": "port-louis",
+  "name": "Port Louis",
+  "country": "Mauritius",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port Louis in Mauritius. Annual cargo throughput: ~8 million tons. Type: Container Port.",
+  "geojson": "port-louis.geojson"
+}

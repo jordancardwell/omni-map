@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.49167,
+          -7.75222
+        ]
+      },
+      "properties": {
+        "code": "prambanan-temple-compounds",
+        "name": "Prambanan Temple Compounds",
+        "type": "Cultural",
+        "country": "Indonesia",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

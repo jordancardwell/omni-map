@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.38926,
+          50.60603
+        ]
+      },
+      "properties": {
+        "code": "notre-dame-cathedral-in-tournai",
+        "name": "Notre-Dame Cathedral in Tournai",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

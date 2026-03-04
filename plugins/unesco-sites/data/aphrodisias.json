@@ -1,0 +1,16 @@
+{
+  "code": "aphrodisias",
+  "name": "Aphrodisias",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in southwestern Turkey, in the upper valley of the Morsynus River, the site consists of two components: the archaeological site of Aphrodisias and the marble quarries northeast of the city. The temple of Aphrodite dates from the 3rd century BC and the city was built one century later. The wealth of Aphrodisias came from the marble quarries and the art produced by its sculptors. The city streets are arranged around several large civic structures, which include temples, a theatre, an agora and two bath complexes.",
+  "danger": false,
+  "geojson": "aphrodisias.geojson"
+}

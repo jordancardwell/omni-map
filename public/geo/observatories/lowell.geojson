@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.6647,35.2028]},"properties":{"code":"lowell","name":"Lowell Observatory","observatoryType":"Optical","status":"Operational","country":"United States"}}]}

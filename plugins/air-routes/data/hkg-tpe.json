@@ -1,0 +1,19 @@
+{
+  "code": "hkg-tpe",
+  "name": "Hong Kong — Taipei",
+  "airports": [
+    "HKG",
+    "TPE"
+  ],
+  "distanceKm": 806,
+  "weeklyFlights": 260,
+  "airlines": [
+    "Cathay Pacific",
+    "China Airlines",
+    "EVA Air"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "HKG–TPE route between Hong Kong and Taipei. Distance: 806 km. ~260 weekly flights operated by Cathay Pacific, China Airlines, EVA Air.",
+  "geojson": "hkg-tpe.geojson"
+}

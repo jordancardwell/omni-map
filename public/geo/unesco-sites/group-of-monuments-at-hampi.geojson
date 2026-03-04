@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.47167,
+          15.31444
+        ]
+      },
+      "properties": {
+        "code": "group-of-monuments-at-hampi",
+        "name": "Group of Monuments at Hampi",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

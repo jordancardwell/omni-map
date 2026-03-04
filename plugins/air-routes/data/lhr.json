@@ -1,0 +1,12 @@
+{
+  "code": "lhr",
+  "name": "London Heathrow",
+  "iataCode": "LHR",
+  "city": "London",
+  "country": "United Kingdom",
+  "annualPassengers": 79200000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "London Heathrow (LHR) in London, United Kingdom. Annual passengers: ~79.2M. Classification: Mega Hub.",
+  "geojson": "lhr.geojson"
+}

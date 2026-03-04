@@ -1,0 +1,19 @@
+{
+  "code": "hawaiki-cable",
+  "name": "Hawaiki Cable",
+  "capacityTbps": 43.8,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2017,
+  "rfsDate": "2018-07",
+  "owner": "Hawaiki Submarine Cable",
+  "landingPoints": [
+    "Mangawhai, NZ",
+    "Sydney, Australia",
+    "Papeete, French Polynesia",
+    "Honolulu, USA",
+    "Hillsboro, USA"
+  ],
+  "description": "Cable connecting New Zealand and Australia to the US via Hawaii and French Polynesia.",
+  "geojson": "hawaiki-cable.geojson"
+}

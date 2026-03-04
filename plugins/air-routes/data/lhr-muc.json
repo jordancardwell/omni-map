@@ -1,0 +1,18 @@
+{
+  "code": "lhr-muc",
+  "name": "London — Munich",
+  "airports": [
+    "LHR",
+    "MUC"
+  ],
+  "distanceKm": 941,
+  "weeklyFlights": 110,
+  "airlines": [
+    "British Airways",
+    "Lufthansa"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–MUC route between London and Munich. Distance: 941 km. ~110 weekly flights operated by British Airways, Lufthansa.",
+  "geojson": "lhr-muc.geojson"
+}

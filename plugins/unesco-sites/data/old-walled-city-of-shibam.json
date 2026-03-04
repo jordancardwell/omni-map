@@ -1,0 +1,16 @@
+{
+  "code": "old-walled-city-of-shibam",
+  "name": "Old Walled City of Shibam",
+  "type": "Cultural",
+  "country": "Yemen",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Surrounded by a fortified wall, the 16th-century city of Shibam is one of the oldest and best examples of urban planning based on the principle of vertical construction. Its impressive tower-like structures rise out of the cliff and have given the city the nickname of ‘the Manhattan of the desert’.",
+  "danger": true,
+  "geojson": "old-walled-city-of-shibam.geojson"
+}

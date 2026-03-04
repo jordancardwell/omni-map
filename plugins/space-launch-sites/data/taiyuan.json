@@ -1,0 +1,17 @@
+{
+  "code": "taiyuan",
+  "name": "Taiyuan Satellite Launch Center",
+  "country": "China",
+  "operator": "CNSA / CASC",
+  "coordinates": "38.8490°N, 111.6080°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Yaogan reconnaissance satellites",
+    "Gaofen Earth observation",
+    "Haiyang ocean satellites"
+  ],
+  "orbitalInclinationRange": "83°–98° (polar/SSO)",
+  "location": "Taiyuan Satellite Launch Center, China",
+  "description": "China's center for sun-synchronous and polar orbit launches in Shanxi province. Primarily used for Earth observation, weather, and reconnaissance satellite deployments.",
+  "geojson": "taiyuan.geojson"
+}

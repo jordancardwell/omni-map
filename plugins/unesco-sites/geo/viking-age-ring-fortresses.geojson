@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2547222222,
+          56.9952777778
+        ]
+      },
+      "properties": {
+        "code": "viking-age-ring-fortresses",
+        "name": "Viking-Age Ring Fortresses",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

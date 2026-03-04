@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.3928,37.0661]},"properties":{"code":"iram-30m","name":"IRAM 30m Telescope","observatoryType":"Radio","status":"Operational","country":"Spain"}}]}

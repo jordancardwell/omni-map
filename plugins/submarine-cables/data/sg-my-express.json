@@ -1,0 +1,16 @@
+{
+  "code": "sg-my-express",
+  "name": "SG-MY Express",
+  "capacityTbps": 17,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1577,
+  "yearLaid": 2012,
+  "rfsDate": "2020-06",
+  "owner": "TM",
+  "landingPoints": [
+    "Singapore",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "SG-MY Express connecting Singapore to Kuala Lumpur.",
+  "geojson": "sg-my-express.geojson"
+}

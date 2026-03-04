@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0230555556,
+          22.2555555556
+        ]
+      },
+      "properties": {
+        "code": "zuojiang-huashan-rock-art-cultural-landscape",
+        "name": "Zuojiang Huashan Rock Art Cultural Landscape",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

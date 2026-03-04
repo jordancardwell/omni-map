@@ -1,0 +1,16 @@
+{
+  "code": "singapore",
+  "name": "Port of Singapore",
+  "country": "Singapore",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 600,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Strait of Malacca Route",
+    "Trans-Pacific Northern Route",
+    "Suez Canal Route"
+  ],
+  "description": "Port of Singapore in Singapore. Annual cargo throughput: ~600 million tons. Type: Container Port.",
+  "geojson": "singapore.geojson"
+}

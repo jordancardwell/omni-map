@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0825,
+          41.38083
+        ]
+      },
+      "properties": {
+        "code": "poblet-monastery",
+        "name": "Poblet Monastery",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

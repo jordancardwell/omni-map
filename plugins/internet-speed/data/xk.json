@@ -1,0 +1,17 @@
+{
+  "code": "xk",
+  "name": "Kosovo",
+  "avgDownloadMbps": 52.4,
+  "avgUploadMbps": 22.8,
+  "avgLatencyMs": 22,
+  "mobileDownloadMbps": 28.6,
+  "mobileUploadMbps": 6.2,
+  "fixedDownloadMbps": 52.4,
+  "fixedUploadMbps": 22.8,
+  "rank": 71,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Young nation developing broadband. ~16% year-over-year growth.",
+  "geojson": "xk.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9052777778,
+          17.4275555556
+        ]
+      },
+      "properties": {
+        "code": "phong-nha-ke-bang-national-park-and-hin-nam-no-national-park",
+        "name": "Phong Nha-Ke Bang National Park and Hin Nam No National Park",
+        "type": "Natural",
+        "country": "Viet Nam, Lao People's Democratic Republic",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "muc",
+  "name": "Munich Airport",
+  "iataCode": "MUC",
+  "city": "Munich",
+  "country": "Germany",
+  "annualPassengers": 44500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Munich Airport (MUC) in Munich, Germany. Annual passengers: ~44.5M. Classification: International Hub.",
+  "geojson": "muc.geojson"
+}

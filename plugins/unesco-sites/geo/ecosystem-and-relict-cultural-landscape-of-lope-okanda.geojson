@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          -0.5
+        ]
+      },
+      "properties": {
+        "code": "ecosystem-and-relict-cultural-landscape-of-lope-okanda",
+        "name": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+        "type": "Mixed",
+        "country": "Gabon",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

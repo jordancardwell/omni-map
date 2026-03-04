@@ -1,0 +1,14 @@
+{
+  "code": "libreville",
+  "name": "Port of Libreville",
+  "country": "Gabon",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 5,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Libreville in Gabon. Annual cargo throughput: ~5 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "libreville.geojson"
+}

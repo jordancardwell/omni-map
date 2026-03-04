@@ -1,0 +1,14 @@
+{
+  "code": "barcelona",
+  "name": "Port of Barcelona",
+  "country": "Spain",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 70,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Barcelona in Spain. Annual cargo throughput: ~70 million tons. Type: Container Port.",
+  "geojson": "barcelona.geojson"
+}

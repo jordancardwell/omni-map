@@ -1,0 +1,16 @@
+{
+  "code": "hi-ca-cable",
+  "name": "HI-CA Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4609,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Hawaiian Telcom",
+  "landingPoints": [
+    "Honolulu, USA",
+    "Los Angeles, USA"
+  ],
+  "description": "HI-CA Cable connecting Honolulu to Los Angeles in the Pacific.",
+  "geojson": "hi-ca-cable.geojson"
+}

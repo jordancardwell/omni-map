@@ -1,0 +1,19 @@
+{
+  "code": "golden-frog",
+  "name": "Panamanian Golden Frog",
+  "scientificName": "Atelopus zeteki",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Possibly extinct in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Cloud forest streams",
+  "threats": [
+    "Chytrid fungus",
+    "Habitat loss",
+    "Collection",
+    "Climate change"
+  ],
+  "conservationEfforts": "Likely extinct in the wild due to chytrid fungus. Project Golden Frog maintains captive populations in over 50 institutions. Panama's national animal and cultural icon.",
+  "description": "A brilliant yellow frog that is Panama's national symbol. Chytrid fungus has devastated wild populations and it may now be extinct in the wild, surviving only in captive breeding programs.",
+  "geojson": "golden-frog.geojson"
+}

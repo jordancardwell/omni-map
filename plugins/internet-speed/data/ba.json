@@ -1,0 +1,17 @@
+{
+  "code": "ba",
+  "name": "Bosnia and Herzegovina",
+  "avgDownloadMbps": 70.2,
+  "avgUploadMbps": 22.8,
+  "avgLatencyMs": 20,
+  "mobileDownloadMbps": 28.6,
+  "mobileUploadMbps": 6.4,
+  "fixedDownloadMbps": 70.2,
+  "fixedUploadMbps": 22.8,
+  "rank": 60,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Broadband development continuing. ~13% year-over-year growth.",
+  "geojson": "ba.geojson"
+}

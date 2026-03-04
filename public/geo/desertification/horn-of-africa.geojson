@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"horn-of-africa","name":"Horn of Africa Drylands","region":"East Africa"},"geometry":{"type":"Polygon","coordinates":[[[36,12],[38,12],[40,10],[42,10],[44,8],[46,6],[48,4],[50,2],[48,0],[46,-2],[44,-2],[42,0],[40,2],[38,4],[36,6],[36,8],[36,12]]]}}]}

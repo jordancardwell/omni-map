@@ -1,0 +1,49 @@
+{
+  "id": "rainforests",
+  "name": "Rainforests",
+  "description": "Global rainforest coverage showing intact forest landscapes — tropical, temperate, and boreal forests with deforestation trends and conservation data sourced from the Intact Forest Landscapes (IFL) 2020 dataset",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#0D7A3A",
+  "categories": ["ecology", "environment", "conservation", "forests"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#0D7A3A",
+  "schema": "RainforestMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "country", "forestType", "intactness", "threats", "description"],
+    "groupBy": "forestType",
+    "titleField": "name",
+    "subtitleField": "country",
+    "badgeField": "areaKm2",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "country"
+  },
+  "detailFields": [
+    { "key": "forestType", "label": "Forest Type", "type": "text" },
+    {
+      "key": "intactness",
+      "label": "Intactness Status",
+      "type": "status-badge",
+      "statusColors": {
+        "Pristine": "#064E3B",
+        "Mostly Intact": "#0D7A3A",
+        "Moderately Degraded": "#65A30D",
+        "Severely Degraded": "#D97706",
+        "Critical": "#DC2626"
+      }
+    },
+    { "key": "areaKm2", "label": "Area (km²)", "type": "formatted-number" },
+    { "key": "changeSince2000", "label": "Change Since 2000", "type": "text" },
+    { "key": "annualLossRate", "label": "Annual Loss Rate", "type": "text" },
+    { "key": "threats", "label": "Threats", "type": "tags" },
+    { "key": "conservationStatus", "label": "Conservation Status", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

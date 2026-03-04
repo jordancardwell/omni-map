@@ -1,0 +1,18 @@
+{
+  "code": "jfk-ist",
+  "name": "New York — Istanbul",
+  "airports": [
+    "JFK",
+    "IST"
+  ],
+  "distanceKm": 8027,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Turkish Airlines",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–IST route between New York and Istanbul. Distance: 8,027 km. ~50 weekly flights operated by Turkish Airlines, Delta.",
+  "geojson": "jfk-ist.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "nice-winter-resort-town-of-the-riviera",
+  "name": "Nice, Winter Resort Town of the Riviera",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Nice, located on the Mediterranean, at the foot of the Alps, near the Italian border, in the Provence-Alpes-Côte d’Azur region, reflects the development of a city devoted to winter tourism, making the most of its mild climate and its coastal situation, between sea and mountains. From the mid-18th century, the site attracted growing numbers of aristocratic and upper-class families, mainly British, who developed the habit of spending their winters there. In 1832, Nice, then part of the Kingdom of Sardinia, set up the “Consiglio d’Ornato” which drew up a city planning scheme and architectural requirements designed to make the city attractive to foreigners. Thus, the “Camin dei Ingles”, a modest path which had been created along the coastline by British winter visitors in 1824, subsequently became the prestigious Promenade des Anglais. After the city was ceded to France in 1860, and thanks to its connection to the European rail network, an increasing number of winter visitors from all countries flocked to the city. This led to successive phases of development of new districts beyond the medieval old town. The diverse cultural influences of the winter visitors and the desire to make the most of the weather conditions and the coastal landscape have shaped the urban development and eclectic architectural styles of these districts, contributing to Nice’s reputation as a cosmopolitan winter resort.",
+  "danger": false,
+  "geojson": "nice-winter-resort-town-of-the-riviera.geojson"
+}

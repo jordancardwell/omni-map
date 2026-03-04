@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04167,
+          43.46806
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-san-gimignano",
+        "name": "Historic Centre of San Gimignano",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633333333,
+          49.75
+        ]
+      },
+      "properties": {
+        "code": "roman-monuments-cathedral-of-st-peter-and-church-of-our-lady-in-trier",
+        "name": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

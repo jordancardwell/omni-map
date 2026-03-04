@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8691666667,
+          45.4575
+        ]
+      },
+      "properties": {
+        "code": "ivrea-industrial-city-of-the-20th-century",
+        "name": "Ivrea, industrial city of the 20th century",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

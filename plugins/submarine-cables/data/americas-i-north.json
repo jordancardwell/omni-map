@@ -1,0 +1,16 @@
+{
+  "code": "americas-i-north",
+  "name": "Americas-I North",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2500,
+  "yearLaid": 2000,
+  "rfsDate": "2000-12",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Miami, USA",
+    "San Juan, Puerto Rico"
+  ],
+  "description": "Cable connecting US and Puerto Rico.",
+  "geojson": "americas-i-north.geojson"
+}

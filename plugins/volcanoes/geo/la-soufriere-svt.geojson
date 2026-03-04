@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-61.18,13.33]},"properties":{"code":"la-soufriere-svt","name":"La Soufrière","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1234,"lastEruption":"2021","vei":4}}]}

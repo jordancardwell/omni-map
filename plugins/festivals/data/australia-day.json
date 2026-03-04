@@ -1,0 +1,14 @@
+{
+  "code": "australia-day",
+  "name": "Australia Day",
+  "festivalType": "National",
+  "dateOrSeason": "January 26",
+  "origin": "Australian national",
+  "estimatedAttendance": "26+ million Australians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fireworks over Sydney Harbour; barbecues; citizenship ceremonies; Australian of the Year awards; beach events; concerts.",
+  "historicalBackground": "Australia Day marks the arrival of the First Fleet at Port Jackson in 1788. For Indigenous Australians, it is often called Invasion Day or Survival Day.",
+  "description": "Australia's national day celebrating the nation's heritage with harbor fireworks, barbecues, and community events across the continent.",
+  "location": "Sydney, Australia",
+  "geojson": "australia-day.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37722222,
+          49.3
+        ]
+      },
+      "properties": {
+        "code": "gardens-and-castle-at-kromeriz",
+        "name": "Gardens and Castle at Kroměříž",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

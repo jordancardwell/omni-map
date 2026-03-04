@@ -1,0 +1,24 @@
+{
+  "code": "utc-8",
+  "name": "Pacific Standard Time",
+  "nativeName": "UTC-08:00",
+  "utcOffset": "UTC-08:00",
+  "utcOffsetHours": -8,
+  "offsetGroup": "2. West (UTC-8 to -5)",
+  "ianaNames": [
+    "America/Los_Angeles",
+    "America/Vancouver",
+    "America/Tijuana"
+  ],
+  "countries": [
+    "US (Pacific coast)",
+    "Canada (BC)",
+    "Mexico (Baja California)"
+  ],
+  "dstRules": "Observes DST (UTC-7 in summer, Mar–Nov in US/Canada)",
+  "description": "Covers the Pacific coast of North America including major cities like Los Angeles, San Francisco, Seattle, and Vancouver. Home to Silicon Valley and Hollywood, this timezone spans a region of enormous economic and cultural influence.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-8.geojson"
+}

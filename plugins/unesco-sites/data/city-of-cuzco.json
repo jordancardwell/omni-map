@@ -1,0 +1,15 @@
+{
+  "code": "city-of-cuzco",
+  "name": "City of Cuzco",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Situated in the Peruvian Andes, Cuzco developed, under the Inca ruler Pachacutec, into a complex urban centre with distinct religious and administrative functions. It was surrounded by clearly delineated areas for agricultural, artisan and industrial production. When the Spaniards conquered it in the 16th century, they preserved the basic structure but built Baroque churches and palaces over the ruins of the Inca city.",
+  "danger": false,
+  "geojson": "city-of-cuzco.geojson"
+}

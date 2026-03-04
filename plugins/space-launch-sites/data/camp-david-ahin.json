@@ -1,0 +1,15 @@
+{
+  "code": "camp-david-ahin",
+  "name": "Dongfeng Aerospace City (JSLC housing)",
+  "country": "China",
+  "operator": "CASC",
+  "coordinates": "40.9500°N, 100.3000°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Support facility for Jiuquan launches"
+  ],
+  "orbitalInclinationRange": "40°–70°",
+  "location": "Dongfeng Aerospace City (JSLC housing), China",
+  "description": "The city and support infrastructure complex for the Jiuquan Satellite Launch Center. Houses thousands of workers and provides mission control facilities.",
+  "geojson": "camp-david-ahin.geojson"
+}

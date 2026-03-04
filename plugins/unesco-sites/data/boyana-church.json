@@ -1,0 +1,15 @@
+{
+  "code": "boyana-church",
+  "name": "Boyana Church",
+  "type": "Cultural",
+  "country": "Bulgaria",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art.",
+  "danger": false,
+  "geojson": "boyana-church.geojson"
+}

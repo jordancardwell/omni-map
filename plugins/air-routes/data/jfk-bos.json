@@ -1,0 +1,19 @@
+{
+  "code": "jfk-bos",
+  "name": "New York — Boston",
+  "airports": [
+    "JFK",
+    "BOS"
+  ],
+  "distanceKm": 300,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Delta",
+    "JetBlue",
+    "American"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "JFK–BOS route between New York and Boston. Distance: 300 km. ~100 weekly flights operated by Delta, JetBlue, American.",
+  "geojson": "jfk-bos.geojson"
+}

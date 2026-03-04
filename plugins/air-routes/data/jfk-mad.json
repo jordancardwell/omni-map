@@ -1,0 +1,19 @@
+{
+  "code": "jfk-mad",
+  "name": "New York — Madrid",
+  "airports": [
+    "JFK",
+    "MAD"
+  ],
+  "distanceKm": 5761,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Iberia",
+    "American",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–MAD route between New York and Madrid. Distance: 5,761 km. ~60 weekly flights operated by Iberia, American, Delta.",
+  "geojson": "jfk-mad.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0075,
+          22.1841666667
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-old-tea-forests-of-the-jingmai-mountain-in-puer",
+        "name": "Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

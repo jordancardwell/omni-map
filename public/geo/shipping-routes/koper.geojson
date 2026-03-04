@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"koper","name":"Port of Koper","featureType":"port","portType":"Container Port","country":"Slovenia"},"geometry":{"type":"Point","coordinates":[13.73,45.55]}}]}

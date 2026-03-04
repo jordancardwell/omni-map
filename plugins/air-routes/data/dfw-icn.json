@@ -1,0 +1,18 @@
+{
+  "code": "dfw-icn",
+  "name": "Dallas — Seoul",
+  "airports": [
+    "DFW",
+    "ICN"
+  ],
+  "distanceKm": 10988,
+  "weeklyFlights": 25,
+  "airlines": [
+    "American",
+    "Korean Air"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DFW–ICN route between Dallas and Seoul. Distance: 10,988 km. ~25 weekly flights operated by American, Korean Air.",
+  "geojson": "dfw-icn.geojson"
+}

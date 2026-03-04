@@ -1,0 +1,21 @@
+{
+  "code": "jfk-lhr",
+  "name": "New York — London",
+  "airports": [
+    "JFK",
+    "LHR"
+  ],
+  "distanceKm": 5540,
+  "weeklyFlights": 200,
+  "airlines": [
+    "British Airways",
+    "American",
+    "Delta",
+    "Virgin Atlantic",
+    "JetBlue"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "JFK–LHR route between New York and London. Distance: 5,540 km. ~200 weekly flights operated by British Airways, American, Delta, Virgin Atlantic, JetBlue.",
+  "geojson": "jfk-lhr.geojson"
+}

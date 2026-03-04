@@ -1,0 +1,24 @@
+{
+  "code": "north-china-plain",
+  "name": "North China Plain Degradation Zone",
+  "region": "East Asia",
+  "aridityGroup": "4. Dry Sub-Humid",
+  "aridityClassification": "Dry Sub-Humid",
+  "aridityIndex": "0.50–0.65 — monsoon-continental transition",
+  "area": "400,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 300000000,
+  "affectedCountries": [
+    "China"
+  ],
+  "desertificationDrivers": [
+    "Groundwater overdraft",
+    "Intensive agriculture",
+    "Industrial pollution",
+    "Gobi dust storms",
+    "Soil compaction"
+  ],
+  "desertFrontier": "Degradation advancing from Gobi margin toward Beijing; desertification within 70 km of capital",
+  "description": "The North China Plain, China's agricultural heartland, faces a converging water and land degradation crisis. The water table under Beijing has dropped 300 meters since the 1970s. China's $62 billion South-to-North Water Transfer Project was built to address the crisis. Dust storms from the expanding Gobi regularly blanket Beijing and northern cities. Over 27% of China's total land area is classified as desertified.",
+  "geojson": "north-china-plain.geojson"
+}

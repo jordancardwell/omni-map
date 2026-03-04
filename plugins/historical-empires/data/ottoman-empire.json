@@ -1,0 +1,25 @@
+{
+  "code": "ottoman-empire",
+  "name": "Ottoman Empire",
+  "era": "Early Modern",
+  "peakYear": "1683 CE",
+  "areaAtPeakKm2": 5200000,
+  "populationEstimate": "30 million",
+  "capital": "Constantinople (Istanbul)",
+  "keyAchievements": [
+    "Millet system of governance",
+    "Architectural masterworks",
+    "Bridge between East and West",
+    "Islamic Golden Age continuation",
+    "Legal codification"
+  ],
+  "declineFactors": [
+    "Military defeats",
+    "Nationalist movements",
+    "Economic stagnation",
+    "Failure to industrialize",
+    "World War I"
+  ],
+  "description": "The Ottoman Empire was one of the longest-lived empires in history, lasting from 1299 to 1922. At its peak under Suleiman the Magnificent, it controlled Southeast Europe, Western Asia, and North Africa, including the holy cities of Mecca, Medina, and Jerusalem.\n\nThe Ottomans were known for their administrative sophistication, religious tolerance through the millet system, and architectural achievements like the Süleymaniye Mosque. The empire's dissolution after World War I reshaped the modern Middle East.",
+  "geojson": "ottoman-empire.geojson"
+}

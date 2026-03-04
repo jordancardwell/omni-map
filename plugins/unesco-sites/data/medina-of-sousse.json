@@ -1,0 +1,16 @@
+{
+  "code": "medina-of-sousse",
+  "name": "Medina of Sousse",
+  "type": "Cultural",
+  "country": "Tunisia",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Sousse was an important commercial and military port during the Aghlabid period (800–909) and is a typical example of a town dating from the first centuries of Islam. With its kasbah, ramparts, medina (with the Great Mosque), Bu Ftata Mosque and typical ribat (both a fort and a religious building), Sousse was part of a coastal defence system.",
+  "danger": false,
+  "geojson": "medina-of-sousse.geojson"
+}

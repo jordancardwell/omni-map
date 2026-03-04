@@ -1,0 +1,16 @@
+{
+  "code": "minoan-palatial-centres",
+  "name": "Minoan Palatial Centres",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history.",
+  "danger": false,
+  "geojson": "minoan-palatial-centres.geojson"
+}

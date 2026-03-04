@@ -1,0 +1,15 @@
+{
+  "code": "mbanza-kongo-vestiges-of-the-capital-of-the-former-kingdom-of-kongo",
+  "name": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
+  "type": "Cultural",
+  "country": "Angola",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "The town of Mbanza Kongo, located on a plateau at an altitude of 570 m, was the political and spiritual capital of the Kingdom of Kongo, one of the largest constituted states in Southern Africa from the 14th to 19th centuries. The historical area grew around the royal residence, the customary court and the holy tree, as well as the royal funeral places. When the Portuguese arrived in the 15th century they added stone buildings constructed in accordance with European methods to the existing urban conurbation built in local materials. Mbanza Kongo illustrates, more than anywhere in sub-Saharan Africa, the profound changes caused by the introduction of Christianity and the arrival of the Portuguese into Central Africa.",
+  "danger": false,
+  "geojson": "mbanza-kongo-vestiges-of-the-capital-of-the-former-kingdom-of-kongo.geojson"
+}

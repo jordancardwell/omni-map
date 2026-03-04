@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.40638889,
+          27.895
+        ]
+      },
+      "properties": {
+        "code": "three-parallel-rivers-of-yunnan-protected-areas",
+        "name": "Three Parallel Rivers of Yunnan Protected Areas",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

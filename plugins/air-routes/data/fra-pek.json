@@ -1,0 +1,18 @@
+{
+  "code": "fra-pek",
+  "name": "Frankfurt — Beijing",
+  "airports": [
+    "FRA",
+    "PEK"
+  ],
+  "distanceKm": 7789,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air China",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "FRA–PEK route between Frankfurt and Beijing. Distance: 7,789 km. ~25 weekly flights operated by Air China, Lufthansa.",
+  "geojson": "fra-pek.geojson"
+}

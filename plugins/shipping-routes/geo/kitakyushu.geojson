@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kitakyushu","name":"Port of Kitakyushu","featureType":"port","portType":"Bulk Port","country":"Japan"},"geometry":{"type":"Point","coordinates":[130.95,33.95]}}]}

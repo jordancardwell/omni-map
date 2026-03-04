@@ -1,0 +1,29 @@
+{
+  "code": "tumbes-choco-magdalena",
+  "name": "Tumbes-Chocó-Magdalena",
+  "location": "Western South America and Central America (Panama to Peru)",
+  "areaKm2": 274597,
+  "habitatRemaining": "24.2%",
+  "plantSpecies": 11000,
+  "endemicPlants": 2750,
+  "vertebrateSpecies": 1625,
+  "endemicVertebrates": 418,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Baird's tapir",
+    "Brown-headed spider monkey",
+    "Harpy eagle",
+    "Golden poison frog",
+    "Ecuadorian white-fronted capuchin"
+  ],
+  "threats": [
+    "Logging",
+    "Agriculture",
+    "Mining",
+    "Shrimp farming",
+    "Road construction"
+  ],
+  "conservationEfforts": "Chocó-Darién Conservation Corridor links protected areas. Colombia's national park system covers key areas. Ecuador's Cotacachi-Cayapas Ecological Reserve. Community territories of Afro-Colombian and Indigenous peoples serve as de facto protected areas.",
+  "description": "The Tumbes-Chocó-Magdalena hotspot runs along the Pacific coast from eastern Panama through western Colombia and Ecuador to northwestern Peru, including the Magdalena Valley of Colombia. The Chocó region is one of the wettest places on Earth, receiving up to 13,000mm of rain annually.\n\nThis extraordinary rainfall supports some of the world's most luxuriant tropical forests. The hotspot is the global center of diversity for bromeliads and has exceptional levels of amphibian endemism. The golden poison frog (Phyllobates terribilis), found only in Colombia's Chocó, produces the most potent natural toxin known — enough to kill 10 adult humans.",
+  "geojson": "tumbes-choco-magdalena.geojson"
+}

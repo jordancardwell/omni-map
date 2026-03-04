@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.8333333,
+          -12.83333333
+        ]
+      },
+      "properties": {
+        "code": "kakadu-national-park",
+        "name": "Kakadu National Park",
+        "type": "Mixed",
+        "country": "Australia",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

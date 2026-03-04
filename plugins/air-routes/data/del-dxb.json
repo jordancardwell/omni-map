@@ -1,0 +1,20 @@
+{
+  "code": "del-dxb",
+  "name": "Delhi — Dubai",
+  "airports": [
+    "DEL",
+    "DXB"
+  ],
+  "distanceKm": 2183,
+  "weeklyFlights": 250,
+  "airlines": [
+    "IndiGo",
+    "Air India",
+    "Emirates",
+    "SpiceJet"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "DEL–DXB route between Delhi and Dubai. Distance: 2,183 km. ~250 weekly flights operated by IndiGo, Air India, Emirates, SpiceJet.",
+  "geojson": "del-dxb.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "cdf",
+  "name": "Congolese Franc",
+  "isoCode": "CDF",
+  "symbol": "FC",
+  "region": "Africa",
+  "centralBank": "Central Bank of the Congo",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Democratic Republic of the Congo"
+  ],
+  "countryCount": 1,
+  "description": "The Congolese Franc is the currency of the DRC, which holds vast mineral wealth including cobalt essential for batteries.",
+  "historicalNotes": "The franc was reintroduced in 1997, replacing the new zaïre when the country was renamed from Zaïre to the Democratic Republic of the Congo.",
+  "geojson": "cdf.geojson"
+}

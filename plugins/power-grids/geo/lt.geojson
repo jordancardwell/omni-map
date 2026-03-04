@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"lt","name":"Lithuania","country":"LT","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[21,53.9],[21,56.5],[26.8,56.5],[26.8,53.9],[21,53.9]]]}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2944444444,
+          34.7566666667
+        ]
+      },
+      "properties": {
+        "code": "crac-des-chevaliers-and-qalat-salah-el-din",
+        "name": "Crac des Chevaliers and Qal’at Salah El-Din",
+        "type": "Cultural",
+        "country": "Syrian Arab Republic",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

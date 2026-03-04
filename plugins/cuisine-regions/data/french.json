@@ -1,0 +1,39 @@
+{
+  "code": "french",
+  "name": "French Cuisine",
+  "cuisineFamily": "Western European",
+  "description": "French cuisine is renowned for its refined techniques, rich sauces, and emphasis on fresh, high-quality ingredients. It has profoundly influenced Western culinary traditions and is considered one of the world's great cuisines. Regional diversity ranges from the butter-heavy dishes of Normandy to the olive oil-based fare of Provence.",
+  "signatureDishes": [
+    "Coq au Vin",
+    "Bouillabaisse",
+    "Ratatouille",
+    "Crème Brûlée",
+    "Croissant",
+    "Soufflé"
+  ],
+  "keyIngredients": [
+    "Butter",
+    "Wine",
+    "Cream",
+    "Herbs de Provence",
+    "Shallots",
+    "Dijon Mustard"
+  ],
+  "cookingTechniques": [
+    "Sautéing",
+    "Braising",
+    "Flambéing",
+    "Sous vide",
+    "Julienne",
+    "Mise en place"
+  ],
+  "unescoRecognition": "French gastronomic meal inscribed on UNESCO Intangible Cultural Heritage list (2010)",
+  "keyRegions": [
+    "Île-de-France",
+    "Provence",
+    "Burgundy",
+    "Normandy",
+    "Alsace"
+  ],
+  "geojson": "french.geojson"
+}

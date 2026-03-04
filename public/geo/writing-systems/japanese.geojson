@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"japanese","name":"Japanese","region":"Japan","country":"JP"},"geometry":{"type":"Polygon","coordinates":[[[129.5,31],[129.5,45.5],[145.8,45.5],[145.8,31],[129.5,31]]]}}]}

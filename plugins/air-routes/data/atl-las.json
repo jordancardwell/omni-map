@@ -1,0 +1,19 @@
+{
+  "code": "atl-las",
+  "name": "Atlanta — Las Vegas",
+  "airports": [
+    "ATL",
+    "LAS"
+  ],
+  "distanceKm": 2805,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Delta",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–LAS route between Atlanta and Las Vegas. Distance: 2,805 km. ~80 weekly flights operated by Delta, Southwest, Spirit.",
+  "geojson": "atl-las.geojson"
+}

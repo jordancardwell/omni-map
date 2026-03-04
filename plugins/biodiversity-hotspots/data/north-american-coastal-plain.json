@@ -1,0 +1,29 @@
+{
+  "code": "north-american-coastal-plain",
+  "name": "North American Coastal Plain",
+  "location": "Southeastern USA and northeastern Mexico",
+  "areaKm2": 1145920,
+  "habitatRemaining": "14.2%",
+  "plantSpecies": 6200,
+  "endemicPlants": 1816,
+  "vertebrateSpecies": 1489,
+  "endemicVertebrates": 264,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Red-cockaded woodpecker",
+    "Gopher tortoise",
+    "Venus flytrap",
+    "Florida panther",
+    "Longleaf pine"
+  ],
+  "threats": [
+    "Urban sprawl",
+    "Agriculture",
+    "Fire suppression",
+    "Sea level rise",
+    "Invasive species"
+  ],
+  "conservationEfforts": "Longleaf pine ecosystem restoration across 15 million acres targeted. Prescribed fire programs restore natural fire regimes. Florida panther recovery reduced highway mortality. Venus flytrap habitat protected in Green Swamp Preserve.",
+  "description": "The North American Coastal Plain stretches along the southeastern United States from Long Island, New York, to eastern Texas and into northeastern Mexico. Recognized as a biodiversity hotspot in 2016, it is the most recently designated hotspot.\n\nThe region's longleaf pine savannas once covered 90 million acres but have been reduced by 97%. These fire-dependent ecosystems support extraordinary plant diversity, including carnivorous plants like the Venus flytrap and pitcher plants. Coastal wetlands, barrier islands, and the Everglades add to the region's ecological significance.",
+  "geojson": "north-american-coastal-plain.geojson"
+}

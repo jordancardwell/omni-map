@@ -1,0 +1,18 @@
+{
+  "code": "yyz-jfk",
+  "name": "Toronto — New York",
+  "airports": [
+    "YYZ",
+    "JFK"
+  ],
+  "distanceKm": 588,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Air Canada",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "YYZ–JFK route between Toronto and New York. Distance: 588 km. ~70 weekly flights operated by Air Canada, Delta.",
+  "geojson": "yyz-jfk.geojson"
+}

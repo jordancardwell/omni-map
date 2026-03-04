@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3913888889,
+          39.9072222222
+        ]
+      },
+      "properties": {
+        "code": "beijing-central-axis-a-building-ensemble-exhibiting-the-ideal-order-of-the-chine",
+        "name": "Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "az-pt-cable",
+  "name": "AZ-PT Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2262,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "Altice",
+  "landingPoints": [
+    "Ponta Delgada, Portugal",
+    "Lisbon, Portugal"
+  ],
+  "description": "AZ-PT Cable connecting Ponta Delgada to Lisbon in Europe.",
+  "geojson": "az-pt-cable.geojson"
+}

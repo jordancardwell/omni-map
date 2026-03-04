@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"papeete","name":"Port of Papeete","featureType":"port","portType":"Multi-Purpose Port","country":"French Polynesia"},"geometry":{"type":"Point","coordinates":[-149.57,-17.53]}}]}

@@ -1,0 +1,22 @@
+{
+  "code": "shiveluch",
+  "name": "Shiveluch",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3283,
+  "lastEruption": "2023",
+  "vei": 5,
+  "country": "Russia",
+  "region": "Kamchatka",
+  "location": "Kamchatka, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava domes",
+    "Lahars"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in Kamchatka. The April 2023 eruption produced the highest ash plume in decades, reaching 20 km altitude.",
+  "description": "Shiveluch is one of Kamchatka's largest and most active volcanoes. Its massive 2023 eruption sent ash across the Pacific and caused widespread disruption.",
+  "geojson": "shiveluch.geojson"
+}

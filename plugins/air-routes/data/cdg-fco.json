@@ -1,0 +1,18 @@
+{
+  "code": "cdg-fco",
+  "name": "Paris — Rome",
+  "airports": [
+    "CDG",
+    "FCO"
+  ],
+  "distanceKm": 1101,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Air France",
+    "ITA Airways"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CDG–FCO route between Paris and Rome. Distance: 1,101 km. ~100 weekly flights operated by Air France, ITA Airways.",
+  "geojson": "cdg-fco.geojson"
+}

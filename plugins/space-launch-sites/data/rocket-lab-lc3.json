@@ -1,0 +1,15 @@
+{
+  "code": "rocket-lab-lc3",
+  "name": "Rocket Lab Launch Complex 3",
+  "country": "United States",
+  "operator": "Rocket Lab",
+  "coordinates": "37.8410°N, 75.4870°W",
+  "status": "Planned",
+  "notableLaunches": [
+    "Neutron rocket (planned first launch)"
+  ],
+  "orbitalInclinationRange": "38°–60°",
+  "location": "Rocket Lab Launch Complex 3, United States",
+  "description": "Planned launch complex at Wallops for Rocket Lab's medium-lift Neutron rocket. Will support missions to LEO, GTO, and beyond. Part of Rocket Lab's expansion from small to medium launch.",
+  "geojson": "rocket-lab-lc3.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "monasteries-of-haghpat-and-sanahin",
+  "name": "Monasteries of Haghpat and Sanahin",
+  "type": "Cultural",
+  "country": "Armenia",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These two Byzantine monasteries in the Tumanian region from the period of prosperity during the Kiurikian dynasty (10th to 13th century) were important centres of learning. Sanahin was renown for its school of illuminators and calligraphers. The two monastic complexes represent the highest flowering of Armenian religious architecture, whose unique style developed from a blending of elements of Byzantine ecclesiastical architecture and the traditional vernacular architecture of the Caucasian region.",
+  "danger": false,
+  "geojson": "monasteries-of-haghpat-and-sanahin.geojson"
+}

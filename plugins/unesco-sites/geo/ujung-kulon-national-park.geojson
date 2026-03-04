@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3333333,
+          -6.75
+        ]
+      },
+      "properties": {
+        "code": "ujung-kulon-national-park",
+        "name": "Ujung Kulon National Park",
+        "type": "Natural",
+        "country": "Indonesia",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "nl-uk-south",
+  "name": "NL-UK South",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2658,
+  "yearLaid": 2010,
+  "rfsDate": "2014-06",
+  "owner": "Colt",
+  "landingPoints": [
+    "Katwijk, Netherlands",
+    "Lowestoft, UK"
+  ],
+  "description": "NL-UK South connecting Katwijk to Lowestoft in Europe.",
+  "geojson": "nl-uk-south.geojson"
+}

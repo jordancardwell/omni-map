@@ -1,0 +1,15 @@
+{
+  "code": "marseille",
+  "name": "Port of Marseille",
+  "country": "France",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 80,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route",
+    "Suez Canal Route"
+  ],
+  "description": "Port of Marseille in France. Annual cargo throughput: ~80 million tons. Type: Multi-Purpose Port.",
+  "geojson": "marseille.geojson"
+}

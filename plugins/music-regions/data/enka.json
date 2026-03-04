@@ -1,0 +1,29 @@
+{
+  "code": "enka",
+  "name": "Enka",
+  "region": "Japan",
+  "traditionFamily": "East Asian Pop",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Shamisen",
+    "Shakuhachi",
+    "Koto",
+    "Orchestra",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Misora Hibari",
+    "Miyako Harumi",
+    "Hikawa Kiyoshi",
+    "Sayuri Ishikawa",
+    "Jero"
+  ],
+  "description": "Enka is a genre of Japanese popular music considered the modern successor to traditional Japanese music. Featuring pentatonic melodies, heavy vibrato (kobushi), and themes of lost love, loneliness, and nostalgia, enka draws from both Japanese traditional scales and Western ballad structures. It reached peak popularity in the 1960s-1980s and remains beloved by older generations.",
+  "resources": [
+    {
+      "title": "Japan Foundation – Music",
+      "url": "https://www.jpf.go.jp/"
+    }
+  ],
+  "geojson": "enka.geojson"
+}

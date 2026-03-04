@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.903,-16.355]},"properties":{"code":"ubinas","name":"Ubinas","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":5672,"lastEruption":"2023","vei":3}}]}

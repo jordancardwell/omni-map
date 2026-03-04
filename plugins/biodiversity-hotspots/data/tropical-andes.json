@@ -1,0 +1,29 @@
+{
+  "code": "tropical-andes",
+  "name": "Tropical Andes",
+  "location": "Western South America (Venezuela to Bolivia)",
+  "areaKm2": 1542644,
+  "habitatRemaining": "25.0%",
+  "plantSpecies": 30000,
+  "endemicPlants": 15000,
+  "vertebrateSpecies": 3389,
+  "endemicVertebrates": 1567,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Spectacled bear",
+    "Mountain tapir",
+    "Andean condor",
+    "Poison dart frogs",
+    "Cinchona tree"
+  ],
+  "threats": [
+    "Agriculture",
+    "Mining",
+    "Coca cultivation",
+    "Road construction",
+    "Climate change"
+  ],
+  "conservationEfforts": "Extensive national park systems across Andean countries. Spectacled bear conservation corridors. Quinine tree (Cinchona) protected in historical reserves. Paramo ecosystem conservation initiatives. Andean Community promotes regional biodiversity strategies.",
+  "description": "The Tropical Andes hotspot stretches along the Andean mountain chain from western Venezuela to central Bolivia, encompassing an extraordinary range of habitats from lowland tropical forests to páramo grasslands above 4,000 meters.\n\nThis is the most species-rich of all biodiversity hotspots, with 30,000 plant species (half endemic) and nearly 3,400 vertebrate species. The dramatic elevation gradients create compressed climate zones, with different species assemblages at each level. Cloud forests harbor exceptional epiphyte diversity, while páramo grasslands contain unique giant rosette plants (Espeletia). More amphibian species are found here than in any comparable area.",
+  "geojson": "tropical-andes.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "syp",
+  "name": "Syrian Pound",
+  "isoCode": "SYP",
+  "symbol": "£S",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Syria",
+  "exchangeRateEra": "Multiple rates",
+  "countries": [
+    "Syria"
+  ],
+  "countryCount": 1,
+  "description": "The Syrian Pound has been severely affected by the civil war that began in 2011, with massive devaluation and economic disruption.",
+  "historicalNotes": "The pound has been Syria's currency since 1919. The civil war caused the currency to lose over 99% of its pre-war value.",
+  "geojson": "syp.geojson"
+}

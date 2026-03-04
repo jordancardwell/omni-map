@@ -1,0 +1,14 @@
+{
+  "code": "dragon-boat",
+  "name": "Dragon Boat Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "5th of 5th lunar month",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Inscribed 2009",
+  "traditions": "Dragon boat races; eating zongzi (sticky rice dumplings); drinking realgar wine; hanging calamus and mugwort; wearing sachets.",
+  "historicalBackground": "The Dragon Boat Festival honors the poet Qu Yuan (c. 340–278 BCE) who drowned himself in the Miluo River. Locals raced boats and threw rice to protect his body.",
+  "description": "An ancient Chinese festival of dragon boat races and rice dumplings, honoring the patriotic poet Qu Yuan with vibrant aquatic competitions.",
+  "location": "Wuhan, China",
+  "geojson": "dragon-boat.geojson"
+}

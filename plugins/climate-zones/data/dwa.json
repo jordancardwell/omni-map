@@ -1,0 +1,17 @@
+{
+  "code": "dwa",
+  "name": "Hot-Summer Continental (Dry Winter)",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month ≥22°C; coldest month <0°C",
+  "precipitationPattern": "Dry cold winters, wet hot summers; monsoon influence",
+  "vegetation": "Temperate deciduous forest, mixed woodland, agricultural land",
+  "exampleCities": [
+    "Beijing",
+    "Seoul",
+    "Pyongyang",
+    "Shenyang"
+  ],
+  "description": "Hot-summer monsoon-influenced continental climate (Dwa) features hot, wet summers and cold, dry winters. The East Asian monsoon drives the extreme seasonality. Found in northern China, Korea, and parts of the Russian Far East. This climate supports intensive agriculture during the warm, rainy season.",
+  "typicalWeather": "Hot, humid summers (25-35°C) with monsoon rains and thunderstorms. Bitter, dry winters (-10 to -20°C) with occasional Siberian cold waves. Spring brings warming temperatures and dust storms. Autumn is dry and pleasant. Annual precipitation 500-1000mm, mostly June-September.",
+  "geojson": "dwa.geojson"
+}

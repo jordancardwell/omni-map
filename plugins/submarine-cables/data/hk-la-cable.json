@@ -1,0 +1,16 @@
+{
+  "code": "hk-la-cable",
+  "name": "HK-LA Cable",
+  "capacityTbps": 47,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1918,
+  "yearLaid": 2018,
+  "rfsDate": "2024-06",
+  "owner": "HGC",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Los Angeles, USA"
+  ],
+  "description": "HK-LA Cable connecting Hong Kong to Los Angeles.",
+  "geojson": "hk-la-cable.geojson"
+}

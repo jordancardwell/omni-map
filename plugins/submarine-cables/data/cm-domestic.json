@@ -1,0 +1,16 @@
+{
+  "code": "cm-domestic",
+  "name": "CM Domestic",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 840,
+  "yearLaid": 2014,
+  "rfsDate": "2016-06",
+  "owner": "Camtel",
+  "landingPoints": [
+    "Douala, Cameroon",
+    "Kribi, Cameroon"
+  ],
+  "description": "CM Domestic connecting Douala to Kribi along the West African coast.",
+  "geojson": "cm-domestic.geojson"
+}

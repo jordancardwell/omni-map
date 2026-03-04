@@ -1,0 +1,16 @@
+{
+  "code": "pt-sn-cable",
+  "name": "PT-SN Cable",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 906,
+  "yearLaid": 2015,
+  "rfsDate": "2011-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Dakar, Senegal"
+  ],
+  "description": "PT-SN Cable connecting Lisbon to Dakar.",
+  "geojson": "pt-sn-cable.geojson"
+}

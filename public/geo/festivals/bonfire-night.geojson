@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "code": "bonfire-night",
+        "name": "Guy Fawkes Night",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "November 5",
+        "location": "London, UK"
+      }
+    }
+  ]
+}

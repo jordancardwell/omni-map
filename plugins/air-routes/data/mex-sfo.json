@@ -1,0 +1,18 @@
+{
+  "code": "mex-sfo",
+  "name": "Mexico City — San Francisco",
+  "airports": [
+    "MEX",
+    "SFO"
+  ],
+  "distanceKm": 3029,
+  "weeklyFlights": 25,
+  "airlines": [
+    "United",
+    "Aeromexico"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–SFO route between Mexico City and San Francisco. Distance: 3,029 km. ~25 weekly flights operated by United, Aeromexico.",
+  "geojson": "mex-sfo.geojson"
+}

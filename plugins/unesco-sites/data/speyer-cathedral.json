@@ -1,0 +1,14 @@
+{
+  "code": "speyer-cathedral",
+  "name": "Speyer Cathedral",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Speyer Cathedral, a basilica with four towers and two domes, was founded by Conrad II in 1030 and remodelled at the end of the 11th century. It is one of the most important Romanesque monuments from the time of the Holy Roman Empire. The cathedral was the burial place of the German emperors for almost 300 years.",
+  "danger": false,
+  "geojson": "speyer-cathedral.geojson"
+}

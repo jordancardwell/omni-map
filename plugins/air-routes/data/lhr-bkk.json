@@ -1,0 +1,18 @@
+{
+  "code": "lhr-bkk",
+  "name": "London — Bangkok",
+  "airports": [
+    "LHR",
+    "BKK"
+  ],
+  "distanceKm": 9577,
+  "weeklyFlights": 40,
+  "airlines": [
+    "British Airways",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LHR–BKK route between London and Bangkok. Distance: 9,577 km. ~40 weekly flights operated by British Airways, Thai Airways.",
+  "geojson": "lhr-bkk.geojson"
+}

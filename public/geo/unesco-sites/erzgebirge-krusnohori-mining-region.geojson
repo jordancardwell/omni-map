@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8373444444,
+          50.4065277778
+        ]
+      },
+      "properties": {
+        "code": "erzgebirge-krusnohori-mining-region",
+        "name": "Erzgebirge/Krušnohoří Mining Region",
+        "type": "Cultural",
+        "country": "Germany, Czechia",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

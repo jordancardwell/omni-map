@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.82525,
+          34.84694
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-and-archaeological-remains-of-the-bamiyan-valley",
+        "name": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+        "type": "Cultural",
+        "country": "Afghanistan",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

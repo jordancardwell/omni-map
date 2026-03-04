@@ -1,0 +1,15 @@
+{
+  "code": "xiamen",
+  "name": "Port of Xiamen",
+  "country": "China",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 230,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South China Sea Route",
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Xiamen in China. Annual cargo throughput: ~230 million tons. Type: Container Port.",
+  "geojson": "xiamen.geojson"
+}

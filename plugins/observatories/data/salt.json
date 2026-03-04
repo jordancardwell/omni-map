@@ -1,0 +1,20 @@
+{
+  "code": "salt",
+  "name": "Southern African Large Telescope",
+  "country": "South Africa",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1798,
+  "aperture": "11 m (effective 9.2 m)",
+  "telescopes": [
+    "SALT"
+  ],
+  "keyDiscoveries": [
+    "White dwarf pulsars",
+    "Transient classification",
+    "Galaxy kinematics"
+  ],
+  "location": "Southern African Large Telescope, South Africa",
+  "description": "The largest single optical telescope in the southern hemisphere, located in Sutherland. Its segmented primary mirror design is based on the Hobby-Eberly Telescope.",
+  "geojson": "salt.geojson"
+}

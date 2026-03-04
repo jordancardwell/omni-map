@@ -1,0 +1,22 @@
+{
+  "code": "dk",
+  "name": "Denmark",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "E",
+    "F",
+    "K"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type K — Three round pins (Danish style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Danish Type K plus European standard. Europlug works in most outlets.",
+  "geojson": "dk.geojson"
+}

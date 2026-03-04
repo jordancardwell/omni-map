@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9432055556,
+          18.2591333333
+        ]
+      },
+      "properties": {
+        "code": "kakatiya-rudreshwara-ramappa-temple-telangana",
+        "name": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

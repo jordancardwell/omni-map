@@ -1,0 +1,20 @@
+{
+  "code": "andaman-sea-reef",
+  "name": "Andaman Sea Reef",
+  "location": "Thailand, Myanmar, India",
+  "areaKm2": 3200,
+  "reefType": "Fringing",
+  "healthStatus": "Vulnerable",
+  "coralSpecies": 280,
+  "marineSpecies": 900,
+  "threats": [
+    "Coral bleaching",
+    "Overfishing",
+    "Tourism damage",
+    "Sedimentation",
+    "Coastal development"
+  ],
+  "conservationStatus": "Surin Islands and Similan Islands National Parks in Thailand. Mergui Archipelago in Myanmar largely unprotected but remote. Andaman and Nicobar Islands (India) have marine national parks.",
+  "description": "The Andaman Sea reefs span three nations across the eastern Indian Ocean, from the Andaman and Nicobar Islands to the Thai and Myanmar coastlines. The Similan Islands host some of the most spectacular reef diving in the world.\n\nThe 2004 Indian Ocean tsunami caused significant physical damage to shallow reefs, but most recovered within a decade. The region's reefs face ongoing pressure from Thailand's tourism industry, which brings millions of visitors annually to island destinations like Phi Phi and Phuket. Myanmar's Mergui Archipelago remains one of the least explored reef systems in the region.",
+  "geojson": "andaman-sea-reef.geojson"
+}

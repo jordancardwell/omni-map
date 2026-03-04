@@ -1,0 +1,19 @@
+{
+  "code": "sin-hkg",
+  "name": "Singapore — Hong Kong",
+  "airports": [
+    "SIN",
+    "HKG"
+  ],
+  "distanceKm": 2564,
+  "weeklyFlights": 220,
+  "airlines": [
+    "Singapore Airlines",
+    "Cathay Pacific",
+    "Scoot"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "SIN–HKG route between Singapore and Hong Kong. Distance: 2,564 km. ~220 weekly flights operated by Singapore Airlines, Cathay Pacific, Scoot.",
+  "geojson": "sin-hkg.geojson"
+}

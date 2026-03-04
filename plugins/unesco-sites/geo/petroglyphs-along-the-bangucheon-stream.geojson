@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.1739972222,
+          35.60845
+        ]
+      },
+      "properties": {
+        "code": "petroglyphs-along-the-bangucheon-stream",
+        "name": "Petroglyphs along the Bangucheon Stream",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

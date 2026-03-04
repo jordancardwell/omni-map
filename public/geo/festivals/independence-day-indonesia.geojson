@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8456,
+          -6.2088
+        ]
+      },
+      "properties": {
+        "code": "independence-day-indonesia",
+        "name": "Independence Day (Indonesia)",
+        "festivalType": "National",
+        "dateOrSeason": "August 17",
+        "location": "Jakarta, Indonesia"
+      }
+    }
+  ]
+}

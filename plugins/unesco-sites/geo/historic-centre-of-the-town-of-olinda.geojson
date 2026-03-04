@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.845,
+          -8.013333333
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-the-town-of-olinda",
+        "name": "Historic Centre of the Town of Olinda",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "water-scarcity",
+  "name": "Water Scarcity Zones",
+  "description": "Global water stress levels at the sub-basin scale — colored from low to extremely high stress based on WRI Aqueduct 4.0 water risk indicators including depletion rate, drought risk, and seasonal variability",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#3B82F6",
+  "categories": ["environment", "climate", "water", "resources"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#3B82F6",
+  "schema": "WaterScarcityMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "region", "waterStressLevel", "droughtRisk", "description"],
+    "groupBy": "stressGroup",
+    "titleField": "name",
+    "subtitleField": "region",
+    "badgeField": "affectedPopulation",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "region"
+  },
+  "detailFields": [
+    { "key": "waterStressLevel", "label": "Water Stress Level", "type": "status-badge", "statusColors": {
+      "Low": "#3B82F6",
+      "Low-Medium": "#06B6D4",
+      "Medium-High": "#EAB308",
+      "High": "#F97316",
+      "Extremely High": "#EF4444"
+    }},
+    { "key": "waterStressRatio", "label": "Water Stress Ratio", "type": "text" },
+    { "key": "depletionRate", "label": "Depletion Rate", "type": "text" },
+    { "key": "droughtRisk", "label": "Drought Risk", "type": "status-badge", "statusColors": {
+      "Low": "#3B82F6",
+      "Moderate": "#06B6D4",
+      "High": "#EAB308",
+      "Very High": "#F97316",
+      "Extreme": "#EF4444"
+    }},
+    { "key": "seasonalVariability", "label": "Seasonal Variability", "type": "status-badge", "statusColors": {
+      "Low": "#3B82F6",
+      "Moderate": "#06B6D4",
+      "High": "#EAB308",
+      "Very High": "#F97316"
+    }},
+    { "key": "affectedPopulation", "label": "Affected Population", "type": "formatted-number" },
+    { "key": "riskFactors", "label": "Risk Factors", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

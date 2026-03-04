@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4842583333,
+          50.05665
+        ]
+      },
+      "properties": {
+        "code": "landscape-for-breeding-and-training-of-ceremonial-carriage-horses-at-kladruby-na",
+        "name": "Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

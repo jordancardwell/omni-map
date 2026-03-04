@@ -1,0 +1,16 @@
+{
+  "code": "plitvice-lakes-national-park",
+  "name": "Plitvice Lakes National Park",
+  "type": "Natural",
+  "country": "Croatia",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "The waters flowing over the limestone and chalk have, over thousands of years, deposited travertine barriers, creating natural dams which in turn have created a series of beautiful lakes, caves and waterfalls. These geological processes continue today. The forests in the park are home to bears, wolves and many rare bird species.",
+  "danger": false,
+  "geojson": "plitvice-lakes-national-park.geojson"
+}

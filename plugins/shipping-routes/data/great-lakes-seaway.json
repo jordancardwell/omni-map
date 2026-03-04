@@ -1,0 +1,8 @@
+{
+  "code": "great-lakes-seaway",
+  "name": "Great Lakes–St. Lawrence Seaway",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Inland waterway system connecting the Atlantic Ocean to the North American Great Lakes. Vital for grain, iron ore, and steel shipments within the US–Canada corridor.",
+  "geojson": "great-lakes-seaway.geojson"
+}

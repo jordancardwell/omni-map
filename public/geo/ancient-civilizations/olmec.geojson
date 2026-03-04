@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "olmec", "name": "Olmec Civilization" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-96.0,17.0],[-95.0,17.5],[-94.0,18.0],[-93.5,18.5],[-93.0,18.0],[-93.5,17.5],[-94.5,17.0],[-95.5,16.5],[-96.0,17.0]]]
+    }
+  }]
+}

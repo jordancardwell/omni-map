@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7252777778,
+          27.7263888889
+        ]
+      },
+      "properties": {
+        "code": "mount-wuyi",
+        "name": "Mount Wuyi",
+        "type": "Mixed",
+        "country": "China",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

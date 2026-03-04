@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gwadar","name":"Port of Gwadar","featureType":"port","portType":"Multi-Purpose Port","country":"Pakistan"},"geometry":{"type":"Point","coordinates":[62.33,25.12]}}]}

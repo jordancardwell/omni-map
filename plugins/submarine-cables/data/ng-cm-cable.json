@@ -1,0 +1,16 @@
+{
+  "code": "ng-cm-cable",
+  "name": "NG-CM Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3178,
+  "yearLaid": 2016,
+  "rfsDate": "2023-06",
+  "owner": "Globacom",
+  "landingPoints": [
+    "Lagos, Nigeria",
+    "Douala, Cameroon"
+  ],
+  "description": "NG-CM Cable connecting Lagos to Douala along the African coast.",
+  "geojson": "ng-cm-cable.geojson"
+}

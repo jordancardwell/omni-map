@@ -1,0 +1,22 @@
+{
+  "code": "siding-spring",
+  "name": "Siding Spring Observatory",
+  "country": "Australia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1165,
+  "aperture": "3.9 m",
+  "telescopes": [
+    "AAT 3.9m",
+    "ANU 2.3m",
+    "UK Schmidt"
+  ],
+  "keyDiscoveries": [
+    "2dF Galaxy Redshift Survey",
+    "SkyMapper Southern Survey",
+    "Supernovae searches"
+  ],
+  "location": "Siding Spring Observatory, Australia",
+  "description": "Australia's premier optical observatory site in the Warrumbungle Mountains, NSW. Hosts multiple telescopes including the Anglo-Australian Telescope.",
+  "geojson": "siding-spring.geojson"
+}

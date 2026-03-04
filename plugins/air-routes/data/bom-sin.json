@@ -1,0 +1,19 @@
+{
+  "code": "bom-sin",
+  "name": "Mumbai — Singapore",
+  "airports": [
+    "BOM",
+    "SIN"
+  ],
+  "distanceKm": 3921,
+  "weeklyFlights": 110,
+  "airlines": [
+    "Air India",
+    "Singapore Airlines",
+    "IndiGo"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "BOM–SIN route between Mumbai and Singapore. Distance: 3,921 km. ~110 weekly flights operated by Air India, Singapore Airlines, IndiGo.",
+  "geojson": "bom-sin.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sassanid-archaeological-landscape-of-fars-region",
+  "name": "Sassanid Archaeological Landscape of Fars Region",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The eight archaeological sites situated in three geographical areas in the southeast of Fars Province: Firuzabad, Bishapur and Sarvestan. The fortified structures, palaces and city plans date back to the earliest and latest times of the Sassanian Empire, which stretched across the region from 224 to 658 CE. Among these sites is the capital built by the founder of the dynasty, Ardashir Papakan, as well as a city and architectural structures of his successor, Shapur I. The archaeological landscape reflects the optimized utilization of natural topography and bears witness to the influence of Achaemenid and Parthian cultural traditions and of Roman art, which had a significant impact on the architecture of the Islamic era.",
+  "danger": false,
+  "geojson": "sassanid-archaeological-landscape-of-fars-region.geojson"
+}

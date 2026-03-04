@@ -1,0 +1,69 @@
+{
+  "id": "power-grids",
+  "name": "Power Grid Standards",
+  "description": "Global electrical standards showing voltage, frequency, and plug types by country",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "zap",
+  "defaultColor": "#EAB308",
+  "categories": [
+    "infrastructure",
+    "travel"
+  ],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Infrastructure & Travel",
+  "thumbnail": "#EAB308",
+  "schema": "PowerGridMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": [
+      "name",
+      "voltage",
+      "frequency",
+      "plugTypes",
+      "adapterNotes"
+    ],
+    "groupBy": "voltageStandard",
+    "titleField": "name",
+    "subtitleField": "voltage",
+    "badgeField": "plugTypeCount",
+    "badgeFormat": "number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "voltage"
+  },
+  "detailFields": [
+    {
+      "key": "voltage",
+      "label": "Voltage",
+      "type": "text"
+    },
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "text"
+    },
+    {
+      "key": "plugTypes",
+      "label": "Plug Types",
+      "type": "tags"
+    },
+    {
+      "key": "plugDescriptions",
+      "label": "Plug Type Details",
+      "type": "tags"
+    },
+    {
+      "key": "voltageStandard",
+      "label": "Voltage Standard",
+      "type": "text"
+    },
+    {
+      "key": "adapterNotes",
+      "label": "Travel Adapter Notes",
+      "type": "markdown"
+    }
+  ]
+}

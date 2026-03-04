@@ -1,0 +1,16 @@
+{
+  "code": "mmk",
+  "name": "Myanmar Kyat",
+  "isoCode": "MMK",
+  "symbol": "K",
+  "region": "Asia",
+  "centralBank": "Central Bank of Myanmar",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Myanmar"
+  ],
+  "countryCount": 1,
+  "description": "The Myanmar Kyat is the currency of Myanmar (Burma), a country rich in natural resources including jade, rubies, and natural gas.",
+  "historicalNotes": "The kyat was introduced in 1952. Myanmar maintained a dual exchange rate system for decades, with a large gap between official and black market rates. Market-based exchange rate was adopted in 2012.",
+  "geojson": "mmk.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "br-cv-cable",
+  "name": "BR-CV Cable",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1757,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Praia, Cape Verde"
+  ],
+  "description": "BR-CV Cable connecting Fortaleza to Praia in South America.",
+  "geojson": "br-cv-cable.geojson"
+}

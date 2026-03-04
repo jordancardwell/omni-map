@@ -1,0 +1,17 @@
+{
+  "code": "hattusha-the-hittite-capital",
+  "name": "Hattusha: the Hittite Capital",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The archaeological site of Hattusha, former capital of the Hittite Empire, is notable for its urban organization, the types of construction that have been preserved (temples, royal residences, fortifications), the rich ornamentation of the Lions' Gate and the Royal Gate, and the ensemble of rock art at Yazilikaya. The city enjoyed considerable influence in Anatolia and northern Syria in the 2nd millennium B.C.",
+  "danger": false,
+  "geojson": "hattusha-the-hittite-capital.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "om-domestic",
+  "name": "OM Domestic",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1675,
+  "yearLaid": 2018,
+  "rfsDate": "2014-06",
+  "owner": "Omantel",
+  "landingPoints": [
+    "Salalah, Oman",
+    "Muscat, Oman"
+  ],
+  "description": "OM Domestic connecting Salalah to Muscat in the Middle East.",
+  "geojson": "om-domestic.geojson"
+}

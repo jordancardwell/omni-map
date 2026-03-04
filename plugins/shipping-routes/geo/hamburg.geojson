@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hamburg","name":"Port of Hamburg","featureType":"port","portType":"Container Port","country":"Germany"},"geometry":{"type":"Point","coordinates":[9.99,53.54]}}]}

@@ -1,0 +1,27 @@
+{
+  "code": "pansori",
+  "name": "Pansori",
+  "region": "South Korea",
+  "traditionFamily": "East Asian Classical",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Buk (Barrel Drum)",
+    "Fan",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Ahn Sook-sun",
+    "Cho Sang-hyun",
+    "Park Dong-jin",
+    "Oh Jung-hae",
+    "Jang Sa-ik"
+  ],
+  "description": "Pansori is a Korean genre of musical storytelling performed by a single vocalist (sorikkun) accompanied by a drummer (gosu). The singer uses dramatic vocal techniques, gestures, and a folding fan to narrate one of five surviving epic stories over several hours. Pansori requires extraordinary vocal stamina and emotional range. UNESCO inscribed it in 2008.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Pansori",
+      "url": "https://ich.unesco.org/en/RL/pansori-epic-chant-00070"
+    }
+  ],
+  "geojson": "pansori.geojson"
+}

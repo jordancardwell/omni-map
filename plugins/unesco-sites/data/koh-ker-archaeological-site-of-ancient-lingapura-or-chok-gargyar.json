@@ -1,0 +1,15 @@
+{
+  "code": "koh-ker-archaeological-site-of-ancient-lingapura-or-chok-gargyar",
+  "name": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar",
+  "type": "Cultural",
+  "country": "Cambodia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The archaeological site of Koh Ker is a sacred urban ensemble of numerous temples and sanctuaries including sculptures, inscriptions, wall paintings, and archaeological remains. Constructed over a twenty-three-year period, it was one of two rival Khmer Empire capitals – the other being Angkor – and was the sole capital from 928 to 944 CE. Established by King Jayavarman IV, his sacred city was believed to be laid out on the basis of ancient Indian religious concepts of the universe. The new city demonstrated unconventional city planning, artistic expression and construction technology, especially the use of very large monolithic stone blocks.",
+  "danger": false,
+  "geojson": "koh-ker-archaeological-site-of-ancient-lingapura-or-chok-gargyar.geojson"
+}

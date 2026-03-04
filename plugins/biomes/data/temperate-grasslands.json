@@ -1,0 +1,13 @@
+{
+  "code": "temperate-grasslands",
+  "name": "Temperate Grasslands, Savannas & Shrublands",
+  "biomeType": "Grassland",
+  "areaKm2": 9000000,
+  "keyCharacteristics": "Vast treeless plains with deep, fertile soils. Hot summers and cold winters with moderate rainfall. Among the most converted biomes on Earth.",
+  "typicalFlora": ["Buffalo grass", "Blue grama", "Big bluestem", "Feather grass", "Prairie clover", "Sunflower"],
+  "typicalFauna": ["Bison", "Pronghorn", "Prairie dog", "Saiga antelope", "Swift fox", "Ferruginous hawk"],
+  "threatLevel": "Critical",
+  "conservationStatus": "The most converted biome globally, with less than 5% of original extent remaining in some regions. Conversion to cropland continues. Very few large protected areas exist.",
+  "description": "Temperate grasslands are characterized by treeless expanses dominated by grasses and forbs, with deep, fertile soils formed over millennia of grass growth and decomposition. They experience continental climates with hot summers and cold winters.\n\nMajor examples include the North American Great Plains, South American Pampas, Central Asian Steppe, and South African Veld. These ecosystems evolved with large grazing herds and periodic fire.\n\nTemperate grasslands are the most endangered biome on Earth, with the vast majority converted to agriculture. Their deep, organic-rich soils make them among the most productive agricultural lands, which has driven their near-complete transformation.",
+  "geojson": "temperate-grasslands.geojson"
+}

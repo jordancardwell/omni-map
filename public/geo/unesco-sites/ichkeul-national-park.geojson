@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.67472,
+          37.16361
+        ]
+      },
+      "properties": {
+        "code": "ichkeul-national-park",
+        "name": "Ichkeul National Park",
+        "type": "Natural",
+        "country": "Tunisia",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

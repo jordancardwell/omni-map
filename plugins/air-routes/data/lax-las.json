@@ -1,0 +1,19 @@
+{
+  "code": "lax-las",
+  "name": "Los Angeles — Las Vegas",
+  "airports": [
+    "LAX",
+    "LAS"
+  ],
+  "distanceKm": 380,
+  "weeklyFlights": 150,
+  "airlines": [
+    "Southwest",
+    "Spirit",
+    "Delta"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LAX–LAS route between Los Angeles and Las Vegas. Distance: 380 km. ~150 weekly flights operated by Southwest, Spirit, Delta.",
+  "geojson": "lax-las.geojson"
+}

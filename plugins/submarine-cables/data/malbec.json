@@ -1,0 +1,17 @@
+{
+  "code": "malbec",
+  "name": "Malbec",
+  "capacityTbps": 108,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 2300,
+  "yearLaid": 2023,
+  "rfsDate": "2024-12",
+  "owner": "Google, Antel, Telxius",
+  "landingPoints": [
+    "Santos, Brazil",
+    "Buenos Aires, Argentina",
+    "Las Toninas, Argentina"
+  ],
+  "description": "Latest cable connecting Brazil to Argentina with highest capacity in the region.",
+  "geojson": "malbec.geojson"
+}

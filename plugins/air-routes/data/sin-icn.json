@@ -1,0 +1,18 @@
+{
+  "code": "sin-icn",
+  "name": "Singapore — Seoul",
+  "airports": [
+    "SIN",
+    "ICN"
+  ],
+  "distanceKm": 4625,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Singapore Airlines",
+    "Korean Air"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SIN–ICN route between Singapore and Seoul. Distance: 4,625 km. ~60 weekly flights operated by Singapore Airlines, Korean Air.",
+  "geojson": "sin-icn.geojson"
+}

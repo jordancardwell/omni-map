@@ -1,0 +1,12 @@
+{
+  "code": "bos",
+  "name": "Boston Logan International",
+  "iataCode": "BOS",
+  "city": "Boston",
+  "country": "United States",
+  "annualPassengers": 34500000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Boston Logan International (BOS) in Boston, United States. Annual passengers: ~34.5M. Classification: Regional Hub.",
+  "geojson": "bos.geojson"
+}

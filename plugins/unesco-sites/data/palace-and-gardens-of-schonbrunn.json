@@ -1,0 +1,15 @@
+{
+  "code": "palace-and-gardens-of-schonbrunn",
+  "name": "Palace and Gardens of Schönbrunn",
+  "type": "Cultural",
+  "country": "Austria",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "From the 18th century to 1918, Schönbrunn was the residence of the Habsburg emperors. It was designed by the architects Johann Bernhard Fischer von Erlach and Nicolaus Pacassi and is full of outstanding examples of decorative art. Together with its gardens, the site of the world’s first zoo in 1752, it is a remarkable Baroque ensemble and a perfect example of Gesamtkunstwerk.",
+  "danger": false,
+  "geojson": "palace-and-gardens-of-schonbrunn.geojson"
+}

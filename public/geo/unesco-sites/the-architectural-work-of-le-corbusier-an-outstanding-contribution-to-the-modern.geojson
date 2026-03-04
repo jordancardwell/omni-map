@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8293361111,
+          46.4684138889
+        ]
+      },
+      "properties": {
+        "code": "the-architectural-work-of-le-corbusier-an-outstanding-contribution-to-the-modern",
+        "name": "The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement",
+        "type": "Cultural",
+        "country": "India, Japan, France, Belgium, Switzerland, Argentina, Germany",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

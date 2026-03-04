@@ -1,0 +1,16 @@
+{
+  "code": "eg-gr-cable",
+  "name": "EG-GR Cable",
+  "capacityTbps": 27,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7799,
+  "yearLaid": 2022,
+  "rfsDate": "2019-06",
+  "owner": "Telecom Egypt",
+  "landingPoints": [
+    "Alexandria, Egypt",
+    "Athens, Greece"
+  ],
+  "description": "EG-GR Cable connecting Alexandria to Athens.",
+  "geojson": "eg-gr-cable.geojson"
+}

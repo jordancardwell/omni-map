@@ -1,0 +1,16 @@
+{
+  "code": "rjcn",
+  "name": "RJCN",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 664,
+  "yearLaid": 2012,
+  "rfsDate": "2013-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Nakhodka, Russia"
+  ],
+  "description": "RJCN connecting Busan to Nakhodka in East Asia.",
+  "geojson": "rjcn.geojson"
+}

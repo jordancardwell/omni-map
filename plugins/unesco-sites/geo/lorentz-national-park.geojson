@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.83333,
+          -4.75
+        ]
+      },
+      "properties": {
+        "code": "lorentz-national-park",
+        "name": "Lorentz National Park",
+        "type": "Natural",
+        "country": "Indonesia",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "lantern-festival-taiwan",
+  "name": "Taiwan Lantern Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "15th of 1st lunar month",
+  "origin": "Taiwanese tradition",
+  "estimatedAttendance": "10+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Sky lantern releases in Pingxi; main lantern installations; riddle-solving on lanterns; tangyuan eating; parades.",
+  "historicalBackground": "Taiwan's Lantern Festival blends traditional Chinese customs with distinctive Taiwanese elements, especially the famous Pingxi sky lantern tradition.",
+  "description": "Taiwan's dazzling Lantern Festival, where thousands of glowing sky lanterns rise into the night sky over Pingxi.",
+  "location": "Taipei, Taiwan",
+  "geojson": "lantern-festival-taiwan.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-ruins-at-moenjodaro",
+  "name": "Archaeological Ruins at Moenjodaro",
+  "type": "Cultural",
+  "country": "Pakistan",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The ruins of the huge city of Moenjodaro – built entirely of unbaked brick in the 3rd millennium B.C. – lie in the Indus valley. The acropolis, set on high embankments, the ramparts, and the lower town, which is laid out according to strict rules, provide evidence of an early system of town planning.",
+  "danger": false,
+  "geojson": "archaeological-ruins-at-moenjodaro.geojson"
+}

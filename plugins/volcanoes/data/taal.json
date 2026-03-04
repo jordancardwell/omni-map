@@ -1,0 +1,22 @@
+{
+  "code": "taal",
+  "name": "Taal Volcano",
+  "volcanoType": "Caldera",
+  "status": "Erupting/Recent",
+  "elevation": 311,
+  "lastEruption": "2022",
+  "vei": 4,
+  "country": "Philippines",
+  "region": "Luzon",
+  "location": "Luzon, Philippines",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic surges",
+    "Volcanic tsunami",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Has erupted at least 34 times since 1572. The 1911 eruption killed 1,335 people. January 2020 eruption forced evacuation of hundreds of thousands.",
+  "description": "Taal is one of the smallest and most active volcanoes in the Philippines. It sits within a lake inside a larger caldera, creating a dramatic 'volcano within a lake within a volcano' setting.",
+  "geojson": "taal.geojson"
+}

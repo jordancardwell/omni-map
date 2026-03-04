@@ -1,0 +1,27 @@
+{
+  "code": "east-african-highlands-margin",
+  "name": "East African Highlands Margin",
+  "region": "East Africa",
+  "aridityGroup": "4. Dry Sub-Humid",
+  "aridityClassification": "Dry Sub-Humid",
+  "aridityIndex": "0.50–0.65 — highland-dryland transition",
+  "area": "600,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 60000000,
+  "affectedCountries": [
+    "Ethiopia",
+    "Kenya",
+    "Tanzania",
+    "Uganda"
+  ],
+  "desertificationDrivers": [
+    "Deforestation",
+    "Soil erosion",
+    "Overgrazing",
+    "Charcoal production",
+    "Climate variability"
+  ],
+  "desertFrontier": "Lowland arid zones creeping upslope into Ethiopian and Kenyan highlands",
+  "description": "The transition zone between East Africa's productive highlands and arid lowlands supports some of the continent's densest rural populations. Ethiopia has lost over 95% of its original highland forest. Severe soil erosion removes an estimated 1.5 billion tonnes of topsoil annually. Lake Turkana in Kenya is shrinking as the Omo River is dammed upstream. Climate change is pushing the dry zone upward in elevation.",
+  "geojson": "east-african-highlands-margin.geojson"
+}

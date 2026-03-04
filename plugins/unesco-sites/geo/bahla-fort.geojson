@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.30111,
+          22.96417
+        ]
+      },
+      "properties": {
+        "code": "bahla-fort",
+        "name": "Bahla Fort",
+        "type": "Cultural",
+        "country": "Oman",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

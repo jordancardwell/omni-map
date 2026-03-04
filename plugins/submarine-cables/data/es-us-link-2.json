@@ -1,0 +1,16 @@
+{
+  "code": "es-us-link-2",
+  "name": "ES-US Link-2",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 479,
+  "yearLaid": 2020,
+  "rfsDate": "2013-06",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Bilbao, Spain",
+    "Virginia Beach, USA"
+  ],
+  "description": "ES-US Link-2 connecting Bilbao to Virginia Beach.",
+  "geojson": "es-us-link-2.geojson"
+}

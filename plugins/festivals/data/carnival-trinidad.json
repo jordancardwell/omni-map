@@ -1,0 +1,14 @@
+{
+  "code": "carnival-trinidad",
+  "name": "Carnival (Trinidad)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Afro-Caribbean tradition",
+  "estimatedAttendance": "500,000+ participants",
+  "unescoICH": "Not inscribed",
+  "traditions": "J'ouvert (dawn street party); mas (masquerade) bands; soca and calypso music competitions; steel pan orchestras; costume parades.",
+  "historicalBackground": "Trinidad Carnival emerged from enslaved Africans' Canboulay celebrations in the 18th century, blending with French Creole masquerade traditions.",
+  "description": "The Caribbean's greatest cultural showcase, featuring explosive soca music, elaborate masquerade costumes, and the iconic J'ouvert street party.",
+  "location": "Port of Spain, Trinidad",
+  "geojson": "carnival-trinidad.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "tt",
+  "name": "Trinidad and Tobago",
+  "avgDownloadMbps": 46.2,
+  "avgUploadMbps": 12.8,
+  "avgLatencyMs": 30,
+  "mobileDownloadMbps": 18.6,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 46.2,
+  "fixedUploadMbps": 12.8,
+  "rank": 76,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Small island market with steady growth. ~10% year-over-year improvement.",
+  "geojson": "tt.geojson"
+}

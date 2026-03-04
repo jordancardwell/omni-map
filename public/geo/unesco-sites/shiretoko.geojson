@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96583,
+          43.94944
+        ]
+      },
+      "properties": {
+        "code": "shiretoko",
+        "name": "Shiretoko",
+        "type": "Natural",
+        "country": "Japan",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

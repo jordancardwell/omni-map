@@ -1,0 +1,16 @@
+{
+  "code": "belize-barrier-reef-reserve-system",
+  "name": "Belize Barrier Reef Reserve System",
+  "type": "Natural",
+  "country": "Belize",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The coastal area of Belize is an outstanding natural system consisting of the largest barrier reef in the northern hemisphere, offshore atolls, several hundred sand cays, mangrove forests, coastal lagoons and estuaries. The system’s seven sites illustrate the evolutionary history of reef development and are a significant habitat for threatened species, including marine turtles, manatees and the American marine crocodile.",
+  "danger": false,
+  "geojson": "belize-barrier-reef-reserve-system.geojson"
+}

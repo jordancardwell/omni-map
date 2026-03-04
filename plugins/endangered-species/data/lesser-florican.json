@@ -1,0 +1,18 @@
+{
+  "code": "lesser-florican",
+  "name": "Lesser Florican",
+  "scientificName": "Sypheotides indicus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~700 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Grassland and crop fields",
+  "threats": [
+    "Grassland conversion",
+    "Hunting",
+    "Pesticides"
+  ],
+  "conservationEfforts": "Indian government grassland protection programs. Community-based monitoring during breeding season. Research into habitat requirements for conservation management.",
+  "description": "India's smallest bustard, famous for its spectacular breeding display where males leap vertically to heights of 2 meters above the grass. Found only in the Indian subcontinent.",
+  "geojson": "lesser-florican.geojson"
+}

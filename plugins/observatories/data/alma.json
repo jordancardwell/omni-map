@@ -1,0 +1,20 @@
+{
+  "code": "alma",
+  "name": "Atacama Large Millimeter/submillimeter Array",
+  "country": "Chile",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 5058,
+  "aperture": "66 antennas (12m & 7m)",
+  "telescopes": [
+    "ALMA"
+  ],
+  "keyDiscoveries": [
+    "Protoplanetary disk structure",
+    "Molecular gas in early universe",
+    "First black hole image contribution"
+  ],
+  "location": "Atacama Large Millimeter/submillimeter Array, Chile",
+  "description": "The world's most powerful millimeter/submillimeter telescope array on the Chajnantor Plateau. 66 antennas achieve extraordinary resolution for studying cold cosmic objects.",
+  "geojson": "alma.geojson"
+}

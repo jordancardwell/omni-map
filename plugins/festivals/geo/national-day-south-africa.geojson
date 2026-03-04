@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "code": "national-day-south-africa",
+        "name": "Freedom Day (South Africa)",
+        "festivalType": "National",
+        "dateOrSeason": "April 27",
+        "location": "Cape Town, South Africa"
+      }
+    }
+  ]
+}

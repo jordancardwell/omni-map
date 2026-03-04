@@ -1,0 +1,12 @@
+{
+  "code": "event-2019-australian-black-summer",
+  "name": "2019-2020 Australian Black Summer",
+  "region": "New South Wales & Victoria, Australia",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2019-2020",
+  "areaBurned": 18600000,
+  "cause": "Prolonged drought, extreme heat, lightning ignition",
+  "description": "Australia's Black Summer was one of the worst wildfire disasters in recorded history. From September 2019 to March 2020, fires burned 18.6 million hectares across southeast Australia — an area larger than Syria. The fires killed 34 people, destroyed over 5,900 buildings, and killed an estimated 3 billion animals. Smoke circled the globe and reached the stratosphere, temporarily cooling Southern Hemisphere temperatures. The disaster was driven by record-breaking drought and temperatures exceeding 49°C.",
+  "geojson": "event-2019-australian-black-summer.geojson"
+}

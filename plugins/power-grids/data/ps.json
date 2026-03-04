@@ -1,0 +1,18 @@
+{
+  "code": "ps",
+  "name": "Palestine",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "H"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type H — Three pins in V-shape (Israeli style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Same as Israel. Type H and Europlug.",
+  "geojson": "ps.geojson"
+}

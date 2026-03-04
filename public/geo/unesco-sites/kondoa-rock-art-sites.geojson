@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8338888888,
+          -4.7244444444
+        ]
+      },
+      "properties": {
+        "code": "kondoa-rock-art-sites",
+        "name": "Kondoa Rock-Art Sites",
+        "type": "Cultural",
+        "country": "United Republic of Tanzania",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

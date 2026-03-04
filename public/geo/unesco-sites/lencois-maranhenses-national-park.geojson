@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0636111111,
+          -2.5366666667
+        ]
+      },
+      "properties": {
+        "code": "lencois-maranhenses-national-park",
+        "name": "Lençóis Maranhenses National Park",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "xinglong",
+  "name": "Xinglong Station",
+  "country": "China",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 960,
+  "aperture": "4 m (LAMOST)",
+  "telescopes": [
+    "LAMOST",
+    "2.16m",
+    "Schmidt"
+  ],
+  "keyDiscoveries": [
+    "Millions of stellar spectra (LAMOST)",
+    "Stellar classification",
+    "Binary star studies"
+  ],
+  "location": "Xinglong Station, China",
+  "description": "NAOC's major observing station near Beijing. LAMOST, the Large Sky Area Multi-Object Fiber Spectroscopic Telescope, has obtained more stellar spectra than any other facility.",
+  "geojson": "xinglong.geojson"
+}

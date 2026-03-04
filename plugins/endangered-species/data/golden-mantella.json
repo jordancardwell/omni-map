@@ -1,0 +1,18 @@
+{
+  "code": "golden-mantella",
+  "name": "Golden Mantella",
+  "scientificName": "Mantella aurantiaca",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Swamp forest",
+  "threats": [
+    "Habitat loss",
+    "Collection for pet trade",
+    "Chytrid fungus"
+  ],
+  "conservationEfforts": "Mitsinjo Association protects core habitat. Captive breeding in international zoos. Community forest management. CITES Appendix II listing regulates trade.",
+  "description": "A tiny bright-orange frog from a small area of eastern Madagascar. Like poison dart frogs (to which they are not related), they get their toxins from the insects they eat.",
+  "geojson": "golden-mantella.geojson"
+}

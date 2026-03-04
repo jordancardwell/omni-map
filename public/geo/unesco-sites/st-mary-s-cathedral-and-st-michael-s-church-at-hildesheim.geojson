@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94389,
+          52.15278
+        ]
+      },
+      "properties": {
+        "code": "st-mary-s-cathedral-and-st-michael-s-church-at-hildesheim",
+        "name": "St Mary's Cathedral and St Michael's Church at Hildesheim",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

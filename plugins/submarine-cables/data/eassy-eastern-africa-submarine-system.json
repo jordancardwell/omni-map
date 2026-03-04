@@ -1,0 +1,24 @@
+{
+  "code": "eassy-eastern-africa-submarine-system",
+  "name": "EASSy (Eastern Africa Submarine System)",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 10000,
+  "yearLaid": 2007,
+  "rfsDate": "2010-07",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Port Sudan, Sudan",
+    "Djibouti, Djibouti",
+    "Mogadishu, Somalia",
+    "Mombasa, Kenya",
+    "Dar es Salaam, Tanzania",
+    "Moroni, Comoros",
+    "Toamasina, Madagascar",
+    "Port Louis, Mauritius",
+    "Maputo, Mozambique",
+    "Mtunzini, South Africa"
+  ],
+  "description": "Major East African submarine cable connecting 10 countries.",
+  "geojson": "eassy-eastern-africa-submarine-system.geojson"
+}

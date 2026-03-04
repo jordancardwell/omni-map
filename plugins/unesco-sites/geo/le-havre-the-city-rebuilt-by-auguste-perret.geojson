@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1075,
+          49.49278
+        ]
+      },
+      "properties": {
+        "code": "le-havre-the-city-rebuilt-by-auguste-perret",
+        "name": "Le Havre, the City Rebuilt by Auguste Perret",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

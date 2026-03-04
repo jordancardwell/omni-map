@@ -1,0 +1,21 @@
+{
+  "code": "borneo-rainforest",
+  "name": "Borneo Rainforest",
+  "country": "Indonesia, Malaysia, Brunei",
+  "forestType": "Tropical",
+  "areaKm2": 280000,
+  "intactness": "Severely Degraded",
+  "changeSince2000": "-30.2% (approximately 121,000 km² lost)",
+  "annualLossRate": "1.3–1.5% per year",
+  "threats": [
+    "Palm oil plantations",
+    "Pulp and paper industry",
+    "Illegal logging",
+    "Mining",
+    "Peatland drainage",
+    "Forest fires"
+  ],
+  "conservationStatus": "Heart of Borneo Initiative covers 22 million hectares across three nations. RSPO certification for sustainable palm oil. Indonesia's moratorium on new forest concessions. Malaysia's commitment to maintain 50% forest cover.",
+  "description": "The **Borneo Rainforest** is one of the oldest rainforests on Earth, estimated at 130 million years old. It covers the island of Borneo, shared by Indonesia (Kalimantan), Malaysia (Sabah and Sarawak), and Brunei.\n\n### Key Statistics\n- **Biodiversity**: ~15,000 plant species (6,000 endemic), 222 mammal species\n- **Carbon storage**: Vast peatland carbon stocks, some of the deepest tropical peat\n- **Iconic species**: Orangutans, pygmy elephants, proboscis monkeys, sun bears\n- **Age**: One of the oldest rainforests at ~130 million years\n\n### Deforestation Trends\nThe IFL 2020 data reveals catastrophic forest loss, particularly in Indonesian Kalimantan. Borneo lost more forest area than any other tropical island in the 21st century. Palm oil expansion remains the primary driver, though recent moratoriums have begun to slow the rate.",
+  "geojson": "borneo-rainforest.geojson"
+}

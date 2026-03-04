@@ -1,0 +1,18 @@
+{
+  "code": "mex-dfw",
+  "name": "Mexico City — Dallas",
+  "airports": [
+    "MEX",
+    "DFW"
+  ],
+  "distanceKm": 1511,
+  "weeklyFlights": 40,
+  "airlines": [
+    "American",
+    "Aeromexico"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–DFW route between Mexico City and Dallas. Distance: 1,511 km. ~40 weekly flights operated by American, Aeromexico.",
+  "geojson": "mex-dfw.geojson"
+}

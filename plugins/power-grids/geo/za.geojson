@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"za","name":"South Africa","country":"ZA","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[16.5,-34.8],[16.5,-22.1],[32.9,-22.1],[32.9,-34.8],[16.5,-34.8]]]}}]}

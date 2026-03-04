@@ -1,0 +1,16 @@
+{
+  "code": "kaiping-diaolou-and-villages",
+  "name": "Kaiping Diaolou and Villages",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Kaiping Diaolou and Villages feature the Diaolou, multi-storeyed defensive village houses in Kaiping, which display a complex and flamboyant fusion of Chinese and Western structural and decorative forms. They reflect the significant role of émigré Kaiping people in the development of several countries in South Asia, Australasia and North America, during the late 19th and early 20th centuries. There are four groups of Diaolou and twenty of the most symbolic ones are inscribed on the List. These buildings take three forms: communal towers built by several families and used as temporary refuge, residential towers built by individual rich families and used as fortified residences, and watch towers. Built of stone, pise , brick or concrete, these buildings represent a complex and confident fusion between Chinese and Western architectural styles. Retaining a harmonious relationship with the surrounding landscape, the Diaolou testify to the final flowering of local building traditions that started in the Ming period in response to local banditry.",
+  "danger": false,
+  "geojson": "kaiping-diaolou-and-villages.geojson"
+}

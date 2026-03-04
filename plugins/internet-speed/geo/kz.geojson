@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kz","name":"Kazakhstan","country":"KZ","speedTier":"Moderate (30–75 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[46.5,40.6],[46.5,55.4],[87.3,55.4],[87.3,40.6],[46.5,40.6]]]}}]}

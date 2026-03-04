@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74,
+          59.437
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-old-town-of-tallinn",
+        "name": "Historic Centre (Old Town) of Tallinn",
+        "type": "Cultural",
+        "country": "Estonia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

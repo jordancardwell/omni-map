@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.361388889,
+          51.84194444
+        ]
+      },
+      "properties": {
+        "code": "blenheim-palace",
+        "name": "Blenheim Palace",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

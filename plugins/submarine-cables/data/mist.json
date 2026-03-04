@@ -1,0 +1,17 @@
+{
+  "code": "mist",
+  "name": "MIST",
+  "capacityTbps": 12.8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5700,
+  "yearLaid": 2022,
+  "rfsDate": "2023-12",
+  "owner": "Reliance Jio",
+  "landingPoints": [
+    "Mumbai, India",
+    "Colombo, Sri Lanka",
+    "Singapore"
+  ],
+  "description": "Mumbai-India-Sri Lanka-Singapore cable.",
+  "geojson": "mist.geojson"
+}

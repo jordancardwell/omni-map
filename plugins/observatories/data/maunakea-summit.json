@@ -1,0 +1,20 @@
+{
+  "code": "maunakea-summit",
+  "name": "Maunakea Observatories",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4205,
+  "aperture": "Various",
+  "telescopes": [
+    "Multiple telescopes"
+  ],
+  "keyDiscoveries": [
+    "Countless major discoveries",
+    "Premier astronomical site",
+    "Dark energy measurements"
+  ],
+  "location": "Maunakea Observatories, United States",
+  "description": "The world's premier astronomical site hosting 13 telescopes from 11 countries near the summit of Maunakea, Hawaii. Exceptional seeing and dry atmosphere.",
+  "geojson": "maunakea-summit.geojson"
+}

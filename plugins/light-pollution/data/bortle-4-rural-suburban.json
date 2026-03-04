@@ -1,0 +1,27 @@
+{
+  "code": "bortle-4-rural-suburban",
+  "name": "Rural/Suburban Transition",
+  "bortleGroup": "2. Rural (Class 3-4)",
+  "bortleClass": "Class 4 — Rural/Suburban Transition",
+  "skyBrightness": "21.25–21.69 mag/arcsec²",
+  "limitingMagnitude": "6.1–6.5",
+  "milkyWayVisibility": "Good — Milky Way still obvious but losing detail; light domes prominent in several directions",
+  "visibleObjects": [
+    "Milky Way visible but muted",
+    "M31 visible",
+    "Zodiacal light faint",
+    "Light pollution domes in multiple directions"
+  ],
+  "exampleLocations": [
+    "Exurban USA",
+    "Rural UK villages",
+    "Southern France countryside",
+    "Rural Japan"
+  ],
+  "nearestDarkSkyReserves": [
+    "Exmoor National Park Dark Sky Reserve",
+    "Zselic Starry Sky Park"
+  ],
+  "description": "Transitional skies between rural and suburban environments. The Milky Way is visible overhead but is losing fine detail and is notably degraded near the horizon. Light pollution domes from nearby towns and cities are visible in multiple directions. The zodiacal light is barely detectable. This is the threshold where untrained observers begin to notice the night sky is not fully dark. Common in exurban areas, large villages, and the outskirts of small cities. These skies represent the best conditions available to many amateur astronomers.",
+  "geojson": "bortle-4-rural-suburban.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.675,
+          15.74444444
+        ]
+      },
+      "properties": {
+        "code": "rio-platano-biosphere-reserve",
+        "name": "Río Plátano Biosphere Reserve",
+        "type": "Natural",
+        "country": "Honduras",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

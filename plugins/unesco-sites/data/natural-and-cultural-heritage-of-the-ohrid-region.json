@@ -1,0 +1,17 @@
+{
+  "code": "natural-and-cultural-heritage-of-the-ohrid-region",
+  "name": "Natural and Cultural Heritage of the Ohrid region",
+  "type": "Mixed",
+  "country": "North Macedonia, Albania",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)",
+    "(vii)"
+  ],
+  "region": "Europe and North America",
+  "description": "A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century.",
+  "danger": false,
+  "geojson": "natural-and-cultural-heritage-of-the-ohrid-region.geojson"
+}

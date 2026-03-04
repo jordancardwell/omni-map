@@ -1,0 +1,14 @@
+{
+  "code": "yokohama",
+  "name": "Port of Yokohama",
+  "country": "Japan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 120,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Yokohama in Japan. Annual cargo throughput: ~120 million tons. Type: Container Port.",
+  "geojson": "yokohama.geojson"
+}

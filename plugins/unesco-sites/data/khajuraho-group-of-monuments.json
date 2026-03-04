@@ -1,0 +1,15 @@
+{
+  "code": "khajuraho-group-of-monuments",
+  "name": "Khajuraho Group of Monuments",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The temples at Khajuraho were built during the Chandella dynasty, which reached its apogee between 950 and 1050. Only about 20 temples remain; they fall into three distinct groups and belong to two different religions – Hinduism and Jainism. They strike a perfect balance between architecture and sculpture. The Temple of Kandariya is decorated with a profusion of sculptures that are among the greatest masterpieces of Indian art.",
+  "danger": false,
+  "geojson": "khajuraho-group-of-monuments.geojson"
+}

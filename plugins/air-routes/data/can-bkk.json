@@ -1,0 +1,18 @@
+{
+  "code": "can-bkk",
+  "name": "Guangzhou — Bangkok",
+  "airports": [
+    "CAN",
+    "BKK"
+  ],
+  "distanceKm": 1706,
+  "weeklyFlights": 50,
+  "airlines": [
+    "China Southern",
+    "Thai Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CAN–BKK route between Guangzhou and Bangkok. Distance: 1,706 km. ~50 weekly flights operated by China Southern, Thai Airways.",
+  "geojson": "can-bkk.geojson"
+}

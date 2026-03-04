@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"riga","name":"Port of Riga","featureType":"port","portType":"Multi-Purpose Port","country":"Latvia"},"geometry":{"type":"Point","coordinates":[24.1,56.95]}}]}

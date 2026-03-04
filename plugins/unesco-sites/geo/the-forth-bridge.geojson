@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3888888889,
+          56.0011111111
+        ]
+      },
+      "properties": {
+        "code": "the-forth-bridge",
+        "name": "The Forth Bridge",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

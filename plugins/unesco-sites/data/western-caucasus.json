@@ -1,0 +1,15 @@
+{
+  "code": "western-caucasus",
+  "name": "Western Caucasus",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison.",
+  "danger": false,
+  "geojson": "western-caucasus.geojson"
+}

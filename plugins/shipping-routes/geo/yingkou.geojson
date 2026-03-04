@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"yingkou","name":"Port of Yingkou","featureType":"port","portType":"Bulk Port","country":"China"},"geometry":{"type":"Point","coordinates":[122.23,40.67]}}]}

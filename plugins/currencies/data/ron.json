@@ -1,0 +1,16 @@
+{
+  "code": "ron",
+  "name": "Romanian Leu",
+  "isoCode": "RON",
+  "symbol": "lei",
+  "region": "Europe",
+  "centralBank": "National Bank of Romania",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Romania"
+  ],
+  "countryCount": 1,
+  "description": "The Romanian Leu (plural: lei) means 'lion' in Romanian. Romania has one of the fastest-growing economies in the EU.",
+  "historicalNotes": "The 'new leu' was introduced in 2005, removing four zeros from the old leu. Romania plans to adopt the Euro but has not met all convergence criteria.",
+  "geojson": "ron.geojson"
+}

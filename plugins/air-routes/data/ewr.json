@@ -1,0 +1,12 @@
+{
+  "code": "ewr",
+  "name": "Newark Liberty International",
+  "iataCode": "EWR",
+  "city": "Newark",
+  "country": "United States",
+  "annualPassengers": 43500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Newark Liberty International (EWR) in Newark, United States. Annual passengers: ~43.5M. Classification: International Hub.",
+  "geojson": "ewr.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "bsh",
+  "name": "Hot Semi-Arid (Steppe)",
+  "group": "B - Arid",
+  "temperatureRange": "Annual mean ≥18°C; hot summers, mild winters",
+  "precipitationPattern": "Low; 250-500mm/year, seasonal distribution",
+  "vegetation": "Short grassland, thorny shrubs, scattered acacias",
+  "exampleCities": [
+    "Marrakech",
+    "Niamey",
+    "San Antonio",
+    "Karachi"
+  ],
+  "description": "Hot semi-arid climate (BSh) is found on the margins of hot deserts, receiving slightly more precipitation. The Sahel region of Africa, parts of India, and the American Southwest exhibit this climate. Rainfall is unreliable and droughts are common, but enough moisture exists to support grassland and steppe vegetation.",
+  "typicalWeather": "Hot and dry for much of the year with a short wet season. Temperatures are high (30-40°C in summer). Dust storms can occur during dry months. Rainfall is erratic and may fail in drought years.",
+  "geojson": "bsh.geojson"
+}

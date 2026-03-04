@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-69.4,-35.2]},"properties":{"code":"pierre-auger","name":"Pierre Auger Observatory","observatoryType":"Multi-messenger","status":"Operational","country":"Argentina"}}]}

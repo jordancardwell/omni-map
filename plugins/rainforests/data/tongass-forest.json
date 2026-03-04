@@ -1,0 +1,20 @@
+{
+  "code": "tongass-forest",
+  "name": "Tongass National Forest",
+  "country": "United States (Alaska)",
+  "forestType": "Temperate",
+  "areaKm2": 68000,
+  "intactness": "Mostly Intact",
+  "changeSince2000": "-1.2% (approximately 816 km² logged)",
+  "annualLossRate": "<0.1% per year",
+  "threats": [
+    "Industrial logging",
+    "Road building",
+    "Mining proposals",
+    "Climate change",
+    "Salmon habitat loss"
+  ],
+  "conservationStatus": "U.S. National Forest with Roadless Rule protection restored in 2023. 5.7 million acres designated as wilderness. Contains 19 wilderness areas. Tongass Transition Framework supports economic diversification away from logging.",
+  "description": "The **Tongass National Forest** is the largest national forest in the United States and the largest remaining temperate rainforest in North America. Located in southeast Alaska, it stretches across the Alexander Archipelago.\n\n### Key Statistics\n- **Biodiversity**: Old-growth Sitka spruce, western hemlock, and western red cedar\n- **Carbon storage**: ~8% of all carbon stored in U.S. national forests\n- **Wildlife**: Brown bears, bald eagles, five species of Pacific salmon\n- **Old growth**: 40% of the forest is old-growth (400–800+ years)\n\n### Deforestation Trends\nThe IFL 2020 data shows the Tongass as one of the most intact temperate rainforests remaining. Historical logging from 1950s–1990s removed significant old growth, but protections have largely halted industrial-scale timber harvest.",
+  "geojson": "tongass-forest.geojson"
+}

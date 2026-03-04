@@ -1,0 +1,20 @@
+{
+  "code": "gsfc-fermi",
+  "name": "Goddard Space Flight Center (Fermi)",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 50,
+  "aperture": "Fermi LAT: 1.8 m × 1.8 m",
+  "telescopes": [
+    "Fermi Gamma-ray Space Telescope"
+  ],
+  "keyDiscoveries": [
+    "Gamma-ray sky catalog",
+    "Fermi Bubbles",
+    "Millisecond pulsar population"
+  ],
+  "location": "Goddard Space Flight Center (Fermi), United States",
+  "description": "NASA GSFC manages Fermi, which surveys the gamma-ray sky. Discovered enormous gamma-ray structures extending above and below the Milky Way's center.",
+  "geojson": "gsfc-fermi.geojson"
+}

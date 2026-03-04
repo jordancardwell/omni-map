@@ -1,0 +1,21 @@
+{
+  "code": "observatorio-nacional-brazil",
+  "name": "Observatório Nacional",
+  "country": "Brazil",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 33,
+  "aperture": "1.6 m (at OPD)",
+  "telescopes": [
+    "Perkin-Elmer 1.6m",
+    "Boller & Chivens 0.6m"
+  ],
+  "keyDiscoveries": [
+    "Time service standardization",
+    "Geophysical studies",
+    "Stellar photometry"
+  ],
+  "location": "Observatório Nacional, Brazil",
+  "description": "Brazil's national observatory in Rio de Janeiro, founded in 1827. Operates the Pico dos Dias Observatory with the country's largest optical telescope.",
+  "geojson": "observatorio-nacional-brazil.geojson"
+}

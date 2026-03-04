@@ -1,0 +1,15 @@
+{
+  "code": "king-abdullah",
+  "name": "King Abdullah Port",
+  "country": "Saudi Arabia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Red Sea Route",
+    "Suez Canal Route"
+  ],
+  "description": "King Abdullah Port in Saudi Arabia. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "king-abdullah.geojson"
+}

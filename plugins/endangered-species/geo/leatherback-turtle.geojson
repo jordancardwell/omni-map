@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"leatherback-turtle","name":"Leatherback Sea Turtle"},"geometry":{"type":"Polygon","coordinates":[[[170,-50],[170,60],[30,60],[20,0],[30,-50],[170,-50]]]}}]}

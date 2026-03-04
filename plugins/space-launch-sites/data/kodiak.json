@@ -1,0 +1,17 @@
+{
+  "code": "kodiak",
+  "name": "Pacific Spaceport Complex – Alaska",
+  "country": "United States",
+  "operator": "Alaska Aerospace",
+  "coordinates": "57.4358°N, 152.3378°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Kodiak Star (first orbital attempt)",
+    "Astra launches",
+    "Minotaur IV"
+  ],
+  "orbitalInclinationRange": "57°–116° (polar/SSO)",
+  "location": "Pacific Spaceport Complex – Alaska, United States",
+  "description": "The only FAA-licensed spaceport not co-located with a federal range. Located on Kodiak Island, Alaska, it offers excellent polar and sun-synchronous orbit access.",
+  "geojson": "kodiak.geojson"
+}

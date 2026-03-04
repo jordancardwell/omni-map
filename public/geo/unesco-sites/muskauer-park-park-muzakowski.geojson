@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.729389,
+          51.547653
+        ]
+      },
+      "properties": {
+        "code": "muskauer-park-park-muzakowski",
+        "name": "Muskauer Park / Park Mużakowski",
+        "type": "Cultural",
+        "country": "Poland, Germany",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

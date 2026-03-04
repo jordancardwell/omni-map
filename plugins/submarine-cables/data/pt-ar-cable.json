@@ -1,0 +1,16 @@
+{
+  "code": "pt-ar-cable",
+  "name": "PT-AR Cable",
+  "capacityTbps": 45,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3967,
+  "yearLaid": 2010,
+  "rfsDate": "2024-06",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Buenos Aires, Argentina"
+  ],
+  "description": "PT-AR Cable connecting Lisbon to Buenos Aires.",
+  "geojson": "pt-ar-cable.geojson"
+}

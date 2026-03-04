@@ -1,0 +1,16 @@
+{
+  "code": "tr-eg-cable",
+  "name": "TR-EG Cable",
+  "capacityTbps": 31,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5268,
+  "yearLaid": 2016,
+  "rfsDate": "2014-06",
+  "owner": "Turk Telekom",
+  "landingPoints": [
+    "Istanbul, Turkey",
+    "Alexandria, Egypt"
+  ],
+  "description": "TR-EG Cable connecting Istanbul to Alexandria.",
+  "geojson": "tr-eg-cable.geojson"
+}

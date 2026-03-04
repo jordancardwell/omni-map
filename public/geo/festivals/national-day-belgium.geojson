@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "code": "national-day-belgium",
+        "name": "National Day of Belgium",
+        "festivalType": "National",
+        "dateOrSeason": "July 21",
+        "location": "Brussels, Belgium"
+      }
+    }
+  ]
+}

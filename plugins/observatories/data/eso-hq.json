@@ -1,0 +1,20 @@
+{
+  "code": "eso-hq",
+  "name": "European Southern Observatory HQ",
+  "country": "Germany",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 530,
+  "aperture": "N/A (headquarters)",
+  "telescopes": [
+    "HQ and Science Archive"
+  ],
+  "keyDiscoveries": [
+    "Coordination of ESO programs",
+    "Data archive and pipelines",
+    "Instrument development"
+  ],
+  "location": "European Southern Observatory HQ, Germany",
+  "description": "ESO headquarters in Garching near Munich. Coordinates operations of La Silla, Paranal, ALMA, and the Extremely Large Telescope construction.",
+  "geojson": "eso-hq.geojson"
+}

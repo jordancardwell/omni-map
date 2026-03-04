@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4122222222,
+          34.4305555556
+        ]
+      },
+      "properties": {
+        "code": "sites-of-japans-meiji-industrial-revolution-iron-and-steel-shipbuilding-and-coal",
+        "name": "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4541111111,
+          54.4619444444
+        ]
+      },
+      "properties": {
+        "code": "archaeological-border-complex-of-hedeby-and-the-danevirke",
+        "name": "Archaeological Border complex of Hedeby and the Danevirke",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

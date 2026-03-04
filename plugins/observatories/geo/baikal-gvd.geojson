@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[104.3981,51.7681]},"properties":{"code":"baikal-gvd","name":"Baikal-GVD","observatoryType":"Multi-messenger","status":"Operational","country":"Russia"}}]}

@@ -1,0 +1,21 @@
+{
+  "code": "south-equatorial-indian",
+  "name": "South Equatorial Current (Indian Ocean)",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.6 m/s",
+  "origin": "Eastern Indian Ocean / Indonesia",
+  "destination": "Madagascar / East Africa",
+  "climateEffects": [
+    "Drives Indian Ocean gyre",
+    "Influences East African monsoon",
+    "Feeds Agulhas Current"
+  ],
+  "connectedEcosystems": [
+    "Mascarene Islands reefs",
+    "Seychelles marine habitats",
+    "Madagascar reef systems"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Indian Ocean South Equatorial Current flows westward from Indonesia across the Indian Ocean, carrying warm water toward Madagascar and the East African coast, where it splits into the Mozambique and East Madagascar currents.",
+  "geojson": "south-equatorial-indian.geojson"
+}

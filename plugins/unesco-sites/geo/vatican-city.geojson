@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45736,
+          41.90216
+        ]
+      },
+      "properties": {
+        "code": "vatican-city",
+        "name": "Vatican City",
+        "type": "Cultural",
+        "country": "Holy See",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "curonian-spit",
+  "name": "Curonian Spit",
+  "type": "Cultural",
+  "country": "Lithuania, Russian Federation",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects.",
+  "danger": false,
+  "geojson": "curonian-spit.geojson"
+}

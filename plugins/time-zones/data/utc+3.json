@@ -1,0 +1,37 @@
+{
+  "code": "utc+3",
+  "name": "Moscow Standard Time",
+  "nativeName": "UTC+03:00",
+  "utcOffset": "UTC+03:00",
+  "utcOffsetHours": 3,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Europe/Moscow",
+    "Africa/Nairobi",
+    "Asia/Baghdad",
+    "Asia/Riyadh"
+  ],
+  "countries": [
+    "Russia (western)",
+    "Saudi Arabia",
+    "Iraq",
+    "Kenya",
+    "Ethiopia",
+    "Tanzania",
+    "Uganda",
+    "Somalia",
+    "Eritrea",
+    "Djibouti",
+    "Bahrain",
+    "Kuwait",
+    "Qatar",
+    "Turkey",
+    "Belarus"
+  ],
+  "dstRules": "Russia and Turkey permanently on UTC+3 (no DST); most countries in this zone do not observe DST",
+  "description": "A major timezone spanning from Eastern Europe through the Middle East to East Africa. Moscow moved to permanent UTC+3 in 2014, and Turkey followed suit in 2016. Riyadh, Nairobi, and Istanbul are among the largest cities in this zone.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+3.geojson"
+}

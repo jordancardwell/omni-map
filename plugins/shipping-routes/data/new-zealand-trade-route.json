@@ -1,0 +1,8 @@
+{
+  "code": "new-zealand-trade-route",
+  "name": "New Zealand Trade Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Connects New Zealand with trading partners in Australia, Southeast Asia, and the Pacific. Vital for dairy, meat, and timber exports.",
+  "geojson": "new-zealand-trade-route.geojson"
+}

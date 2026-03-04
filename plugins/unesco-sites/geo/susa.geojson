@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2561111111,
+          32.1894444444
+        ]
+      },
+      "properties": {
+        "code": "susa",
+        "name": "Susa",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

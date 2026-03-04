@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ugx","name":"Ugandan Shilling","country":"UG","region":"Africa"},"geometry":{"type":"Polygon","coordinates":[[[29.6,-1.5],[29.6,4.2],[35,4.2],[35,-1.5],[29.6,-1.5]]]}}]}

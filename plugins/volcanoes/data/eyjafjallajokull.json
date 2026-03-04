@@ -1,0 +1,22 @@
+{
+  "code": "eyjafjallajokull",
+  "name": "Eyjafjallajökull",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1651,
+  "lastEruption": "2010",
+  "vei": 4,
+  "country": "Iceland",
+  "region": "South Iceland",
+  "location": "South Iceland, Iceland",
+  "tectonicSetting": "Divergent boundary",
+  "hazards": [
+    "Ashfall",
+    "Jökulhlaup (glacial floods)",
+    "Aviation hazards",
+    "Lava flows"
+  ],
+  "eruptionHistory": "The 2010 eruption caused unprecedented disruption to European air travel, stranding millions of passengers. Previous eruptions in 1821-1823 and 920 CE.",
+  "description": "Eyjafjallajökull gained worldwide fame in 2010 when its eruption produced an ash cloud that shut down European airspace for weeks, causing the largest air traffic disruption since World War II.",
+  "geojson": "eyjafjallajokull.geojson"
+}

@@ -1,0 +1,28 @@
+{
+  "code": "mugham",
+  "name": "Mugham",
+  "region": "Azerbaijan",
+  "traditionFamily": "Central Asian",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Tar",
+    "Kamancha",
+    "Gaval",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Alim Qasimov",
+    "Fargana Qasimova",
+    "Vagif Mustafazade",
+    "Shovkat Alakbarova",
+    "Khan Shushinsky"
+  ],
+  "description": "Mugham is the classical improvised modal music of Azerbaijan, characterized by free-form vocal and instrumental improvisation within a framework of defined melodic modes and emotional states. Performed by a trio of singer, tar player, and kamancha player, mugham draws from Persian, Turkish, and Caucasian musical traditions. UNESCO inscribed it in 2008.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Azerbaijani Mugham",
+      "url": "https://ich.unesco.org/en/RL/azerbaijani-mugham-00039"
+    }
+  ],
+  "geojson": "mugham.geojson"
+}

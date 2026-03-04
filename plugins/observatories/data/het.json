@@ -1,0 +1,20 @@
+{
+  "code": "het",
+  "name": "Hobby-Eberly Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2026,
+  "aperture": "10 m (effective 9.2 m)",
+  "telescopes": [
+    "HET"
+  ],
+  "keyDiscoveries": [
+    "HETDEX dark energy survey",
+    "Exoplanet discoveries",
+    "Black hole masses"
+  ],
+  "location": "Hobby-Eberly Telescope, United States",
+  "description": "A 10m segmented-mirror telescope at McDonald Observatory, Texas. Designed for spectroscopy with a fixed altitude angle and tracking by moving the instrument package.",
+  "geojson": "het.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694166667,
+          50.17361111
+        ]
+      },
+      "properties": {
+        "code": "upper-middle-rhine-valley",
+        "name": "Upper Middle Rhine Valley",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

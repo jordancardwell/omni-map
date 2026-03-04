@@ -1,0 +1,17 @@
+{
+  "code": "za",
+  "name": "South Africa",
+  "avgDownloadMbps": 42.6,
+  "avgUploadMbps": 18.4,
+  "avgLatencyMs": 22,
+  "mobileDownloadMbps": 32.4,
+  "mobileUploadMbps": 7.2,
+  "fixedDownloadMbps": 42.6,
+  "fixedUploadMbps": 18.4,
+  "rank": 79,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Leading African broadband market. ~14% year-over-year growth.",
+  "geojson": "za.geojson"
+}

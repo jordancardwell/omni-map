@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93880556,
+          9.407083333
+        ]
+      },
+      "properties": {
+        "code": "talamanca-range-la-amistad-reserves-la-amistad-national-park",
+        "name": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+        "type": "Natural",
+        "country": "Panama, Costa Rica",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

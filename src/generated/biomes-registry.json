@@ -1,0 +1,381 @@
+[
+  {
+    "code": "boreal-forests",
+    "name": "Boreal Forests/Taiga",
+    "biomeType": "Forest",
+    "areaKm2": 14000000,
+    "keyCharacteristics": "Vast coniferous forests spanning the northern latitudes. Long, cold winters and short growing seasons. Largest terrestrial biome by area.",
+    "typicalFlora": [
+      "Spruce",
+      "Larch",
+      "Birch",
+      "Pine",
+      "Sphagnum moss",
+      "Lichen"
+    ],
+    "typicalFauna": [
+      "Moose",
+      "Brown bear",
+      "Wolf",
+      "Lynx",
+      "Wolverine",
+      "Snowy owl"
+    ],
+    "threatLevel": "Moderate",
+    "conservationStatus": "Relatively intact compared to other forest biomes, but industrial logging, oil extraction, and climate change pose growing threats. Permafrost thaw is altering ecosystem dynamics.",
+    "description": "The boreal forest, or taiga, forms an immense circumpolar band across North America, Europe, and Asia, making it the largest terrestrial biome. It is dominated by cold-tolerant coniferous species, primarily spruce, pine, and larch.\n\nWinters are long and severe, with temperatures dropping below -40°C, while summers are brief but can be surprisingly warm. The growing season lasts only 50-100 days. Permafrost underlies much of the biome, particularly in Siberia.\n\nBoreal forests store enormous quantities of carbon, both in trees and in vast peatlands. They represent approximately 30% of the world's forest area and are critical for global climate regulation.",
+    "geojson": "boreal-forests.geojson"
+  },
+  {
+    "code": "deserts",
+    "name": "Deserts & Xeric Shrublands",
+    "biomeType": "Desert",
+    "areaKm2": 26000000,
+    "keyCharacteristics": "Extremely arid environments receiving less than 250mm annual rainfall. Dramatic temperature extremes and highly specialized organisms adapted to water scarcity.",
+    "typicalFlora": [
+      "Saguaro cactus",
+      "Creosote bush",
+      "Date palm",
+      "Welwitschia",
+      "Joshua tree",
+      "Prickly pear"
+    ],
+    "typicalFauna": [
+      "Camel",
+      "Fennec fox",
+      "Roadrunner",
+      "Sidewinder rattlesnake",
+      "Scorpion",
+      "Addax"
+    ],
+    "threatLevel": "Moderate",
+    "conservationStatus": "While less converted than other biomes, deserts face threats from solar energy development, groundwater depletion, off-road recreation, and climate change-driven desertification at margins.",
+    "description": "Deserts and xeric shrublands cover approximately one-third of Earth's land surface, making them the largest terrestrial biome by area. They are defined by extreme aridity, with annual rainfall below 250mm and evaporation greatly exceeding precipitation.\n\nDeserts range from the extreme hyperarid core of the Sahara, which receives virtually no rain, to semi-arid shrublands with seasonal precipitation. Hot deserts like the Sahara and Arabian experience temperatures above 50°C, while cold deserts like the Gobi endure winters below -40°C.\n\nDesert organisms have evolved remarkable adaptations to water scarcity: CAM photosynthesis in cacti, water storage in succulents, deep tap roots, nocturnal activity patterns, and the ability to survive years of dormancy.",
+    "geojson": "deserts.geojson"
+  },
+  {
+    "code": "flooded-grasslands",
+    "name": "Flooded Grasslands & Savannas",
+    "biomeType": "Grassland",
+    "areaKm2": 1100000,
+    "keyCharacteristics": "Seasonally or permanently flooded grasslands with high water tables. Extreme productivity during wet seasons supports dense wildlife populations.",
+    "typicalFlora": [
+      "Papyrus",
+      "Water hyacinth",
+      "Sawgrass",
+      "Bulrush",
+      "Floating meadow grasses",
+      "Aquatic sedges"
+    ],
+    "typicalFauna": [
+      "Hippopotamus",
+      "Capybara",
+      "Jabiru stork",
+      "Marsh deer",
+      "Sitatunga",
+      "Shoebill"
+    ],
+    "threatLevel": "High",
+    "conservationStatus": "Threatened by dam construction, water diversion, drainage for agriculture, and pollution. Climate change alters flood cycles critical to ecosystem function.",
+    "description": "Flooded grasslands and savannas are wetland ecosystems characterized by seasonal or permanent inundation. They occur in tropical and subtropical regions where flat terrain and high rainfall create extensive flooded areas.\n\nProminent examples include the Pantanal in South America (the world's largest tropical wetland), the Sudd in South Sudan, the Okavango Delta in Botswana, and the Everglades in Florida. These ecosystems are among the most productive on Earth.\n\nThe seasonal flood pulse drives ecological cycles, with dramatic changes in water levels creating diverse habitats. Fish populations surge during floods, supporting dense congregations of waterbirds and other predators.",
+    "geojson": "flooded-grasslands.geojson"
+  },
+  {
+    "code": "mangroves",
+    "name": "Mangroves",
+    "biomeType": "Coastal",
+    "areaKm2": 150000,
+    "keyCharacteristics": "Salt-tolerant forests at the interface of land and sea in tropical and subtropical coastlines. Critical nursery habitat for marine species and coastal protection.",
+    "typicalFlora": [
+      "Red mangrove",
+      "Black mangrove",
+      "White mangrove",
+      "Mangrove palm",
+      "Pneumatophore-bearing species",
+      "Salt-excreting species"
+    ],
+    "typicalFauna": [
+      "Saltwater crocodile",
+      "Proboscis monkey",
+      "Mangrove crab",
+      "Manatee",
+      "Mudskipper",
+      "Tiger prawn"
+    ],
+    "threatLevel": "Critical",
+    "conservationStatus": "Over 35% of global mangrove area lost since the 1980s. Shrimp farming, coastal development, and pollution are major drivers. Mangroves store 3-5 times more carbon per hectare than terrestrial forests.",
+    "description": "Mangroves are unique coastal ecosystems formed by salt-tolerant trees and shrubs that grow in the intertidal zones of tropical and subtropical coastlines. They occur in approximately 123 countries and territories.\n\nMangrove trees have evolved remarkable adaptations to their challenging environment: prop roots and pneumatophores for gas exchange in waterlogged soils, salt-filtering root systems, and viviparous seeds that germinate while still attached to the parent tree.\n\nDespite occupying a tiny fraction of Earth's surface, mangroves provide disproportionate ecosystem services: coastal protection from storms and tsunamis, nursery habitat for 75% of commercially caught fish species, and carbon sequestration rates 2-4 times higher than mature tropical forests.",
+    "geojson": "mangroves.geojson"
+  },
+  {
+    "code": "mediterranean",
+    "name": "Mediterranean Forests, Woodlands & Scrub",
+    "biomeType": "Mediterranean",
+    "areaKm2": 3100000,
+    "keyCharacteristics": "Mild, wet winters and hot, dry summers with fire-adapted vegetation. Extraordinarily high plant endemism in a limited geographic range.",
+    "typicalFlora": [
+      "Cork oak",
+      "Olive tree",
+      "Maquis shrubland",
+      "Fynbos proteas",
+      "Eucalyptus",
+      "Chaparral shrubs"
+    ],
+    "typicalFauna": [
+      "Iberian lynx",
+      "Mediterranean monk seal",
+      "Barbary macaque",
+      "Golden jackal",
+      "Bonelli's eagle",
+      "Hermann's tortoise"
+    ],
+    "threatLevel": "Critical",
+    "conservationStatus": "Millennia of human habitation have heavily modified these ecosystems. The Mediterranean Basin is one of the most transformed regions on Earth. Climate change increases fire risk and drought severity.",
+    "description": "Mediterranean forests, woodlands, and scrub are found in just five regions worldwide: the Mediterranean Basin, California, central Chile, the Cape Region of South Africa, and southwestern Australia. They share a distinctive climate of mild, wet winters and hot, dry summers.\n\nDespite covering less than 5% of Earth's land surface, Mediterranean ecosystems contain approximately 20% of all plant species. The Cape Floristic Region alone contains over 9,000 plant species, nearly 70% found nowhere else.\n\nFire is a natural and essential ecological process. Many plant species have evolved fire-adaptive traits such as serotinous cones, fire-stimulated germination, and resprouting from underground root crowns.",
+    "geojson": "mediterranean.geojson"
+  },
+  {
+    "code": "montane-grasslands",
+    "name": "Montane Grasslands & Shrublands",
+    "biomeType": "Grassland",
+    "areaKm2": 5100000,
+    "keyCharacteristics": "High-altitude grasslands and shrublands above the tree line. Extreme UV radiation, strong winds, and wide temperature fluctuations drive high endemism.",
+    "typicalFlora": [
+      "Giant groundsel",
+      "Giant lobelia",
+      "Espeletia",
+      "Tussock grass",
+      "Cushion plants",
+      "Alpine wildflowers"
+    ],
+    "typicalFauna": [
+      "Snow leopard",
+      "Yak",
+      "Vicuña",
+      "Andean condor",
+      "Ethiopian wolf",
+      "Mountain gorilla"
+    ],
+    "threatLevel": "High",
+    "conservationStatus": "Climate change is the primary threat, pushing habitats upslope with nowhere to go. Overgrazing by livestock degrades many areas. Island-like distribution limits species migration.",
+    "description": "Montane grasslands and shrublands occur at high elevations above the tree line, where cold temperatures, intense UV radiation, and strong winds create challenging conditions. Plants have evolved remarkable adaptations including cushion growth forms, thick insulation, and UV-protective compounds.\n\nMajor examples include the Páramo of the Andes, the Afroalpine zones of East Africa, the Tibetan Plateau, and the Ethiopian Highlands. These ecosystems are often called \"sky islands\" due to their isolated nature.\n\nEndemism is extremely high because populations are isolated on mountain peaks. These ecosystems are particularly vulnerable to climate change, as species cannot migrate to higher elevations when temperatures rise.",
+    "geojson": "montane-grasslands.geojson"
+  },
+  {
+    "code": "temperate-broadleaf-forests",
+    "name": "Temperate Broadleaf & Mixed Forests",
+    "biomeType": "Forest",
+    "areaKm2": 13000000,
+    "keyCharacteristics": "Deciduous forests with four distinct seasons. Rich autumn foliage and well-defined canopy layers. Moderate rainfall distributed throughout the year.",
+    "typicalFlora": [
+      "Oak",
+      "Maple",
+      "Beech",
+      "Birch",
+      "Hickory",
+      "Elm",
+      "Chestnut"
+    ],
+    "typicalFauna": [
+      "White-tailed deer",
+      "Red fox",
+      "Black bear",
+      "Gray squirrel",
+      "Woodpecker",
+      "Salamander"
+    ],
+    "threatLevel": "Moderate",
+    "conservationStatus": "Heavily modified by centuries of agriculture and urbanization in Europe and eastern North America. Some recovery through reforestation, but old-growth stands are rare.",
+    "description": "Temperate broadleaf and mixed forests are characterized by deciduous trees that shed their leaves annually, producing the spectacular autumn colors that define these regions. They experience four distinct seasons with moderate, well-distributed rainfall.\n\nThese forests are found across eastern North America, western and central Europe, East Asia, and parts of South America and Australasia. The deep, fertile soils support rich understory vegetation and diverse fungal communities.\n\nHistorically, these forests covered vast areas but have been extensively cleared for agriculture. In many regions, secondary forests have regrown, though they differ significantly from old-growth stands.",
+    "geojson": "temperate-broadleaf-forests.geojson"
+  },
+  {
+    "code": "temperate-coniferous-forests",
+    "name": "Temperate Coniferous Forests",
+    "biomeType": "Forest",
+    "areaKm2": 5000000,
+    "keyCharacteristics": "Evergreen conifer-dominated forests with moderate temperatures and high rainfall. Some of the tallest and oldest trees on Earth.",
+    "typicalFlora": [
+      "Douglas fir",
+      "Coast redwood",
+      "Western red cedar",
+      "Sitka spruce",
+      "Giant sequoia",
+      "Hemlock"
+    ],
+    "typicalFauna": [
+      "Roosevelt elk",
+      "Spotted owl",
+      "Mountain lion",
+      "Pacific salmon",
+      "Bald eagle",
+      "Marbled murrelet"
+    ],
+    "threatLevel": "Moderate",
+    "conservationStatus": "Old-growth stands significantly reduced by logging. Protected areas preserve some of the most iconic forests. Climate change alters fire regimes and pest dynamics.",
+    "description": "Temperate coniferous forests include some of the most impressive forests on Earth, from the towering coast redwoods of California to the ancient temperate rainforests of the Pacific Northwest. They are dominated by evergreen conifers adapted to cooler temperatures.\n\nThese forests receive significant precipitation, often exceeding 2000mm annually in coastal regions, much of it as fog drip. The mild, wet conditions support lush undergrowth of ferns, mosses, and lichens.\n\nFound primarily along the western coast of North America, southern Chile, New Zealand, and parts of Europe and East Asia. They include temperate rainforests, which are among the most productive ecosystems on Earth.",
+    "geojson": "temperate-coniferous-forests.geojson"
+  },
+  {
+    "code": "temperate-grasslands",
+    "name": "Temperate Grasslands, Savannas & Shrublands",
+    "biomeType": "Grassland",
+    "areaKm2": 9000000,
+    "keyCharacteristics": "Vast treeless plains with deep, fertile soils. Hot summers and cold winters with moderate rainfall. Among the most converted biomes on Earth.",
+    "typicalFlora": [
+      "Buffalo grass",
+      "Blue grama",
+      "Big bluestem",
+      "Feather grass",
+      "Prairie clover",
+      "Sunflower"
+    ],
+    "typicalFauna": [
+      "Bison",
+      "Pronghorn",
+      "Prairie dog",
+      "Saiga antelope",
+      "Swift fox",
+      "Ferruginous hawk"
+    ],
+    "threatLevel": "Critical",
+    "conservationStatus": "The most converted biome globally, with less than 5% of original extent remaining in some regions. Conversion to cropland continues. Very few large protected areas exist.",
+    "description": "Temperate grasslands are characterized by treeless expanses dominated by grasses and forbs, with deep, fertile soils formed over millennia of grass growth and decomposition. They experience continental climates with hot summers and cold winters.\n\nMajor examples include the North American Great Plains, South American Pampas, Central Asian Steppe, and South African Veld. These ecosystems evolved with large grazing herds and periodic fire.\n\nTemperate grasslands are the most endangered biome on Earth, with the vast majority converted to agriculture. Their deep, organic-rich soils make them among the most productive agricultural lands, which has driven their near-complete transformation.",
+    "geojson": "temperate-grasslands.geojson"
+  },
+  {
+    "code": "tropical-coniferous-forests",
+    "name": "Tropical & Subtropical Coniferous Forests",
+    "biomeType": "Forest",
+    "areaKm2": 700000,
+    "keyCharacteristics": "Pine and other conifer-dominated forests in tropical latitudes, typically at higher elevations. Fire-adapted ecosystems.",
+    "typicalFlora": [
+      "Caribbean pine",
+      "Montezuma pine",
+      "Benguet pine",
+      "Tropical oak",
+      "Tree ferns",
+      "Epiphytic orchids"
+    ],
+    "typicalFauna": [
+      "Resplendent quetzal",
+      "Horned guan",
+      "Pine marten",
+      "Montane rabbit",
+      "Pine siskin",
+      "Cloud forest anole"
+    ],
+    "threatLevel": "High",
+    "conservationStatus": "Limited geographic range makes these forests vulnerable. Logging, fire regime changes, and climate change threaten remaining stands. Less than 30% of original extent persists.",
+    "description": "Tropical and subtropical coniferous forests are a relatively rare biome found primarily in Central America, the Caribbean, and parts of Southeast Asia. Unlike most tropical forests, they are dominated by coniferous species, particularly pines.\n\nThese forests typically occur at elevations between 600 and 3000 meters, where cooler temperatures favor conifers over broadleaf species. Many are fire-adapted, with species that require periodic burning for regeneration.\n\nThe Mesoamerican pine-oak forests of Mexico and Central America are the largest extent of this biome, harboring significant endemism.",
+    "geojson": "tropical-coniferous-forests.geojson"
+  },
+  {
+    "code": "tropical-dry-forests",
+    "name": "Tropical & Subtropical Dry Broadleaf Forests",
+    "biomeType": "Forest",
+    "areaKm2": 4200000,
+    "keyCharacteristics": "Deciduous forests with distinct wet and dry seasons. Trees shed leaves during drought to conserve water.",
+    "typicalFlora": [
+      "Teak",
+      "Sal tree",
+      "Baobab",
+      "Acacia",
+      "Bamboo",
+      "Dry-season deciduous trees"
+    ],
+    "typicalFauna": [
+      "Tiger",
+      "Indian elephant",
+      "Langur",
+      "Komodo dragon",
+      "Spotted deer",
+      "Wild boar"
+    ],
+    "threatLevel": "Critical",
+    "conservationStatus": "One of the most threatened biomes globally, with less than 10% of original extent remaining intact. Conversion to agriculture is the primary driver of loss.",
+    "description": "Tropical and subtropical dry broadleaf forests experience pronounced seasonal drought, with 5-8 months receiving less than 100mm of rainfall. Trees respond by shedding their leaves, creating a dramatic seasonal transformation.\n\nThese forests are found in regions with warm temperatures but irregular rainfall, including parts of India, Southeast Asia, Mexico, Madagascar, and eastern Africa. Despite lower biodiversity than their moist counterparts, they harbor numerous endemic species.\n\nDry forests are among the most endangered ecosystems worldwide, heavily impacted by conversion to agriculture, fire, and cattle ranching.",
+    "geojson": "tropical-dry-forests.geojson"
+  },
+  {
+    "code": "tropical-grasslands",
+    "name": "Tropical & Subtropical Grasslands, Savannas & Shrublands",
+    "biomeType": "Grassland",
+    "areaKm2": 20000000,
+    "keyCharacteristics": "Open grasslands with scattered trees, shaped by fire and seasonal drought. Support the largest remaining concentrations of large mammals.",
+    "typicalFlora": [
+      "Elephant grass",
+      "Red oat grass",
+      "Acacia",
+      "Baobab",
+      "Savanna woodland trees",
+      "Fire-resistant grasses"
+    ],
+    "typicalFauna": [
+      "African elephant",
+      "Lion",
+      "Wildebeest",
+      "Giraffe",
+      "Zebra",
+      "Cheetah"
+    ],
+    "threatLevel": "High",
+    "conservationStatus": "Extensive conversion to cropland and cattle ranching, particularly in the Brazilian Cerrado. African savannas face pressure from expanding agriculture and poaching.",
+    "description": "Tropical and subtropical grasslands, savannas, and shrublands are characterized by a continuous grass layer with scattered trees and shrubs. They are shaped by the interaction of fire, drought, herbivory, and soil conditions.\n\nThese ecosystems support the most spectacular concentrations of large mammals on Earth, particularly in East Africa's Serengeti-Mara ecosystem. The Brazilian Cerrado is the most biodiverse savanna, with over 12,000 plant species.\n\nFire is a crucial ecological process, maintaining the open structure and preventing forest encroachment. Many species are fire-adapted, with underground storage organs and rapid resprouting ability.",
+    "geojson": "tropical-grasslands.geojson"
+  },
+  {
+    "code": "tropical-moist-forests",
+    "name": "Tropical & Subtropical Moist Broadleaf Forests",
+    "biomeType": "Forest",
+    "areaKm2": 17000000,
+    "keyCharacteristics": "Dense, multi-layered canopy with year-round warmth and rainfall exceeding 2000mm annually. Highest terrestrial biodiversity on Earth.",
+    "typicalFlora": [
+      "Kapok tree",
+      "Strangler fig",
+      "Bromeliads",
+      "Orchids",
+      "Mahogany",
+      "Rubber tree"
+    ],
+    "typicalFauna": [
+      "Jaguar",
+      "Orangutan",
+      "Toucan",
+      "Poison dart frog",
+      "Harpy eagle",
+      "Gorilla"
+    ],
+    "threatLevel": "Critical",
+    "conservationStatus": "Over 50% of original extent lost to deforestation. Losing approximately 10 million hectares per year globally. IUCN considers tropical moist forests among the most threatened biomes.",
+    "description": "Tropical and subtropical moist broadleaf forests, commonly known as tropical rainforests, are the most biodiverse terrestrial ecosystems on Earth. Found near the equator where temperatures remain warm year-round and rainfall is abundant, these forests support an estimated 50-80% of all terrestrial species.\n\nThe canopy structure is complex, with emergent trees reaching 60-70 meters, a main canopy at 30-45 meters, an understory layer, and a forest floor that receives less than 2% of sunlight. Epiphytes, lianas, and other climbing plants are abundant.\n\nMajor regions include the Amazon Basin, Congo Basin, and Southeast Asian archipelago. These forests play a crucial role in global carbon cycling, storing an estimated 250 billion tonnes of carbon.",
+    "geojson": "tropical-moist-forests.geojson"
+  },
+  {
+    "code": "tundra",
+    "name": "Tundra",
+    "biomeType": "Tundra",
+    "areaKm2": 8000000,
+    "keyCharacteristics": "Treeless Arctic and Antarctic landscapes with permafrost, extreme cold, and brief growing seasons. Low plant diversity but high animal productivity in summer.",
+    "typicalFlora": [
+      "Arctic willow",
+      "Reindeer lichen",
+      "Cotton grass",
+      "Bearberry",
+      "Dwarf birch",
+      "Sphagnum moss"
+    ],
+    "typicalFauna": [
+      "Caribou",
+      "Arctic fox",
+      "Polar bear",
+      "Musk ox",
+      "Snowy owl",
+      "Lemming"
+    ],
+    "threatLevel": "High",
+    "conservationStatus": "Climate change is warming the Arctic at twice the global rate. Permafrost thaw releases stored carbon and methane. Industrial development (oil, mining) fragments habitat.",
+    "description": "Tundra is Earth's coldest biome, characterized by treeless landscapes, permafrost, and extremely short growing seasons of just 6-10 weeks. Temperatures can drop below -50°C in winter, and even summer temperatures rarely exceed 10°C.\n\nArctic tundra encircles the North Pole across Alaska, Canada, Russia, Greenland, and Scandinavia. Alpine tundra occurs at high elevations on mountains worldwide. Despite harsh conditions, these ecosystems support surprising biodiversity during the brief summer.\n\nTundra soils contain enormous stores of organic carbon frozen in permafrost—an estimated 1,672 billion tonnes. As climate change thaws permafrost, this carbon is released as CO₂ and methane, creating a dangerous positive feedback loop.",
+    "geojson": "tundra.geojson"
+  }
+]

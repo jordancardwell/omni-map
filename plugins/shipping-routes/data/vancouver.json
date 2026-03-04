@@ -1,0 +1,14 @@
+{
+  "code": "vancouver",
+  "name": "Port of Vancouver",
+  "country": "Canada",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 145,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Vancouver in Canada. Annual cargo throughput: ~145 million tons. Type: Multi-Purpose Port.",
+  "geojson": "vancouver.geojson"
+}

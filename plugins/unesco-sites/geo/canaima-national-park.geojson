@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.037883,
+          5.337994
+        ]
+      },
+      "properties": {
+        "code": "canaima-national-park",
+        "name": "Canaima National Park",
+        "type": "Natural",
+        "country": "Venezuela (Bolivarian Republic of)",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.820485,
+          -18.178323
+        ]
+      },
+      "properties": {
+        "code": "fuerte-de-samaipata",
+        "name": "Fuerte de Samaipata",
+        "type": "Cultural",
+        "country": "Bolivia (Plurinational State of)",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

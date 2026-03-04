@@ -1,0 +1,16 @@
+{
+  "code": "ma-ie-cable",
+  "name": "MA-IE Cable",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 9104,
+  "yearLaid": 2022,
+  "rfsDate": "2012-06",
+  "owner": "GTT",
+  "landingPoints": [
+    "Lynn, USA",
+    "Dublin, Ireland"
+  ],
+  "description": "MA-IE Cable connecting Lynn to Dublin.",
+  "geojson": "ma-ie-cable.geojson"
+}

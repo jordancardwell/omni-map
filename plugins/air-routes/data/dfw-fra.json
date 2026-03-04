@@ -1,0 +1,17 @@
+{
+  "code": "dfw-fra",
+  "name": "Dallas — Frankfurt",
+  "airports": [
+    "DFW",
+    "FRA"
+  ],
+  "distanceKm": 8257,
+  "weeklyFlights": 25,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DFW–FRA route between Dallas and Frankfurt. Distance: 8,257 km. ~25 weekly flights operated by American.",
+  "geojson": "dfw-fra.geojson"
+}

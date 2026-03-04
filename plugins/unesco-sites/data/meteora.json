@@ -1,0 +1,18 @@
+{
+  "code": "meteora",
+  "name": "Meteora",
+  "type": "Mixed",
+  "country": "Greece",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)",
+    "(v)",
+    "(vii)"
+  ],
+  "region": "Europe and North America",
+  "description": "In a region of almost inaccessible sandstone peaks, monks settled on these 'columns of the sky' from the 11th century onwards. Twenty-four of these monasteries were built, despite incredible difficulties, at the time of the great revival of the eremetic ideal in the 15th century. Their 16th-century frescoes mark a key stage in the development of post-Byzantine painting.",
+  "danger": false,
+  "geojson": "meteora.geojson"
+}

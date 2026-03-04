@@ -1,0 +1,38 @@
+{
+  "id": "biomes",
+  "name": "Biomes & Ecosystems",
+  "description": "Earth's major biomes and ecoregions based on the WWF classification system",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#1B7A3D",
+  "categories": ["ecology", "environment", "geography"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#1B7A3D",
+  "schema": "BiomeMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "biomeType", "typicalFlora", "typicalFauna", "description"],
+    "groupBy": "biomeType",
+    "titleField": "name",
+    "subtitleField": "biomeType",
+    "badgeField": "areaKm2",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "biomeType"
+  },
+  "detailFields": [
+    { "key": "biomeType", "label": "Biome Type", "type": "text" },
+    { "key": "areaKm2", "label": "Area (km²)", "type": "formatted-number" },
+    { "key": "keyCharacteristics", "label": "Key Characteristics", "type": "text" },
+    { "key": "typicalFlora", "label": "Typical Flora", "type": "tags" },
+    { "key": "typicalFauna", "label": "Typical Fauna", "type": "tags" },
+    { "key": "threatLevel", "label": "Threat Level", "type": "text" },
+    { "key": "conservationStatus", "label": "Conservation Status", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

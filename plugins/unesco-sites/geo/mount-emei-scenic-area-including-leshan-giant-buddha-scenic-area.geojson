@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76925,
+          29.5449
+        ]
+      },
+      "properties": {
+        "code": "mount-emei-scenic-area-including-leshan-giant-buddha-scenic-area",
+        "name": "Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+        "type": "Mixed",
+        "country": "China",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

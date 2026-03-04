@@ -1,0 +1,15 @@
+{
+  "code": "murray-darling-basin",
+  "name": "Murray-Darling Basin",
+  "region": "Oceania",
+  "stressGroup": "3. Medium-High (20-40%)",
+  "waterStressLevel": "Medium-High",
+  "waterStressRatio": "~30% — withdrawal-to-availability",
+  "depletionRate": "Moderate — severe during Millennium Drought (1997-2009)",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 3300000,
+  "riskFactors": ["Irrigation over-allocation", "Extreme drought cycles", "Salinity", "Climate change"],
+  "description": "The Murray-Darling produces 40% of Australia's agricultural output from a basin that receives relatively low rainfall. The Millennium Drought (1997-2009) exposed catastrophic over-allocation — Adelaide nearly ran out of water. The 2012 Basin Plan attempted to claw back water for environmental flows, but compliance remains politically contentious. Recent La Niña flooding masked underlying structural stress.",
+  "geojson": "murray-darling-basin.geojson"
+}

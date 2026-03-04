@@ -1,0 +1,16 @@
+{
+  "code": "la-tw-cable",
+  "name": "LA-TW Cable",
+  "capacityTbps": 50,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11339,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "Google",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Taipei, Taiwan"
+  ],
+  "description": "LA-TW Cable connecting Los Angeles to Taipei.",
+  "geojson": "la-tw-cable.geojson"
+}

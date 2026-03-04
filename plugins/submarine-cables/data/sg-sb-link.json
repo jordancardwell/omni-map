@@ -1,0 +1,16 @@
+{
+  "code": "sg-sb-link",
+  "name": "SG-SB Link",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 554,
+  "yearLaid": 2014,
+  "rfsDate": "2013-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Singapore",
+    "Surabaya, Indonesia"
+  ],
+  "description": "SG-SB Link connecting Singapore to Surabaya.",
+  "geojson": "sg-sb-link.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8877777778,
+          52.365
+        ]
+      },
+      "properties": {
+        "code": "seventeenth-century-canal-ring-area-of-amsterdam-inside-the-singelgracht",
+        "name": "Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

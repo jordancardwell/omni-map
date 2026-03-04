@@ -1,0 +1,29 @@
+{
+  "code": "jazz",
+  "name": "Jazz",
+  "region": "New Orleans, United States",
+  "traditionFamily": "African-American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Trumpet",
+    "Saxophone",
+    "Piano",
+    "Double Bass",
+    "Drums"
+  ],
+  "keyArtists": [
+    "Louis Armstrong",
+    "Duke Ellington",
+    "Miles Davis",
+    "John Coltrane",
+    "Thelonious Monk"
+  ],
+  "description": "Jazz originated in New Orleans in the late 19th and early 20th centuries from a confluence of African rhythmic traditions, blues, ragtime, and brass band marches. Known for improvisation, syncopation, swing feel, and blue notes, jazz evolved through many styles including Dixieland, bebop, cool jazz, hard bop, free jazz, and fusion. It is widely regarded as one of America's greatest cultural contributions.",
+  "resources": [
+    {
+      "title": "Smithsonian Jazz",
+      "url": "https://jazz.si.edu/"
+    }
+  ],
+  "geojson": "jazz.geojson"
+}

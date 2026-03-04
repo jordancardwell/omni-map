@@ -1,0 +1,36 @@
+{
+  "id": "time-zones",
+  "name": "World Time Zones",
+  "description": "Global UTC time zones with current local times and DST information",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#3B82F6",
+  "categories": ["time", "geography", "reference"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Geography & Reference",
+  "thumbnail": "#3B82F6",
+  "schema": "TimeZoneMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "utcOffset", "countries", "ianaNames", "description"],
+    "groupBy": "offsetGroup",
+    "titleField": "name",
+    "subtitleField": "utcOffset",
+    "badgeField": "utcOffset",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "utcOffset"
+  },
+  "detailFields": [
+    { "key": "utcOffset", "label": "UTC Offset", "type": "text" },
+    { "key": "utcOffsetHours", "label": "Current Local Time", "type": "utc-clock" },
+    { "key": "ianaNames", "label": "IANA Timezone Names", "type": "tags" },
+    { "key": "countries", "label": "Countries & Territories", "type": "tags" },
+    { "key": "dstRules", "label": "DST Rules", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

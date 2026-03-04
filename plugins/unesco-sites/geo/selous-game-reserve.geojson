@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4,
+          -9.0
+        ]
+      },
+      "properties": {
+        "code": "selous-game-reserve",
+        "name": "Selous Game Reserve",
+        "type": "Natural",
+        "country": "United Republic of Tanzania",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

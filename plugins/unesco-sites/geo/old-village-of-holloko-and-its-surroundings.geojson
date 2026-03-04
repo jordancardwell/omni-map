@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.52917,
+          47.99444
+        ]
+      },
+      "properties": {
+        "code": "old-village-of-holloko-and-its-surroundings",
+        "name": "Old Village of Hollókő and its Surroundings",
+        "type": "Cultural",
+        "country": "Hungary",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

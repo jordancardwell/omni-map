@@ -1,0 +1,15 @@
+{
+  "code": "lisbon",
+  "name": "Port of Lisbon",
+  "country": "Portugal",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Lisbon in Portugal. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+  "geojson": "lisbon.geojson"
+}

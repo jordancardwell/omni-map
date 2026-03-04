@@ -1,0 +1,16 @@
+{
+  "code": "group-of-monuments-at-mahabalipuram",
+  "name": "Group of Monuments at Mahabalipuram",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This group of sanctuaries, founded by the Pallava kings, was carved out of rock along the Coromandel coast in the 7th and 8th centuries. It is known especially for its rathas (temples in the form of chariots), mandapas (cave sanctuaries), giant open-air reliefs such as the famous 'Descent of the Ganges', and the temple of Rivage, with thousands of sculptures to the glory of Shiva.",
+  "danger": false,
+  "geojson": "group-of-monuments-at-mahabalipuram.geojson"
+}

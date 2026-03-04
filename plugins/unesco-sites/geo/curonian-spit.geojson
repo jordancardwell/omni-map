@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.96239,
+          55.27458
+        ]
+      },
+      "properties": {
+        "code": "curonian-spit",
+        "name": "Curonian Spit",
+        "type": "Cultural",
+        "country": "Lithuania, Russian Federation",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

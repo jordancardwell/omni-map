@@ -1,0 +1,15 @@
+{
+  "code": "puerto-princesa-subterranean-river-national-park",
+  "name": "Puerto-Princesa Subterranean River National Park",
+  "type": "Natural",
+  "country": "Philippines",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This park features a spectacular limestone karst landscape with an underground river. One of the river's distinguishing features is that it emerges directly into the sea, and its lower portion is subject to tidal influences. The area also represents a significant habitat for biodiversity conservation. The site contains a full 'mountain-to-sea' ecosystem and has some of the most important forests in Asia.",
+  "danger": false,
+  "geojson": "puerto-princesa-subterranean-river-national-park.geojson"
+}

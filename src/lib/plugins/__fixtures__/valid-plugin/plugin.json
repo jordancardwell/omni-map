@@ -6,5 +6,10 @@
   "version": "1.0.0",
   "icon": "globe",
   "defaultColor": "#4A90D9",
-  "categories": ["linguistics", "culture"]
+  "categories": ["linguistics", "culture"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "linguistics",
+  "thumbnail": "#4A90D9",
+  "schema": "LanguageMetadata"
 }

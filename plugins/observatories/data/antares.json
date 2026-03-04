@@ -1,0 +1,20 @@
+{
+  "code": "antares",
+  "name": "ANTARES Neutrino Telescope",
+  "country": "France",
+  "observatoryType": "Multi-messenger",
+  "status": "Decommissioned",
+  "elevation": -2475,
+  "aperture": "~0.01 km² (effective)",
+  "telescopes": [
+    "ANTARES"
+  ],
+  "keyDiscoveries": [
+    "Deep-sea neutrino detection techniques",
+    "Neutrino source limits",
+    "Multi-messenger follow-up"
+  ],
+  "location": "ANTARES Neutrino Telescope, France",
+  "description": "An undersea neutrino telescope in the Mediterranean off Toulon. Operated from 2008-2022 and pioneered deep-sea neutrino detection, succeeded by KM3NeT.",
+  "geojson": "antares.geojson"
+}

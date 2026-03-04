@@ -1,0 +1,18 @@
+{
+  "code": "mogao-caves",
+  "name": "Mogao Caves",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated at a strategic point along the Silk Route, at the crossroads of trade as well as religious, cultural and intellectual influences, the 492 cells and cave sanctuaries in Mogao are famous for their statues and wall paintings, spanning 1,000 years of Buddhist art.",
+  "danger": false,
+  "geojson": "mogao-caves.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5461111111,
+          50.4625
+        ]
+      },
+      "properties": {
+        "code": "nord-pas-de-calais-mining-basin",
+        "name": "Nord-Pas de Calais Mining Basin",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

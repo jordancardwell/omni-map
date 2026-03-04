@@ -1,0 +1,15 @@
+{
+  "code": "bronze-age-burial-site-of-sammallahdenmaki",
+  "name": "Bronze Age Burial Site of Sammallahdenmäki",
+  "type": "Cultural",
+  "country": "Finland",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This Bronze Age burial site features more than 30 granite burial cairns, providing a unique insight into the funerary practices and social and religious structures of northern Europe more than three millennia ago.",
+  "danger": false,
+  "geojson": "bronze-age-burial-site-of-sammallahdenmaki.geojson"
+}

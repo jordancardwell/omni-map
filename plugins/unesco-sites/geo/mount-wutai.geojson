@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5633333333,
+          39.0305555556
+        ]
+      },
+      "properties": {
+        "code": "mount-wutai",
+        "name": "Mount Wutai",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "palapa-ring-west",
+  "name": "Palapa Ring West",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3500,
+  "yearLaid": 2017,
+  "rfsDate": "2018-12",
+  "owner": "Telkom Indonesia",
+  "landingPoints": [
+    "Jakarta, Indonesia",
+    "Batam, Indonesia",
+    "Dumai, Indonesia"
+  ],
+  "description": "Western segment of Indonesia's national backbone.",
+  "geojson": "palapa-ring-west.geojson"
+}

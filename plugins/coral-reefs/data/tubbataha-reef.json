@@ -1,0 +1,20 @@
+{
+  "code": "tubbataha-reef",
+  "name": "Tubbataha Reefs",
+  "location": "Sulu Sea, Philippines",
+  "areaKm2": 970,
+  "reefType": "Atoll",
+  "healthStatus": "Good",
+  "coralSpecies": 396,
+  "marineSpecies": 600,
+  "threats": [
+    "Illegal fishing",
+    "Ship groundings",
+    "Climate change",
+    "Poaching",
+    "Marine debris"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site since 1993. Tubbataha Reefs Natural Park is a strict no-take marine reserve managed by the Tubbataha Management Office with ranger patrols.",
+  "description": "Tubbataha Reefs Natural Park consists of two coral atolls and a coral islet in the middle of the Sulu Sea, Philippines. Its remote location — 150 km from the nearest inhabited island — has helped preserve it as one of the most pristine reef systems in Southeast Asia.\n\nThe park serves as a critical spawning ground for commercially important fish, sharks, and sea turtles. Its isolation and strict protection have made it a benchmark for reef health in the Coral Triangle region. The park supports nearly 400 coral species and remains one of the best-managed marine protected areas in the tropics.",
+  "geojson": "tubbataha-reef.geojson"
+}

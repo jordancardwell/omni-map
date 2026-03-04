@@ -1,0 +1,16 @@
+{
+  "code": "lao",
+  "name": "Lao",
+  "scriptType": "Abugida",
+  "characters": 27,
+  "direction": "LTR",
+  "originDate": "~14th century CE",
+  "sampleText": "ພາສາລາວ ງາມ",
+  "relatedScripts": [
+    "thai",
+    "khmer"
+  ],
+  "description": "The Lao script is an abugida closely related to Thai script, with 27 consonants and a system of vowel signs. Like Thai, Lao does not use spaces between words. Lao script has a more rounded appearance compared to Thai and uses fewer consonant characters due to spelling reforms that simplified the orthography.",
+  "historicalNotes": "The Lao script developed from the Khmer script, sharing a common ancestor with the Thai script. The earliest Lao inscriptions date to the 14th century during the Lan Xang kingdom. Following the Lao revolution in 1975, the script underwent significant simplification: many redundant consonants were eliminated, and spelling was reformed to be more phonetic.",
+  "geojson": "lao.geojson"
+}

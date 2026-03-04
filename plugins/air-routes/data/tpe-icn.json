@@ -1,0 +1,18 @@
+{
+  "code": "tpe-icn",
+  "name": "Taipei — Seoul",
+  "airports": [
+    "TPE",
+    "ICN"
+  ],
+  "distanceKm": 1462,
+  "weeklyFlights": 80,
+  "airlines": [
+    "China Airlines",
+    "Korean Air"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "TPE–ICN route between Taipei and Seoul. Distance: 1,462 km. ~80 weekly flights operated by China Airlines, Korean Air.",
+  "geojson": "tpe-icn.geojson"
+}

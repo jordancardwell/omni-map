@@ -1,0 +1,14 @@
+{
+  "code": "caves-of-aggtelek-karst-and-slovak-karst",
+  "name": "Caves of Aggtelek Karst and Slovak Karst",
+  "type": "Natural",
+  "country": "Hungary, Slovakia",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years.",
+  "danger": false,
+  "geojson": "caves-of-aggtelek-karst-and-slovak-karst.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "national-day-spain",
+  "name": "Fiesta Nacional de España",
+  "festivalType": "National",
+  "dateOrSeason": "October 12",
+  "origin": "Spanish national",
+  "estimatedAttendance": "47+ million Spaniards",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military parade in Madrid; aerial display; royal family appearance; flag ceremony; cultural events.",
+  "historicalBackground": "Spain's National Day marks October 12, 1492, when Columbus reached the Americas. It combines celebration of Hispanic culture and the Spanish Armed Forces.",
+  "description": "Spain's National Day parade in Madrid, celebrating Hispanic heritage with military displays and the Spanish Royal Family.",
+  "location": "Madrid, Spain",
+  "geojson": "national-day-spain.geojson"
+}

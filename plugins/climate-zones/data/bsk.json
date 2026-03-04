@@ -1,0 +1,17 @@
+{
+  "code": "bsk",
+  "name": "Cold Semi-Arid (Steppe)",
+  "group": "B - Arid",
+  "temperatureRange": "Annual mean <18°C; warm summers, cold winters",
+  "precipitationPattern": "Low; 250-500mm/year, often winter/spring peak",
+  "vegetation": "Short-grass prairie, steppe, sagebrush, tussock grassland",
+  "exampleCities": [
+    "Denver",
+    "Salt Lake City",
+    "Ankara",
+    "Tehran"
+  ],
+  "description": "Cold semi-arid climate (BSk) is found in continental interiors and high plateaus at mid-latitudes. The Great Plains of North America, the Anatolian Plateau, and the Iranian Plateau are typical examples. This climate supports vast grasslands historically important for pastoral economies.",
+  "typicalWeather": "Four distinct seasons with warm to hot summers (25-35°C) and cold winters (-5 to -15°C). Precipitation is moderate but unreliable. Snow is common in winter. Strong winds sweep across the open landscape.",
+  "geojson": "bsk.geojson"
+}

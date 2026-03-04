@@ -1,0 +1,32 @@
+{
+  "code": "sahel-zone",
+  "name": "Sahel Transition Zone",
+  "region": "West & Central Africa",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.05–0.20 — transition zone under pressure",
+  "area": "3,053,200 km²",
+  "degradationTrend": "Severe — Expanding",
+  "populationAffected": 135000000,
+  "affectedCountries": [
+    "Senegal",
+    "Mauritania",
+    "Mali",
+    "Burkina Faso",
+    "Niger",
+    "Nigeria",
+    "Chad",
+    "Sudan",
+    "Eritrea"
+  ],
+  "desertificationDrivers": [
+    "Sahara expansion",
+    "Overgrazing",
+    "Deforestation",
+    "Population growth",
+    "Erratic rainfall"
+  ],
+  "desertFrontier": "Sahara frontier moving south at ~48 km/decade; Great Green Wall project underway",
+  "description": "The Sahel is the critical transition zone between the Sahara and the humid savannas to the south. It faces the most acute desertification crisis globally, with 80% of farmland degraded. The African Union's Great Green Wall initiative aims to restore 100 million hectares across the 8,000 km band from Senegal to Djibouti. Over 135 million people depend on this fragile ecosystem.",
+  "geojson": "sahel-zone.geojson"
+}

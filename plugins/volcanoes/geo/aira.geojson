@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[130.717,31.667]},"properties":{"code":"aira","name":"Aira Caldera","volcanoType":"Caldera","status":"Erupting/Recent","elevation":1117,"lastEruption":"2023","vei":4}}]}

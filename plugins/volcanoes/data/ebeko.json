@@ -1,0 +1,21 @@
+{
+  "code": "ebeko",
+  "name": "Ebeko",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1156,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Russia",
+  "region": "Kuril Islands",
+  "location": "Kuril Islands, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic gases",
+    "Lahars"
+  ],
+  "eruptionHistory": "Has been in frequent eruption since 2016. Located near the town of Severo-Kurilsk.",
+  "description": "Ebeko is the most active volcano on Paramushir Island in the northern Kurils, with frequent explosions that affect the nearby town of Severo-Kurilsk.",
+  "geojson": "ebeko.geojson"
+}

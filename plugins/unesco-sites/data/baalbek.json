@@ -1,0 +1,15 @@
+{
+  "code": "baalbek",
+  "name": "Baalbek",
+  "type": "Cultural",
+  "country": "Lebanon",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "This Phoenician city, where a triad of deities was worshipped, was known as Heliopolis during the Hellenistic period. It retained its religious function during Roman times, when the sanctuary of the Heliopolitan Jupiter attracted thousands of pilgrims. Baalbek, with its colossal structures, is one of the finest examples of Imperial Roman architecture at its apogee.",
+  "danger": false,
+  "geojson": "baalbek.geojson"
+}

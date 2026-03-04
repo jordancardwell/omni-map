@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"fin-whale","name":"Fin Whale"},"geometry":{"type":"Polygon","coordinates":[[[180,-70],[180,70],[0,70],[0,-70],[180,-70]]]}}]}

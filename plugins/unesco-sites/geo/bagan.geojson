@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8844444444,
+          21.1488888889
+        ]
+      },
+      "properties": {
+        "code": "bagan",
+        "name": "Bagan",
+        "type": "Cultural",
+        "country": "Myanmar",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

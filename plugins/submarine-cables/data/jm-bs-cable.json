@@ -1,0 +1,16 @@
+{
+  "code": "jm-bs-cable",
+  "name": "JM-BS Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 801,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "LIME",
+  "landingPoints": [
+    "Kingston, Jamaica",
+    "Nassau, Bahamas"
+  ],
+  "description": "JM-BS Cable connecting Kingston to Nassau in the Caribbean region.",
+  "geojson": "jm-bs-cable.geojson"
+}

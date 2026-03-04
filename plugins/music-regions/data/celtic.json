@@ -1,0 +1,29 @@
+{
+  "code": "celtic",
+  "name": "Celtic Music",
+  "region": "Ireland, Scotland, Wales, Brittany",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Fiddle",
+    "Tin Whistle",
+    "Uilleann Pipes",
+    "Bodhrán",
+    "Celtic Harp"
+  ],
+  "keyArtists": [
+    "The Chieftains",
+    "Planxty",
+    "Clannad",
+    "Lúnasa",
+    "Altan"
+  ],
+  "description": "Celtic music encompasses the traditional music of the Celtic nations—primarily Ireland, Scotland, Wales, Brittany, Cornwall, and Galicia. Characterized by modal melodies, ornamented playing, and dance rhythms (reels, jigs, hornpipes), the tradition has been transmitted through sessions (informal gatherings) for centuries. Irish traditional music and dance remain central to Celtic cultural identity.",
+  "resources": [
+    {
+      "title": "Comhaltas Ceoltóirí Éireann",
+      "url": "https://comhaltas.ie/"
+    }
+  ],
+  "geojson": "celtic.geojson"
+}

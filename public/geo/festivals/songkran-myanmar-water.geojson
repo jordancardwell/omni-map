@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0785,
+          19.7633
+        ]
+      },
+      "properties": {
+        "code": "songkran-myanmar-water",
+        "name": "Water Festival (Dagu)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "April",
+        "location": "Mandalay, Myanmar"
+      }
+    }
+  ]
+}

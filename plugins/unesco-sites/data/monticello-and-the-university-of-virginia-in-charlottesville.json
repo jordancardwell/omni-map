@@ -1,0 +1,15 @@
+{
+  "code": "monticello-and-the-university-of-virginia-in-charlottesville",
+  "name": "Monticello and the University of Virginia in Charlottesville",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Thomas Jefferson (1743–1826), author of the American Declaration of Independence and third president of the United States, was also a talented architect of neoclassical buildings. He designed Monticello (1769–1809), his plantation home, and his ideal 'academical village' (1817–26), which is still the heart of the University of Virginia. Jefferson's use of an architectural vocabulary based upon classical antiquity symbolizes both the aspirations of the new American republic as the inheritor of European tradition and the cultural experimentation that could be expected as the country matured.",
+  "danger": false,
+  "geojson": "monticello-and-the-university-of-virginia-in-charlottesville.geojson"
+}

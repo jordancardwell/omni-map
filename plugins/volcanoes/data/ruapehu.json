@@ -1,0 +1,22 @@
+{
+  "code": "ruapehu",
+  "name": "Mount Ruapehu",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 2797,
+  "lastEruption": "2007",
+  "vei": 3,
+  "country": "New Zealand",
+  "region": "North Island",
+  "location": "North Island, New Zealand",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lahars",
+    "Pyroclastic flows",
+    "Ashfall",
+    "Crater lake outbursts"
+  ],
+  "eruptionHistory": "Most active volcano in New Zealand. The 1953 Tangiwai disaster killed 151 when a lahar from the crater lake destroyed a railway bridge.",
+  "description": "Mount Ruapehu is New Zealand's largest active volcano and a popular ski resort. Its summit crater lake periodically produces lahars during eruptions.",
+  "geojson": "ruapehu.geojson"
+}

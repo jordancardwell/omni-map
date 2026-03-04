@@ -1,0 +1,16 @@
+{
+  "code": "upper-middle-rhine-valley",
+  "name": "Upper Middle Rhine Valley",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2002",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The 65km-stretch of the Middle Rhine Valley, with its castles, historic towns and vineyards, graphically illustrates the long history of human involvement with a dramatic and varied natural landscape. It is intimately associated with history and legend and for centuries has exercised a powerful influence on writers, artists and composers.",
+  "danger": false,
+  "geojson": "upper-middle-rhine-valley.geojson"
+}

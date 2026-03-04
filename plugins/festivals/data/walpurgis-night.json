@@ -1,0 +1,14 @@
+{
+  "code": "walpurgis-night",
+  "name": "Walpurgis Night",
+  "festivalType": "Cultural",
+  "dateOrSeason": "April 30",
+  "origin": "Germanic/Nordic tradition",
+  "estimatedAttendance": "Hundreds of thousands",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bonfires; dancing around maypoles; witch costumes; traditional songs; celebrating the arrival of spring; parades.",
+  "historicalBackground": "Walpurgis Night blends pre-Christian spring celebrations with the feast of Saint Walpurga. In Germanic folklore, witches gather on the Brocken mountain.",
+  "description": "A night of bonfires and revelry across Northern Europe, celebrating spring's arrival with ancient traditions of fire, dance, and witch folklore.",
+  "location": "Brocken, Germany",
+  "geojson": "walpurgis-night.geojson"
+}

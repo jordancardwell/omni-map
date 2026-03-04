@@ -1,0 +1,15 @@
+{
+  "code": "upper-svaneti",
+  "name": "Upper Svaneti",
+  "type": "Cultural",
+  "country": "Georgia",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Preserved by its long isolation, the Upper Svaneti region of the Caucasus is an exceptional example of mountain scenery with medieval-type villages and tower-houses. The village of Chazhashi still has more than 200 of these very unusual houses, which were used both as dwellings and as defence posts against the invaders who plagued the region.",
+  "danger": false,
+  "geojson": "upper-svaneti.geojson"
+}

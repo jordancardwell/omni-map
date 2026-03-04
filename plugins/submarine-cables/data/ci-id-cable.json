@@ -1,0 +1,16 @@
+{
+  "code": "ci-id-cable",
+  "name": "CI-ID Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1230,
+  "yearLaid": 2012,
+  "rfsDate": "2018-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Christmas Island",
+    "Jakarta, Indonesia"
+  ],
+  "description": "CI-ID Cable connecting Christmas Island to Jakarta.",
+  "geojson": "ci-id-cable.geojson"
+}

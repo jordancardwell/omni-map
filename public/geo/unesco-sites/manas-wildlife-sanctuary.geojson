@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.03055556,
+          26.725
+        ]
+      },
+      "properties": {
+        "code": "manas-wildlife-sanctuary",
+        "name": "Manas Wildlife Sanctuary",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "cerrado-savanna",
+  "name": "Cerrado Tropical Savanna",
+  "region": "South America",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "Very High — fire is natural but increasing with land conversion",
+  "dominantVegetation": "Tropical savanna, cerrado grassland, gallery forest",
+  "fireSeasonMonths": "June – October",
+  "areaBurnedAnnual": "~800,000 ha average",
+  "seasonalPattern": "The dry season (June–October) brings near-zero rainfall and humidity below 20%, creating ideal fire conditions. The Cerrado is fire-adapted — many plant species require fire for germination — but agricultural expansion has altered natural fire regimes. Over half the Cerrado has been converted to cropland and pasture, increasing fire intensity and frequency in remaining fragments.",
+  "historicalFires": ["2020 Cerrado Fires (1.2M ha)", "2017 Chapada dos Veadeiros (66K ha)", "2010 Cerrado Drought Fires (950K ha)", "2019 Widespread Fires (800K ha)"],
+  "description": "The Cerrado — Brazil's tropical savanna — is the world's most biodiverse savanna and one of the most fire-prone ecosystems on Earth. While fire has shaped the Cerrado for millions of years, the rapid conversion of over 50% of the biome to soy and cattle farming has dramatically altered fire dynamics. Agricultural fires escape into remaining natural areas, burning hotter and more frequently than the ecosystem can sustain. The Cerrado is often overshadowed by Amazon fires in media coverage, but is actually losing native vegetation faster than the Amazon.",
+  "geojson": "cerrado-savanna.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "gr",
+  "name": "Greece",
+  "avgDownloadMbps": 84.2,
+  "avgUploadMbps": 12.8,
+  "avgLatencyMs": 22,
+  "mobileDownloadMbps": 42.6,
+  "mobileUploadMbps": 8.2,
+  "fixedDownloadMbps": 84.2,
+  "fixedUploadMbps": 12.8,
+  "rank": 54,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Recovering infrastructure investment. ~18% year-over-year growth.",
+  "geojson": "gr.geojson"
+}

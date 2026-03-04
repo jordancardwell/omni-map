@@ -1,0 +1,17 @@
+{
+  "code": "esrange",
+  "name": "Esrange Space Center",
+  "country": "Sweden",
+  "operator": "SSC",
+  "coordinates": "67.8933°N, 21.1064°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Numerous sounding rockets",
+    "MAXUS microgravity flights",
+    "Stratospheric balloon campaigns"
+  ],
+  "orbitalInclinationRange": "87°–98° (polar/SSO)",
+  "location": "Esrange Space Center, Sweden",
+  "description": "Located above the Arctic Circle near Kiruna, Sweden. Primarily a sounding rocket and balloon launch site, with planned orbital launch capability being developed.",
+  "geojson": "esrange.geojson"
+}

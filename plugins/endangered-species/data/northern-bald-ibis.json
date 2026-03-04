@@ -1,0 +1,19 @@
+{
+  "code": "northern-bald-ibis",
+  "name": "Northern Bald Ibis",
+  "scientificName": "Geronticus eremita",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~700 wild individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Rocky semi-arid terrain",
+  "threats": [
+    "Habitat loss",
+    "Hunting",
+    "Pesticides",
+    "Power line collisions"
+  ],
+  "conservationEfforts": "Moroccan population stable at about 700 birds. Reintroduction projects in Spain, Austria, and Turkey. Waldrapp team leads migration training with ultralight aircraft for reintroduced birds.",
+  "description": "Once found across southern Europe, North Africa, and the Middle East, this distinctive bald-headed ibis now survives mainly in Morocco. Reintroduction projects aim to restore European populations.",
+  "geojson": "northern-bald-ibis.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "aqueduct-of-padre-tembleque-hydraulic-system",
+  "name": "Aqueduct of Padre Tembleque Hydraulic System",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "This 16th century aqueduct is located between the states of Mexico and Hidalgo, on the Central Mexican Plateau. This heritage canal system encompasses a water catchment area, springs, canals, distribution tanks and arcaded aqueduct bridges. The site incorporates the highest single-level arcade ever built in an aqueduct. Initiated by the Franciscan friar, Padre Tembleque, and built with support from the local indigenous communities, this hydraulic system is an example of the exchange of influences between the European tradition of Roman hydraulics and traditional Mesoamerican construction techniques, including the use of adobe.",
+  "danger": false,
+  "geojson": "aqueduct-of-padre-tembleque-hydraulic-system.geojson"
+}

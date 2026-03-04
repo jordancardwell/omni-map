@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97543,
+          28.55623
+        ]
+      },
+      "properties": {
+        "code": "saint-catherine-area",
+        "name": "Saint Catherine Area",
+        "type": "Cultural",
+        "country": "Egypt",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

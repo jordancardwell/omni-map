@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55,
+          -1.1667
+        ]
+      },
+      "properties": {
+        "code": "la-diablada-pillaro",
+        "name": "La Diablada de Píllaro",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "January 1–6",
+        "location": "Píllaro, Ecuador"
+      }
+    }
+  ]
+}

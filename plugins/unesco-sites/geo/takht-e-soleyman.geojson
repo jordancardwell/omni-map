@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.235,
+          36.60388889
+        ]
+      },
+      "properties": {
+        "code": "takht-e-soleyman",
+        "name": "Takht-e Soleyman",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.1777194444,
+          -17.6280694444
+        ]
+      },
+      "properties": {
+        "code": "chief-roi-matas-domain",
+        "name": "Chief Roi Mata’s Domain",
+        "type": "Cultural",
+        "country": "Vanuatu",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "code": "lut-desert",
+  "name": "Lut Desert (Dasht-e Lut)",
+  "region": "Central Asia",
+  "aridityGroup": "1. Hyper-Arid",
+  "aridityClassification": "Hyper-Arid",
+  "aridityIndex": "< 0.05 — extreme thermal desert",
+  "area": "51,800 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 500000,
+  "affectedCountries": [
+    "Iran"
+  ],
+  "desertificationDrivers": [
+    "Extreme heat",
+    "Wind erosion",
+    "Qanat system decline",
+    "Water diversion"
+  ],
+  "desertFrontier": "Margins expanding into surrounding semi-arid basins",
+  "description": "The Lut Desert holds the record for the highest land surface temperature ever recorded by satellite: 70.7°C (159.3°F). The Gandom Beryan plateau is one of the most thermally extreme places on Earth. Traditional qanat water systems that sustained surrounding communities for millennia are declining.",
+  "geojson": "lut-desert.geojson"
+}

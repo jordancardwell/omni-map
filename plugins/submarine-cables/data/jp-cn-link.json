@@ -1,0 +1,16 @@
+{
+  "code": "jp-cn-link",
+  "name": "JP-CN Link",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 330,
+  "yearLaid": 2017,
+  "rfsDate": "2012-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Shanghai, China"
+  ],
+  "description": "JP-CN Link connecting Tokyo to Shanghai in East Asia.",
+  "geojson": "jp-cn-link.geojson"
+}

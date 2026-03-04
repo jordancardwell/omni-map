@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4391666667,
+          35.3802777778
+        ]
+      },
+      "properties": {
+        "code": "qinghai-hoh-xil",
+        "name": "Qinghai Hoh Xil",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

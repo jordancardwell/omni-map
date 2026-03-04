@@ -1,0 +1,16 @@
+{
+  "code": "us-es-cable",
+  "name": "US-ES Cable",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 10762,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Miami, USA",
+    "Barcelona, Spain"
+  ],
+  "description": "US-ES Cable connecting Miami to Barcelona.",
+  "geojson": "us-es-cable.geojson"
+}

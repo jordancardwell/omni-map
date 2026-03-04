@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bw","name":"Botswana","country":"BW","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[20,-26.9],[20,-17.8],[29.4,-17.8],[29.4,-26.9],[20,-26.9]]]}}]}

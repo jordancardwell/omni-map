@@ -1,0 +1,8 @@
+{
+  "code": "west-coast-americas",
+  "name": "West Coast Americas Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Coastal shipping route running along the Pacific coast of the Americas from Alaska to Chile. Carries containerized goods, petroleum, and forest products.",
+  "geojson": "west-coast-americas.geojson"
+}

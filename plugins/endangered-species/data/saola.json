@@ -1,0 +1,18 @@
+{
+  "code": "saola",
+  "name": "Saola",
+  "scientificName": "Pseudoryx nghetinhensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Possibly fewer than 100",
+  "populationTrend": "Decreasing",
+  "habitatType": "Evergreen forest",
+  "threats": [
+    "Snare hunting",
+    "Habitat loss",
+    "Small population size"
+  ],
+  "conservationEfforts": "Saola Working Group coordinates conservation. Camera traps and community patrols in Annamite Mountains. Saola breeding program planned but no captive individuals exist.",
+  "description": "Discovered in 1992, the saola is one of the rarest large mammals on Earth. Known as the Asian unicorn, it has only been documented in the wild a handful of times in the forests of Vietnam and Laos.",
+  "geojson": "saola.geojson"
+}

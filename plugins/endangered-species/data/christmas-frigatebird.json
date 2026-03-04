@@ -1,0 +1,19 @@
+{
+  "code": "christmas-frigatebird",
+  "name": "Christmas Island Frigatebird",
+  "scientificName": "Fregata andrewsi",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~2,400 pairs",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical forest and ocean",
+  "threats": [
+    "Habitat loss",
+    "Invasive species",
+    "Marine pollution",
+    "Climate change"
+  ],
+  "conservationEfforts": "Christmas Island National Park protects nesting habitat. Crazy ant control using biological methods. Marine protection around the island.",
+  "description": "A large seabird that breeds only on Christmas Island in the Indian Ocean. Males inflate a brilliant red throat pouch to attract mates. They are kleptoparasites, stealing food from other seabirds in flight.",
+  "geojson": "christmas-frigatebird.geojson"
+}

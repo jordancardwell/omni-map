@@ -1,0 +1,15 @@
+{
+  "code": "historic-jeddah-the-gate-to-makkah",
+  "name": "Historic Jeddah, the Gate to Makkah",
+  "type": "Cultural",
+  "country": "Saudi Arabia",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th century AD it was established as a major port for Indian Ocean trade routes, channelling goods to Mecca. It was also the gateway for Muslim pilgrims to Mecca who arrived by sea. These twin roles saw the city develop into a thriving multicultural centre, characterized by a distinctive architectural tradition, including tower houses built in the late 19th century by the city’s mercantile elites, and combining Red Sea coastal coral building traditions with influences and crafts from along the trade routes.",
+  "danger": false,
+  "geojson": "historic-jeddah-the-gate-to-makkah.geojson"
+}

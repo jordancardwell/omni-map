@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2927777778,
+          41.443
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-guimaraes-and-couros-zone",
+        "name": "Historic Centre of Guimarães and Couros Zone",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

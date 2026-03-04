@@ -1,0 +1,14 @@
+{
+  "code": "salvador",
+  "name": "Port of Salvador",
+  "country": "Brazil",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Atlantic Southern Route"
+  ],
+  "description": "Port of Salvador in Brazil. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+  "geojson": "salvador.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "historic-fortified-town-of-campeche",
+  "name": "Historic Fortified Town of Campeche",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Campeche is a typical example of a harbour town from the Spanish colonial period in the New World. The historic centre has kept its outer walls and system of fortifications, designed to defend this Caribbean port against attacks from the sea.",
+  "danger": false,
+  "geojson": "historic-fortified-town-of-campeche.geojson"
+}

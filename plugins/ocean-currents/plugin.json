@@ -1,0 +1,37 @@
+{
+  "id": "ocean-currents",
+  "name": "Ocean Currents",
+  "description": "Major ocean currents showing global water circulation patterns — warm, cold, and deep currents with flow direction indicators",
+  "type": "lines",
+  "version": "1.0.0",
+  "icon": "waves",
+  "defaultColor": "#0EA5E9",
+  "categories": ["climate", "environment", "oceanography"],
+  "dataType": "lines",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#0EA5E9",
+  "schema": "OceanCurrentMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "currentType", "origin", "destination", "climateEffects", "description"],
+    "groupBy": "currentType",
+    "titleField": "name",
+    "subtitleField": "origin",
+    "badgeField": "currentType",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "currentType"
+  },
+  "detailFields": [
+    { "key": "currentType", "label": "Type", "type": "status-badge", "statusColors": { "Warm": "#EF4444", "Cold": "#3B82F6", "Deep": "#8B5CF6" } },
+    { "key": "speedRange", "label": "Speed Range", "type": "text" },
+    { "key": "origin", "label": "Origin", "type": "text" },
+    { "key": "destination", "label": "Destination", "type": "text" },
+    { "key": "climateEffects", "label": "Climate Effects", "type": "tags" },
+    { "key": "connectedEcosystems", "label": "Connected Ecosystems", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

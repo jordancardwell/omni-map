@@ -1,0 +1,17 @@
+{
+  "code": "sn",
+  "name": "Senegal",
+  "avgDownloadMbps": 10.2,
+  "avgUploadMbps": 4.2,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 14.8,
+  "mobileUploadMbps": 3.4,
+  "fixedDownloadMbps": 10.2,
+  "fixedUploadMbps": 4.2,
+  "rank": 141,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "West African broadband expanding. ~16% year-over-year growth.",
+  "geojson": "sn.geojson"
+}

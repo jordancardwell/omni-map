@@ -1,0 +1,23 @@
+{
+  "code": "observatorio-tololo-site",
+  "name": "Cerro Tololo/NOIRLab Chile",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2215,
+  "aperture": "Various",
+  "telescopes": [
+    "Blanco 4m",
+    "SOAR",
+    "SMARTS",
+    "DECam"
+  ],
+  "keyDiscoveries": [
+    "Dark Energy Survey completed",
+    "Optical transient follow-up",
+    "Asteroseismology"
+  ],
+  "location": "Cerro Tololo/NOIRLab Chile, Chile",
+  "description": "NOIRLab's flagship southern hemisphere site hosting the Blanco 4m with DECam, SOAR 4.1m, and SMARTS consortium telescopes for multi-scale observations.",
+  "geojson": "observatorio-tololo-site.geojson"
+}

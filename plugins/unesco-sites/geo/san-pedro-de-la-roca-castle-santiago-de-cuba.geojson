@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.870441,
+          19.968446
+        ]
+      },
+      "properties": {
+        "code": "san-pedro-de-la-roca-castle-santiago-de-cuba",
+        "name": "San Pedro de la Roca Castle, Santiago de Cuba",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "fra-mad",
+  "name": "Frankfurt — Madrid",
+  "airports": [
+    "FRA",
+    "MAD"
+  ],
+  "distanceKm": 1420,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Lufthansa",
+    "Iberia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "FRA–MAD route between Frankfurt and Madrid. Distance: 1,420 km. ~80 weekly flights operated by Lufthansa, Iberia.",
+  "geojson": "fra-mad.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9425,
+          20.7225
+        ]
+      },
+      "properties": {
+        "code": "maratha-military-landscapes-of-india",
+        "name": "Maratha Military Landscapes of India",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

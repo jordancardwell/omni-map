@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.54264,
+          59.33514
+        ]
+      },
+      "properties": {
+        "code": "birka-and-hovgarden",
+        "name": "Birka and Hovgården",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

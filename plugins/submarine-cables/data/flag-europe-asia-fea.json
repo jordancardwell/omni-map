@@ -1,0 +1,25 @@
+{
+  "code": "flag-europe-asia-fea",
+  "name": "FLAG Europe-Asia (FEA)",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 28000,
+  "yearLaid": 1997,
+  "rfsDate": "1997-11",
+  "owner": "Global Cloud Xchange",
+  "landingPoints": [
+    "Porthcurno, UK",
+    "Barcelona, Spain",
+    "Palermo, Italy",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Mumbai, India",
+    "Chennai, India",
+    "Bangkok, Thailand",
+    "Hong Kong, China",
+    "Shanghai, China",
+    "Tokyo, Japan"
+  ],
+  "description": "One of the first privately funded submarine cables circling the Eastern Hemisphere.",
+  "geojson": "flag-europe-asia-fea.geojson"
+}

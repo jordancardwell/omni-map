@@ -1,0 +1,17 @@
+{
+  "code": "ang",
+  "name": "Netherlands Antillean Guilder",
+  "isoCode": "ANG",
+  "symbol": "NAƒ",
+  "region": "Americas",
+  "centralBank": "Central Bank of Curaçao and Sint Maarten",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Curaçao",
+    "Sint Maarten"
+  ],
+  "countryCount": 2,
+  "description": "The Netherlands Antillean Guilder continues to be used in Curaçao and Sint Maarten, both constituent countries of the Kingdom of the Netherlands.",
+  "historicalNotes": "The guilder survived the dissolution of the Netherlands Antilles in 2010. Plans exist to replace it with a Caribbean guilder.",
+  "geojson": "ang.geojson"
+}

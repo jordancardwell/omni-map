@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9275,
+          39.6239413889
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-corfu",
+        "name": "Old Town of Corfu",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

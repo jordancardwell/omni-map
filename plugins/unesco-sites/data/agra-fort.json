@@ -1,0 +1,14 @@
+{
+  "code": "agra-fort",
+  "name": "Agra Fort",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
+  "danger": false,
+  "geojson": "agra-fort.geojson"
+}

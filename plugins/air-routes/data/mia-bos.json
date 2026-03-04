@@ -1,0 +1,18 @@
+{
+  "code": "mia-bos",
+  "name": "Miami — Boston",
+  "airports": [
+    "MIA",
+    "BOS"
+  ],
+  "distanceKm": 2028,
+  "weeklyFlights": 50,
+  "airlines": [
+    "American",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MIA–BOS route between Miami and Boston. Distance: 2,028 km. ~50 weekly flights operated by American, JetBlue.",
+  "geojson": "mia-bos.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "philippine-tarsier",
+  "name": "Philippine Tarsier",
+  "scientificName": "Carlito syrichta",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~5,000-10,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical forest",
+  "threats": [
+    "Habitat loss",
+    "Hunting",
+    "Pet trade",
+    "Tourism disturbance"
+  ],
+  "conservationEfforts": "Philippine Tarsier Foundation protects habitat in Bohol. Strict regulations against keeping as pets. Ecotourism managed to reduce disturbance.",
+  "description": "One of the smallest primates with enormous eyes (each as large as its brain). Found only in the Philippines, they are highly sensitive to stress and can die from loud noises or handling.",
+  "geojson": "philippine-tarsier.geojson"
+}

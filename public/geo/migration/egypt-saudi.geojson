@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "egypt-saudi", "name": "Egypt \u2192 Saudi Arabia", "migrantVolume": 3}, "geometry": {"type": "LineString", "coordinates": [[31, 30], [34, 28], [37, 26], [40, 25]]}}]}

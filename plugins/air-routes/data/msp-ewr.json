@@ -1,0 +1,18 @@
+{
+  "code": "msp-ewr",
+  "name": "Minneapolis — Newark",
+  "airports": [
+    "MSP",
+    "EWR"
+  ],
+  "distanceKm": 1618,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–EWR route between Minneapolis and Newark. Distance: 1,618 km. ~40 weekly flights operated by Delta, United.",
+  "geojson": "msp-ewr.geojson"
+}

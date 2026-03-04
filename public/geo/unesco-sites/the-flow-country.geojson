@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0461111111,
+          58.3991666667
+        ]
+      },
+      "properties": {
+        "code": "the-flow-country",
+        "name": "The Flow Country",
+        "type": "Natural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

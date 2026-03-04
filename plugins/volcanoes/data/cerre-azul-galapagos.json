@@ -1,0 +1,19 @@
+{
+  "code": "cerre-azul-galapagos",
+  "name": "Cerro Azul",
+  "volcanoType": "Shield volcano",
+  "status": "Historically Active",
+  "elevation": 1690,
+  "lastEruption": "2008",
+  "vei": 2,
+  "country": "Ecuador",
+  "region": "Galápagos",
+  "location": "Galápagos, Ecuador",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows"
+  ],
+  "eruptionHistory": "Has erupted 10 times since 1932. Eruptions are typically effusive, producing lava flows.",
+  "description": "Cerro Azul is the southwesternmost volcano on Isabela Island in the Galápagos. Its eruptions can threaten unique endemic species.",
+  "geojson": "cerre-azul-galapagos.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.276944444,
+          53.13972222
+        ]
+      },
+      "properties": {
+        "code": "castles-and-town-walls-of-king-edward-in-gwynedd",
+        "name": "Castles and Town Walls of King Edward in Gwynedd",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

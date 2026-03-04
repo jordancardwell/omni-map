@@ -1,0 +1,17 @@
+{
+  "code": "my",
+  "name": "Malaysia",
+  "avgDownloadMbps": 93.8,
+  "avgUploadMbps": 52.6,
+  "avgLatencyMs": 14,
+  "mobileDownloadMbps": 42.8,
+  "mobileUploadMbps": 9.6,
+  "fixedDownloadMbps": 93.8,
+  "fixedUploadMbps": 52.6,
+  "rank": 49,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "JENDELA plan driving national connectivity. ~16% year-over-year improvement.",
+  "geojson": "my.geojson"
+}

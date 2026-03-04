@@ -1,0 +1,25 @@
+{
+  "code": "mali-empire",
+  "name": "Mali Empire",
+  "era": "Medieval",
+  "peakYear": "1350 CE",
+  "areaAtPeakKm2": 1240000,
+  "populationEstimate": "20 million",
+  "capital": "Niani",
+  "keyAchievements": [
+    "Timbuktu as learning center",
+    "Mansa Musa's wealth",
+    "Trans-Saharan trade control",
+    "Sankore University",
+    "Gold and salt trade"
+  ],
+  "declineFactors": [
+    "Succession disputes",
+    "Songhai expansion",
+    "Loss of trade routes",
+    "Provincial rebellion",
+    "Mossi raids"
+  ],
+  "description": "The Mali Empire (c. 1235–1600) was one of the wealthiest and most powerful states in African history. Founded by Sundiata Keita, it dominated West Africa through control of the gold and salt trade across the Sahara.\n\nMansa Musa, Mali's most famous ruler, is often considered the wealthiest person in history. His 1324 pilgrimage to Mecca was so lavish that he reportedly crashed the gold market in Cairo. Timbuktu became a renowned center of Islamic learning, housing the famous Sankore University.",
+  "geojson": "mali-empire.geojson"
+}

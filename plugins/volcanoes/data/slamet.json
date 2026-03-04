@@ -1,0 +1,21 @@
+{
+  "code": "slamet",
+  "name": "Mount Slamet",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3432,
+  "lastEruption": "2014",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Java",
+  "location": "Java, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "The second-highest volcano in Java. Has erupted over 20 times since 1772.",
+  "description": "Mount Slamet is the second-highest peak in Java and one of its most active volcanoes, with a history of frequent eruptions.",
+  "geojson": "slamet.geojson"
+}

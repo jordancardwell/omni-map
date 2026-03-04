@@ -1,0 +1,16 @@
+{
+  "code": "uk-in-express",
+  "name": "UK-IN Express",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 6699,
+  "yearLaid": 2012,
+  "rfsDate": "2016-06",
+  "owner": "Tata",
+  "landingPoints": [
+    "London, UK",
+    "Mumbai, India"
+  ],
+  "description": "UK-IN Express connecting London to Mumbai.",
+  "geojson": "uk-in-express.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "gmrt",
+  "name": "Giant Metrewave Radio Telescope",
+  "country": "India",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 650,
+  "aperture": "30 × 45 m dishes",
+  "telescopes": [
+    "uGMRT"
+  ],
+  "keyDiscoveries": [
+    "Low-frequency radio surveys",
+    "Pulsars",
+    "Galaxy clusters"
+  ],
+  "location": "Giant Metrewave Radio Telescope, India",
+  "description": "Array of 30 dishes near Pune, India. After upgrade to uGMRT, it is the world's most sensitive radio telescope at meter wavelengths.",
+  "geojson": "gmrt.geojson"
+}

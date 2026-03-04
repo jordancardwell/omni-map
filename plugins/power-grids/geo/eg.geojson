@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"eg","name":"Egypt","country":"EG","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[24.7,22],[24.7,31.7],[36.9,31.7],[36.9,22],[24.7,22]]]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "libya-italy",
+  "name": "Libya-Italy",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 313,
+  "yearLaid": 2014,
+  "rfsDate": "2014-06",
+  "owner": "LPTIC",
+  "landingPoints": [
+    "Catania, Italy",
+    "Tripoli, Libya"
+  ],
+  "description": "Libya-Italy cable connecting Catania to Tripoli across the Mediterranean.",
+  "geojson": "libya-italy.geojson"
+}

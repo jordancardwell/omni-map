@@ -1,0 +1,25 @@
+{
+  "code": "abbasid-caliphate",
+  "name": "Abbasid Caliphate",
+  "era": "Medieval",
+  "peakYear": "850 CE",
+  "areaAtPeakKm2": 11100000,
+  "populationEstimate": "50 million",
+  "capital": "Baghdad",
+  "keyAchievements": [
+    "House of Wisdom",
+    "Islamic Golden Age",
+    "Algebra and algorithm development",
+    "Medical advances",
+    "Translation movement"
+  ],
+  "declineFactors": [
+    "Fragmentation into emirates",
+    "Turkish military influence",
+    "Mongol sack of Baghdad",
+    "Buyid and Seljuk domination",
+    "Loss of political authority"
+  ],
+  "description": "The Abbasid Caliphate (750–1258 CE) presided over the Islamic Golden Age, a period of extraordinary scientific, cultural, and intellectual achievement. Centered in Baghdad, the empire became the world's foremost center of learning.\n\nThe House of Wisdom in Baghdad translated and preserved Greek, Persian, and Indian texts, making advances in mathematics (algebra, algorithms), medicine, astronomy, and philosophy. The Mongol destruction of Baghdad in 1258 is considered one of history's greatest cultural catastrophes.",
+  "geojson": "abbasid-caliphate.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "polka",
+  "name": "Polka",
+  "region": "Bohemia, Czech Republic",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Accordion",
+    "Trumpet",
+    "Clarinet",
+    "Tuba",
+    "Drums"
+  ],
+  "keyArtists": [
+    "Frankie Yankovic",
+    "Jimmy Sturr",
+    "Eddie Blazonczyk",
+    "Lojze Slak",
+    "Brave Combo"
+  ],
+  "description": "Polka is a lively Central European dance and music genre originating in Bohemia in the 1830s. In 2/4 time with a characteristic oom-pah pattern, polka rapidly spread across Europe and to immigrant communities in the Americas. Regional variants include Czech, Polish, Slovenian, and Tex-Mex styles. The dance and music remain central to festivals and celebrations throughout Central Europe.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Polka",
+      "url": "https://folkways.si.edu/search?query=polka"
+    }
+  ],
+  "geojson": "polka.geojson"
+}

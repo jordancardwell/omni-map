@@ -1,0 +1,16 @@
+{
+  "code": "kizhi-pogost",
+  "name": "Kizhi Pogost",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The pogost of Kizhi (i.e. the Kizhi enclosure) is located on one of the many islands in Lake Onega, in Karelia. Two 18th-century wooden churches, and an octagonal clock tower, also in wood and built in 1862, can be seen there. These unusual constructions, in which carpenters created a bold visionary architecture, perpetuate an ancient model of parish space and are in harmony with the surrounding landscape.",
+  "danger": false,
+  "geojson": "kizhi-pogost.geojson"
+}

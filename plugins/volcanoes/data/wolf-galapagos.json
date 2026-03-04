@@ -1,0 +1,19 @@
+{
+  "code": "wolf-galapagos",
+  "name": "Wolf Volcano",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1710,
+  "lastEruption": "2022",
+  "vei": 2,
+  "country": "Ecuador",
+  "region": "Galápagos",
+  "location": "Galápagos, Ecuador",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows"
+  ],
+  "eruptionHistory": "The highest volcano in the Galápagos. Erupted in 2015 and 2022. The 2015 eruption threatened the habitat of the only population of pink iguanas.",
+  "description": "Wolf Volcano is the highest point in the Galápagos Islands. It is home to the only population of Galápagos pink land iguanas, threatened by volcanic eruptions.",
+  "geojson": "wolf-galapagos.geojson"
+}

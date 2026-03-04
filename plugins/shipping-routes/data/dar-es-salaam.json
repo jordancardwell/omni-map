@@ -1,0 +1,14 @@
+{
+  "code": "dar-es-salaam",
+  "name": "Port of Dar es Salaam",
+  "country": "Tanzania",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 18,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East African Coastal Route"
+  ],
+  "description": "Port of Dar es Salaam in Tanzania. Annual cargo throughput: ~18 million tons. Type: Multi-Purpose Port.",
+  "geojson": "dar-es-salaam.geojson"
+}

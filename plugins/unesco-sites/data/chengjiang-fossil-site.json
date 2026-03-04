@@ -1,0 +1,14 @@
+{
+  "code": "chengjiang-fossil-site",
+  "name": "Chengjiang Fossil Site",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "A hilly 512 ha site in Yunnan province, Chengjiang’s fossils present the most complete record of an early Cambrian marine community with exceptionally preserved biota, displaying the anatomy of hard and soft tissues in a very wide variety of organisms, invertebrate and vertebrate. They record the early establishment of a complex marine ecosystem. The site documents at least sixteen phyla and a variety of enigmatic groups as well as about 196 species, presenting exceptional testimony to the rapid diversification of life on Earth 530 million years ago, when almost all of today’s major animal groups emerged. It opens a palaeobiological window of great significance to scholarship.",
+  "danger": false,
+  "geojson": "chengjiang-fossil-site.geojson"
+}

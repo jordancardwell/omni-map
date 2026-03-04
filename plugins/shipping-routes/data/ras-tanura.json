@@ -1,0 +1,14 @@
+{
+  "code": "ras-tanura",
+  "name": "Ras Tanura",
+  "country": "Saudi Arabia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 250,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Ras Tanura in Saudi Arabia. Annual cargo throughput: ~250 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "ras-tanura.geojson"
+}

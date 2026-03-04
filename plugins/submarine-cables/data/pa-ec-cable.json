@@ -1,0 +1,16 @@
+{
+  "code": "pa-ec-cable",
+  "name": "PA-EC Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 7566,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Telconet",
+  "landingPoints": [
+    "Panama City, Panama",
+    "Guayaquil, Ecuador"
+  ],
+  "description": "PA-EC Cable connecting Panama City to Guayaquil.",
+  "geojson": "pa-ec-cable.geojson"
+}

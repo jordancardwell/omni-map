@@ -1,0 +1,16 @@
+{
+  "code": "pf-ck-cable",
+  "name": "PF-CK Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2544,
+  "yearLaid": 2021,
+  "rfsDate": "2022-06",
+  "owner": "OPT PF",
+  "landingPoints": [
+    "Papeete, French Polynesia",
+    "Rarotonga, Cook Islands"
+  ],
+  "description": "PF-CK Cable connecting Papeete to Rarotonga in the Pacific.",
+  "geojson": "pf-ck-cable.geojson"
+}

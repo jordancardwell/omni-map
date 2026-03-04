@@ -1,0 +1,17 @@
+{
+  "code": "gru-iah",
+  "name": "São Paulo — Houston",
+  "airports": [
+    "GRU",
+    "IAH"
+  ],
+  "distanceKm": 7905,
+  "weeklyFlights": 15,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–IAH route between São Paulo and Houston. Distance: 7,905 km. ~15 weekly flights operated by United.",
+  "geojson": "gru-iah.geojson"
+}

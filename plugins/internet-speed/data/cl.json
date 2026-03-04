@@ -1,0 +1,17 @@
+{
+  "code": "cl",
+  "name": "Chile",
+  "avgDownloadMbps": 98.6,
+  "avgUploadMbps": 42.3,
+  "avgLatencyMs": 22,
+  "mobileDownloadMbps": 32.4,
+  "mobileUploadMbps": 7.8,
+  "fixedDownloadMbps": 98.6,
+  "fixedUploadMbps": 42.3,
+  "rank": 46,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Leading South American broadband market. ~15% year-over-year growth.",
+  "geojson": "cl.geojson"
+}

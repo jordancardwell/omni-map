@@ -1,0 +1,15 @@
+{
+  "code": "amu-darya-basin",
+  "name": "Amu Darya Basin",
+  "region": "Central Asia",
+  "stressGroup": "4. High (40-80%)",
+  "waterStressLevel": "High",
+  "waterStressRatio": "~75% — withdrawal-to-availability",
+  "depletionRate": "Very High — primary cause of Aral Sea desiccation",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 45000000,
+  "riskFactors": ["Cotton irrigation", "Aral Sea crisis", "Glacier retreat", "Transboundary disputes", "Salinization"],
+  "description": "The Amu Darya — Central Asia's largest river — once sustained the Aral Sea. Soviet-era cotton irrigation diverted nearly all flow, causing the Aral Sea to lose 90% of its volume by 2010. Uzbekistan and Turkmenistan extract over 75% of river flow for agriculture, leaving downstream ecosystems devastated. Pamir glacier retreat threatens the long-term water source.",
+  "geojson": "amu-darya-basin.geojson"
+}

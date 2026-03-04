@@ -1,0 +1,15 @@
+{
+  "code": "the-gedeo-cultural-landscape",
+  "name": "The Gedeo Cultural Landscape",
+  "type": "Cultural",
+  "country": "Ethiopia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "The property lies along the eastern edge of the Main Ethiopian Rift, on the steep escarpments of the Ethiopian highlands. An area of agroforestry, it utilizes multilayer cultivation with large trees sheltering indigenous enset, the main food crop, under which grow coffee and other shrubs. The area is densely populated by the Gedeo people whose traditional knowledge support local forest management. Within the cultivated mountain slopes are sacred forests traditionally used by local communities for rituals associated with the Gedeo religion, and along the mountain ridges are dense clusters of megalithic monuments, which came to be revered by the Gedeo and cared for by their elders.",
+  "danger": false,
+  "geojson": "the-gedeo-cultural-landscape.geojson"
+}

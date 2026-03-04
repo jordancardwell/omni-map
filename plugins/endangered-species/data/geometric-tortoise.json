@@ -1,0 +1,19 @@
+{
+  "code": "geometric-tortoise",
+  "name": "Geometric Tortoise",
+  "scientificName": "Psammobates geometricus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~2,000-3,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Lowland renosterveld",
+  "threats": [
+    "Habitat loss to agriculture",
+    "Fire",
+    "Invasive plants",
+    "Predation"
+  ],
+  "conservationEfforts": "Elandsberg Private Nature Reserve protects key populations. Habitat restoration of renosterveld patches. CapeNature manages protected areas.",
+  "description": "One of the rarest tortoises in the world, found only in lowland renosterveld habitat in the Western Cape of South Africa. Over 97% of its habitat has been lost to wheat farming and urbanization.",
+  "geojson": "geometric-tortoise.geojson"
+}

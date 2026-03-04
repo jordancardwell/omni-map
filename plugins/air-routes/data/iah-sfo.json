@@ -1,0 +1,17 @@
+{
+  "code": "iah-sfo",
+  "name": "Houston — San Francisco",
+  "airports": [
+    "IAH",
+    "SFO"
+  ],
+  "distanceKm": 2628,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–SFO route between Houston and San Francisco. Distance: 2,628 km. ~40 weekly flights operated by United.",
+  "geojson": "iah-sfo.geojson"
+}

@@ -1,0 +1,24 @@
+{
+  "code": "east-asian-australasian",
+  "name": "East Asian\u2013Australasian Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "East Asia to Australasia",
+  "badgeValue": "~490 species",
+  "speciesCount": "~490 migratory species including spoon-billed sandpiper, cranes, and shorebirds",
+  "keyStopoverSites": [
+    "Yellow Sea Tidal Flats",
+    "Ariake Bay Japan",
+    "Mai Po Hong Kong",
+    "Broome Australia",
+    "Miranda NZ"
+  ],
+  "threats": [
+    "Tidal flat reclamation",
+    "Industrial development",
+    "Pollution",
+    "Climate change",
+    "Hunting"
+  ],
+  "description": "The East Asian\u2013Australasian Flyway is the most threatened of all global flyways, with the highest number of declining species. It stretches from Arctic Russia through East and Southeast Asia to Australia and New Zealand. The Yellow Sea tidal flats \u2014 shared by China and South Korea \u2014 are its most critical habitat, supporting millions of shorebirds, but over 65% have been lost to land reclamation since the 1950s. The Spoon-billed Sandpiper, one of the world's rarest birds (<500 individuals), depends entirely on this flyway.",
+  "geojson": "east-asian-australasian.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "tl",
+  "name": "East Timor",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "E",
+    "F",
+    "I"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of plug types. Universal adapter recommended.",
+  "geojson": "tl.geojson"
+}

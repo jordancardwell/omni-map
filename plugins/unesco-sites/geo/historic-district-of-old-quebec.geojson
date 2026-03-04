@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21055556,
+          46.80944444
+        ]
+      },
+      "properties": {
+        "code": "historic-district-of-old-quebec",
+        "name": "Historic District of Old Québec",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

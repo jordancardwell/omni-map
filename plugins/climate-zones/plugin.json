@@ -1,0 +1,38 @@
+{
+  "id": "climate-zones",
+  "name": "Climate Zones (Köppen-Geiger)",
+  "description": "Global climate classification zones based on the Köppen-Geiger system",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#2E86C1",
+  "categories": ["climate", "geography", "environment"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#2E86C1",
+  "schema": "ClimateZoneMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "group", "exampleCities", "description"],
+    "groupBy": "group",
+    "titleField": "name",
+    "subtitleField": "code",
+    "badgeField": "code",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "code"
+  },
+  "detailFields": [
+    { "key": "code", "label": "Köppen Code", "type": "text" },
+    { "key": "group", "label": "Climate Group", "type": "text" },
+    { "key": "temperatureRange", "label": "Temperature Range", "type": "text" },
+    { "key": "precipitationPattern", "label": "Precipitation Pattern", "type": "text" },
+    { "key": "vegetation", "label": "Typical Vegetation", "type": "text" },
+    { "key": "exampleCities", "label": "Example Cities", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "typicalWeather", "label": "Typical Weather", "type": "markdown" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0,
+          39.66861
+        ]
+      },
+      "properties": {
+        "code": "samarkand-crossroad-of-cultures",
+        "name": "Samarkand – Crossroad of Cultures",
+        "type": "Cultural",
+        "country": "Uzbekistan",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

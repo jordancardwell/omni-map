@@ -1,0 +1,14 @@
+{
+  "code": "sapporo-snow",
+  "name": "Sapporo Snow Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Early February",
+  "origin": "Japanese tradition",
+  "estimatedAttendance": "2+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Massive snow and ice sculptures at Odori Park; snow slides; international snow sculpture contest; Susukino ice sculpture display.",
+  "historicalBackground": "The Sapporo Snow Festival began in 1950 when local high school students built six snow statues in Odori Park. It has grown into Japan's largest winter event.",
+  "description": "Japan's premier winter festival, where Sapporo's parks fill with towering snow sculptures and glittering ice art.",
+  "location": "Sapporo, Japan",
+  "geojson": "sapporo-snow.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "ca",
+  "name": "Canada",
+  "avgDownloadMbps": 168.3,
+  "avgUploadMbps": 24.8,
+  "avgLatencyMs": 18,
+  "mobileDownloadMbps": 85.4,
+  "mobileUploadMbps": 13.7,
+  "fixedDownloadMbps": 168.3,
+  "fixedUploadMbps": 24.8,
+  "rank": 23,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "North America",
+  "dataYear": 2024,
+  "trendDescription": "Fiber expansion in urban centers. ~10% year-over-year improvement.",
+  "geojson": "ca.geojson"
+}

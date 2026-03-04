@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5899166667,
+          37.1767777778
+        ]
+      },
+      "properties": {
+        "code": "alhambra-generalife-and-albayzin-granada",
+        "name": "Alhambra, Generalife and Albayzín, Granada",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

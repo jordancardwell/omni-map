@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"dhole","name":"Dhole"},"geometry":{"type":"Polygon","coordinates":[[[70,10],[105,10],[110,20],[105,30],[85,30],[70,20],[70,10]]]}}]}

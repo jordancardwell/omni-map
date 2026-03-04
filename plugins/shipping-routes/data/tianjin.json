@@ -1,0 +1,15 @@
+{
+  "code": "tianjin",
+  "name": "Port of Tianjin",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 520,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Tianjin in China. Annual cargo throughput: ~520 million tons. Type: Multi-Purpose Port.",
+  "geojson": "tianjin.geojson"
+}

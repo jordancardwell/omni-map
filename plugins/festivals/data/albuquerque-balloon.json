@@ -1,0 +1,14 @@
+{
+  "code": "albuquerque-balloon",
+  "name": "Albuquerque Balloon Fiesta",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Early October",
+  "origin": "American tradition",
+  "estimatedAttendance": "850,000+ spectators",
+  "unescoICH": "Not inscribed",
+  "traditions": "Mass ascension of 500+ hot air balloons; special shape rodeo; balloon glow (night illumination); competitions; Dawn Patrol.",
+  "historicalBackground": "The first Albuquerque balloon festival in 1972 featured just 13 balloons. The Rio Grande Valley's stable weather patterns make it ideal for ballooning.",
+  "description": "The world's largest hot air balloon festival, filling Albuquerque's skies with over 500 colorful balloons in a spectacular mass ascension.",
+  "location": "Albuquerque, USA",
+  "geojson": "albuquerque-balloon.geojson"
+}

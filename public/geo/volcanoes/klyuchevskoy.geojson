@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[160.6422,56.0558]},"properties":{"code":"klyuchevskoy","name":"Klyuchevskoy","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":4750,"lastEruption":"2023","vei":4}}]}

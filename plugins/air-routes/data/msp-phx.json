@@ -1,0 +1,18 @@
+{
+  "code": "msp-phx",
+  "name": "Minneapolis — Phoenix",
+  "airports": [
+    "MSP",
+    "PHX"
+  ],
+  "distanceKm": 2051,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MSP–PHX route between Minneapolis and Phoenix. Distance: 2,051 km. ~50 weekly flights operated by Delta, Sun Country.",
+  "geojson": "msp-phx.geojson"
+}

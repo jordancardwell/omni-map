@@ -1,0 +1,17 @@
+{
+  "code": "st",
+  "name": "São Tomé and Príncipe",
+  "avgDownloadMbps": 8.6,
+  "avgUploadMbps": 2.8,
+  "avgLatencyMs": 42,
+  "mobileDownloadMbps": 8.4,
+  "mobileUploadMbps": 2.2,
+  "fixedDownloadMbps": 8.6,
+  "fixedUploadMbps": 2.8,
+  "rank": 146,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Small island state developing connectivity. ~10% year-over-year growth.",
+  "geojson": "st.geojson"
+}

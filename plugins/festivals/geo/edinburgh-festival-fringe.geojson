@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883,
+          55.9533
+        ]
+      },
+      "properties": {
+        "code": "edinburgh-festival-fringe",
+        "name": "Edinburgh Festival Fringe",
+        "festivalType": "Cultural",
+        "dateOrSeason": "August",
+        "location": "Edinburgh, UK"
+      }
+    }
+  ]
+}

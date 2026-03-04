@@ -1,0 +1,16 @@
+{
+  "code": "th-andaman",
+  "name": "TH Andaman",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2547,
+  "yearLaid": 2020,
+  "rfsDate": "2020-06",
+  "owner": "CAT Telecom",
+  "landingPoints": [
+    "Satun, Thailand",
+    "Songkhla, Thailand"
+  ],
+  "description": "TH Andaman connecting Satun to Songkhla in Southeast Asia.",
+  "geojson": "th-andaman.geojson"
+}

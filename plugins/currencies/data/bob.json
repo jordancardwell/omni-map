@@ -1,0 +1,16 @@
+{
+  "code": "bob",
+  "name": "Bolivian Boliviano",
+  "isoCode": "BOB",
+  "symbol": "Bs.",
+  "region": "Americas",
+  "centralBank": "Central Bank of Bolivia",
+  "exchangeRateEra": "Crawling peg to USD",
+  "countries": [
+    "Bolivia"
+  ],
+  "countryCount": 1,
+  "description": "The Boliviano is named after Simón Bolívar, the liberator of several South American nations. Bolivia has significant natural gas reserves.",
+  "historicalNotes": "The current boliviano was introduced in 1987, replacing the peso boliviano at a rate of 1,000,000:1 following hyperinflation in the 1980s.",
+  "geojson": "bob.geojson"
+}

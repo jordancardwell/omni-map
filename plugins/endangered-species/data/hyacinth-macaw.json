@@ -1,0 +1,18 @@
+{
+  "code": "hyacinth-macaw",
+  "name": "Hyacinth Macaw",
+  "scientificName": "Anodorhynchus hyacinthinus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~4,300 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Palm savanna and woodland",
+  "threats": [
+    "Illegal pet trade",
+    "Habitat loss",
+    "Fire"
+  ],
+  "conservationEfforts": "Instituto Arara Azul nest box program in the Pantanal. Community engagement protects nesting trees. Population stabilized through anti-poaching enforcement and habitat management.",
+  "description": "The world's largest parrot at 1 meter long, with brilliant cobalt-blue plumage. Their powerful beak can crack palm nuts that no other bird can open. They mate for life.",
+  "geojson": "hyacinth-macaw.geojson"
+}

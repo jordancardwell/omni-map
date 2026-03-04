@@ -1,0 +1,23 @@
+{
+  "code": "korean-medicine",
+  "name": "Korean Medicine",
+  "tradition": "East Asian",
+  "originRegion": "Korean Peninsula",
+  "estimatedPractitioners": 25000,
+  "whoRecognition": "Recognized — Regulated under South Korea's national health system; WHO TM classification includes Korean medicine",
+  "keyPractices": [
+    "Herbal medicine",
+    "Acupuncture",
+    "Sasang constitutional medicine",
+    "Moxibustion",
+    "Cupping",
+    "Chuna manual therapy"
+  ],
+  "regionsOfPractice": [
+    "South Korea",
+    "North Korea"
+  ],
+  "description": "Korean Medicine (Hanbang/Hanguk Uihak) evolved from Chinese medical traditions but developed unique characteristics, especially Sasang Constitutional Medicine, which classifies patients into four body types (Tae-Yang, Tae-Eum, So-Yang, So-Eum) and tailors treatment accordingly. South Korea maintains a dual healthcare system where Korean medicine doctors train for 6 years at dedicated medical schools and practice alongside Western physicians. There are approximately 25,000 licensed Korean medicine doctors in South Korea.",
+  "historicalNotes": "Korean medicine's defining text is the Dongui Bogam (1613) by Heo Jun, now a UNESCO Memory of the World document. It synthesized Chinese and Korean medical knowledge into a practical clinical manual organized by body systems. The Sasang Constitutional Medicine framework was developed by Lee Je-ma in 1894 and remains uniquely Korean. Modern South Korea established the Korean Medicine licensing system in 1951 and maintains 12 Korean Medicine universities.",
+  "geojson": "korean-medicine.geojson"
+}

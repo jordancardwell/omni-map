@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55,
+          43.06666667
+        ]
+      },
+      "properties": {
+        "code": "val-d-orcia",
+        "name": "Val d'Orcia",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

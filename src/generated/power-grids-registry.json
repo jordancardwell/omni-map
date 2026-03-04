@@ -1,0 +1,3640 @@
+[
+  {
+    "code": "ad",
+    "name": "Andorra",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as France/Spain. Standard European plugs.",
+    "geojson": "ad.geojson"
+  },
+  {
+    "code": "ae",
+    "name": "United Arab Emirates",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Primarily British-style (Type G). Hotels often provide adapters.",
+    "geojson": "ae.geojson"
+  },
+  {
+    "code": "ag",
+    "name": "Antigua and Barbuda",
+    "voltage": "230V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "US-style plug shape but at 230V. Ensure your device supports 220-240V before plugging in.",
+    "geojson": "ag.geojson"
+  },
+  {
+    "code": "al",
+    "name": "Albania",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "al.geojson"
+  },
+  {
+    "code": "am",
+    "name": "Armenia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "am.geojson"
+  },
+  {
+    "code": "ao",
+    "name": "Angola",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European Europlug.",
+    "geojson": "ao.geojson"
+  },
+  {
+    "code": "ar",
+    "name": "Argentina",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "I"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Uses angled flat-pin plugs (Type I). Adapter needed for most foreign devices.",
+    "geojson": "ar.geojson"
+  },
+  {
+    "code": "at",
+    "name": "Austria",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "at.geojson"
+  },
+  {
+    "code": "au",
+    "name": "Australia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Type I (angled flat pins) is unique to Australia/NZ/China. Adapter needed for all other devices.",
+    "geojson": "au.geojson"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijan",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "az.geojson"
+  },
+  {
+    "code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "ba.geojson"
+  },
+  {
+    "code": "bb",
+    "name": "Barbados",
+    "voltage": "115V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs at 50 Hz. Most modern electronics handle both frequencies.",
+    "geojson": "bb.geojson"
+  },
+  {
+    "code": "bd",
+    "name": "Bangladesh",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "C",
+      "D",
+      "G",
+      "K"
+    ],
+    "plugTypeCount": 5,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)",
+      "Type K — Three round pins (Danish style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types in use. Bring a universal adapter.",
+    "geojson": "bd.geojson"
+  },
+  {
+    "code": "be",
+    "name": "Belgium",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as France. European plugs work throughout Belgium.",
+    "geojson": "be.geojson"
+  },
+  {
+    "code": "bf",
+    "name": "Burkina Faso",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "bf.geojson"
+  },
+  {
+    "code": "bg",
+    "name": "Bulgaria",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "bg.geojson"
+  },
+  {
+    "code": "bh",
+    "name": "Bahrain",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "bh.geojson"
+  },
+  {
+    "code": "bi",
+    "name": "Burundi",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "bi.geojson"
+  },
+  {
+    "code": "bj",
+    "name": "Benin",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "bj.geojson"
+  },
+  {
+    "code": "bn",
+    "name": "Brunei",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "bn.geojson"
+  },
+  {
+    "code": "bo",
+    "name": "Bolivia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "C"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of US and European plug types at 230V. Verify device voltage.",
+    "geojson": "bo.geojson"
+  },
+  {
+    "code": "br",
+    "name": "Brazil",
+    "voltage": "127V/220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "C",
+      "N"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type N — Three round pins (Brazilian style)"
+    ],
+    "voltageStandard": "Dual",
+    "adapterNotes": "Voltage varies by region (127V in São Paulo/Rio, 220V in Brasília/south). Uses unique Type N plug. Bring adapter.",
+    "geojson": "br.geojson"
+  },
+  {
+    "code": "bs",
+    "name": "Bahamas",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "bs.geojson"
+  },
+  {
+    "code": "bt",
+    "name": "Bhutan",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of Indian and European plugs. Universal adapter recommended.",
+    "geojson": "bt.geojson"
+  },
+  {
+    "code": "bw",
+    "name": "Botswana",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G",
+      "M"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)",
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "South African/British-style plugs.",
+    "geojson": "bw.geojson"
+  },
+  {
+    "code": "by",
+    "name": "Belarus",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany/Russia. Standard European plugs.",
+    "geojson": "by.geojson"
+  },
+  {
+    "code": "bz",
+    "name": "Belize",
+    "voltage": "110V/220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "Dual",
+    "adapterNotes": "Mix of American and British outlets. Check voltage before plugging in. Adapter recommended.",
+    "geojson": "bz.geojson"
+  },
+  {
+    "code": "ca",
+    "name": "Canada",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "Same standard as the United States. No adapter needed for US devices.",
+    "geojson": "ca.geojson"
+  },
+  {
+    "code": "cd",
+    "name": "Democratic Republic of the Congo",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "cd.geojson"
+  },
+  {
+    "code": "cf",
+    "name": "Central African Republic",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "cf.geojson"
+  },
+  {
+    "code": "cg",
+    "name": "Republic of the Congo",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "cg.geojson"
+  },
+  {
+    "code": "ch",
+    "name": "Switzerland",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "J"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type J — Three round pins (Swiss style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Swiss Type J plugs are unique. Europlug (C) fits but grounded plugs need Swiss adapter.",
+    "geojson": "ch.geojson"
+  },
+  {
+    "code": "ci",
+    "name": "Ivory Coast",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "ci.geojson"
+  },
+  {
+    "code": "cl",
+    "name": "Chile",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "L"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European/Italian-style plugs. Adapter needed for US/UK devices.",
+    "geojson": "cl.geojson"
+  },
+  {
+    "code": "cm",
+    "name": "Cameroon",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "cm.geojson"
+  },
+  {
+    "code": "cn",
+    "name": "China",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "C",
+      "I"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types in use. Many outlets accept Type A (US-style) but at 220V — verify device voltage!",
+    "geojson": "cn.geojson"
+  },
+  {
+    "code": "co",
+    "name": "Colombia",
+    "voltage": "110V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "co.geojson"
+  },
+  {
+    "code": "cr",
+    "name": "Costa Rica",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "cr.geojson"
+  },
+  {
+    "code": "cu",
+    "name": "Cuba",
+    "voltage": "110V/220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "L"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "Dual",
+    "adapterNotes": "Dual voltage system. Hotels often have 220V outlets. Bring a universal adapter and check voltage.",
+    "geojson": "cu.geojson"
+  },
+  {
+    "code": "cv",
+    "name": "Cape Verde",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "cv.geojson"
+  },
+  {
+    "code": "cy",
+    "name": "Cyprus",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs (former British colony). Adapter needed for European/US devices.",
+    "geojson": "cy.geojson"
+  },
+  {
+    "code": "cz",
+    "name": "Czech Republic",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as France/Poland. Standard European plugs.",
+    "geojson": "cz.geojson"
+  },
+  {
+    "code": "de",
+    "name": "Germany",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Schuko (Type F) and Europlug. Standard throughout much of continental Europe.",
+    "geojson": "de.geojson"
+  },
+  {
+    "code": "dj",
+    "name": "Djibouti",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "dj.geojson"
+  },
+  {
+    "code": "dk",
+    "name": "Denmark",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E",
+      "F",
+      "K"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type K — Three round pins (Danish style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Danish Type K plus European standard. Europlug works in most outlets.",
+    "geojson": "dk.geojson"
+  },
+  {
+    "code": "dm",
+    "name": "Dominica",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British/Indian-style plugs. Adapter needed for US/European devices.",
+    "geojson": "dm.geojson"
+  },
+  {
+    "code": "do",
+    "name": "Dominican Republic",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "do.geojson"
+  },
+  {
+    "code": "dz",
+    "name": "Algeria",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "dz.geojson"
+  },
+  {
+    "code": "ec",
+    "name": "Ecuador",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "ec.geojson"
+  },
+  {
+    "code": "ee",
+    "name": "Estonia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "ee.geojson"
+  },
+  {
+    "code": "eg",
+    "name": "Egypt",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Standard Europlug works.",
+    "geojson": "eg.geojson"
+  },
+  {
+    "code": "er",
+    "name": "Eritrea",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "L"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European/Italian-style plugs.",
+    "geojson": "er.geojson"
+  },
+  {
+    "code": "es",
+    "name": "Spain",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs work throughout Spain.",
+    "geojson": "es.geojson"
+  },
+  {
+    "code": "et",
+    "name": "Ethiopia",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E",
+      "F",
+      "L"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "et.geojson"
+  },
+  {
+    "code": "fi",
+    "name": "Finland",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "fi.geojson"
+  },
+  {
+    "code": "fj",
+    "name": "Fiji",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "fj.geojson"
+  },
+  {
+    "code": "fm",
+    "name": "Micronesia",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs and voltage (US-associated territory).",
+    "geojson": "fm.geojson"
+  },
+  {
+    "code": "fr",
+    "name": "France",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French/European-style plugs. Type C (Europlug) fits most European outlets.",
+    "geojson": "fr.geojson"
+  },
+  {
+    "code": "ga",
+    "name": "Gabon",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European Europlug.",
+    "geojson": "ga.geojson"
+  },
+  {
+    "code": "gb",
+    "name": "United Kingdom",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British three-pin rectangular plugs. Adapter needed for all non-UK devices.",
+    "geojson": "gb.geojson"
+  },
+  {
+    "code": "gd",
+    "name": "Grenada",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "gd.geojson"
+  },
+  {
+    "code": "ge",
+    "name": "Georgia",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "ge.geojson"
+  },
+  {
+    "code": "gh",
+    "name": "Ghana",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs.",
+    "geojson": "gh.geojson"
+  },
+  {
+    "code": "gm",
+    "name": "Gambia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs.",
+    "geojson": "gm.geojson"
+  },
+  {
+    "code": "gn",
+    "name": "Guinea",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F",
+      "K"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type K — Three round pins (Danish style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "gn.geojson"
+  },
+  {
+    "code": "gq",
+    "name": "Equatorial Guinea",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "gq.geojson"
+  },
+  {
+    "code": "gr",
+    "name": "Greece",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "gr.geojson"
+  },
+  {
+    "code": "gt",
+    "name": "Guatemala",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "Same plugs as the US. No adapter needed for North American devices.",
+    "geojson": "gt.geojson"
+  },
+  {
+    "code": "gw",
+    "name": "Guinea-Bissau",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European Europlug.",
+    "geojson": "gw.geojson"
+  },
+  {
+    "code": "gy",
+    "name": "Guyana",
+    "voltage": "240V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types at 240V. Bring a universal adapter and verify device voltage.",
+    "geojson": "gy.geojson"
+  },
+  {
+    "code": "hk",
+    "name": "Hong Kong",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "hk.geojson"
+  },
+  {
+    "code": "hn",
+    "name": "Honduras",
+    "voltage": "110V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "hn.geojson"
+  },
+  {
+    "code": "hr",
+    "name": "Croatia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "hr.geojson"
+  },
+  {
+    "code": "ht",
+    "name": "Haiti",
+    "voltage": "110V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. Power supply can be unreliable; consider a surge protector.",
+    "geojson": "ht.geojson"
+  },
+  {
+    "code": "hu",
+    "name": "Hungary",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "hu.geojson"
+  },
+  {
+    "code": "id",
+    "name": "Indonesia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Standard Europlug works.",
+    "geojson": "id.geojson"
+  },
+  {
+    "code": "ie",
+    "name": "Ireland",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as UK plugs. Adapter needed for non-UK/Irish devices.",
+    "geojson": "ie.geojson"
+  },
+  {
+    "code": "il",
+    "name": "Israel",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "H"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type H — Three pins in V-shape (Israeli style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Unique Israeli Type H plug. Many outlets also accept Europlug (C).",
+    "geojson": "il.geojson"
+  },
+  {
+    "code": "in",
+    "name": "India",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "M"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Primarily Type D (three large round pins). Universal adapter recommended.",
+    "geojson": "in.geojson"
+  },
+  {
+    "code": "iq",
+    "name": "Iraq",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "iq.geojson"
+  },
+  {
+    "code": "ir",
+    "name": "Iran",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "ir.geojson"
+  },
+  {
+    "code": "is",
+    "name": "Iceland",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "is.geojson"
+  },
+  {
+    "code": "it",
+    "name": "Italy",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Uses Italian Type L in addition to European standard. Europlug (C) fits most outlets.",
+    "geojson": "it.geojson"
+  },
+  {
+    "code": "jm",
+    "name": "Jamaica",
+    "voltage": "110V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs but runs at 50 Hz. Most modern devices handle both frequencies.",
+    "geojson": "jm.geojson"
+  },
+  {
+    "code": "jo",
+    "name": "Jordan",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "J"
+    ],
+    "plugTypeCount": 6,
+    "plugDescriptions": [
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type G — Three rectangular pins (British style)",
+      "Type J — Three round pins (Swiss style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Wide variety of plug types. Universal adapter essential.",
+    "geojson": "jo.geojson"
+  },
+  {
+    "code": "jp",
+    "name": "Japan",
+    "voltage": "100V",
+    "frequency": "50/60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "Lowest voltage worldwide (100V). Eastern Japan 50 Hz, western 60 Hz. US plugs fit but voltage differs.",
+    "geojson": "jp.geojson"
+  },
+  {
+    "code": "ke",
+    "name": "Kenya",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "ke.geojson"
+  },
+  {
+    "code": "kg",
+    "name": "Kyrgyzstan",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Same as Russia.",
+    "geojson": "kg.geojson"
+  },
+  {
+    "code": "kh",
+    "name": "Cambodia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "C",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of plug types at 230V. Verify device voltage and bring adapter.",
+    "geojson": "kh.geojson"
+  },
+  {
+    "code": "ki",
+    "name": "Kiribati",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "ki.geojson"
+  },
+  {
+    "code": "km",
+    "name": "Comoros",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "km.geojson"
+  },
+  {
+    "code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "voltage": "230V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of plug types at 230V. Bring a universal adapter.",
+    "geojson": "kn.geojson"
+  },
+  {
+    "code": "kp",
+    "name": "North Korea",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Electricity supply may be unreliable.",
+    "geojson": "kp.geojson"
+  },
+  {
+    "code": "kr",
+    "name": "South Korea",
+    "voltage": "220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs at 60 Hz. Some older buildings may have 110V outlets.",
+    "geojson": "kr.geojson"
+  },
+  {
+    "code": "kw",
+    "name": "Kuwait",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Primarily British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "kw.geojson"
+  },
+  {
+    "code": "kz",
+    "name": "Kazakhstan",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Same as Russia.",
+    "geojson": "kz.geojson"
+  },
+  {
+    "code": "la",
+    "name": "Laos",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "plugTypeCount": 5,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types at 230V. Bring a universal adapter.",
+    "geojson": "la.geojson"
+  },
+  {
+    "code": "lb",
+    "name": "Lebanon",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 5,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types in use. Universal adapter recommended.",
+    "geojson": "lb.geojson"
+  },
+  {
+    "code": "lc",
+    "name": "Saint Lucia",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "lc.geojson"
+  },
+  {
+    "code": "li",
+    "name": "Liechtenstein",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "J"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type J — Three round pins (Swiss style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Switzerland. Swiss adapter needed for grounded plugs.",
+    "geojson": "li.geojson"
+  },
+  {
+    "code": "lk",
+    "name": "Sri Lanka",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G",
+      "M"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)",
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of Indian and British plugs. Universal adapter recommended.",
+    "geojson": "lk.geojson"
+  },
+  {
+    "code": "lr",
+    "name": "Liberia",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs and voltage. One of few African countries with 120V.",
+    "geojson": "lr.geojson"
+  },
+  {
+    "code": "ls",
+    "name": "Lesotho",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "M"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "South African-style plugs.",
+    "geojson": "ls.geojson"
+  },
+  {
+    "code": "lt",
+    "name": "Lithuania",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "lt.geojson"
+  },
+  {
+    "code": "lu",
+    "name": "Luxembourg",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "lu.geojson"
+  },
+  {
+    "code": "lv",
+    "name": "Latvia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "lv.geojson"
+  },
+  {
+    "code": "ly",
+    "name": "Libya",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "F",
+      "L"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "ly.geojson"
+  },
+  {
+    "code": "ma",
+    "name": "Morocco",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs. Standard Europlug works.",
+    "geojson": "ma.geojson"
+  },
+  {
+    "code": "mc",
+    "name": "Monaco",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E",
+      "F"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as France. Standard European plugs.",
+    "geojson": "mc.geojson"
+  },
+  {
+    "code": "md",
+    "name": "Moldova",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "md.geojson"
+  },
+  {
+    "code": "me",
+    "name": "Montenegro",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "me.geojson"
+  },
+  {
+    "code": "mg",
+    "name": "Madagascar",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "J",
+      "K"
+    ],
+    "plugTypeCount": 5,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type J — Three round pins (Swiss style)",
+      "Type K — Three round pins (Danish style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "mg.geojson"
+  },
+  {
+    "code": "mh",
+    "name": "Marshall Islands",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs and voltage (US-associated territory).",
+    "geojson": "mh.geojson"
+  },
+  {
+    "code": "mk",
+    "name": "North Macedonia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "mk.geojson"
+  },
+  {
+    "code": "ml",
+    "name": "Mali",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs.",
+    "geojson": "ml.geojson"
+  },
+  {
+    "code": "mm",
+    "name": "Myanmar",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter strongly recommended.",
+    "geojson": "mm.geojson"
+  },
+  {
+    "code": "mn",
+    "name": "Mongolia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "mn.geojson"
+  },
+  {
+    "code": "mo",
+    "name": "Macau",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G",
+      "M",
+      "F"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)",
+      "Type M — Three large round pins (South African style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of plug types. Bring a universal adapter.",
+    "geojson": "mo.geojson"
+  },
+  {
+    "code": "mr",
+    "name": "Mauritania",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style Europlug.",
+    "geojson": "mr.geojson"
+  },
+  {
+    "code": "mt",
+    "name": "Malta",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for European/US devices.",
+    "geojson": "mt.geojson"
+  },
+  {
+    "code": "mu",
+    "name": "Mauritius",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of British and European plugs.",
+    "geojson": "mu.geojson"
+  },
+  {
+    "code": "mv",
+    "name": "Maldives",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "C",
+      "D",
+      "G",
+      "J",
+      "K",
+      "L"
+    ],
+    "plugTypeCount": 7,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)",
+      "Type J — Three round pins (Swiss style)",
+      "Type K — Three round pins (Danish style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Many plug types encountered. Most resorts provide universal outlets.",
+    "geojson": "mv.geojson"
+  },
+  {
+    "code": "mw",
+    "name": "Malawi",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs.",
+    "geojson": "mw.geojson"
+  },
+  {
+    "code": "mx",
+    "name": "Mexico",
+    "voltage": "127V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "Compatible with US/Canadian plugs. Voltage slightly higher at 127V but safe for 120V devices.",
+    "geojson": "mx.geojson"
+  },
+  {
+    "code": "my",
+    "name": "Malaysia",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "my.geojson"
+  },
+  {
+    "code": "mz",
+    "name": "Mozambique",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F",
+      "M"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European and South African-style plugs.",
+    "geojson": "mz.geojson"
+  },
+  {
+    "code": "na",
+    "name": "Namibia",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "M"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "South African-style plugs.",
+    "geojson": "na.geojson"
+  },
+  {
+    "code": "ne",
+    "name": "Niger",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "plugTypeCount": 6,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "ne.geojson"
+  },
+  {
+    "code": "ng",
+    "name": "Nigeria",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Power supply can be unreliable; surge protector recommended.",
+    "geojson": "ng.geojson"
+  },
+  {
+    "code": "ni",
+    "name": "Nicaragua",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "ni.geojson"
+  },
+  {
+    "code": "nl",
+    "name": "Netherlands",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "nl.geojson"
+  },
+  {
+    "code": "no",
+    "name": "Norway",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "no.geojson"
+  },
+  {
+    "code": "np",
+    "name": "Nepal",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "M"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Similar to India. Multiple plug types encountered.",
+    "geojson": "np.geojson"
+  },
+  {
+    "code": "nr",
+    "name": "Nauru",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "nr.geojson"
+  },
+  {
+    "code": "nz",
+    "name": "New Zealand",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Australia. Type I plugs.",
+    "geojson": "nz.geojson"
+  },
+  {
+    "code": "om",
+    "name": "Oman",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Primarily British-style plugs.",
+    "geojson": "om.geojson"
+  },
+  {
+    "code": "pa",
+    "name": "Panama",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "pa.geojson"
+  },
+  {
+    "code": "pe",
+    "name": "Peru",
+    "voltage": "220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "220V with mix of US and European-style outlets. Verify device voltage rating.",
+    "geojson": "pe.geojson"
+  },
+  {
+    "code": "pg",
+    "name": "Papua New Guinea",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "pg.geojson"
+  },
+  {
+    "code": "ph",
+    "name": "Philippines",
+    "voltage": "220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "US-shaped outlets at 220V. Verify device voltage before plugging in!",
+    "geojson": "ph.geojson"
+  },
+  {
+    "code": "pk",
+    "name": "Pakistan",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Similar to India. Type D and Europlug outlets.",
+    "geojson": "pk.geojson"
+  },
+  {
+    "code": "pl",
+    "name": "Poland",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style grounding (Type E) plus Europlug. Standard European plugs.",
+    "geojson": "pl.geojson"
+  },
+  {
+    "code": "ps",
+    "name": "Palestine",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "H"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type H — Three pins in V-shape (Israeli style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Israel. Type H and Europlug.",
+    "geojson": "ps.geojson"
+  },
+  {
+    "code": "pt",
+    "name": "Portugal",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany/Spain. Standard European plugs.",
+    "geojson": "pt.geojson"
+  },
+  {
+    "code": "pw",
+    "name": "Palau",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs and voltage (US-associated territory).",
+    "geojson": "pw.geojson"
+  },
+  {
+    "code": "py",
+    "name": "Paraguay",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Adapter needed for US/UK devices.",
+    "geojson": "py.geojson"
+  },
+  {
+    "code": "qa",
+    "name": "Qatar",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British/Indian-style plugs. Adapter needed.",
+    "geojson": "qa.geojson"
+  },
+  {
+    "code": "ro",
+    "name": "Romania",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "ro.geojson"
+  },
+  {
+    "code": "rs",
+    "name": "Serbia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "rs.geojson"
+  },
+  {
+    "code": "ru",
+    "name": "Russia",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Some older buildings may have recessed outlets.",
+    "geojson": "ru.geojson"
+  },
+  {
+    "code": "rw",
+    "name": "Rwanda",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "J"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type J — Three round pins (Swiss style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European/Swiss-style plugs.",
+    "geojson": "rw.geojson"
+  },
+  {
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "voltage": "220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "F",
+      "G"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types at 220V/60Hz. Bring a universal adapter.",
+    "geojson": "sa.geojson"
+  },
+  {
+    "code": "sb",
+    "name": "Solomon Islands",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G",
+      "I"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)",
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of Australian and British plugs.",
+    "geojson": "sb.geojson"
+  },
+  {
+    "code": "sc",
+    "name": "Seychelles",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs.",
+    "geojson": "sc.geojson"
+  },
+  {
+    "code": "sd",
+    "name": "Sudan",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of European and Indian-style plugs.",
+    "geojson": "sd.geojson"
+  },
+  {
+    "code": "se",
+    "name": "Sweden",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "se.geojson"
+  },
+  {
+    "code": "sg",
+    "name": "Singapore",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs. Adapter needed for US/European devices.",
+    "geojson": "sg.geojson"
+  },
+  {
+    "code": "si",
+    "name": "Slovenia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "si.geojson"
+  },
+  {
+    "code": "sk",
+    "name": "Slovakia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Czech Republic. Standard European plugs.",
+    "geojson": "sk.geojson"
+  },
+  {
+    "code": "sl",
+    "name": "Sierra Leone",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British/Indian-style plugs.",
+    "geojson": "sl.geojson"
+  },
+  {
+    "code": "sm",
+    "name": "San Marino",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Italy. Standard European plugs.",
+    "geojson": "sm.geojson"
+  },
+  {
+    "code": "sn",
+    "name": "Senegal",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "K"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type K — Three round pins (Danish style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs. Europlug works in most outlets.",
+    "geojson": "sn.geojson"
+  },
+  {
+    "code": "so",
+    "name": "Somalia",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European Europlug. Power infrastructure is limited.",
+    "geojson": "so.geojson"
+  },
+  {
+    "code": "sr",
+    "name": "Suriname",
+    "voltage": "127V/220V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "Dual",
+    "adapterNotes": "European-style plugs. Voltage varies by area. Check before plugging in.",
+    "geojson": "sr.geojson"
+  },
+  {
+    "code": "ss",
+    "name": "South Sudan",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of plug types. Power infrastructure is limited.",
+    "geojson": "ss.geojson"
+  },
+  {
+    "code": "st",
+    "name": "São Tomé and Príncipe",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "st.geojson"
+  },
+  {
+    "code": "sv",
+    "name": "El Salvador",
+    "voltage": "115V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "sv.geojson"
+  },
+  {
+    "code": "sy",
+    "name": "Syria",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E",
+      "L"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs with some Italian-style outlets.",
+    "geojson": "sy.geojson"
+  },
+  {
+    "code": "sz",
+    "name": "Eswatini",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "M"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type M — Three large round pins (South African style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "South African-style plugs.",
+    "geojson": "sz.geojson"
+  },
+  {
+    "code": "td",
+    "name": "Chad",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "td.geojson"
+  },
+  {
+    "code": "tg",
+    "name": "Togo",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European Europlug.",
+    "geojson": "tg.geojson"
+  },
+  {
+    "code": "th",
+    "name": "Thailand",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of US-shaped and European outlets, all at 220V. Verify device voltage!",
+    "geojson": "th.geojson"
+  },
+  {
+    "code": "tj",
+    "name": "Tajikistan",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "tj.geojson"
+  },
+  {
+    "code": "tl",
+    "name": "East Timor",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E",
+      "F",
+      "I"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of plug types. Universal adapter recommended.",
+    "geojson": "tl.geojson"
+  },
+  {
+    "code": "tm",
+    "name": "Turkmenistan",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs.",
+    "geojson": "tm.geojson"
+  },
+  {
+    "code": "tn",
+    "name": "Tunisia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type E — Two round pins + grounding pin hole (French style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "French-style plugs. Standard Europlug works.",
+    "geojson": "tn.geojson"
+  },
+  {
+    "code": "to",
+    "name": "Tonga",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "to.geojson"
+  },
+  {
+    "code": "tr",
+    "name": "Turkey",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "tr.geojson"
+  },
+  {
+    "code": "tt",
+    "name": "Trinidad and Tobago",
+    "voltage": "115V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "tt.geojson"
+  },
+  {
+    "code": "tv",
+    "name": "Tuvalu",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "tv.geojson"
+  },
+  {
+    "code": "tw",
+    "name": "Taiwan",
+    "voltage": "110V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "Same as US/Japan. No adapter needed for North American devices.",
+    "geojson": "tw.geojson"
+  },
+  {
+    "code": "tz",
+    "name": "Tanzania",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British/Indian-style plugs.",
+    "geojson": "tz.geojson"
+  },
+  {
+    "code": "ua",
+    "name": "Ukraine",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "ua.geojson"
+  },
+  {
+    "code": "ug",
+    "name": "Uganda",
+    "voltage": "240V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "G"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British-style plugs.",
+    "geojson": "ug.geojson"
+  },
+  {
+    "code": "us",
+    "name": "United States",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "Standard North American plugs. No adapter needed for Canadian/Mexican devices.",
+    "geojson": "us.geojson"
+  },
+  {
+    "code": "uy",
+    "name": "Uruguay",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F",
+      "I",
+      "L"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)",
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)",
+      "Type L — Three round pins in a line (Italian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types in use. Bring a universal adapter.",
+    "geojson": "uy.geojson"
+  },
+  {
+    "code": "uz",
+    "name": "Uzbekistan",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "European-style plugs. Same as Russia.",
+    "geojson": "uz.geojson"
+  },
+  {
+    "code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "B",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of US and British plug types at 230V. Bring a universal adapter.",
+    "geojson": "vc.geojson"
+  },
+  {
+    "code": "ve",
+    "name": "Venezuela",
+    "voltage": "120V",
+    "frequency": "60 Hz",
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type B — Two flat parallel pins + grounding pin (North American style)"
+    ],
+    "voltageStandard": "110V",
+    "adapterNotes": "US-style plugs. No adapter needed for North American devices.",
+    "geojson": "ve.geojson"
+  },
+  {
+    "code": "vn",
+    "name": "Vietnam",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of US-shaped and European outlets at 220V. Verify device voltage!",
+    "geojson": "vn.geojson"
+  },
+  {
+    "code": "vu",
+    "name": "Vanuatu",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "G",
+      "I"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type G — Three rectangular pins (British style)",
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Mix of plug types. Universal adapter recommended.",
+    "geojson": "vu.geojson"
+  },
+  {
+    "code": "ws",
+    "name": "Samoa",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "I"
+    ],
+    "plugTypeCount": 1,
+    "plugDescriptions": [
+      "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Australian-style plugs.",
+    "geojson": "ws.geojson"
+  },
+  {
+    "code": "xk",
+    "name": "Kosovo",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type F — Two round pins + grounding clips (Schuko, German style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Same as Germany. Standard European plugs.",
+    "geojson": "xk.geojson"
+  },
+  {
+    "code": "ye",
+    "name": "Yemen",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "A",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type A — Two flat parallel pins (North American/Japanese style)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types in use. Bring a universal adapter.",
+    "geojson": "ye.geojson"
+  },
+  {
+    "code": "za",
+    "name": "South Africa",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "M",
+      "N"
+    ],
+    "plugTypeCount": 4,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type M — Three large round pins (South African style)",
+      "Type N — Three round pins (Brazilian style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Unique South African Type M (large round pins). Dedicated adapter needed.",
+    "geojson": "za.geojson"
+  },
+  {
+    "code": "zm",
+    "name": "Zambia",
+    "voltage": "230V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 3,
+    "plugDescriptions": [
+      "Type C — Two round pins (Europlug, most common worldwide)",
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+    "geojson": "zm.geojson"
+  },
+  {
+    "code": "zw",
+    "name": "Zimbabwe",
+    "voltage": "220V",
+    "frequency": "50 Hz",
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "plugTypeCount": 2,
+    "plugDescriptions": [
+      "Type D — Three large round pins in triangle (India/South Asia)",
+      "Type G — Three rectangular pins (British style)"
+    ],
+    "voltageStandard": "220V",
+    "adapterNotes": "British/Indian-style plugs.",
+    "geojson": "zw.geojson"
+  }
+]

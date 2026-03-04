@@ -1,0 +1,14 @@
+{
+  "code": "diyarbakr-fortress-and-hevsel-gardens-cultural-landscape",
+  "name": "Diyarbakır Fortress and Hevsel Gardens Cultural Landscape",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located on an escarpment of the Upper Tigris River Basin that is part of the so-called Fertile Crescent, the fortified city of Diyarbakır and the landscape around has been an important centre since the Hellenistic period, through the Roman, Sassanid, Byzantine, Islamic and Ottoman times to the present. The site encompasses the Inner castle, known as İçkale and including the Amida Mound, and the 5.8 km-long city walls of Diyarbakır with their numerous towers, gates, buttresses, and 63 inscriptions. The site also includes the Hevsel Gardens, a green link between the city and the Tigris that supplied the city with food and water, the Anzele water source and the Ten-Eyed Bridge.",
+  "danger": false,
+  "geojson": "diyarbakr-fortress-and-hevsel-gardens-cultural-landscape.geojson"
+}

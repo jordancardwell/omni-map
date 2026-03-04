@@ -1,0 +1,15 @@
+{
+  "code": "xixia-imperial-tombs",
+  "name": "Xixia Imperial Tombs",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the foothills of the southern Helan Mountains in Ningxia, this necropolis is the imperial cemetery of the Xixia Dynasty. It includes nine imperial mausoleums, 271 subordinate tombs, a northern architectural complex, and 32 flood control structures. Founded by the Tanguts in 1038, the Xixia Dynasty lasted until its destruction by Genghis Khan’s Mongol army in 1227. Positioned along the Silk Road, it became a multicultural civilization modelled on Chinese imperial traditions, with Buddhism at its core. The property reflects the dynasty’s religious and socio-political legacy.",
+  "danger": false,
+  "geojson": "xixia-imperial-tombs.geojson"
+}

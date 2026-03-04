@@ -1,0 +1,15 @@
+{
+  "code": "southampton",
+  "name": "Port of Southampton",
+  "country": "United Kingdom",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "English Channel Route"
+  ],
+  "description": "Port of Southampton in United Kingdom. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "southampton.geojson"
+}

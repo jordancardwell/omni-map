@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"spanish","name":"Spanish Cuisine","region":"Spain","country":"ES"},"geometry":{"type":"Polygon","coordinates":[[[-9.3,36],[-9.3,43.8],[4.3,43.8],[4.3,36],[-9.3,36]]]}}]}

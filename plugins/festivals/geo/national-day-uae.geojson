@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3773,
+          24.4539
+        ]
+      },
+      "properties": {
+        "code": "national-day-uae",
+        "name": "UAE National Day",
+        "festivalType": "National",
+        "dateOrSeason": "December 2",
+        "location": "Abu Dhabi, UAE"
+      }
+    }
+  ]
+}

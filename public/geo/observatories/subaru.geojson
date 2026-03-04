@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4761,19.8255]},"properties":{"code":"subaru","name":"Subaru Telescope","observatoryType":"Optical","status":"Operational","country":"Japan"}}]}

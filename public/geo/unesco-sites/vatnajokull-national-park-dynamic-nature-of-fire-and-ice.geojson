@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8815404444,
+          64.577363
+        ]
+      },
+      "properties": {
+        "code": "vatnajokull-national-park-dynamic-nature-of-fire-and-ice",
+        "name": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+        "type": "Natural",
+        "country": "Iceland",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

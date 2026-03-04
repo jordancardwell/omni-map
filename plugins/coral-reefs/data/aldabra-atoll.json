@@ -1,0 +1,20 @@
+{
+  "code": "aldabra-atoll",
+  "name": "Aldabra Atoll",
+  "location": "Seychelles, Indian Ocean",
+  "areaKm2": 155,
+  "reefType": "Atoll",
+  "healthStatus": "Good",
+  "coralSpecies": 200,
+  "marineSpecies": 850,
+  "threats": [
+    "Climate change",
+    "Invasive species",
+    "Plastic pollution",
+    "Ocean acidification",
+    "Rising sea temperatures"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site since 1982. Managed by the Seychelles Islands Foundation. One of the most remote and undisturbed atolls in the world.",
+  "description": "Aldabra is the world's second-largest coral atoll and one of the most remote, located over 1,000 km from the Seychelles capital. Its extreme isolation has preserved a pristine ecosystem largely untouched by human development.\n\nThe atoll is home to the world's largest population of giant tortoises (over 100,000) and supports significant populations of nesting sea turtles, manta rays, and sharks. Its coral reefs demonstrated remarkable recovery after the 1998 bleaching event, serving as a model for natural reef resilience.",
+  "geojson": "aldabra-atoll.geojson"
+}

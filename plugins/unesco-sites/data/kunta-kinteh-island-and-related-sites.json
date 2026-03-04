@@ -1,0 +1,14 @@
+{
+  "code": "kunta-kinteh-island-and-related-sites",
+  "name": "Kunta Kinteh Island and Related Sites",
+  "type": "Cultural",
+  "country": "Gambia",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa.",
+  "danger": false,
+  "geojson": "kunta-kinteh-island-and-related-sites.geojson"
+}

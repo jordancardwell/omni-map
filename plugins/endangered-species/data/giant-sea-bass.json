@@ -1,0 +1,18 @@
+{
+  "code": "giant-sea-bass",
+  "name": "Giant Sea Bass",
+  "scientificName": "Stereolepis gigas",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, slowly recovering",
+  "populationTrend": "Increasing",
+  "habitatType": "Rocky reef and kelp forest",
+  "threats": [
+    "Historical overfishing",
+    "Gill net bycatch",
+    "Slow growth rate"
+  ],
+  "conservationEfforts": "Protected from fishing since 1982 in California. Population slowly recovering after decades. Research using photo-ID tracks individual fish over many years.",
+  "description": "California's largest nearshore fish, reaching 2.5 meters and 255 kg. Once nearly extirpated by fishing, it has been slowly recovering since gaining protection. They can live over 75 years.",
+  "geojson": "giant-sea-bass.geojson"
+}

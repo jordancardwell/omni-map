@@ -1,0 +1,14 @@
+{
+  "code": "old-village-of-holloko-and-its-surroundings",
+  "name": "Old Village of Hollókő and its Surroundings",
+  "type": "Cultural",
+  "country": "Hungary",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Hollokö is an outstanding example of a deliberately preserved traditional settlement. This village, which developed mainly during the 17th and 18th centuries, is a living example of rural life before the agricultural revolution of the 20th century.",
+  "danger": false,
+  "geojson": "old-village-of-holloko-and-its-surroundings.geojson"
+}

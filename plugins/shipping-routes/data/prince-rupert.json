@@ -1,0 +1,14 @@
+{
+  "code": "prince-rupert",
+  "name": "Port of Prince Rupert",
+  "country": "Canada",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Prince Rupert in Canada. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "prince-rupert.geojson"
+}

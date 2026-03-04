@@ -1,0 +1,14 @@
+{
+  "code": "chongoni-rock-art-area",
+  "name": "Chongoni Rock-Art Area",
+  "type": "Cultural",
+  "country": "Malawi",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "Situated within a cluster of forested granite hills and covering an area of 126.4 km2, high up the plateau of central Malawi, the 127 sites of this area feature the richest concentration of rock art in Central Africa. They reflect the comparatively scarce tradition of farmer rock art, as well as paintings by BaTwa hunter-gatherers who inhabited the area from the late Stone Age. The Chewa agriculturalists, whose ancestors lived there from the late Iron Age, practised rock painting until well into the 20th century. The symbols in the rock art, which are strongly associated with women, still have cultural relevance amongst the Chewa, and the sites are actively associated with ceremonies and rituals.",
+  "danger": false,
+  "geojson": "chongoni-rock-art-area.geojson"
+}

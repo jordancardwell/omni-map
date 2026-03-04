@@ -1,0 +1,16 @@
+{
+  "code": "sg-my-link",
+  "name": "SG-MY Link",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3524,
+  "yearLaid": 2019,
+  "rfsDate": "2019-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Singapore",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "SG-MY Link connecting Singapore to Kuala Lumpur in Southeast Asia.",
+  "geojson": "sg-my-link.geojson"
+}

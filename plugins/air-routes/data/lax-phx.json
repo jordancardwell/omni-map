@@ -1,0 +1,18 @@
+{
+  "code": "lax-phx",
+  "name": "Los Angeles — Phoenix",
+  "airports": [
+    "LAX",
+    "PHX"
+  ],
+  "distanceKm": 595,
+  "weeklyFlights": 100,
+  "airlines": [
+    "American",
+    "Southwest"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LAX–PHX route between Los Angeles and Phoenix. Distance: 595 km. ~100 weekly flights operated by American, Southwest.",
+  "geojson": "lax-phx.geojson"
+}

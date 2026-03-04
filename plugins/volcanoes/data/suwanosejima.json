@@ -1,0 +1,21 @@
+{
+  "code": "suwanosejima",
+  "name": "Suwanosejima",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 796,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Japan",
+  "region": "Ryukyu Islands",
+  "location": "Ryukyu Islands, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic bombs",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of Japan's most active volcanoes. Has been in frequent eruption since 1949.",
+  "description": "Suwanosejima is one of the most active volcanoes in Japan's Ryukyu Islands. Its Otake crater produces frequent strombolian and vulcanian eruptions.",
+  "geojson": "suwanosejima.geojson"
+}

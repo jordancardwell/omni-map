@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.3531,-89.9911]},"properties":{"code":"south-pole-telescope","name":"South Pole Telescope","observatoryType":"Radio","status":"Operational","country":"Antarctica"}}]}

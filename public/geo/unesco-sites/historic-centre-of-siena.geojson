@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33166667,
+          43.31861111
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-siena",
+        "name": "Historic Centre of Siena",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

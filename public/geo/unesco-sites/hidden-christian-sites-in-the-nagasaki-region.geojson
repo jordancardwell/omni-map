@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.9038888889,
+          32.8022222222
+        ]
+      },
+      "properties": {
+        "code": "hidden-christian-sites-in-the-nagasaki-region",
+        "name": "Hidden Christian Sites in the Nagasaki Region",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

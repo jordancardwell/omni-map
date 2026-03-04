@@ -1,0 +1,14 @@
+{
+  "code": "sardis-and-the-lydian-tumuli-of-bin-tepe",
+  "name": "Sardis and the Lydian Tumuli of Bin Tepe",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Sardis was the capital of the Lydians, a powerful Iron Age civilization (8th-6th centuries BCE) known for its wealth and early coinage production. The city had a unique urban structure with fortified walls, terraces, and distinct zones, including settlements, sanctuaries, and cemeteries. The cemetery of Bin Tepe features some of the largest tumulus tombs in the world. The Lydians developed a distinct language and religious system and were widely mentioned in Greek, Roman, and European texts. After their fall, Sardis remained significant under Persian, Greek, Roman, and Byzantine rule.",
+  "danger": false,
+  "geojson": "sardis-and-the-lydian-tumuli-of-bin-tepe.geojson"
+}

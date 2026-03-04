@@ -1,0 +1,14 @@
+{
+  "code": "zuojiang-huashan-rock-art-cultural-landscape",
+  "name": "Zuojiang Huashan Rock Art Cultural Landscape",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located on the steep cliffs in the border regions of southwest China, these 38 sites of rock art illustrate the life and rituals of the Luoyue people. They date from the period around the 5th century BCE to the 2nd century CE. In a surrounding landscape of karst, rivers and plateaux, they depict ceremonies that have been interpreted as portraying the bronze drum culture once prevalent across southern China. This cultural landscape is the only remains of this culture today.",
+  "danger": false,
+  "geojson": "zuojiang-huashan-rock-art-cultural-landscape.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "del-bom",
+  "name": "Delhi — Mumbai",
+  "airports": [
+    "DEL",
+    "BOM"
+  ],
+  "distanceKm": 1137,
+  "weeklyFlights": 400,
+  "airlines": [
+    "IndiGo",
+    "Air India",
+    "Vistara",
+    "SpiceJet"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "DEL–BOM route between Delhi and Mumbai. Distance: 1,137 km. ~400 weekly flights operated by IndiGo, Air India, Vistara, SpiceJet.",
+  "geojson": "del-bom.geojson"
+}

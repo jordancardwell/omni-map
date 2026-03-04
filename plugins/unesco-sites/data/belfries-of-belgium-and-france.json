@@ -1,0 +1,15 @@
+{
+  "code": "belfries-of-belgium-and-france",
+  "name": "Belfries of Belgium and France",
+  "type": "Cultural",
+  "country": "France, Belgium",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Twenty-three belfries in the north of France and the belfry of Gembloux in Belgium were inscribed in 2005, as an extension to the 32 Belgian belfries inscribed in 1999 as Belfries of Flanders and Wallonia. Built between the 11th and 17th centuries, they showcase the Roman, Gothic, Renaissance and Baroque styles of architecture. They are highly significant tokens of the winning of civil liberties. While Italian, German and English towns mainly opted to build town halls, in part of north-western Europe, greater emphasis was placed on building belfries. Compared with the keep (symbol of the seigneurs) and the bell-tower (symbol of the Church), the belfry, the third tower in the urban landscape, symbolizes the power of the aldermen. Over the centuries, they came to represent the influence and wealth of the towns.",
+  "danger": false,
+  "geojson": "belfries-of-belgium-and-france.geojson"
+}

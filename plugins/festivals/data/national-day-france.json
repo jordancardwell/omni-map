@@ -1,0 +1,14 @@
+{
+  "code": "national-day-france",
+  "name": "Fête Nationale (Bastille Day Eve)",
+  "festivalType": "National",
+  "dateOrSeason": "July 13 evening",
+  "origin": "French tradition",
+  "estimatedAttendance": "Millions in Paris",
+  "unescoICH": "Not inscribed",
+  "traditions": "Firefighters' balls; popular dances; street parties; military tattoo; candlelit celebrations; live music.",
+  "historicalBackground": "The evening before Bastille Day has become its own tradition, with fire stations opening their doors for dancing and community celebration.",
+  "description": "The magical eve of Bastille Day, when Paris fire stations open their doors for dancing and the city buzzes with anticipation.",
+  "location": "Paris, France",
+  "geojson": "national-day-france.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "hellbender",
+  "name": "Hellbender",
+  "scientificName": "Cryptobranchus alleganiensis",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Clear rocky streams",
+  "threats": [
+    "Water pollution",
+    "Sedimentation",
+    "Dam construction",
+    "Disease"
+  ],
+  "conservationEfforts": "State recovery plans in multiple US states. Stream restoration projects. Captive breeding at St. Louis Zoo and other facilities for supplementation releases.",
+  "description": "North America's largest salamander at up to 74 cm. It breathes almost entirely through its wrinkled skin and requires extremely clean, well-oxygenated mountain streams.",
+  "geojson": "hellbender.geojson"
+}

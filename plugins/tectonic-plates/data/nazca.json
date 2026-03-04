@@ -1,0 +1,28 @@
+{
+  "code": "nazca",
+  "name": "Nazca Plate",
+  "plateClass": "Minor",
+  "crustType": "Oceanic",
+  "area": 15.6,
+  "movementDirection": "East",
+  "movementRate": "40–65",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent"
+  ],
+  "adjacentPlates": [
+    "south-american",
+    "pacific",
+    "antarctic",
+    "cocos"
+  ],
+  "notableFeatures": [
+    "Peru-Chile Trench",
+    "East Pacific Rise",
+    "Nazca Ridge",
+    "Galapagos Hotspot"
+  ],
+  "description": "The Nazca Plate is an oceanic plate in the southeastern Pacific Ocean. It is subducting beneath the South American Plate at the Peru-Chile Trench, a process that has built the Andes Mountains and generates frequent powerful earthquakes. The Galapagos Islands sit near the plate's northern boundary, formed by a mantle hotspot.",
+  "geologicalHistory": "The Nazca Plate formed from the breakup of the ancient Farallon Plate about 23 million years ago. It is one of the fastest-moving plates, heading east at up to 65 mm/year. Its subduction beneath South America has produced some of the largest earthquakes in recorded history, including the 1960 Chilean earthquake (magnitude 9.5), the strongest ever recorded.",
+  "geojson": "nazca.geojson"
+}

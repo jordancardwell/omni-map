@@ -1,0 +1,18 @@
+{
+  "code": "jed-mnl",
+  "name": "Jeddah — Manila",
+  "airports": [
+    "JED",
+    "MNL"
+  ],
+  "distanceKm": 8595,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Saudia",
+    "Philippine Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–MNL route between Jeddah and Manila. Distance: 8,595 km. ~35 weekly flights operated by Saudia, Philippine Airlines.",
+  "geojson": "jed-mnl.geojson"
+}

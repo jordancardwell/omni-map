@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.8808,14.4736]},"properties":{"code":"fuego-guatemala","name":"Volcán de Fuego","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3763,"lastEruption":"2023","vei":4}}]}

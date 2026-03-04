@@ -1,0 +1,15 @@
+{
+  "code": "xinjiang-tianshan",
+  "name": "Xinjiang Tianshan",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2013",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Xinjiang Tianshan comprises four components—Tomur, Kalajun-Kuerdening, Bayinbukuke and Bogda— that total 606,833 hectares. They are part of the Tianshan mountain system of Central Asia, one of the largest mountain ranges in the world. Xinjiang Tianshan presents unique physical geographic features and scenically beautiful areas including spectacular snow and snowy mountains glacier-capped peaks, undisturbed forests and meadows, clear rivers and lakes and red bed canyons. These landscapes contrast with the vast adjacent desert landscapes, creating a striking visual contrast between hot and cold environments, dry and wet, desolate and luxuriant. The landforms and ecosystems of the site have been preserved since the Pliocene epoch and present an outstanding example of ongoing biological and ecological evolutionary processes. The site also extends into the Taklimakan Desert, one of the world’s largest and highest deserts, known for its large dune forms and great dust storms. Xinjiang Tianshan is moreover an important habitat for endemic and relic flora species, some rare and endangered.",
+  "danger": false,
+  "geojson": "xinjiang-tianshan.geojson"
+}

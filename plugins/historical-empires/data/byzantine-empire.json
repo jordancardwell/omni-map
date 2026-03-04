@@ -1,0 +1,25 @@
+{
+  "code": "byzantine-empire",
+  "name": "Byzantine Empire",
+  "era": "Medieval",
+  "peakYear": "555 CE",
+  "areaAtPeakKm2": 3500000,
+  "populationEstimate": "26 million",
+  "capital": "Constantinople",
+  "keyAchievements": [
+    "Justinian Code",
+    "Hagia Sophia",
+    "Preservation of Greek learning",
+    "Orthodox Christianity spread",
+    "Diplomatic sophistication"
+  ],
+  "declineFactors": [
+    "Arab conquests",
+    "Fourth Crusade sack of Constantinople",
+    "Ottoman expansion",
+    "Plague of Justinian",
+    "Internal religious conflicts"
+  ],
+  "description": "The Byzantine Empire was the continuation of the Eastern Roman Empire, lasting from the fall of Rome in 476 CE until the Ottoman conquest of Constantinople in 1453. At its peak under Justinian I, it reclaimed much of the western Mediterranean.\n\nByzantium preserved and transmitted Greco-Roman culture, law, and learning to both the Islamic world and medieval Europe. The Justinian Code became the foundation of European legal systems. The empire's fall in 1453 sent Greek scholars westward, helping spark the Renaissance.",
+  "geojson": "byzantine-empire.geojson"
+}

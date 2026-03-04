@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49361,
+          5.39103
+        ]
+      },
+      "properties": {
+        "code": "forts-and-castles-volta-greater-accra-central-and-western-regions",
+        "name": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+        "type": "Cultural",
+        "country": "Ghana",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

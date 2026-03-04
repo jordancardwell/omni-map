@@ -1,0 +1,15 @@
+{
+  "code": "singapore-botanic-gardens",
+  "name": "Singapore Botanic Gardens",
+  "type": "Cultural",
+  "country": "Singapore",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated at the heart of the city of Singapore, the site demonstrates the evolution of a British tropical colonial botanic garden that has become a modern world-class scientific institution used for both conservation and education. The cultural landscape includes a rich variety of historic features, plantings and buildings that demonstrate the development of the garden since its creation in 1859. It has been an important centre for science, research and plant conservation, notably in connection with the cultivation of rubber plantations, in Southeast Asia since 1875.",
+  "danger": false,
+  "geojson": "singapore-botanic-gardens.geojson"
+}

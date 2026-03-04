@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      },
+      "properties": {
+        "code": "loy-krathong",
+        "name": "Loy Krathong",
+        "festivalType": "Religious",
+        "dateOrSeason": "November (full moon)",
+        "location": "Bangkok, Thailand"
+      }
+    }
+  ]
+}

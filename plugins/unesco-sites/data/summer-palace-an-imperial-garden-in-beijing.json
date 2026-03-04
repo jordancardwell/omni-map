@@ -1,0 +1,16 @@
+{
+  "code": "summer-palace-an-imperial-garden-in-beijing",
+  "name": "Summer Palace, an Imperial Garden in Beijing",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Summer Palace in Beijing – first built in 1750, largely destroyed in the war of 1860 and restored on its original foundations in 1886 – is a masterpiece of Chinese landscape garden design. The natural landscape of hills and open water is combined with artificial features such as pavilions, halls, palaces, temples and bridges to form a harmonious ensemble of outstanding aesthetic value.",
+  "danger": false,
+  "geojson": "summer-palace-an-imperial-garden-in-beijing.geojson"
+}

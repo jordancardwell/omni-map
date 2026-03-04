@@ -1,0 +1,16 @@
+{
+  "code": "lednice-valtice-cultural-landscape",
+  "name": "Lednice-Valtice Cultural Landscape",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Between the 17th and 20th centuries, the ruling dukes of Liechtenstein transformed their domains in southern Moravia into a striking landscape. It married Baroque architecture (mainly the work of Johann Bernhard Fischer von Erlach) and the classical and neo-Gothic style of the castles of Lednice and Valtice with countryside fashioned according to English romantic principles of landscape architecture. At 200 km2 , it is one of the largest artificial landscapes in Europe.",
+  "danger": false,
+  "geojson": "lednice-valtice-cultural-landscape.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.82778,
+          44.46056
+        ]
+      },
+      "properties": {
+        "code": "yellowstone-national-park",
+        "name": "Yellowstone National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

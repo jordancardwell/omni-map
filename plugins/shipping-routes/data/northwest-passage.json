@@ -1,0 +1,8 @@
+{
+  "code": "northwest-passage",
+  "name": "Northwest Passage Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Arctic shipping route through Canadian Arctic Archipelago connecting Atlantic to Pacific. Limited by ice but opening more with climate change. Potential future shortcut between Europe and Asia.",
+  "geojson": "northwest-passage.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "la-tk-express",
+  "name": "LA-TK Express",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 619,
+  "yearLaid": 2011,
+  "rfsDate": "2015-06",
+  "owner": "Google",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Tokyo, Japan"
+  ],
+  "description": "LA-TK Express connecting Los Angeles to Tokyo.",
+  "geojson": "la-tk-express.geojson"
+}

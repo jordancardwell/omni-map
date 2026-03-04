@@ -1,0 +1,21 @@
+{
+  "code": "pan-starrs",
+  "name": "Pan-STARRS",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3052,
+  "aperture": "2 × 1.8 m",
+  "telescopes": [
+    "PS1",
+    "PS2"
+  ],
+  "keyDiscoveries": [
+    "'Oumuamua (first interstellar object)",
+    "Near-Earth objects",
+    "Transient sky surveys"
+  ],
+  "location": "Pan-STARRS, United States",
+  "description": "Panoramic Survey Telescope and Rapid Response System on Haleakalā. Continuously scans the sky for moving and transient objects, discovering numerous asteroids and supernovae.",
+  "geojson": "pan-starrs.geojson"
+}

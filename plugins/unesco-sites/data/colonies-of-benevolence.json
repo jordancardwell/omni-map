@@ -1,0 +1,15 @@
+{
+  "code": "colonies-of-benevolence",
+  "name": "Colonies of Benevolence",
+  "type": "Cultural",
+  "country": "Belgium, Netherlands (Kingdom of the)",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The transnational serial property is an Enlightenment experiment in social reform. These cultural landscapes demonstrate an innovative, highly influential 19th-century model of pauper relief and of settler colonialism, which today is known as an agricultural domestic colony. The property encompasses four Colonies of Benevolence in three component parts: Frederiksoord-Wilhelminaoord and Veenhuizen in the Netherlands, and Wortel in Belgium. Together they bear witness to a 19th century experiment in social reform, an effort to alleviate urban poverty by establishing agricultural colonies in remote locations. Established in 1818, Frederiksoord (the Netherlands) is the earliest of these Colonies and home to the original headquarters of the Society of Benevolence, an association which aimed to reduce poverty at the national level. The other component parts were constructed between 1820 and 1823. In Frederiksoord-Wilhelminaoord, small farms along planted avenues were built for families and this Colony was referred to as ‘free’. Wortel is a hybrid Colony, first built for families and called ‘free’, later inhabited by beggars and vagrants and catalogued as ‘unfree’. In Veenhuizen large dormitory structures and larger centralized farms along planted avenues were built for orphans, beggars and vagrants that worked under the supervision of guards. This colony was called ‘unfree’. Each component part has a distinctive spatial character, connected to the target group for which it was built, and a specific organization of the work, with either family farms or institutions with working farms for groups of individuals. The Colonies were designed as panoptic settlements along orthogonal lines. They feature residential buildings, farm houses, churches and other communal facilities. At their peak in the mid-19th century, over 11,000 people lived in such Colonies in the Netherlands. In Belgium their number peaked at 6,000 in 1910.",
+  "danger": false,
+  "geojson": "colonies-of-benevolence.geojson"
+}

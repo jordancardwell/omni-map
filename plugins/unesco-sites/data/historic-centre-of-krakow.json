@@ -1,0 +1,14 @@
+{
+  "code": "historic-centre-of-krakow",
+  "name": "Historic Centre of Kraków",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Historic Centre of Kraków, the former capital of Poland, is situated at the foot of the Royal Wawel Castle. The 13th-century merchants' town has Europe's largest market square and numerous historical houses, palaces and churches with their magnificent interiors. Further evidence of the town's fascinating history is provided by the remnants of the 14th-century fortifications and the medieval site of Kazimierz with its ancient synagogues in the southern part of town, Jagellonian University and the Gothic cathedral where the kings of Poland were buried.",
+  "danger": false,
+  "geojson": "historic-centre-of-krakow.geojson"
+}

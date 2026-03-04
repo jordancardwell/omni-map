@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.9669444444,
+          28.9986111111
+        ]
+      },
+      "properties": {
+        "code": "tusi-sites",
+        "name": "Tusi Sites",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

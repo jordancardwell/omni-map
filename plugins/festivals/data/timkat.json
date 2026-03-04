@@ -1,0 +1,14 @@
+{
+  "code": "timkat",
+  "name": "Timkat",
+  "festivalType": "Religious",
+  "dateOrSeason": "January 19–20",
+  "origin": "Ethiopian Orthodox Christian",
+  "estimatedAttendance": "Millions across Ethiopia",
+  "unescoICH": "Inscribed 2019",
+  "traditions": "Processions carrying replica Arks of the Covenant (tabots); blessing of water; mass baptism; white clothing; three-day celebration with feasting and music.",
+  "historicalBackground": "Timkat celebrates the Epiphany — the baptism of Jesus in the Jordan River. Ethiopia's unique Orthodox tradition dates to the 4th century Aksumite Kingdom.",
+  "description": "Ethiopian Orthodox Epiphany celebration with dramatic processions, water blessings, and one of Africa's most colorful religious festivals.",
+  "location": "Addis Ababa, Ethiopia",
+  "geojson": "timkat.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "ams-fco",
+  "name": "Amsterdam — Rome",
+  "airports": [
+    "AMS",
+    "FCO"
+  ],
+  "distanceKm": 1297,
+  "weeklyFlights": 70,
+  "airlines": [
+    "KLM",
+    "ITA Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "AMS–FCO route between Amsterdam and Rome. Distance: 1,297 km. ~70 weekly flights operated by KLM, ITA Airways.",
+  "geojson": "ams-fco.geojson"
+}

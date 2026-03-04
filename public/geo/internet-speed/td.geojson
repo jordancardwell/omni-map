@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"td","name":"Chad","country":"TD","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[13.5,7.4],[13.5,23.5],[24,23.5],[24,7.4],[13.5,7.4]]]}}]}

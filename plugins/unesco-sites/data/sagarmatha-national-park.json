@@ -1,0 +1,14 @@
+{
+  "code": "sagarmatha-national-park",
+  "name": "Sagarmatha National Park",
+  "type": "Natural",
+  "country": "Nepal",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site.",
+  "danger": false,
+  "geojson": "sagarmatha-national-park.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.78972,
+          17.00722
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-sukhothai-and-associated-historic-towns",
+        "name": "Historic Town of Sukhothai and Associated Historic Towns",
+        "type": "Cultural",
+        "country": "Thailand",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "mwk",
+  "name": "Malawian Kwacha",
+  "isoCode": "MWK",
+  "symbol": "MK",
+  "region": "Africa",
+  "centralBank": "Reserve Bank of Malawi",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Malawi"
+  ],
+  "countryCount": 1,
+  "description": "The Malawian Kwacha also means 'dawn' in the local Chewa language.",
+  "historicalNotes": "Introduced in 1971, replacing the Malawian pound. Malawi's economy is heavily dependent on agriculture, particularly tobacco.",
+  "geojson": "mwk.geojson"
+}

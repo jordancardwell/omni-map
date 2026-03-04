@@ -1,0 +1,14 @@
+{
+  "code": "mogadishu",
+  "name": "Port of Mogadishu",
+  "country": "Somalia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Horn of Africa & Gulf of Aden"
+  ],
+  "description": "Port of Mogadishu in Somalia. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "mogadishu.geojson"
+}

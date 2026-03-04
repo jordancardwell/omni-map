@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7741666667,
+          32.0777777778
+        ]
+      },
+      "properties": {
+        "code": "white-city-of-tel-aviv-the-modern-movement",
+        "name": "White City of Tel-Aviv – the Modern Movement",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

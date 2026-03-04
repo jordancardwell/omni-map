@@ -1,0 +1,17 @@
+{
+  "code": "doh-lax",
+  "name": "Doha — Los Angeles",
+  "airports": [
+    "DOH",
+    "LAX"
+  ],
+  "distanceKm": 13347,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–LAX route between Doha and Los Angeles. Distance: 13,347 km. ~15 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-lax.geojson"
+}

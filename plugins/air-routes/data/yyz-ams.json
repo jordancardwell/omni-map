@@ -1,0 +1,18 @@
+{
+  "code": "yyz-ams",
+  "name": "Toronto — Amsterdam",
+  "airports": [
+    "YYZ",
+    "AMS"
+  ],
+  "distanceKm": 5989,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air Canada",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–AMS route between Toronto and Amsterdam. Distance: 5,989 km. ~25 weekly flights operated by Air Canada, KLM.",
+  "geojson": "yyz-ams.geojson"
+}

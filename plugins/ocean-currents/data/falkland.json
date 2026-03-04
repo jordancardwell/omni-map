@@ -1,0 +1,21 @@
+{
+  "code": "falkland",
+  "name": "Falkland Current (Malvinas Current)",
+  "currentType": "Cold",
+  "speedRange": "0.3–0.5 m/s",
+  "origin": "Antarctic Circumpolar Current",
+  "destination": "Brazil-Falkland Confluence",
+  "climateEffects": [
+    "Cools Argentine coast",
+    "Creates productive confluence zone",
+    "Influences Patagonian climate"
+  ],
+  "connectedEcosystems": [
+    "Patagonian shelf ecosystem",
+    "Falkland Islands marine habitats",
+    "Argentine fisheries"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Falkland (Malvinas) Current branches from the Antarctic Circumpolar Current and flows northward along the coast of Patagonia. Its collision with the warm Brazil Current creates one of the most energetic confluence zones in the world ocean.",
+  "geojson": "falkland.geojson"
+}

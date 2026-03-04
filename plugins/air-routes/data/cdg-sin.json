@@ -1,0 +1,18 @@
+{
+  "code": "cdg-sin",
+  "name": "Paris — Singapore",
+  "airports": [
+    "CDG",
+    "SIN"
+  ],
+  "distanceKm": 10723,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Singapore Airlines",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CDG–SIN route between Paris and Singapore. Distance: 10,723 km. ~35 weekly flights operated by Singapore Airlines, Air France.",
+  "geojson": "cdg-sin.geojson"
+}

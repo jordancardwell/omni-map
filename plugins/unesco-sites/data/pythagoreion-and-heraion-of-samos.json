@@ -1,0 +1,15 @@
+{
+  "code": "pythagoreion-and-heraion-of-samos",
+  "name": "Pythagoreion and Heraion of Samos",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Many civilizations have inhabited this small Aegean island, near Asia Minor, since the 3rd millennium B.C. The remains of Pythagoreion, an ancient fortified port with Greek and Roman monuments and a spectacular tunnel-aqueduct, as well as the Heraion, temple of the Samian Hera, can still be seen.",
+  "danger": false,
+  "geojson": "pythagoreion-and-heraion-of-samos.geojson"
+}

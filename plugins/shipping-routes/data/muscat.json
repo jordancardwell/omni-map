@@ -1,0 +1,14 @@
+{
+  "code": "muscat",
+  "name": "Port Sultan Qaboos",
+  "country": "Oman",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Port Sultan Qaboos in Oman. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+  "geojson": "muscat.geojson"
+}

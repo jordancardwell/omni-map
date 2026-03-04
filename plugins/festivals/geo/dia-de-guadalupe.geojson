@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1178,
+          19.4852
+        ]
+      },
+      "properties": {
+        "code": "dia-de-guadalupe",
+        "name": "Day of Our Lady of Guadalupe",
+        "festivalType": "Religious",
+        "dateOrSeason": "December 12",
+        "location": "Mexico City, Mexico"
+      }
+    }
+  ]
+}

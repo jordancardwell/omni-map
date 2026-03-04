@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0297222222,
+          25.9780555556
+        ]
+      },
+      "properties": {
+        "code": "al-zubarah-archaeological-site",
+        "name": "Al Zubarah Archaeological Site",
+        "type": "Cultural",
+        "country": "Qatar",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

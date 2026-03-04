@@ -1,0 +1,16 @@
+{
+  "code": "pln",
+  "name": "Polish Złoty",
+  "isoCode": "PLN",
+  "symbol": "zł",
+  "region": "Europe",
+  "centralBank": "National Bank of Poland",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Poland"
+  ],
+  "countryCount": 1,
+  "description": "The Polish Złoty is the currency of Central Europe's largest economy. The name means 'golden' in Polish.",
+  "historicalNotes": "The current złoty was introduced in 1995, replacing the old złoty at 10,000:1. Poland is an EU member but has delayed Euro adoption.",
+  "geojson": "pln.geojson"
+}

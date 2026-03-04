@@ -1,0 +1,14 @@
+{
+  "code": "masjed-e-jame-of-isfahan",
+  "name": "Masjed-e Jāmé of Isfahan",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the historic centre of Isfahan, the Masjed-e Jāmé (‘Friday mosque’) can be seen as a stunning illustration of the evolution of mosque architecture over twelve centuries, starting in ad 841. It is the oldest preserved edifice of its type in Iran and a prototype for later mosque designs throughout Central Asia. The complex, covering more than 20,000 m2, is also the first Islamic building that adapted the four-courtyard layout of Sassanid palaces to Islamic religious architecture. Its double-shelled ribbed domes represent an architectural innovation that inspired builders throughout the region. The site also features remarkable decorative details representative of stylistic developments over more than a thousand years of Islamic art.",
+  "danger": false,
+  "geojson": "masjed-e-jame-of-isfahan.geojson"
+}

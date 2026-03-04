@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8219,
+          -1.2921
+        ]
+      },
+      "properties": {
+        "code": "independence-day-kenya",
+        "name": "Jamhuri Day (Kenya)",
+        "festivalType": "National",
+        "dateOrSeason": "December 12",
+        "location": "Nairobi, Kenya"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "epeg",
+  "name": "EPEG",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3700,
+  "yearLaid": 2014,
+  "rfsDate": "2014-12",
+  "owner": "Sparkle, Turk Telekom",
+  "landingPoints": [
+    "Marseille, France",
+    "Athens, Greece",
+    "Istanbul, Turkey"
+  ],
+  "description": "Europe Persia Express Gateway.",
+  "geojson": "epeg.geojson"
+}

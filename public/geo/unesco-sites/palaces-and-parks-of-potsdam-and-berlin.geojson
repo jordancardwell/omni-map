@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03333333,
+          52.4
+        ]
+      },
+      "properties": {
+        "code": "palaces-and-parks-of-potsdam-and-berlin",
+        "name": "Palaces and Parks of Potsdam and Berlin",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

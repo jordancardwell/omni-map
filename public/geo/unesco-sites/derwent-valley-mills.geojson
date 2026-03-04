@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.488055556,
+          53.02888889
+        ]
+      },
+      "properties": {
+        "code": "derwent-valley-mills",
+        "name": "Derwent Valley Mills",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

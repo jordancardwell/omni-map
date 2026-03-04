@@ -1,0 +1,17 @@
+{
+  "code": "au",
+  "name": "Australia",
+  "avgDownloadMbps": 148.6,
+  "avgUploadMbps": 22.3,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 78.4,
+  "mobileUploadMbps": 12.6,
+  "fixedDownloadMbps": 148.6,
+  "fixedUploadMbps": 22.3,
+  "rank": 28,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Oceania",
+  "dataYear": 2024,
+  "trendDescription": "NBN upgrades improving speeds. ~12% year-over-year improvement.",
+  "geojson": "au.geojson"
+}

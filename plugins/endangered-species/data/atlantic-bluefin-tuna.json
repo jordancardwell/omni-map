@@ -1,0 +1,18 @@
+{
+  "code": "atlantic-bluefin-tuna",
+  "name": "Atlantic Bluefin Tuna",
+  "scientificName": "Thunnus thynnus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, recovering",
+  "populationTrend": "Increasing",
+  "habitatType": "Open ocean (Atlantic and Mediterranean)",
+  "threats": [
+    "Overfishing",
+    "Illegal fishing",
+    "Bycatch"
+  ],
+  "conservationEfforts": "ICCAT quotas dramatically reduced catch. Electronic monitoring of fishing vessels. Eastern Atlantic population recovering strongly under management.",
+  "description": "One of the largest bony fish, reaching 4.6 meters and 680 kg. They can maintain body temperature above surrounding water and cross the Atlantic in under 60 days. A single fish sold for $3.1 million at auction in 2019.",
+  "geojson": "atlantic-bluefin-tuna.geojson"
+}

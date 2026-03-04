@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-dominican",
+  "name": "Independence Day (Dominican Republic)",
+  "festivalType": "National",
+  "dateOrSeason": "February 27",
+  "origin": "Dominican national",
+  "estimatedAttendance": "11+ million Dominicans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Carnival celebrations with Diablo Cojuelo characters; parades; merengue music; patriotic ceremonies; community fiestas.",
+  "historicalBackground": "Dominican Independence Day marks February 27, 1844, when the country gained independence from Haitian rule, led by Juan Pablo Duarte.",
+  "description": "The Dominican Republic's vibrant independence celebration, blending patriotic ceremonies with carnival characters and merengue music.",
+  "location": "Santo Domingo, Dominican Republic",
+  "geojson": "independence-day-dominican.geojson"
+}

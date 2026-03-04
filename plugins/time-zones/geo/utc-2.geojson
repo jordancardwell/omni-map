@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-2","name":"South Georgia Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-37.5,-60],[-22.5,-60],[-22.5,84],[-37.5,84],[-37.5,-60]]]}}]}

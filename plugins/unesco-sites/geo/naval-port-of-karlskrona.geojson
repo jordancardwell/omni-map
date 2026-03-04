@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.58333,
+          56.16667
+        ]
+      },
+      "properties": {
+        "code": "naval-port-of-karlskrona",
+        "name": "Naval Port of Karlskrona",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

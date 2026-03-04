@@ -1,0 +1,20 @@
+{
+  "code": "tasmanian-rainforest",
+  "name": "Tasmanian Temperate Rainforest",
+  "country": "Australia",
+  "forestType": "Temperate",
+  "areaKm2": 10000,
+  "intactness": "Mostly Intact",
+  "changeSince2000": "-1.5% (approximately 150 km² lost or degraded)",
+  "annualLossRate": "<0.1% per year",
+  "threats": [
+    "Logging (native forest)",
+    "Climate change",
+    "Wildfires (increasing)",
+    "Phytophthora root rot",
+    "Mining proposals"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site (Tasmanian Wilderness). ~42% of Tasmania is protected. Tasmanian Wilderness World Heritage Area covers 1.58 million hectares. Forestry Tasmania has ended native forest logging in most areas. Remaining threats are primarily climate-related.",
+  "description": "The **Tasmanian Temperate Rainforest** is one of the last great temperate wilderness areas in the Southern Hemisphere. Its ancient Gondwanan forests contain species dating back to when Australia was part of the supercontinent.\n\n### Key Statistics\n- **Biodiversity**: Ancient conifers including Huon pine (Lagarostrobos franklinii), Gondwanan tree ferns\n- **Ancient trees**: Huon pine individuals over 2,000 years old; clonal stands over 10,000 years old\n- **Endemic species**: ~500 endemic plant species, Tasmanian devil, platypus\n- **Gondwanan heritage**: Flora lineage dating back 60+ million years\n\n### Deforestation Trends\nThe IFL 2020 data shows Tasmania's rainforests are well-preserved within the World Heritage Area. Historical logging controversies (particularly the Franklin Dam campaign of 1983) led to strong protections. The main threat now is climate change — increased fire risk threatens fire-sensitive rainforest species that may take centuries to recover.",
+  "geojson": "tasmanian-rainforest.geojson"
+}

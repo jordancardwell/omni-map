@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7236111111,
+          37.7083333333
+        ]
+      },
+      "properties": {
+        "code": "aphrodisias",
+        "name": "Aphrodisias",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

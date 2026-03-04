@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[167.17,-77.53]},"properties":{"code":"erebus","name":"Mount Erebus","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3794,"lastEruption":"2023","vei":2}}]}

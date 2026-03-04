@@ -1,0 +1,17 @@
+{
+  "code": "gunung-mulu-national-park",
+  "name": "Gunung Mulu National Park",
+  "type": "Natural",
+  "country": "Malaysia",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Important both for its high biodiversity and for its karst features, Gunung Mulu National Park, on the island of Borneo in the State of Sarawak, is the most studied tropical karst area in the world. The 52,864-ha park contains seventeen vegetation zones, exhibiting some 3,500 species of vascular plants. Its palm species are exceptionally rich, with 109 species in twenty genera noted. The park is dominated by Gunung Mulu, a 2,377 m-high sandstone pinnacle. At least 295 km of explored caves provide a spectacular sight and are home to millions of cave swiftlets and bats. The Sarawak Chamber, 600 m by 415 m and 80 m high, is the largest known cave chamber in the world.",
+  "danger": false,
+  "geojson": "gunung-mulu-national-park.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "armenian",
+  "name": "Armenian",
+  "scriptType": "Alphabet",
+  "characters": 38,
+  "direction": "LTR",
+  "originDate": "405 CE",
+  "sampleText": "Հայաստան — մեր հայրենիք",
+  "relatedScripts": [
+    "georgian",
+    "greek"
+  ],
+  "description": "The Armenian alphabet was created in 405 CE by Mesrop Mashtots, consisting of 38 letters (originally 36). It is used exclusively for the Armenian language and features distinctive angular letterforms. Armenian has separate uppercase and lowercase letter forms.",
+  "historicalNotes": "Mesrop Mashtots created the Armenian alphabet in 405 CE to translate the Bible into Armenian, which had previously been written in Greek and Syriac scripts. The alphabet originally had 36 letters; two were added in the 12th century. The creation of the script is considered a pivotal moment in Armenian cultural identity. The first sentence written in Armenian was reportedly 'To know wisdom and instruction; to perceive the words of understanding' (Proverbs 1:2).",
+  "geojson": "armenian.geojson"
+}

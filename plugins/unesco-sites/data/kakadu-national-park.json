@@ -1,0 +1,17 @@
+{
+  "code": "kakadu-national-park",
+  "name": "Kakadu National Park",
+  "type": "Mixed",
+  "country": "Australia",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(i)",
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This unique archaeological and ethnological reserve, located in the Northern Territory, has been inhabited continuously for more than 40,000 years. The cave paintings, rock carvings and archaeological sites record the skills and way of life of the region’s inhabitants, from the hunter-gatherers of prehistoric times to the Aboriginal people still living there. It is a unique example of a complex of ecosystems, including tidal flats, floodplains, lowlands and plateaux, and provides a habitat for a wide range of rare or endemic species of plants and animals.",
+  "danger": false,
+  "geojson": "kakadu-national-park.geojson"
+}

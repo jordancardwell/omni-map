@@ -1,0 +1,15 @@
+{
+  "code": "i-sacri-monti-i-of-piedmont-and-lombardy",
+  "name": "Sacri Monti of Piedmont and Lombardy",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The nine Sacri Monti (Sacred Mountains) of northern Italy are groups of chapels and other architectural features created in the late 16th and 17th centuries and dedicated to different aspects of the Christian faith. In addition to their symbolic spiritual meaning, they are of great beauty by virtue of the skill with which they have been integrated into the surrounding natural landscape of hills, forests and lakes. They also house much important artistic material in the form of wall paintings and statuary.",
+  "danger": false,
+  "geojson": "i-sacri-monti-i-of-piedmont-and-lombardy.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1016666667,
+          23.8588888889
+        ]
+      },
+      "properties": {
+        "code": "rani-ki-vav-the-queens-stepwell-at-patan-gujarat",
+        "name": "Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

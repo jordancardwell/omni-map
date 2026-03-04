@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1580555556,
+          69.0469444444
+        ]
+      },
+      "properties": {
+        "code": "putorana-plateau",
+        "name": "Putorana Plateau",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

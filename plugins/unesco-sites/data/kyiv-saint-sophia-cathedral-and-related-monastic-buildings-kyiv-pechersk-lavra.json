@@ -1,0 +1,17 @@
+{
+  "code": "kyiv-saint-sophia-cathedral-and-related-monastic-buildings-kyiv-pechersk-lavra",
+  "name": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+  "type": "Cultural",
+  "country": "Ukraine",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Designed to rival Hagia Sophia in Constantinople, Kyiv's Saint-Sophia Cathedral symbolizes the 'new Constantinople', capital of the Christian principality of Kyiv, which was created in the 11th century in a region evangelized after the baptism of St Vladimir in 988. The spiritual and intellectual influence of Kyiv-Pechersk Lavra contributed to the spread of Orthodox thought and the Orthodox faith in the Russian world from the 17th to the 19th century.",
+  "danger": true,
+  "geojson": "kyiv-saint-sophia-cathedral-and-related-monastic-buildings-kyiv-pechersk-lavra.geojson"
+}

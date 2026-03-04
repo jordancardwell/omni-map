@@ -1,0 +1,14 @@
+{
+  "code": "eid-al-fitr",
+  "name": "Eid al-Fitr",
+  "festivalType": "Religious",
+  "dateOrSeason": "End of Ramadan (varies)",
+  "origin": "Islamic tradition",
+  "estimatedAttendance": "1.8 billion Muslims worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Communal prayers at mosques; charitable giving (Zakat al-Fitr); festive meals with family; new clothing; visiting relatives and friends; children receive gifts and money.",
+  "historicalBackground": "Eid al-Fitr marks the end of Ramadan, the holy month of fasting. Established by Prophet Muhammad in Medina, it celebrates spiritual renewal and gratitude.",
+  "description": "The Festival of Breaking the Fast, one of the two major Islamic holidays celebrated by Muslims worldwide after the holy month of Ramadan.",
+  "location": "Mecca, Saudi Arabia",
+  "geojson": "eid-al-fitr.geojson"
+}

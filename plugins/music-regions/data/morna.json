@@ -1,0 +1,29 @@
+{
+  "code": "morna",
+  "name": "Morna",
+  "region": "Cape Verde",
+  "traditionFamily": "West African",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Violin",
+    "Guitar",
+    "Cavaquinho",
+    "Piano",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Cesária Évora",
+    "B. Leza",
+    "Eugénio Tavares",
+    "Ildo Lobo",
+    "Mayra Andrade"
+  ],
+  "description": "Morna is the national music genre of Cape Verde, a melancholic song form expressing themes of longing (sodade), love, the sea, and emigration. Often compared to Portuguese fado and Brazilian modinha, morna features gentle melodies and poetic lyrics in Cape Verdean Creole. Cesária Évora brought morna to international audiences as the 'Barefoot Diva.' UNESCO inscribed morna in 2019.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Morna",
+      "url": "https://ich.unesco.org/en/RL/morna-musical-practice-of-cabo-verde-01468"
+    }
+  ],
+  "geojson": "morna.geojson"
+}

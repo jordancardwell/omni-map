@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7488888889,
+          6.7977777778
+        ]
+      },
+      "properties": {
+        "code": "bale-mountains-national-park",
+        "name": "Bale Mountains National Park",
+        "type": "Natural",
+        "country": "Ethiopia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

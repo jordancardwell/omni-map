@@ -1,0 +1,17 @@
+{
+  "code": "dfw-mia",
+  "name": "Dallas — Miami",
+  "airports": [
+    "DFW",
+    "MIA"
+  ],
+  "distanceKm": 1803,
+  "weeklyFlights": 80,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–MIA route between Dallas and Miami. Distance: 1,803 km. ~80 weekly flights operated by American.",
+  "geojson": "dfw-mia.geojson"
+}

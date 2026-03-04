@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97,
+          14.59
+        ]
+      },
+      "properties": {
+        "code": "baroque-churches-of-the-philippines",
+        "name": "Baroque Churches of the Philippines",
+        "type": "Cultural",
+        "country": "Philippines",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

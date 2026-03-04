@@ -1,0 +1,19 @@
+{
+  "code": "sumatran-rhino",
+  "name": "Sumatran Rhinoceros",
+  "scientificName": "Dicerorhinus sumatrensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~80 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest",
+  "threats": [
+    "Habitat loss",
+    "Poaching",
+    "Small population size",
+    "Fragmentation"
+  ],
+  "conservationEfforts": "Indonesia's Sumatran Rhino Sanctuary breeds captive individuals. Anti-poaching patrols protect remaining wild populations in Way Kambas and Bukit Barisan.",
+  "description": "The smallest living rhinoceros and the only Asian rhino with two horns. Once widespread across Southeast Asia, it now survives in tiny fragmented populations on Sumatra and Borneo.",
+  "geojson": "sumatran-rhino.geojson"
+}

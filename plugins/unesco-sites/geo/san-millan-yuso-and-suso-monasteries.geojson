@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.86496,
+          42.32586
+        ]
+      },
+      "properties": {
+        "code": "san-millan-yuso-and-suso-monasteries",
+        "name": "San Millán Yuso and Suso Monasteries",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7040111111,
+          42.3407333333
+        ]
+      },
+      "properties": {
+        "code": "burgos-cathedral",
+        "name": "Burgos Cathedral",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

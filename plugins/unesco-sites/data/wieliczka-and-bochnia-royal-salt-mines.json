@@ -1,0 +1,14 @@
+{
+  "code": "wieliczka-and-bochnia-royal-salt-mines",
+  "name": "Wieliczka and Bochnia Royal Salt Mines",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The deposit of rock salt in Wieliczka and Bochnia has been mined since the 13th century. This major industrial undertaking has royal status and is the oldest of its type in Europe. The site is a serial property consisting of Wieliczka and Bochnia salt mines and Wieliczka Saltworks Castle. The Wieliczka and Bochnia Royal Salt Mines illustrate the historic stages of the development of mining techniques in Europe from the 13th to the 20th centuries: both mines have hundreds of kilometers of galleries with works of art, underground chapels and statues sculpted in the salt, making a fascinating pilgrimage into the past. The mines were administratively and technically run by Wieliczka Saltworks Castle, which dates from the medieval period and has been rebuilt several times in the course of its history.",
+  "danger": false,
+  "geojson": "wieliczka-and-bochnia-royal-salt-mines.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "yellow-river-basin",
+  "name": "Yellow River Basin",
+  "region": "East Asia",
+  "stressGroup": "3. Medium-High (20-40%)",
+  "waterStressLevel": "Medium-High",
+  "waterStressRatio": "~38% — withdrawal-to-availability",
+  "depletionRate": "High — the river ran dry 226 days in 1997",
+  "droughtRisk": "High",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 190000000,
+  "riskFactors": ["Over-allocation", "Loess Plateau erosion", "Industrial demand", "Climate aridification"],
+  "description": "The Yellow River (Huang He) is China's second longest river but carries water for 12% of China's population with only 2% of its water resources. Extreme over-allocation caused the river to fail to reach the sea for most of the 1990s. Government flow-management reforms since 1999 have maintained minimum flows, but climate projections indicate 10-20% precipitation declines across the basin by 2050.",
+  "geojson": "yellow-river-basin.geojson"
+}

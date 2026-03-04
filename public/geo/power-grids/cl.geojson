@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cl","name":"Chile","country":"CL","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-75.6,-55.6],[-75.6,-17.5],[-66.9,-17.5],[-66.9,-55.6],[-75.6,-55.6]]]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "gu-yp-cable",
+  "name": "GU-YP Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2663,
+  "yearLaid": 2015,
+  "rfsDate": "2015-06",
+  "owner": "FSM Telecom",
+  "landingPoints": [
+    "Guam",
+    "Yap, FSM"
+  ],
+  "description": "GU-YP Cable connecting Guam to Yap in the Pacific.",
+  "geojson": "gu-yp-cable.geojson"
+}

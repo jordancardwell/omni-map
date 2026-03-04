@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-16.6423,28.2724]},"properties":{"code":"teide","name":"Mount Teide","volcanoType":"Stratovolcano","status":"Dormant","elevation":3718,"lastEruption":"1909","vei":2}}]}

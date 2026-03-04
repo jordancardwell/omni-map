@@ -6,5 +6,47 @@
   "version": "1.0.0",
   "icon": "globe",
   "defaultColor": "#4A90D9",
-  "categories": ["linguistics", "culture"]
+  "categories": ["linguistics", "culture"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "linguistics",
+  "thumbnail": "#4A90D9",
+  "schema": "LanguageMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "nativeName", "family"],
+    "groupBy": "family",
+    "titleField": "name",
+    "subtitleField": "nativeName",
+    "badgeField": "speakers.total",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "nativeName"
+  },
+  "detailFields": [
+    { "key": "family", "label": "Language Family", "type": "text" },
+    { "key": "branch", "label": "Branch", "type": "text" },
+    { "key": "speakers.native", "label": "Native Speakers", "type": "formatted-number" },
+    { "key": "speakers.total", "label": "Total Speakers", "type": "formatted-number" },
+    { "key": "speakers.source", "label": "Source", "type": "text" },
+    { "key": "writingSystem", "label": "Writing System", "type": "text" },
+    {
+      "key": "endangermentStatus",
+      "label": "Endangerment Status",
+      "type": "status-badge",
+      "statusColors": {
+        "safe": "#22c55e",
+        "vulnerable": "#eab308",
+        "endangered": "#f97316",
+        "critically endangered": "#ef4444"
+      }
+    },
+    { "key": "dialects", "label": "Dialects", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "historicalNotes", "label": "Historical Notes", "type": "markdown" },
+    { "key": "relatedLanguages", "label": "Related Languages", "type": "tags", "referenceItems": true },
+    { "key": "resources", "label": "Resources", "type": "links" }
+  ]
 }

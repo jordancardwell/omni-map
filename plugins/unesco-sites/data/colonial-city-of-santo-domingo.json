@@ -1,0 +1,15 @@
+{
+  "code": "colonial-city-of-santo-domingo",
+  "name": "Colonial City of Santo Domingo",
+  "type": "Cultural",
+  "country": "Dominican Republic",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "After Christopher Columbus's arrival on the island in 1492, Santo Domingo became the site of the first cathedral, hospital, customs house and university in the Americas. This colonial town, founded in 1498, was laid out on a grid pattern that became the model for almost all town planners in the New World.",
+  "danger": false,
+  "geojson": "colonial-city-of-santo-domingo.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "india-uae",
+  "name": "India \u2192 UAE",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "India \u2192 United Arab Emirates",
+  "badgeValue": "~3.5 million",
+  "origin": "India",
+  "destination": "United Arab Emirates",
+  "estimatedMigrants": "~3.5 million",
+  "drivers": [
+    "Construction labor demand",
+    "Gulf oil economy",
+    "Higher wages",
+    "Kafala system"
+  ],
+  "description": "Indian workers form the largest expatriate community in the UAE, concentrated in construction, domestic services, and retail. The kafala (sponsorship) system has historically tied workers to employers. Migration accelerated with the Gulf construction boom of the 2000s. Remittances from the UAE form a significant portion of India's foreign earnings.",
+  "geojson": "india-uae.geojson"
+}

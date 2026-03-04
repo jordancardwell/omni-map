@@ -1,0 +1,24 @@
+{
+  "code": "cerrado-degradation",
+  "name": "Brazilian Cerrado Degradation Front",
+  "region": "South America",
+  "aridityGroup": "4. Dry Sub-Humid",
+  "aridityClassification": "Dry Sub-Humid",
+  "aridityIndex": "0.50–0.65 — tropical dry savanna",
+  "area": "2,040,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 25000000,
+  "affectedCountries": [
+    "Brazil"
+  ],
+  "desertificationDrivers": [
+    "Soybean expansion",
+    "Cattle ranching",
+    "Deforestation",
+    "Fire regime alteration",
+    "Aquifer pressure"
+  ],
+  "desertFrontier": "Agricultural frontier advancing into remaining native Cerrado; 50% already converted",
+  "description": "The Cerrado, the world's most biodiverse savanna, is being destroyed faster than the Amazon. Over 50% has been converted to soybean fields and cattle ranches. The Cerrado acts as a 'water tower' for Brazil — its deep-rooted vegetation feeds the aquifers that supply major rivers including tributaries of the Amazon, Paraná, and São Francisco. Its destruction threatens Brazil's entire water and agricultural system.",
+  "geojson": "cerrado-degradation.geojson"
+}

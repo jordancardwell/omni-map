@@ -1,0 +1,16 @@
+{
+  "code": "tui-samoa",
+  "name": "Tui-Samoa",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1400,
+  "yearLaid": 2018,
+  "rfsDate": "2018-12",
+  "owner": "AMSCC",
+  "landingPoints": [
+    "Apia, Samoa",
+    "Suva, Fiji"
+  ],
+  "description": "Samoa-Fiji submarine cable providing improved connectivity.",
+  "geojson": "tui-samoa.geojson"
+}

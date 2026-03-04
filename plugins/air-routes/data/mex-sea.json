@@ -1,0 +1,17 @@
+{
+  "code": "mex-sea",
+  "name": "Mexico City — Seattle",
+  "airports": [
+    "MEX",
+    "SEA"
+  ],
+  "distanceKm": 3757,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–SEA route between Mexico City and Seattle. Distance: 3,757 km. ~15 weekly flights operated by Delta.",
+  "geojson": "mex-sea.geojson"
+}

@@ -1,0 +1,30 @@
+{
+  "code": "utc-5",
+  "name": "Eastern Standard Time",
+  "nativeName": "UTC-05:00",
+  "utcOffset": "UTC-05:00",
+  "utcOffsetHours": -5,
+  "offsetGroup": "2. West (UTC-8 to -5)",
+  "ianaNames": [
+    "America/New_York",
+    "America/Toronto",
+    "America/Bogota",
+    "America/Lima"
+  ],
+  "countries": [
+    "US (Eastern states)",
+    "Canada (Ontario, Quebec)",
+    "Colombia",
+    "Peru",
+    "Ecuador",
+    "Cuba",
+    "Jamaica",
+    "Panama"
+  ],
+  "dstRules": "US/Canada observe DST (UTC-4 in summer, Mar–Nov); South American countries generally do not",
+  "description": "The most economically significant timezone in the Americas, home to New York City, Washington DC, Toronto, and the major financial markets. Covers the entire eastern seaboard of the US and extends into South America.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-5.geojson"
+}

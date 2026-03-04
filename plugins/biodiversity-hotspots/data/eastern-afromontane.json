@@ -1,0 +1,29 @@
+{
+  "code": "eastern-afromontane",
+  "name": "Eastern Afromontane",
+  "location": "Eastern Africa (Ethiopia to Mozambique)",
+  "areaKm2": 1017806,
+  "habitatRemaining": "11.1%",
+  "plantSpecies": 7598,
+  "endemicPlants": 2350,
+  "vertebrateSpecies": 1330,
+  "endemicVertebrates": 300,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Mountain gorilla",
+    "Ethiopian wolf",
+    "Gelada",
+    "Giant lobelia",
+    "African wild dog"
+  ],
+  "threats": [
+    "Agriculture expansion",
+    "Deforestation",
+    "Overgrazing",
+    "Human settlement",
+    "Political instability"
+  ],
+  "conservationEfforts": "Mountain gorilla conservation in Virunga and Bwindi has increased populations from 620 to over 1,000. Ethiopian wolf conservation program. Multiple national parks including Bale Mountains and Mount Kenya. African Wildlife Foundation supports habitat corridors.",
+  "description": "The Eastern Afromontane hotspot forms a chain of isolated mountain ranges stretching from Saudi Arabia through Ethiopia, down the East African Rift to southern Mozambique. These 'sky islands' of montane forest and grassland are separated by lowland habitats.\n\nThe isolation of these mountain blocks has driven extraordinary endemism, similar to oceanic islands. The hotspot includes the Albertine Rift, which has the highest vertebrate species richness of any region in Africa. It is also the source of the Nile River and contains Africa's largest lakes.",
+  "geojson": "eastern-afromontane.geojson"
+}

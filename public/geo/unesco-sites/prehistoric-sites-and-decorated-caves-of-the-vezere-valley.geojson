@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.17,
+          45.0575
+        ]
+      },
+      "properties": {
+        "code": "prehistoric-sites-and-decorated-caves-of-the-vezere-valley",
+        "name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

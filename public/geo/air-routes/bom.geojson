@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bom","name":"Chhatrapati Shivaji Maharaj International","featureType":"airport","iataCode":"BOM","annualPassengers":45500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[72.8656,19.0896]}}]}

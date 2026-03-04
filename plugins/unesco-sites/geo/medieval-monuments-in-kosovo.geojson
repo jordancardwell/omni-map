@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2655555555,
+          42.6611111111
+        ]
+      },
+      "properties": {
+        "code": "medieval-monuments-in-kosovo",
+        "name": "Medieval Monuments in Kosovo",
+        "type": "Cultural",
+        "country": "Serbia",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

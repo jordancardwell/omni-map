@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05583333,
+          47.82083333
+        ]
+      },
+      "properties": {
+        "code": "wooden-churches-of-maramures",
+        "name": "Wooden Churches of Maramureş",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

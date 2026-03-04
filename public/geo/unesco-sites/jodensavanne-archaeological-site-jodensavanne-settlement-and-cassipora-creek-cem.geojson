@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9826666667,
+          5.4311111111
+        ]
+      },
+      "properties": {
+        "code": "jodensavanne-archaeological-site-jodensavanne-settlement-and-cassipora-creek-cem",
+        "name": "Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery",
+        "type": "Cultural",
+        "country": "Suriname",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

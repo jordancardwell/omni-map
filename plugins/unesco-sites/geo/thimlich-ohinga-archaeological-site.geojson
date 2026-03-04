@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.326107,
+          -0.8913380556
+        ]
+      },
+      "properties": {
+        "code": "thimlich-ohinga-archaeological-site",
+        "name": "Thimlich Ohinga Archaeological Site",
+        "type": "Cultural",
+        "country": "Kenya",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

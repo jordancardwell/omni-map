@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1189444444,
+          43.2774166667
+        ]
+      },
+      "properties": {
+        "code": "madara-rider",
+        "name": "Madara Rider",
+        "type": "Cultural",
+        "country": "Bulgaria",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

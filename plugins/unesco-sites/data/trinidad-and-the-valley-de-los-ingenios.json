@@ -1,0 +1,15 @@
+{
+  "code": "trinidad-and-the-valley-de-los-ingenios",
+  "name": "Trinidad and the Valley de los Ingenios",
+  "type": "Cultural",
+  "country": "Cuba",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade.",
+  "danger": false,
+  "geojson": "trinidad-and-the-valley-de-los-ingenios.geojson"
+}

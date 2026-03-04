@@ -1,0 +1,29 @@
+{
+  "code": "madrean-pine-oak-woodlands",
+  "name": "Madrean Pine-Oak Woodlands",
+  "location": "Western Mexico and Southwestern USA",
+  "areaKm2": 461265,
+  "habitatRemaining": "20.3%",
+  "plantSpecies": 5300,
+  "endemicPlants": 3975,
+  "vertebrateSpecies": 764,
+  "endemicVertebrates": 207,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Thick-billed parrot",
+    "Mexican wolf",
+    "Imperial woodpecker",
+    "Eared quetzal",
+    "Coppery-tailed trogon"
+  ],
+  "threats": [
+    "Logging",
+    "Agriculture",
+    "Mining",
+    "Overgrazing",
+    "Drug-related land clearing"
+  ],
+  "conservationEfforts": "Sierra Madre Alliance supports community conservation. Mexican wolf reintroduction program. Protected areas including Sierra de Manantlán Biosphere Reserve. Community-managed forests in Oaxaca serve as conservation models.",
+  "description": "The Madrean Pine-Oak Woodlands hotspot encompasses the mountain ranges of western Mexico and extends into the southwestern United States. The Sierra Madre Occidental, Sierra Madre Oriental, and connecting ranges support the world's most diverse pine and oak forests.\n\nWith more species of pine and oak than any comparable area on Earth, this region is a global center of diversity for these important tree genera. The varied topography creates a mosaic of habitats from subtropical dry forests in deep canyons to conifer forests on peaks. The region is also critical for migratory birds.",
+  "geojson": "madrean-pine-oak-woodlands.geojson"
+}

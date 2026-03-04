@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8065833333,
+          25.0828055556
+        ]
+      },
+      "properties": {
+        "code": "faya-palaeolandscape",
+        "name": "Faya Palaeolandscape",
+        "type": "Cultural",
+        "country": "United Arab Emirates",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "chilean-central-valley",
+  "name": "Chilean Central Valley",
+  "region": "South America",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "High — exacerbated by eucalyptus and pine plantations",
+  "dominantVegetation": "Mediterranean scrub, eucalyptus plantations, pine plantations",
+  "fireSeasonMonths": "December – March",
+  "areaBurnedAnnual": "~100,000 ha average; 614,000 ha in 2017",
+  "seasonalPattern": "Austral summer (December–March) brings hot, dry conditions to central Chile. A megadrought since 2010 — the worst in 1,000 years — has dramatically increased fire risk. Exotic timber plantations (eucalyptus and pine) burn with extreme intensity and have replaced much of the native matorral shrubland, creating a more fire-prone landscape.",
+  "historicalFires": ["2017 Chile Megafires (614K ha)", "2023 Central Chile Fires (430K ha)", "2014 Valparaíso Fire (1K ha, 2,900 homes)", "2012 Bio-Bio Fires (70K ha)"],
+  "description": "Central Chile faces a growing wildfire crisis driven by the convergence of a decade-long megadrought, vast industrial timber plantations, and a rapidly warming Mediterranean climate. The 2017 fire season was Chile's worst in modern history, burning 614,000 hectares and killing 11 people. Eucalyptus and pine plantations — which cover over 3 million hectares — burn with extreme intensity and are rapidly replacing native vegetation. Chile has lost more native forest to fire in the last decade than in the previous century.",
+  "geojson": "chilean-central-valley.geojson"
+}

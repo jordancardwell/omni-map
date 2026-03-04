@@ -1,0 +1,19 @@
+{
+  "code": "corroboree-frog",
+  "name": "Southern Corroboree Frog",
+  "scientificName": "Pseudophryne corroboree",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~50 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Subalpine sphagnum bog",
+  "threats": [
+    "Chytrid fungus",
+    "Climate change",
+    "Drought",
+    "Fire"
+  ],
+  "conservationEfforts": "Taronga Zoo and Melbourne Zoo breed captive populations. Field enclosures with treated water protect frogs from chytrid. Fewer than 50 remain in the wild.",
+  "description": "Australia's most iconic frog with striking black and yellow stripes. Found only in a tiny area of the Australian Alps, it is one of the few poisonous frogs outside the tropics, producing its own alkaloid toxins.",
+  "geojson": "corroboree-frog.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "great-himalayan-national-park-conservation-area",
+  "name": "Great Himalayan National Park Conservation Area",
+  "type": "Natural",
+  "country": "India",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This National Park in the western part of the Himalayan Mountains in the northern Indian state of Himachal Pradesh is characterized by high alpine peaks, alpine meadows and riverine forests. The 90,540 ha property includes the upper mountain glacial and snow meltwater sources of several rivers, and the catchments of water supplies that are vital to millions of downstream users. The GHNPCA protects the monsoon-affected forests and alpine meadows of the Himalayan front ranges. It is part of the Himalaya biodiversity hotspot and includes twenty-five forest types along with a rich assemblage of fauna species, several of which are threatened. This gives the site outstanding significance for biodiversity conservation.",
+  "danger": false,
+  "geojson": "great-himalayan-national-park-conservation-area.geojson"
+}

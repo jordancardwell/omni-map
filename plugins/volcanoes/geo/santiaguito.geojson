@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.552,14.756]},"properties":{"code":"santiaguito","name":"Santiaguito","volcanoType":"Lava dome","status":"Erupting/Recent","elevation":2500,"lastEruption":"2023","vei":3}}]}

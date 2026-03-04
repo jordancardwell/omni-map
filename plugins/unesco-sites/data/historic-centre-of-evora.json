@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-evora",
+  "name": "Historic Centre of Évora",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This museum-city, whose roots go back to Roman times, reached its golden age in the 15th century, when it became the residence of the Portuguese kings. Its unique quality stems from the whitewashed houses decorated with azulejos and wrought-iron balconies dating from the 16th to the 18th century. Its monuments had a profound influence on Portuguese architecture in Brazil.",
+  "danger": false,
+  "geojson": "historic-centre-of-evora.geojson"
+}

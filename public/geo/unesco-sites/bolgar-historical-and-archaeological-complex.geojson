@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0563888889,
+          54.9788888889
+        ]
+      },
+      "properties": {
+        "code": "bolgar-historical-and-archaeological-complex",
+        "name": "Bolgar Historical and Archaeological Complex",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

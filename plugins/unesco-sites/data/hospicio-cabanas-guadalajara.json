@@ -1,0 +1,17 @@
+{
+  "code": "hospicio-cabanas-guadalajara",
+  "name": "Hospicio Cabañas, Guadalajara",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Hospicio Cabañas was built at the beginning of the 19th century to provide care and shelter for the disadvantaged – orphans, old people, the handicapped and chronic invalids. This remarkable complex, which incorporates several unusual features designed specifically to meet the needs of its occupants, was unique for its time. It is also notable for the harmonious relationship between the open and built spaces, the simplicity of its design, and its size. In the early 20th century, the chapel was decorated with a superb series of murals, now considered some of the masterpieces of Mexican art. They are the work of José Clemente Orozco, one of the greatest Mexican muralists of the period.",
+  "danger": false,
+  "geojson": "hospicio-cabanas-guadalajara.geojson"
+}

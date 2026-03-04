@@ -1,0 +1,21 @@
+{
+  "code": "gemini-observatory-hq",
+  "name": "Gemini Observatory HQ",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4213,
+  "aperture": "2 × 8.1 m (N+S)",
+  "telescopes": [
+    "Gemini North",
+    "Gemini South"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet imaging",
+    "Galaxy dynamics",
+    "Transient spectroscopy"
+  ],
+  "location": "Gemini Observatory HQ, United States",
+  "description": "International Gemini Observatory operated by NOIRLab. The twin 8.1m telescopes provide full-sky coverage for the Gemini partnership of seven nations.",
+  "geojson": "gemini-observatory-hq.geojson"
+}

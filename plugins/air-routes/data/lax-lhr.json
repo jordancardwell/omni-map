@@ -1,0 +1,20 @@
+{
+  "code": "lax-lhr",
+  "name": "Los Angeles — London",
+  "airports": [
+    "LAX",
+    "LHR"
+  ],
+  "distanceKm": 8760,
+  "weeklyFlights": 80,
+  "airlines": [
+    "British Airways",
+    "American",
+    "United",
+    "Virgin Atlantic"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–LHR route between Los Angeles and London. Distance: 8,760 km. ~80 weekly flights operated by British Airways, American, United, Virgin Atlantic.",
+  "geojson": "lax-lhr.geojson"
+}

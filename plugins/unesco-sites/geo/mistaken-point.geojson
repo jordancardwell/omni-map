@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2111111111,
+          46.635
+        ]
+      },
+      "properties": {
+        "code": "mistaken-point",
+        "name": "Mistaken Point",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

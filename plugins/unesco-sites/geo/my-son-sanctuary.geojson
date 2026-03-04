@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.109169,
+          15.773843
+        ]
+      },
+      "properties": {
+        "code": "my-son-sanctuary",
+        "name": "My Son Sanctuary",
+        "type": "Cultural",
+        "country": "Viet Nam",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

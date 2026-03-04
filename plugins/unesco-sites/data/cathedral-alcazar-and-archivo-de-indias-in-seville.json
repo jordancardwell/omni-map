@@ -1,0 +1,16 @@
+{
+  "code": "cathedral-alcazar-and-archivo-de-indias-in-seville",
+  "name": "Cathedral, Alcázar and Archivo de Indias in Seville",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Together these three buildings form a remarkable monumental complex in the heart of Seville. The cathedral and the Alcázar – dating from the Reconquest of 1248 to the 16th century and imbued with Moorish influences – are an exceptional testimony to the civilization of the Almohads as well as that of Christian Andalusia. The Giralda minaret is the masterpiece of Almohad architecture. It stands next to the cathedral with its five naves; the largest Gothic building in Europe, it houses the tomb of Christopher Columbus. The ancient Lonja, which became the Archivo de Indias, contains valuable documents from the archives of the colonies in the Americas.",
+  "danger": false,
+  "geojson": "cathedral-alcazar-and-archivo-de-indias-in-seville.geojson"
+}

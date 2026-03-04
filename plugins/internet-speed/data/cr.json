@@ -1,0 +1,17 @@
+{
+  "code": "cr",
+  "name": "Costa Rica",
+  "avgDownloadMbps": 61.8,
+  "avgUploadMbps": 16.4,
+  "avgLatencyMs": 30,
+  "mobileDownloadMbps": 26.2,
+  "mobileUploadMbps": 5.8,
+  "fixedDownloadMbps": 61.8,
+  "fixedUploadMbps": 16.4,
+  "rank": 65,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Central America",
+  "dataYear": 2024,
+  "trendDescription": "Central America's connectivity leader. ~15% year-over-year improvement.",
+  "geojson": "cr.geojson"
+}

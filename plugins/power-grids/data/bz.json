@@ -1,0 +1,20 @@
+{
+  "code": "bz",
+  "name": "Belize",
+  "voltage": "110V/220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "G"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "Dual",
+  "adapterNotes": "Mix of American and British outlets. Check voltage before plugging in. Adapter recommended.",
+  "geojson": "bz.geojson"
+}

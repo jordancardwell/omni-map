@@ -1,0 +1,19 @@
+{
+  "code": "steppe-eagle",
+  "name": "Steppe Eagle",
+  "scientificName": "Aquila nipalensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~50,000-75,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Steppe and semi-desert grassland",
+  "threats": [
+    "Electrocution on power lines",
+    "Habitat loss",
+    "Poisoning",
+    "Wind turbines"
+  ],
+  "conservationEfforts": "RSPB and BirdLife partners retrofit power lines in Central Asian flyway. National action plans in several range countries. Satellite tracking identifies key migration bottlenecks.",
+  "description": "A large eagle that migrates vast distances from Central Asian breeding grounds to wintering areas in Africa and South Asia. They have declined rapidly due to electrocution on power lines.",
+  "geojson": "steppe-eagle.geojson"
+}

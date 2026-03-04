@@ -1,0 +1,16 @@
+{
+  "code": "kr-hk-cable",
+  "name": "KR-HK Cable",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7096,
+  "yearLaid": 2010,
+  "rfsDate": "2022-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Hong Kong, China"
+  ],
+  "description": "KR-HK Cable connecting Busan to Hong Kong.",
+  "geojson": "kr-hk-cable.geojson"
+}

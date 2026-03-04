@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39861111,
+          52.51972222
+        ]
+      },
+      "properties": {
+        "code": "museumsinsel-museum-island-berlin",
+        "name": "Museumsinsel (Museum Island), Berlin",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

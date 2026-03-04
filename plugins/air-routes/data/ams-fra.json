@@ -1,0 +1,18 @@
+{
+  "code": "ams-fra",
+  "name": "Amsterdam — Frankfurt",
+  "airports": [
+    "AMS",
+    "FRA"
+  ],
+  "distanceKm": 366,
+  "weeklyFlights": 120,
+  "airlines": [
+    "KLM",
+    "Lufthansa"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "AMS–FRA route between Amsterdam and Frankfurt. Distance: 366 km. ~120 weekly flights operated by KLM, Lufthansa.",
+  "geojson": "ams-fra.geojson"
+}

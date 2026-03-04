@@ -1,0 +1,16 @@
+{
+  "code": "lrd",
+  "name": "Liberian Dollar",
+  "isoCode": "LRD",
+  "symbol": "L$",
+  "region": "Africa",
+  "centralBank": "Central Bank of Liberia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Liberia"
+  ],
+  "countryCount": 1,
+  "description": "The Liberian Dollar circulates alongside the US Dollar. Liberia was founded by freed American slaves in the 19th century.",
+  "historicalNotes": "Liberia used the US dollar until 1943 when it introduced its own dollar. Both currencies remain legal tender.",
+  "geojson": "lrd.geojson"
+}

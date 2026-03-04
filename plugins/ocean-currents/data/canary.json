@@ -1,0 +1,21 @@
+{
+  "code": "canary",
+  "name": "Canary Current",
+  "currentType": "Cold",
+  "speedRange": "0.2–0.4 m/s",
+  "origin": "North Atlantic Drift",
+  "destination": "North Equatorial Current",
+  "climateEffects": [
+    "Cools Northwest African coast",
+    "Drives upwelling (rich fisheries)",
+    "Creates coastal desert conditions"
+  ],
+  "connectedEcosystems": [
+    "Canary Islands marine habitats",
+    "Northwest African upwelling zone",
+    "Mauritanian fisheries"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Canary Current is a cold, southward-flowing eastern boundary current in the North Atlantic. It drives one of the world's most productive upwelling systems off the coast of northwest Africa.",
+  "geojson": "canary.geojson"
+}

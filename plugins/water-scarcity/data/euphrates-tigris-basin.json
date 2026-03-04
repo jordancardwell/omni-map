@@ -1,0 +1,15 @@
+{
+  "code": "euphrates-tigris-basin",
+  "name": "Euphrates-Tigris Basin",
+  "region": "Middle East",
+  "stressGroup": "3. Medium-High (20-40%)",
+  "waterStressLevel": "Medium-High",
+  "waterStressRatio": "~40% — withdrawal-to-availability",
+  "depletionRate": "High — GRACE satellites show 144 km³ lost 2003-2013",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "High",
+  "affectedPopulation": 70000000,
+  "riskFactors": ["Upstream dam construction", "Transboundary disputes", "Marshland drainage", "Climate aridification"],
+  "description": "The Euphrates-Tigris system — cradle of civilization — is now one of the fastest-depleting basins on Earth. Turkey's GAP dam project reduced downstream flows by 40-50%. Iraq's Mesopotamian Marshes, once 20,000 km², shrank to 10% of their extent. GRACE satellite data shows the basin lost 144 km³ of stored freshwater between 2003 and 2013, equivalent to the volume of the Dead Sea.",
+  "geojson": "euphrates-tigris-basin.geojson"
+}

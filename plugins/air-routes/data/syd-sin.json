@@ -1,0 +1,19 @@
+{
+  "code": "syd-sin",
+  "name": "Sydney — Singapore",
+  "airports": [
+    "SYD",
+    "SIN"
+  ],
+  "distanceKm": 6294,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Qantas",
+    "Singapore Airlines",
+    "Jetstar"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "SYD–SIN route between Sydney and Singapore. Distance: 6,294 km. ~100 weekly flights operated by Qantas, Singapore Airlines, Jetstar.",
+  "geojson": "syd-sin.geojson"
+}

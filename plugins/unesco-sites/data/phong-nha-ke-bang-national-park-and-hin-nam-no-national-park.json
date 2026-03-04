@@ -1,0 +1,16 @@
+{
+  "code": "phong-nha-ke-bang-national-park-and-hin-nam-no-national-park",
+  "name": "Phong Nha-Ke Bang National Park and Hin Nam No National Park",
+  "type": "Natural",
+  "country": "Viet Nam, Lao People's Democratic Republic",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This transboundary property, located along the border between Viet Nam and the Lao People’s Democratic Republic, forms one of the most exceptional and well-preserved limestone karst landscapes in the world. The karst formations in this area began developing around 400 million years ago during the Palaeozoic era, making it the oldest large-scale karst system in Asia. It features dramatic cliffs, deep sinkholes, and a vast network of underground rivers. Over 220 kilometres of caves and subterranean waterways have been documented, many of which are globally significant for their size, beauty, and scientific value. This ancient terrain supports a remarkable diversity of ecosystems, ranging from high-altitude dry karst forests to dense, moist lowland forests, which are home to many rare and unique plant and animal species, including many that are rare, endangered, or endemic to the region. The biodiversity in this region is not only remarkable but also plays a crucial role in global conservation efforts.",
+  "danger": false,
+  "geojson": "phong-nha-ke-bang-national-park-and-hin-nam-no-national-park.geojson"
+}

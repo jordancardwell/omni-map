@@ -1,0 +1,19 @@
+{
+  "code": "pvg-can",
+  "name": "Shanghai — Guangzhou",
+  "airports": [
+    "PVG",
+    "CAN"
+  ],
+  "distanceKm": 1202,
+  "weeklyFlights": 290,
+  "airlines": [
+    "China Eastern",
+    "China Southern",
+    "Spring Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PVG–CAN route between Shanghai and Guangzhou. Distance: 1,202 km. ~290 weekly flights operated by China Eastern, China Southern, Spring Airlines.",
+  "geojson": "pvg-can.geojson"
+}

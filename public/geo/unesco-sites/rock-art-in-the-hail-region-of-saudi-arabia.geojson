@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9130555556,
+          28.0105555556
+        ]
+      },
+      "properties": {
+        "code": "rock-art-in-the-hail-region-of-saudi-arabia",
+        "name": "Rock Art in the Hail Region of Saudi Arabia",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

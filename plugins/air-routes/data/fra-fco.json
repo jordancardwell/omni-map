@@ -1,0 +1,18 @@
+{
+  "code": "fra-fco",
+  "name": "Frankfurt — Rome",
+  "airports": [
+    "FRA",
+    "FCO"
+  ],
+  "distanceKm": 959,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Lufthansa",
+    "ITA Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "FRA–FCO route between Frankfurt and Rome. Distance: 959 km. ~80 weekly flights operated by Lufthansa, ITA Airways.",
+  "geojson": "fra-fco.geojson"
+}

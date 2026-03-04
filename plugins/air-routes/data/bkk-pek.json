@@ -1,0 +1,18 @@
+{
+  "code": "bkk-pek",
+  "name": "Bangkok — Beijing",
+  "airports": [
+    "BKK",
+    "PEK"
+  ],
+  "distanceKm": 3317,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Thai Airways",
+    "Air China"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "BKK–PEK route between Bangkok and Beijing. Distance: 3,317 km. ~40 weekly flights operated by Thai Airways, Air China.",
+  "geojson": "bkk-pek.geojson"
+}

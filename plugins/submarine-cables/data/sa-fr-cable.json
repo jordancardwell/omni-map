@@ -1,0 +1,16 @@
+{
+  "code": "sa-fr-cable",
+  "name": "SA-FR Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 12921,
+  "yearLaid": 2016,
+  "rfsDate": "2015-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Jeddah, Saudi Arabia",
+    "Marseille, France"
+  ],
+  "description": "SA-FR Cable connecting Jeddah to Marseille.",
+  "geojson": "sa-fr-cable.geojson"
+}

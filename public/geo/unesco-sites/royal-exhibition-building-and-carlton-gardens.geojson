@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9702778,
+          -37.80611111
+        ]
+      },
+      "properties": {
+        "code": "royal-exhibition-building-and-carlton-gardens",
+        "name": "Royal Exhibition Building and Carlton Gardens",
+        "type": "Cultural",
+        "country": "Australia",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

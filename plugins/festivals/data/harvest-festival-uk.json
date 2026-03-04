@@ -1,0 +1,14 @@
+{
+  "code": "harvest-festival-uk",
+  "name": "Harvest Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Late September–October",
+  "origin": "British Christian tradition",
+  "estimatedAttendance": "Millions across UK",
+  "unescoICH": "Not inscribed",
+  "traditions": "Church services with produce displays; harvest hymns; food donations to charity; harvest suppers; corn dollies; apple pressing.",
+  "historicalBackground": "Harvest festivals have pre-Christian roots in Anglo-Saxon celebrations. The modern church Harvest Festival was established by Reverend Robert Hawker in 1843.",
+  "description": "Britain's cherished autumn tradition of giving thanks for the harvest with church services, food donations, and communal harvest suppers.",
+  "location": "London, UK",
+  "geojson": "harvest-festival-uk.geojson"
+}

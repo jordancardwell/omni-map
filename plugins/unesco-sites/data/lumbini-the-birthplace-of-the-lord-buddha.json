@@ -1,0 +1,14 @@
+{
+  "code": "lumbini-the-birthplace-of-the-lord-buddha",
+  "name": "Lumbini, the Birthplace of the Lord Buddha",
+  "type": "Cultural",
+  "country": "Nepal",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens of Lumbini, which soon became a place of pilgrimage. Among the pilgrims was the Indian emperor Ashoka, who erected one of his commemorative pillars there. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature.",
+  "danger": false,
+  "geojson": "lumbini-the-birthplace-of-the-lord-buddha.geojson"
+}

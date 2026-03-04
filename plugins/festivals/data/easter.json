@@ -1,0 +1,14 @@
+{
+  "code": "easter",
+  "name": "Easter",
+  "festivalType": "Religious",
+  "dateOrSeason": "March–April (varies)",
+  "origin": "Christian tradition",
+  "estimatedAttendance": "2+ billion Christians worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Church services and sunrise worship; Easter egg hunts; decorating eggs; hot cross buns; Paschal lamb feasts; processions and passion plays.",
+  "historicalBackground": "Easter celebrates the resurrection of Jesus Christ on the third day after crucifixion. The date follows the lunisolar calendar, tied to the Jewish Passover.",
+  "description": "The most important Christian festival celebrating the resurrection of Jesus Christ, observed with religious services and springtime traditions.",
+  "location": "Vatican City, Italy",
+  "geojson": "easter.geojson"
+}

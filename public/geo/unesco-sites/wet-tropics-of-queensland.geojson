@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9666667,
+          -15.65
+        ]
+      },
+      "properties": {
+        "code": "wet-tropics-of-queensland",
+        "name": "Wet Tropics of Queensland",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

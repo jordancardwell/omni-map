@@ -1,0 +1,15 @@
+{
+  "code": "busan",
+  "name": "Port of Busan",
+  "country": "South Korea",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 470,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Busan in South Korea. Annual cargo throughput: ~470 million tons. Type: Container Port.",
+  "geojson": "busan.geojson"
+}

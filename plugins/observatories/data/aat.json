@@ -1,0 +1,20 @@
+{
+  "code": "aat",
+  "name": "Anglo-Australian Telescope",
+  "country": "Australia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1164,
+  "aperture": "3.9 m",
+  "telescopes": [
+    "AAT"
+  ],
+  "keyDiscoveries": [
+    "2dF Galaxy Redshift Survey",
+    "Dark energy evidence",
+    "Stellar populations"
+  ],
+  "location": "Anglo-Australian Telescope, Australia",
+  "description": "A 3.9m equatorially mounted telescope at Siding Spring Observatory. Pioneered multi-fiber spectroscopy and produced landmark galaxy surveys.",
+  "geojson": "aat.geojson"
+}

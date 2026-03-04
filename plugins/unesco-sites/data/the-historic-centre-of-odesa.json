@@ -1,0 +1,15 @@
+{
+  "code": "the-historic-centre-of-odesa",
+  "name": "The Historic Centre of Odesa",
+  "type": "Cultural",
+  "country": "Ukraine",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Historic Center of Odesa, part of the Black Sea port city developed on the site of Khadzhybei, is a densely built-up area, planned according to classicism canons, characterized by two- to four-storey buildings and wide perpendicular streets lined with trees. Historic buildings reflect the rapid economic development of the city in the 19th and early 20th centuries. The site includes theatres, bridges, monuments, religious buildings, schools, private palaces and tenement houses, clubs, hotels, banks, shopping centres, warehouses, stock exchanges and other public and administrative buildings designed by architects and engineers, mostly from Italy in the early years, but also of other nationalities. Eclecticism is the dominant feature of the historic city centre’s architecture. The site bears witness to the city’s highly diverse ethnic and religious communities, representing an outstanding example of intercultural exchanges and the growth of multicultural and multi-ethnic Eastern European cities of the 19th century.",
+  "danger": true,
+  "geojson": "the-historic-centre-of-odesa.geojson"
+}

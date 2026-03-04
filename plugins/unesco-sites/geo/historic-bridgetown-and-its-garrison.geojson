@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6138888889,
+          13.0966666667
+        ]
+      },
+      "properties": {
+        "code": "historic-bridgetown-and-its-garrison",
+        "name": "Historic Bridgetown and its Garrison",
+        "type": "Cultural",
+        "country": "Barbados",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

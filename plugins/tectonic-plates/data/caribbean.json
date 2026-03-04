@@ -1,0 +1,28 @@
+{
+  "code": "caribbean",
+  "name": "Caribbean Plate",
+  "plateClass": "Minor",
+  "crustType": "Mixed",
+  "area": 3.3,
+  "movementDirection": "East",
+  "movementRate": "10–20",
+  "boundaryTypes": [
+    "Convergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "north-american",
+    "south-american",
+    "cocos",
+    "nazca"
+  ],
+  "notableFeatures": [
+    "Lesser Antilles Arc",
+    "Cayman Trough",
+    "Puerto Rico Trench",
+    "Caribbean Large Igneous Province"
+  ],
+  "description": "The Caribbean Plate underlies Central America and the Caribbean Sea. It is bounded by subduction zones and transform faults that produce frequent earthquakes throughout the region. The Lesser Antilles volcanic arc on its eastern edge is produced by the subduction of the North American Plate beneath the Caribbean Plate.",
+  "geologicalHistory": "The Caribbean Plate formed from an oceanic plateau created by a massive volcanic eruption about 90 million years ago (the Caribbean Large Igneous Province). As the Atlantic Ocean opened, the plate became trapped between the North and South American plates. The volcanic arc of the Lesser Antilles has been active for about 50 million years.",
+  "geojson": "caribbean.geojson"
+}

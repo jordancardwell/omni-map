@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sm","name":"San Marino","country":"SM","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[12.4,43.9],[12.4,44],[12.5,44],[12.5,43.9],[12.4,43.9]]]}}]}

@@ -1,0 +1,15 @@
+{
+  "code": "sceilg-mhichil",
+  "name": "Sceilg Mhichíl",
+  "type": "Cultural",
+  "country": "Ireland",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Sceilg Mhichíl is an outstanding, and in many respects unique, example of an early religious settlement deliberately sited on a pyramidal rock in the ocean, preserved because of a remarkable environment. It illustrates, as no other property can, the extremes of a Christian monasticism characterizing much of North Africa, the Near East, and Europe.",
+  "danger": false,
+  "geojson": "sceilg-mhichil.geojson"
+}

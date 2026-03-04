@@ -1,0 +1,16 @@
+{
+  "code": "hantru-1",
+  "name": "HANTRU-1",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2400,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Viettel",
+  "landingPoints": [
+    "Da Nang, Vietnam",
+    "Hong Kong, China"
+  ],
+  "description": "Hanoi Trunk cable connecting Vietnam to Hong Kong.",
+  "geojson": "hantru-1.geojson"
+}

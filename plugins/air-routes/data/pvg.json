@@ -1,0 +1,12 @@
+{
+  "code": "pvg",
+  "name": "Shanghai Pudong International",
+  "iataCode": "PVG",
+  "city": "Shanghai",
+  "country": "China",
+  "annualPassengers": 57000000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Shanghai Pudong International (PVG) in Shanghai, China. Annual passengers: ~57M. Classification: Major Hub.",
+  "geojson": "pvg.geojson"
+}

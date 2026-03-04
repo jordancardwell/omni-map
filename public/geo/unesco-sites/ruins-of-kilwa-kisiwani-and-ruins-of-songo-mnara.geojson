@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.52278,
+          -8.95778
+        ]
+      },
+      "properties": {
+        "code": "ruins-of-kilwa-kisiwani-and-ruins-of-songo-mnara",
+        "name": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+        "type": "Cultural",
+        "country": "United Republic of Tanzania",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

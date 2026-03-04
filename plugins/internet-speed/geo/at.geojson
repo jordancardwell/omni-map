@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"at","name":"Austria","country":"AT","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[9.5,46.4],[9.5,49],[17.2,49],[17.2,46.4],[9.5,46.4]]]}}]}

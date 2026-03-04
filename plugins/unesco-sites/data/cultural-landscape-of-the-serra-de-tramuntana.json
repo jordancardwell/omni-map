@@ -1,0 +1,16 @@
+{
+  "code": "cultural-landscape-of-the-serra-de-tramuntana",
+  "name": "Cultural Landscape of the Serra de Tramuntana",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Cultural Landscape of the Serra de Tramuntana located on a sheer-sided mountain range parallel to the north-western coast of the island of Mallorca. Millennia of agriculture in an environment with scarce resources has transformed the terrain and displays an articulated network of devices for the management of water revolving around farming units of feudal origins. The landscape is marked by agricultural terraces and inter-connected water works - including water mills - as well as dry stone constructions and farms.",
+  "danger": false,
+  "geojson": "cultural-landscape-of-the-serra-de-tramuntana.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3525,
+          7.246925
+        ]
+      },
+      "properties": {
+        "code": "rock-islands-southern-lagoon",
+        "name": "Rock Islands Southern Lagoon",
+        "type": "Mixed",
+        "country": "Palau",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "mask-festival-burkina",
+  "name": "FESTIMA (International Festival of Masks)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Biennial (even years), February",
+  "origin": "West African tradition",
+  "estimatedAttendance": "Thousands of visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Sacred mask ceremonies from across West Africa; traditional dances; storytelling; workshops on mask-making; cultural exchange.",
+  "historicalBackground": "FESTIMA was created in 1996 in Dédougou to preserve and celebrate the sacred mask traditions of West Africa, which face threats from modernization.",
+  "description": "West Africa's premier celebration of sacred mask traditions, bringing together masked dancers from across the Sahel for spectacular performances.",
+  "location": "Dédougou, Burkina Faso",
+  "geojson": "mask-festival-burkina.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "megalithic-temples-of-malta",
+  "name": "Megalithic Temples of Malta",
+  "type": "Cultural",
+  "country": "Malta",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta.",
+  "danger": false,
+  "geojson": "megalithic-temples-of-malta.geojson"
+}

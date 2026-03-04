@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4438888889,
+          25.1366666667
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-nalanda-mahavihara-at-nalanda-bihar",
+        "name": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

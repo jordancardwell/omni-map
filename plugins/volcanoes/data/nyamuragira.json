@@ -1,0 +1,21 @@
+{
+  "code": "nyamuragira",
+  "name": "Nyamuragira",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 3058,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Democratic Republic of Congo",
+  "region": "East Africa",
+  "location": "East Africa, Democratic Republic of Congo",
+  "tectonicSetting": "Continental rift",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Africa's most active volcano. Has erupted more than 30 times since 1882. Produced a lava lake in its summit crater in 2012.",
+  "description": "Nyamuragira is the most active volcano in Africa, erupting roughly every 2-4 years. Its lava flows have repeatedly threatened Virunga National Park and mountain gorilla habitat.",
+  "geojson": "nyamuragira.geojson"
+}

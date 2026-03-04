@@ -1,0 +1,12 @@
+{
+  "code": "mycenaean",
+  "name": "Mycenaean Civilization",
+  "period": "c. 1600–1100 BCE",
+  "region": "Europe",
+  "type": "Civilization",
+  "writingSystem": "Linear B",
+  "majorAchievements": ["Cyclopean masonry", "Lion Gate architecture", "Shaft grave burial", "Bronze armor and weapons", "Palatial administration", "Maritime expansion"],
+  "keyCities": ["Mycenae", "Tiryns", "Pylos", "Thebes", "Orchomenos"],
+  "description": "The Mycenaean civilization was the last phase of the Bronze Age in ancient Greece, and the historical setting of the Homeric epics. Known for their fortified palace complexes, imposing Cyclopean walls, and rich shaft graves filled with gold, the Mycenaeans dominated the Aegean world and traded extensively across the Mediterranean. Their collapse around 1100 BCE ushered in the Greek Dark Ages.",
+  "geojson": "mycenaean.geojson"
+}

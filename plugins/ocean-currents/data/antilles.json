@@ -1,0 +1,21 @@
+{
+  "code": "antilles",
+  "name": "Antilles Current",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "North Equatorial Current",
+  "destination": "Sargasso Sea / Gulf Stream",
+  "climateEffects": [
+    "Transports warm water northward",
+    "Feeds Gulf Stream system",
+    "Influences Bermuda climate"
+  ],
+  "connectedEcosystems": [
+    "Sargasso Sea",
+    "Lesser Antilles reef systems",
+    "Bermuda marine habitats"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Antilles Current flows northwestward along the eastern side of the Antilles island chain, carrying warm tropical water toward the Sargasso Sea where it joins the Gulf Stream.",
+  "geojson": "antilles.geojson"
+}

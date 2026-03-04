@@ -1,0 +1,26 @@
+{
+  "code": "arcos-1",
+  "name": "ARCOS-1",
+  "capacityTbps": 2.5,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 8600,
+  "yearLaid": 1999,
+  "rfsDate": "2001-03",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Miami, USA",
+    "San Juan, Puerto Rico",
+    "Cartagena, Colombia",
+    "Panama City, Panama",
+    "Cancún, Mexico",
+    "Tulum, Mexico",
+    "Belize City, Belize",
+    "Guatemala City, Guatemala",
+    "Tegucigalpa, Honduras",
+    "Managua, Nicaragua",
+    "San José, Costa Rica",
+    "Nassau, Bahamas"
+  ],
+  "description": "Americas Region Caribbean Optical-ring System connecting Central America and the Caribbean.",
+  "geojson": "arcos-1.geojson"
+}

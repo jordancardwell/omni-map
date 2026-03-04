@@ -1,0 +1,15 @@
+{
+  "code": "geez",
+  "name": "Ge'ez (Ethiopic)",
+  "scriptType": "Abugida",
+  "characters": 231,
+  "direction": "LTR",
+  "originDate": "~5th century BCE",
+  "sampleText": "ኢትዮጵያ ታበጽሕ እደዊሃ ኀበ እግዚአብሔር",
+  "relatedScripts": [
+    "arabic"
+  ],
+  "description": "The Ge'ez script (Ethiopic or Fidel) is an abugida used for Amharic, Tigrinya, and other Ethiopian and Eritrean languages. Each base character has seven forms representing different vowels, producing 231 core syllable characters. It is one of the few indigenous African scripts with ancient roots.",
+  "historicalNotes": "The Ge'ez script originated as an abjad (consonant-only) script around the 5th century BCE, derived from the South Arabian script. It became an abugida (with built-in vowels) around the 4th century CE, coinciding with the adoption of Christianity in the Aksumite Empire. The script has been in continuous use for over 2,000 years. It was originally used for the Ge'ez liturgical language and later adapted for Amharic, Tigrinya, and other languages.",
+  "geojson": "geez.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "us-mx-gulf",
+  "name": "US-MX Gulf",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 244,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "Telmex",
+  "landingPoints": [
+    "Miami, USA",
+    "Cancún, Mexico"
+  ],
+  "description": "US-MX Gulf connecting Miami to Cancún in the Caribbean region.",
+  "geojson": "us-mx-gulf.geojson"
+}

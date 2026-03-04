@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"fuzhou","name":"Port of Fuzhou","featureType":"port","portType":"Container Port","country":"China"},"geometry":{"type":"Point","coordinates":[119.31,26.06]}}]}

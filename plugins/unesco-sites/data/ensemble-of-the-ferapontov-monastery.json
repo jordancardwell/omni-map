@@ -1,0 +1,15 @@
+{
+  "code": "ensemble-of-the-ferapontov-monastery",
+  "name": "Ensemble of the Ferapontov Monastery",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Ferapontov Monastery, in the Vologda region in northern Russia, is an exceptionally well-preserved and complete example of a Russian Orthodox monastic complex of the 15th-17th centuries, a period of great significance in the development of the unified Russian state and its culture. The architecture of the monastery is outstanding in its inventiveness and purity. The interior is graced by the magnificent wall paintings of Dionisy, the greatest Russian artist of the end of the 15th century.",
+  "danger": false,
+  "geojson": "ensemble-of-the-ferapontov-monastery.geojson"
+}

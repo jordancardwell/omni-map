@@ -1,0 +1,25 @@
+{
+  "code": "islam",
+  "name": "Islam",
+  "family": "Abrahamic",
+  "foundingPeriod": "7th century CE",
+  "adherents": {
+    "estimated": 1900000000,
+    "percentWorld": "24.9%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["Middle East", "North Africa", "Central Asia", "South Asia", "Southeast Asia"],
+  "denominations": [
+    "Sunni",
+    "Shia",
+    "Ibadi",
+    "Sufi",
+    "Ahmadiyya",
+    "Ismaili",
+    "Twelver",
+    "Zaidi"
+  ],
+  "description": "Islam is the world's second-largest religion, founded by the Prophet Muhammad in 7th-century Arabia. Muslims believe in one God (Allah) and that Muhammad is his final messenger. The Quran is the central religious text, and the Five Pillars of Islam — declaration of faith, prayer, charity, fasting, and pilgrimage — form the core practices.",
+  "historicalNotes": "Islam began in Mecca around 610 CE with Muhammad's revelations. After the Hijra to Medina in 622 CE, Islam rapidly expanded across the Arabian Peninsula. The Rashidun and Umayyad caliphates spread Islam across the Middle East, North Africa, and into Iberia by the 8th century. The split between Sunni and Shia traditions originated from the succession dispute after Muhammad's death in 632 CE. The Ottoman, Safavid, and Mughal empires further established Islam across vast territories.",
+  "geojson": "islam.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "nishinoshima",
+  "name": "Nishinoshima",
+  "volcanoType": "Submarine volcano",
+  "status": "Erupting/Recent",
+  "elevation": 100,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Japan",
+  "region": "Ogasawara",
+  "location": "Ogasawara, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Phreatomagmatic explosions"
+  ],
+  "eruptionHistory": "Emerged as a new volcanic island in 2013 and has been growing continuously through repeated eruptions.",
+  "description": "Nishinoshima is a volcanic island that dramatically expanded beginning in 2013, providing a real-time example of island building through volcanic eruption.",
+  "geojson": "nishinoshima.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[112.31,-7.93]},"properties":{"code":"kelud","name":"Kelud","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1731,"lastEruption":"2014","vei":4}}]}

@@ -1,0 +1,18 @@
+{
+  "code": "afghanistan-iran",
+  "name": "Afghanistan \u2192 Iran",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Afghanistan \u2192 Iran",
+  "badgeValue": "~2.3 million",
+  "origin": "Afghanistan",
+  "destination": "Iran",
+  "estimatedMigrants": "~2.3 million",
+  "drivers": [
+    "Conflict displacement",
+    "Economic opportunity",
+    "Cultural proximity",
+    "Decades of instability"
+  ],
+  "description": "Iran hosts one of the world's largest and longest-standing refugee populations, predominantly Afghan. Migration began during the Soviet invasion (1979), continued through the Taliban era, and surged again after 2021. Most Afghans in Iran work in construction, agriculture, and manufacturing. Despite periodic deportation campaigns, the population remains large due to ongoing conflict and economic collapse in Afghanistan.",
+  "geojson": "afghanistan-iran.geojson"
+}

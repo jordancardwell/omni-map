@@ -1,0 +1,15 @@
+{
+  "code": "hegmataneh",
+  "name": "Hegmataneh",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The archaeological remains of ancient Hegmataneh are located in northwestern Iran. Continuously inhabited for nearly three millennia, Hegmataneh provides important and rare evidence of the Medes civilization in the 7th and 6th centuries BCE and later served as a summer capital of Achaemenid, Seleucid, Parthian, and Sasanian rulers.",
+  "danger": false,
+  "geojson": "hegmataneh.geojson"
+}

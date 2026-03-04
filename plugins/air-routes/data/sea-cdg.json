@@ -1,0 +1,17 @@
+{
+  "code": "sea-cdg",
+  "name": "Seattle — Paris",
+  "airports": [
+    "SEA",
+    "CDG"
+  ],
+  "distanceKm": 8049,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SEA–CDG route between Seattle and Paris. Distance: 8,049 km. ~20 weekly flights operated by Delta.",
+  "geojson": "sea-cdg.geojson"
+}

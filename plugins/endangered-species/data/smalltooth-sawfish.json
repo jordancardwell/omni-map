@@ -1,0 +1,19 @@
+{
+  "code": "smalltooth-sawfish",
+  "name": "Smalltooth Sawfish",
+  "scientificName": "Pristis pectinata",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal and estuarine waters",
+  "threats": [
+    "Bycatch",
+    "Habitat loss",
+    "Entanglement",
+    "Sawfish product trade"
+  ],
+  "conservationEfforts": "Protected under US Endangered Species Act. Critical habitat designated in Florida. International trade banned under CITES. Community engagement in developing countries.",
+  "description": "Once common throughout the Atlantic, now restricted mainly to southwest Florida. Their saw-shaped snout, used to detect and stun prey, easily becomes entangled in fishing nets.",
+  "geojson": "smalltooth-sawfish.geojson"
+}

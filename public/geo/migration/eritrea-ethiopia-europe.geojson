@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "eritrea-ethiopia-europe", "name": "Eritrea \u2192 Europe (via Ethiopia/Libya)", "migrantVolume": 2}, "geometry": {"type": "LineString", "coordinates": [[39, 15], [36, 18], [32, 22], [28, 26], [22, 30], [16, 33], [12, 36], [8, 40], [5, 44], [3, 48]]}}]}

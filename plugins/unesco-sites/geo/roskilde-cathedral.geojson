@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0798998457,
+          55.6426654094
+        ]
+      },
+      "properties": {
+        "code": "roskilde-cathedral",
+        "name": "Roskilde Cathedral",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

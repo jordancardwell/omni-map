@@ -1,0 +1,22 @@
+{
+  "code": "th",
+  "name": "Thailand",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "C",
+    "F"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of US-shaped and European outlets, all at 220V. Verify device voltage!",
+  "geojson": "th.geojson"
+}

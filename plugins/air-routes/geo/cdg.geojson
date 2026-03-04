@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cdg","name":"Paris Charles de Gaulle","featureType":"airport","iataCode":"CDG","annualPassengers":65000000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[2.5479,49.0097]}}]}

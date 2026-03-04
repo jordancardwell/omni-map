@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6051944444,
+          14.9151388889
+        ]
+      },
+      "properties": {
+        "code": "cidade-velha-historic-centre-of-ribeira-grande",
+        "name": "Cidade Velha, Historic Centre of Ribeira Grande",
+        "type": "Cultural",
+        "country": "Cabo Verde",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

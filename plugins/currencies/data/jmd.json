@@ -1,0 +1,16 @@
+{
+  "code": "jmd",
+  "name": "Jamaican Dollar",
+  "isoCode": "JMD",
+  "symbol": "J$",
+  "region": "Americas",
+  "centralBank": "Bank of Jamaica",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Jamaica"
+  ],
+  "countryCount": 1,
+  "description": "The Jamaican Dollar is the currency of the Caribbean island nation known for its tourism, music, and athletics.",
+  "historicalNotes": "Introduced in 1969, replacing the Jamaican pound. The dollar was initially pegged to the US dollar but has since moved to a managed float.",
+  "geojson": "jmd.geojson"
+}

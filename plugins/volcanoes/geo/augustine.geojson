@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-153.43,59.3626]},"properties":{"code":"augustine","name":"Augustine Volcano","volcanoType":"Lava dome","status":"Historically Active","elevation":1252,"lastEruption":"2006","vei":3}}]}

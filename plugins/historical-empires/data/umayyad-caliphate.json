@@ -1,0 +1,25 @@
+{
+  "code": "umayyad-caliphate",
+  "name": "Umayyad Caliphate",
+  "era": "Medieval",
+  "peakYear": "750 CE",
+  "areaAtPeakKm2": 11100000,
+  "populationEstimate": "62 million",
+  "capital": "Damascus",
+  "keyAchievements": [
+    "Arabic language unification",
+    "Dome of the Rock construction",
+    "Postal system",
+    "Coinage standardization",
+    "Greatest Islamic territorial extent"
+  ],
+  "declineFactors": [
+    "Abbasid revolution",
+    "Berber revolts",
+    "Tribal factionalism",
+    "Non-Arab Muslim grievances",
+    "Overextension"
+  ],
+  "description": "The Umayyad Caliphate (661–750 CE) was the largest empire the world had yet seen, stretching from the Iberian Peninsula to Central Asia. It was the second of the four major Islamic caliphates and marked the peak territorial expansion of the early Islamic conquests.\n\nThe Umayyads established Arabic as the administrative language of this vast empire and built iconic monuments like the Dome of the Rock in Jerusalem. Despite their achievements, resentment from non-Arab Muslims and internal rivalries led to the Abbasid Revolution in 750 CE.",
+  "geojson": "umayyad-caliphate.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "le-colline-del-prosecco-di-conegliano-e-valdobbiadene",
+  "name": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in north-eastern Italy, the property includes part of the winegrowing landscape of the Prosecco wine production area. The landscape is characterized by ‘hogback’ hills, ciglioni – small plots of vines on narrow grassy terraces – forests, small villages and farmland. For centuries, this rugged terrain has been shaped and adapted by man. Since the 17th century, the use of ciglioni has created a particular chequerboard landscape consisting of rows of vines parallel and vertical to the slopes. In the 19th century, the bellussera technique of training the vines contributed to the aesthetic characteristics of the landscape.",
+  "danger": false,
+  "geojson": "le-colline-del-prosecco-di-conegliano-e-valdobbiadene.geojson"
+}

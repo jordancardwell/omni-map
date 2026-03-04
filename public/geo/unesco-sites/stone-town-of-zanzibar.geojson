@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18917,
+          -6.16306
+        ]
+      },
+      "properties": {
+        "code": "stone-town-of-zanzibar",
+        "name": "Stone Town of Zanzibar",
+        "type": "Cultural",
+        "country": "United Republic of Tanzania",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

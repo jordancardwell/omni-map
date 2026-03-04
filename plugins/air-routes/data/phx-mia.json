@@ -1,0 +1,17 @@
+{
+  "code": "phx-mia",
+  "name": "Phoenix — Miami",
+  "airports": [
+    "PHX",
+    "MIA"
+  ],
+  "distanceKm": 3168,
+  "weeklyFlights": 25,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PHX–MIA route between Phoenix and Miami. Distance: 3,168 km. ~25 weekly flights operated by American.",
+  "geojson": "phx-mia.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "coelacanth",
+  "name": "Coelacanth",
+  "scientificName": "Latimeria chalumnae",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Deep sea caves and ledges",
+  "threats": [
+    "Bycatch in deep-sea nets",
+    "Small population size",
+    "Limited habitat"
+  ],
+  "conservationEfforts": "CITES Appendix I listing bans trade. Research using submersibles monitors populations. Fishermen trained to release accidentally caught coelacanths.",
+  "description": "A living fossil unchanged for 400 million years, once thought to have gone extinct with the dinosaurs until a living specimen was caught off South Africa in 1938. They give live birth and have lobed fins that move like legs.",
+  "geojson": "coelacanth.geojson"
+}

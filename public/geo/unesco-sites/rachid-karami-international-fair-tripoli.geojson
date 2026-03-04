@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8241666667,
+          34.4377777778
+        ]
+      },
+      "properties": {
+        "code": "rachid-karami-international-fair-tripoli",
+        "name": "Rachid Karami International Fair-Tripoli",
+        "type": "Cultural",
+        "country": "Lebanon",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

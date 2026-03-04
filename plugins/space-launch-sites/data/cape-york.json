@@ -1,0 +1,15 @@
+{
+  "code": "cape-york",
+  "name": "Cape York Spaceport",
+  "country": "Australia",
+  "operator": "APSC (proposed)",
+  "coordinates": "12.2000°S, 143.1000°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Never operational — cancelled in 1990s"
+  ],
+  "orbitalInclinationRange": "12°–98° (planned)",
+  "location": "Cape York Spaceport, Australia",
+  "description": "A proposed commercial spaceport on Cape York Peninsula, Queensland. Despite significant investment and near-equatorial location advantages, the project was cancelled in the 1990s due to financial and environmental issues.",
+  "geojson": "cape-york.geojson"
+}

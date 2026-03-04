@@ -1,0 +1,15 @@
+{
+  "code": "rio-grande",
+  "name": "Port of Rio Grande",
+  "country": "Brazil",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Atlantic Southern Route",
+    "River Plate & South Atlantic"
+  ],
+  "description": "Port of Rio Grande in Brazil. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+  "geojson": "rio-grande.geojson"
+}

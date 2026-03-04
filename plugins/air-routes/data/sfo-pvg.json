@@ -1,0 +1,18 @@
+{
+  "code": "sfo-pvg",
+  "name": "San Francisco — Shanghai",
+  "airports": [
+    "SFO",
+    "PVG"
+  ],
+  "distanceKm": 9877,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United",
+    "China Eastern"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SFO–PVG route between San Francisco and Shanghai. Distance: 9,877 km. ~40 weekly flights operated by United, China Eastern.",
+  "geojson": "sfo-pvg.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "liverpool-telescope",
+  "name": "Liverpool Telescope",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2363,
+  "aperture": "2 m",
+  "telescopes": [
+    "Liverpool Telescope"
+  ],
+  "keyDiscoveries": [
+    "Rapid GRB follow-up",
+    "Exoplanet monitoring",
+    "Robotic time-domain astronomy"
+  ],
+  "location": "Liverpool Telescope, Spain",
+  "description": "The world's largest fully robotic telescope on La Palma. Specializes in rapid-response observations of gamma-ray bursts and other transient phenomena.",
+  "geojson": "liverpool-telescope.geojson"
+}

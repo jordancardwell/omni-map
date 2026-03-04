@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.773082,
+          4.889476
+        ]
+      },
+      "properties": {
+        "code": "coffee-cultural-landscape-of-colombia",
+        "name": "Coffee Cultural Landscape of Colombia",
+        "type": "Cultural",
+        "country": "Colombia",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

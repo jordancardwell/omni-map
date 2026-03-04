@@ -1,0 +1,18 @@
+{
+  "code": "laponian-area",
+  "name": "Laponian Area",
+  "type": "Mixed",
+  "country": "Sweden",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iii)",
+    "(v)",
+    "(vii)",
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Arctic Circle region of northern Sweden is the home of the Saami people. It is the largest area in the world (and one of the last) with an ancestral way of life based on the seasonal movement of livestock. Every summer, the Saami lead their huge herds of reindeer towards the mountains through a natural landscape hitherto preserved, but now threatened by the advent of motor vehicles. Historical and ongoing geological processes can be seen in the glacial moraines and changing water courses.",
+  "danger": false,
+  "geojson": "laponian-area.geojson"
+}

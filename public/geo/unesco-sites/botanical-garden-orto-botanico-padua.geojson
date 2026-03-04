@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88066667,
+          45.39911111
+        ]
+      },
+      "properties": {
+        "code": "botanical-garden-orto-botanico-padua",
+        "name": "Botanical Garden (Orto Botanico), Padua",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

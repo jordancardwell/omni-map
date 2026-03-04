@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9603,
+          50.9375
+        ]
+      },
+      "properties": {
+        "code": "carnival-cologne",
+        "name": "Cologne Carnival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Cologne, Germany"
+      }
+    }
+  ]
+}

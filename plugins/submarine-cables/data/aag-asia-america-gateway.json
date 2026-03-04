@@ -1,0 +1,19 @@
+{
+  "code": "aag-asia-america-gateway",
+  "name": "AAG (Asia-America Gateway)",
+  "capacityTbps": 2.88,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 20000,
+  "yearLaid": 2007,
+  "rfsDate": "2009-11",
+  "owner": "AT&T, others",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Manila, Philippines",
+    "Singapore",
+    "Ho Chi Minh City, Vietnam",
+    "Honolulu, USA"
+  ],
+  "description": "Asia-America Gateway connecting Southeast Asia to the US via the Pacific.",
+  "geojson": "aag-asia-america-gateway.geojson"
+}

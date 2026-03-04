@@ -1,0 +1,12 @@
+{
+  "code": "bom",
+  "name": "Chhatrapati Shivaji Maharaj International",
+  "iataCode": "BOM",
+  "city": "Mumbai",
+  "country": "India",
+  "annualPassengers": 45500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Chhatrapati Shivaji Maharaj International (BOM) in Mumbai, India. Annual passengers: ~45.5M. Classification: International Hub.",
+  "geojson": "bom.geojson"
+}

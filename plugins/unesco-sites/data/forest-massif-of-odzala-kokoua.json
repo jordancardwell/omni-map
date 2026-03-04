@@ -1,0 +1,15 @@
+{
+  "code": "forest-massif-of-odzala-kokoua",
+  "name": "Forest Massif of Odzala-Kokoua",
+  "type": "Natural",
+  "country": "Congo",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This property is an excellent example, at an exceptionally large-scale, of the process of post-glacial forest recolonization of savanna ecosystems. It is therefore ecologically significant as a convergence point of multiple ecosystem types (Congolese Forest, Lower Guinean Forest and Savanna). The broad range of age classifications across the forest succession spectrum contributes to the park’s highly distinct ecology, incorporating a broad range of remarkable ecological processes. It is one of the most important strongholds for forest elephants in Central Africa, and is recognized as the park with the richest primate diversity in the region.",
+  "danger": false,
+  "geojson": "forest-massif-of-odzala-kokoua.geojson"
+}

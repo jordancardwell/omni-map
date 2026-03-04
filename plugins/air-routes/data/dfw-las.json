@@ -1,0 +1,19 @@
+{
+  "code": "dfw-las",
+  "name": "Dallas — Las Vegas",
+  "airports": [
+    "DFW",
+    "LAS"
+  ],
+  "distanceKm": 1695,
+  "weeklyFlights": 70,
+  "airlines": [
+    "American",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–LAS route between Dallas and Las Vegas. Distance: 1,695 km. ~70 weekly flights operated by American, Southwest, Spirit.",
+  "geojson": "dfw-las.geojson"
+}

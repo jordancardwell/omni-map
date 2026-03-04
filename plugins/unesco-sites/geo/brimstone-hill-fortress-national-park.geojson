@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.83722,
+          17.34694
+        ]
+      },
+      "properties": {
+        "code": "brimstone-hill-fortress-national-park",
+        "name": "Brimstone Hill Fortress National Park",
+        "type": "Cultural",
+        "country": "Saint Kitts and Nevis",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

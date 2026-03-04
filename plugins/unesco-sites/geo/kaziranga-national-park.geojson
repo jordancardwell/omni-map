@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.41666667,
+          26.66666667
+        ]
+      },
+      "properties": {
+        "code": "kaziranga-national-park",
+        "name": "Kaziranga National Park",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

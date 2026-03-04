@@ -1,0 +1,21 @@
+{
+  "code": "winer",
+  "name": "Winer Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1515,
+  "aperture": "0.7 m",
+  "telescopes": [
+    "KELT-North",
+    "Various 0.5-0.7m"
+  ],
+  "keyDiscoveries": [
+    "KELT exoplanet transits",
+    "Variable star monitoring",
+    "Transient surveys"
+  ],
+  "location": "Winer Observatory, United States",
+  "description": "Private research observatory in southeastern Arizona hosting robotic telescopes including KELT-North, which has discovered several transiting hot Jupiters.",
+  "geojson": "winer.geojson"
+}

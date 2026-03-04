@@ -1,0 +1,16 @@
+{
+  "code": "gbp",
+  "name": "Pound Sterling",
+  "isoCode": "GBP",
+  "symbol": "£",
+  "region": "Europe",
+  "centralBank": "Bank of England",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "United Kingdom"
+  ],
+  "countryCount": 1,
+  "description": "The Pound Sterling is the world's oldest currency still in use and the fourth most traded currency in forex markets.",
+  "historicalNotes": "Sterling has been in use since Anglo-Saxon times. The Bank of England was established in 1694. Britain left the gold standard in 1931. Decimalization occurred in 1971, replacing the old pounds/shillings/pence system.",
+  "geojson": "gbp.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mt","name":"Malta","country":"MT","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[14.2,35.8],[14.2,36],[14.6,36],[14.6,35.8],[14.2,35.8]]]}}]}

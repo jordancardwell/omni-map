@@ -1,0 +1,21 @@
+{
+  "code": "paris-observatory",
+  "name": "Observatoire de Paris",
+  "country": "France",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 67,
+  "aperture": "1 m (Meudon)",
+  "telescopes": [
+    "Grande Lunette de Meudon",
+    "Radio telescope"
+  ],
+  "keyDiscoveries": [
+    "Neptune co-prediction",
+    "Saturn ring studies",
+    "Stellar catalogs"
+  ],
+  "location": "Observatoire de Paris, France",
+  "description": "The oldest operating observatory in the world, founded in 1667. Now primarily a research institution coordinating French astronomical research.",
+  "geojson": "paris-observatory.geojson"
+}

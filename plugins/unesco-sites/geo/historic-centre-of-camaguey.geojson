@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9186111111,
+          21.3786111111
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-camaguey",
+        "name": "Historic Centre of Camagüey",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

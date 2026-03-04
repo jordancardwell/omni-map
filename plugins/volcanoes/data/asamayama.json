@@ -1,0 +1,22 @@
+{
+  "code": "asamayama",
+  "name": "Mount Asama",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 2568,
+  "lastEruption": "2019",
+  "vei": 4,
+  "country": "Japan",
+  "region": "Honshu",
+  "location": "Honshu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Volcanic bombs",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of the most active volcanoes on Honshu. The 1783 eruption killed over 1,400 people and produced devastating pyroclastic flows.",
+  "description": "Mount Asama is one of the most active volcanoes on Japan's main island. Its 1783 Tenmei eruption was one of the most devastating volcanic events in Japanese history.",
+  "geojson": "asamayama.geojson"
+}

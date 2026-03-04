@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tv","name":"Tuvalu","country":"TV","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[176,-10.8],[176,-5.7],[180,-5.7],[180,-10.8],[176,-10.8]]]}}]}

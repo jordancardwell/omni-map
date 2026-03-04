@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.873725,
+          35.2372638889
+        ]
+      },
+      "properties": {
+        "code": "gaya-tumuli",
+        "name": "Gaya Tumuli",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

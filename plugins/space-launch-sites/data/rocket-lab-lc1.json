@@ -1,0 +1,18 @@
+{
+  "code": "rocket-lab-lc1",
+  "name": "Rocket Lab Launch Complex 1",
+  "country": "New Zealand",
+  "operator": "Rocket Lab",
+  "coordinates": "39.2615°S, 177.8649°E",
+  "status": "Active",
+  "notableLaunches": [
+    "First Electron launch",
+    "CAPSTONE (lunar)",
+    "PREFIRE climate mission",
+    "Virginia Diode Sources"
+  ],
+  "orbitalInclinationRange": "39°–98°",
+  "location": "Rocket Lab Launch Complex 1, New Zealand",
+  "description": "The world's first private orbital launch site, located on the Mahia Peninsula of New Zealand's North Island. Enables rapid-cadence Electron launches with minimal range conflicts.",
+  "geojson": "rocket-lab-lc1.geojson"
+}

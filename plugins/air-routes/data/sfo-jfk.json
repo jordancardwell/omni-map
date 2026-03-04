@@ -1,0 +1,19 @@
+{
+  "code": "sfo-jfk",
+  "name": "San Francisco — New York",
+  "airports": [
+    "SFO",
+    "JFK"
+  ],
+  "distanceKm": 4152,
+  "weeklyFlights": 80,
+  "airlines": [
+    "United",
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SFO–JFK route between San Francisco and New York. Distance: 4,152 km. ~80 weekly flights operated by United, Delta, JetBlue.",
+  "geojson": "sfo-jfk.geojson"
+}

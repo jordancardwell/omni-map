@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5152777778,
+          42.3497222222
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-atapuerca",
+        "name": "Archaeological Site of Atapuerca",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

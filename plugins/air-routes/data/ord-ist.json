@@ -1,0 +1,17 @@
+{
+  "code": "ord-ist",
+  "name": "Chicago — Istanbul",
+  "airports": [
+    "ORD",
+    "IST"
+  ],
+  "distanceKm": 8786,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Turkish Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ORD–IST route between Chicago and Istanbul. Distance: 8,786 km. ~30 weekly flights operated by Turkish Airlines.",
+  "geojson": "ord-ist.geojson"
+}

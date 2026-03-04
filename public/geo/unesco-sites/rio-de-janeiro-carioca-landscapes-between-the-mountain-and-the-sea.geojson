@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2913888889,
+          -22.9477777778
+        ]
+      },
+      "properties": {
+        "code": "rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea",
+        "name": "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

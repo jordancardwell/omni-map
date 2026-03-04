@@ -1,0 +1,18 @@
+{
+  "code": "lhr-cdg",
+  "name": "London — Paris",
+  "airports": [
+    "LHR",
+    "CDG"
+  ],
+  "distanceKm": 347,
+  "weeklyFlights": 200,
+  "airlines": [
+    "British Airways",
+    "Air France"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "LHR–CDG route between London and Paris. Distance: 347 km. ~200 weekly flights operated by British Airways, Air France.",
+  "geojson": "lhr-cdg.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9088888889,
+          39.9975
+        ]
+      },
+      "properties": {
+        "code": "talayotic-menorca",
+        "name": "Talayotic Menorca",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

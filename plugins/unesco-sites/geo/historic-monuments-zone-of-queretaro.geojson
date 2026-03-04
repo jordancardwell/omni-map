@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.392135,
+          20.593292
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-zone-of-queretaro",
+        "name": "Historic Monuments Zone of Querétaro",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

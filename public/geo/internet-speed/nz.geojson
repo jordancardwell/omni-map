@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"nz","name":"New Zealand","country":"NZ","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[166.5,-47.3],[166.5,-34.4],[178.5,-34.4],[178.5,-47.3],[166.5,-47.3]]]}}]}

@@ -1,0 +1,21 @@
+{
+  "code": "bok-telescope",
+  "name": "Steward Observatory (Bok Telescope)",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2071,
+  "aperture": "2.3 m (Bok)",
+  "telescopes": [
+    "Bok 2.3m",
+    "90Prime"
+  ],
+  "keyDiscoveries": [
+    "DESI target selection",
+    "Galaxy surveys",
+    "Photometric calibration"
+  ],
+  "location": "Steward Observatory (Bok Telescope), United States",
+  "description": "University of Arizona's Bok 2.3m telescope at Kitt Peak. Played a key role in target selection for the DESI dark energy experiment.",
+  "geojson": "bok-telescope.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "tanger-med",
+  "name": "Tanger Med",
+  "country": "Morocco",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 80,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route",
+    "West African Coastal Route"
+  ],
+  "description": "Tanger Med in Morocco. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+  "geojson": "tanger-med.geojson"
+}

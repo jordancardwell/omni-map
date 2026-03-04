@@ -1,0 +1,18 @@
+{
+  "code": "algeria-france",
+  "name": "Algeria \u2192 France",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Algeria \u2192 France",
+  "badgeValue": "~1.5 million",
+  "origin": "Algeria",
+  "destination": "France",
+  "estimatedMigrants": "~1.5 million",
+  "drivers": [
+    "Colonial history",
+    "Francophone ties",
+    "Political instability",
+    "Family reunification"
+  ],
+  "description": "Algerian migration to France has deep roots in the colonial period (1830\u20131962). The Algerian War of Independence and subsequent political instability drove significant migration waves. The harki community (Algerians who served with France) and their descendants form a distinct group. Algerian French represent one of the largest North African diaspora communities in Europe.",
+  "geojson": "algeria-france.geojson"
+}

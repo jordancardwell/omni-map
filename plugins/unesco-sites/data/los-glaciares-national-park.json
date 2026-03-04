@@ -1,0 +1,15 @@
+{
+  "code": "los-glaciares-national-park",
+  "name": "Los Glaciares National Park",
+  "type": "Natural",
+  "country": "Argentina",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Los Glaciares National Park is an area of exceptional natural beauty, with rugged, towering mountains and numerous glacial lakes, including Lake Argentino, which is 160 km long. At its farthest end, three glaciers meet to dump their effluvia into the milky grey glacial water, launching massive igloo icebergs into the lake with thunderous splashes.",
+  "danger": false,
+  "geojson": "los-glaciares-national-park.geojson"
+}

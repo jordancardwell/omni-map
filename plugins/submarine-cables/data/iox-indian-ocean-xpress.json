@@ -1,0 +1,20 @@
+{
+  "code": "iox-indian-ocean-xpress",
+  "name": "IOX (Indian Ocean Xpress)",
+  "capacityTbps": 54,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7400,
+  "yearLaid": 2021,
+  "rfsDate": "2023-12",
+  "owner": "Indian Ocean Xpress",
+  "landingPoints": [
+    "Mumbai, India",
+    "Colombo, Sri Lanka",
+    "Victoria, Seychelles",
+    "Port Louis, Mauritius",
+    "Saint-Denis, Réunion",
+    "Durban, South Africa"
+  ],
+  "description": "Indian Ocean cable connecting India to Africa via island nations.",
+  "geojson": "iox-indian-ocean-xpress.geojson"
+}

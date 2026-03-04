@@ -1,0 +1,12 @@
+{
+  "code": "dfw",
+  "name": "Dallas/Fort Worth International",
+  "iataCode": "DFW",
+  "city": "Dallas",
+  "country": "United States",
+  "annualPassengers": 81800000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "Dallas/Fort Worth International (DFW) in Dallas, United States. Annual passengers: ~81.8M. Classification: Mega Hub.",
+  "geojson": "dfw.geojson"
+}

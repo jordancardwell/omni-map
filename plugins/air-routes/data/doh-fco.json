@@ -1,0 +1,17 @@
+{
+  "code": "doh-fco",
+  "name": "Doha — Rome",
+  "airports": [
+    "DOH",
+    "FCO"
+  ],
+  "distanceKm": 4039,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–FCO route between Doha and Rome. Distance: 4,039 km. ~25 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-fco.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0997222222,
+          27.7183333333
+        ]
+      },
+      "properties": {
+        "code": "ogasawara-islands",
+        "name": "Ogasawara Islands",
+        "type": "Natural",
+        "country": "Japan",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

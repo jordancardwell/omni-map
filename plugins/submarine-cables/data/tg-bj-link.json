@@ -1,0 +1,16 @@
+{
+  "code": "tg-bj-link",
+  "name": "TG-BJ Link",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1852,
+  "yearLaid": 2020,
+  "rfsDate": "2013-06",
+  "owner": "Togolese Telecom",
+  "landingPoints": [
+    "Lomé, Togo",
+    "Cotonou, Benin"
+  ],
+  "description": "TG-BJ Link connecting Lomé to Cotonou along the West African coast.",
+  "geojson": "tg-bj-link.geojson"
+}

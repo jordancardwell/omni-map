@@ -1,0 +1,14 @@
+{
+  "code": "tulip-festival",
+  "name": "Tulip Festival (Keukenhof)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Mid-March–Mid-May",
+  "origin": "Dutch tradition",
+  "estimatedAttendance": "1.5+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Viewing 7 million flower bulbs; themed gardens; flower parades; art installations; tulip workshops.",
+  "historicalBackground": "Keukenhof was established in 1949 as a flower exhibition. Tulips were introduced to the Netherlands from Turkey in the 16th century, sparking 'Tulip Mania.'",
+  "description": "The world's largest flower garden, showcasing 7 million tulips and spring blooms in a dazzling display of Dutch horticultural artistry.",
+  "location": "Lisse, Netherlands",
+  "geojson": "tulip-festival.geojson"
+}

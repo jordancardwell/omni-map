@@ -1,0 +1,16 @@
+{
+  "code": "ph-visayas",
+  "name": "PH Visayas",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 614,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Globe",
+  "landingPoints": [
+    "Cebu, Philippines",
+    "Davao, Philippines"
+  ],
+  "description": "PH Visayas connecting Cebu to Davao.",
+  "geojson": "ph-visayas.geojson"
+}

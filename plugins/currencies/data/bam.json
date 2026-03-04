@@ -1,0 +1,16 @@
+{
+  "code": "bam",
+  "name": "Bosnia and Herzegovina Convertible Mark",
+  "isoCode": "BAM",
+  "symbol": "KM",
+  "region": "Europe",
+  "centralBank": "Central Bank of Bosnia and Herzegovina",
+  "exchangeRateEra": "Currency board pegged to EUR",
+  "countries": [
+    "Bosnia and Herzegovina"
+  ],
+  "countryCount": 1,
+  "description": "The Convertible Mark is pegged to the Euro at the same rate the Deutsche Mark was converted (1 EUR = 1.95583 KM).",
+  "historicalNotes": "Introduced in 1998 under the Dayton Agreement. The currency board arrangement has provided monetary stability to the post-war economy.",
+  "geojson": "bam.geojson"
+}

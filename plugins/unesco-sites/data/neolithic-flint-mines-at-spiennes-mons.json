@@ -1,0 +1,16 @@
+{
+  "code": "neolithic-flint-mines-at-spiennes-mons",
+  "name": "Neolithic Flint Mines at Spiennes (Mons)",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Neolithic flint mines at Spiennes, covering more than 100 ha, are the largest and earliest concentration of ancient mines in Europe. They are also remarkable for the diversity of technological solutions used for extraction and for the fact that they are directly linked to a settlement of the same period.",
+  "danger": false,
+  "geojson": "neolithic-flint-mines-at-spiennes-mons.geojson"
+}

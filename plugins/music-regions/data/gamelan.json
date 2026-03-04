@@ -1,0 +1,29 @@
+{
+  "code": "gamelan",
+  "name": "Gamelan",
+  "region": "Java & Bali, Indonesia",
+  "traditionFamily": "Southeast Asian",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Metallophones",
+    "Xylophones",
+    "Gongs",
+    "Kendang Drum",
+    "Bamboo Flute"
+  ],
+  "keyArtists": [
+    "Ki Nartosabdo",
+    "I Wayan Beratha",
+    "Pak Cokro",
+    "I Nyoman Windha",
+    "Rahayu Supanggah"
+  ],
+  "description": "Gamelan is an ensemble music tradition from Java and Bali, Indonesia, featuring tuned percussion instruments made primarily of bronze. The interlocking rhythmic patterns create a shimmering, layered texture. Gamelan is integral to wayang (shadow puppet) performances, court ceremonies, and religious rituals. Indonesian Gamelan was inscribed on the UNESCO ICH list in 2021.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Indonesian Gamelan",
+      "url": "https://ich.unesco.org/en/RL/gamelan-01607"
+    }
+  ],
+  "geojson": "gamelan.geojson"
+}

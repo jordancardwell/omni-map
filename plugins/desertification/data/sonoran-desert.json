@@ -1,0 +1,24 @@
+{
+  "code": "sonoran-desert",
+  "name": "Sonoran Desert",
+  "region": "North America",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.05–0.20 — subtropical hot desert",
+  "area": "260,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 3000000,
+  "affectedCountries": [
+    "United States",
+    "Mexico"
+  ],
+  "desertificationDrivers": [
+    "Groundwater depletion",
+    "Urban expansion",
+    "Colorado River diversion",
+    "Heat intensification"
+  ],
+  "desertFrontier": "Margins shifting northward with climate warming",
+  "description": "The Sonoran Desert spans the US-Mexico border across Arizona, California, and Sonora/Baja California. It is the hottest desert in North America, with temperatures exceeding 50°C. The Colorado River, once the lifeline of the region, no longer reaches the sea due to upstream diversions. Phoenix and Tucson face severe long-term water sustainability challenges.",
+  "geojson": "sonoran-desert.geojson"
+}

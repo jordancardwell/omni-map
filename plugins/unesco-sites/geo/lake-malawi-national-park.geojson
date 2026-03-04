@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.88333,
+          -14.03333
+        ]
+      },
+      "properties": {
+        "code": "lake-malawi-national-park",
+        "name": "Lake Malawi National Park",
+        "type": "Natural",
+        "country": "Malawi",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

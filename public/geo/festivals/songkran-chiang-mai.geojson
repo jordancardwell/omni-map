@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9853,
+          18.7883
+        ]
+      },
+      "properties": {
+        "code": "songkran-chiang-mai",
+        "name": "Songkran (Chiang Mai)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "April 13–15",
+        "location": "Chiang Mai, Thailand"
+      }
+    }
+  ]
+}

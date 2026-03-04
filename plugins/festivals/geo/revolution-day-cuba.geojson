@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3666,
+          23.1136
+        ]
+      },
+      "properties": {
+        "code": "revolution-day-cuba",
+        "name": "Revolution Day (Cuba)",
+        "festivalType": "National",
+        "dateOrSeason": "January 1",
+        "location": "Havana, Cuba"
+      }
+    }
+  ]
+}

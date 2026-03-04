@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.48333,
+          56.325
+        ]
+      },
+      "properties": {
+        "code": "agricultural-landscape-of-southern-oland",
+        "name": "Agricultural Landscape of Southern Öland",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

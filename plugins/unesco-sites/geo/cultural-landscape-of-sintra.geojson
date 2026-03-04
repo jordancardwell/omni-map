@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.41667,
+          38.78333
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-sintra",
+        "name": "Cultural Landscape of Sintra",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

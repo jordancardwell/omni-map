@@ -1,0 +1,16 @@
+{
+  "code": "wa-or-coast",
+  "name": "WA-OR Coast",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 875,
+  "yearLaid": 2015,
+  "rfsDate": "2020-06",
+  "owner": "Lumen",
+  "landingPoints": [
+    "Pacific City, USA",
+    "Seattle, USA"
+  ],
+  "description": "WA-OR Coast connecting Pacific City to Seattle.",
+  "geojson": "wa-or-coast.geojson"
+}

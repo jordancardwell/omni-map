@@ -1,0 +1,21 @@
+{
+  "code": "sea-me-we-5",
+  "name": "SEA-ME-WE 5",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 20000,
+  "yearLaid": 2015,
+  "rfsDate": "2016-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Marseille, France",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Djibouti, Djibouti",
+    "Mumbai, India",
+    "Colombo, Sri Lanka",
+    "Singapore"
+  ],
+  "description": "South East Asia-Middle East-Western Europe 5, latest in the SEA-ME-WE series.",
+  "geojson": "sea-me-we-5.geojson"
+}

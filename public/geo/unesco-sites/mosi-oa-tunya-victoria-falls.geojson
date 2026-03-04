@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.85539,
+          -17.92453
+        ]
+      },
+      "properties": {
+        "code": "mosi-oa-tunya-victoria-falls",
+        "name": "Mosi-oa-Tunya / Victoria Falls",
+        "type": "Natural",
+        "country": "Zambia, Zimbabwe",
+        "yearInscribed": "1989"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "savannah",
+  "name": "Port of Savannah",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 45,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "East Coast Americas Route"
+  ],
+  "description": "Port of Savannah in United States. Annual cargo throughput: ~45 million tons. Type: Container Port.",
+  "geojson": "savannah.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sdg",
+  "name": "Sudanese Pound",
+  "isoCode": "SDG",
+  "symbol": "ج.س",
+  "region": "Africa",
+  "centralBank": "Central Bank of Sudan",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Sudan"
+  ],
+  "countryCount": 1,
+  "description": "The Sudanese Pound has experienced significant devaluation. Sudan's economy has been affected by conflict and international sanctions.",
+  "historicalNotes": "The current pound was introduced in 2007, replacing the Sudanese dinar. South Sudan's secession in 2011 cost Sudan significant oil revenues.",
+  "geojson": "sdg.geojson"
+}

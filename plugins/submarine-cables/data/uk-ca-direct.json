@@ -1,0 +1,16 @@
+{
+  "code": "uk-ca-direct",
+  "name": "UK-CA Direct",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 4377,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "Hibernia",
+  "landingPoints": [
+    "Bude, UK",
+    "Halifax, Canada"
+  ],
+  "description": "UK-CA Direct connecting Bude to Halifax.",
+  "geojson": "uk-ca-direct.geojson"
+}

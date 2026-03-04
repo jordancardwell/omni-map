@@ -1,0 +1,21 @@
+{
+  "code": "sao-russia",
+  "name": "Special Astrophysical Observatory",
+  "country": "Russia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2070,
+  "aperture": "6 m (BTA)",
+  "telescopes": [
+    "BTA-6",
+    "RATAN-600"
+  ],
+  "keyDiscoveries": [
+    "Spectroscopy of faint objects",
+    "Galaxy morphology",
+    "Radio source studies"
+  ],
+  "location": "Special Astrophysical Observatory, Russia",
+  "description": "Home of the BTA-6, the largest telescope in Russia (6m aperture), located in the Caucasus Mountains. Also operates the RATAN-600 radio telescope.",
+  "geojson": "sao-russia.geojson"
+}

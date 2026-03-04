@@ -1,0 +1,15 @@
+{
+  "code": "sutherland",
+  "name": "SaxaVord Spaceport (Shetland)",
+  "country": "United Kingdom",
+  "operator": "SaxaVord UK",
+  "coordinates": "60.8233°N, 0.8667°W",
+  "status": "Active",
+  "notableLaunches": [
+    "First UK vertical orbital launch (planned)"
+  ],
+  "orbitalInclinationRange": "88°–98° (polar/SSO)",
+  "location": "SaxaVord Spaceport (Shetland), United Kingdom",
+  "description": "The United Kingdom's first vertical orbital launch site on Unst, Shetland Islands. Designed primarily for polar and SSO small satellite launches. Multiple launch companies plan to operate here.",
+  "geojson": "sutherland.geojson"
+}

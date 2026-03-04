@@ -1,0 +1,18 @@
+{
+  "code": "sb",
+  "name": "Solomon Islands",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "G",
+    "I"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type G — Three rectangular pins (British style)",
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of Australian and British plugs.",
+  "geojson": "sb.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "pek-szx",
+  "name": "Beijing — Shenzhen",
+  "airports": [
+    "PEK",
+    "SZX"
+  ],
+  "distanceKm": 1957,
+  "weeklyFlights": 280,
+  "airlines": [
+    "Air China",
+    "Shenzhen Airlines",
+    "China Southern"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PEK–SZX route between Beijing and Shenzhen. Distance: 1,957 km. ~280 weekly flights operated by Air China, Shenzhen Airlines, China Southern.",
+  "geojson": "pek-szx.geojson"
+}

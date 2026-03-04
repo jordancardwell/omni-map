@@ -1,0 +1,16 @@
+{
+  "code": "lk-sc-cable",
+  "name": "LK-SC Cable",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2877,
+  "yearLaid": 2010,
+  "rfsDate": "2022-06",
+  "owner": "SLT",
+  "landingPoints": [
+    "Colombo, Sri Lanka",
+    "Victoria, Seychelles"
+  ],
+  "description": "LK-SC Cable connecting Colombo to Victoria.",
+  "geojson": "lk-sc-cable.geojson"
+}

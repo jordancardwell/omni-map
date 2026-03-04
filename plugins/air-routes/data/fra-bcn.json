@@ -1,0 +1,18 @@
+{
+  "code": "fra-bcn",
+  "name": "Frankfurt — Barcelona",
+  "airports": [
+    "FRA",
+    "BCN"
+  ],
+  "distanceKm": 1094,
+  "weeklyFlights": 90,
+  "airlines": [
+    "Lufthansa",
+    "Vueling"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "FRA–BCN route between Frankfurt and Barcelona. Distance: 1,094 km. ~90 weekly flights operated by Lufthansa, Vueling.",
+  "geojson": "fra-bcn.geojson"
+}

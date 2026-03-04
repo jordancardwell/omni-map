@@ -1,0 +1,16 @@
+{
+  "code": "hibernia-express",
+  "name": "Hibernia Express",
+  "capacityTbps": 53,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4600,
+  "yearLaid": 2014,
+  "rfsDate": "2015-09",
+  "owner": "GTT Communications",
+  "landingPoints": [
+    "Halifax, Canada",
+    "Southport, UK"
+  ],
+  "description": "Ultra-low-latency transatlantic cable optimized for financial trading, offering 59.5ms RTT.",
+  "geojson": "hibernia-express.geojson"
+}

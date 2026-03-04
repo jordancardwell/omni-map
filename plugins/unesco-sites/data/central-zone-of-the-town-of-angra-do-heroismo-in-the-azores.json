@@ -1,0 +1,14 @@
+{
+  "code": "central-zone-of-the-town-of-angra-do-heroismo-in-the-azores",
+  "name": "Central Zone of the Town of Angra do Heroismo in the Azores",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on one of the islands in the Azores archipelago, this was an obligatory port of call from the 15th century until the advent of the steamship in the 19th century. The 400-year-old San Sebastião and San João Baptista fortifications are unique examples of military architecture. Damaged by an earthquake in 1980, Angra is now being restored.",
+  "danger": false,
+  "geojson": "central-zone-of-the-town-of-angra-do-heroismo-in-the-azores.geojson"
+}

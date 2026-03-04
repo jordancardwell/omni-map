@@ -1,0 +1,14 @@
+{
+  "code": "lena-pillars-nature-park",
+  "name": "Lena Pillars Nature Park",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Lena Pillars Nature Park is marked by spectacular rock pillars that reach a height of approximately 100 m along the banks of the Lena River in the central part of the Sakha Republic (Yakutia). They were produced by the region’s extreme continental climate with an annual temperature range of almost 100 degrees Celsius (from –60 °C in winter to +40 °C in summer). The pillars form rocky buttresses isolated from each other by deep and steep gullies developed by frost shattering directed along intervening joints. Penetration of water from the surface has facilitated cryogenic processes (freeze-thaw action), which have widened gullies between pillars leading to their isolation. Fluvial processes are also critical to the pillars. The site also contains a wealth of Cambrian fossil remains of numerous species, some of them unique.",
+  "danger": false,
+  "geojson": "lena-pillars-nature-park.geojson"
+}

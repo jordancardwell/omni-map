@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "spice-routes",
+        "name": "Spice Routes",
+        "featureType": "route",
+        "routeType": "maritime"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [127.37, -0.52],
+          [125.52, -1.75],
+          [122.07, -3.69],
+          [117.59, -4.42],
+          [112.75, -5.13],
+          [108.68, -3.15],
+          [106.85, -1.61],
+          [104.05, 1.35],
+          [101.69, 3.14],
+          [98.67, 7.88],
+          [92.83, 9.83],
+          [80.27, 9.97],
+          [76.27, 9.93],
+          [73.86, 15.40],
+          [66.70, 21.51],
+          [59.60, 23.61],
+          [52.52, 19.28],
+          [45.04, 12.80],
+          [43.15, 14.79],
+          [41.89, 19.50],
+          [39.10, 21.49],
+          [36.84, 24.47],
+          [34.45, 27.18],
+          [32.30, 29.97],
+          [29.92, 31.20],
+          [25.14, 35.33],
+          [18.43, 36.66],
+          [12.34, 45.44],
+          [5.37, 43.30],
+          [-3.70, 40.42],
+          [-9.14, 38.72]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Moluccas (Spice Islands)", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [127.37, -0.52] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Banda Islands", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [129.90, -4.52] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Malacca", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [102.25, 2.19] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Calicut", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [75.77, 11.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Goa", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [73.86, 15.40] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Aden", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [45.04, 12.80] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Cairo", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [31.24, 30.04] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Venice", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [12.34, 45.44] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "spice-routes", "name": "Lisbon", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [-9.14, 38.72] }
+    }
+  ]
+}

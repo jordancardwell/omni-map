@@ -1,0 +1,16 @@
+{
+  "code": "hk-xm-cable",
+  "name": "HK-XM Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3797,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Xiamen, China"
+  ],
+  "description": "HK-XM Cable connecting Hong Kong to Xiamen in Southeast Asia.",
+  "geojson": "hk-xm-cable.geojson"
+}

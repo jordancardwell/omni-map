@@ -1,0 +1,14 @@
+{
+  "code": "christmas",
+  "name": "Christmas",
+  "festivalType": "Religious",
+  "dateOrSeason": "December 25",
+  "origin": "Christian tradition",
+  "estimatedAttendance": "2+ billion Christians worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Church services and midnight mass; gift-giving; decorating Christmas trees; nativity scenes; carol singing; festive meals; Santa Claus traditions.",
+  "historicalBackground": "Christmas commemorates the birth of Jesus Christ. December 25 was adopted in the 4th century, likely absorbing Roman Saturnalia traditions. Gift-giving echoes the Magi's offerings.",
+  "description": "The celebration of the birth of Jesus Christ, observed by Christians worldwide with religious services, family gatherings, and festive traditions.",
+  "location": "Bethlehem, Palestine",
+  "geojson": "christmas.geojson"
+}

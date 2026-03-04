@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076111111,
+          51.50805556
+        ]
+      },
+      "properties": {
+        "code": "tower-of-london",
+        "name": "Tower of London",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "hambantota",
+  "name": "Port of Hambantota",
+  "country": "Sri Lanka",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Hambantota in Sri Lanka. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+  "geojson": "hambantota.geojson"
+}

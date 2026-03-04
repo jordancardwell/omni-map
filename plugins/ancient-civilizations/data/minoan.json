@@ -1,0 +1,12 @@
+{
+  "code": "minoan",
+  "name": "Minoan Civilization",
+  "period": "c. 2700–1450 BCE",
+  "region": "Europe",
+  "type": "Civilization",
+  "writingSystem": "Linear A (undeciphered) / Linear B",
+  "majorAchievements": ["Palace complexes", "Fresco painting", "Maritime trade network", "Indoor plumbing", "Bull-leaping ceremonies", "Advanced metalwork"],
+  "keyCities": ["Knossos", "Phaistos", "Malia", "Zakros", "Akrotiri"],
+  "description": "The Minoan civilization on the island of Crete was the first advanced civilization in Europe. Named after the mythical King Minos, the Minoans built elaborate palace complexes, developed two writing systems, and established a vast maritime trade network across the eastern Mediterranean. Their vibrant frescoes and sophisticated art influenced the later Mycenaean civilization on mainland Greece.",
+  "geojson": "minoan.geojson"
+}

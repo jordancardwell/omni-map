@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-shakhrisyabz",
+  "name": "Historic Centre of Shakhrisyabz",
+  "type": "Cultural",
+  "country": "Uzbekistan",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The historic centre of Shakhrisyabz contains a collection of exceptional monuments and ancient quarters which bear witness to the city's secular development, and particularly to the period of its apogee, under the rule of Amir Temur and the Temurids, in the 15th-16th century.",
+  "danger": true,
+  "geojson": "historic-centre-of-shakhrisyabz.geojson"
+}

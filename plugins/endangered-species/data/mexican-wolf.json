@@ -1,0 +1,19 @@
+{
+  "code": "mexican-wolf",
+  "name": "Mexican Wolf",
+  "scientificName": "Canis lupus baileyi",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~240 in wild",
+  "populationTrend": "Increasing",
+  "habitatType": "Pine-oak woodland and grassland",
+  "threats": [
+    "Illegal killing",
+    "Small population size",
+    "Genetic bottleneck",
+    "Political opposition"
+  ],
+  "conservationEfforts": "Captive breeding since 1977 from last 7 wild wolves. Reintroduced in Arizona/New Mexico in 1998. Population has grown from 11 to over 240 wild wolves.",
+  "description": "The smallest and most genetically distinct subspecies of gray wolf in North America. All living Mexican wolves descend from just 7 founders captured in the 1970s.",
+  "geojson": "mexican-wolf.geojson"
+}

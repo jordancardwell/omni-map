@@ -1,0 +1,16 @@
+{
+  "code": "us-east-coast-1",
+  "name": "US East Coast-1",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 343,
+  "yearLaid": 2016,
+  "rfsDate": "2011-06",
+  "owner": "Lumen",
+  "landingPoints": [
+    "Jacksonville, USA",
+    "Virginia Beach, USA"
+  ],
+  "description": "US East Coast-1 connecting Jacksonville to Virginia Beach.",
+  "geojson": "us-east-coast-1.geojson"
+}

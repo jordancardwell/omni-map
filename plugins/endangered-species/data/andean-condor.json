@@ -1,0 +1,19 @@
+{
+  "code": "andean-condor",
+  "name": "Andean Condor",
+  "scientificName": "Vultur gryphus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~6,700 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Mountain and coastal cliff",
+  "threats": [
+    "Poisoning",
+    "Lead contamination",
+    "Habitat loss",
+    "Persecution"
+  ],
+  "conservationEfforts": "Reintroduction programs in Venezuela, Colombia, and Argentina. Lead-free ammunition campaigns. Cultural significance as a national symbol of multiple South American nations.",
+  "description": "The largest flying bird by combined weight and wingspan, reaching 3.3 meters. It soars on thermal currents above the Andes with almost no wing flapping. Sacred to Andean cultures for millennia.",
+  "geojson": "andean-condor.geojson"
+}

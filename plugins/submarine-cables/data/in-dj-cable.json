@@ -1,0 +1,16 @@
+{
+  "code": "in-dj-cable",
+  "name": "IN-DJ Cable",
+  "capacityTbps": 26,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1349,
+  "yearLaid": 2022,
+  "rfsDate": "2020-06",
+  "owner": "Airtel",
+  "landingPoints": [
+    "Mumbai, India",
+    "Djibouti, Djibouti"
+  ],
+  "description": "IN-DJ Cable connecting Mumbai to Djibouti.",
+  "geojson": "in-dj-cable.geojson"
+}

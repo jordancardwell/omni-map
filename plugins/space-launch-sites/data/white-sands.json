@@ -1,0 +1,18 @@
+{
+  "code": "white-sands",
+  "name": "White Sands Missile Range",
+  "country": "United States",
+  "operator": "US Army",
+  "coordinates": "32.3894°N, 106.4781°W",
+  "status": "Active",
+  "notableLaunches": [
+    "V-2 tests (post-WWII)",
+    "WAC Corporal",
+    "Trinity nuclear test (adjacent)",
+    "Sounding rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "White Sands Missile Range, United States",
+  "description": "Historic US Army test range in New Mexico. First US V-2 launches, the WAC Corporal (first US sounding rocket), and thousands of missile tests. Still active for suborbital launches and testing.",
+  "geojson": "white-sands.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.99389,
+          24.69528
+        ]
+      },
+      "properties": {
+        "code": "mahabodhi-temple-complex-at-bodh-gaya",
+        "name": "Mahabodhi Temple Complex at Bodh Gaya",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

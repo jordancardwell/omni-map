@@ -1,0 +1,18 @@
+{
+  "code": "cgk-nrt",
+  "name": "Jakarta — Tokyo",
+  "airports": [
+    "CGK",
+    "NRT"
+  ],
+  "distanceKm": 5840,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Garuda Indonesia",
+    "ANA"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CGK–NRT route between Jakarta and Tokyo. Distance: 5,840 km. ~30 weekly flights operated by Garuda Indonesia, ANA.",
+  "geojson": "cgk-nrt.geojson"
+}

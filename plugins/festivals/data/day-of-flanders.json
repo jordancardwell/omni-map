@@ -1,0 +1,14 @@
+{
+  "code": "day-of-flanders",
+  "name": "Gentse Feesten",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Late July (10 days)",
+  "origin": "Flemish tradition",
+  "estimatedAttendance": "1.5+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Street theater; puppet shows; open-air concerts; techno parade; medieval market; Flemish folk music; Polé Polé world music tent.",
+  "historicalBackground": "Gentse Feesten began in 1843 as a series of musical performances. It has grown into one of Europe's largest cultural festivals.",
+  "description": "Europe's largest cultural city festival, transforming Ghent's medieval center into ten days of non-stop music, theater, and street art.",
+  "location": "Ghent, Belgium",
+  "geojson": "day-of-flanders.geojson"
+}

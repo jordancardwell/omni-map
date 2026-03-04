@@ -1,0 +1,16 @@
+{
+  "code": "ng-domestic-1",
+  "name": "NG Domestic-1",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 610,
+  "yearLaid": 2022,
+  "rfsDate": "2020-06",
+  "owner": "Glo",
+  "landingPoints": [
+    "Lagos, Nigeria",
+    "Port Harcourt, Nigeria"
+  ],
+  "description": "NG Domestic-1 connecting Lagos to Port Harcourt along the West African coast.",
+  "geojson": "ng-domestic-1.geojson"
+}

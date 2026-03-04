@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.324,10.83]},"properties":{"code":"rincon-de-la-vieja","name":"Rincón de la Vieja","volcanoType":"Complex volcano","status":"Erupting/Recent","elevation":1916,"lastEruption":"2023","vei":2}}]}

@@ -1,0 +1,15 @@
+{
+  "code": "freeport",
+  "name": "Freeport Container Port",
+  "country": "Bahamas",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route",
+    "East Coast Americas Route"
+  ],
+  "description": "Freeport Container Port in Bahamas. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+  "geojson": "freeport.geojson"
+}

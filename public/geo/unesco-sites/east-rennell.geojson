@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.33333,
+          -11.68333
+        ]
+      },
+      "properties": {
+        "code": "east-rennell",
+        "name": "East Rennell",
+        "type": "Natural",
+        "country": "Solomon Islands",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

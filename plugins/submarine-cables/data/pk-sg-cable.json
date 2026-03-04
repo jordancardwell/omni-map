@@ -1,0 +1,16 @@
+{
+  "code": "pk-sg-cable",
+  "name": "PK-SG Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2400,
+  "yearLaid": 2011,
+  "rfsDate": "2022-06",
+  "owner": "PTCL",
+  "landingPoints": [
+    "Karachi, Pakistan",
+    "Singapore"
+  ],
+  "description": "PK-SG Cable connecting Karachi to Singapore.",
+  "geojson": "pk-sg-cable.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "mk",
+  "name": "North Macedonia",
+  "avgDownloadMbps": 74.6,
+  "avgUploadMbps": 28.4,
+  "avgLatencyMs": 18,
+  "mobileDownloadMbps": 32.6,
+  "mobileUploadMbps": 7.2,
+  "fixedDownloadMbps": 74.6,
+  "fixedUploadMbps": 28.4,
+  "rank": 58,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Growing broadband access. ~12% year-over-year growth.",
+  "geojson": "mk.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "india-saudi",
+  "name": "India \u2192 Saudi Arabia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "India \u2192 Saudi Arabia",
+  "badgeValue": "~2.5 million",
+  "origin": "India",
+  "destination": "Saudi Arabia",
+  "estimatedMigrants": "~2.5 million",
+  "drivers": [
+    "Oil sector employment",
+    "Religious pilgrimage",
+    "Wage premium",
+    "Bilateral agreements"
+  ],
+  "description": "Saudi Arabia hosts one of the largest Indian diaspora communities, working across oil, construction, healthcare, and services sectors. Religious tourism (Hajj and Umrah) also sustains significant temporary migration. Government initiatives like Saudization have periodically affected migrant worker numbers.",
+  "geojson": "india-saudi.geojson"
+}

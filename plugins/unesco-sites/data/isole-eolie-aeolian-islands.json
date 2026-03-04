@@ -1,0 +1,14 @@
+{
+  "code": "isole-eolie-aeolian-islands",
+  "name": "Isole Eolie (Aeolian Islands)",
+  "type": "Natural",
+  "country": "Italy",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Aeolian Islands provide an outstanding record of volcanic island-building and destruction, and ongoing volcanic phenomena. Studied since at least the 18th century, the islands have provided the science of vulcanology with examples of two types of eruption (Vulcanian and Strombolian) and thus have featured prominently in the education of geologists for more than 200 years. The site continues to enrich the field of vulcanology.",
+  "danger": false,
+  "geojson": "isole-eolie-aeolian-islands.geojson"
+}

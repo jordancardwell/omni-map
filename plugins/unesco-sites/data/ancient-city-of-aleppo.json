@@ -1,0 +1,15 @@
+{
+  "code": "ancient-city-of-aleppo",
+  "name": "Ancient City of Aleppo",
+  "type": "Cultural",
+  "country": "Syrian Arab Republic",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation.",
+  "danger": true,
+  "geojson": "ancient-city-of-aleppo.geojson"
+}

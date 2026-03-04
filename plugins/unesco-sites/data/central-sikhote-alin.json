@@ -1,0 +1,14 @@
+{
+  "code": "central-sikhote-alin",
+  "name": "Central Sikhote-Alin",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Sikhote-Alin mountain range contains one of the richest and most unusual temperate forests of the world. In this mixed zone between taiga and subtropics, southern species such as the tiger and Himalayan bear cohabit with northern species such as the brown bear and lynx. After its extension in 2018, the property includes the Bikin River Valley, located about 100 km to the north of the existing site. It encompasses the South-Okhotsk dark coniferous forests and the East-Asian coniferous broadleaf forests. The fauna includes species of the taiga alongside southern Manchurian species. It includes notable mammals such as the Amur Tiger, Siberian Musk Deer, Wolverine and Sable.",
+  "danger": false,
+  "geojson": "central-sikhote-alin.geojson"
+}

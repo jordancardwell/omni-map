@@ -1,0 +1,16 @@
+{
+  "code": "lkr",
+  "name": "Sri Lankan Rupee",
+  "isoCode": "LKR",
+  "symbol": "Rs",
+  "region": "Asia",
+  "centralBank": "Central Bank of Sri Lanka",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Sri Lanka"
+  ],
+  "countryCount": 1,
+  "description": "The Sri Lankan Rupee is the currency of the island nation known for tea, spices, and textiles.",
+  "historicalNotes": "Sri Lanka adopted its own rupee after independence from Britain in 1948. The country experienced a severe economic crisis in 2022 that significantly affected the currency.",
+  "geojson": "lkr.geojson"
+}

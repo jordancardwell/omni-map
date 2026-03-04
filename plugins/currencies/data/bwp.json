@@ -1,0 +1,16 @@
+{
+  "code": "bwp",
+  "name": "Botswana Pula",
+  "isoCode": "BWP",
+  "symbol": "P",
+  "region": "Africa",
+  "centralBank": "Bank of Botswana",
+  "exchangeRateEra": "Crawling peg to basket",
+  "countries": [
+    "Botswana"
+  ],
+  "countryCount": 1,
+  "description": "The Botswana Pula means 'rain' in Setswana — a precious commodity in this semi-arid country. Botswana is the world's leading diamond producer by value.",
+  "historicalNotes": "Introduced in 1976, replacing the South African rand. Botswana's transformation from one of the world's poorest countries to an upper-middle-income economy through diamond wealth and good governance is remarkable.",
+  "geojson": "bwp.geojson"
+}

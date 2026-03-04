@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.89028,
+          29.93444
+        ]
+      },
+      "properties": {
+        "code": "persepolis",
+        "name": "Persepolis",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

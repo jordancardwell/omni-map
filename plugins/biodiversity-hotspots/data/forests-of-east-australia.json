@@ -1,0 +1,29 @@
+{
+  "code": "forests-of-east-australia",
+  "name": "Forests of East Australia",
+  "location": "Eastern Australia (Queensland to Victoria)",
+  "areaKm2": 254015,
+  "habitatRemaining": "36.4%",
+  "plantSpecies": 8257,
+  "endemicPlants": 2144,
+  "vertebrateSpecies": 1186,
+  "endemicVertebrates": 174,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Koala",
+    "Platypus",
+    "Greater glider",
+    "Wollemi pine",
+    "Southern cassowary"
+  ],
+  "threats": [
+    "Land clearing",
+    "Logging",
+    "Urbanization",
+    "Bushfires",
+    "Climate change"
+  ],
+  "conservationEfforts": "Extensive national park system including Gondwana Rainforests World Heritage Area. Koala conservation strategies at state and federal levels. Wollemi pine rediscovery led to ex-situ conservation. Post-2019/2020 bushfire recovery programs.",
+  "description": "The Forests of East Australia hotspot stretches along the east coast and Great Dividing Range from Cooktown in Queensland to the Melbourne region in Victoria. It encompasses tropical, subtropical, and temperate rainforests, wet sclerophyll forests, and associated habitats.\n\nThis region is home to many of Australia's most iconic species and contains ancient Gondwanan lineages. The Wollemi pine, discovered alive in 1994, was previously known only from fossils 90 million years old. The 2019-2020 bushfire season devastated large areas, affecting an estimated 3 billion animals.",
+  "geojson": "forests-of-east-australia.geojson"
+}

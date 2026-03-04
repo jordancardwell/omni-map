@@ -1,0 +1,16 @@
+{
+  "code": "lak",
+  "name": "Lao Kip",
+  "isoCode": "LAK",
+  "symbol": "₭",
+  "region": "Asia",
+  "centralBank": "Bank of the Lao P.D.R.",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Laos"
+  ],
+  "countryCount": 1,
+  "description": "The Lao Kip is the currency of Laos, a landlocked Southeast Asian country. In practice, Thai baht and US dollars are widely used alongside the kip.",
+  "historicalNotes": "Introduced in 1952. The kip has experienced significant inflation, making it one of the world's lowest-valued currency units.",
+  "geojson": "lak.geojson"
+}

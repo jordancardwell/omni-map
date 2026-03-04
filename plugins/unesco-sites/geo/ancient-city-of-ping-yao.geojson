@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.15444,
+          37.20139
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-ping-yao",
+        "name": "Ancient City of Ping Yao",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

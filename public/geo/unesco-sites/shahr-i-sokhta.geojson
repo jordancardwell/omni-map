@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.3277777778,
+          30.5938888889
+        ]
+      },
+      "properties": {
+        "code": "shahr-i-sokhta",
+        "name": "Shahr-i Sokhta",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

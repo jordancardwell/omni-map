@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3351,
+          59.9343
+        ]
+      },
+      "properties": {
+        "code": "white-nights",
+        "name": "White Nights Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "June–July",
+        "location": "St. Petersburg, Russia"
+      }
+    }
+  ]
+}

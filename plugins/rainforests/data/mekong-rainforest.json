@@ -1,0 +1,21 @@
+{
+  "code": "mekong-rainforest",
+  "name": "Greater Mekong Rainforest",
+  "country": "Vietnam, Laos, Cambodia, Myanmar, Thailand",
+  "forestType": "Tropical",
+  "areaKm2": 340000,
+  "intactness": "Severely Degraded",
+  "changeSince2000": "-15.3% (approximately 52,000 km² lost)",
+  "annualLossRate": "0.6–0.8% per year",
+  "threats": [
+    "Commercial agriculture (rubber, cassava)",
+    "Illegal logging",
+    "Dam construction",
+    "Road expansion",
+    "Land concessions",
+    "Wildlife trade"
+  ],
+  "conservationStatus": "Protected areas cover ~20% of the Greater Mekong region but enforcement is weak. Key reserves include Nam Et-Phou Louey (Laos) and Cat Tien (Vietnam). WWF Greater Mekong program active. ASEAN Heritage Parks provide regional framework. Illegal cross-border timber trade remains a major challenge.",
+  "description": "The **Greater Mekong Rainforest** encompasses the tropical and subtropical moist forests of mainland Southeast Asia, one of the world's most biologically rich and threatened regions. New species continue to be discovered at remarkable rates.\n\n### Key Statistics\n- **Biodiversity**: ~20,000 plant species, 430+ mammal species, 1,200+ bird species\n- **New species**: ~3,000 new species discovered since 1997\n- **Iconic species**: Saola, Indochinese tiger, Asian elephant, Irrawaddy dolphin\n- **Forest types**: Tropical evergreen, semi-evergreen, dry dipterocarp, montane\n\n### Deforestation Trends\nThe IFL 2020 data shows severe forest loss across the Greater Mekong, with Cambodia and Myanmar experiencing the highest rates. Rubber and cassava plantations have replaced vast areas of natural forest, often facilitated by land concessions to foreign companies. The region lost forest at roughly double the global tropical average.",
+  "geojson": "mekong-rainforest.geojson"
+}

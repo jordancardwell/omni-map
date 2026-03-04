@@ -1,0 +1,14 @@
+{
+  "code": "national-day-austria",
+  "name": "Austrian National Day",
+  "festivalType": "National",
+  "dateOrSeason": "October 26",
+  "origin": "Austrian national",
+  "estimatedAttendance": "9+ million Austrians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Open day at parliament and federal buildings; military displays; citizenship ceremonies; cultural events; concerts.",
+  "historicalBackground": "October 26 marks the day in 1955 when Austria declared permanent neutrality after the departure of Allied occupation forces.",
+  "description": "Austria's celebration of neutrality and sovereignty, with open-door days at government buildings and cultural events in Vienna.",
+  "location": "Vienna, Austria",
+  "geojson": "national-day-austria.geojson"
+}

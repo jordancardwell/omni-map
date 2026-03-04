@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      },
+      "properties": {
+        "code": "australia-day",
+        "name": "Australia Day",
+        "festivalType": "National",
+        "dateOrSeason": "January 26",
+        "location": "Sydney, Australia"
+      }
+    }
+  ]
+}

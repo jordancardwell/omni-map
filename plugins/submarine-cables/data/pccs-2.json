@@ -1,0 +1,16 @@
+{
+  "code": "pccs-2",
+  "name": "PCCS-2",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3500,
+  "yearLaid": 2023,
+  "rfsDate": "2025-01",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Lurín, Peru",
+    "Panama City, Panama"
+  ],
+  "description": "Peru-Panama cable system.",
+  "geojson": "pccs-2.geojson"
+}

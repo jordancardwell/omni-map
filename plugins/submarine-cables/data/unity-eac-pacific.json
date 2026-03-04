@@ -1,0 +1,16 @@
+{
+  "code": "unity-eac-pacific",
+  "name": "Unity-EAC Pacific",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1200,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "KDDI, LG Uplus",
+  "landingPoints": [
+    "Chikura, Japan",
+    "Busan, South Korea"
+  ],
+  "description": "Japan-Korea cable extending the Unity network.",
+  "geojson": "unity-eac-pacific.geojson"
+}

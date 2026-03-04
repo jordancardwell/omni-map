@@ -1,0 +1,17 @@
+{
+  "code": "atl-mad",
+  "name": "Atlanta — Madrid",
+  "airports": [
+    "ATL",
+    "MAD"
+  ],
+  "distanceKm": 6960,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–MAD route between Atlanta and Madrid. Distance: 6,960 km. ~20 weekly flights operated by Delta.",
+  "geojson": "atl-mad.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "fr-es-med",
+  "name": "FR-ES Med",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2685,
+  "yearLaid": 2021,
+  "rfsDate": "2023-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Marseille, France",
+    "Barcelona, Spain"
+  ],
+  "description": "FR-ES Med connecting Marseille to Barcelona in Europe.",
+  "geojson": "fr-es-med.geojson"
+}

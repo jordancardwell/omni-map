@@ -1,0 +1,15 @@
+{
+  "code": "historical-monuments-of-mtskheta",
+  "name": "Historical Monuments of Mtskheta",
+  "type": "Cultural",
+  "country": "Georgia",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The historic churches of Mtskheta, former capital of Georgia, are outstanding examples of medieval religious architecture in the Caucasus. They show the high artistic and cultural level attained by this ancient kingdom.",
+  "danger": false,
+  "geojson": "historical-monuments-of-mtskheta.geojson"
+}

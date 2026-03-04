@@ -1,0 +1,18 @@
+{
+  "code": "icn-can",
+  "name": "Seoul — Guangzhou",
+  "airports": [
+    "ICN",
+    "CAN"
+  ],
+  "distanceKm": 2003,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Korean Air",
+    "China Southern"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ICN–CAN route between Seoul and Guangzhou. Distance: 2,003 km. ~100 weekly flights operated by Korean Air, China Southern.",
+  "geojson": "icn-can.geojson"
+}

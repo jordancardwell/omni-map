@@ -1,0 +1,17 @@
+{
+  "code": "jp",
+  "name": "Japan",
+  "avgDownloadMbps": 186.4,
+  "avgUploadMbps": 120.8,
+  "avgLatencyMs": 8,
+  "mobileDownloadMbps": 55.2,
+  "mobileUploadMbps": 12.1,
+  "fixedDownloadMbps": 186.4,
+  "fixedUploadMbps": 120.8,
+  "rank": 16,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "Mature broadband market with very stable speeds. ~5% year-over-year growth.",
+  "geojson": "jp.geojson"
+}

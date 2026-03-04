@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[127.63,1.488]},"properties":{"code":"ibu","name":"Ibu","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":1325,"lastEruption":"2023","vei":3}}]}

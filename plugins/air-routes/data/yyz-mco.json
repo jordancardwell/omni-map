@@ -1,0 +1,18 @@
+{
+  "code": "yyz-mco",
+  "name": "Toronto — Orlando",
+  "airports": [
+    "YYZ",
+    "MCO"
+  ],
+  "distanceKm": 1702,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Air Canada",
+    "WestJet"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–MCO route between Toronto and Orlando. Distance: 1,702 km. ~40 weekly flights operated by Air Canada, WestJet.",
+  "geojson": "yyz-mco.geojson"
+}

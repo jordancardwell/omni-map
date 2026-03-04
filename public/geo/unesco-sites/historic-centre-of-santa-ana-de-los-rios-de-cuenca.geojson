@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.004382,
+          -2.897447
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-santa-ana-de-los-rios-de-cuenca",
+        "name": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+        "type": "Cultural",
+        "country": "Ecuador",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

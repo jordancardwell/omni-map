@@ -1,0 +1,15 @@
+{
+  "code": "budapest-including-the-banks-of-the-danube-the-buda-castle-quarter-and-andrassy",
+  "name": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+  "type": "Cultural",
+  "country": "Hungary",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital.",
+  "danger": false,
+  "geojson": "budapest-including-the-banks-of-the-danube-the-buda-castle-quarter-and-andrassy.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "tango",
+  "name": "Tango",
+  "region": "Buenos Aires, Argentina & Montevideo, Uruguay",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Bandoneón",
+    "Violin",
+    "Piano",
+    "Double Bass",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Carlos Gardel",
+    "Astor Piazzolla",
+    "Aníbal Troilo",
+    "Osvaldo Pugliese",
+    "Gotan Project"
+  ],
+  "description": "Tango emerged in the working-class port neighborhoods of Buenos Aires and Montevideo in the late 19th century, blending influences from European immigrants, African-descended communities, and criollos. The music and dance are characterized by dramatic pauses, close embrace, and improvisational interplay. UNESCO inscribed tango on the Intangible Cultural Heritage list in 2009.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Tango",
+      "url": "https://ich.unesco.org/en/RL/tango-00258"
+    }
+  ],
+  "geojson": "tango.geojson"
+}

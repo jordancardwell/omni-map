@@ -1,0 +1,15 @@
+{
+  "code": "pilgrimage-church-of-wies",
+  "name": "Pilgrimage Church of Wies",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Miraculously preserved in the beautiful setting of an Alpine valley, the Church of Wies (1745–54), the work of architect Dominikus Zimmermann, is a masterpiece of Bavarian Rococo – exuberant, colourful and joyful.",
+  "danger": false,
+  "geojson": "pilgrimage-church-of-wies.geojson"
+}

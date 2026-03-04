@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25611,
+          43.77306
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-florence",
+        "name": "Historic Centre of Florence",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

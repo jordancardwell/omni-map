@@ -1,0 +1,17 @@
+{
+  "code": "ie",
+  "name": "Ireland",
+  "avgDownloadMbps": 115.4,
+  "avgUploadMbps": 36.8,
+  "avgLatencyMs": 17,
+  "mobileDownloadMbps": 52.8,
+  "mobileUploadMbps": 10.4,
+  "fixedDownloadMbps": 115.4,
+  "fixedUploadMbps": 36.8,
+  "rank": 40,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Rural broadband plan improving coverage. ~13% year-over-year growth.",
+  "geojson": "ie.geojson"
+}

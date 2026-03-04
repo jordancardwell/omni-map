@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34,
+          51.82
+        ]
+      },
+      "properties": {
+        "code": "mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys",
+        "name": "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

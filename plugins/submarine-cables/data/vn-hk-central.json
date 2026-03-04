@@ -1,0 +1,16 @@
+{
+  "code": "vn-hk-central",
+  "name": "VN-HK Central",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1992,
+  "yearLaid": 2014,
+  "rfsDate": "2018-06",
+  "owner": "Viettel",
+  "landingPoints": [
+    "Da Nang, Vietnam",
+    "Hong Kong, China"
+  ],
+  "description": "VN-HK Central connecting Da Nang to Hong Kong.",
+  "geojson": "vn-hk-central.geojson"
+}

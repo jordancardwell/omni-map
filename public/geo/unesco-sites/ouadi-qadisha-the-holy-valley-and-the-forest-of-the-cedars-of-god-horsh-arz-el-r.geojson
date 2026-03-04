@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9511111111,
+          34.2538888889
+        ]
+      },
+      "properties": {
+        "code": "ouadi-qadisha-the-holy-valley-and-the-forest-of-the-cedars-of-god-horsh-arz-el-r",
+        "name": "Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)",
+        "type": "Cultural",
+        "country": "Lebanon",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

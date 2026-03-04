@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "north-china-plain", "name": "North China Plain" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[113,41],[115,41],[117,40],[118,39],[119,38],[119,37],[118,36],[117,35],[116,34],[115,33],[114,33],[113,34],[112,35],[112,36],[112,37],[113,38],[113,39],[113,41]]]
+    }
+  }]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "my-in-cable",
+  "name": "MY-IN Cable",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2994,
+  "yearLaid": 2014,
+  "rfsDate": "2015-06",
+  "owner": "Bharti",
+  "landingPoints": [
+    "Penang, Malaysia",
+    "Chennai, India"
+  ],
+  "description": "MY-IN Cable connecting Penang to Chennai.",
+  "geojson": "my-in-cable.geojson"
+}

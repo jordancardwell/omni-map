@@ -1,0 +1,15 @@
+{
+  "code": "gladstone",
+  "name": "Port of Gladstone",
+  "country": "Australia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 120,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Japan–Australia Route",
+    "Trans-Pacific Southern Route"
+  ],
+  "description": "Port of Gladstone in Australia. Annual cargo throughput: ~120 million tons. Type: Bulk Port.",
+  "geojson": "gladstone.geojson"
+}

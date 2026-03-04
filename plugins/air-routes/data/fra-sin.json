@@ -1,0 +1,18 @@
+{
+  "code": "fra-sin",
+  "name": "Frankfurt — Singapore",
+  "airports": [
+    "FRA",
+    "SIN"
+  ],
+  "distanceKm": 10278,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Singapore Airlines",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "FRA–SIN route between Frankfurt and Singapore. Distance: 10,278 km. ~40 weekly flights operated by Singapore Airlines, Lufthansa.",
+  "geojson": "fra-sin.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "ord-cdg",
+  "name": "Chicago — Paris",
+  "airports": [
+    "ORD",
+    "CDG"
+  ],
+  "distanceKm": 6665,
+  "weeklyFlights": 35,
+  "airlines": [
+    "United",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ORD–CDG route between Chicago and Paris. Distance: 6,665 km. ~35 weekly flights operated by United, Air France.",
+  "geojson": "ord-cdg.geojson"
+}

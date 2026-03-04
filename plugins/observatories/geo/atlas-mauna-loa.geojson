@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.5761,19.5362]},"properties":{"code":"atlas-mauna-loa","name":"ATLAS Mauna Loa","observatoryType":"Optical","status":"Operational","country":"United States"}}]}

@@ -1,0 +1,14 @@
+{
+  "code": "la-tomatina",
+  "name": "La Tomatina",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Last Wednesday of August",
+  "origin": "Spanish tradition",
+  "estimatedAttendance": "20,000 participants",
+  "unescoICH": "Not inscribed",
+  "traditions": "Massive tomato fight in town streets; ham on a greased pole contest; water cannons to start the fight; parade of trucks with tomatoes.",
+  "historicalBackground": "La Tomatina began spontaneously in 1945 when young people started a food fight during a parade in Buñol. Banned and revived, it became official in 1957.",
+  "description": "The world's largest food fight, where thousands hurl over 100 tons of ripe tomatoes at each other in the streets of Buñol, Spain.",
+  "location": "Buñol, Spain",
+  "geojson": "la-tomatina.geojson"
+}

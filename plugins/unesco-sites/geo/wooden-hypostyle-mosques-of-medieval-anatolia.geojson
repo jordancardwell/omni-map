@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.529575,
+          38.7550361111
+        ]
+      },
+      "properties": {
+        "code": "wooden-hypostyle-mosques-of-medieval-anatolia",
+        "name": "Wooden Hypostyle Mosques of Medieval Anatolia",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

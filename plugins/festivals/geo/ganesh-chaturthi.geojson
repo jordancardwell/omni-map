@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.076
+        ]
+      },
+      "properties": {
+        "code": "ganesh-chaturthi",
+        "name": "Ganesh Chaturthi",
+        "festivalType": "Religious",
+        "dateOrSeason": "August–September",
+        "location": "Mumbai, India"
+      }
+    }
+  ]
+}

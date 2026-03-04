@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2513611111,
+          43.5170833333
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-trogir",
+        "name": "Historic City of Trogir",
+        "type": "Cultural",
+        "country": "Croatia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

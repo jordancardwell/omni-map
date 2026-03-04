@@ -1,0 +1,15 @@
+{
+  "code": "rainforests-of-the-atsinanana",
+  "name": "Rainforests of the Atsinanana",
+  "type": "Natural",
+  "country": "Madagascar",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The Rainforests of the Atsinanana comprise six national parks distributed along the eastern part of the island. These relict forests are critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar’s unique biodiversity, which reflects the island’s geological history. Having completed its separation from all other land masses more than 60 million years ago, Madagascar’s plant and animal life evolved in isolation. The rainforests are inscribed for their importance to both ecological and biological processes as well as their biodiversity and the threatened species they support. Many species are rare and threatened especially primates and lemurs.",
+  "danger": false,
+  "geojson": "rainforests-of-the-atsinanana.geojson"
+}

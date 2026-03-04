@@ -1,0 +1,21 @@
+{
+  "code": "keck",
+  "name": "W. M. Keck Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4145,
+  "aperture": "2 × 10 m",
+  "telescopes": [
+    "Keck I",
+    "Keck II"
+  ],
+  "keyDiscoveries": [
+    "Direct imaging of exoplanets",
+    "Expansion rate of universe",
+    "Atmospheres of exoplanets"
+  ],
+  "location": "W. M. Keck Observatory, United States",
+  "description": "Twin 10-meter segmented-mirror telescopes atop Mauna Kea, among the world's largest optical/infrared telescopes. Pioneered adaptive optics and interferometric techniques.",
+  "geojson": "keck.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[130.6567,31.5856]},"properties":{"code":"sakurajima","name":"Sakurajima","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":1117,"lastEruption":"2023","vei":3}}]}

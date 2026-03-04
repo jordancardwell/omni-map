@@ -1,0 +1,19 @@
+{
+  "code": "southern-cross-cable-sx-next",
+  "name": "Southern Cross Cable (SX-NEXT)",
+  "capacityTbps": 72,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 28000,
+  "yearLaid": 2021,
+  "rfsDate": "2022-07",
+  "owner": "Southern Cross Cables",
+  "landingPoints": [
+    "Auckland, New Zealand",
+    "Sydney, Australia",
+    "Suva, Fiji",
+    "Honolulu, USA",
+    "Los Angeles, USA"
+  ],
+  "description": "Next generation of the Southern Cross system.",
+  "geojson": "southern-cross-cable-sx-next.geojson"
+}

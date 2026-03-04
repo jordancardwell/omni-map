@@ -1,0 +1,15 @@
+{
+  "code": "sutherland-scotland",
+  "name": "Space Hub Sutherland",
+  "country": "United Kingdom",
+  "operator": "Orbex / HIE",
+  "coordinates": "58.5167°N, 4.2667°W",
+  "status": "Planned",
+  "notableLaunches": [
+    "Orbex Prime (planned first launch)"
+  ],
+  "orbitalInclinationRange": "88°–98° (polar/SSO)",
+  "location": "Space Hub Sutherland, United Kingdom",
+  "description": "Planned vertical launch site in the Scottish Highlands. Being developed by Orbex for its Prime rocket, targeting polar and SSO small satellite launches.",
+  "geojson": "sutherland-scotland.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "las-mia",
+  "name": "Las Vegas — Miami",
+  "airports": [
+    "LAS",
+    "MIA"
+  ],
+  "distanceKm": 3495,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Spirit"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAS–MIA route between Las Vegas and Miami. Distance: 3,495 km. ~30 weekly flights operated by Spirit.",
+  "geojson": "las-mia.geojson"
+}

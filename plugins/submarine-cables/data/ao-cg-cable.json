@@ -1,0 +1,16 @@
+{
+  "code": "ao-cg-cable",
+  "name": "AO-CG Cable",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2266,
+  "yearLaid": 2016,
+  "rfsDate": "2016-06",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Luanda, Angola",
+    "Pointe-Noire, Congo"
+  ],
+  "description": "AO-CG Cable connecting Luanda to Pointe-Noire along the African coast.",
+  "geojson": "ao-cg-cable.geojson"
+}

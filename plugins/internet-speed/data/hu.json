@@ -1,0 +1,17 @@
+{
+  "code": "hu",
+  "name": "Hungary",
+  "avgDownloadMbps": 191.2,
+  "avgUploadMbps": 102.3,
+  "avgLatencyMs": 11,
+  "mobileDownloadMbps": 53.8,
+  "mobileUploadMbps": 11.4,
+  "fixedDownloadMbps": 191.2,
+  "fixedUploadMbps": 102.3,
+  "rank": 15,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Rapid fiber rollout in urban areas. ~16% year-over-year growth.",
+  "geojson": "hu.geojson"
+}

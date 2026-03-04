@@ -1,0 +1,13 @@
+{
+  "code": "temperate-broadleaf-forests",
+  "name": "Temperate Broadleaf & Mixed Forests",
+  "biomeType": "Forest",
+  "areaKm2": 13000000,
+  "keyCharacteristics": "Deciduous forests with four distinct seasons. Rich autumn foliage and well-defined canopy layers. Moderate rainfall distributed throughout the year.",
+  "typicalFlora": ["Oak", "Maple", "Beech", "Birch", "Hickory", "Elm", "Chestnut"],
+  "typicalFauna": ["White-tailed deer", "Red fox", "Black bear", "Gray squirrel", "Woodpecker", "Salamander"],
+  "threatLevel": "Moderate",
+  "conservationStatus": "Heavily modified by centuries of agriculture and urbanization in Europe and eastern North America. Some recovery through reforestation, but old-growth stands are rare.",
+  "description": "Temperate broadleaf and mixed forests are characterized by deciduous trees that shed their leaves annually, producing the spectacular autumn colors that define these regions. They experience four distinct seasons with moderate, well-distributed rainfall.\n\nThese forests are found across eastern North America, western and central Europe, East Asia, and parts of South America and Australasia. The deep, fertile soils support rich understory vegetation and diverse fungal communities.\n\nHistorically, these forests covered vast areas but have been extensively cleared for agriculture. In many regions, secondary forests have regrown, though they differ significantly from old-growth stands.",
+  "geojson": "temperate-broadleaf-forests.geojson"
+}

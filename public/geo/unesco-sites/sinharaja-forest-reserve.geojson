@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5,
+          6.416666667
+        ]
+      },
+      "properties": {
+        "code": "sinharaja-forest-reserve",
+        "name": "Sinharaja Forest Reserve",
+        "type": "Natural",
+        "country": "Sri Lanka",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

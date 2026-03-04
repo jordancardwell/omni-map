@@ -1,0 +1,16 @@
+{
+  "code": "scr",
+  "name": "Seychellois Rupee",
+  "isoCode": "SCR",
+  "symbol": "SRe",
+  "region": "Africa",
+  "centralBank": "Central Bank of Seychelles",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Seychelles"
+  ],
+  "countryCount": 1,
+  "description": "The Seychellois Rupee is the currency of the Seychelles, an archipelago of 115 islands in the Indian Ocean.",
+  "historicalNotes": "The Seychelles used the Mauritian rupee until 1914 when it introduced its own. The country floated its currency in 2008.",
+  "geojson": "scr.geojson"
+}

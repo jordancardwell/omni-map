@@ -1,0 +1,16 @@
+{
+  "code": "my-sg-borneo",
+  "name": "MY-SG Borneo",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 897,
+  "yearLaid": 2016,
+  "rfsDate": "2013-06",
+  "owner": "TM",
+  "landingPoints": [
+    "Kuching, Malaysia",
+    "Singapore"
+  ],
+  "description": "MY-SG Borneo connecting Kuching to Singapore.",
+  "geojson": "my-sg-borneo.geojson"
+}

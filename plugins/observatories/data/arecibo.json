@@ -1,0 +1,21 @@
+{
+  "code": "arecibo",
+  "name": "Arecibo Observatory",
+  "country": "Puerto Rico",
+  "observatoryType": "Radio",
+  "status": "Decommissioned",
+  "elevation": 497,
+  "aperture": "305 m (collapsed 2020)",
+  "telescopes": [
+    "305m Arecibo Telescope (collapsed)",
+    "12m antenna"
+  ],
+  "keyDiscoveries": [
+    "Binary pulsar (Nobel Prize)",
+    "First exoplanets (around pulsar)",
+    "Arecibo Message"
+  ],
+  "location": "Arecibo Observatory, Puerto Rico",
+  "description": "The iconic 305m radio telescope collapsed in December 2020 after cable failures. Its discoveries included the first binary pulsar and first exoplanets around a pulsar.",
+  "geojson": "arecibo.geojson"
+}

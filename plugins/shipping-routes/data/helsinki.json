@@ -1,0 +1,14 @@
+{
+  "code": "helsinki",
+  "name": "Port of Helsinki",
+  "country": "Finland",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Helsinki in Finland. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+  "geojson": "helsinki.geojson"
+}

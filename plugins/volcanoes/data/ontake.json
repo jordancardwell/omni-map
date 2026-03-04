@@ -1,0 +1,21 @@
+{
+  "code": "ontake",
+  "name": "Mount Ontake",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3067,
+  "lastEruption": "2014",
+  "vei": 2,
+  "country": "Japan",
+  "region": "Honshu",
+  "location": "Honshu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Phreatic explosions",
+    "Volcanic bombs",
+    "Ashfall"
+  ],
+  "eruptionHistory": "A sudden phreatic eruption on September 27, 2014 killed 63 hikers — Japan's worst volcanic disaster since 1926.",
+  "description": "Mount Ontake's tragic 2014 eruption occurred without warning while hundreds of hikers were on the summit. It highlighted the unpredictable danger of phreatic eruptions.",
+  "geojson": "ontake.geojson"
+}

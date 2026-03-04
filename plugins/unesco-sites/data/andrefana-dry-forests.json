@@ -1,0 +1,16 @@
+{
+  "code": "andrefana-dry-forests",
+  "name": "Andrefana Dry Forests",
+  "type": "Natural",
+  "country": "Madagascar",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This serial property in western Madagascar comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. Undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds. The component parts of the property cover almost the full range of ecological and evolutionary variation within the western forests of Madagascar, including western dry forests and southwestern spiny forest-thicket. These sites contain a spectacular array of endemic and threatened biodiversity, including baobabs, flame trees (Delonix), as well as unique evolutionary lineages such as the Mesitornithiformes, an order of birds which is 54 million years old.",
+  "danger": false,
+  "geojson": "andrefana-dry-forests.geojson"
+}

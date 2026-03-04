@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8358333333,
+          32.0186111111
+        ]
+      },
+      "properties": {
+        "code": "shushtar-historical-hydraulic-system",
+        "name": "Shushtar Historical Hydraulic System",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "volcanoes-of-kamchatka",
+  "name": "Volcanoes of Kamchatka",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "This is one of the most outstanding volcanic regions in the world, with a high density of active volcanoes, a variety of types, and a wide range of related features. The six sites included in the serial designation group together the majority of volcanic features of the Kamchatka peninsula. The interplay of active volcanoes and glaciers forms a dynamic landscape of great beauty. The sites contain great species diversity, including the world's largest known variety of salmonoid fish and exceptional concentrations of sea otter, brown bear and Stellar's sea eagle.",
+  "danger": false,
+  "geojson": "volcanoes-of-kamchatka.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6147,
+          51.7988
+        ]
+      },
+      "properties": {
+        "code": "walpurgis-night",
+        "name": "Walpurgis Night",
+        "festivalType": "Cultural",
+        "dateOrSeason": "April 30",
+        "location": "Brocken, Germany"
+      }
+    }
+  ]
+}

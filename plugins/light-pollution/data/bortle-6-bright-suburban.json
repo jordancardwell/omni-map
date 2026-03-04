@@ -1,0 +1,27 @@
+{
+  "code": "bortle-6-bright-suburban",
+  "name": "Bright Suburban Sky",
+  "bortleGroup": "3. Suburban (Class 5-6)",
+  "bortleClass": "Class 6 — Bright Suburban Sky",
+  "skyBrightness": "19.50–20.49 mag/arcsec²",
+  "limitingMagnitude": "5.1–5.5",
+  "milkyWayVisibility": "Very faint — only brightest section above Sagittarius/Scorpius may be glimpsed on best nights",
+  "visibleObjects": [
+    "Bright planets",
+    "Brightest stars only",
+    "M45 (Pleiades) barely visible",
+    "Moon shadows obvious"
+  ],
+  "exampleLocations": [
+    "Inner suburbs of major cities",
+    "Medium-sized cities",
+    "Suburban Tokyo fringe",
+    "Suburban London fringe"
+  ],
+  "nearestDarkSkyReserves": [
+    "Northumberland International Dark Sky Park",
+    "Snowdonia Dark Sky Reserve"
+  ],
+  "description": "Typical inner suburban skies where the Milky Way is essentially invisible except for the very brightest section on the clearest nights. The sky glow is obvious in all directions, and the sky background near the zenith has a distinctly grayish or washed-out tone compared to true dark skies. Naked-eye star counts are reduced to a few hundred. Most deep-sky observing requires binoculars or telescopes. This is a very common environment for residents of large metropolitan areas worldwide.",
+  "geojson": "bortle-6-bright-suburban.geojson"
+}

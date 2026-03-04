@@ -1,0 +1,16 @@
+{
+  "code": "kwd",
+  "name": "Kuwaiti Dinar",
+  "isoCode": "KWD",
+  "symbol": "د.ك",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Kuwait",
+  "exchangeRateEra": "Pegged to currency basket",
+  "countries": [
+    "Kuwait"
+  ],
+  "countryCount": 1,
+  "description": "The Kuwaiti Dinar is the world's highest-valued currency unit. Kuwait holds approximately 7% of the world's proven oil reserves.",
+  "historicalNotes": "Introduced in 1961, replacing the Gulf rupee. During the 1990 Iraqi invasion, the dinar was briefly replaced by the Iraqi dinar but restored after liberation.",
+  "geojson": "kwd.geojson"
+}

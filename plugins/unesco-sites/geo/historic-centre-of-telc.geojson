@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4539722222,
+          49.1841388889
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-telc",
+        "name": "Historic Centre of Telč",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

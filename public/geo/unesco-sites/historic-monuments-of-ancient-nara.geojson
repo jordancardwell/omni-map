@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8394444,
+          34.67555556
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-of-ancient-nara",
+        "name": "Historic Monuments of Ancient Nara",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

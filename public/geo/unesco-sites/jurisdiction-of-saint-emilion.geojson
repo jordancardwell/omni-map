@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1552777778,
+          44.89472222
+        ]
+      },
+      "properties": {
+        "code": "jurisdiction-of-saint-emilion",
+        "name": "Jurisdiction of Saint-Emilion",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "gi-pt-cable",
+  "name": "GI-PT Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 416,
+  "yearLaid": 2022,
+  "rfsDate": "2022-06",
+  "owner": "Colt",
+  "landingPoints": [
+    "Gibraltar",
+    "Lisbon, Portugal"
+  ],
+  "description": "GI-PT Cable connecting Gibraltar to Lisbon along the West African coast.",
+  "geojson": "gi-pt-cable.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6783,
+          39.3901
+        ]
+      },
+      "properties": {
+        "code": "la-tomatina",
+        "name": "La Tomatina",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Last Wednesday of August",
+        "location": "Buñol, Spain"
+      }
+    }
+  ]
+}

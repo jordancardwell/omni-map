@@ -1,0 +1,15 @@
+{
+  "code": "manovo-gounda-st-floris-national-park",
+  "name": "Manovo-Gounda St Floris National Park",
+  "type": "Natural",
+  "country": "Central African Republic",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains.",
+  "danger": true,
+  "geojson": "manovo-gounda-st-floris-national-park.geojson"
+}

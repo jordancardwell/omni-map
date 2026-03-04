@@ -1,0 +1,27 @@
+{
+  "code": "central-asian-steppe",
+  "name": "Central Asian Steppe",
+  "region": "Central Asia",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — continental semi-arid grassland",
+  "area": "2,500,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 25000000,
+  "affectedCountries": [
+    "Kazakhstan",
+    "Uzbekistan",
+    "Kyrgyzstan",
+    "Tajikistan"
+  ],
+  "desertificationDrivers": [
+    "Soviet-era irrigation damage",
+    "Salinization",
+    "Overgrazing",
+    "Wind erosion",
+    "Climate warming"
+  ],
+  "desertFrontier": "Desert margins advancing northward into Kazakhstan steppe",
+  "description": "The Central Asian steppe, once the world's largest continuous grassland, faces widespread degradation from Soviet-era agricultural policies. The Virgin Lands Campaign plowed millions of hectares of grassland, leading to massive dust storms. The Aral Sea disaster continues to spread salt and toxic chemicals across the region. An estimated 60% of pastureland is degraded.",
+  "geojson": "central-asian-steppe.geojson"
+}

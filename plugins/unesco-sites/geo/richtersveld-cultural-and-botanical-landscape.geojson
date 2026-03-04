@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2038888888,
+          -28.6
+        ]
+      },
+      "properties": {
+        "code": "richtersveld-cultural-and-botanical-landscape",
+        "name": "Richtersveld Cultural and Botanical Landscape",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

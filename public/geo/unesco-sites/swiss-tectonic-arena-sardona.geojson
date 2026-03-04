@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25,
+          46.9166666667
+        ]
+      },
+      "properties": {
+        "code": "swiss-tectonic-arena-sardona",
+        "name": "Swiss Tectonic Arena Sardona",
+        "type": "Natural",
+        "country": "Switzerland",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

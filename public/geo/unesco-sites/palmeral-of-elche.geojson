@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.716666667,
+          38.26666667
+        ]
+      },
+      "properties": {
+        "code": "palmeral-of-elche",
+        "name": "Palmeral of Elche",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

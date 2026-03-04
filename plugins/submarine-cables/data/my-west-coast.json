@@ -1,0 +1,16 @@
+{
+  "code": "my-west-coast",
+  "name": "MY West Coast",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2337,
+  "yearLaid": 2013,
+  "rfsDate": "2019-06",
+  "owner": "TM",
+  "landingPoints": [
+    "Penang, Malaysia",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "MY West Coast connecting Penang to Kuala Lumpur.",
+  "geojson": "my-west-coast.geojson"
+}

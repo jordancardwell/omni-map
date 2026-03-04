@@ -1,0 +1,20 @@
+{
+  "code": "veritas",
+  "name": "VERITAS",
+  "country": "United States",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 1268,
+  "aperture": "4 × 12 m mirrors",
+  "telescopes": [
+    "VERITAS"
+  ],
+  "keyDiscoveries": [
+    "Starburst galaxy gamma rays",
+    "Blazar flares at TeV",
+    "Dark matter searches"
+  ],
+  "location": "VERITAS, United States",
+  "description": "Four 12m imaging atmospheric Cherenkov telescopes at Fred Lawrence Whipple Observatory. Key facility for very-high-energy gamma-ray astronomy.",
+  "geojson": "veritas.geojson"
+}

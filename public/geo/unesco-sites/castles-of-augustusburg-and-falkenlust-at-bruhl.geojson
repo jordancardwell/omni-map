@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.909777778,
+          50.82502778
+        ]
+      },
+      "properties": {
+        "code": "castles-of-augustusburg-and-falkenlust-at-bruhl",
+        "name": "Castles of Augustusburg and Falkenlust at Brühl",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

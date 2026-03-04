@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6852777778,
+          32.6697222222
+        ]
+      },
+      "properties": {
+        "code": "masjed-e-jame-of-isfahan",
+        "name": "Masjed-e Jāmé of Isfahan",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

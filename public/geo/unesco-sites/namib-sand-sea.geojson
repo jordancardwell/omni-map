@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4077777778,
+          -24.8852777778
+        ]
+      },
+      "properties": {
+        "code": "namib-sand-sea",
+        "name": "Namib Sand Sea",
+        "type": "Natural",
+        "country": "Namibia",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

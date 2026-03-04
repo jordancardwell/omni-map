@@ -1,0 +1,36 @@
+{
+  "id": "unesco-sites",
+  "name": "UNESCO World Heritage Sites",
+  "description": "UNESCO World Heritage Sites — culturally and naturally significant places recognized for their outstanding universal value.",
+  "type": "points",
+  "version": "1.0.0",
+  "icon": "landmark",
+  "defaultColor": "#3B82F6",
+  "categories": ["culture", "heritage", "geography"],
+  "dataType": "points",
+  "dataSource": "static",
+  "category": "Culture & Heritage",
+  "thumbnail": "#3B82F6",
+  "schema": "UnescoSiteMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "country", "type", "yearInscribed", "criteria", "description"],
+    "groupBy": "type",
+    "titleField": "name",
+    "subtitleField": "country",
+    "badgeField": "yearInscribed",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "country"
+  },
+  "detailFields": [
+    { "key": "type", "label": "Type", "type": "status-badge", "statusColors": { "Cultural": "#3B82F6", "Natural": "#22C55E", "Mixed": "#A855F7" } },
+    { "key": "country", "label": "Country", "type": "text" },
+    { "key": "yearInscribed", "label": "Year Inscribed", "type": "text" },
+    { "key": "criteria", "label": "Criteria", "type": "tags" },
+    { "key": "region", "label": "UNESCO Region", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

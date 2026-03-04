@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1861111111,
+          43.8993055556
+        ]
+      },
+      "properties": {
+        "code": "gamzigrad-romuliana-palace-of-galerius",
+        "name": "Gamzigrad-Romuliana, Palace of Galerius",
+        "type": "Cultural",
+        "country": "Serbia",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

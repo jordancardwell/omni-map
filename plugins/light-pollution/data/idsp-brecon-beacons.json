@@ -1,0 +1,24 @@
+{
+  "code": "idsp-brecon-beacons",
+  "name": "Brecon Beacons Dark Sky Reserve",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Reserve",
+  "designationYear": "2013",
+  "areaSqKm": 1347,
+  "visibleObjects": [
+    "Milky Way",
+    "Andromeda Galaxy",
+    "Bright nebulae",
+    "Star clusters"
+  ],
+  "exampleLocations": [
+    "Brecon Beacons National Park, Wales"
+  ],
+  "nearestDarkSkyReserves": [
+    "Brecon Beacons (this site)",
+    "Snowdonia Dark Sky Reserve"
+  ],
+  "description": "Wales's Brecon Beacons National Park became the first International Dark Sky Reserve in Wales and one of only a handful worldwide. Despite being relatively close to Cardiff and Swansea, the park's mountainous terrain and active light-management programs maintain dark conditions in the core zones. The reserve has become a model for balancing dark sky preservation with proximity to urban populations, demonstrating that meaningful dark sky access can be preserved even in densely populated regions.",
+  "geojson": "idsp-brecon-beacons.geojson"
+}

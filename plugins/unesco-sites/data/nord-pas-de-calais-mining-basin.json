@@ -1,0 +1,15 @@
+{
+  "code": "nord-pas-de-calais-mining-basin",
+  "name": "Nord-Pas de Calais Mining Basin",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Remarkable as a landscape shaped over three centuries of coal extraction from the 1700s to the 1900s, the site consists of 109 separate components over 120,000 ha. It features mining pits (the oldest of which dates from 1850) and lift infrastructure, slag heaps (some of which cover 90 ha and exceed 140 m in height), coal transport infrastructure, railway stations, workers’ estates and mining villages including social habitat, schools, religious buildings, health and community facilities, company premises, owners and managers’ houses, town halls and more. The site bears testimony to the quest to create model workers’ cities from the mid 19th century to the 1960s and further illustrates a significant period in the history of industrial Europe. It documents the living conditions of workers and the solidarity to which it gave rise.",
+  "danger": false,
+  "geojson": "nord-pas-de-calais-mining-basin.geojson"
+}

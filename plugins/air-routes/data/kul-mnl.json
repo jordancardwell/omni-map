@@ -1,0 +1,19 @@
+{
+  "code": "kul-mnl",
+  "name": "Kuala Lumpur — Manila",
+  "airports": [
+    "KUL",
+    "MNL"
+  ],
+  "distanceKm": 2490,
+  "weeklyFlights": 150,
+  "airlines": [
+    "AirAsia",
+    "Philippine Airlines",
+    "Cebu Pacific"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "KUL–MNL route between Kuala Lumpur and Manila. Distance: 2,490 km. ~150 weekly flights operated by AirAsia, Philippine Airlines, Cebu Pacific.",
+  "geojson": "kul-mnl.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.16666667,
+          0.916666667
+        ]
+      },
+      "properties": {
+        "code": "virunga-national-park",
+        "name": "Virunga National Park",
+        "type": "Natural",
+        "country": "Democratic Republic of the Congo",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

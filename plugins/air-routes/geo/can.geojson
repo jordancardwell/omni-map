@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"can","name":"Guangzhou Baiyun International","featureType":"airport","iataCode":"CAN","annualPassengers":59500000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[113.308,23.3959]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.9086,39.2978]},"properties":{"code":"telescope-array","name":"Telescope Array","observatoryType":"Multi-messenger","status":"Operational","country":"United States"}}]}

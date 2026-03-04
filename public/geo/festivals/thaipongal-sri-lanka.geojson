@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0255,
+          9.6615
+        ]
+      },
+      "properties": {
+        "code": "thaipongal-sri-lanka",
+        "name": "Thai Pongal (Sri Lanka)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January 14–15",
+        "location": "Jaffna, Sri Lanka"
+      }
+    }
+  ]
+}

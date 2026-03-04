@@ -1,0 +1,19 @@
+{
+  "code": "titicaca-water-frog",
+  "name": "Titicaca Water Frog",
+  "scientificName": "Telmatobius culeus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "High-altitude freshwater lake",
+  "threats": [
+    "Water pollution",
+    "Over-harvesting for food",
+    "Introduced trout",
+    "Chytrid fungus"
+  ],
+  "conservationEfforts": "Bolivia and Peru coordinate conservation. Harvesting bans enacted. Denver Zoo and other institutions maintain captive populations. Water quality improvement programs at Lake Titicaca.",
+  "description": "Known as the 'scrotum frog' due to its excessive folds of baggy skin, which increase surface area for underwater gas exchange. It lives exclusively in Lake Titicaca at 3,810 meters elevation and almost never surfaces to breathe.",
+  "geojson": "titicaca-water-frog.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1833333333,
+          48.9
+        ]
+      },
+      "properties": {
+        "code": "ancient-and-primeval-beech-forests-of-the-carpathians-and-other-regions-of-europ",
+        "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "type": "Natural",
+        "country": "North Macedonia, Spain, Italy, France, Poland, Albania, Austria, Belgium, Croatia, Romania, Ukraine, Bulgaria, Slovenia, Slovakia, Switzerland, Bosnia and Herzegovina, Germany, Czechia",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "havhingsten",
+  "name": "HAVHINGSTEN",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 580,
+  "yearLaid": 2020,
+  "rfsDate": "2020-06",
+  "owner": "Bulk Infrastructure",
+  "landingPoints": [
+    "Blaabjerg, Denmark",
+    "Kristiansand, Norway"
+  ],
+  "description": "Denmark-Norway submarine cable.",
+  "geojson": "havhingsten.geojson"
+}

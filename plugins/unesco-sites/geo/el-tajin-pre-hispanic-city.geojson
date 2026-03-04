@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.377642,
+          20.446095
+        ]
+      },
+      "properties": {
+        "code": "el-tajin-pre-hispanic-city",
+        "name": "El Tajin, Pre-Hispanic City",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

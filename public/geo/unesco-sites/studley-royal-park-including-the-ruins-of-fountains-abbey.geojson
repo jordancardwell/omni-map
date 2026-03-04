@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.573055556,
+          54.11611111
+        ]
+      },
+      "properties": {
+        "code": "studley-royal-park-including-the-ruins-of-fountains-abbey",
+        "name": "Studley Royal Park including the Ruins of Fountains Abbey",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

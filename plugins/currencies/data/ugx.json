@@ -1,0 +1,16 @@
+{
+  "code": "ugx",
+  "name": "Ugandan Shilling",
+  "isoCode": "UGX",
+  "symbol": "USh",
+  "region": "Africa",
+  "centralBank": "Bank of Uganda",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Uganda"
+  ],
+  "countryCount": 1,
+  "description": "The Ugandan Shilling is the currency of Uganda, known as the 'Pearl of Africa' for its diverse landscapes and wildlife.",
+  "historicalNotes": "The current shilling was introduced in 1987, replacing the old shilling at 100:1.",
+  "geojson": "ugx.geojson"
+}

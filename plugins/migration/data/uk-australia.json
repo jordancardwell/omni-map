@@ -1,0 +1,18 @@
+{
+  "code": "uk-australia",
+  "name": "United Kingdom \u2192 Australia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "United Kingdom \u2192 Australia",
+  "badgeValue": "~1.2 million",
+  "origin": "United Kingdom",
+  "destination": "Australia",
+  "estimatedMigrants": "~1.2 million",
+  "drivers": [
+    "Colonial ties",
+    "Language",
+    "Quality of life",
+    "Skilled migration program"
+  ],
+  "description": "British migration to Australia is one of the oldest and largest Anglosphere migration corridors. The post-war Assisted Passage Migration Scheme ('Ten Pound Poms') brought over a million Britons. Modern migration is driven by Australia's skilled migration program, quality of life, and climate. English-born Australians remain the largest foreign-born group. The corridor is bidirectional, with significant numbers of Australians living in the UK.",
+  "geojson": "uk-australia.geojson"
+}

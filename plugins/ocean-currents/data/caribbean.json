@@ -1,0 +1,21 @@
+{
+  "code": "caribbean",
+  "name": "Caribbean Current",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.7 m/s",
+  "origin": "South Atlantic (via North Equatorial Current)",
+  "destination": "Gulf of Mexico (via Yucatan Channel)",
+  "climateEffects": [
+    "Transports warm water into the Caribbean",
+    "Influences hurricane intensity",
+    "Feeds Gulf Stream system"
+  ],
+  "connectedEcosystems": [
+    "Caribbean coral reefs",
+    "Mesoamerican Barrier Reef",
+    "Lesser Antilles marine habitats"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Caribbean Current flows westward through the Caribbean Sea, carrying warm Atlantic water toward the Yucatan Channel and ultimately feeding the Loop Current and Gulf Stream.",
+  "geojson": "caribbean.geojson"
+}

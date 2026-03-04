@@ -1,0 +1,19 @@
+{
+  "code": "mia-lhr",
+  "name": "Miami — London",
+  "airports": [
+    "MIA",
+    "LHR"
+  ],
+  "distanceKm": 7109,
+  "weeklyFlights": 50,
+  "airlines": [
+    "British Airways",
+    "American",
+    "Virgin Atlantic"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MIA–LHR route between Miami and London. Distance: 7,109 km. ~50 weekly flights operated by British Airways, American, Virgin Atlantic.",
+  "geojson": "mia-lhr.geojson"
+}

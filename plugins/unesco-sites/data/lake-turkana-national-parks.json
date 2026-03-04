@@ -1,0 +1,15 @@
+{
+  "code": "lake-turkana-national-parks",
+  "name": "Lake Turkana National Parks",
+  "type": "Natural",
+  "country": "Kenya",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(viii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The most saline of Africa's large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent.",
+  "danger": true,
+  "geojson": "lake-turkana-national-parks.geojson"
+}

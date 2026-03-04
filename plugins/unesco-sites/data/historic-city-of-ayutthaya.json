@@ -1,0 +1,14 @@
+{
+  "code": "historic-city-of-ayutthaya",
+  "name": "Historic City of Ayutthaya",
+  "type": "Cultural",
+  "country": "Thailand",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Founded c. 1350, Ayutthaya became the second Siamese capital after Sukhothai. It was destroyed by the Burmese in the 18th century. Its remains, characterized by the prang (reliquary towers) and gigantic monasteries, give an idea of its past splendour.",
+  "danger": false,
+  "geojson": "historic-city-of-ayutthaya.geojson"
+}

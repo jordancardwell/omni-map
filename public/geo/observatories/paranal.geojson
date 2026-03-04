@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.4044,-24.6275]},"properties":{"code":"paranal","name":"Paranal Observatory","observatoryType":"Optical","status":"Operational","country":"Chile"}}]}

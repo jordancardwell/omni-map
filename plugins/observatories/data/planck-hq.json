@@ -1,0 +1,20 @@
+{
+  "code": "planck-hq",
+  "name": "Planck Science Office",
+  "country": "France",
+  "observatoryType": "Space-based",
+  "status": "Decommissioned",
+  "elevation": 162,
+  "aperture": "Planck: 1.9 m × 1.5 m",
+  "telescopes": [
+    "Planck (retired 2013)"
+  ],
+  "keyDiscoveries": [
+    "Precision CMB map",
+    "Age/composition of universe",
+    "Primordial fluctuation spectrum"
+  ],
+  "location": "Planck Science Office, France",
+  "description": "The Planck satellite (2009-2013) produced the most detailed all-sky map of the cosmic microwave background, precisely measuring the age, composition, and geometry of the universe.",
+  "geojson": "planck-hq.geojson"
+}

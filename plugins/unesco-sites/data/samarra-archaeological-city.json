@@ -1,0 +1,16 @@
+{
+  "code": "samarra-archaeological-city",
+  "name": "Samarra Archaeological City",
+  "type": "Cultural",
+  "country": "Iraq",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Samarra Archaeological City is the site of a powerful Islamic capital city that ruled over the provinces of the Abbasid Empire extending from Tunisia to Central Asia for a century. Located on both sides of the River Tigris 130 km north of Baghdad, the length of the site from north to south is 41.5 km; its width varying from 8 km to 4 km. It testifies to the architectural and artistic innovations that developed there and spread to the other regions of the Islamic world and beyond. The 9th-century Great Mosque and its spiral minaret are among the numerous remarkable architectural monuments of the site, 80% of which remain to be excavated.",
+  "danger": true,
+  "geojson": "samarra-archaeological-city.geojson"
+}

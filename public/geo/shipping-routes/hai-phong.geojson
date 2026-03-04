@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hai-phong","name":"Port of Hai Phong","featureType":"port","portType":"Container Port","country":"Vietnam"},"geometry":{"type":"Point","coordinates":[106.68,20.86]}}]}

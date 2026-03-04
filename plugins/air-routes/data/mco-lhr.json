@@ -1,0 +1,18 @@
+{
+  "code": "mco-lhr",
+  "name": "Orlando — London",
+  "airports": [
+    "MCO",
+    "LHR"
+  ],
+  "distanceKm": 6966,
+  "weeklyFlights": 35,
+  "airlines": [
+    "British Airways",
+    "Virgin Atlantic"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MCO–LHR route between Orlando and London. Distance: 6,966 km. ~35 weekly flights operated by British Airways, Virgin Atlantic.",
+  "geojson": "mco-lhr.geojson"
+}

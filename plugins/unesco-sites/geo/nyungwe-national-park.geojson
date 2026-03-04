@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2473333333,
+          -2.5553
+        ]
+      },
+      "properties": {
+        "code": "nyungwe-national-park",
+        "name": "Nyungwe National Park",
+        "type": "Natural",
+        "country": "Rwanda",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

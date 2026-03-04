@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.55,
+          51.5847222222
+        ]
+      },
+      "properties": {
+        "code": "lanse-aux-meadows-national-historic-site",
+        "name": "L’Anse aux Meadows National Historic Site",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

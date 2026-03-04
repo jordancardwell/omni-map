@@ -1,0 +1,29 @@
+{
+  "code": "utc+9",
+  "name": "Japan Standard Time",
+  "nativeName": "UTC+09:00",
+  "utcOffset": "UTC+09:00",
+  "utcOffsetHours": 9,
+  "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+  "ianaNames": [
+    "Asia/Tokyo",
+    "Asia/Seoul",
+    "Asia/Yakutsk",
+    "Pacific/Palau"
+  ],
+  "countries": [
+    "Japan",
+    "South Korea",
+    "North Korea",
+    "Palau",
+    "East Timor",
+    "Russia (Yakutsk)",
+    "Indonesia (eastern)"
+  ],
+  "dstRules": "No DST observed in Japan or South Korea; Japan abolished DST after WWII occupation ended",
+  "description": "Covers the economic powerhouses of Japan and South Korea. Tokyo is the world's most populous metropolitan area. Japan experimented with DST during the US occupation (1948–1951) but abandoned it due to public opposition.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+9.geojson"
+}

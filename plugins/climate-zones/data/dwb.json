@@ -1,0 +1,16 @@
+{
+  "code": "dwb",
+  "name": "Warm-Summer Continental (Dry Winter)",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month <22°C; coldest month <0°C",
+  "precipitationPattern": "Dry winters, moderate summer rainfall",
+  "vegetation": "Mixed boreal and deciduous forest, birch and larch stands",
+  "exampleCities": [
+    "Vladivostok",
+    "Chita (Russia)",
+    "Hailar (China)"
+  ],
+  "description": "Warm-summer continental climate with dry winters (Dwb) is found in eastern Siberia and Manchuria where the Siberian High creates very dry, cold winters while summer monsoon influence brings warmer, wetter conditions. The continental temperature range is extreme.",
+  "typicalWeather": "Warm but brief summers (15-22°C) with moderate rainfall. Extremely cold, dry winters (-15 to -30°C) with persistent snow cover. The transition seasons are short. Annual precipitation 400-700mm, mainly in summer.",
+  "geojson": "dwb.geojson"
+}

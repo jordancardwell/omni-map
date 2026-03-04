@@ -1,0 +1,18 @@
+{
+  "code": "sea-las",
+  "name": "Seattle — Las Vegas",
+  "airports": [
+    "SEA",
+    "LAS"
+  ],
+  "distanceKm": 1395,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Alaska",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SEA–LAS route between Seattle and Las Vegas. Distance: 1,395 km. ~50 weekly flights operated by Alaska, Southwest.",
+  "geojson": "sea-las.geojson"
+}

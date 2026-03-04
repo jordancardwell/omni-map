@@ -1,0 +1,20 @@
+{
+  "code": "ph",
+  "name": "Philippines",
+  "voltage": "220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "C"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type C — Two round pins (Europlug, most common worldwide)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "US-shaped outlets at 220V. Verify device voltage before plugging in!",
+  "geojson": "ph.geojson"
+}

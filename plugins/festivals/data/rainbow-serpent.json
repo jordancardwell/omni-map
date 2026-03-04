@@ -1,0 +1,14 @@
+{
+  "code": "rainbow-serpent",
+  "name": "Rainbow Serpent Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "January",
+  "origin": "Australian alternative culture",
+  "estimatedAttendance": "20,000+ attendees",
+  "unescoICH": "Not inscribed",
+  "traditions": "Electronic music across multiple stages; art installations; body painting; yoga and healing; sustainability workshops; market village.",
+  "historicalBackground": "Rainbow Serpent began in 1997 in regional Victoria, inspired by Australian Aboriginal dreamtime stories and global psychedelic trance culture.",
+  "description": "Australia's premier outdoor electronic music and arts festival, blending psychedelic culture with Aboriginal-inspired art in the Victorian bush.",
+  "location": "Lexton, Australia",
+  "geojson": "rainbow-serpent.geojson"
+}

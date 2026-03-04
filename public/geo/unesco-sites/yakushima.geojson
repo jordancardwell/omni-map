@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5086111111,
+          30.315
+        ]
+      },
+      "properties": {
+        "code": "yakushima",
+        "name": "Yakushima",
+        "type": "Natural",
+        "country": "Japan",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10389,
+          35.68167
+        ]
+      },
+      "properties": {
+        "code": "kairouan",
+        "name": "Kairouan",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

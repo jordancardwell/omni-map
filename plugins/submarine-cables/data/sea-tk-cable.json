@@ -1,0 +1,16 @@
+{
+  "code": "sea-tk-cable",
+  "name": "SEA-TK Cable",
+  "capacityTbps": 17,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 7165,
+  "yearLaid": 2010,
+  "rfsDate": "2022-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Seattle, USA",
+    "Tokyo, Japan"
+  ],
+  "description": "SEA-TK Cable connecting Seattle to Tokyo.",
+  "geojson": "sea-tk-cable.geojson"
+}

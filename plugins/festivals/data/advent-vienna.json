@@ -1,0 +1,14 @@
+{
+  "code": "advent-vienna",
+  "name": "Advent Markets (Vienna)",
+  "festivalType": "Religious",
+  "dateOrSeason": "Late November–December 24",
+  "origin": "Austrian Catholic tradition",
+  "estimatedAttendance": "3+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Christmas markets (Christkindlmärkte); mulled wine (Glühwein); handmade ornaments; Advent wreath lighting; carol concerts.",
+  "historicalBackground": "Vienna's Christmas markets date to the Middle Ages, with the first recorded market in 1298. The Rathausplatz market is among Europe's most visited.",
+  "description": "Vienna's enchanting Advent season, when the city sparkles with historic Christmas markets, Glühwein, and the magic of the holiday season.",
+  "location": "Vienna, Austria",
+  "geojson": "advent-vienna.geojson"
+}

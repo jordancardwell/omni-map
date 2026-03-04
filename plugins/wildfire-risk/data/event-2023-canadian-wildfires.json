@@ -1,0 +1,12 @@
+{
+  "code": "event-2023-canadian-wildfires",
+  "name": "2023 Canadian Wildfires",
+  "region": "Alberta & British Columbia, Canada",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2023",
+  "areaBurned": 18500000,
+  "cause": "Record drought, early season heat, lightning ignitions",
+  "description": "The 2023 Canadian wildfire season shattered all records, burning over 18.5 million hectares — more than double the previous record. Fires burned simultaneously from coast to coast, with every province and territory affected. Smoke from these fires turned skies orange across the northeastern United States and caused the worst air quality ever recorded in New York City. Over 200,000 people were evacuated. The unprecedented season was attributed to record-breaking spring temperatures, low snowpack, and severe drought.",
+  "geojson": "event-2023-canadian-wildfires.geojson"
+}

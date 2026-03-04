@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.333333333,
+          -24.3666666667
+        ]
+      },
+      "properties": {
+        "code": "henderson-island",
+        "name": "Henderson Island",
+        "type": "Natural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "putorana-plateau",
+  "name": "Putorana Plateau",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "This site coincides with the area of the Putoransky State Nature Reserve, and is located in the central part of the Putorana Plateau in northern Central Siberia. It is situated about 100 km north of the Arctic Circle. The part of the plateau inscribed on the World Heritage List harbours a complete set of subarctic and arctic ecosystems in an isolated mountain range, including pristine taiga, forest tundra, tundra and arctic desert systems, as well as untouched cold-water lake and river systems. A major reindeer migration route crosses the property, which represents an exceptional, large-scale and increasingly rare natural phenomenon.",
+  "danger": false,
+  "geojson": "putorana-plateau.geojson"
+}

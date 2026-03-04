@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1332,
+          19.4326
+        ]
+      },
+      "properties": {
+        "code": "dia-de-la-independencia-mexico",
+        "name": "Mexican Independence Day",
+        "festivalType": "National",
+        "dateOrSeason": "September 15–16",
+        "location": "Mexico City, Mexico"
+      }
+    }
+  ]
+}

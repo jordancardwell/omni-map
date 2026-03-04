@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4488889,
+          47.74833333
+        ]
+      },
+      "properties": {
+        "code": "olympic-national-park",
+        "name": "Olympic National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

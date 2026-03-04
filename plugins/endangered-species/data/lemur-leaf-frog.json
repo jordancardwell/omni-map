@@ -1,0 +1,18 @@
+{
+  "code": "lemur-leaf-frog",
+  "name": "Lemur Leaf Frog",
+  "scientificName": "Agalychnis lemur",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Humid premontane and montane forest",
+  "threats": [
+    "Chytrid fungus",
+    "Habitat loss",
+    "Climate change"
+  ],
+  "conservationEfforts": "Manchester Museum leads ex-situ breeding program. Costa Rica's amphibian research and conservation center maintains colonies. Habitat protection in lowland sites.",
+  "description": "A tiny bright green tree frog with huge dark eyes and orange feet. Once common in Costa Rica, it has nearly disappeared from most of its range due to chytrid fungus.",
+  "geojson": "lemur-leaf-frog.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "choco-rainforest",
+  "name": "Chocó-Darién Rainforest",
+  "country": "Colombia, Ecuador, Panama",
+  "forestType": "Tropical",
+  "areaKm2": 187400,
+  "intactness": "Moderately Degraded",
+  "changeSince2000": "-8.7% (approximately 16,300 km² lost)",
+  "annualLossRate": "0.4% per year",
+  "threats": [
+    "Gold mining",
+    "Palm oil expansion",
+    "Coca cultivation",
+    "Logging",
+    "Armed conflict",
+    "Road construction"
+  ],
+  "conservationStatus": "Several protected areas including Los Katíos National Park (World Heritage Site) and Cotacachi-Cayapas Reserve. Afro-Colombian and indigenous community territories provide de facto protection. Colombia's peace process has paradoxically increased deforestation as former FARC areas opened to development.",
+  "description": "The **Chocó-Darién Rainforest** is one of the wettest places on Earth, stretching along the Pacific coast of Colombia, Ecuador, and Panama. It is a global biodiversity hotspot with extraordinary endemism driven by geographic isolation.\n\n### Key Statistics\n- **Biodiversity**: ~9,000 plant species (25% endemic), 830+ bird species\n- **Rainfall**: 8,000–13,000 mm annually (one of the wettest regions on Earth)\n- **Endemism**: Among the highest levels of plant endemism globally\n- **Amphibians**: Home to poison dart frogs and extraordinary amphibian diversity\n\n### Deforestation Trends\nThe IFL 2020 data shows accelerating forest loss in the Chocó, particularly in Colombia following the 2016 peace accord. The withdrawal of FARC guerrillas from forest areas opened previously inaccessible regions to mining, logging, and agriculture. Gold mining is causing severe mercury contamination in rivers.",
+  "geojson": "choco-rainforest.geojson"
+}

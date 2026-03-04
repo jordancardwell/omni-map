@@ -1,0 +1,16 @@
+{
+  "code": "old-town-of-lijiang",
+  "name": "Old Town of Lijiang",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Old Town of Lijiang, which is perfectly adapted to the uneven topography of this key commercial and strategic site, has retained a historic townscape of high quality and authenticity. Its architecture is noteworthy for the blending of elements from several cultures that have come together over many centuries. Lijiang also possesses an ancient water-supply system of great complexity and ingenuity that still functions effectively today.",
+  "danger": false,
+  "geojson": "old-town-of-lijiang.geojson"
+}

@@ -1,0 +1,28 @@
+{
+  "code": "utc+11",
+  "name": "Solomon Islands Time",
+  "nativeName": "UTC+11:00",
+  "utcOffset": "UTC+11:00",
+  "utcOffsetHours": 11,
+  "offsetGroup": "8. Pacific (UTC+11 to +14)",
+  "ianaNames": [
+    "Pacific/Guadalcanal",
+    "Pacific/Noumea",
+    "Asia/Magadan",
+    "Pacific/Norfolk"
+  ],
+  "countries": [
+    "Solomon Islands",
+    "New Caledonia (France)",
+    "Vanuatu",
+    "Russia (Magadan, Sakhalin)",
+    "Norfolk Island (Australia)",
+    "Federated States of Micronesia (Kosrae, Pohnpei)"
+  ],
+  "dstRules": "Generally no DST observed; Norfolk Island abolished DST in 2015",
+  "description": "Covers the western Pacific islands and Russia's far eastern regions. The Solomon Islands, site of crucial WWII battles, and New Caledonia, known for its vast lagoon, are the main Pacific territories in this zone.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+11.geojson"
+}

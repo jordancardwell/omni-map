@@ -1,0 +1,36 @@
+{
+  "code": "chinese-cantonese",
+  "name": "Cantonese Cuisine (Yue)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Cantonese cuisine is prized for preserving the natural flavors of ingredients through light cooking techniques. It features the world-famous dim sum tradition and an extraordinary range of ingredients. Guangdong's proximity to the sea and tropical climate yields abundant seafood and produce.",
+  "signatureDishes": [
+    "Dim Sum",
+    "Char Siu",
+    "Wonton Noodle Soup",
+    "Roast Goose",
+    "Steamed Fish"
+  ],
+  "keyIngredients": [
+    "Oyster Sauce",
+    "Soy Sauce",
+    "Ginger",
+    "Scallions",
+    "Rice Wine",
+    "Fresh Seafood"
+  ],
+  "cookingTechniques": [
+    "Steaming",
+    "Stir-frying",
+    "Roasting",
+    "Double-boiling",
+    "Poaching"
+  ],
+  "unescoRecognition": "Shunde designated UNESCO City of Gastronomy (2014)",
+  "keyRegions": [
+    "Guangdong Province",
+    "Guangzhou",
+    "Hong Kong",
+    "Macau"
+  ],
+  "geojson": "chinese-cantonese.geojson"
+}

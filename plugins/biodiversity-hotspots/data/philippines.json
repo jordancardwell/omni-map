@@ -1,0 +1,29 @@
+{
+  "code": "philippines",
+  "name": "Philippines",
+  "location": "Southeast Asia (Philippine Archipelago)",
+  "areaKm2": 297179,
+  "habitatRemaining": "7.0%",
+  "plantSpecies": 9253,
+  "endemicPlants": 6091,
+  "vertebrateSpecies": 855,
+  "endemicVertebrates": 352,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Philippine eagle",
+    "Tamaraw",
+    "Philippine tarsier",
+    "Philippine cockatoo",
+    "Rafflesia"
+  ],
+  "threats": [
+    "Deforestation",
+    "Mining",
+    "Agriculture",
+    "Urbanization",
+    "Typhoons"
+  ],
+  "conservationEfforts": "Philippine Eagle Foundation breeds and releases eagles. Mount Kitanglad and Mount Apo are protected. Community-based forest management covers 5 million hectares. National Greening Program plants trees on degraded lands.",
+  "description": "The Philippines, an archipelago of over 7,600 islands in Southeast Asia, is one of the world's most biologically rich and threatened regions. With only 7% of original habitat remaining, the Philippines faces dire conservation challenges.\n\nDespite severe habitat loss, the islands harbor astonishing levels of endemism: 66% of plant species and 41% of vertebrates are found nowhere else. Each major island has evolved its own endemic species. The Philippine eagle, the world's largest eagle, is the national bird and a powerful conservation symbol. The islands also host the world's largest flower, Rafflesia, and smallest primate, the tarsier.",
+  "geojson": "philippines.geojson"
+}

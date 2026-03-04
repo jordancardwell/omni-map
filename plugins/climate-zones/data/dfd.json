@@ -1,0 +1,15 @@
+{
+  "code": "dfd",
+  "name": "Extremely Cold Subarctic",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month <22°C; coldest month <-38°C",
+  "precipitationPattern": "Year-round low precipitation; extreme winter dryness",
+  "vegetation": "Sparse taiga giving way to tundra, larch dominant tree",
+  "exampleCities": [
+    "Yakutsk (border Dwd/Dfd)",
+    "Churapcha (Russia)"
+  ],
+  "description": "Extremely cold subarctic climate (Dfd) is found in central Siberia where continental extremes produce the widest annual temperature ranges on Earth — up to 100°C difference between winter minimum and summer maximum. Year-round precipitation (unlike the dry-winter Dwd) distinguishes this type.",
+  "typicalWeather": "Brutally cold winters (-40 to -55°C) and cool, short summers (12-20°C). Despite extreme cold, summers can be surprisingly warm due to long daylight hours. Snow cover persists 7-8 months. Permafrost is continuous.",
+  "geojson": "dfd.geojson"
+}

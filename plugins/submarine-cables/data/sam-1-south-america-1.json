@@ -1,0 +1,24 @@
+{
+  "code": "sam-1-south-america-1",
+  "name": "SAm-1 (South America-1)",
+  "capacityTbps": 1.92,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 25000,
+  "yearLaid": 1999,
+  "rfsDate": "2000-12",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Miami, USA",
+    "Fortaleza, Brazil",
+    "Recife, Brazil",
+    "Salvador, Brazil",
+    "Rio de Janeiro, Brazil",
+    "Santos, Brazil",
+    "Buenos Aires, Argentina",
+    "Montevideo, Uruguay",
+    "Arica, Chile",
+    "Lima, Peru"
+  ],
+  "description": "Comprehensive South American cable system.",
+  "geojson": "sam-1-south-america-1.geojson"
+}

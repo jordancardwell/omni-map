@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1411111,
+          39.91055556
+        ]
+      },
+      "properties": {
+        "code": "summer-palace-an-imperial-garden-in-beijing",
+        "name": "Summer Palace, an Imperial Garden in Beijing",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

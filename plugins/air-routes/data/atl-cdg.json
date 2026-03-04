@@ -1,0 +1,18 @@
+{
+  "code": "atl-cdg",
+  "name": "Atlanta — Paris",
+  "airports": [
+    "ATL",
+    "CDG"
+  ],
+  "distanceKm": 7055,
+  "weeklyFlights": 45,
+  "airlines": [
+    "Delta",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–CDG route between Atlanta and Paris. Distance: 7,055 km. ~45 weekly flights operated by Delta, Air France.",
+  "geojson": "atl-cdg.geojson"
+}

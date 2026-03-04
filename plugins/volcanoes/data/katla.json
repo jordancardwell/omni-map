@@ -1,0 +1,22 @@
+{
+  "code": "katla",
+  "name": "Katla",
+  "volcanoType": "Subglacial volcano",
+  "status": "Dormant",
+  "elevation": 1512,
+  "lastEruption": "1918",
+  "vei": 5,
+  "country": "Iceland",
+  "region": "South Iceland",
+  "location": "South Iceland, Iceland",
+  "tectonicSetting": "Divergent boundary",
+  "hazards": [
+    "Jökulhlaup",
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "Has erupted roughly every 40-80 years. The last major eruption was in 1918. It is overdue by historical standards and closely monitored.",
+  "description": "Katla is one of Iceland's most powerful and feared volcanoes. It lies beneath the Mýrdalsjökull glacier, and eruptions produce massive glacial floods (jökulhlaups) that reshape the landscape.",
+  "geojson": "katla.geojson"
+}

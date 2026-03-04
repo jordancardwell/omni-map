@@ -1,0 +1,16 @@
+{
+  "code": "gondwana-1",
+  "name": "Gondwana-1",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2000,
+  "yearLaid": 2008,
+  "rfsDate": "2008-12",
+  "owner": "OPT New Caledonia",
+  "landingPoints": [
+    "Noumea, New Caledonia",
+    "Sydney, Australia"
+  ],
+  "description": "New Caledonia-Australia cable system.",
+  "geojson": "gondwana-1.geojson"
+}

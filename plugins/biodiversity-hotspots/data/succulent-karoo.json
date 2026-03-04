@@ -1,0 +1,29 @@
+{
+  "code": "succulent-karoo",
+  "name": "Succulent Karoo",
+  "location": "Southwestern Africa (South Africa, Namibia)",
+  "areaKm2": 102691,
+  "habitatRemaining": "29.0%",
+  "plantSpecies": 6356,
+  "endemicPlants": 2439,
+  "vertebrateSpecies": 345,
+  "endemicVertebrates": 32,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Riverine rabbit",
+    "Armadillo girdled lizard",
+    "Namaqua chameleon",
+    "Living stones (Lithops)",
+    "Elephant's trunk (Pachypodium)"
+  ],
+  "threats": [
+    "Mining",
+    "Overgrazing",
+    "Climate change",
+    "Illegal plant collection",
+    "Agriculture"
+  ],
+  "conservationEfforts": "Succulent Karoo Ecosystem Programme (SKEP) coordinates conservation across the region. Namaqua National Park protects spring wildflower displays. Riverine rabbit conservation program. Succulent plant nurseries reduce wild collection pressure.",
+  "description": "The Succulent Karoo, stretching along the Atlantic coast of southwestern Africa from Namibia into South Africa, is the world's only arid biodiversity hotspot. Despite receiving less than 200mm of annual rainfall, this semi-desert supports an incredible diversity of succulent plants.\n\nThe region is home to the world's richest succulent flora, with over 1,700 succulent species. Mesembryanthemaceae (the ice plant family) alone has over 1,000 species. In spring, the normally drab landscape transforms into spectacular wildflower displays. 'Living stones' (Lithops) are camouflaged succulents that resemble the rocks they grow among.",
+  "geojson": "succulent-karoo.geojson"
+}

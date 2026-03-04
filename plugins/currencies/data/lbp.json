@@ -1,0 +1,16 @@
+{
+  "code": "lbp",
+  "name": "Lebanese Pound",
+  "isoCode": "LBP",
+  "symbol": "ل.ل",
+  "region": "Middle East",
+  "centralBank": "Banque du Liban",
+  "exchangeRateEra": "Officially pegged to USD (multiple rates)",
+  "countries": [
+    "Lebanon"
+  ],
+  "countryCount": 1,
+  "description": "The Lebanese Pound has experienced severe devaluation since the 2019 financial crisis, losing over 90% of its value.",
+  "historicalNotes": "Lebanon maintained a stable peg to the US dollar from 1997 to 2019. The subsequent financial crisis created multiple exchange rates and wiped out savings.",
+  "geojson": "lbp.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.62056,
+          40.01389
+        ]
+      },
+      "properties": {
+        "code": "hattusha-the-hittite-capital",
+        "name": "Hattusha: the Hittite Capital",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

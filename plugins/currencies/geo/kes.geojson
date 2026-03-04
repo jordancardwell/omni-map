@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kes","name":"Kenyan Shilling","country":"KE","region":"Africa"},"geometry":{"type":"Polygon","coordinates":[[[33.9,-4.7],[33.9,5.5],[41.9,5.5],[41.9,-4.7],[33.9,-4.7]]]}}]}

@@ -1,0 +1,8 @@
+{
+  "code": "north-sea-baltic",
+  "name": "North Sea–Baltic Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Major European shipping corridor connecting North Sea ports to Baltic nations. Includes the Kiel Canal shortcut and Danish Straits. Vital for Scandinavian and Eastern European trade.",
+  "geojson": "north-sea-baltic.geojson"
+}

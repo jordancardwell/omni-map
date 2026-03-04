@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"trieste","name":"Port of Trieste","featureType":"port","portType":"Multi-Purpose Port","country":"Italy"},"geometry":{"type":"Point","coordinates":[13.77,45.65]}}]}

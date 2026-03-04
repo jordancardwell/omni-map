@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.07067,
+          47.48242
+        ]
+      },
+      "properties": {
+        "code": "budapest-including-the-banks-of-the-danube-the-buda-castle-quarter-and-andrassy",
+        "name": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+        "type": "Cultural",
+        "country": "Hungary",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "den-iah",
+  "name": "Denver — Houston",
+  "airports": [
+    "DEN",
+    "IAH"
+  ],
+  "distanceKm": 1387,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–IAH route between Denver and Houston. Distance: 1,387 km. ~60 weekly flights operated by United, Southwest.",
+  "geojson": "den-iah.geojson"
+}

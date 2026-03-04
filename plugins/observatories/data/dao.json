@@ -1,0 +1,21 @@
+{
+  "code": "dao",
+  "name": "Dominion Astrophysical Observatory",
+  "country": "Canada",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 229,
+  "aperture": "1.82 m (Plaskett)",
+  "telescopes": [
+    "Plaskett 1.82m",
+    "1.22m"
+  ],
+  "keyDiscoveries": [
+    "Radial velocity catalogs",
+    "Binary star orbits",
+    "Interstellar medium"
+  ],
+  "location": "Dominion Astrophysical Observatory, Canada",
+  "description": "NRC Herzberg facility in Victoria, BC. The Plaskett telescope contributed fundamental data on stellar radial velocities and binary star systems.",
+  "geojson": "dao.geojson"
+}

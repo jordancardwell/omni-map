@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0770138888,
+          51.1069472222
+        ]
+      },
+      "properties": {
+        "code": "centennial-hall-in-wrocaw",
+        "name": "Centennial Hall in Wrocław",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

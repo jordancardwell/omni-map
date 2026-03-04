@@ -1,0 +1,16 @@
+{
+  "code": "petra",
+  "name": "Petra",
+  "type": "Cultural",
+  "country": "Jordan",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Inhabited since prehistoric times, this Nabataean caravan-city, situated between the Red Sea and the Dead Sea, was an important crossroads between Arabia, Egypt and Syria-Phoenicia. Petra is half-built, half-carved into the rock, and is surrounded by mountains riddled with passages and gorges. It is one of the world's most famous archaeological sites, where ancient Eastern traditions blend with Hellenistic architecture.",
+  "danger": false,
+  "geojson": "petra.geojson"
+}

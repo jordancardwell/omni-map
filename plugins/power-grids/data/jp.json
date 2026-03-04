@@ -1,0 +1,18 @@
+{
+  "code": "jp",
+  "name": "Japan",
+  "voltage": "100V",
+  "frequency": "50/60 Hz",
+  "plugTypes": [
+    "A",
+    "B"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)"
+  ],
+  "voltageStandard": "110V",
+  "adapterNotes": "Lowest voltage worldwide (100V). Eastern Japan 50 Hz, western 60 Hz. US plugs fit but voltage differs.",
+  "geojson": "jp.geojson"
+}

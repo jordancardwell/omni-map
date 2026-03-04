@@ -1,0 +1,437 @@
+[
+  {
+    "code": "amazon-rainforest",
+    "name": "Amazon Rainforest",
+    "country": "Brazil, Peru, Colombia, Venezuela, Ecuador, Bolivia, Guyana, Suriname, French Guiana",
+    "forestType": "Tropical",
+    "areaKm2": 5500000,
+    "intactness": "Moderately Degraded",
+    "changeSince2000": "-10.3% (approximately 567,000 km² lost)",
+    "annualLossRate": "0.4–0.5% per year",
+    "threats": [
+      "Cattle ranching",
+      "Soybean agriculture",
+      "Illegal logging",
+      "Mining",
+      "Infrastructure development",
+      "Wildfires",
+      "Climate change"
+    ],
+    "conservationStatus": "Mixed protection. ~27% under formal protection (national parks, indigenous reserves). Brazilian Forest Code requires 80% forest retention on private land. ARPA program protects 60 million hectares. Increasing deforestation pressure since 2019, though recent policy shifts have slowed losses.",
+    "description": "The **Amazon Rainforest** is the world's largest tropical rainforest, spanning nine countries across the Amazon Basin. It contains approximately 10% of all species on Earth and produces roughly 6% of the world's oxygen.\n\n### Key Statistics\n- **Biodiversity**: ~80,000 plant species, 2,500+ fish species, 1,500+ bird species\n- **Carbon storage**: Holds ~150–200 billion tonnes of carbon\n- **Indigenous peoples**: Home to ~400 indigenous groups\n- **River system**: Amazon River carries 20% of the world's freshwater\n\n### Deforestation Trends\nThe IFL 2020 analysis shows significant fragmentation, particularly along the \"arc of deforestation\" in the southern and eastern edges. Tipping point research suggests 20–25% total deforestation could trigger savannification of large areas.",
+    "geojson": "amazon-rainforest.geojson"
+  },
+  {
+    "code": "atlantic-forest",
+    "name": "Atlantic Forest",
+    "country": "Brazil, Argentina, Paraguay",
+    "forestType": "Tropical",
+    "areaKm2": 131000,
+    "intactness": "Critical",
+    "changeSince2000": "-5.3% (approximately 7,000 km² lost)",
+    "annualLossRate": "0.2–0.3% per year",
+    "threats": [
+      "Urban expansion",
+      "Agricultural conversion",
+      "Cattle ranching",
+      "Infrastructure development",
+      "Fragmentation",
+      "Climate change"
+    ],
+    "conservationStatus": "Brazilian Atlantic Forest Law (2006) restricts clearing. Multiple protected areas including Iguaçu National Park. Atlantic Forest Restoration Pact aims to restore 15 million hectares by 2050. Only ~12% of original extent remains, mostly in fragments.",
+    "description": "The **Atlantic Forest** (Mata Atlântica) once stretched along Brazil's entire Atlantic coast but has been reduced to approximately 12% of its original 1.3 million km² extent, making it one of the world's most threatened biomes.\n\n### Key Statistics\n- **Biodiversity**: ~20,000 plant species (8,000 endemic), 298 mammal species\n- **Original extent**: ~1.3 million km²; now ~131,000 km² (12%)\n- **Population**: Home to 70% of Brazil's population (150 million people)\n- **Endemism**: Rival to the Amazon in species diversity per unit area\n\n### Deforestation Trends\nThe IFL 2020 data confirms the Atlantic Forest as one of the most deforested tropical forests. Remaining fragments are small and isolated, with over 80% of remnants smaller than 50 hectares. However, restoration efforts are among the most ambitious globally, and deforestation rates have slowed significantly compared to the 20th century.",
+    "geojson": "atlantic-forest.geojson"
+  },
+  {
+    "code": "borneo-rainforest",
+    "name": "Borneo Rainforest",
+    "country": "Indonesia, Malaysia, Brunei",
+    "forestType": "Tropical",
+    "areaKm2": 280000,
+    "intactness": "Severely Degraded",
+    "changeSince2000": "-30.2% (approximately 121,000 km² lost)",
+    "annualLossRate": "1.3–1.5% per year",
+    "threats": [
+      "Palm oil plantations",
+      "Pulp and paper industry",
+      "Illegal logging",
+      "Mining",
+      "Peatland drainage",
+      "Forest fires"
+    ],
+    "conservationStatus": "Heart of Borneo Initiative covers 22 million hectares across three nations. RSPO certification for sustainable palm oil. Indonesia's moratorium on new forest concessions. Malaysia's commitment to maintain 50% forest cover.",
+    "description": "The **Borneo Rainforest** is one of the oldest rainforests on Earth, estimated at 130 million years old. It covers the island of Borneo, shared by Indonesia (Kalimantan), Malaysia (Sabah and Sarawak), and Brunei.\n\n### Key Statistics\n- **Biodiversity**: ~15,000 plant species (6,000 endemic), 222 mammal species\n- **Carbon storage**: Vast peatland carbon stocks, some of the deepest tropical peat\n- **Iconic species**: Orangutans, pygmy elephants, proboscis monkeys, sun bears\n- **Age**: One of the oldest rainforests at ~130 million years\n\n### Deforestation Trends\nThe IFL 2020 data reveals catastrophic forest loss, particularly in Indonesian Kalimantan. Borneo lost more forest area than any other tropical island in the 21st century. Palm oil expansion remains the primary driver, though recent moratoriums have begun to slow the rate.",
+    "geojson": "borneo-rainforest.geojson"
+  },
+  {
+    "code": "canadian-boreal",
+    "name": "Canadian Boreal Forest",
+    "country": "Canada",
+    "forestType": "Boreal",
+    "areaKm2": 3100000,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-4.2% (approximately 130,000 km² lost)",
+    "annualLossRate": "0.2% per year",
+    "threats": [
+      "Oil sands extraction",
+      "Industrial logging",
+      "Hydroelectric development",
+      "Mining",
+      "Wildfires (increasing)",
+      "Climate change"
+    ],
+    "conservationStatus": "Canadian Boreal Forest Agreement (2010) committed to protect 72 million hectares. ~12% under formal protection. Indigenous Protected and Conserved Areas (IPCAs) expanding. Canada's Target 1 aims for 25% land protection by 2025. Caribou recovery plans require large intact areas.",
+    "description": "The **Canadian Boreal Forest** is one of the world's last great intact forest ecosystems, stretching from Yukon to Newfoundland. It is a critical carbon storehouse, water filter, and habitat for iconic Canadian wildlife.\n\n### Key Statistics\n- **Biodiversity**: ~600 plant species, woodland caribou, lynx, wolverine, billions of migratory birds\n- **Carbon storage**: ~186 billion tonnes of carbon (mostly in soils and peatlands)\n- **Water**: Contains 25% of the world's remaining wetlands\n- **Bird habitat**: Breeding ground for 1–3 billion birds annually\n\n### Deforestation Trends\nThe IFL 2020 data shows extensive intact forest in the northern boreal, but significant fragmentation in the southern managed forest zone. Wildfire seasons have lengthened and intensified. Oil sands development in Alberta has caused direct forest loss, and industrial forestry continues across much of the southern extent.",
+    "geojson": "canadian-boreal.geojson"
+  },
+  {
+    "code": "central-american-rainforest",
+    "name": "Central American Rainforest",
+    "country": "Guatemala, Belize, Honduras, Nicaragua, Costa Rica, Panama",
+    "forestType": "Tropical",
+    "areaKm2": 195000,
+    "intactness": "Moderately Degraded",
+    "changeSince2000": "-12.1% (approximately 23,600 km² lost)",
+    "annualLossRate": "0.5–0.6% per year",
+    "threats": [
+      "Cattle ranching",
+      "Palm oil plantations",
+      "Narco-trafficking (land clearing)",
+      "Agricultural expansion",
+      "Illegal logging",
+      "Fire"
+    ],
+    "conservationStatus": "Mesoamerican Biological Corridor aims to connect protected areas. Maya Biosphere Reserve (Guatemala) is the largest protected area. Costa Rica has achieved ~52% forest cover through reforestation. REDD+ programs active in several countries. However, Guatemala and Honduras face high deforestation rates driven by cattle and narco-land clearing.",
+    "description": "The **Central American Rainforest** spans the tropical moist forests from southern Mexico through Panama, forming a critical biological bridge between North and South America. The region contains exceptional biodiversity and the largest remaining tropical forests north of the Amazon.\n\n### Key Statistics\n- **Biodiversity**: ~17,000 plant species, 1,120+ bird species, 440+ mammal species\n- **Mesoamerican Corridor**: Biological bridge enabling species migration between continents\n- **Key forests**: Petén (Guatemala), Mosquito Coast (Honduras/Nicaragua), Darién (Panama)\n- **Cloud forests**: High-altitude forests with exceptional epiphyte diversity\n\n### Deforestation Trends\nThe IFL 2020 data shows mixed trends: Costa Rica has increased forest cover, while Guatemala, Honduras, and Nicaragua continue to lose forests rapidly. Narco-trafficking has emerged as a significant deforestation driver, with drug organizations clearing forest for cattle ranches to launder money. The Maya Biosphere Reserve has lost significant forest in recent years despite its protected status.",
+    "geojson": "central-american-rainforest.geojson"
+  },
+  {
+    "code": "choco-rainforest",
+    "name": "Chocó-Darién Rainforest",
+    "country": "Colombia, Ecuador, Panama",
+    "forestType": "Tropical",
+    "areaKm2": 187400,
+    "intactness": "Moderately Degraded",
+    "changeSince2000": "-8.7% (approximately 16,300 km² lost)",
+    "annualLossRate": "0.4% per year",
+    "threats": [
+      "Gold mining",
+      "Palm oil expansion",
+      "Coca cultivation",
+      "Logging",
+      "Armed conflict",
+      "Road construction"
+    ],
+    "conservationStatus": "Several protected areas including Los Katíos National Park (World Heritage Site) and Cotacachi-Cayapas Reserve. Afro-Colombian and indigenous community territories provide de facto protection. Colombia's peace process has paradoxically increased deforestation as former FARC areas opened to development.",
+    "description": "The **Chocó-Darién Rainforest** is one of the wettest places on Earth, stretching along the Pacific coast of Colombia, Ecuador, and Panama. It is a global biodiversity hotspot with extraordinary endemism driven by geographic isolation.\n\n### Key Statistics\n- **Biodiversity**: ~9,000 plant species (25% endemic), 830+ bird species\n- **Rainfall**: 8,000–13,000 mm annually (one of the wettest regions on Earth)\n- **Endemism**: Among the highest levels of plant endemism globally\n- **Amphibians**: Home to poison dart frogs and extraordinary amphibian diversity\n\n### Deforestation Trends\nThe IFL 2020 data shows accelerating forest loss in the Chocó, particularly in Colombia following the 2016 peace accord. The withdrawal of FARC guerrillas from forest areas opened previously inaccessible regions to mining, logging, and agriculture. Gold mining is causing severe mercury contamination in rivers.",
+    "geojson": "choco-rainforest.geojson"
+  },
+  {
+    "code": "congo-basin",
+    "name": "Congo Basin Rainforest",
+    "country": "Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Central African Republic, Equatorial Guinea",
+    "forestType": "Tropical",
+    "areaKm2": 2000000,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-5.6% (approximately 112,000 km² lost)",
+    "annualLossRate": "0.2–0.3% per year",
+    "threats": [
+      "Slash-and-burn agriculture",
+      "Industrial logging",
+      "Charcoal production",
+      "Mining concessions",
+      "Road expansion",
+      "Armed conflict"
+    ],
+    "conservationStatus": "~12% under formal protection. Central Africa Forest Initiative (CAFI) provides international funding. Virunga National Park and other key reserves face ongoing security challenges. Gabon has strongest forest governance with 88% forest cover maintained.",
+    "description": "The **Congo Basin Rainforest** is the world's second-largest tropical rainforest, often called the \"second lung of the Earth.\" It spans six countries in Central Africa and remains one of the most intact large forest regions globally.\n\n### Key Statistics\n- **Biodiversity**: ~10,000 plant species, 1,000+ bird species, 400+ mammal species\n- **Carbon storage**: ~60 billion tonnes of carbon, plus vast peatland carbon stores\n- **Indigenous peoples**: Home to Pygmy peoples including Mbuti, Baka, and Twa\n- **Iconic species**: Forest elephants, gorillas, bonobos, okapi\n\n### Deforestation Trends\nThe IFL 2020 data shows the Congo Basin retains the largest contiguous intact forest landscapes in the tropics. However, deforestation rates have been accelerating, particularly in the DRC, driven by smallholder farming and population growth.",
+    "geojson": "congo-basin.geojson"
+  },
+  {
+    "code": "daintree-rainforest",
+    "name": "Daintree Rainforest",
+    "country": "Australia",
+    "forestType": "Tropical",
+    "areaKm2": 1200,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-0.8% (minimal loss, approximately 10 km²)",
+    "annualLossRate": "<0.1% per year",
+    "threats": [
+      "Tourism pressure",
+      "Invasive species",
+      "Climate change",
+      "Cyclone damage",
+      "Urban encroachment"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site (Wet Tropics of Queensland). Daintree National Park provides strong protection. Eastern Kuku Yalanji Aboriginal ownership of parts of the forest restored in 2021. Wet Tropics Management Authority oversees conservation.",
+    "description": "The **Daintree Rainforest** in Far North Queensland is the oldest continuously surviving tropical rainforest on Earth, estimated at 180 million years old. It is part of the larger Wet Tropics World Heritage Area.\n\n### Key Statistics\n- **Biodiversity**: 3,000+ plant species (700 endemic), 430+ bird species\n- **Age**: ~180 million years, the oldest tropical rainforest\n- **Rare species**: Southern cassowary, Bennett's tree-kangaroo, musky rat-kangaroo\n- **Unique feature**: Where rainforest meets the Great Barrier Reef\n\n### Deforestation Trends\nThe Daintree is one of the best-protected rainforests globally. The IFL 2020 data shows minimal disturbance. Primary threats are now climate-related (warming, cyclone intensity) and invasive species rather than direct clearing.",
+    "geojson": "daintree-rainforest.geojson"
+  },
+  {
+    "code": "east-african-montane",
+    "name": "East African Montane Forests",
+    "country": "Tanzania, Kenya, Uganda, Rwanda, Democratic Republic of Congo, Ethiopia",
+    "forestType": "Tropical",
+    "areaKm2": 65000,
+    "intactness": "Severely Degraded",
+    "changeSince2000": "-9.4% (approximately 6,100 km² lost)",
+    "annualLossRate": "0.4–0.5% per year",
+    "threats": [
+      "Agricultural encroachment",
+      "Charcoal production",
+      "Illegal logging",
+      "Population pressure",
+      "Fire",
+      "Climate change"
+    ],
+    "conservationStatus": "Critical conservation zone with multiple protected areas: Bwindi Impenetrable Forest (gorillas), Mt. Kilimanjaro National Park, Eastern Arc Mountains. Eastern Arc recognized as a global biodiversity hotspot. REDD+ programs active. Community forest management expanding in Tanzania and Kenya.",
+    "description": "The **East African Montane Forests** are scattered along the highlands of East Africa, from the Ethiopian Highlands to the Eastern Arc Mountains of Tanzania. Despite their small total area, they harbor extraordinary biodiversity, particularly the ancient Eastern Arc Mountains.\n\n### Key Statistics\n- **Biodiversity**: ~4,000 plant species (30% endemic in Eastern Arc), mountain gorillas, endemic chameleons\n- **Mountain gorillas**: ~1,000 individuals in Virunga and Bwindi forests\n- **Eastern Arc**: Often called the \"Galápagos of Africa\" for extreme endemism\n- **Water provision**: Critical water towers for 30+ million people\n\n### Deforestation Trends\nThe IFL 2020 data shows highly fragmented forest patches across East Africa. Population growth and agricultural expansion continue to reduce forest area, though some countries (particularly Rwanda and Kenya) have launched ambitious tree planting programs. The montane forests' role as water catchments provides strong economic arguments for their protection.",
+    "geojson": "east-african-montane.geojson"
+  },
+  {
+    "code": "madagascar-rainforest",
+    "name": "Madagascar Rainforest",
+    "country": "Madagascar",
+    "forestType": "Tropical",
+    "areaKm2": 50000,
+    "intactness": "Critical",
+    "changeSince2000": "-22.5% (approximately 14,500 km² lost)",
+    "annualLossRate": "1.0–1.5% per year",
+    "threats": [
+      "Slash-and-burn agriculture (tavy)",
+      "Illegal logging (rosewood, ebony)",
+      "Charcoal production",
+      "Mining",
+      "Population pressure",
+      "Political instability"
+    ],
+    "conservationStatus": "Multiple national parks including Masoala, Ranomafana, and Andasibe-Mantadia. Madagascar's system of protected areas expanded in 2003. CITES restrictions on rosewood export. However, enforcement is weak and political crises have triggered logging surges.",
+    "description": "**Madagascar's Rainforest** is one of the world's most important biodiversity hotspots, with extraordinary levels of endemism found nowhere else on Earth. The island's eastern rainforests have been reduced to approximately 10% of their original extent.\n\n### Key Statistics\n- **Biodiversity**: ~12,000 plant species (80% endemic), 100+ lemur species, 300+ frog species\n- **Endemism**: 90% of wildlife found nowhere else on Earth\n- **Original extent**: Once covered ~120,000 km²; now reduced to ~50,000 km²\n- **Lemurs**: 111 species, all endemic, most endangered primate group\n\n### Deforestation Trends\nThe IFL 2020 data shows Madagascar has lost the majority of its original forest cover, with acceleration during political crises (2009, 2013). The remaining forests are highly fragmented. Small-scale slash-and-burn agriculture remains the primary driver, but illegal logging of precious hardwoods intensifies during governance vacuums.",
+    "geojson": "madagascar-rainforest.geojson"
+  },
+  {
+    "code": "mekong-rainforest",
+    "name": "Greater Mekong Rainforest",
+    "country": "Vietnam, Laos, Cambodia, Myanmar, Thailand",
+    "forestType": "Tropical",
+    "areaKm2": 340000,
+    "intactness": "Severely Degraded",
+    "changeSince2000": "-15.3% (approximately 52,000 km² lost)",
+    "annualLossRate": "0.6–0.8% per year",
+    "threats": [
+      "Commercial agriculture (rubber, cassava)",
+      "Illegal logging",
+      "Dam construction",
+      "Road expansion",
+      "Land concessions",
+      "Wildlife trade"
+    ],
+    "conservationStatus": "Protected areas cover ~20% of the Greater Mekong region but enforcement is weak. Key reserves include Nam Et-Phou Louey (Laos) and Cat Tien (Vietnam). WWF Greater Mekong program active. ASEAN Heritage Parks provide regional framework. Illegal cross-border timber trade remains a major challenge.",
+    "description": "The **Greater Mekong Rainforest** encompasses the tropical and subtropical moist forests of mainland Southeast Asia, one of the world's most biologically rich and threatened regions. New species continue to be discovered at remarkable rates.\n\n### Key Statistics\n- **Biodiversity**: ~20,000 plant species, 430+ mammal species, 1,200+ bird species\n- **New species**: ~3,000 new species discovered since 1997\n- **Iconic species**: Saola, Indochinese tiger, Asian elephant, Irrawaddy dolphin\n- **Forest types**: Tropical evergreen, semi-evergreen, dry dipterocarp, montane\n\n### Deforestation Trends\nThe IFL 2020 data shows severe forest loss across the Greater Mekong, with Cambodia and Myanmar experiencing the highest rates. Rubber and cassava plantations have replaced vast areas of natural forest, often facilitated by land concessions to foreign companies. The region lost forest at roughly double the global tropical average.",
+    "geojson": "mekong-rainforest.geojson"
+  },
+  {
+    "code": "new-guinea-rainforest",
+    "name": "New Guinea Rainforest",
+    "country": "Papua New Guinea, Indonesia (Papua)",
+    "forestType": "Tropical",
+    "areaKm2": 545000,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-4.8% (approximately 26,000 km² lost)",
+    "annualLossRate": "0.2% per year",
+    "threats": [
+      "Logging concessions",
+      "Palm oil expansion",
+      "Mining",
+      "Road construction",
+      "Population growth"
+    ],
+    "conservationStatus": "Customary land tenure protects much of the forest through indigenous ownership (~97% of land in PNG is customary). Limited formal protected area coverage (~3%). YUS Conservation Area established as PNG's first conservation area through voluntary landowner commitment.",
+    "description": "The **New Guinea Rainforest** is the world's third-largest tropical rainforest, covering the island of New Guinea. It is one of the most biologically diverse places on Earth and remains largely intact due to rugged terrain and customary land ownership.\n\n### Key Statistics\n- **Biodiversity**: ~20,000 plant species, 800+ bird species (including birds of paradise), 300+ mammal species\n- **Endemic species**: ~5% of the world's species on 0.5% of Earth's land\n- **Indigenous peoples**: Over 1,000 distinct language groups\n- **Altitude range**: Sea level to 4,884m (Puncak Jaya)\n\n### Deforestation Trends\nThe IFL 2020 analysis shows New Guinea retains the largest intact forest landscapes in the Asia-Pacific region. However, industrial logging concessions, particularly in PNG, and palm oil expansion in Indonesian Papua are emerging threats.",
+    "geojson": "new-guinea-rainforest.geojson"
+  },
+  {
+    "code": "pacific-northwest-rainforest",
+    "name": "Pacific Northwest Temperate Rainforest",
+    "country": "United States (Washington, Oregon), Canada (British Columbia)",
+    "forestType": "Temperate",
+    "areaKm2": 168000,
+    "intactness": "Moderately Degraded",
+    "changeSince2000": "-3.2% (approximately 5,400 km² lost)",
+    "annualLossRate": "0.1–0.2% per year",
+    "threats": [
+      "Industrial logging",
+      "Wildfire (increasing)",
+      "Urban development",
+      "Climate change",
+      "Bark beetle outbreaks"
+    ],
+    "conservationStatus": "Multiple national parks and forests including Olympic National Park, Mt. Rainier, and Great Bear Rainforest (British Columbia). Northwest Forest Plan (1994) protects old-growth on federal lands. Great Bear Rainforest Agreement (2016) protects 85% of the forest. Old-growth logging continues on some state and private lands.",
+    "description": "The **Pacific Northwest Temperate Rainforest** stretches from northern California through British Columbia, including the Great Bear Rainforest — the largest intact temperate rainforest on Earth's Pacific coast. These forests receive enormous rainfall and support the world's tallest and most massive trees.\n\n### Key Statistics\n- **Biodiversity**: Douglas fir, Sitka spruce, western red cedar; northern spotted owl, marbled murrelet\n- **Tree size**: Trees up to 75m tall and 1,000+ years old\n- **Carbon density**: Among the highest carbon densities of any ecosystem per hectare\n- **Salmon**: Critical habitat for Pacific salmon species, connecting marine and forest ecosystems\n\n### Deforestation Trends\nThe IFL 2020 data shows significant recovery since the timber wars of the 1980s–90s. The Great Bear Rainforest in British Columbia is now largely protected through First Nations-led conservation agreements. However, old-growth logging on state lands in Oregon and Washington continues to be controversial. Wildfire risk is increasing with climate change.",
+    "geojson": "pacific-northwest-rainforest.geojson"
+  },
+  {
+    "code": "scandinavian-boreal",
+    "name": "Scandinavian Boreal Forest",
+    "country": "Sweden, Finland, Norway, Russia (Kola Peninsula)",
+    "forestType": "Boreal",
+    "areaKm2": 580000,
+    "intactness": "Severely Degraded",
+    "changeSince2000": "-2.8% (approximately 16,000 km² of old-growth lost)",
+    "annualLossRate": "0.1% per year (old-growth loss continues)",
+    "threats": [
+      "Industrial forestry",
+      "Clear-cutting",
+      "Monoculture plantations",
+      "Climate change",
+      "Mining"
+    ],
+    "conservationStatus": "Only ~5% of productive forest is protected in Sweden and Finland. Norway has stronger old-growth protections. EU Biodiversity Strategy targets 30% protection by 2030. Sami indigenous rights complicate land-use decisions. Most forests are managed plantations rather than natural forest.",
+    "description": "The **Scandinavian Boreal Forest** once covered the entire Scandinavian Peninsula and Finland but has been heavily managed for centuries. Very little old-growth forest remains, making it one of the most transformed boreal regions.\n\n### Key Statistics\n- **Biodiversity**: Scots pine, Norway spruce, birch; brown bear, wolverine, lynx, wolf\n- **Old growth**: Less than 5% of original old-growth remains in Sweden and Finland\n- **Managed area**: ~95% of forests have been logged at least once\n- **Reindeer herding**: Critical habitat for Sami reindeer husbandry\n\n### Deforestation Trends\nThe IFL 2020 data shows very few intact forest landscapes remain in Scandinavia, primarily in remote areas of northern Sweden and Finland. The region's forests are largely production forests managed on 60–80 year rotation cycles. While total forest cover appears stable, biodiversity-rich old-growth continues to decline.",
+    "geojson": "scandinavian-boreal.geojson"
+  },
+  {
+    "code": "siberian-taiga",
+    "name": "Siberian Taiga",
+    "country": "Russia",
+    "forestType": "Boreal",
+    "areaKm2": 7700000,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-3.1% (approximately 239,000 km² lost)",
+    "annualLossRate": "0.1–0.2% per year",
+    "threats": [
+      "Industrial logging",
+      "Wildfires (increasing)",
+      "Oil and gas extraction",
+      "Mining",
+      "Permafrost thaw",
+      "Climate change"
+    ],
+    "conservationStatus": "~10% under formal protection. Includes Lake Baikal region, Central Siberian Plateau reserves. Russian Forest Code allows significant logging in unprotected areas. Intact Forest Landscapes mapping has improved monitoring, but enforcement remains limited.",
+    "description": "The **Siberian Taiga** is the world's largest forest biome, stretching across Russia from the Ural Mountains to the Pacific. It represents the largest remaining tract of intact forest on Earth and plays a critical role in global carbon and climate regulation.\n\n### Key Statistics\n- **Biodiversity**: Larch, spruce, pine, and birch dominant; Siberian tiger, brown bear, wolverine, sable\n- **Carbon storage**: ~70 billion tonnes of carbon in biomass and soils\n- **Permafrost**: Underlain by extensive permafrost, a massive carbon reservoir\n- **Extent**: ~7.7 million km², larger than the Amazon\n\n### Deforestation Trends\nThe IFL 2020 data shows the Siberian Taiga retains vast intact forest landscapes, but wildfire area has doubled since 2000 due to climate warming. Industrial logging in western and southern Siberia continues to fragment the forest frontier. Permafrost thaw threatens forest stability across northern regions.",
+    "geojson": "siberian-taiga.geojson"
+  },
+  {
+    "code": "sumatra-rainforest",
+    "name": "Sumatra Rainforest",
+    "country": "Indonesia",
+    "forestType": "Tropical",
+    "areaKm2": 120000,
+    "intactness": "Critical",
+    "changeSince2000": "-25.8% (approximately 41,700 km² lost)",
+    "annualLossRate": "1.1–1.4% per year",
+    "threats": [
+      "Palm oil plantations",
+      "Pulp and paper plantations",
+      "Illegal logging",
+      "Mining",
+      "Road construction",
+      "Peatland fires"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site (Tropical Rainforest Heritage of Sumatra — three national parks: Gunung Leuser, Kerinci Seblat, Bukit Barisan Selatan). Listed as World Heritage in Danger since 2011. Indonesian moratorium on new peat and primary forest concessions. RSPO certification for palm oil.",
+    "description": "The **Sumatra Rainforest** is among the most biologically rich and most threatened forests on Earth. It is the only place where orangutans, tigers, rhinoceros, and elephants coexist in the wild, but all four are critically endangered.\n\n### Key Statistics\n- **Biodiversity**: ~10,000 plant species, 580+ bird species, 201 mammal species\n- **Mega-fauna**: Sumatran orangutan, tiger, rhinoceros, and elephant — all critically endangered\n- **Peatlands**: Some of the deepest tropical peat deposits globally\n- **Original extent**: ~250,000 km²; now reduced to ~120,000 km² (48%)\n\n### Deforestation Trends\nThe IFL 2020 data shows Sumatra has experienced some of the highest deforestation rates in the world. The expansion of palm oil and pulp plantations has been relentless, particularly in Riau province. Peatland drainage for plantations causes massive carbon emissions and catastrophic fires during dry seasons. Without urgent action, Sumatran forests outside protected areas may be largely gone within a generation.",
+    "geojson": "sumatra-rainforest.geojson"
+  },
+  {
+    "code": "sundarbans",
+    "name": "Sundarbans Mangrove Forest",
+    "country": "Bangladesh, India",
+    "forestType": "Tropical",
+    "areaKm2": 10000,
+    "intactness": "Moderately Degraded",
+    "changeSince2000": "-6.1% (approximately 610 km² lost or degraded)",
+    "annualLossRate": "0.3% per year",
+    "threats": [
+      "Sea level rise",
+      "Cyclone intensification",
+      "Upstream water diversion",
+      "Pollution",
+      "Shrimp farming",
+      "Illegal logging"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site. Sundarbans Reserve Forest managed jointly by Bangladesh and India. Ramsar Wetland of International Importance. Tiger conservation priority area. Threatened by Rampal coal power plant proximity.",
+    "description": "The **Sundarbans** is the world's largest contiguous mangrove forest, spanning the delta of the Ganges, Brahmaputra, and Meghna rivers. It is a unique tidal forest ecosystem critical for coastal protection and biodiversity.\n\n### Key Statistics\n- **Biodiversity**: 334 plant species, 693 wildlife species including Bengal tigers\n- **Bengal tigers**: ~100 individuals in Bangladesh, ~96 in India (largest mangrove tiger population)\n- **Coastal protection**: Shields 40 million people from cyclones and storm surges\n- **Carbon storage**: Among the most carbon-dense ecosystems per hectare\n\n### Deforestation Trends\nThe IFL 2020 data shows the Sundarbans are under severe climate pressure. Sea level rise of 3–5 mm per year is causing saltwater intrusion and land erosion. Cyclone frequency and intensity have increased. Upstream freshwater diversion reduces water flow essential for the ecosystem.",
+    "geojson": "sundarbans.geojson"
+  },
+  {
+    "code": "tasmanian-rainforest",
+    "name": "Tasmanian Temperate Rainforest",
+    "country": "Australia",
+    "forestType": "Temperate",
+    "areaKm2": 10000,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-1.5% (approximately 150 km² lost or degraded)",
+    "annualLossRate": "<0.1% per year",
+    "threats": [
+      "Logging (native forest)",
+      "Climate change",
+      "Wildfires (increasing)",
+      "Phytophthora root rot",
+      "Mining proposals"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site (Tasmanian Wilderness). ~42% of Tasmania is protected. Tasmanian Wilderness World Heritage Area covers 1.58 million hectares. Forestry Tasmania has ended native forest logging in most areas. Remaining threats are primarily climate-related.",
+    "description": "The **Tasmanian Temperate Rainforest** is one of the last great temperate wilderness areas in the Southern Hemisphere. Its ancient Gondwanan forests contain species dating back to when Australia was part of the supercontinent.\n\n### Key Statistics\n- **Biodiversity**: Ancient conifers including Huon pine (Lagarostrobos franklinii), Gondwanan tree ferns\n- **Ancient trees**: Huon pine individuals over 2,000 years old; clonal stands over 10,000 years old\n- **Endemic species**: ~500 endemic plant species, Tasmanian devil, platypus\n- **Gondwanan heritage**: Flora lineage dating back 60+ million years\n\n### Deforestation Trends\nThe IFL 2020 data shows Tasmania's rainforests are well-preserved within the World Heritage Area. Historical logging controversies (particularly the Franklin Dam campaign of 1983) led to strong protections. The main threat now is climate change — increased fire risk threatens fire-sensitive rainforest species that may take centuries to recover.",
+    "geojson": "tasmanian-rainforest.geojson"
+  },
+  {
+    "code": "tongass-forest",
+    "name": "Tongass National Forest",
+    "country": "United States (Alaska)",
+    "forestType": "Temperate",
+    "areaKm2": 68000,
+    "intactness": "Mostly Intact",
+    "changeSince2000": "-1.2% (approximately 816 km² logged)",
+    "annualLossRate": "<0.1% per year",
+    "threats": [
+      "Industrial logging",
+      "Road building",
+      "Mining proposals",
+      "Climate change",
+      "Salmon habitat loss"
+    ],
+    "conservationStatus": "U.S. National Forest with Roadless Rule protection restored in 2023. 5.7 million acres designated as wilderness. Contains 19 wilderness areas. Tongass Transition Framework supports economic diversification away from logging.",
+    "description": "The **Tongass National Forest** is the largest national forest in the United States and the largest remaining temperate rainforest in North America. Located in southeast Alaska, it stretches across the Alexander Archipelago.\n\n### Key Statistics\n- **Biodiversity**: Old-growth Sitka spruce, western hemlock, and western red cedar\n- **Carbon storage**: ~8% of all carbon stored in U.S. national forests\n- **Wildlife**: Brown bears, bald eagles, five species of Pacific salmon\n- **Old growth**: 40% of the forest is old-growth (400–800+ years)\n\n### Deforestation Trends\nThe IFL 2020 data shows the Tongass as one of the most intact temperate rainforests remaining. Historical logging from 1950s–1990s removed significant old growth, but protections have largely halted industrial-scale timber harvest.",
+    "geojson": "tongass-forest.geojson"
+  },
+  {
+    "code": "valdivian-rainforest",
+    "name": "Valdivian Temperate Rainforest",
+    "country": "Chile, Argentina",
+    "forestType": "Temperate",
+    "areaKm2": 248100,
+    "intactness": "Moderately Degraded",
+    "changeSince2000": "-7.5% (approximately 18,600 km² lost)",
+    "annualLossRate": "0.3% per year",
+    "threats": [
+      "Timber plantations (eucalyptus, pine)",
+      "Wildfires",
+      "Agricultural conversion",
+      "Hydroelectric projects",
+      "Invasive species"
+    ],
+    "conservationStatus": "Multiple national parks and reserves including Alerce Andino, Pumalín Douglas Tompkins, and Huilo-Huilo. Chilean native forest law (Ley de Bosque Nativo) provides some protection. Tompkins Conservation land donations have expanded protected areas significantly.",
+    "description": "The **Valdivian Temperate Rainforest** is one of the world's few temperate rainforests, stretching along the Chilean and Argentine coasts and Andean slopes. It is an ecoregion of global importance with exceptional endemism.\n\n### Key Statistics\n- **Biodiversity**: ~5,000 plant species (50% endemic), including ancient alerce trees\n- **Ancient trees**: Alerce (Fitzroya cupressoides) specimens over 3,600 years old\n- **Endemic species**: Monito del monte (living fossil marsupial), Darwin's frog\n- **Rainfall**: 2,000–6,000 mm annually\n\n### Deforestation Trends\nThe IFL 2020 analysis shows fragmentation from plantation forestry, particularly in Chile's central valley. The replacement of native forest with fast-growing pine and eucalyptus plantations is the greatest ongoing threat. Wildfire frequency has increased with climate change.",
+    "geojson": "valdivian-rainforest.geojson"
+  },
+  {
+    "code": "western-ghats",
+    "name": "Western Ghats Rainforest",
+    "country": "India",
+    "forestType": "Tropical",
+    "areaKm2": 60000,
+    "intactness": "Severely Degraded",
+    "changeSince2000": "-4.8% (approximately 2,900 km² lost)",
+    "annualLossRate": "0.2% per year",
+    "threats": [
+      "Plantation agriculture (tea, coffee, spices)",
+      "Mining",
+      "Hydroelectric projects",
+      "Urban expansion",
+      "Road construction",
+      "Encroachment"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site (serial nomination of 39 properties). Multiple national parks including Silent Valley, Periyar, and Kudremukh. Western Ghats Ecology Expert Panel (Gadgil Report) recommended stronger zoning. Kasturirangan Report provides current regulatory framework.",
+    "description": "The **Western Ghats** mountain chain runs 1,600 km along India's western coast and is one of the world's eight \"hottest hotspots\" of biological diversity. Its tropical and subtropical moist forests harbor extraordinary endemism.\n\n### Key Statistics\n- **Biodiversity**: ~5,000 flowering plant species (33% endemic), 508 bird species, 179 amphibians\n- **Amphibian endemism**: 80% of amphibian species found nowhere else\n- **Population**: 50 million people depend on the Ghats for water and livelihoods\n- **River systems**: Source of major peninsular Indian rivers (Krishna, Godavari, Kaveri)\n\n### Deforestation Trends\nThe IFL 2020 data shows the Western Ghats retain fragmented forest cover, particularly in the southern sections (Kerala, Karnataka). Historical conversion to tea, coffee, and spice plantations removed much forest during the colonial era. Current pressures include mining, dams, and linear infrastructure projects.",
+    "geojson": "western-ghats.geojson"
+  }
+]

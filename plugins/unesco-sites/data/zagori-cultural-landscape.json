@@ -1,0 +1,14 @@
+{
+  "code": "zagori-cultural-landscape",
+  "name": "Zagori Cultural Landscape",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in a remote rural landscape in northwestern Greece, small stone villages known as Zagorochoria extend along the western slopes of the northern part of the Pindus mountain range. These traditional villages, typically organized around a central square containing a plane tree and surrounded by sacred forests maintained by local communities, showcase a traditional architecture adapted to the mountain topography. A network of stone-arched bridges, stone cobbled paths, and stone staircases linking the villages formed a system that served as a political and social unit connecting the communities of the Vikos and the Voïdomatis River basin.",
+  "danger": false,
+  "geojson": "zagori-cultural-landscape.geojson"
+}

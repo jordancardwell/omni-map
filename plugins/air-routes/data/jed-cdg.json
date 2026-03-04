@@ -1,0 +1,17 @@
+{
+  "code": "jed-cdg",
+  "name": "Jeddah — Paris",
+  "airports": [
+    "JED",
+    "CDG"
+  ],
+  "distanceKm": 4427,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Saudia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–CDG route between Jeddah and Paris. Distance: 4,427 km. ~25 weekly flights operated by Saudia.",
+  "geojson": "jed-cdg.geojson"
+}

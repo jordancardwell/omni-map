@@ -1,0 +1,16 @@
+{
+  "code": "alger-valencia",
+  "name": "Alger-Valencia",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1609,
+  "yearLaid": 2012,
+  "rfsDate": "2018-06",
+  "owner": "Algerie Telecom",
+  "landingPoints": [
+    "Barcelona, Spain",
+    "Algiers, Algeria"
+  ],
+  "description": "Alger-Valencia cable connecting Barcelona to Algiers across the Mediterranean.",
+  "geojson": "alger-valencia.geojson"
+}

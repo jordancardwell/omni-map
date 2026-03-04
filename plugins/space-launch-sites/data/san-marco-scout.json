@@ -1,0 +1,16 @@
+{
+  "code": "san-marco-scout",
+  "name": "Wallops-San Marco Scout Program",
+  "country": "United States / Italy",
+  "operator": "NASA / Italian Space Agency",
+  "coordinates": "2.9400°S, 40.2100°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Scout rocket orbital launches",
+    "San Marco 2-5 satellites"
+  ],
+  "orbitalInclinationRange": "3°–37°",
+  "location": "Wallops-San Marco Scout Program, United States / Italy",
+  "description": "Joint US-Italian equatorial launch program using Scout rockets from the San Marco platform. Key contributor to international space cooperation in the 1960s-1980s.",
+  "geojson": "san-marco-scout.geojson"
+}

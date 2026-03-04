@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18222,
+          32.59722
+        ]
+      },
+      "properties": {
+        "code": "biblical-tels-megiddo-hazor-beer-sheba",
+        "name": "Biblical Tels - Megiddo, Hazor, Beer Sheba",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "european-mink",
+  "name": "European Mink",
+  "scientificName": "Mustela lutreola",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~15,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Riverine and wetland habitat",
+  "threats": [
+    "Competition from American mink",
+    "Habitat loss",
+    "Pollution",
+    "Fragmentation"
+  ],
+  "conservationEfforts": "European Mink Conservation Programme breeds and releases captive-bred animals. American mink eradication on islands. Spanish and Estonian populations are conservation priorities.",
+  "description": "Not to be confused with the American mink, the European mink has declined by over 90% in the past 30 years. Competition with the invasive American mink is its greatest threat.",
+  "geojson": "european-mink.geojson"
+}

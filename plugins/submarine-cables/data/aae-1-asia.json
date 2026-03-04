@@ -1,0 +1,18 @@
+{
+  "code": "aae-1-asia",
+  "name": "AAE-1 (Asia)",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2016,
+  "rfsDate": "2017-07",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Ho Chi Minh City, Vietnam",
+    "Mumbai, India"
+  ],
+  "description": "Asia Africa Europe-1 Asian segment.",
+  "geojson": "aae-1-asia.geojson"
+}

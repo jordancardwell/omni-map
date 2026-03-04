@@ -1,0 +1,16 @@
+{
+  "code": "castle-of-the-teutonic-order-in-malbork",
+  "name": "Castle of the Teutonic Order in Malbork",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This 13th-century fortified monastery belonging to the Teutonic Order was substantially enlarged and embellished after 1309, when the seat of the Grand Master moved here from Venice. A particularly fine example of a medieval brick castle, it later fell into decay, but was meticulously restored in the 19th and early 20th centuries. Many of the conservation techniques now accepted as standard were evolved here. Following severe damage in the Second World War it was once again restored, using the detailed documentation prepared by earlier conservators.",
+  "danger": false,
+  "geojson": "castle-of-the-teutonic-order-in-malbork.geojson"
+}

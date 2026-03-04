@@ -1,0 +1,16 @@
+{
+  "code": "city-of-bath",
+  "name": "City of Bath",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded by the Romans as a thermal spa, Bath became an important centre of the wool industry in the Middle Ages. In the 18th century, under George III, it developed into an elegant town with neoclassical Palladian buildings, which blend harmoniously with the Roman baths.",
+  "danger": false,
+  "geojson": "city-of-bath.geojson"
+}

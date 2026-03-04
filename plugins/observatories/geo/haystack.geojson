@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4882,42.6233]},"properties":{"code":"haystack","name":"Haystack Observatory","observatoryType":"Radio","status":"Operational","country":"United States"}}]}

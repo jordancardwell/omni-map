@@ -1,0 +1,16 @@
+{
+  "code": "za-ec-link",
+  "name": "ZA EC Link",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1597,
+  "yearLaid": 2019,
+  "rfsDate": "2011-06",
+  "owner": "Telkom SA",
+  "landingPoints": [
+    "East London, South Africa",
+    "Port Elizabeth, South Africa"
+  ],
+  "description": "ZA EC Link connecting East London to Port Elizabeth in East Africa/Indian Ocean.",
+  "geojson": "za-ec-link.geojson"
+}

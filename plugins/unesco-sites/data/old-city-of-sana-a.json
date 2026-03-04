@@ -1,0 +1,15 @@
+{
+  "code": "old-city-of-sana-a",
+  "name": "Old City of Sana'a",
+  "type": "Cultural",
+  "country": "Yemen",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Situated in a mountain valley at an altitude of 2,200 m, Sana’a has been inhabited for more than 2,500 years. In the 7th and 8th centuries the city became a major centre for the propagation of Islam. This religious and political heritage can be seen in the 103 mosques, 14 hammams and over 6,000 houses, all built before the 11th century. Sana’a’s many-storeyed tower-houses built of rammed earth (pisé) add to the beauty of the site.",
+  "danger": true,
+  "geojson": "old-city-of-sana-a.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.00055556,
+          7.915833333
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-polonnaruwa",
+        "name": "Ancient City of Polonnaruwa",
+        "type": "Cultural",
+        "country": "Sri Lanka",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

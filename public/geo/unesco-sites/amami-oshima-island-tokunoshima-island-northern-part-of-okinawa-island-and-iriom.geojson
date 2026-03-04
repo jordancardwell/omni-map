@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3783333333,
+          28.2791666667
+        ]
+      },
+      "properties": {
+        "code": "amami-oshima-island-tokunoshima-island-northern-part-of-okinawa-island-and-iriom",
+        "name": "Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island",
+        "type": "Natural",
+        "country": "Japan",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

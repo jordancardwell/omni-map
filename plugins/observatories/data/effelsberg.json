@@ -1,0 +1,20 @@
+{
+  "code": "effelsberg",
+  "name": "Effelsberg Radio Telescope",
+  "country": "Germany",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 319,
+  "aperture": "100 m",
+  "telescopes": [
+    "Effelsberg 100m"
+  ],
+  "keyDiscoveries": [
+    "Molecular masers",
+    "Polarization of cosmic sources",
+    "Pulsar timing"
+  ],
+  "location": "Effelsberg Radio Telescope, Germany",
+  "description": "A 100m radio telescope near Bonn operated by the Max Planck Institute for Radio Astronomy. One of the largest fully steerable radio telescopes in the world.",
+  "geojson": "effelsberg.geojson"
+}

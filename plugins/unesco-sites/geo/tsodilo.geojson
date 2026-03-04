@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.73333333,
+          -18.75
+        ]
+      },
+      "properties": {
+        "code": "tsodilo",
+        "name": "Tsodilo",
+        "type": "Cultural",
+        "country": "Botswana",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

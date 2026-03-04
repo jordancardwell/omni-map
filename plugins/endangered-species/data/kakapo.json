@@ -1,0 +1,19 @@
+{
+  "code": "kakapo",
+  "name": "Kakapo",
+  "scientificName": "Strigops habroptilus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~250 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Temperate podocarp forest",
+  "threats": [
+    "Predation by invasive species",
+    "Low reproductive rate",
+    "Disease",
+    "Inbreeding"
+  ],
+  "conservationEfforts": "All kakapo have been moved to predator-free islands. Every bird is individually named and tracked. Supplementary feeding boosts breeding success. Genome sequencing informs genetic management.",
+  "description": "The world's only flightless, nocturnal parrot and the heaviest parrot species. Males produce a deep booming call audible 5 km away. Each bird has a distinct personality known to researchers.",
+  "geojson": "kakapo.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "cd",
+  "name": "DR Congo",
+  "avgDownloadMbps": 4.6,
+  "avgUploadMbps": 1.4,
+  "avgLatencyMs": 52,
+  "mobileDownloadMbps": 6.4,
+  "mobileUploadMbps": 1.6,
+  "fixedDownloadMbps": 4.6,
+  "fixedUploadMbps": 1.4,
+  "rank": 182,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Large country with minimal coverage. ~12% year-over-year growth.",
+  "geojson": "cd.geojson"
+}

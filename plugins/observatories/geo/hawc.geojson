@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3086,19.0028]},"properties":{"code":"hawc","name":"HAWC Observatory","observatoryType":"Multi-messenger","status":"Operational","country":"Mexico"}}]}

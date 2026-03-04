@@ -1,0 +1,25 @@
+{
+  "code": "egyptian-empire",
+  "name": "Egyptian Empire (New Kingdom)",
+  "era": "Ancient",
+  "peakYear": "1250 BCE",
+  "areaAtPeakKm2": 1000000,
+  "populationEstimate": "5 million",
+  "capital": "Thebes",
+  "keyAchievements": [
+    "Pyramids and temples",
+    "Hieroglyphic writing",
+    "Medical knowledge",
+    "Mathematical advances",
+    "Monumental architecture"
+  ],
+  "declineFactors": [
+    "Sea Peoples invasions",
+    "Internal power struggles",
+    "Libyan incursions",
+    "Economic decline",
+    "Priestly power growth"
+  ],
+  "description": "The New Kingdom of Egypt (1550–1070 BCE) represented the peak of ancient Egyptian power and cultural achievement. Under pharaohs like Thutmose III, Hatshepsut, Akhenaten, and Ramesses II, Egypt controlled vast territories from Nubia to Syria.\n\nThis era produced some of Egypt's most iconic monuments, including the temples of Karnak, Luxor, and Abu Simbel. It was also the era of Tutankhamun, whose intact tomb gave the modern world its most intimate glimpse of ancient Egyptian civilization.",
+  "geojson": "egyptian-empire.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "jiuzhaigou-valley-scenic-and-historic-interest-area",
+  "name": "Jiuzhaigou Valley Scenic and Historic Interest Area",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Stretching over 72,000 ha in the northern part of Sichuan Province, the jagged Jiuzhaigou valley reaches a height of more than 4,800 m, thus comprising a series of diverse forest ecosystems. Its superb landscapes are particularly interesting for their series of narrow conic karst land forms and spectacular waterfalls. Some 140 bird species also inhabit the valley, as well as a number of endangered plant and animal species, including the giant panda and the Sichuan takin.",
+  "danger": false,
+  "geojson": "jiuzhaigou-valley-scenic-and-historic-interest-area.geojson"
+}

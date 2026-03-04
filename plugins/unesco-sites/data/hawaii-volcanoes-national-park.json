@@ -1,0 +1,14 @@
+{
+  "code": "hawaii-volcanoes-national-park",
+  "name": "Hawaii Volcanoes National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This site contains two of the most active volcanoes in the world, Mauna Loa (4,170 m high) and Kilauea (1,250 m high), both of which tower over the Pacific Ocean. Volcanic eruptions have created a constantly changing landscape, and the lava flows reveal surprising geological formations. Rare birds and endemic species can be found there, as well as forests of giant ferns.",
+  "danger": false,
+  "geojson": "hawaii-volcanoes-national-park.geojson"
+}

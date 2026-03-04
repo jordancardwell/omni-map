@@ -1,0 +1,12 @@
+{
+  "code": "mia",
+  "name": "Miami International",
+  "iataCode": "MIA",
+  "city": "Miami",
+  "country": "United States",
+  "annualPassengers": 52500000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Miami International (MIA) in Miami, United States. Annual passengers: ~52.5M. Classification: Major Hub.",
+  "geojson": "mia.geojson"
+}

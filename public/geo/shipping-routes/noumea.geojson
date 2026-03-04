@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"noumea","name":"Port of Nouméa","featureType":"port","portType":"Bulk Port","country":"New Caledonia"},"geometry":{"type":"Point","coordinates":[166.44,-22.27]}}]}

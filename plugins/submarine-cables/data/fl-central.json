@@ -1,0 +1,16 @@
+{
+  "code": "fl-central",
+  "name": "FL Central",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 680,
+  "yearLaid": 2013,
+  "rfsDate": "2015-06",
+  "owner": "AT&T",
+  "landingPoints": [
+    "Boca Raton, USA",
+    "Vero Beach, USA"
+  ],
+  "description": "FL Central connecting Boca Raton to Vero Beach.",
+  "geojson": "fl-central.geojson"
+}

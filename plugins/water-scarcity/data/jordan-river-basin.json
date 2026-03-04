@@ -1,0 +1,15 @@
+{
+  "code": "jordan-river-basin",
+  "name": "Jordan River Basin",
+  "region": "Middle East",
+  "stressGroup": "4. High (40-80%)",
+  "waterStressLevel": "High",
+  "waterStressRatio": "~78% — withdrawal-to-availability",
+  "depletionRate": "Very High — Dead Sea dropping 1 m/year",
+  "droughtRisk": "Extreme",
+  "seasonalVariability": "High",
+  "affectedPopulation": 15000000,
+  "riskFactors": ["Transboundary conflict", "Dead Sea shrinkage", "Aquifer depletion", "Climate aridification", "Refugee influx"],
+  "description": "The Jordan River basin is shared by Israel, Jordan, Palestine, Syria, and Lebanon in one of the world's most water-scarce and politically contested regions. The lower Jordan has lost 90% of its historic flow. The Dead Sea is dropping roughly 1 meter per year, with sinkholes proliferating along retreating shorelines. Israel's desalination capacity partially offsets scarcity, but Jordan faces acute shortage exacerbated by Syrian refugee influx.",
+  "geojson": "jordan-river-basin.geojson"
+}

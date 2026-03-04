@@ -1,0 +1,15 @@
+{
+  "code": "simien-national-park",
+  "name": "Simien National Park",
+  "type": "Natural",
+  "country": "Ethiopia",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Massive erosion over the years on the Ethiopian plateau has created one of the most spectacular landscapes in the world, with jagged mountain peaks, deep valleys and sharp precipices dropping some 1,500 m. The park is home to some extremely rare animals such as the Gelada baboon, the Simien fox and the Walia ibex, a goat found nowhere else in the world.",
+  "danger": false,
+  "geojson": "simien-national-park.geojson"
+}

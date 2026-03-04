@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8694,
+          38.2682
+        ]
+      },
+      "properties": {
+        "code": "tanabata",
+        "name": "Tanabata (Star Festival)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "July 7 (or August)",
+        "location": "Sendai, Japan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "btn",
+  "name": "Bhutanese Ngultrum",
+  "isoCode": "BTN",
+  "symbol": "Nu.",
+  "region": "Asia",
+  "centralBank": "Royal Monetary Authority of Bhutan",
+  "exchangeRateEra": "Pegged to INR at par",
+  "countries": [
+    "Bhutan"
+  ],
+  "countryCount": 1,
+  "description": "The Bhutanese Ngultrum is pegged at par with the Indian Rupee. Bhutan is famous for measuring Gross National Happiness.",
+  "historicalNotes": "Introduced in 1974. Bhutan was the last country in the world to introduce television, in 1999.",
+  "geojson": "btn.geojson"
+}

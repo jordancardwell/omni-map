@@ -1,0 +1,14 @@
+{
+  "code": "taos-pueblo",
+  "name": "Taos Pueblo",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated in the valley of a small tributary of the Rio Grande, this adobe settlement – consisting of dwellings and ceremonial buildings – represents the culture of the Pueblo Indians of Arizona and New Mexico.",
+  "danger": false,
+  "geojson": "taos-pueblo.geojson"
+}

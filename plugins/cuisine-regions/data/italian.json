@@ -1,0 +1,38 @@
+{
+  "code": "italian",
+  "name": "Italian Cuisine",
+  "cuisineFamily": "Western European",
+  "description": "Italian cuisine celebrates simplicity, using few high-quality ingredients to create bold flavors. Each of Italy's twenty regions boasts distinct culinary traditions, from the rich ragùs of Bologna to the seafood of Sicily. Pasta, olive oil, and fresh produce form the backbone of this beloved culinary tradition.",
+  "signatureDishes": [
+    "Pizza Margherita",
+    "Risotto alla Milanese",
+    "Ossobuco",
+    "Tiramisu",
+    "Carbonara",
+    "Gelato"
+  ],
+  "keyIngredients": [
+    "Olive Oil",
+    "Tomatoes",
+    "Parmesan",
+    "Basil",
+    "Garlic",
+    "Prosciutto"
+  ],
+  "cookingTechniques": [
+    "Al dente pasta cooking",
+    "Wood-fired baking",
+    "Slow braising",
+    "Curing",
+    "Fresh pasta making"
+  ],
+  "unescoRecognition": "Neapolitan pizza-making (Pizzaiuolo) inscribed on UNESCO list (2017)",
+  "keyRegions": [
+    "Tuscany",
+    "Emilia-Romagna",
+    "Sicily",
+    "Campania",
+    "Lombardy"
+  ],
+  "geojson": "italian.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "old-town-of-segovia-and-its-aqueduct",
+  "name": "Old Town of Segovia and its Aqueduct",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Roman aqueduct of Segovia, probably built c. A.D. 50, is remarkably well preserved. This impressive construction, with its two tiers of arches, forms part of the setting of the magnificent historic city of Segovia. Other important monuments include the Alcázar, begun around the 11th century, and the 16th-century Gothic cathedral.",
+  "danger": false,
+  "geojson": "old-town-of-segovia-and-its-aqueduct.geojson"
+}

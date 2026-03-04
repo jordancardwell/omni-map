@@ -1,0 +1,15 @@
+{
+  "code": "decorated-cave-of-pont-darc-known-as-grotte-chauvet-pont-darc-ardeche",
+  "name": "Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in a limestone plateau of the Ardèche River in southern France, the property contains the earliest-known and best-preserved figurative drawings in the world, dating back as early as the Aurignacian period (30,000–32,000 BP), making it an exceptional testimony of prehistoric art. The cave was closed off by a rock fall approximately 20,000 years BP and remained sealed until its discovery in 1994, which helped to keep it in pristine condition. Over 1,000 images have so far been inventoried on its walls, combining a variety of anthropomorphic and animal motifs. Of exceptional aesthetic quality, they demonstrate a range of techniques including the skilful use of shading, combinations of paint and engraving, anatomical precision, three-dimensionality and movement. They include several dangerous animal species difficult to observe at that time, such as mammoth, bear, cave lion, rhino, bison and auroch, as well as 4,000 inventoried remains of prehistoric fauna and a variety of human footprints.",
+  "danger": false,
+  "geojson": "decorated-cave-of-pont-darc-known-as-grotte-chauvet-pont-darc-ardeche.geojson"
+}

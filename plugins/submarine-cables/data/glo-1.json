@@ -1,0 +1,16 @@
+{
+  "code": "glo-1",
+  "name": "GLO-1",
+  "capacityTbps": 2.5,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 9800,
+  "yearLaid": 2009,
+  "rfsDate": "2010-10",
+  "owner": "Globacom",
+  "landingPoints": [
+    "Bude, UK",
+    "Lagos, Nigeria"
+  ],
+  "description": "Glo-1 cable connecting Nigeria directly to the UK.",
+  "geojson": "glo-1.geojson"
+}

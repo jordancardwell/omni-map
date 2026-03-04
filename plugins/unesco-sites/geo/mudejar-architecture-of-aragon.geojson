@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10722,
+          40.34389
+        ]
+      },
+      "properties": {
+        "code": "mudejar-architecture-of-aragon",
+        "name": "Mudejar Architecture of Aragon",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "ratan-600",
+  "name": "RATAN-600",
+  "country": "Russia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 970,
+  "aperture": "576 m ring",
+  "telescopes": [
+    "RATAN-600"
+  ],
+  "keyDiscoveries": [
+    "Radio source surveys",
+    "Solar radio observations",
+    "AGN monitoring"
+  ],
+  "location": "RATAN-600, Russia",
+  "description": "A circular 576m-diameter radio telescope in the Caucasus. One of the largest radio telescopes in the world by aperture, operating since 1974.",
+  "geojson": "ratan-600.geojson"
+}

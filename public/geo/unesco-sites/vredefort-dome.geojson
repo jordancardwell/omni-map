@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.26,
+          -26.86
+        ]
+      },
+      "properties": {
+        "code": "vredefort-dome",
+        "name": "Vredefort Dome",
+        "type": "Natural",
+        "country": "South Africa",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

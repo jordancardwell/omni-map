@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "code": "rio-reveillon",
+        "name": "Réveillon (Rio New Year)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "December 31",
+        "location": "Rio de Janeiro, Brazil"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "fete-de-la-musique",
+  "name": "Fête de la Musique",
+  "festivalType": "Cultural",
+  "dateOrSeason": "June 21 (Summer Solstice)",
+  "origin": "French tradition",
+  "estimatedAttendance": "Millions across 120+ countries",
+  "unescoICH": "Not inscribed",
+  "traditions": "Free concerts in streets, parks, and public spaces; all music genres; amateur and professional musicians; spontaneous jams.",
+  "historicalBackground": "Fête de la Musique was created in 1982 by France's Minister of Culture Jack Lang. It has spread to over 120 countries worldwide.",
+  "description": "The global Make Music Day, where free concerts fill the streets of Paris and cities worldwide on the summer solstice.",
+  "location": "Paris, France",
+  "geojson": "fete-de-la-musique.geojson"
+}

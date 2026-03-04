@@ -1,0 +1,22 @@
+{
+  "code": "ipac",
+  "name": "IPAC at Caltech",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 253,
+  "aperture": "Spitzer: 0.85 m / WISE: 0.4 m",
+  "telescopes": [
+    "Spitzer (retired)",
+    "WISE/NEOWISE",
+    "Euclid US Center"
+  ],
+  "keyDiscoveries": [
+    "Infrared universe surveys",
+    "TRAPPIST-1 transit timing (Spitzer)",
+    "Near-Earth object catalog"
+  ],
+  "location": "IPAC at Caltech, United States",
+  "description": "Caltech's Infrared Processing and Analysis Center. Science center for Spitzer (retired 2020), WISE/NEOWISE, and the US Euclid data center.",
+  "geojson": "ipac.geojson"
+}

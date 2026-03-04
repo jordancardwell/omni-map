@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.23333333,
+          49.75
+        ]
+      },
+      "properties": {
+        "code": "wooden-churches-of-southern-maopolska",
+        "name": "Wooden Churches of Southern Małopolska",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

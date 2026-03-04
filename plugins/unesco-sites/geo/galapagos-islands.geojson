@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.501319,
+          -0.68986
+        ]
+      },
+      "properties": {
+        "code": "galapagos-islands",
+        "name": "Galápagos Islands",
+        "type": "Natural",
+        "country": "Ecuador",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "east-africa-coast",
+  "name": "East African Coastal Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Runs along the East African coast from the Red Sea to Mozambique. Connects the Suez Canal route to South African ports, serving the growing East African trade.",
+  "geojson": "east-africa-coast.geojson"
+}

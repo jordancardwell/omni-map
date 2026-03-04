@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7166666667,
+          16.9333333333
+        ]
+      },
+      "properties": {
+        "code": "archaeological-sites-of-the-island-of-meroe",
+        "name": "Archaeological Sites of the Island of Meroe",
+        "type": "Cultural",
+        "country": "Sudan",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

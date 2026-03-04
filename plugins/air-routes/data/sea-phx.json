@@ -1,0 +1,18 @@
+{
+  "code": "sea-phx",
+  "name": "Seattle — Phoenix",
+  "airports": [
+    "SEA",
+    "PHX"
+  ],
+  "distanceKm": 1782,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Alaska",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SEA–PHX route between Seattle and Phoenix. Distance: 1,782 km. ~60 weekly flights operated by Alaska, Southwest.",
+  "geojson": "sea-phx.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"nok","name":"Norwegian Krone","country":"NO","region":"Europe"},"geometry":{"type":"Polygon","coordinates":[[[4.6,58],[4.6,71.2],[31.1,71.2],[31.1,58],[4.6,58]]]}}]}

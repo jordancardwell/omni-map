@@ -1,0 +1,17 @@
+{
+  "code": "wet-tropics-of-queensland",
+  "name": "Wet Tropics of Queensland",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This area, which stretches along the north-east coast of Australia for some 450 km, is made up largely of tropical rainforests. This biotope offers a particularly extensive and varied array of plants, as well as marsupials and singing birds, along with other rare and endangered animals and plant species.",
+  "danger": false,
+  "geojson": "wet-tropics-of-queensland.geojson"
+}

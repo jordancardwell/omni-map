@@ -1,0 +1,15 @@
+{
+  "code": "rio-grande-basin",
+  "name": "Rio Grande Basin",
+  "region": "North America",
+  "stressGroup": "4. High (40-80%)",
+  "waterStressLevel": "High",
+  "waterStressRatio": "~60% — withdrawal-to-availability",
+  "depletionRate": "High — stretches regularly run dry",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 13000000,
+  "riskFactors": ["Over-allocation", "Transboundary treaty obligations", "Agricultural demand", "Drought intensification"],
+  "description": "The Rio Grande/Río Bravo forms 2,000 km of the US-Mexico border and is heavily over-allocated. Stretches of the river regularly run dry between Albuquerque and El Paso. The 1944 US-Mexico water treaty allocations assume flows that no longer exist. Groundwater pumping from the Hueco Bolson aquifer — serving El Paso and Ciudad Juárez — faces depletion within decades.",
+  "geojson": "rio-grande-basin.geojson"
+}

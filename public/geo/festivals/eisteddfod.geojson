@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1791,
+          51.4816
+        ]
+      },
+      "properties": {
+        "code": "eisteddfod",
+        "name": "National Eisteddfod of Wales",
+        "festivalType": "Cultural",
+        "dateOrSeason": "First week of August",
+        "location": "Cardiff, Wales"
+      }
+    }
+  ]
+}

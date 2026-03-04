@@ -1,0 +1,14 @@
+{
+  "code": "gordion",
+  "name": "Gordion",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in an open rural landscape, the archaeological site of Gordion is a multi-layered ancient settlement, encompassing the remains of the ancient capital of Phrygia, an Iron Age independent kingdom. The key elements of this archaeological site include the Citadel Mound, the Lower Town, the Outer Town and Fortifications, and several burial mounds and tumuli with their surrounding landscape. Archaeological excavations and research have revealed a wealth of remains that document construction techniques, spatial arrangements, defensive structures, and inhumation practices that shed light on Phrygian culture and economy.",
+  "danger": false,
+  "geojson": "gordion.geojson"
+}

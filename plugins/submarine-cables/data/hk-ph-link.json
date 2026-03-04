@@ -1,0 +1,16 @@
+{
+  "code": "hk-ph-link",
+  "name": "HK-PH Link",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 317,
+  "yearLaid": 2019,
+  "rfsDate": "2021-06",
+  "owner": "PLDT",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Manila, Philippines"
+  ],
+  "description": "HK-PH Link connecting Hong Kong to Manila in Southeast Asia.",
+  "geojson": "hk-ph-link.geojson"
+}

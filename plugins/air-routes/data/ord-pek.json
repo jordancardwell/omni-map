@@ -1,0 +1,18 @@
+{
+  "code": "ord-pek",
+  "name": "Chicago — Beijing",
+  "airports": [
+    "ORD",
+    "PEK"
+  ],
+  "distanceKm": 10562,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Air China",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ORD–PEK route between Chicago and Beijing. Distance: 10,562 km. ~30 weekly flights operated by Air China, United.",
+  "geojson": "ord-pek.geojson"
+}

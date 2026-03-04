@@ -1,0 +1,20 @@
+{
+  "code": "vc",
+  "name": "Saint Vincent and the Grenadines",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "G"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of US and British plug types at 230V. Bring a universal adapter.",
+  "geojson": "vc.geojson"
+}

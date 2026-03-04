@@ -1,0 +1,15 @@
+{
+  "code": "jebel-ali",
+  "name": "Jebel Ali (Dubai)",
+  "country": "UAE",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 160,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes",
+    "India–Persian Gulf Route"
+  ],
+  "description": "Jebel Ali (Dubai) in UAE. Annual cargo throughput: ~160 million tons. Type: Container Port.",
+  "geojson": "jebel-ali.geojson"
+}

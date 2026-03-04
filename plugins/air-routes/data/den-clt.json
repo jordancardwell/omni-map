@@ -1,0 +1,17 @@
+{
+  "code": "den-clt",
+  "name": "Denver — Charlotte",
+  "airports": [
+    "DEN",
+    "CLT"
+  ],
+  "distanceKm": 2148,
+  "weeklyFlights": 30,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DEN–CLT route between Denver and Charlotte. Distance: 2,148 km. ~30 weekly flights operated by American.",
+  "geojson": "den-clt.geojson"
+}

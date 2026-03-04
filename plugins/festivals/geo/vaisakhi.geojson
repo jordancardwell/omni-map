@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8723,
+          31.634
+        ]
+      },
+      "properties": {
+        "code": "vaisakhi",
+        "name": "Vaisakhi",
+        "festivalType": "Religious",
+        "dateOrSeason": "April 13–14",
+        "location": "Amritsar, India"
+      }
+    }
+  ]
+}

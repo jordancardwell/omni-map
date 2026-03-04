@@ -1,0 +1,18 @@
+{
+  "code": "ord-den",
+  "name": "Chicago — Denver",
+  "airports": [
+    "ORD",
+    "DEN"
+  ],
+  "distanceKm": 1426,
+  "weeklyFlights": 100,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ORD–DEN route between Chicago and Denver. Distance: 1,426 km. ~100 weekly flights operated by United, Southwest.",
+  "geojson": "ord-den.geojson"
+}

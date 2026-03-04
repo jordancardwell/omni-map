@@ -1,0 +1,30 @@
+{
+  "code": "utc+12",
+  "name": "New Zealand Standard Time",
+  "nativeName": "UTC+12:00",
+  "utcOffset": "UTC+12:00",
+  "utcOffsetHours": 12,
+  "offsetGroup": "8. Pacific (UTC+11 to +14)",
+  "ianaNames": [
+    "Pacific/Auckland",
+    "Pacific/Fiji",
+    "Pacific/Majuro",
+    "Pacific/Tarawa"
+  ],
+  "countries": [
+    "New Zealand",
+    "Fiji",
+    "Marshall Islands",
+    "Kiribati (Gilbert Islands)",
+    "Nauru",
+    "Tuvalu",
+    "Wake Island (US)",
+    "Russia (Kamchatka)"
+  ],
+  "dstRules": "New Zealand observes DST (UTC+13 in summer, Sep–Apr); Fiji also observes DST",
+  "description": "Covers New Zealand and numerous Pacific island nations. Auckland is the largest city in this zone. New Zealand was one of the first countries to adopt standard time in 1868, and it's among the first to see each new day (excluding UTC+13/+14 zones).",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+12.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ny-fr-cable",
+  "name": "NY-FR Cable",
+  "capacityTbps": 37,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7482,
+  "yearLaid": 2023,
+  "rfsDate": "2022-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "New York, USA",
+    "Marseille, France"
+  ],
+  "description": "NY-FR Cable connecting New York to Marseille.",
+  "geojson": "ny-fr-cable.geojson"
+}

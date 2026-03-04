@@ -1,0 +1,21 @@
+{
+  "code": "soputan",
+  "name": "Soputan",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1784,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Sulawesi",
+  "location": "Sulawesi, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in Sulawesi. Has erupted frequently since 1785.",
+  "description": "Mount Soputan is one of the most active volcanoes in North Sulawesi, with frequent explosive eruptions.",
+  "geojson": "soputan.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "cdg-bkk",
+  "name": "Paris — Bangkok",
+  "airports": [
+    "CDG",
+    "BKK"
+  ],
+  "distanceKm": 9448,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Air France",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CDG–BKK route between Paris and Bangkok. Distance: 9,448 km. ~30 weekly flights operated by Air France, Thai Airways.",
+  "geojson": "cdg-bkk.geojson"
+}

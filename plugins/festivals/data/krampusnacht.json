@@ -1,0 +1,14 @@
+{
+  "code": "krampusnacht",
+  "name": "Krampusnacht",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "December 5",
+  "origin": "Alpine Germanic tradition",
+  "estimatedAttendance": "Hundreds of thousands",
+  "unescoICH": "Not inscribed",
+  "traditions": "Krampus runs (Krampuslauf) with costumed Krampus figures; birch rod bundles; chains and bells; pairing with St. Nicholas visits.",
+  "historicalBackground": "Krampus is a horned figure from Alpine folklore who accompanies St. Nicholas, punishing naughty children. The tradition dates to pre-Christian Germanic customs.",
+  "description": "The fearsome Alpine tradition of Krampus Night, where horned, fur-clad figures roam the streets as the dark companion to St. Nicholas.",
+  "location": "Salzburg, Austria",
+  "geojson": "krampusnacht.geojson"
+}

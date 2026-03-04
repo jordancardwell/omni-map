@@ -1,0 +1,14 @@
+{
+  "code": "wuhan",
+  "name": "Port of Wuhan",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 180,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Wuhan in China. Annual cargo throughput: ~180 million tons. Type: Multi-Purpose Port.",
+  "geojson": "wuhan.geojson"
+}

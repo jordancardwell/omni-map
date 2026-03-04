@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.384814,
+          11.77016
+        ]
+      },
+      "properties": {
+        "code": "cambodian-memorial-sites-from-centres-of-repression-to-places-of-peace-and-refle",
+        "name": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+        "type": "Cultural",
+        "country": "Cambodia",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

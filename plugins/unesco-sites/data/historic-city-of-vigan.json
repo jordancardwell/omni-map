@@ -1,0 +1,15 @@
+{
+  "code": "historic-city-of-vigan",
+  "name": "Historic City of Vigan",
+  "type": "Cultural",
+  "country": "Philippines",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Established in the 16th century, Vigan is the best-preserved example of a planned Spanish colonial town in Asia. Its architecture reflects the coming together of cultural elements from elsewhere in the Philippines, from China and from Europe, resulting in a culture and townscape that have no parallel anywhere in East and South-East Asia.",
+  "danger": false,
+  "geojson": "historic-city-of-vigan.geojson"
+}

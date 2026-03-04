@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-zone-of-paquime-casas-grandes",
+  "name": "Archaeological Zone of Paquimé, Casas Grandes",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Paquimé, Casas Grandes, which reached its apogee in the 14th and 15th centuries, played a key role in trade and cultural contacts between the Pueblo culture of the south-western United States and northern Mexico and the more advanced civilizations of Mesoamerica. The extensive remains, only part of which have been excavated, are clear evidence of the vitality of a culture which was perfectly adapted to its physical and economic environment, but which suddenly vanished at the time of the Spanish Conquest.",
+  "danger": false,
+  "geojson": "archaeological-zone-of-paquime-casas-grandes.geojson"
+}

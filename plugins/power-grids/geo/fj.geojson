@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"fj","name":"Fiji","country":"FJ","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[177,-21],[177,-12.5],[-178,-12.5],[-178,-21],[177,-21]]]}}]}

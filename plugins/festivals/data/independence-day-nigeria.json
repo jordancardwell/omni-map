@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-nigeria",
+  "name": "Independence Day (Nigeria)",
+  "festivalType": "National",
+  "dateOrSeason": "October 1",
+  "origin": "Nigerian national",
+  "estimatedAttendance": "220+ million Nigerians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Presidential address; military parade; Eagle Square ceremonies; cultural displays; fireworks; musical performances.",
+  "historicalBackground": "Nigeria's Independence Day marks October 1, 1960, when the country gained independence from British colonial rule, becoming Africa's most populous nation.",
+  "description": "Nigeria's national celebration of independence from British rule, with parades and cultural displays in Africa's most populous nation.",
+  "location": "Lagos, Nigeria",
+  "geojson": "independence-day-nigeria.geojson"
+}

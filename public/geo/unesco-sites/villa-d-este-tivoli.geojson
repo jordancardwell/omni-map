@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.79625,
+          41.96391667
+        ]
+      },
+      "properties": {
+        "code": "villa-d-este-tivoli",
+        "name": "Villa d'Este, Tivoli",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

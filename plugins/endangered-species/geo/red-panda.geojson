@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"red-panda","name":"Red Panda"},"geometry":{"type":"Polygon","coordinates":[[[80,26],[97,26],[100,29],[97,31],[88,29],[80,28],[80,26]]]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "sar",
+  "name": "Saudi Riyal",
+  "isoCode": "SAR",
+  "symbol": "﷼",
+  "region": "Middle East",
+  "centralBank": "Saudi Central Bank (SAMA)",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Saudi Arabia"
+  ],
+  "countryCount": 1,
+  "description": "The Saudi Riyal has been pegged to the US Dollar at 3.75 since 1986. Saudi Arabia is the world's largest oil exporter.",
+  "historicalNotes": "The riyal was introduced in its modern form in 1925. The currency's stability is underpinned by Saudi Arabia's vast oil wealth and foreign exchange reserves.",
+  "geojson": "sar.geojson"
+}

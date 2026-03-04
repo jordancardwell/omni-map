@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91167,
+          15.50222
+        ]
+      },
+      "properties": {
+        "code": "churches-and-convents-of-goa",
+        "name": "Churches and Convents of Goa",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

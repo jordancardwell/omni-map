@@ -1,0 +1,40 @@
+{
+  "id": "air-routes",
+  "name": "Major Air Routes",
+  "description": "The world's busiest flight corridors and major airports — global air connectivity at a glance",
+  "type": "lines",
+  "version": "1.0.0",
+  "icon": "plane",
+  "defaultColor": "#0EA5E9",
+  "categories": ["infrastructure", "transport", "aviation"],
+  "dataType": "lines",
+  "dataSource": "static",
+  "category": "Infrastructure & Technology",
+  "thumbnail": "#0EA5E9",
+  "schema": "AirRouteMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "iataCode", "city", "country", "airlines", "description"],
+    "groupBy": "itemCategory",
+    "titleField": "name",
+    "subtitleField": "description",
+    "badgeField": "classification",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "itemCategory"
+  },
+  "detailFields": [
+    { "key": "classification", "label": "Classification", "type": "status-badge", "statusColors": { "Mega Hub": "#DC2626", "Major Hub": "#F59E0B", "International Hub": "#3B82F6", "Regional Hub": "#10B981", "Ultra High Frequency": "#DC2626", "High Frequency": "#F59E0B", "Medium Frequency": "#3B82F6", "Standard Frequency": "#10B981" } },
+    { "key": "iataCode", "label": "IATA Code", "type": "text" },
+    { "key": "city", "label": "City", "type": "text" },
+    { "key": "country", "label": "Country", "type": "text" },
+    { "key": "annualPassengers", "label": "Annual Passengers", "type": "formatted-number" },
+    { "key": "airports", "label": "Route Airports", "type": "tags" },
+    { "key": "distanceKm", "label": "Distance (km)", "type": "formatted-number" },
+    { "key": "weeklyFlights", "label": "Weekly Flights", "type": "formatted-number" },
+    { "key": "airlines", "label": "Airlines", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

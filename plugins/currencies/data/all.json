@@ -1,0 +1,16 @@
+{
+  "code": "all",
+  "name": "Albanian Lek",
+  "isoCode": "ALL",
+  "symbol": "L",
+  "region": "Europe",
+  "centralBank": "Bank of Albania",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Albania"
+  ],
+  "countryCount": 1,
+  "description": "The Albanian Lek is named after Alexander the Great (Leka i Madh in Albanian).",
+  "historicalNotes": "First introduced in 1926. After the fall of communism in 1991, Albania transitioned to a market economy and the lek became freely convertible.",
+  "geojson": "all.geojson"
+}

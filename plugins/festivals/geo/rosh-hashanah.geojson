@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2137,
+          31.7683
+        ]
+      },
+      "properties": {
+        "code": "rosh-hashanah",
+        "name": "Rosh Hashanah",
+        "festivalType": "Religious",
+        "dateOrSeason": "September–October (Tishrei 1–2)",
+        "location": "Jerusalem, Israel"
+      }
+    }
+  ]
+}

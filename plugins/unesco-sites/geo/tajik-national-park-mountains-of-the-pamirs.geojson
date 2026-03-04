@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3052777778,
+          38.765
+        ]
+      },
+      "properties": {
+        "code": "tajik-national-park-mountains-of-the-pamirs",
+        "name": "Tajik National Park (Mountains of the Pamirs)",
+        "type": "Natural",
+        "country": "Tajikistan",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

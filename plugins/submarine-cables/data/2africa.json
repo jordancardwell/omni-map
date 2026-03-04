@@ -1,0 +1,29 @@
+{
+  "code": "2africa",
+  "name": "2Africa",
+  "capacityTbps": 180,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 45000,
+  "yearLaid": 2020,
+  "rfsDate": "2024-01",
+  "owner": "Meta, China Mobile, MTN, others",
+  "landingPoints": [
+    "Genoa, Italy",
+    "Barcelona, Spain",
+    "Lisbon, Portugal",
+    "Dakar, Senegal",
+    "Abidjan, Ivory Coast",
+    "Lagos, Nigeria",
+    "Cape Town, South Africa",
+    "Durban, South Africa",
+    "Maputo, Mozambique",
+    "Dar es Salaam, Tanzania",
+    "Mombasa, Kenya",
+    "Djibouti, Djibouti",
+    "Jeddah, Saudi Arabia",
+    "Suez, Egypt",
+    "Marseille, France"
+  ],
+  "description": "One of the world's longest submarine cables, circling Africa and connecting to Europe and the Middle East. 180+ Tbps design capacity.",
+  "geojson": "2africa.geojson"
+}

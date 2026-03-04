@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8280277778,
+          18.537
+        ]
+      },
+      "properties": {
+        "code": "gebel-barkal-and-the-sites-of-the-napatan-region",
+        "name": "Gebel Barkal and the Sites of the Napatan Region",
+        "type": "Cultural",
+        "country": "Sudan",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

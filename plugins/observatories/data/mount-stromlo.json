@@ -1,0 +1,21 @@
+{
+  "code": "mount-stromlo",
+  "name": "Mount Stromlo Observatory",
+  "country": "Australia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 770,
+  "aperture": "1.3 m (rebuilt)",
+  "telescopes": [
+    "SkyMapper",
+    "Advanced Instrumentation Lab"
+  ],
+  "keyDiscoveries": [
+    "Dark matter evidence (MACHOs)",
+    "Accelerating expansion of universe",
+    "Satellite laser ranging"
+  ],
+  "location": "Mount Stromlo Observatory, Australia",
+  "description": "ANU observatory near Canberra. Severely damaged in the 2003 bushfires, rebuilt as an advanced instrumentation and technology center.",
+  "geojson": "mount-stromlo.geojson"
+}

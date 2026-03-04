@@ -1,0 +1,19 @@
+{
+  "code": "red-eyed-tree-frog",
+  "name": "Isthmian Golden-eyed Treefrog",
+  "scientificName": "Agalychnis annae",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Premontane moist forest",
+  "threats": [
+    "Habitat loss",
+    "Chytrid fungus",
+    "Climate change",
+    "Collection"
+  ],
+  "conservationEfforts": "Costa Rica's national parks protect some habitat. Captive breeding programs maintain insurance populations. Research into disease resistance.",
+  "description": "A striking green and blue tree frog from Costa Rica's Central Valley. Closely related to the iconic red-eyed tree frog, it has been severely impacted by habitat loss and disease.",
+  "geojson": "red-eyed-tree-frog.geojson"
+}

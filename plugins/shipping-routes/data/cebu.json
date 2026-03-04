@@ -1,0 +1,14 @@
+{
+  "code": "cebu",
+  "name": "Port of Cebu",
+  "country": "Philippines",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Cebu in Philippines. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "cebu.geojson"
+}

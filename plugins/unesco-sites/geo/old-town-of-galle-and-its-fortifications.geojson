@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.216346,
+          6.028051
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-galle-and-its-fortifications",
+        "name": "Old Town of Galle and its Fortifications",
+        "type": "Cultural",
+        "country": "Sri Lanka",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

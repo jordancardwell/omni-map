@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.02095,
+          39.745732
+        ]
+      },
+      "properties": {
+        "code": "butrint",
+        "name": "Butrint",
+        "type": "Cultural",
+        "country": "Albania",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

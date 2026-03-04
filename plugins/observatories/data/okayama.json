@@ -1,0 +1,21 @@
+{
+  "code": "okayama",
+  "name": "Okayama Astrophysical Observatory",
+  "country": "Japan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 372,
+  "aperture": "1.88 m",
+  "telescopes": [
+    "1.88m",
+    "MuSCAT instruments"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet transit characterization",
+    "Multi-color photometry",
+    "Stellar activity cycles"
+  ],
+  "location": "Okayama Astrophysical Observatory, Japan",
+  "description": "NAOJ facility known for the MuSCAT series of instruments that simultaneously observe exoplanet transits in multiple wavelengths.",
+  "geojson": "okayama.geojson"
+}

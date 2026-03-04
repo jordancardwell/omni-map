@@ -1,0 +1,19 @@
+{
+  "code": "ord-phx",
+  "name": "Chicago — Phoenix",
+  "airports": [
+    "ORD",
+    "PHX"
+  ],
+  "distanceKm": 2313,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American",
+    "United",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–PHX route between Chicago and Phoenix. Distance: 2,313 km. ~60 weekly flights operated by American, United, Southwest.",
+  "geojson": "ord-phx.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "sea-icn",
+  "name": "Seattle — Seoul",
+  "airports": [
+    "SEA",
+    "ICN"
+  ],
+  "distanceKm": 8375,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Delta",
+    "Korean Air"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SEA–ICN route between Seattle and Seoul. Distance: 8,375 km. ~35 weekly flights operated by Delta, Korean Air.",
+  "geojson": "sea-icn.geojson"
+}

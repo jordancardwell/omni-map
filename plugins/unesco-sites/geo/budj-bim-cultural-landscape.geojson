@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8852777778,
+          -38.0811111111
+        ]
+      },
+      "properties": {
+        "code": "budj-bim-cultural-landscape",
+        "name": "Budj Bim Cultural Landscape",
+        "type": "Cultural",
+        "country": "Australia",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

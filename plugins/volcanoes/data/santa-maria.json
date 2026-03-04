@@ -1,0 +1,21 @@
+{
+  "code": "santa-maria",
+  "name": "Santa María",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3772,
+  "lastEruption": "2023",
+  "vei": 6,
+  "country": "Guatemala",
+  "region": "Quetzaltenango",
+  "location": "Quetzaltenango, Guatemala",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars"
+  ],
+  "eruptionHistory": "The 1902 eruption was one of the largest of the 20th century (VEI 6). The Santiaguito dome complex has been actively erupting in its crater since 1922.",
+  "description": "Santa María's devastating 1902 eruption was one of the four largest volcanic eruptions of the 20th century. Its crater now hosts the actively growing Santiaguito dome complex.",
+  "geojson": "santa-maria.geojson"
+}

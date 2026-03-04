@@ -1,0 +1,29 @@
+{
+  "code": "dangdut",
+  "name": "Dangdut",
+  "region": "Indonesia",
+  "traditionFamily": "Southeast Asian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Tabla (Gendang)",
+    "Mandolin",
+    "Suling",
+    "Keyboards",
+    "Electric Guitar"
+  ],
+  "keyArtists": [
+    "Rhoma Irama",
+    "Elvy Sukaesih",
+    "Mansyur S.",
+    "Inul Daratista",
+    "Via Vallen"
+  ],
+  "description": "Dangdut is the dominant popular music genre of Indonesia, blending Malay, Arabic, Indian (Bollywood), and Western rock influences. Named after the onomatopoeic sound of its tabla-like drums, dangdut emerged in the 1970s as the music of the common people. Its rhythmic, danceable sound and accessible lyrics about love and daily life have made it a staple of Indonesian cultural identity.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Indonesian Music",
+      "url": "https://folkways.si.edu/search?query=indonesia"
+    }
+  ],
+  "geojson": "dangdut.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-26.453,-57.784]},"properties":{"code":"mount-michael","name":"Mount Michael","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":990,"lastEruption":"2023","vei":2}}]}

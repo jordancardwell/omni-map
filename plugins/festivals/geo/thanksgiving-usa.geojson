@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4128,
+          41.8239
+        ]
+      },
+      "properties": {
+        "code": "thanksgiving-usa",
+        "name": "Thanksgiving",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Fourth Thursday of November",
+        "location": "Plymouth, USA"
+      }
+    }
+  ]
+}

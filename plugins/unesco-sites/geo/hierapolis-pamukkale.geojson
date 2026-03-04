@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.12333,
+          37.92389
+        ]
+      },
+      "properties": {
+        "code": "hierapolis-pamukkale",
+        "name": "Hierapolis-Pamukkale",
+        "type": "Mixed",
+        "country": "Türkiye",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

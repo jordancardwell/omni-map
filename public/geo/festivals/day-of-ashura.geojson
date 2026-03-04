@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0233,
+          32.6189
+        ]
+      },
+      "properties": {
+        "code": "day-of-ashura",
+        "name": "Day of Ashura",
+        "festivalType": "Religious",
+        "dateOrSeason": "10th Muharram (varies)",
+        "location": "Karbala, Iraq"
+      }
+    }
+  ]
+}

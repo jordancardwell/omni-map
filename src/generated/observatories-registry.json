@@ -1,0 +1,4252 @@
+[
+  {
+    "code": "aat",
+    "name": "Anglo-Australian Telescope",
+    "country": "Australia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1164,
+    "aperture": "3.9 m",
+    "telescopes": [
+      "AAT"
+    ],
+    "keyDiscoveries": [
+      "2dF Galaxy Redshift Survey",
+      "Dark energy evidence",
+      "Stellar populations"
+    ],
+    "location": "Anglo-Australian Telescope, Australia",
+    "description": "A 3.9m equatorially mounted telescope at Siding Spring Observatory. Pioneered multi-fiber spectroscopy and produced landmark galaxy surveys.",
+    "geojson": "aat.geojson"
+  },
+  {
+    "code": "abastumani",
+    "name": "Abastumani Astrophysical Observatory",
+    "country": "Georgia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1650,
+    "aperture": "1.25 m",
+    "telescopes": [
+      "1.25m reflector",
+      "70cm meniscus"
+    ],
+    "keyDiscoveries": [
+      "Atmospheric physics",
+      "Polarimetry of stars",
+      "Solar chromosphere studies"
+    ],
+    "location": "Abastumani Astrophysical Observatory, Georgia",
+    "description": "Georgian national observatory in the Lesser Caucasus mountains, founded in 1932. Known for atmospheric physics and stellar polarimetry research.",
+    "geojson": "abastumani.geojson"
+  },
+  {
+    "code": "act",
+    "name": "Atacama Cosmology Telescope",
+    "country": "Chile",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 5190,
+    "aperture": "6 m",
+    "telescopes": [
+      "ACT",
+      "AdvACT"
+    ],
+    "keyDiscoveries": [
+      "CMB power spectrum",
+      "Galaxy cluster discovery",
+      "Gravitational lensing of CMB"
+    ],
+    "location": "Atacama Cosmology Telescope, Chile",
+    "description": "A 6m telescope in the Atacama Desert designed to measure the cosmic microwave background at fine angular scales. Key data for cosmological parameters.",
+    "geojson": "act.geojson"
+  },
+  {
+    "code": "algonquin",
+    "name": "Algonquin Radio Observatory",
+    "country": "Canada",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 260,
+    "aperture": "46 m",
+    "telescopes": [
+      "ARO 46m"
+    ],
+    "keyDiscoveries": [
+      "VLBI development",
+      "Molecular line surveys",
+      "Canadian radio astronomy heritage"
+    ],
+    "location": "Algonquin Radio Observatory, Canada",
+    "description": "Historic Canadian radio observatory. The 46m dish participated in some of the first VLBI experiments and continues as a research and educational facility.",
+    "geojson": "algonquin.geojson"
+  },
+  {
+    "code": "alma",
+    "name": "Atacama Large Millimeter/submillimeter Array",
+    "country": "Chile",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 5058,
+    "aperture": "66 antennas (12m & 7m)",
+    "telescopes": [
+      "ALMA"
+    ],
+    "keyDiscoveries": [
+      "Protoplanetary disk structure",
+      "Molecular gas in early universe",
+      "First black hole image contribution"
+    ],
+    "location": "Atacama Large Millimeter/submillimeter Array, Chile",
+    "description": "The world's most powerful millimeter/submillimeter telescope array on the Chajnantor Plateau. 66 antennas achieve extraordinary resolution for studying cold cosmic objects.",
+    "geojson": "alma.geojson"
+  },
+  {
+    "code": "antares",
+    "name": "ANTARES Neutrino Telescope",
+    "country": "France",
+    "observatoryType": "Multi-messenger",
+    "status": "Decommissioned",
+    "elevation": -2475,
+    "aperture": "~0.01 km² (effective)",
+    "telescopes": [
+      "ANTARES"
+    ],
+    "keyDiscoveries": [
+      "Deep-sea neutrino detection techniques",
+      "Neutrino source limits",
+      "Multi-messenger follow-up"
+    ],
+    "location": "ANTARES Neutrino Telescope, France",
+    "description": "An undersea neutrino telescope in the Mediterranean off Toulon. Operated from 2008-2022 and pioneered deep-sea neutrino detection, succeeded by KM3NeT.",
+    "geojson": "antares.geojson"
+  },
+  {
+    "code": "apo",
+    "name": "Apache Point Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2788,
+    "aperture": "3.5 m",
+    "telescopes": [
+      "ARC 3.5m",
+      "SDSS 2.5m",
+      "ARCSAT"
+    ],
+    "keyDiscoveries": [
+      "Sloan Digital Sky Survey",
+      "3D galaxy mapping",
+      "Quasar catalogs"
+    ],
+    "location": "Apache Point Observatory, United States",
+    "description": "Home of the Sloan Digital Sky Survey telescope that created the most detailed three-dimensional maps of the universe, cataloging millions of galaxies and quasars.",
+    "geojson": "apo.geojson"
+  },
+  {
+    "code": "arcetri",
+    "name": "Arcetri Astrophysical Observatory",
+    "country": "Italy",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 184,
+    "aperture": "N/A (research institute)",
+    "telescopes": [
+      "Adaptive optics laboratory"
+    ],
+    "keyDiscoveries": [
+      "Adaptive optics innovations",
+      "Star formation studies",
+      "Infrared astronomy"
+    ],
+    "location": "Arcetri Astrophysical Observatory, Italy",
+    "description": "Historic INAF research institute in Florence, founded in 1872 near Galileo's last home. Leading center for adaptive optics development and infrared astronomy.",
+    "geojson": "arcetri.geojson"
+  },
+  {
+    "code": "arecibo",
+    "name": "Arecibo Observatory",
+    "country": "Puerto Rico",
+    "observatoryType": "Radio",
+    "status": "Decommissioned",
+    "elevation": 497,
+    "aperture": "305 m (collapsed 2020)",
+    "telescopes": [
+      "305m Arecibo Telescope (collapsed)",
+      "12m antenna"
+    ],
+    "keyDiscoveries": [
+      "Binary pulsar (Nobel Prize)",
+      "First exoplanets (around pulsar)",
+      "Arecibo Message"
+    ],
+    "location": "Arecibo Observatory, Puerto Rico",
+    "description": "The iconic 305m radio telescope collapsed in December 2020 after cable failures. Its discoveries included the first binary pulsar and first exoplanets around a pulsar.",
+    "geojson": "arecibo.geojson"
+  },
+  {
+    "code": "asiago",
+    "name": "Asiago Astrophysical Observatory",
+    "country": "Italy",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1045,
+    "aperture": "1.82 m",
+    "telescopes": [
+      "Copernico 1.82m",
+      "Schmidt 67/92"
+    ],
+    "keyDiscoveries": [
+      "Supernovae discoveries",
+      "Variable star monitoring",
+      "Asteroid discoveries"
+    ],
+    "location": "Asiago Astrophysical Observatory, Italy",
+    "description": "INAF observatory in the Veneto region of Italy, operating the Copernico telescope. Active in supernova searches and transient object classification.",
+    "geojson": "asiago.geojson"
+  },
+  {
+    "code": "askap-site",
+    "name": "ASKAP (Australian SKA Pathfinder)",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 377,
+    "aperture": "36 × 12 m dishes",
+    "telescopes": [
+      "ASKAP"
+    ],
+    "keyDiscoveries": [
+      "RACS all-sky survey",
+      "Fast radio burst detections",
+      "HI surveys"
+    ],
+    "location": "ASKAP (Australian SKA Pathfinder), Australia",
+    "description": "36-dish radio telescope array in Western Australia's Murchison region. ASKAP's phased array feeds provide an exceptionally wide field of view.",
+    "geojson": "askap-site.geojson"
+  },
+  {
+    "code": "atca",
+    "name": "Australia Telescope Compact Array",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 217,
+    "aperture": "6 × 22 m antennas",
+    "telescopes": [
+      "ATCA"
+    ],
+    "keyDiscoveries": [
+      "Radio supernovae",
+      "Hydrogen surveys",
+      "Magnetar radio emission"
+    ],
+    "location": "Australia Telescope Compact Array, Australia",
+    "description": "Six 22m antennas near Narrabri forming a radio interferometer. Part of the Australia Telescope National Facility for centimeter-wavelength observations.",
+    "geojson": "atca.geojson"
+  },
+  {
+    "code": "atlas-mauna-loa",
+    "name": "ATLAS Mauna Loa",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3397,
+    "aperture": "0.5 m",
+    "telescopes": [
+      "ATLAS-MLO"
+    ],
+    "keyDiscoveries": [
+      "Asteroid impact warnings",
+      "Near-Earth object discoveries",
+      "Supernovae discoveries"
+    ],
+    "location": "ATLAS Mauna Loa, United States",
+    "description": "Part of the Asteroid Terrestrial-impact Last Alert System network. Scans the entire visible sky every two nights for potentially hazardous asteroids.",
+    "geojson": "atlas-mauna-loa.geojson"
+  },
+  {
+    "code": "baikal-gvd",
+    "name": "Baikal-GVD",
+    "country": "Russia",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": -1366,
+    "aperture": "~0.4 km³ (growing)",
+    "telescopes": [
+      "Baikal-GVD"
+    ],
+    "keyDiscoveries": [
+      "Deep underwater neutrino detection",
+      "Neutrino event candidates",
+      "Lake-based detection technology"
+    ],
+    "location": "Baikal-GVD, Russia",
+    "description": "A deep underwater neutrino telescope in Lake Baikal, Siberia. Uses strings of optical modules at depths up to 1366m to detect high-energy neutrinos.",
+    "geojson": "baikal-gvd.geojson"
+  },
+  {
+    "code": "big-bear",
+    "name": "Big Bear Solar Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2060,
+    "aperture": "1.6 m (Goode Solar)",
+    "telescopes": [
+      "Goode Solar Telescope",
+      "Full-disk instruments"
+    ],
+    "keyDiscoveries": [
+      "Solar surface dynamics",
+      "Magnetic field evolution",
+      "Highest-resolution solar images"
+    ],
+    "location": "Big Bear Solar Observatory, United States",
+    "description": "Located on an island in Big Bear Lake to reduce atmospheric turbulence. The Goode Solar Telescope produces the highest-resolution images of the solar surface.",
+    "geojson": "big-bear.geojson"
+  },
+  {
+    "code": "bohyunsan",
+    "name": "Bohyunsan Optical Astronomy Observatory",
+    "country": "South Korea",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1124,
+    "aperture": "1.8 m",
+    "telescopes": [
+      "Bohyunsan 1.8m"
+    ],
+    "keyDiscoveries": [
+      "Gamma-ray burst follow-up",
+      "Galaxy photometry",
+      "Asteroid lightcurves"
+    ],
+    "location": "Bohyunsan Optical Astronomy Observatory, South Korea",
+    "description": "KASI's primary optical telescope at Bohyunsan in North Gyeongsang Province. South Korea's largest optical telescope for research observations.",
+    "geojson": "bohyunsan.geojson"
+  },
+  {
+    "code": "bok-telescope",
+    "name": "Steward Observatory (Bok Telescope)",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2071,
+    "aperture": "2.3 m (Bok)",
+    "telescopes": [
+      "Bok 2.3m",
+      "90Prime"
+    ],
+    "keyDiscoveries": [
+      "DESI target selection",
+      "Galaxy surveys",
+      "Photometric calibration"
+    ],
+    "location": "Steward Observatory (Bok Telescope), United States",
+    "description": "University of Arizona's Bok 2.3m telescope at Kitt Peak. Played a key role in target selection for the DESI dark energy experiment.",
+    "geojson": "bok-telescope.geojson"
+  },
+  {
+    "code": "bosque-alegre",
+    "name": "Bosque Alegre Astrophysical Station",
+    "country": "Argentina",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1250,
+    "aperture": "1.54 m",
+    "telescopes": [
+      "1.54m reflector"
+    ],
+    "keyDiscoveries": [
+      "Southern sky surveys",
+      "Supernovae observations",
+      "Galactic structure"
+    ],
+    "location": "Bosque Alegre Astrophysical Station, Argentina",
+    "description": "The observing station of Córdoba Observatory in the Sierras de Córdoba mountains. Argentina's main optical facility for decades.",
+    "geojson": "bosque-alegre.geojson"
+  },
+  {
+    "code": "bosscha",
+    "name": "Bosscha Observatory",
+    "country": "Indonesia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1310,
+    "aperture": "0.6 m (Zeiss)",
+    "telescopes": [
+      "Zeiss double refractor",
+      "Bima Sakti Schmidt"
+    ],
+    "keyDiscoveries": [
+      "Southern stellar surveys",
+      "Double star catalogs",
+      "Solar eclipses"
+    ],
+    "location": "Bosscha Observatory, Indonesia",
+    "description": "Indonesia's oldest modern observatory, founded in 1923 in Lembang. Operated by the Bandung Institute of Technology for research and education.",
+    "geojson": "bosscha.geojson"
+  },
+  {
+    "code": "byurakan",
+    "name": "Byurakan Astrophysical Observatory",
+    "country": "Armenia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1490,
+    "aperture": "2.6 m",
+    "telescopes": [
+      "2.6m telescope",
+      "1m Schmidt"
+    ],
+    "keyDiscoveries": [
+      "Markarian galaxies",
+      "Flare star surveys",
+      "UV-excess galaxy survey"
+    ],
+    "location": "Byurakan Astrophysical Observatory, Armenia",
+    "description": "Founded by Viktor Ambartsumian. The Markarian Survey discovered UV-excess galaxies, fundamentally advancing understanding of active galactic nuclei.",
+    "geojson": "byurakan.geojson"
+  },
+  {
+    "code": "calar-alto",
+    "name": "Calar Alto Observatory",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2168,
+    "aperture": "3.5 m",
+    "telescopes": [
+      "3.5m",
+      "2.2m",
+      "1.23m",
+      "CARMENES"
+    ],
+    "keyDiscoveries": [
+      "Exoplanets around M dwarfs (CARMENES)",
+      "Galaxy surveys",
+      "Asteroid tracking"
+    ],
+    "location": "Calar Alto Observatory, Spain",
+    "description": "The largest astronomical observatory in continental Europe, located in Andalusia. The CARMENES spectrograph surveys nearby red dwarfs for exoplanets.",
+    "geojson": "calar-alto.geojson"
+  },
+  {
+    "code": "ceduna",
+    "name": "Ceduna Radio Observatory",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 155,
+    "aperture": "30 m",
+    "telescopes": [
+      "Ceduna 30m"
+    ],
+    "keyDiscoveries": [
+      "VLBI observations",
+      "AGN monitoring",
+      "Spacecraft tracking"
+    ],
+    "location": "Ceduna Radio Observatory, Australia",
+    "description": "University of Tasmania radio telescope in South Australia. Provides critical long baselines for Australian and southern hemisphere VLBI observations.",
+    "geojson": "ceduna.geojson"
+  },
+  {
+    "code": "cerro-armazones",
+    "name": "Cerro Armazones Observatory Site",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Under Construction",
+    "elevation": 3064,
+    "aperture": "39.3 m (ELT)",
+    "telescopes": [
+      "ELT (under construction)"
+    ],
+    "keyDiscoveries": [
+      "Expected: Revolutionary first light",
+      "Exoplanet direct imaging",
+      "First stars"
+    ],
+    "location": "Cerro Armazones Observatory Site, Chile",
+    "description": "ESO's chosen site for the Extremely Large Telescope, 20 km from Paranal. The mountain peak was leveled to create the telescope platform.",
+    "geojson": "cerro-armazones.geojson"
+  },
+  {
+    "code": "cerro-murphy",
+    "name": "Cerro Murphy Observatory",
+    "country": "Namibia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1800,
+    "aperture": "0.6 m",
+    "telescopes": [
+      "IAS 0.6m",
+      "Various"
+    ],
+    "keyDiscoveries": [
+      "Variable star monitoring",
+      "Exoplanet transits",
+      "Southern sky surveys"
+    ],
+    "location": "Cerro Murphy Observatory, Namibia",
+    "description": "Observatory site in the Namibian highlands with exceptional seeing and dark skies, operated by the International Amateur Sternwarte.",
+    "geojson": "cerro-murphy.geojson"
+  },
+  {
+    "code": "cerro-pachon",
+    "name": "Cerro Pachón",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2722,
+    "aperture": "8.1 m (Gemini South)",
+    "telescopes": [
+      "Gemini South",
+      "SOAR 4.1m"
+    ],
+    "keyDiscoveries": [
+      "Southern sky surveys",
+      "Compact object studies",
+      "Adaptive optics imaging"
+    ],
+    "location": "Cerro Pachón, Chile",
+    "description": "Mountain-top observatory in the Chilean Andes hosting Gemini South and SOAR telescopes. Future site of the Vera C. Rubin Observatory.",
+    "geojson": "cerro-pachon.geojson"
+  },
+  {
+    "code": "cfht",
+    "name": "Canada-France-Hawaii Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4204,
+    "aperture": "3.6 m",
+    "telescopes": [
+      "CFHT",
+      "MegaCam",
+      "SPIRou"
+    ],
+    "keyDiscoveries": [
+      "CFHT Legacy Survey",
+      "Kuiper Belt discoveries",
+      "Stellar magnetism"
+    ],
+    "location": "Canada-France-Hawaii Telescope, United States",
+    "description": "A 3.6m telescope on Mauna Kea operated by Canada, France, and Hawaii. Known for wide-field imaging surveys and the MegaCam instrument.",
+    "geojson": "cfht.geojson"
+  },
+  {
+    "code": "chandra-cxc",
+    "name": "Chandra X-ray Center",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 10,
+    "aperture": "Chandra: 1.2 m (X-ray)",
+    "telescopes": [
+      "Chandra X-ray Observatory"
+    ],
+    "keyDiscoveries": [
+      "Black hole accretion",
+      "Dark energy evidence",
+      "Supernova remnant structure"
+    ],
+    "location": "Chandra X-ray Center, United States",
+    "description": "Science operations center at the Smithsonian Astrophysical Observatory in Cambridge, MA. Chandra provides the sharpest X-ray images of the cosmos.",
+    "geojson": "chandra-cxc.geojson"
+  },
+  {
+    "code": "cote-dazur",
+    "name": "Observatoire de la Côte d'Azur",
+    "country": "France",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 372,
+    "aperture": "1.5 m",
+    "telescopes": [
+      "1.5m reflector",
+      "Lunar laser ranging"
+    ],
+    "keyDiscoveries": [
+      "Asteroid studies",
+      "Lunar distance measurements",
+      "Geodesy"
+    ],
+    "location": "Observatoire de la Côte d'Azur, France",
+    "description": "French observatory near Nice combining astronomy, geodesy, and geophysics research. Operates a satellite and lunar laser ranging station.",
+    "geojson": "cote-dazur.geojson"
+  },
+  {
+    "code": "cta-north",
+    "name": "Cherenkov Telescope Array North",
+    "country": "Spain",
+    "observatoryType": "Multi-messenger",
+    "status": "Under Construction",
+    "elevation": 2200,
+    "aperture": "4 LSTs + 9 MSTs",
+    "telescopes": [
+      "LST-1",
+      "CTA-North"
+    ],
+    "keyDiscoveries": [
+      "Expected: Dark matter annihilation",
+      "Gamma-ray sources",
+      "Cosmic ray origin"
+    ],
+    "location": "Cherenkov Telescope Array North, Spain",
+    "description": "The Northern Hemisphere site of CTA at La Palma. LST-1 is already operational and has detected its first gamma-ray sources.",
+    "geojson": "cta-north.geojson"
+  },
+  {
+    "code": "cta-south",
+    "name": "Cherenkov Telescope Array South",
+    "country": "Chile",
+    "observatoryType": "Multi-messenger",
+    "status": "Under Construction",
+    "elevation": 2100,
+    "aperture": "14 MSTs + 37 SSTs",
+    "telescopes": [
+      "CTA-South"
+    ],
+    "keyDiscoveries": [
+      "Expected: Pevatron identification",
+      "Gamma-ray transients",
+      "Particle acceleration mechanisms"
+    ],
+    "location": "Cherenkov Telescope Array South, Chile",
+    "description": "The Southern Hemisphere CTA site near Paranal, Chile. Will have over 50 telescopes spanning three sizes for comprehensive gamma-ray sky coverage.",
+    "geojson": "cta-south.geojson"
+  },
+  {
+    "code": "ctio",
+    "name": "Cerro Tololo Inter-American Observatory",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2215,
+    "aperture": "4 m",
+    "telescopes": [
+      "Blanco 4m",
+      "DECam",
+      "SOAR"
+    ],
+    "keyDiscoveries": [
+      "Dark Energy Survey",
+      "Cosmic shear measurements",
+      "Near-Earth asteroids"
+    ],
+    "location": "Cerro Tololo Inter-American Observatory, Chile",
+    "description": "NOIRLab facility in the Chilean Andes. The Blanco telescope with DECam has been pivotal for the Dark Energy Survey and gravitational wave follow-up.",
+    "geojson": "ctio.geojson"
+  },
+  {
+    "code": "danish-telescope",
+    "name": "Danish 1.54m Telescope",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2340,
+    "aperture": "1.54 m",
+    "telescopes": [
+      "Danish 1.54m"
+    ],
+    "keyDiscoveries": [
+      "Gravitational microlensing",
+      "Exoplanet searches",
+      "Stellar photometry"
+    ],
+    "location": "Danish 1.54m Telescope, Chile",
+    "description": "A Danish telescope at ESO La Silla used for photometry and lucky imaging. Part of the MiNDSTEp microlensing network searching for exoplanets.",
+    "geojson": "danish-telescope.geojson"
+  },
+  {
+    "code": "dao",
+    "name": "Dominion Astrophysical Observatory",
+    "country": "Canada",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 229,
+    "aperture": "1.82 m (Plaskett)",
+    "telescopes": [
+      "Plaskett 1.82m",
+      "1.22m"
+    ],
+    "keyDiscoveries": [
+      "Radial velocity catalogs",
+      "Binary star orbits",
+      "Interstellar medium"
+    ],
+    "location": "Dominion Astrophysical Observatory, Canada",
+    "description": "NRC Herzberg facility in Victoria, BC. The Plaskett telescope contributed fundamental data on stellar radial velocities and binary star systems.",
+    "geojson": "dao.geojson"
+  },
+  {
+    "code": "devasthal",
+    "name": "Devasthal Observatory",
+    "country": "India",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2450,
+    "aperture": "3.6 m (DOT)",
+    "telescopes": [
+      "Devasthal Optical Telescope 3.6m",
+      "ILMT",
+      "ST 1.3m"
+    ],
+    "keyDiscoveries": [
+      "International Liquid Mirror Telescope observations",
+      "Transient surveys",
+      "Galaxy studies"
+    ],
+    "location": "Devasthal Observatory, India",
+    "description": "ARIES observatory hosting Asia's largest optical telescope (3.6m DOT) and the first astronomical liquid mirror telescope (ILMT).",
+    "geojson": "devasthal.geojson"
+  },
+  {
+    "code": "dkist",
+    "name": "Daniel K. Inouye Solar Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3084,
+    "aperture": "4 m",
+    "telescopes": [
+      "DKIST"
+    ],
+    "keyDiscoveries": [
+      "Highest-resolution solar images ever",
+      "Magnetic field mapping",
+      "Solar corona studies"
+    ],
+    "location": "Daniel K. Inouye Solar Telescope, United States",
+    "description": "The world's largest solar telescope on Haleakalā, Maui. Its 4m aperture resolves features as small as 20 km on the Sun's surface.",
+    "geojson": "dkist.geojson"
+  },
+  {
+    "code": "doi-inthanon-national",
+    "name": "Doi Inthanon Observatory Complex",
+    "country": "Thailand",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2457,
+    "aperture": "0.5 m (robotic)",
+    "telescopes": [
+      "0.5m robotic",
+      "Thai National Telescope"
+    ],
+    "keyDiscoveries": [
+      "Variable star monitoring",
+      "Exoplanet transits",
+      "Transient follow-up"
+    ],
+    "location": "Doi Inthanon Observatory Complex, Thailand",
+    "description": "NARIT observatory complex at Doi Inthanon. Besides the 2.4m Thai National Telescope, hosts smaller robotic telescopes for continuous monitoring.",
+    "geojson": "doi-inthanon-national.geojson"
+  },
+  {
+    "code": "drao",
+    "name": "Dominion Radio Astrophysical Observatory",
+    "country": "Canada",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 546,
+    "aperture": "26 m + Synthesis Array",
+    "telescopes": [
+      "26m dish",
+      "Synthesis Telescope",
+      "CHIME"
+    ],
+    "keyDiscoveries": [
+      "CHIME fast radio bursts",
+      "Hydrogen Intensity Mapping",
+      "Radio transient catalog"
+    ],
+    "location": "Dominion Radio Astrophysical Observatory, Canada",
+    "description": "NRC facility in Penticton, BC. Home of CHIME, the Canadian Hydrogen Intensity Mapping Experiment, which has detected hundreds of fast radio bursts.",
+    "geojson": "drao.geojson"
+  },
+  {
+    "code": "effelsberg",
+    "name": "Effelsberg Radio Telescope",
+    "country": "Germany",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 319,
+    "aperture": "100 m",
+    "telescopes": [
+      "Effelsberg 100m"
+    ],
+    "keyDiscoveries": [
+      "Molecular masers",
+      "Polarization of cosmic sources",
+      "Pulsar timing"
+    ],
+    "location": "Effelsberg Radio Telescope, Germany",
+    "description": "A 100m radio telescope near Bonn operated by the Max Planck Institute for Radio Astronomy. One of the largest fully steerable radio telescopes in the world.",
+    "geojson": "effelsberg.geojson"
+  },
+  {
+    "code": "einstein-probe",
+    "name": "Einstein Probe Operations",
+    "country": "China",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 960,
+    "aperture": "Lobster-eye X-ray optics",
+    "telescopes": [
+      "Einstein Probe"
+    ],
+    "keyDiscoveries": [
+      "X-ray transient discoveries",
+      "Tidal disruption events",
+      "Electromagnetic counterparts to gravitational waves"
+    ],
+    "location": "Einstein Probe Operations, China",
+    "description": "Chinese Academy of Sciences X-ray satellite launched in 2024, monitoring the sky for X-ray transients with novel lobster-eye optics. Discovering previously unseen X-ray phenomena.",
+    "geojson": "einstein-probe.geojson"
+  },
+  {
+    "code": "einstein-tower",
+    "name": "Einstein Tower Solar Observatory",
+    "country": "Germany",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 100,
+    "aperture": "0.6 m solar",
+    "telescopes": [
+      "Einstein Tower Solar Telescope"
+    ],
+    "keyDiscoveries": [
+      "Solar spectroscopy",
+      "Gravitational redshift attempts",
+      "Solar physics heritage"
+    ],
+    "location": "Einstein Tower Solar Observatory, Germany",
+    "description": "Expressionist tower telescope designed by Erich Mendelsohn in 1924 at the Leibniz Institute for Astrophysics Potsdam. An architectural and scientific landmark.",
+    "geojson": "einstein-tower.geojson"
+  },
+  {
+    "code": "elt",
+    "name": "Extremely Large Telescope",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Under Construction",
+    "elevation": 3046,
+    "aperture": "39.3 m",
+    "telescopes": [
+      "ELT"
+    ],
+    "keyDiscoveries": [
+      "Expected: Exoplanet atmospheres",
+      "First light objects",
+      "Dark energy"
+    ],
+    "location": "Extremely Large Telescope, Chile",
+    "description": "ESO's next-generation telescope at Cerro Armazones, the world's largest optical/infrared telescope. First light expected around 2028.",
+    "geojson": "elt.geojson"
+  },
+  {
+    "code": "esac",
+    "name": "European Space Astronomy Centre",
+    "country": "Spain",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 770,
+    "aperture": "Multiple missions",
+    "telescopes": [
+      "XMM-Newton",
+      "Gaia",
+      "Euclid",
+      "INTEGRAL"
+    ],
+    "keyDiscoveries": [
+      "Gaia stellar catalog (2 billion stars)",
+      "Galaxy X-ray surveys",
+      "Dark universe mapping"
+    ],
+    "location": "European Space Astronomy Centre, Spain",
+    "description": "ESA's space science operations center near Madrid. Manages XMM-Newton, Gaia, Euclid, and INTEGRAL missions, producing the most detailed star map ever.",
+    "geojson": "esac.geojson"
+  },
+  {
+    "code": "eso-hq",
+    "name": "European Southern Observatory HQ",
+    "country": "Germany",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 530,
+    "aperture": "N/A (headquarters)",
+    "telescopes": [
+      "HQ and Science Archive"
+    ],
+    "keyDiscoveries": [
+      "Coordination of ESO programs",
+      "Data archive and pipelines",
+      "Instrument development"
+    ],
+    "location": "European Southern Observatory HQ, Germany",
+    "description": "ESO headquarters in Garching near Munich. Coordinates operations of La Silla, Paranal, ALMA, and the Extremely Large Telescope construction.",
+    "geojson": "eso-hq.geojson"
+  },
+  {
+    "code": "euler",
+    "name": "Swiss 1.2m Euler Telescope",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2375,
+    "aperture": "1.2 m",
+    "telescopes": [
+      "Euler",
+      "CORALIE"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet discoveries (CORALIE)",
+      "Transiting planet confirmation",
+      "Stellar chemical abundances"
+    ],
+    "location": "Swiss 1.2m Euler Telescope, Chile",
+    "description": "Geneva Observatory telescope at La Silla. CORALIE spectrograph has discovered and characterized numerous exoplanets, complementing the HARPS program.",
+    "geojson": "euler.geojson"
+  },
+  {
+    "code": "fast",
+    "name": "Five-hundred-meter Aperture Spherical Telescope",
+    "country": "China",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1000,
+    "aperture": "500 m",
+    "telescopes": [
+      "FAST"
+    ],
+    "keyDiscoveries": [
+      "Hundreds of new pulsars",
+      "Fast radio burst detections",
+      "Neutral hydrogen studies"
+    ],
+    "location": "Five-hundred-meter Aperture Spherical Telescope, China",
+    "description": "The world's largest single-dish radio telescope in Guizhou province. With its 500m aperture, it has discovered hundreds of new pulsars since becoming operational in 2020.",
+    "geojson": "fast.geojson"
+  },
+  {
+    "code": "flwo",
+    "name": "Fred Lawrence Whipple Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2606,
+    "aperture": "1.5 m",
+    "telescopes": [
+      "Tillinghast 1.5m",
+      "MEarth",
+      "VERITAS"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet transit detections",
+      "M-dwarf planet searches",
+      "Very-high-energy gamma rays"
+    ],
+    "location": "Fred Lawrence Whipple Observatory, United States",
+    "description": "Smithsonian Astrophysical Observatory facility on Mount Hopkins, Arizona. VERITAS array detects very-high-energy gamma rays from cosmic sources.",
+    "geojson": "flwo.geojson"
+  },
+  {
+    "code": "gao-xinjiang",
+    "name": "Nanshan Station (Xinjiang Astronomical Observatory)",
+    "country": "China",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2080,
+    "aperture": "1 m",
+    "telescopes": [
+      "1m optical",
+      "26m radio"
+    ],
+    "keyDiscoveries": [
+      "Satellite laser ranging",
+      "Space debris tracking",
+      "Variable stars"
+    ],
+    "location": "Nanshan Station (Xinjiang Astronomical Observatory), China",
+    "description": "CAS Xinjiang Astronomical Observatory's Nanshan station near Urumqi. Conducts both optical and radio observations with multiple instruments.",
+    "geojson": "gao-xinjiang.geojson"
+  },
+  {
+    "code": "gemini-north",
+    "name": "Gemini North",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4213,
+    "aperture": "8.1 m",
+    "telescopes": [
+      "Gemini North"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet atmospheres",
+      "Brown dwarf studies",
+      "Galaxy evolution"
+    ],
+    "location": "Gemini North, United States",
+    "description": "Part of the international Gemini Observatory on Mauna Kea. Optimized for infrared observations with a silver-coated primary mirror.",
+    "geojson": "gemini-north.geojson"
+  },
+  {
+    "code": "gemini-observatory-hq",
+    "name": "Gemini Observatory HQ",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4213,
+    "aperture": "2 × 8.1 m (N+S)",
+    "telescopes": [
+      "Gemini North",
+      "Gemini South"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet imaging",
+      "Galaxy dynamics",
+      "Transient spectroscopy"
+    ],
+    "location": "Gemini Observatory HQ, United States",
+    "description": "International Gemini Observatory operated by NOIRLab. The twin 8.1m telescopes provide full-sky coverage for the Gemini partnership of seven nations.",
+    "geojson": "gemini-observatory-hq.geojson"
+  },
+  {
+    "code": "gemini-south",
+    "name": "Gemini South",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2722,
+    "aperture": "8.1 m",
+    "telescopes": [
+      "Gemini South"
+    ],
+    "keyDiscoveries": [
+      "Planetary system architectures",
+      "Galactic center observations",
+      "Supernovae studies"
+    ],
+    "location": "Gemini South, Chile",
+    "description": "The southern twin of Gemini North at Cerro Pachón, Chile. Together they provide full-sky coverage for the international Gemini partnership.",
+    "geojson": "gemini-south.geojson"
+  },
+  {
+    "code": "geo600",
+    "name": "GEO600",
+    "country": "Germany",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 58,
+    "aperture": "600 m arms",
+    "telescopes": [
+      "GEO600"
+    ],
+    "keyDiscoveries": [
+      "Squeezed light technology",
+      "GW detector technology development",
+      "Signal recycling"
+    ],
+    "location": "GEO600, Germany",
+    "description": "German-British gravitational wave detector near Hannover. A testbed for advanced technologies later adopted by LIGO and Virgo.",
+    "geojson": "geo600.geojson"
+  },
+  {
+    "code": "gmrt",
+    "name": "Giant Metrewave Radio Telescope",
+    "country": "India",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 650,
+    "aperture": "30 × 45 m dishes",
+    "telescopes": [
+      "uGMRT"
+    ],
+    "keyDiscoveries": [
+      "Low-frequency radio surveys",
+      "Pulsars",
+      "Galaxy clusters"
+    ],
+    "location": "Giant Metrewave Radio Telescope, India",
+    "description": "Array of 30 dishes near Pune, India. After upgrade to uGMRT, it is the world's most sensitive radio telescope at meter wavelengths.",
+    "geojson": "gmrt.geojson"
+  },
+  {
+    "code": "gmt",
+    "name": "Giant Magellan Telescope",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Under Construction",
+    "elevation": 2516,
+    "aperture": "25.4 m (equivalent)",
+    "telescopes": [
+      "GMT"
+    ],
+    "keyDiscoveries": [
+      "Expected: Biosignatures in exoplanet atmospheres",
+      "Cosmic dawn",
+      "Dark matter"
+    ],
+    "location": "Giant Magellan Telescope, Chile",
+    "description": "Seven 8.4m mirrors forming a 25.4m equivalent aperture at Las Campanas. Under construction with first light expected around 2029.",
+    "geojson": "gmt.geojson"
+  },
+  {
+    "code": "goldstone",
+    "name": "Goldstone Deep Space Communications Complex",
+    "country": "United States",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1031,
+    "aperture": "70 m (DSS-14)",
+    "telescopes": [
+      "DSS-14 70m",
+      "Various DSN dishes"
+    ],
+    "keyDiscoveries": [
+      "Asteroid radar imaging",
+      "Deep space communication",
+      "Planetary radar mapping"
+    ],
+    "location": "Goldstone Deep Space Communications Complex, United States",
+    "description": "Part of NASA's Deep Space Network in the Mojave Desert. DSS-14 is used for both spacecraft communication and planetary radar astronomy.",
+    "geojson": "goldstone.geojson"
+  },
+  {
+    "code": "green-bank",
+    "name": "Green Bank Observatory",
+    "country": "United States",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 807,
+    "aperture": "100 m",
+    "telescopes": [
+      "Robert C. Byrd GBT"
+    ],
+    "keyDiscoveries": [
+      "Pulsars",
+      "Interstellar molecules",
+      "Fast radio burst studies"
+    ],
+    "location": "Green Bank Observatory, United States",
+    "description": "Home of the world's largest fully steerable radio telescope (100m GBT) in the National Radio Quiet Zone of West Virginia.",
+    "geojson": "green-bank.geojson"
+  },
+  {
+    "code": "gsfc-fermi",
+    "name": "Goddard Space Flight Center (Fermi)",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 50,
+    "aperture": "Fermi LAT: 1.8 m × 1.8 m",
+    "telescopes": [
+      "Fermi Gamma-ray Space Telescope"
+    ],
+    "keyDiscoveries": [
+      "Gamma-ray sky catalog",
+      "Fermi Bubbles",
+      "Millisecond pulsar population"
+    ],
+    "location": "Goddard Space Flight Center (Fermi), United States",
+    "description": "NASA GSFC manages Fermi, which surveys the gamma-ray sky. Discovered enormous gamma-ray structures extending above and below the Milky Way's center.",
+    "geojson": "gsfc-fermi.geojson"
+  },
+  {
+    "code": "gtc",
+    "name": "Gran Telescopio Canarias",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2267,
+    "aperture": "10.4 m",
+    "telescopes": [
+      "GTC"
+    ],
+    "keyDiscoveries": [
+      "Farthest galaxy spectroscopy",
+      "Transient event follow-up",
+      "Exoplanet characterization"
+    ],
+    "location": "Gran Telescopio Canarias, Spain",
+    "description": "The world's largest single-aperture optical telescope, located at the Roque de los Muchachos Observatory in La Palma, Canary Islands.",
+    "geojson": "gtc.geojson"
+  },
+  {
+    "code": "haleakala",
+    "name": "Haleakalā Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3055,
+    "aperture": "Various",
+    "telescopes": [
+      "DKIST",
+      "Pan-STARRS",
+      "Faulkes North",
+      "ATLAS"
+    ],
+    "keyDiscoveries": [
+      "Pan-STARRS sky surveys",
+      "Near-Earth object discoveries",
+      "Interstellar object 'Oumuamua"
+    ],
+    "location": "Haleakalā Observatory, United States",
+    "description": "Multi-telescope facility on Maui hosting DKIST, Pan-STARRS, and ATLAS survey telescopes. Pan-STARRS discovered the first known interstellar object, 'Oumuamua.",
+    "geojson": "haleakala.geojson"
+  },
+  {
+    "code": "hamburg",
+    "name": "Hamburg Observatory",
+    "country": "Germany",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 41,
+    "aperture": "1.2 m",
+    "telescopes": [
+      "1.2m reflector",
+      "Schmidt telescope"
+    ],
+    "keyDiscoveries": [
+      "Hamburg/ESO Survey",
+      "Quasar surveys",
+      "Stellar spectral classification"
+    ],
+    "location": "Hamburg Observatory, Germany",
+    "description": "University of Hamburg facility in Bergedorf. Conducted the Hamburg Quasar Survey discovering thousands of quasars and rare stellar objects.",
+    "geojson": "hamburg.geojson"
+  },
+  {
+    "code": "hanle",
+    "name": "Indian Astronomical Observatory",
+    "country": "India",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4500,
+    "aperture": "2 m (HCT)",
+    "telescopes": [
+      "Himalayan Chandra 2m",
+      "GROWTH-India",
+      "MACE"
+    ],
+    "keyDiscoveries": [
+      "Gamma-ray astronomy",
+      "Transient follow-up",
+      "High-altitude site characterization"
+    ],
+    "location": "Indian Astronomical Observatory, India",
+    "description": "One of the world's highest observatory sites in Ladakh. Remote-operated 2m telescope and MACE gamma-ray telescope benefit from the dry, high-altitude conditions.",
+    "geojson": "hanle.geojson"
+  },
+  {
+    "code": "hartebeesthoek",
+    "name": "Hartebeesthoek Radio Astronomy Observatory",
+    "country": "South Africa",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1391,
+    "aperture": "26 m",
+    "telescopes": [
+      "26m HartRAO"
+    ],
+    "keyDiscoveries": [
+      "Geodesy measurements",
+      "Pulsar monitoring",
+      "VLBI observations"
+    ],
+    "location": "Hartebeesthoek Radio Astronomy Observatory, South Africa",
+    "description": "South Africa's first radio astronomy observatory. The 26m telescope is a key southern VLBI station and conducts pulsar timing and maser observations.",
+    "geojson": "hartebeesthoek.geojson"
+  },
+  {
+    "code": "haute-provence",
+    "name": "Observatoire de Haute-Provence",
+    "country": "France",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 650,
+    "aperture": "1.93 m",
+    "telescopes": [
+      "1.93m",
+      "1.52m",
+      "1.20m"
+    ],
+    "keyDiscoveries": [
+      "First exoplanet around sun-like star (51 Peg b)",
+      "Stellar spectroscopy",
+      "Comet studies"
+    ],
+    "location": "Observatoire de Haute-Provence, France",
+    "description": "Historic French observatory where Mayor and Queloz discovered 51 Pegasi b in 1995, the first exoplanet orbiting a sun-like star, earning the 2019 Nobel Prize.",
+    "geojson": "haute-provence.geojson"
+  },
+  {
+    "code": "hawc",
+    "name": "HAWC Observatory",
+    "country": "Mexico",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 4100,
+    "aperture": "300 water Cherenkov detectors",
+    "telescopes": [
+      "HAWC"
+    ],
+    "keyDiscoveries": [
+      "Extended gamma-ray sources",
+      "Cosmic ray anisotropy",
+      "Multi-TeV gamma-ray sky"
+    ],
+    "location": "HAWC Observatory, Mexico",
+    "description": "High-Altitude Water Cherenkov observatory on the slopes of Sierra Negra volcano. 300 large water tanks detect air showers from gamma rays and cosmic rays 24/7.",
+    "geojson": "hawc.geojson"
+  },
+  {
+    "code": "haystack",
+    "name": "Haystack Observatory",
+    "country": "United States",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 116,
+    "aperture": "37 m",
+    "telescopes": [
+      "Haystack 37m",
+      "Westford 18m"
+    ],
+    "keyDiscoveries": [
+      "Event Horizon Telescope contribution",
+      "VLBI techniques",
+      "Atmospheric research"
+    ],
+    "location": "Haystack Observatory, United States",
+    "description": "MIT Lincoln Laboratory research facility. Major contributor to the Event Horizon Telescope and pioneer of VLBI techniques.",
+    "geojson": "haystack.geojson"
+  },
+  {
+    "code": "helwan",
+    "name": "Helwan Observatory",
+    "country": "Egypt",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 116,
+    "aperture": "1.88 m (Kottamia)",
+    "telescopes": [
+      "Kottamia 1.88m",
+      "Helwan reflector"
+    ],
+    "keyDiscoveries": [
+      "Variable star observations",
+      "Asteroid astrometry",
+      "Stellar spectroscopy"
+    ],
+    "location": "Helwan Observatory, Egypt",
+    "description": "Egypt's national observatory, now centered at the Kottamia Astronomical Observatory. The 1.88m telescope is the largest in the Middle East and North Africa.",
+    "geojson": "helwan.geojson"
+  },
+  {
+    "code": "hess",
+    "name": "H.E.S.S.",
+    "country": "Namibia",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 1800,
+    "aperture": "4 × 12 m + 1 × 28 m",
+    "telescopes": [
+      "H.E.S.S. I",
+      "H.E.S.S. II"
+    ],
+    "keyDiscoveries": [
+      "Galactic Center gamma-ray source",
+      "Gamma-ray sources catalog",
+      "Cosmic ray PeVatrons"
+    ],
+    "location": "H.E.S.S., Namibia",
+    "description": "High Energy Stereoscopic System in the Namibian Khomas Highland. Five Cherenkov telescopes mapping the very-high-energy gamma-ray sky of the Southern Hemisphere.",
+    "geojson": "hess.geojson"
+  },
+  {
+    "code": "het",
+    "name": "Hobby-Eberly Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2026,
+    "aperture": "10 m (effective 9.2 m)",
+    "telescopes": [
+      "HET"
+    ],
+    "keyDiscoveries": [
+      "HETDEX dark energy survey",
+      "Exoplanet discoveries",
+      "Black hole masses"
+    ],
+    "location": "Hobby-Eberly Telescope, United States",
+    "description": "A 10m segmented-mirror telescope at McDonald Observatory, Texas. Designed for spectroscopy with a fixed altitude angle and tracking by moving the instrument package.",
+    "geojson": "het.geojson"
+  },
+  {
+    "code": "icecube",
+    "name": "IceCube Neutrino Observatory",
+    "country": "Antarctica",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 2835,
+    "aperture": "1 km³ ice volume",
+    "telescopes": [
+      "IceCube",
+      "DeepCore"
+    ],
+    "keyDiscoveries": [
+      "Cosmic neutrino detection",
+      "Neutrino source identification (TXS 0506+056)",
+      "Neutrino oscillations"
+    ],
+    "location": "IceCube Neutrino Observatory, Antarctica",
+    "description": "A cubic-kilometer neutrino detector embedded in Antarctic ice at the South Pole. Detected the first identified source of high-energy cosmic neutrinos.",
+    "geojson": "icecube.geojson"
+  },
+  {
+    "code": "indian-deep-space",
+    "name": "Indian Deep Space Network",
+    "country": "India",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 821,
+    "aperture": "32 m + 18 m",
+    "telescopes": [
+      "DSN 32m",
+      "DSN 18m"
+    ],
+    "keyDiscoveries": [
+      "Chandrayaan/Mangalyaan support",
+      "VLBI participation",
+      "Spacecraft tracking"
+    ],
+    "location": "Indian Deep Space Network, India",
+    "description": "ISRO's Deep Space Network at Byalalu near Bangalore. The 32m dish supports India's interplanetary missions and participates in radio astronomy.",
+    "geojson": "indian-deep-space.geojson"
+  },
+  {
+    "code": "int",
+    "name": "Isaac Newton Telescope",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2336,
+    "aperture": "2.54 m",
+    "telescopes": [
+      "INT",
+      "WFC"
+    ],
+    "keyDiscoveries": [
+      "IPHAS survey",
+      "Photometric surveys",
+      "Planetary nebulae catalogs"
+    ],
+    "location": "Isaac Newton Telescope, Spain",
+    "description": "Part of the Isaac Newton Group on La Palma. The Wide Field Camera has been used for major photometric surveys of the northern galactic plane.",
+    "geojson": "int.geojson"
+  },
+  {
+    "code": "ipac",
+    "name": "IPAC at Caltech",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 253,
+    "aperture": "Spitzer: 0.85 m / WISE: 0.4 m",
+    "telescopes": [
+      "Spitzer (retired)",
+      "WISE/NEOWISE",
+      "Euclid US Center"
+    ],
+    "keyDiscoveries": [
+      "Infrared universe surveys",
+      "TRAPPIST-1 transit timing (Spitzer)",
+      "Near-Earth object catalog"
+    ],
+    "location": "IPAC at Caltech, United States",
+    "description": "Caltech's Infrared Processing and Analysis Center. Science center for Spitzer (retired 2020), WISE/NEOWISE, and the US Euclid data center.",
+    "geojson": "ipac.geojson"
+  },
+  {
+    "code": "iram-30m",
+    "name": "IRAM 30m Telescope",
+    "country": "Spain",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 2850,
+    "aperture": "30 m",
+    "telescopes": [
+      "IRAM 30m"
+    ],
+    "keyDiscoveries": [
+      "Molecular gas in distant galaxies",
+      "Interstellar chemistry",
+      "Event Horizon Telescope contribution"
+    ],
+    "location": "IRAM 30m Telescope, Spain",
+    "description": "The largest millimeter-wave telescope in the Northern Hemisphere, located in the Sierra Nevada. A key station for the Event Horizon Telescope.",
+    "geojson": "iram-30m.geojson"
+  },
+  {
+    "code": "javalambre",
+    "name": "Observatorio Astrofísico de Javalambre",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1957,
+    "aperture": "2.55 m (JST250)",
+    "telescopes": [
+      "JST250",
+      "JAST80",
+      "J-PAS camera"
+    ],
+    "keyDiscoveries": [
+      "J-PAS photometric survey",
+      "Galaxy evolution studies",
+      "Cosmological constraints"
+    ],
+    "location": "Observatorio Astrofísico de Javalambre, Spain",
+    "description": "CEFCA observatory in Teruel designed for large-scale photometric surveys. The J-PAS survey will map hundreds of millions of galaxies with 56 narrowband filters.",
+    "geojson": "javalambre.geojson"
+  },
+  {
+    "code": "jcmt",
+    "name": "James Clerk Maxwell Telescope",
+    "country": "United Kingdom",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 4092,
+    "aperture": "15 m",
+    "telescopes": [
+      "JCMT",
+      "SCUBA-2"
+    ],
+    "keyDiscoveries": [
+      "Submillimeter galaxy populations",
+      "Debris disks around stars",
+      "Event Horizon Telescope contribution"
+    ],
+    "location": "James Clerk Maxwell Telescope, United Kingdom",
+    "description": "The world's largest single-dish submillimeter telescope on Mauna Kea. SCUBA-2 camera revealed populations of dust-obscured galaxies in the early universe.",
+    "geojson": "jcmt.geojson"
+  },
+  {
+    "code": "jodrell-bank",
+    "name": "Jodrell Bank Observatory",
+    "country": "United Kingdom",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 77,
+    "aperture": "76.2 m (Lovell)",
+    "telescopes": [
+      "Lovell Telescope",
+      "Mark II",
+      "e-MERLIN"
+    ],
+    "keyDiscoveries": [
+      "Quasar radio emissions",
+      "Sputnik tracking",
+      "Gravitational lens monitoring"
+    ],
+    "location": "Jodrell Bank Observatory, United Kingdom",
+    "description": "UNESCO World Heritage Site home to the Lovell Telescope, one of the largest steerable radio telescopes. The e-MERLIN network provides high-resolution radio imaging.",
+    "geojson": "jodrell-bank.geojson"
+  },
+  {
+    "code": "kagra",
+    "name": "KAGRA",
+    "country": "Japan",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 414,
+    "aperture": "3 km arms",
+    "telescopes": [
+      "KAGRA"
+    ],
+    "keyDiscoveries": [
+      "Underground GW detector technology",
+      "Cryogenic mirror operations",
+      "Joining LIGO-Virgo network"
+    ],
+    "location": "KAGRA, Japan",
+    "description": "The Kamioka Gravitational-Wave Detector, built underground in the Kamioka mine. The first gravitational wave detector to use cryogenic mirrors.",
+    "geojson": "kagra.geojson"
+  },
+  {
+    "code": "kasi",
+    "name": "Korea Astronomy and Space Science Institute",
+    "country": "South Korea",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 100,
+    "aperture": "1.8 m (BOAO)",
+    "telescopes": [
+      "Bohyunsan 1.8m",
+      "Sobaeksan 0.6m",
+      "KMTNet"
+    ],
+    "keyDiscoveries": [
+      "KMTNet microlensing exoplanets",
+      "Gamma-ray burst follow-up",
+      "Stellar variability"
+    ],
+    "location": "Korea Astronomy and Space Science Institute, South Korea",
+    "description": "South Korea's principal astronomy institute operating multiple observatories. KMTNet network (Chile, Australia, South Africa) monitors for gravitational microlensing events.",
+    "geojson": "kasi.geojson"
+  },
+  {
+    "code": "keck",
+    "name": "W. M. Keck Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4145,
+    "aperture": "2 × 10 m",
+    "telescopes": [
+      "Keck I",
+      "Keck II"
+    ],
+    "keyDiscoveries": [
+      "Direct imaging of exoplanets",
+      "Expansion rate of universe",
+      "Atmospheres of exoplanets"
+    ],
+    "location": "W. M. Keck Observatory, United States",
+    "description": "Twin 10-meter segmented-mirror telescopes atop Mauna Kea, among the world's largest optical/infrared telescopes. Pioneered adaptive optics and interferometric techniques.",
+    "geojson": "keck.geojson"
+  },
+  {
+    "code": "kitt-peak",
+    "name": "Kitt Peak National Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2096,
+    "aperture": "4 m",
+    "telescopes": [
+      "Mayall 4m",
+      "WIYN 3.5m",
+      "DESI"
+    ],
+    "keyDiscoveries": [
+      "DESI dark energy survey",
+      "Baryon acoustic oscillations",
+      "Galaxy redshift surveys"
+    ],
+    "location": "Kitt Peak National Observatory, United States",
+    "description": "NOIRLab facility on the Tohono O'odham Nation in Arizona. The Mayall telescope now hosts DESI, creating the largest 3D map of the universe.",
+    "geojson": "kitt-peak.geojson"
+  },
+  {
+    "code": "km3net",
+    "name": "KM3NeT",
+    "country": "France",
+    "observatoryType": "Multi-messenger",
+    "status": "Under Construction",
+    "elevation": -2475,
+    "aperture": "Multiple km³ (planned)",
+    "telescopes": [
+      "ARCA",
+      "ORCA"
+    ],
+    "keyDiscoveries": [
+      "Expected: Cosmic neutrino sources",
+      "Neutrino mass hierarchy",
+      "Mediterranean neutrino astronomy"
+    ],
+    "location": "KM3NeT, France",
+    "description": "Next-generation undersea neutrino telescope in the Mediterranean. ARCA (Italy) for cosmic neutrinos and ORCA (France) for neutrino properties.",
+    "geojson": "km3net.geojson"
+  },
+  {
+    "code": "konkoly",
+    "name": "Konkoly Observatory",
+    "country": "Hungary",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 474,
+    "aperture": "1 m (RCC)",
+    "telescopes": [
+      "1m RCC",
+      "Schmidt telescope"
+    ],
+    "keyDiscoveries": [
+      "Variable star catalogs",
+      "Asteroid discoveries",
+      "Exoplanet transits"
+    ],
+    "location": "Konkoly Observatory, Hungary",
+    "description": "The principal astronomical institute of Hungary, part of the Research Centre for Astronomy and Earth Sciences. Extensive work on variable stars and asteroids.",
+    "geojson": "konkoly.geojson"
+  },
+  {
+    "code": "la-plata",
+    "name": "La Plata Observatory",
+    "country": "Argentina",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 20,
+    "aperture": "0.43 m (astrograph)",
+    "telescopes": [
+      "Astrograph",
+      "Gautier meridian circle"
+    ],
+    "keyDiscoveries": [
+      "Stellar catalogs",
+      "Astrometric measurements",
+      "Minor planet observations"
+    ],
+    "location": "La Plata Observatory, Argentina",
+    "description": "Historic Argentine observatory founded in 1883 in La Plata. Now primarily a research and teaching institution with contributions to stellar catalogs.",
+    "geojson": "la-plata.geojson"
+  },
+  {
+    "code": "la-silla",
+    "name": "La Silla Observatory",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2400,
+    "aperture": "3.6 m",
+    "telescopes": [
+      "ESO 3.6m",
+      "NTT",
+      "HARPS"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet discoveries (HARPS)",
+      "Supernovae observations",
+      "Gamma-ray burst afterglows"
+    ],
+    "location": "La Silla Observatory, Chile",
+    "description": "ESO's first observatory site in Chile. Home to HARPS, the world's most successful exoplanet-hunting spectrograph, and the New Technology Telescope.",
+    "geojson": "la-silla.geojson"
+  },
+  {
+    "code": "lapalma-sst",
+    "name": "Swedish 1-m Solar Telescope",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2360,
+    "aperture": "1 m",
+    "telescopes": [
+      "SST"
+    ],
+    "keyDiscoveries": [
+      "Solar surface fine structure",
+      "Chromospheric dynamics",
+      "Magnetic flux emergence"
+    ],
+    "location": "Swedish 1-m Solar Telescope, Spain",
+    "description": "A vacuum solar telescope on La Palma achieving diffraction-limited observations through adaptive optics. Produces remarkably detailed solar images.",
+    "geojson": "lapalma-sst.geojson"
+  },
+  {
+    "code": "las-campanas",
+    "name": "Las Campanas Observatory",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2516,
+    "aperture": "6.5 m (Magellan)",
+    "telescopes": [
+      "Magellan Baade",
+      "Magellan Clay",
+      "Swope 1m",
+      "du Pont 2.5m"
+    ],
+    "keyDiscoveries": [
+      "Supernovae distance ladder",
+      "Type Ia cosmology",
+      "Exoplanet surveys"
+    ],
+    "location": "Las Campanas Observatory, Chile",
+    "description": "Carnegie Institution observatory in the Chilean Andes. Home to the twin Magellan telescopes and future site of the Giant Magellan Telescope.",
+    "geojson": "las-campanas.geojson"
+  },
+  {
+    "code": "lbt",
+    "name": "Large Binocular Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3221,
+    "aperture": "2 × 8.4 m",
+    "telescopes": [
+      "LBT"
+    ],
+    "keyDiscoveries": [
+      "LBTI exoplanet imaging",
+      "Adaptive optics breakthroughs",
+      "High-resolution imaging"
+    ],
+    "location": "Large Binocular Telescope, United States",
+    "description": "Twin 8.4m mirrors on a single mount at Mount Graham, Arizona. When combined, equivalent to an 11.8m telescope, the largest in the world.",
+    "geojson": "lbt.geojson"
+  },
+  {
+    "code": "lcogt",
+    "name": "Las Cumbres Observatory (HQ)",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 10,
+    "aperture": "2 × 2m + 10 × 1m + 10 × 0.4m",
+    "telescopes": [
+      "Global robotic network"
+    ],
+    "keyDiscoveries": [
+      "Supernova early observations",
+      "Exoplanet monitoring",
+      "Time-domain astronomy"
+    ],
+    "location": "Las Cumbres Observatory (HQ), United States",
+    "description": "A global network of robotic telescopes at 7 sites spanning both hemispheres. Provides continuous time-domain coverage for transient events and education.",
+    "geojson": "lcogt.geojson"
+  },
+  {
+    "code": "leoncito",
+    "name": "Leoncito Astronomical Complex",
+    "country": "Argentina",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2552,
+    "aperture": "2.15 m",
+    "telescopes": [
+      "Jorge Sahade 2.15m",
+      "Astrograph"
+    ],
+    "keyDiscoveries": [
+      "Southern stellar spectroscopy",
+      "Astrometry",
+      "Binary systems"
+    ],
+    "location": "Leoncito Astronomical Complex, Argentina",
+    "description": "CASLEO observatory in San Juan province near the Andes, combining excellent high-altitude conditions with dark skies for southern hemisphere observations.",
+    "geojson": "leoncito.geojson"
+  },
+  {
+    "code": "lick",
+    "name": "Lick Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1283,
+    "aperture": "3 m",
+    "telescopes": [
+      "Shane 3m",
+      "Automated Planet Finder"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet surveys",
+      "Supernova searches",
+      "Adaptive optics development"
+    ],
+    "location": "Lick Observatory, United States",
+    "description": "UC's first permanently occupied mountain-top observatory on Mount Hamilton. The Automated Planet Finder is a robotic telescope dedicated to exoplanet searches.",
+    "geojson": "lick.geojson"
+  },
+  {
+    "code": "ligo-hanford",
+    "name": "LIGO Hanford",
+    "country": "United States",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 142,
+    "aperture": "4 km arms",
+    "telescopes": [
+      "Advanced LIGO"
+    ],
+    "keyDiscoveries": [
+      "First gravitational wave detection (GW150914)",
+      "Binary neutron star merger",
+      "Nobel Prize 2017"
+    ],
+    "location": "LIGO Hanford, United States",
+    "description": "One of two LIGO detectors, in Washington state. Made the first direct detection of gravitational waves in 2015, confirming Einstein's prediction.",
+    "geojson": "ligo-hanford.geojson"
+  },
+  {
+    "code": "ligo-livingston",
+    "name": "LIGO Livingston",
+    "country": "United States",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 7,
+    "aperture": "4 km arms",
+    "telescopes": [
+      "Advanced LIGO"
+    ],
+    "keyDiscoveries": [
+      "Gravitational wave detections",
+      "Black hole merger events",
+      "Multi-messenger astronomy"
+    ],
+    "location": "LIGO Livingston, United States",
+    "description": "The Louisiana LIGO detector. Together with Hanford, enables gravitational wave sky localization. Has detected dozens of black hole and neutron star mergers.",
+    "geojson": "ligo-livingston.geojson"
+  },
+  {
+    "code": "lisa-pathfinder-esac",
+    "name": "LISA Pathfinder / LISA (ESAC)",
+    "country": "Spain",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 770,
+    "aperture": "N/A (gravitational wave)",
+    "telescopes": [
+      "LISA Pathfinder (completed)",
+      "LISA (in development)"
+    ],
+    "keyDiscoveries": [
+      "Gravitational wave detection in space validated",
+      "Drag-free spacecraft technology",
+      "Expected: Low-frequency gravitational waves"
+    ],
+    "location": "LISA Pathfinder / LISA (ESAC), Spain",
+    "description": "LISA Pathfinder demonstrated the technology for space-based gravitational wave detection. LISA, launching ~2035, will detect low-frequency gravitational waves from supermassive black hole mergers.",
+    "geojson": "lisa-pathfinder-esac.geojson"
+  },
+  {
+    "code": "liverpool-telescope",
+    "name": "Liverpool Telescope",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2363,
+    "aperture": "2 m",
+    "telescopes": [
+      "Liverpool Telescope"
+    ],
+    "keyDiscoveries": [
+      "Rapid GRB follow-up",
+      "Exoplanet monitoring",
+      "Robotic time-domain astronomy"
+    ],
+    "location": "Liverpool Telescope, Spain",
+    "description": "The world's largest fully robotic telescope on La Palma. Specializes in rapid-response observations of gamma-ray bursts and other transient phenomena.",
+    "geojson": "liverpool-telescope.geojson"
+  },
+  {
+    "code": "llano-de-chajnantor",
+    "name": "Llano de Chajnantor Observatory",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 5104,
+    "aperture": "Various",
+    "telescopes": [
+      "CCAT-prime/FYST",
+      "ACT",
+      "Various submm"
+    ],
+    "keyDiscoveries": [
+      "CMB observations",
+      "Submillimeter surveys",
+      "High-altitude site characterization"
+    ],
+    "location": "Llano de Chajnantor Observatory, Chile",
+    "description": "One of the highest observatory sites on Earth in the Atacama Desert. Hosts multiple millimeter/submillimeter and CMB experiments alongside ALMA.",
+    "geojson": "llano-de-chajnantor.geojson"
+  },
+  {
+    "code": "lofar",
+    "name": "Low-Frequency Array",
+    "country": "Netherlands",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 25,
+    "aperture": "Distributed (52 stations)",
+    "telescopes": [
+      "LOFAR"
+    ],
+    "keyDiscoveries": [
+      "Low-frequency radio sky maps",
+      "Exoplanet magnetic fields",
+      "Cosmic magnetism"
+    ],
+    "location": "Low-Frequency Array, Netherlands",
+    "description": "A distributed radio telescope with stations across Europe, centered in the Netherlands. Observes at the lowest radio frequencies accessible from Earth.",
+    "geojson": "lofar.geojson"
+  },
+  {
+    "code": "lowell",
+    "name": "Lowell Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2210,
+    "aperture": "4.3 m",
+    "telescopes": [
+      "Lowell Discovery Telescope",
+      "Clark Refractor"
+    ],
+    "keyDiscoveries": [
+      "Pluto discovery",
+      "Expanding universe evidence",
+      "Planetary studies"
+    ],
+    "location": "Lowell Observatory, United States",
+    "description": "Founded in 1894 by Percival Lowell. Site of Pluto's discovery in 1930 by Clyde Tombaugh. The Lowell Discovery Telescope is its modern flagship.",
+    "geojson": "lowell.geojson"
+  },
+  {
+    "code": "lulin",
+    "name": "Lulin Observatory",
+    "country": "Taiwan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2862,
+    "aperture": "1 m (LOT)",
+    "telescopes": [
+      "Lulin One-meter Telescope",
+      "SLT 0.4m"
+    ],
+    "keyDiscoveries": [
+      "Comet discoveries",
+      "Near-Earth asteroids",
+      "Supernovae surveys"
+    ],
+    "location": "Lulin Observatory, Taiwan",
+    "description": "National Central University observatory in Yushan National Park, the best astronomical site in East Asia. Active in comet and asteroid surveys.",
+    "geojson": "lulin.geojson"
+  },
+  {
+    "code": "madrid-dsn",
+    "name": "Madrid Deep Space Communications Complex",
+    "country": "Spain",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 830,
+    "aperture": "70 m (DSS-63)",
+    "telescopes": [
+      "DSS-63 70m",
+      "Various DSN dishes"
+    ],
+    "keyDiscoveries": [
+      "Spacecraft communication",
+      "Radio astronomy",
+      "Planetary missions support"
+    ],
+    "location": "Madrid Deep Space Communications Complex, Spain",
+    "description": "NASA's DSN station at Robledo de Chavela near Madrid. Together with Goldstone and Canberra provides continuous deep-space communication coverage.",
+    "geojson": "madrid-dsn.geojson"
+  },
+  {
+    "code": "magellan",
+    "name": "Magellan Telescopes",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2516,
+    "aperture": "2 × 6.5 m",
+    "telescopes": [
+      "Baade",
+      "Clay"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet radial velocities",
+      "Dark energy studies",
+      "Gravitational lensing"
+    ],
+    "location": "Magellan Telescopes, Chile",
+    "description": "Twin 6.5m telescopes at Las Campanas Observatory. Known for excellent image quality and instruments like the Planet Finder Spectrograph.",
+    "geojson": "magellan.geojson"
+  },
+  {
+    "code": "magic",
+    "name": "MAGIC Telescopes",
+    "country": "Spain",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 2200,
+    "aperture": "2 × 17 m mirrors",
+    "telescopes": [
+      "MAGIC-I",
+      "MAGIC-II"
+    ],
+    "keyDiscoveries": [
+      "Very-high-energy gamma-ray sources",
+      "Gamma-ray bursts at TeV",
+      "Dark matter limits"
+    ],
+    "location": "MAGIC Telescopes, Spain",
+    "description": "Twin 17m Cherenkov telescopes at La Palma detecting very-high-energy gamma rays. First to detect a gamma-ray burst at energies above 300 GeV.",
+    "geojson": "magic.geojson"
+  },
+  {
+    "code": "maidanak",
+    "name": "Maidanak Observatory",
+    "country": "Uzbekistan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2593,
+    "aperture": "1.5 m (AZT-22)",
+    "telescopes": [
+      "AZT-22 1.5m",
+      "Zeiss-600"
+    ],
+    "keyDiscoveries": [
+      "Site characterization",
+      "Gravitational microlensing",
+      "Stellar photometry"
+    ],
+    "location": "Maidanak Observatory, Uzbekistan",
+    "description": "One of the best astronomical sites in the CIS, in the Pamir-Alay range. Exceptional seeing conditions rivaling top sites worldwide.",
+    "geojson": "maidanak.geojson"
+  },
+  {
+    "code": "mauna-loa-solar",
+    "name": "Mauna Loa Solar Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3397,
+    "aperture": "0.46 m (K-Cor)",
+    "telescopes": [
+      "K-Cor",
+      "COSMO"
+    ],
+    "keyDiscoveries": [
+      "Solar corona monitoring",
+      "Coronal mass ejection tracking",
+      "Solar wind studies"
+    ],
+    "location": "Mauna Loa Solar Observatory, United States",
+    "description": "HAO/NCAR facility monitoring the solar corona and chromosphere. Provides continuous observations of the Sun crucial for space weather forecasting.",
+    "geojson": "mauna-loa-solar.geojson"
+  },
+  {
+    "code": "maunakea-summit",
+    "name": "Maunakea Observatories",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4205,
+    "aperture": "Various",
+    "telescopes": [
+      "Multiple telescopes"
+    ],
+    "keyDiscoveries": [
+      "Countless major discoveries",
+      "Premier astronomical site",
+      "Dark energy measurements"
+    ],
+    "location": "Maunakea Observatories, United States",
+    "description": "The world's premier astronomical site hosting 13 telescopes from 11 countries near the summit of Maunakea, Hawaii. Exceptional seeing and dry atmosphere.",
+    "geojson": "maunakea-summit.geojson"
+  },
+  {
+    "code": "mcdonald",
+    "name": "McDonald Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2070,
+    "aperture": "2.7 m",
+    "telescopes": [
+      "Harlan J. Smith 2.7m",
+      "Otto Struve 2.1m"
+    ],
+    "keyDiscoveries": [
+      "Lunar laser ranging",
+      "Asteroid studies",
+      "Stellar variability"
+    ],
+    "location": "McDonald Observatory, United States",
+    "description": "University of Texas observatory in the Davis Mountains. Known for excellent dark skies and public outreach programs.",
+    "geojson": "mcdonald.geojson"
+  },
+  {
+    "code": "mcmath-pierce",
+    "name": "McMath-Pierce Solar Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2096,
+    "aperture": "1.6 m",
+    "telescopes": [
+      "McMath-Pierce"
+    ],
+    "keyDiscoveries": [
+      "Solar infrared spectroscopy",
+      "Planetary observations",
+      "Solar magnetism"
+    ],
+    "location": "McMath-Pierce Solar Telescope, United States",
+    "description": "Located at Kitt Peak, it was the world's largest solar telescope for decades. A distinctive design with a heliostat feeding a 60m underground optical path.",
+    "geojson": "mcmath-pierce.geojson"
+  },
+  {
+    "code": "medicina",
+    "name": "Medicina Radio Astronomical Station",
+    "country": "Italy",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 28,
+    "aperture": "32 m",
+    "telescopes": [
+      "Medicina 32m",
+      "Northern Cross"
+    ],
+    "keyDiscoveries": [
+      "VLBI observations",
+      "Radio source surveys",
+      "Spectroscopy"
+    ],
+    "location": "Medicina Radio Astronomical Station, Italy",
+    "description": "INAF radio astronomy station near Bologna. The Northern Cross is one of the largest cross-type radio telescopes and a key European VLBI Network station.",
+    "geojson": "medicina.geojson"
+  },
+  {
+    "code": "meerkat",
+    "name": "MeerKAT",
+    "country": "South Africa",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1038,
+    "aperture": "64 × 13.5 m dishes",
+    "telescopes": [
+      "MeerKAT"
+    ],
+    "keyDiscoveries": [
+      "Massive radio galaxies",
+      "Center of Milky Way imaging",
+      "Pulsar discoveries"
+    ],
+    "location": "MeerKAT, South Africa",
+    "description": "South African precursor to the Square Kilometre Array with 64 dishes in the Karoo. Has produced stunning radio images of the Galactic center.",
+    "geojson": "meerkat.geojson"
+  },
+  {
+    "code": "miyun",
+    "name": "Miyun Station",
+    "country": "China",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 150,
+    "aperture": "50m equivalent",
+    "telescopes": [
+      "Miyun Synthesis Array"
+    ],
+    "keyDiscoveries": [
+      "Radio source surveys",
+      "Solar radio observations",
+      "21cm surveys"
+    ],
+    "location": "Miyun Station, China",
+    "description": "NAOC radio astronomy station northeast of Beijing. Operates a radio interferometric array for solar and cosmic radio observations.",
+    "geojson": "miyun.geojson"
+  },
+  {
+    "code": "mmt",
+    "name": "MMT Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2616,
+    "aperture": "6.5 m",
+    "telescopes": [
+      "MMT"
+    ],
+    "keyDiscoveries": [
+      "Galaxy redshift surveys",
+      "Quasar studies",
+      "Adaptive optics imaging"
+    ],
+    "location": "MMT Observatory, United States",
+    "description": "A 6.5m telescope on Mount Hopkins, Arizona, jointly operated by the Smithsonian and the University of Arizona. Originally the Multiple Mirror Telescope.",
+    "geojson": "mmt.geojson"
+  },
+  {
+    "code": "molonglo",
+    "name": "Molonglo Observatory Synthesis Telescope",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 735,
+    "aperture": "1.6 km × 12 m cylindrical",
+    "telescopes": [
+      "MOST/UTMOST"
+    ],
+    "keyDiscoveries": [
+      "Radio source surveys",
+      "Fast radio burst localization",
+      "Pulsar discoveries"
+    ],
+    "location": "Molonglo Observatory Synthesis Telescope, Australia",
+    "description": "A large Mills Cross radio telescope near Canberra, converted to a synthesis telescope (UTMOST). Now a key facility for localizing fast radio bursts.",
+    "geojson": "molonglo.geojson"
+  },
+  {
+    "code": "mount-john",
+    "name": "Mount John University Observatory",
+    "country": "New Zealand",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1029,
+    "aperture": "1.8 m (MOA)",
+    "telescopes": [
+      "MOA-II 1.8m",
+      "McLellan 1m",
+      "Boller & Chivens 0.6m"
+    ],
+    "keyDiscoveries": [
+      "Gravitational microlensing events",
+      "Exoplanet discoveries via microlensing",
+      "Variable stars"
+    ],
+    "location": "Mount John University Observatory, New Zealand",
+    "description": "University of Canterbury observatory near Lake Tekapo. The MOA (Microlensing Observations in Astrophysics) project has discovered exoplanets via gravitational microlensing.",
+    "geojson": "mount-john.geojson"
+  },
+  {
+    "code": "mount-stromlo",
+    "name": "Mount Stromlo Observatory",
+    "country": "Australia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 770,
+    "aperture": "1.3 m (rebuilt)",
+    "telescopes": [
+      "SkyMapper",
+      "Advanced Instrumentation Lab"
+    ],
+    "keyDiscoveries": [
+      "Dark matter evidence (MACHOs)",
+      "Accelerating expansion of universe",
+      "Satellite laser ranging"
+    ],
+    "location": "Mount Stromlo Observatory, Australia",
+    "description": "ANU observatory near Canberra. Severely damaged in the 2003 bushfires, rebuilt as an advanced instrumentation and technology center.",
+    "geojson": "mount-stromlo.geojson"
+  },
+  {
+    "code": "mount-wilson",
+    "name": "Mount Wilson Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1742,
+    "aperture": "2.5 m",
+    "telescopes": [
+      "Hooker 100-inch",
+      "60-inch",
+      "CHARA Array"
+    ],
+    "keyDiscoveries": [
+      "Expanding universe (Hubble)",
+      "Stellar classification",
+      "Star diameters"
+    ],
+    "location": "Mount Wilson Observatory, United States",
+    "description": "Historic observatory where Edwin Hubble discovered the expanding universe. Now hosts the CHARA interferometric array achieving the highest angular resolution in optical astronomy.",
+    "geojson": "mount-wilson.geojson"
+  },
+  {
+    "code": "murchison",
+    "name": "Murchison Radio-astronomy Observatory",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 377,
+    "aperture": "Various (MWA, ASKAP)",
+    "telescopes": [
+      "MWA",
+      "ASKAP"
+    ],
+    "keyDiscoveries": [
+      "Epoch of Reionization studies",
+      "ASKAP fast radio bursts",
+      "All-sky radio surveys"
+    ],
+    "location": "Murchison Radio-astronomy Observatory, Australia",
+    "description": "Australia's premier radio-quiet site in Western Australia. Home to MWA and ASKAP precursor arrays for the Square Kilometre Array.",
+    "geojson": "murchison.geojson"
+  },
+  {
+    "code": "nan-ren",
+    "name": "Nanshan Radio Observatory",
+    "country": "China",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 2080,
+    "aperture": "26 m",
+    "telescopes": [
+      "Nanshan 26m"
+    ],
+    "keyDiscoveries": [
+      "Pulsar timing",
+      "VLBI observations",
+      "Active galactic nuclei"
+    ],
+    "location": "Nanshan Radio Observatory, China",
+    "description": "Xinjiang Astronomical Observatory facility near Urumqi. A key VLBI station in the Chinese VLBI Network and the European VLBI Network.",
+    "geojson": "nan-ren.geojson"
+  },
+  {
+    "code": "nancay",
+    "name": "Nançay Radio Observatory",
+    "country": "France",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 150,
+    "aperture": "Equivalent 94 m (decimetric array)",
+    "telescopes": [
+      "Nançay Decimetric Radio Telescope",
+      "NenuFAR"
+    ],
+    "keyDiscoveries": [
+      "Pulsar timing",
+      "Cometary observations",
+      "Exoplanet radio emission searches"
+    ],
+    "location": "Nançay Radio Observatory, France",
+    "description": "Paris Observatory station in Sologne. The decimetric telescope and new NenuFAR low-frequency array study pulsars, exoplanets, and the Sun.",
+    "geojson": "nancay.geojson"
+  },
+  {
+    "code": "nancy-grace-roman",
+    "name": "Nancy Grace Roman Space Telescope (GSFC)",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Under Construction",
+    "elevation": 50,
+    "aperture": "2.4 m",
+    "telescopes": [
+      "Roman Space Telescope"
+    ],
+    "keyDiscoveries": [
+      "Expected: Dark energy constraints",
+      "Exoplanet microlensing census",
+      "Infrared surveys"
+    ],
+    "location": "Nancy Grace Roman Space Telescope (GSFC), United States",
+    "description": "NASA's next flagship observatory, with Hubble-sized mirror but 100× wider field of view. Will survey dark energy, exoplanets, and infrared sky from L2 orbit.",
+    "geojson": "nancy-grace-roman.geojson"
+  },
+  {
+    "code": "nao-japan",
+    "name": "National Astronomical Observatory of Japan (Mitaka)",
+    "country": "Japan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 58,
+    "aperture": "N/A (headquarters)",
+    "telescopes": [
+      "Solar Flare Telescope",
+      "TAMA300"
+    ],
+    "keyDiscoveries": [
+      "Solar physics",
+      "Gravitational wave R&D",
+      "Astronomical computing"
+    ],
+    "location": "National Astronomical Observatory of Japan (Mitaka), Japan",
+    "description": "NAOJ headquarters in Tokyo coordinating Japanese astronomical research including Subaru, ALMA, and next-generation facilities like TMT.",
+    "geojson": "nao-japan.geojson"
+  },
+  {
+    "code": "nasa-ames-kepler",
+    "name": "NASA Ames Research Center (Kepler/TESS)",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 12,
+    "aperture": "Kepler: 0.95 m / TESS: 4 × 10 cm",
+    "telescopes": [
+      "Kepler (retired)",
+      "K2 (retired)",
+      "TESS"
+    ],
+    "keyDiscoveries": [
+      "Thousands of exoplanets",
+      "Exoplanet demographics",
+      "TESS transiting planets"
+    ],
+    "location": "NASA Ames Research Center (Kepler/TESS), United States",
+    "description": "Managed Kepler which discovered over 2,600 exoplanets. TESS, now managed jointly, is surveying the entire sky for nearby transiting exoplanets.",
+    "geojson": "nasa-ames-kepler.geojson"
+  },
+  {
+    "code": "nishi-harima",
+    "name": "Nishi-Harima Astronomical Observatory",
+    "country": "Japan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 449,
+    "aperture": "2 m (Nayuta)",
+    "telescopes": [
+      "Nayuta 2m"
+    ],
+    "keyDiscoveries": [
+      "Public outreach astronomy",
+      "Stellar observations",
+      "Adaptive optics testing"
+    ],
+    "location": "Nishi-Harima Astronomical Observatory, Japan",
+    "description": "Japan's largest publicly accessible telescope in Hyogo Prefecture. The Nayuta 2m telescope is used for both research and extensive public engagement.",
+    "geojson": "nishi-harima.geojson"
+  },
+  {
+    "code": "nobeyama",
+    "name": "Nobeyama Radio Observatory",
+    "country": "Japan",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1350,
+    "aperture": "45 m",
+    "telescopes": [
+      "Nobeyama 45m",
+      "Nobeyama Millimeter Array"
+    ],
+    "keyDiscoveries": [
+      "Molecular cloud mapping",
+      "Star formation regions",
+      "Galactic plane surveys"
+    ],
+    "location": "Nobeyama Radio Observatory, Japan",
+    "description": "NAOJ millimeter-wave observatory at the Nobeyama highlands. The 45m telescope is the largest millimeter-wave telescope operating at sea-level-equivalent altitude.",
+    "geojson": "nobeyama.geojson"
+  },
+  {
+    "code": "noema",
+    "name": "NOEMA",
+    "country": "France",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 2550,
+    "aperture": "12 × 15 m dishes",
+    "telescopes": [
+      "NOEMA"
+    ],
+    "keyDiscoveries": [
+      "Galaxy evolution at high redshift",
+      "Protoplanetary chemistry",
+      "Molecular gas surveys"
+    ],
+    "location": "NOEMA, France",
+    "description": "IRAM's Northern Extended Millimeter Array on the Plateau de Bure in the French Alps. The most powerful millimeter interferometer in the Northern Hemisphere.",
+    "geojson": "noema.geojson"
+  },
+  {
+    "code": "northern-cross",
+    "name": "Northern Cross Radio Telescope",
+    "country": "Italy",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 28,
+    "aperture": "564m × 640m cross",
+    "telescopes": [
+      "Northern Cross"
+    ],
+    "keyDiscoveries": [
+      "Radio source surveys",
+      "Pulsar searches",
+      "Fast radio burst detection"
+    ],
+    "location": "Northern Cross Radio Telescope, Italy",
+    "description": "One of the largest cross-type radio telescopes in the world at Medicina. Currently being upgraded for fast radio burst and pulsar observations.",
+    "geojson": "northern-cross.geojson"
+  },
+  {
+    "code": "not",
+    "name": "Nordic Optical Telescope",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2382,
+    "aperture": "2.56 m",
+    "telescopes": [
+      "NOT"
+    ],
+    "keyDiscoveries": [
+      "Supernovae follow-up",
+      "Exoplanet transits",
+      "Gamma-ray burst afterglows"
+    ],
+    "location": "Nordic Optical Telescope, Spain",
+    "description": "A 2.56m telescope on La Palma operated by Nordic countries. Known for excellent image quality and flexible scheduling for rapid follow-up observations.",
+    "geojson": "not.geojson"
+  },
+  {
+    "code": "nz-carter",
+    "name": "Carter Observatory",
+    "country": "New Zealand",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 130,
+    "aperture": "0.4 m",
+    "telescopes": [
+      "Thomas Cooke Refractor",
+      "Zeiss refractor"
+    ],
+    "keyDiscoveries": [
+      "Public outreach",
+      "Heritage instruments",
+      "Education programs"
+    ],
+    "location": "Carter Observatory, New Zealand",
+    "description": "New Zealand's national observatory and planetarium in Wellington, primarily focused on public engagement and science education with heritage telescopes.",
+    "geojson": "nz-carter.geojson"
+  },
+  {
+    "code": "observatorio-del-pangue",
+    "name": "Observatorio Cerro Mamalluca & Pangue",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1200,
+    "aperture": "0.6 m",
+    "telescopes": [
+      "Various research and outreach"
+    ],
+    "keyDiscoveries": [
+      "Public engagement",
+      "Astrotourism",
+      "Small body follow-up"
+    ],
+    "location": "Observatorio Cerro Mamalluca & Pangue, Chile",
+    "description": "Public and scientific observatories in the Elqui Valley, taking advantage of some of the clearest skies in the world for both research and astrotourism.",
+    "geojson": "observatorio-del-pangue.geojson"
+  },
+  {
+    "code": "observatorio-nacional-brazil",
+    "name": "Observatório Nacional",
+    "country": "Brazil",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 33,
+    "aperture": "1.6 m (at OPD)",
+    "telescopes": [
+      "Perkin-Elmer 1.6m",
+      "Boller & Chivens 0.6m"
+    ],
+    "keyDiscoveries": [
+      "Time service standardization",
+      "Geophysical studies",
+      "Stellar photometry"
+    ],
+    "location": "Observatório Nacional, Brazil",
+    "description": "Brazil's national observatory in Rio de Janeiro, founded in 1827. Operates the Pico dos Dias Observatory with the country's largest optical telescope.",
+    "geojson": "observatorio-nacional-brazil.geojson"
+  },
+  {
+    "code": "observatorio-pico-dos-dias",
+    "name": "Pico dos Dias Observatory",
+    "country": "Brazil",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1864,
+    "aperture": "1.6 m",
+    "telescopes": [
+      "Perkin-Elmer 1.6m",
+      "IAG 0.6m",
+      "Zeiss 0.6m"
+    ],
+    "keyDiscoveries": [
+      "Stellar astrophysics",
+      "Extragalactic surveys",
+      "Photometric monitoring"
+    ],
+    "location": "Pico dos Dias Observatory, Brazil",
+    "description": "Laboratório Nacional de Astrofísica observatory in Minas Gerais. Brazil's premier ground-based optical facility with the 1.6m Perkin-Elmer telescope.",
+    "geojson": "observatorio-pico-dos-dias.geojson"
+  },
+  {
+    "code": "observatorio-tololo-site",
+    "name": "Cerro Tololo/NOIRLab Chile",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2215,
+    "aperture": "Various",
+    "telescopes": [
+      "Blanco 4m",
+      "SOAR",
+      "SMARTS",
+      "DECam"
+    ],
+    "keyDiscoveries": [
+      "Dark Energy Survey completed",
+      "Optical transient follow-up",
+      "Asteroseismology"
+    ],
+    "location": "Cerro Tololo/NOIRLab Chile, Chile",
+    "description": "NOIRLab's flagship southern hemisphere site hosting the Blanco 4m with DECam, SOAR 4.1m, and SMARTS consortium telescopes for multi-scale observations.",
+    "geojson": "observatorio-tololo-site.geojson"
+  },
+  {
+    "code": "okayama",
+    "name": "Okayama Astrophysical Observatory",
+    "country": "Japan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 372,
+    "aperture": "1.88 m",
+    "telescopes": [
+      "1.88m",
+      "MuSCAT instruments"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet transit characterization",
+      "Multi-color photometry",
+      "Stellar activity cycles"
+    ],
+    "location": "Okayama Astrophysical Observatory, Japan",
+    "description": "NAOJ facility known for the MuSCAT series of instruments that simultaneously observe exoplanet transits in multiple wavelengths.",
+    "geojson": "okayama.geojson"
+  },
+  {
+    "code": "ondrejov",
+    "name": "Ondřejov Observatory",
+    "country": "Czech Republic",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 528,
+    "aperture": "2 m (Perek)",
+    "telescopes": [
+      "Perek 2m",
+      "Solar telescope"
+    ],
+    "keyDiscoveries": [
+      "Meteor studies",
+      "Solar physics",
+      "Stellar spectroscopy"
+    ],
+    "location": "Ondřejov Observatory, Czech Republic",
+    "description": "The primary observatory of the Czech Academy of Sciences. The Perek 2m telescope and stellar department are among the most productive in Central Europe.",
+    "geojson": "ondrejov.geojson"
+  },
+  {
+    "code": "onsala",
+    "name": "Onsala Space Observatory",
+    "country": "Sweden",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 10,
+    "aperture": "25 m / 20 m",
+    "telescopes": [
+      "25m radome",
+      "20m dish"
+    ],
+    "keyDiscoveries": [
+      "VLBI observations",
+      "Molecular spectroscopy",
+      "Space geodesy"
+    ],
+    "location": "Onsala Space Observatory, Sweden",
+    "description": "Chalmers University facility on the Swedish west coast. A major European VLBI station and host of the Onsala Twin Telescope for geodetic measurements.",
+    "geojson": "onsala.geojson"
+  },
+  {
+    "code": "ooty-radio",
+    "name": "Ooty Radio Telescope",
+    "country": "India",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 2150,
+    "aperture": "530 m × 30 m",
+    "telescopes": [
+      "ORT"
+    ],
+    "keyDiscoveries": [
+      "Interplanetary scintillation",
+      "Pulsar studies",
+      "Solar wind observations"
+    ],
+    "location": "Ooty Radio Telescope, India",
+    "description": "A 530m-long cylindrical parabolic telescope on a hillside near Ooty. Built on an ingenious design to track celestial sources using Earth's rotation.",
+    "geojson": "ooty-radio.geojson"
+  },
+  {
+    "code": "oukaimeden",
+    "name": "Oukaimeden Observatory",
+    "country": "Morocco",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2700,
+    "aperture": "0.6 m",
+    "telescopes": [
+      "TRAPPIST-North 0.6m",
+      "MOSS"
+    ],
+    "keyDiscoveries": [
+      "TRAPPIST exoplanet survey (North)",
+      "Asteroid discoveries",
+      "Meteor observations"
+    ],
+    "location": "Oukaimeden Observatory, Morocco",
+    "description": "Cadi Ayyad University observatory in the Atlas Mountains. Home of TRAPPIST-North telescope, the northern counterpart to the system that discovered TRAPPIST-1 planets.",
+    "geojson": "oukaimeden.geojson"
+  },
+  {
+    "code": "ovro",
+    "name": "Owens Valley Radio Observatory",
+    "country": "United States",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1222,
+    "aperture": "40 m",
+    "telescopes": [
+      "OVRO 40m",
+      "OVRO-LWA"
+    ],
+    "keyDiscoveries": [
+      "Blazar monitoring program",
+      "Fast radio burst localization",
+      "Cosmic radio transients"
+    ],
+    "location": "Owens Valley Radio Observatory, United States",
+    "description": "Caltech's radio observatory in the Owens Valley. The 40m telescope's blazar monitoring program is the longest-running of its kind.",
+    "geojson": "ovro.geojson"
+  },
+  {
+    "code": "palomar",
+    "name": "Palomar Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1713,
+    "aperture": "5.1 m",
+    "telescopes": [
+      "Hale 200-inch",
+      "P48 Samuel Oschin",
+      "P60"
+    ],
+    "keyDiscoveries": [
+      "Quasars",
+      "Cosmic distance scale",
+      "Zwicky Transient Facility"
+    ],
+    "location": "Palomar Observatory, United States",
+    "description": "Home of the historic Hale 200-inch telescope that dominated astronomy for decades. Now hosts the Zwicky Transient Facility for time-domain astronomy.",
+    "geojson": "palomar.geojson"
+  },
+  {
+    "code": "pan-starrs",
+    "name": "Pan-STARRS",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3052,
+    "aperture": "2 × 1.8 m",
+    "telescopes": [
+      "PS1",
+      "PS2"
+    ],
+    "keyDiscoveries": [
+      "'Oumuamua (first interstellar object)",
+      "Near-Earth objects",
+      "Transient sky surveys"
+    ],
+    "location": "Pan-STARRS, United States",
+    "description": "Panoramic Survey Telescope and Rapid Response System on Haleakalā. Continuously scans the sky for moving and transient objects, discovering numerous asteroids and supernovae.",
+    "geojson": "pan-starrs.geojson"
+  },
+  {
+    "code": "paranal",
+    "name": "Paranal Observatory",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2635,
+    "aperture": "Various (VLT, VISTA, VST)",
+    "telescopes": [
+      "VLT",
+      "VISTA",
+      "VST",
+      "VLTI"
+    ],
+    "keyDiscoveries": [
+      "Infrared sky surveys (VISTA)",
+      "Wide-field imaging (VST)",
+      "Interferometric observations"
+    ],
+    "location": "Paranal Observatory, Chile",
+    "description": "ESO's flagship site at Cerro Paranal hosting the VLT, VISTA survey telescope, VST, and VLT Interferometer. One of the world's most productive observatory sites.",
+    "geojson": "paranal.geojson"
+  },
+  {
+    "code": "paris-observatory",
+    "name": "Observatoire de Paris",
+    "country": "France",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 67,
+    "aperture": "1 m (Meudon)",
+    "telescopes": [
+      "Grande Lunette de Meudon",
+      "Radio telescope"
+    ],
+    "keyDiscoveries": [
+      "Neptune co-prediction",
+      "Saturn ring studies",
+      "Stellar catalogs"
+    ],
+    "location": "Observatoire de Paris, France",
+    "description": "The oldest operating observatory in the world, founded in 1667. Now primarily a research institution coordinating French astronomical research.",
+    "geojson": "paris-observatory.geojson"
+  },
+  {
+    "code": "parkes",
+    "name": "Parkes Observatory (Murriyang)",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 392,
+    "aperture": "64 m",
+    "telescopes": [
+      "Murriyang 64m"
+    ],
+    "keyDiscoveries": [
+      "Thousands of pulsars",
+      "Fast radio bursts",
+      "Apollo 11 signal relay"
+    ],
+    "location": "Parkes Observatory (Murriyang), Australia",
+    "description": "Iconic 64m radio telescope in NSW, recently given the Wiradjuri name Murriyang. Discovered more pulsars than any other telescope and relayed Apollo 11 moonwalk images.",
+    "geojson": "parkes.geojson"
+  },
+  {
+    "code": "pic-du-midi",
+    "name": "Pic du Midi Observatory",
+    "country": "France",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2877,
+    "aperture": "2 m (Bernard Lyot)",
+    "telescopes": [
+      "Bernard Lyot 2m",
+      "Coronagraph"
+    ],
+    "keyDiscoveries": [
+      "Solar corona studies",
+      "Planetary surface mapping",
+      "Stellar magnetism"
+    ],
+    "location": "Pic du Midi Observatory, France",
+    "description": "High-altitude French observatory in the Pyrenees with exceptional atmospheric stability. Pioneered coronagraphic observations and planetary imaging.",
+    "geojson": "pic-du-midi.geojson"
+  },
+  {
+    "code": "pierre-auger",
+    "name": "Pierre Auger Observatory",
+    "country": "Argentina",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 1400,
+    "aperture": "3000 km² area",
+    "telescopes": [
+      "Surface Detector Array",
+      "Fluorescence Detector"
+    ],
+    "keyDiscoveries": [
+      "Ultra-high-energy cosmic ray origin correlation",
+      "Cosmic ray composition",
+      "Anisotropy of highest-energy particles"
+    ],
+    "location": "Pierre Auger Observatory, Argentina",
+    "description": "The world's largest cosmic ray observatory, covering 3000 km² in Mendoza province. Uses 1600 water-Cherenkov detectors and fluorescence telescopes.",
+    "geojson": "pierre-auger.geojson"
+  },
+  {
+    "code": "planck-hq",
+    "name": "Planck Science Office",
+    "country": "France",
+    "observatoryType": "Space-based",
+    "status": "Decommissioned",
+    "elevation": 162,
+    "aperture": "Planck: 1.9 m × 1.5 m",
+    "telescopes": [
+      "Planck (retired 2013)"
+    ],
+    "keyDiscoveries": [
+      "Precision CMB map",
+      "Age/composition of universe",
+      "Primordial fluctuation spectrum"
+    ],
+    "location": "Planck Science Office, France",
+    "description": "The Planck satellite (2009-2013) produced the most detailed all-sky map of the cosmic microwave background, precisely measuring the age, composition, and geometry of the universe.",
+    "geojson": "planck-hq.geojson"
+  },
+  {
+    "code": "pulkovo",
+    "name": "Pulkovo Observatory",
+    "country": "Russia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 75,
+    "aperture": "0.65 m",
+    "telescopes": [
+      "26-inch refractor",
+      "Normal Astrograph"
+    ],
+    "keyDiscoveries": [
+      "Pulkovo Catalogue of stars",
+      "Astrometric standards",
+      "Solar observations"
+    ],
+    "location": "Pulkovo Observatory, Russia",
+    "description": "Principal astronomical observatory of the Russian Academy of Sciences, founded in 1839. Known as the 'Astronomical Capital of the World' in the 19th century.",
+    "geojson": "pulkovo.geojson"
+  },
+  {
+    "code": "purple-mountain",
+    "name": "Purple Mountain Observatory",
+    "country": "China",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 267,
+    "aperture": "1 m",
+    "telescopes": [
+      "1m reflector",
+      "Near-Earth Object Survey"
+    ],
+    "keyDiscoveries": [
+      "Asteroid discoveries",
+      "Comet discoveries",
+      "Solar physics"
+    ],
+    "location": "Purple Mountain Observatory, China",
+    "description": "Historic Chinese observatory near Nanjing, founded in 1934. Known for asteroid and comet discoveries. Now focuses on near-Earth object surveys and solar physics.",
+    "geojson": "purple-mountain.geojson"
+  },
+  {
+    "code": "pushchino",
+    "name": "Pushchino Radio Astronomy Observatory",
+    "country": "Russia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 200,
+    "aperture": "Various arrays",
+    "telescopes": [
+      "BSA",
+      "DKR-1000",
+      "RT-22"
+    ],
+    "keyDiscoveries": [
+      "Pulsar scintillation",
+      "Low-frequency radio surveys",
+      "Solar radio emission"
+    ],
+    "location": "Pushchino Radio Astronomy Observatory, Russia",
+    "description": "Lebedev Physical Institute observatory south of Moscow. Operates several large radio telescope systems for low-frequency radio astronomy.",
+    "geojson": "pushchino.geojson"
+  },
+  {
+    "code": "ratan-600",
+    "name": "RATAN-600",
+    "country": "Russia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 970,
+    "aperture": "576 m ring",
+    "telescopes": [
+      "RATAN-600"
+    ],
+    "keyDiscoveries": [
+      "Radio source surveys",
+      "Solar radio observations",
+      "AGN monitoring"
+    ],
+    "location": "RATAN-600, Russia",
+    "description": "A circular 576m-diameter radio telescope in the Caucasus. One of the largest radio telescopes in the world by aperture, operating since 1974.",
+    "geojson": "ratan-600.geojson"
+  },
+  {
+    "code": "roque-de-los-muchachos",
+    "name": "Roque de los Muchachos Observatory",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2396,
+    "aperture": "10.4 m (GTC)",
+    "telescopes": [
+      "GTC",
+      "WHT",
+      "INT",
+      "NOT",
+      "TNG",
+      "MAGIC"
+    ],
+    "keyDiscoveries": [
+      "Gamma-ray astronomy (MAGIC)",
+      "Galaxy surveys",
+      "Solar physics"
+    ],
+    "location": "Roque de los Muchachos Observatory, Spain",
+    "description": "One of the world's premier observatory sites on La Palma, hosting telescopes from multiple nations. Benefits from exceptional atmospheric conditions above the cloud layer.",
+    "geojson": "roque-de-los-muchachos.geojson"
+  },
+  {
+    "code": "rozhen",
+    "name": "Rozhen National Astronomical Observatory",
+    "country": "Bulgaria",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1759,
+    "aperture": "2 m",
+    "telescopes": [
+      "Ritchey-Chrétien 2m",
+      "Schmidt",
+      "Coudé"
+    ],
+    "keyDiscoveries": [
+      "Spectropolarimetry of stars",
+      "Photometric monitoring",
+      "Asteroid observations"
+    ],
+    "location": "Rozhen National Astronomical Observatory, Bulgaria",
+    "description": "Bulgaria's national observatory in the Rhodope Mountains. The 2m Ritchey-Chrétien telescope is the largest in Southeastern Europe.",
+    "geojson": "rozhen.geojson"
+  },
+  {
+    "code": "saao-sutherland",
+    "name": "Sutherland Observing Station",
+    "country": "South Africa",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1798,
+    "aperture": "11 m (SALT)",
+    "telescopes": [
+      "SALT",
+      "1.9m",
+      "1.0m",
+      "MONET",
+      "Lesedi"
+    ],
+    "keyDiscoveries": [
+      "Transient classification",
+      "Galaxy kinematics",
+      "Stellar evolution"
+    ],
+    "location": "Sutherland Observing Station, South Africa",
+    "description": "SAAO's primary observing station in the semi-arid Karoo. Hosts SALT and a suite of smaller telescopes used for time-domain astronomy and spectroscopy.",
+    "geojson": "saao-sutherland.geojson"
+  },
+  {
+    "code": "salt",
+    "name": "Southern African Large Telescope",
+    "country": "South Africa",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1798,
+    "aperture": "11 m (effective 9.2 m)",
+    "telescopes": [
+      "SALT"
+    ],
+    "keyDiscoveries": [
+      "White dwarf pulsars",
+      "Transient classification",
+      "Galaxy kinematics"
+    ],
+    "location": "Southern African Large Telescope, South Africa",
+    "description": "The largest single optical telescope in the southern hemisphere, located in Sutherland. Its segmented primary mirror design is based on the Hobby-Eberly Telescope.",
+    "geojson": "salt.geojson"
+  },
+  {
+    "code": "san-pedro-martir",
+    "name": "Observatorio Astronómico Nacional (San Pedro Mártir)",
+    "country": "Mexico",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2830,
+    "aperture": "2.1 m",
+    "telescopes": [
+      "2.1m",
+      "1.5m",
+      "0.84m"
+    ],
+    "keyDiscoveries": [
+      "Planetary nebulae studies",
+      "Star formation regions",
+      "Transient follow-up"
+    ],
+    "location": "Observatorio Astronómico Nacional (San Pedro Mártir), Mexico",
+    "description": "UNAM's primary observing site in Baja California. One of the darkest observatory sites in North America with excellent seeing conditions.",
+    "geojson": "san-pedro-martir.geojson"
+  },
+  {
+    "code": "sanglokh",
+    "name": "Sanglokh Observatory",
+    "country": "Tajikistan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2300,
+    "aperture": "1 m",
+    "telescopes": [
+      "Zeiss-1000",
+      "AZT-8"
+    ],
+    "keyDiscoveries": [
+      "Asteroid observations",
+      "Variable star monitoring",
+      "Near-Earth object tracking"
+    ],
+    "location": "Sanglokh Observatory, Tajikistan",
+    "description": "Tajik National Observatory site at an altitude of 2300m. Specializes in astrometric observations and small body tracking.",
+    "geojson": "sanglokh.geojson"
+  },
+  {
+    "code": "sao-russia",
+    "name": "Special Astrophysical Observatory",
+    "country": "Russia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2070,
+    "aperture": "6 m (BTA)",
+    "telescopes": [
+      "BTA-6",
+      "RATAN-600"
+    ],
+    "keyDiscoveries": [
+      "Spectroscopy of faint objects",
+      "Galaxy morphology",
+      "Radio source studies"
+    ],
+    "location": "Special Astrophysical Observatory, Russia",
+    "description": "Home of the BTA-6, the largest telescope in Russia (6m aperture), located in the Caucasus Mountains. Also operates the RATAN-600 radio telescope.",
+    "geojson": "sao-russia.geojson"
+  },
+  {
+    "code": "sardinia",
+    "name": "Sardinia Radio Telescope",
+    "country": "Italy",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 600,
+    "aperture": "64 m",
+    "telescopes": [
+      "SRT 64m"
+    ],
+    "keyDiscoveries": [
+      "Pulsar studies",
+      "VLBI imaging",
+      "Space debris tracking"
+    ],
+    "location": "Sardinia Radio Telescope, Italy",
+    "description": "INAF's newest major radio telescope in Sardinia, capable of receiving frequencies from 300 MHz to 116 GHz. Also used for space debris monitoring.",
+    "geojson": "sardinia.geojson"
+  },
+  {
+    "code": "shamakhi",
+    "name": "Shamakhi Astrophysical Observatory",
+    "country": "Azerbaijan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1435,
+    "aperture": "2 m",
+    "telescopes": [
+      "2m Zeiss",
+      "AZT-8"
+    ],
+    "keyDiscoveries": [
+      "Stellar photometry",
+      "Solar physics",
+      "Lunar occultations"
+    ],
+    "location": "Shamakhi Astrophysical Observatory, Azerbaijan",
+    "description": "The main astronomical observatory of Azerbaijan, located in the Greater Caucasus mountains. Conducts stellar photometry and solar physics research.",
+    "geojson": "shamakhi.geojson"
+  },
+  {
+    "code": "siding-spring",
+    "name": "Siding Spring Observatory",
+    "country": "Australia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1165,
+    "aperture": "3.9 m",
+    "telescopes": [
+      "AAT 3.9m",
+      "ANU 2.3m",
+      "UK Schmidt"
+    ],
+    "keyDiscoveries": [
+      "2dF Galaxy Redshift Survey",
+      "SkyMapper Southern Survey",
+      "Supernovae searches"
+    ],
+    "location": "Siding Spring Observatory, Australia",
+    "description": "Australia's premier optical observatory site in the Warrumbungle Mountains, NSW. Hosts multiple telescopes including the Anglo-Australian Telescope.",
+    "geojson": "siding-spring.geojson"
+  },
+  {
+    "code": "sierra-nevada",
+    "name": "Sierra Nevada Observatory",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2896,
+    "aperture": "1.5 m",
+    "telescopes": [
+      "1.5m",
+      "0.9m"
+    ],
+    "keyDiscoveries": [
+      "Asteroid physical properties",
+      "Stellar photometry",
+      "Binary asteroids"
+    ],
+    "location": "Sierra Nevada Observatory, Spain",
+    "description": "Instituto de Astrofísica de Andalucía observatory near Granada. High-altitude site specializing in photometry, infrared observations, and solar system studies.",
+    "geojson": "sierra-nevada.geojson"
+  },
+  {
+    "code": "simeis",
+    "name": "Crimean Astrophysical Observatory",
+    "country": "Ukraine",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 600,
+    "aperture": "2.6 m (Shajn)",
+    "telescopes": [
+      "Shajn 2.6m",
+      "Solar tower",
+      "Gamma telescope"
+    ],
+    "keyDiscoveries": [
+      "Minor planet discoveries",
+      "Solar physics",
+      "Stellar spectroscopy"
+    ],
+    "location": "Crimean Astrophysical Observatory, Ukraine",
+    "description": "One of the largest observatories of the former Soviet Union. The Shajn 2.6m reflector has contributed to stellar and solar physics for decades.",
+    "geojson": "simeis.geojson"
+  },
+  {
+    "code": "ska-low",
+    "name": "SKA-Low",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Under Construction",
+    "elevation": 377,
+    "aperture": "131,072 antennas",
+    "telescopes": [
+      "SKA-Low"
+    ],
+    "keyDiscoveries": [
+      "Expected: Cosmic dawn",
+      "Epoch of Reionization",
+      "Pulsar surveys"
+    ],
+    "location": "SKA-Low, Australia",
+    "description": "The low-frequency component of the Square Kilometre Array in Western Australia. Over 131,000 log-periodic dipole antennas will observe 50-350 MHz.",
+    "geojson": "ska-low.geojson"
+  },
+  {
+    "code": "ska-mid",
+    "name": "SKA-Mid",
+    "country": "South Africa",
+    "observatoryType": "Radio",
+    "status": "Under Construction",
+    "elevation": 1038,
+    "aperture": "197 dishes (133 new + 64 MeerKAT)",
+    "telescopes": [
+      "SKA-Mid"
+    ],
+    "keyDiscoveries": [
+      "Expected: Hydrogen cosmology",
+      "Pulsar timing arrays",
+      "Cradle of life"
+    ],
+    "location": "SKA-Mid, South Africa",
+    "description": "The mid-frequency component of the SKA in the Karoo. Will integrate 64 MeerKAT dishes with 133 new 15m dishes for unprecedented sensitivity.",
+    "geojson": "ska-mid.geojson"
+  },
+  {
+    "code": "sma",
+    "name": "Submillimeter Array",
+    "country": "United States",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 4080,
+    "aperture": "8 × 6 m dishes",
+    "telescopes": [
+      "SMA"
+    ],
+    "keyDiscoveries": [
+      "Protoplanetary disks",
+      "Star-forming regions",
+      "Event Horizon Telescope contribution"
+    ],
+    "location": "Submillimeter Array, United States",
+    "description": "Joint venture of the Smithsonian and Academia Sinica on Mauna Kea. Eight 6m dishes provide high-resolution submillimeter observations.",
+    "geojson": "sma.geojson"
+  },
+  {
+    "code": "snolab",
+    "name": "SNOLAB",
+    "country": "Canada",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": -2070,
+    "aperture": "Various detectors",
+    "telescopes": [
+      "SNO+",
+      "DEAP-3600",
+      "PICO"
+    ],
+    "keyDiscoveries": [
+      "Solar neutrino problem solution (Nobel Prize 2015)",
+      "Dark matter searches",
+      "Neutrino mass measurements"
+    ],
+    "location": "SNOLAB, Canada",
+    "description": "The world's deepest underground physics laboratory, 2 km below surface in Sudbury, Ontario. Expanded from the original SNO experiment that solved the solar neutrino problem.",
+    "geojson": "snolab.geojson"
+  },
+  {
+    "code": "south-african-observatory",
+    "name": "South African Astronomical Observatory",
+    "country": "South Africa",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 15,
+    "aperture": "N/A (headquarters)",
+    "telescopes": [
+      "Headquarters operations"
+    ],
+    "keyDiscoveries": [
+      "Stellar photometry standards",
+      "Cape Photographic Durchmusterung",
+      "Binary star systems"
+    ],
+    "location": "South African Astronomical Observatory, South Africa",
+    "description": "SAAO headquarters in Cape Town, coordinating South African optical astronomy. The observing station at Sutherland hosts SALT and other telescopes.",
+    "geojson": "south-african-observatory.geojson"
+  },
+  {
+    "code": "south-pole-telescope",
+    "name": "South Pole Telescope",
+    "country": "Antarctica",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 2835,
+    "aperture": "10 m",
+    "telescopes": [
+      "SPT"
+    ],
+    "keyDiscoveries": [
+      "Galaxy clusters via SZ effect",
+      "CMB lensing",
+      "Neutrino mass constraints"
+    ],
+    "location": "South Pole Telescope, Antarctica",
+    "description": "A 10m microwave/millimeter telescope at the Amundsen-Scott South Pole Station. The dry, stable atmosphere makes it ideal for CMB observations.",
+    "geojson": "south-pole-telescope.geojson"
+  },
+  {
+    "code": "springbrook",
+    "name": "Springbrook Research Observatory",
+    "country": "Australia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 914,
+    "aperture": "0.35 m",
+    "telescopes": [
+      "Planewave CDK14"
+    ],
+    "keyDiscoveries": [
+      "Student research projects",
+      "Variable star monitoring",
+      "Asteroid tracking"
+    ],
+    "location": "Springbrook Research Observatory, Australia",
+    "description": "University of Southern Queensland observatory in the Gold Coast hinterland. Used for research training and robotic monitoring observations.",
+    "geojson": "springbrook.geojson"
+  },
+  {
+    "code": "sso-anu",
+    "name": "ANU Siding Spring Station",
+    "country": "Australia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1149,
+    "aperture": "2.3 m",
+    "telescopes": [
+      "ANU 2.3m",
+      "SkyMapper 1.35m"
+    ],
+    "keyDiscoveries": [
+      "SkyMapper Southern Sky Survey",
+      "Most iron-poor stars",
+      "Transient discoveries"
+    ],
+    "location": "ANU Siding Spring Station, Australia",
+    "description": "Australian National University facility at Siding Spring. SkyMapper is creating the first comprehensive digital survey of the entire southern sky.",
+    "geojson": "sso-anu.geojson"
+  },
+  {
+    "code": "stsci",
+    "name": "Space Telescope Science Institute",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 100,
+    "aperture": "HST: 2.4 m / JWST: 6.5 m",
+    "telescopes": [
+      "Hubble Space Telescope",
+      "James Webb Space Telescope"
+    ],
+    "keyDiscoveries": [
+      "Hubble Deep Field",
+      "Accelerating expansion (Nobel Prize 2011)",
+      "Exoplanet atmospheres (JWST)"
+    ],
+    "location": "Space Telescope Science Institute, United States",
+    "description": "Operations center for both HST and JWST at Johns Hopkins University. These two telescopes have produced many of the most iconic astronomical images and discoveries.",
+    "geojson": "stsci.geojson"
+  },
+  {
+    "code": "subaru",
+    "name": "Subaru Telescope",
+    "country": "Japan",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 4163,
+    "aperture": "8.2 m",
+    "telescopes": [
+      "Subaru"
+    ],
+    "keyDiscoveries": [
+      "Most distant galaxy clusters",
+      "Hyper Suprime-Cam survey",
+      "Kuiper Belt objects"
+    ],
+    "location": "Subaru Telescope, Japan",
+    "description": "National Astronomical Observatory of Japan's 8.2m telescope on Mauna Kea. Known for its wide-field imaging capability with the Hyper Suprime-Cam.",
+    "geojson": "subaru.geojson"
+  },
+  {
+    "code": "suffa",
+    "name": "Suffa Radio Telescope",
+    "country": "Uzbekistan",
+    "observatoryType": "Radio",
+    "status": "Under Construction",
+    "elevation": 2400,
+    "aperture": "70 m (planned)",
+    "telescopes": [
+      "Suffa RT-70"
+    ],
+    "keyDiscoveries": [
+      "Expected: VLBI observations",
+      "Molecular spectroscopy",
+      "CMB studies"
+    ],
+    "location": "Suffa Radio Telescope, Uzbekistan",
+    "description": "A 70m radio telescope under construction on the Suffa Plateau in Uzbekistan. Will be one of the world's largest radio telescopes when completed.",
+    "geojson": "suffa.geojson"
+  },
+  {
+    "code": "sunspot",
+    "name": "Sunspot Solar Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2804,
+    "aperture": "0.76 m (Dunn Solar)",
+    "telescopes": [
+      "Richard B. Dunn Solar Telescope",
+      "Various solar instruments"
+    ],
+    "keyDiscoveries": [
+      "Solar granulation",
+      "Sunspot dynamics",
+      "Solar magnetic fields"
+    ],
+    "location": "Sunspot Solar Observatory, United States",
+    "description": "Formerly Sacramento Peak Observatory, specializing in solar observation. The Dunn Solar Telescope is a premier instrument for studying solar surface phenomena.",
+    "geojson": "sunspot.geojson"
+  },
+  {
+    "code": "super-kamiokande",
+    "name": "Super-Kamiokande",
+    "country": "Japan",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 358,
+    "aperture": "39.3 m diameter tank",
+    "telescopes": [
+      "Super-K",
+      "Hyper-K (planned)"
+    ],
+    "keyDiscoveries": [
+      "Neutrino oscillations (Nobel Prize 2015)",
+      "Solar neutrinos",
+      "Supernova neutrinos"
+    ],
+    "location": "Super-Kamiokande, Japan",
+    "description": "A massive underground water Cherenkov detector in the Kamioka mine. Discovered that neutrinos have mass through observation of neutrino oscillations.",
+    "geojson": "super-kamiokande.geojson"
+  },
+  {
+    "code": "swift-psu",
+    "name": "Penn State (Swift Observatory)",
+    "country": "United States",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 376,
+    "aperture": "Swift XRT: 0.3 m / UVOT: 0.3 m",
+    "telescopes": [
+      "Neil Gehrels Swift Observatory"
+    ],
+    "keyDiscoveries": [
+      "Gamma-ray burst afterglow studies",
+      "Tidal disruption events",
+      "Kilonova detection"
+    ],
+    "location": "Penn State (Swift Observatory), United States",
+    "description": "Mission operations for Swift at Penn State. Swift rapidly slews to gamma-ray bursts, providing crucial multi-wavelength observations of transient events.",
+    "geojson": "swift-psu.geojson"
+  },
+  {
+    "code": "tartu",
+    "name": "Tartu Observatory",
+    "country": "Estonia",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 70,
+    "aperture": "1.5 m (planned)",
+    "telescopes": [
+      "0.6m AZT-12",
+      "Schmidt telescope"
+    ],
+    "keyDiscoveries": [
+      "Galaxy supercluster studies",
+      "Cosmic web mapping",
+      "Dark matter distribution"
+    ],
+    "location": "Tartu Observatory, Estonia",
+    "description": "Estonian national observatory that pioneered studies of the cosmic web and galaxy superclusters under Jaan Einasto, revealing the large-scale structure of the universe.",
+    "geojson": "tartu.geojson"
+  },
+  {
+    "code": "tautenburg",
+    "name": "Thüringer Landessternwarte",
+    "country": "Germany",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 341,
+    "aperture": "2 m (Alfred Jensch)",
+    "telescopes": [
+      "Alfred Jensch 2m"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet discoveries",
+      "Comet studies",
+      "Variable stars"
+    ],
+    "location": "Thüringer Landessternwarte, Germany",
+    "description": "Thuringian State Observatory near Tautenburg, housing the Alfred Jensch telescope, the largest optical instrument in Germany.",
+    "geojson": "tautenburg.geojson"
+  },
+  {
+    "code": "teide",
+    "name": "Teide Observatory",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2390,
+    "aperture": "1.5 m",
+    "telescopes": [
+      "Carlos Sánchez 1.5m",
+      "IAC-80",
+      "QUIJOTE"
+    ],
+    "keyDiscoveries": [
+      "Cosmic microwave background studies",
+      "Brown dwarf discoveries",
+      "Solar observations"
+    ],
+    "location": "Teide Observatory, Spain",
+    "description": "Instituto de Astrofísica de Canarias facility on Tenerife. Specializes in solar physics, cosmic microwave background experiments, and infrared astronomy.",
+    "geojson": "teide.geojson"
+  },
+  {
+    "code": "telescope-array",
+    "name": "Telescope Array",
+    "country": "United States",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 1400,
+    "aperture": "762 km² area",
+    "telescopes": [
+      "Surface Detectors",
+      "Fluorescence Detectors"
+    ],
+    "keyDiscoveries": [
+      "Cosmic ray hotspot",
+      "Highest-energy cosmic rays",
+      "Ultra-high-energy cosmic ray composition"
+    ],
+    "location": "Telescope Array, United States",
+    "description": "Largest cosmic ray observatory in the Northern Hemisphere, in the Utah desert. Detected the Amaterasu particle, one of the highest-energy cosmic rays ever observed.",
+    "geojson": "telescope-array.geojson"
+  },
+  {
+    "code": "thai-national",
+    "name": "Thai National Observatory",
+    "country": "Thailand",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2457,
+    "aperture": "2.4 m",
+    "telescopes": [
+      "Thai National Telescope 2.4m"
+    ],
+    "keyDiscoveries": [
+      "Transient follow-up",
+      "Stellar spectroscopy",
+      "Variable stars"
+    ],
+    "location": "Thai National Observatory, Thailand",
+    "description": "NARIT's flagship facility on Doi Inthanon, Thailand's highest peak. The 2.4m telescope is the largest in Southeast Asia.",
+    "geojson": "thai-national.geojson"
+  },
+  {
+    "code": "tianma",
+    "name": "Tianma Radio Telescope",
+    "country": "China",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 20,
+    "aperture": "65 m",
+    "telescopes": [
+      "Tianma 65m"
+    ],
+    "keyDiscoveries": [
+      "Lunar and planetary missions support",
+      "VLBI imaging",
+      "Molecular spectroscopy"
+    ],
+    "location": "Tianma Radio Telescope, China",
+    "description": "Shanghai Astronomical Observatory's 65m telescope at Sheshan. The largest fully steerable radio telescope in Asia.",
+    "geojson": "tianma.geojson"
+  },
+  {
+    "code": "tidbinbilla",
+    "name": "Canberra Deep Space Communication Complex",
+    "country": "Australia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 656,
+    "aperture": "70 m (DSS-43)",
+    "telescopes": [
+      "DSS-43 70m",
+      "Various DSN dishes"
+    ],
+    "keyDiscoveries": [
+      "Voyager communication",
+      "Deep space communication",
+      "Radio astronomy"
+    ],
+    "location": "Canberra Deep Space Communication Complex, Australia",
+    "description": "NASA DSN station near Canberra. DSS-43 is the only antenna that can communicate with Voyager 2 and is used for radio astronomy observations.",
+    "geojson": "tidbinbilla.geojson"
+  },
+  {
+    "code": "tmt",
+    "name": "Thirty Meter Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Planned",
+    "elevation": 4050,
+    "aperture": "30 m",
+    "telescopes": [
+      "TMT"
+    ],
+    "keyDiscoveries": [
+      "Expected: Direct exoplanet imaging",
+      "First galaxies",
+      "Fundamental physics"
+    ],
+    "location": "Thirty Meter Telescope, United States",
+    "description": "An international observatory planned for Mauna Kea (with La Palma as alternative). Will be among the largest optical telescopes ever built.",
+    "geojson": "tmt.geojson"
+  },
+  {
+    "code": "tng",
+    "name": "Telescopio Nazionale Galileo",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2370,
+    "aperture": "3.58 m",
+    "telescopes": [
+      "TNG",
+      "HARPS-N"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet mass measurements",
+      "Transiting exoplanet follow-up",
+      "Stellar abundances"
+    ],
+    "location": "Telescopio Nazionale Galileo, Spain",
+    "description": "Italian national telescope on La Palma. HARPS-N, its high-precision spectrograph, has been crucial for measuring masses of transiting exoplanets discovered by Kepler and TESS.",
+    "geojson": "tng.geojson"
+  },
+  {
+    "code": "torun-optical",
+    "name": "Toruń Centre for Astronomy",
+    "country": "Poland",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 100,
+    "aperture": "0.9 m",
+    "telescopes": [
+      "90cm Schmidt-Cassegrain"
+    ],
+    "keyDiscoveries": [
+      "Radio pulsar timing",
+      "Interstellar medium studies",
+      "Stellar evolution"
+    ],
+    "location": "Toruń Centre for Astronomy, Poland",
+    "description": "Nicolaus Copernicus University astronomical center, one of the largest in Poland. Combines optical and radio astronomy research.",
+    "geojson": "torun-optical.geojson"
+  },
+  {
+    "code": "trappist-south",
+    "name": "TRAPPIST-South",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2315,
+    "aperture": "0.6 m",
+    "telescopes": [
+      "TRAPPIST-South"
+    ],
+    "keyDiscoveries": [
+      "TRAPPIST-1 system discovery",
+      "Exoplanet transits",
+      "Comet monitoring"
+    ],
+    "location": "TRAPPIST-South, Chile",
+    "description": "Belgian robotic telescope at La Silla that discovered the TRAPPIST-1 planetary system with 7 Earth-sized planets, including several in the habitable zone.",
+    "geojson": "trappist-south.geojson"
+  },
+  {
+    "code": "tubitak",
+    "name": "TUBITAK National Observatory",
+    "country": "Turkey",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2500,
+    "aperture": "1.5 m (RTT150)",
+    "telescopes": [
+      "RTT150",
+      "T100",
+      "T60"
+    ],
+    "keyDiscoveries": [
+      "Gamma-ray burst follow-up",
+      "Exoplanet transits",
+      "Asteroid photometry"
+    ],
+    "location": "TUBITAK National Observatory, Turkey",
+    "description": "Turkey's national observatory at Bakırlıtepe, operating the Russian-Turkish RTT150 telescope for rapid transient follow-up observations.",
+    "geojson": "tubitak.geojson"
+  },
+  {
+    "code": "tuorla",
+    "name": "Tuorla Observatory",
+    "country": "Finland",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 40,
+    "aperture": "1 m",
+    "telescopes": [
+      "1m reflector"
+    ],
+    "keyDiscoveries": [
+      "BL Lacertae object monitoring",
+      "Blazar variability",
+      "Active galactic nuclei"
+    ],
+    "location": "Tuorla Observatory, Finland",
+    "description": "University of Turku observatory known for long-term monitoring of blazars and active galactic nuclei, contributing to multi-wavelength campaigns.",
+    "geojson": "tuorla.geojson"
+  },
+  {
+    "code": "usuda",
+    "name": "Usuda Deep Space Center",
+    "country": "Japan",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 1456,
+    "aperture": "64 m",
+    "telescopes": [
+      "Usuda 64m"
+    ],
+    "keyDiscoveries": [
+      "Spacecraft communication",
+      "VLBI observations",
+      "Planetary probe support"
+    ],
+    "location": "Usuda Deep Space Center, Japan",
+    "description": "JAXA's deep space communication facility with a 64m antenna. Supports Japanese space missions and participates in VLBI radio astronomy observations.",
+    "geojson": "usuda.geojson"
+  },
+  {
+    "code": "vainu-bappu",
+    "name": "Vainu Bappu Observatory",
+    "country": "India",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 725,
+    "aperture": "2.3 m",
+    "telescopes": [
+      "Vainu Bappu 2.3m",
+      "1m Carl Zeiss"
+    ],
+    "keyDiscoveries": [
+      "Radial velocity of stars",
+      "Chromospheric studies",
+      "Comet observations"
+    ],
+    "location": "Vainu Bappu Observatory, India",
+    "description": "Indian Institute of Astrophysics observatory in Kavalur, Tamil Nadu. The 2.3m telescope is the largest optical telescope in Asia's developing nations.",
+    "geojson": "vainu-bappu.geojson"
+  },
+  {
+    "code": "vatican-vatt",
+    "name": "Vatican Advanced Technology Telescope",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 3178,
+    "aperture": "1.83 m",
+    "telescopes": [
+      "VATT"
+    ],
+    "keyDiscoveries": [
+      "Near-Earth asteroids",
+      "Star formation",
+      "Extragalactic studies"
+    ],
+    "location": "Vatican Advanced Technology Telescope, United States",
+    "description": "The Vatican Observatory's research telescope on Mount Graham, Arizona. Operated by the Vatican Observatory Research Group with advanced CCD imaging capabilities.",
+    "geojson": "vatican-vatt.geojson"
+  },
+  {
+    "code": "ventspils",
+    "name": "Ventspils International Radio Astronomy Centre",
+    "country": "Latvia",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 15,
+    "aperture": "32 m",
+    "telescopes": [
+      "RT-32",
+      "RT-16"
+    ],
+    "keyDiscoveries": [
+      "VLBI observations",
+      "Space debris tracking",
+      "Maser studies"
+    ],
+    "location": "Ventspils International Radio Astronomy Centre, Latvia",
+    "description": "Converted Soviet space surveillance station in Latvia. The 32m and 16m antennas now serve as VLBI stations for the European VLBI Network.",
+    "geojson": "ventspils.geojson"
+  },
+  {
+    "code": "vera-rubin",
+    "name": "Vera C. Rubin Observatory",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Under Construction",
+    "elevation": 2663,
+    "aperture": "8.4 m",
+    "telescopes": [
+      "Simonyi Survey Telescope",
+      "LSST Camera"
+    ],
+    "keyDiscoveries": [
+      "Expected: Legacy Survey of Space and Time",
+      "Dark energy/matter",
+      "Near-Earth objects"
+    ],
+    "location": "Vera C. Rubin Observatory, Chile",
+    "description": "Formerly LSST. Will photograph the entire visible sky every few nights for 10 years, producing a 500 petabyte dataset to revolutionize time-domain astronomy.",
+    "geojson": "vera-rubin.geojson"
+  },
+  {
+    "code": "veritas",
+    "name": "VERITAS",
+    "country": "United States",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 1268,
+    "aperture": "4 × 12 m mirrors",
+    "telescopes": [
+      "VERITAS"
+    ],
+    "keyDiscoveries": [
+      "Starburst galaxy gamma rays",
+      "Blazar flares at TeV",
+      "Dark matter searches"
+    ],
+    "location": "VERITAS, United States",
+    "description": "Four 12m imaging atmospheric Cherenkov telescopes at Fred Lawrence Whipple Observatory. Key facility for very-high-energy gamma-ray astronomy.",
+    "geojson": "veritas.geojson"
+  },
+  {
+    "code": "virgo",
+    "name": "Virgo Interferometer",
+    "country": "Italy",
+    "observatoryType": "Multi-messenger",
+    "status": "Operational",
+    "elevation": 9,
+    "aperture": "3 km arms",
+    "telescopes": [
+      "Advanced Virgo"
+    ],
+    "keyDiscoveries": [
+      "Gravitational wave sky localization",
+      "Binary neutron star merger GW170817",
+      "Black hole mergers"
+    ],
+    "location": "Virgo Interferometer, Italy",
+    "description": "European gravitational wave detector near Pisa. Adding Virgo to LIGO observations enables precise source localization, crucial for multi-messenger follow-up.",
+    "geojson": "virgo.geojson"
+  },
+  {
+    "code": "vla",
+    "name": "Karl G. Jansky Very Large Array",
+    "country": "United States",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 2124,
+    "aperture": "27 × 25 m antennas",
+    "telescopes": [
+      "VLA"
+    ],
+    "keyDiscoveries": [
+      "Radio jets from black holes",
+      "Cosmic radio sources",
+      "Molecular gas in galaxies"
+    ],
+    "location": "Karl G. Jansky Very Large Array, United States",
+    "description": "27 radio antennas in a Y-configuration on the Plains of San Agustin, New Mexico. One of the world's premier radio telescopes since 1980.",
+    "geojson": "vla.geojson"
+  },
+  {
+    "code": "vlt",
+    "name": "Very Large Telescope (VLT)",
+    "country": "Chile",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2635,
+    "aperture": "4 × 8.2 m",
+    "telescopes": [
+      "Antu",
+      "Kueyen",
+      "Melipal",
+      "Yepun",
+      "VLTI"
+    ],
+    "keyDiscoveries": [
+      "First image of exoplanet",
+      "Stellar orbits around Sgr A*",
+      "Accelerating universe confirmation"
+    ],
+    "location": "Very Large Telescope (VLT), Chile",
+    "description": "ESO's flagship facility at Cerro Paranal. Its four 8.2m Unit Telescopes can work independently or combine light interferometrically, making it the world's most productive ground-based observatory.",
+    "geojson": "vlt.geojson"
+  },
+  {
+    "code": "westerbork",
+    "name": "Westerbork Synthesis Radio Telescope",
+    "country": "Netherlands",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 16,
+    "aperture": "14 × 25 m dishes",
+    "telescopes": [
+      "WSRT",
+      "Apertif"
+    ],
+    "keyDiscoveries": [
+      "Hydrogen gas in galaxies",
+      "Galaxy rotation curves",
+      "Radio transient surveys"
+    ],
+    "location": "Westerbork Synthesis Radio Telescope, Netherlands",
+    "description": "An array of 14 dish antennas in Drenthe. Pioneered radio aperture synthesis imaging and continues observations with the Apertif phased-array feed system.",
+    "geojson": "westerbork.geojson"
+  },
+  {
+    "code": "wht",
+    "name": "William Herschel Telescope",
+    "country": "Spain",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2344,
+    "aperture": "4.2 m",
+    "telescopes": [
+      "WHT"
+    ],
+    "keyDiscoveries": [
+      "Gravitational lensing",
+      "Galaxy dynamics",
+      "Supernovae spectroscopy"
+    ],
+    "location": "William Herschel Telescope, Spain",
+    "description": "The largest optical telescope in Europe when built in 1987. Part of the Isaac Newton Group on La Palma, specializing in spectroscopy and imaging.",
+    "geojson": "wht.geojson"
+  },
+  {
+    "code": "winer",
+    "name": "Winer Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 1515,
+    "aperture": "0.7 m",
+    "telescopes": [
+      "KELT-North",
+      "Various 0.5-0.7m"
+    ],
+    "keyDiscoveries": [
+      "KELT exoplanet transits",
+      "Variable star monitoring",
+      "Transient surveys"
+    ],
+    "location": "Winer Observatory, United States",
+    "description": "Private research observatory in southeastern Arizona hosting robotic telescopes including KELT-North, which has discovered several transiting hot Jupiters.",
+    "geojson": "winer.geojson"
+  },
+  {
+    "code": "wise",
+    "name": "Wise Observatory",
+    "country": "Israel",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 875,
+    "aperture": "1 m",
+    "telescopes": [
+      "1m Ritchey-Chrétien",
+      "Jay Baum Rich 0.71m"
+    ],
+    "keyDiscoveries": [
+      "Exoplanet transits",
+      "Cataclysmic variable stars",
+      "Near-Earth asteroids"
+    ],
+    "location": "Wise Observatory, Israel",
+    "description": "Tel Aviv University observatory in the Negev Desert. Israel's largest optical telescope, active in exoplanet transit observations and asteroid studies.",
+    "geojson": "wise.geojson"
+  },
+  {
+    "code": "xinglong",
+    "name": "Xinglong Station",
+    "country": "China",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 960,
+    "aperture": "4 m (LAMOST)",
+    "telescopes": [
+      "LAMOST",
+      "2.16m",
+      "Schmidt"
+    ],
+    "keyDiscoveries": [
+      "Millions of stellar spectra (LAMOST)",
+      "Stellar classification",
+      "Binary star studies"
+    ],
+    "location": "Xinglong Station, China",
+    "description": "NAOC's major observing station near Beijing. LAMOST, the Large Sky Area Multi-Object Fiber Spectroscopic Telescope, has obtained more stellar spectra than any other facility.",
+    "geojson": "xinglong.geojson"
+  },
+  {
+    "code": "xrism-jaxa",
+    "name": "JAXA Sagamihara (XRISM)",
+    "country": "Japan",
+    "observatoryType": "Space-based",
+    "status": "Operational",
+    "elevation": 100,
+    "aperture": "XRISM: 0.45 m (X-ray)",
+    "telescopes": [
+      "XRISM"
+    ],
+    "keyDiscoveries": [
+      "X-ray spectroscopy of galaxy clusters",
+      "Stellar remnants",
+      "High-resolution X-ray spectroscopy"
+    ],
+    "location": "JAXA Sagamihara (XRISM), Japan",
+    "description": "JAXA's Institute of Space and Astronautical Science operates XRISM (X-Ray Imaging and Spectroscopy Mission), launched 2023, for high-resolution X-ray spectroscopy.",
+    "geojson": "xrism-jaxa.geojson"
+  },
+  {
+    "code": "yebes",
+    "name": "Yebes Observatory",
+    "country": "Spain",
+    "observatoryType": "Radio",
+    "status": "Operational",
+    "elevation": 980,
+    "aperture": "40 m",
+    "telescopes": [
+      "Yebes 40m",
+      "13.2m RAEGE"
+    ],
+    "keyDiscoveries": [
+      "Molecular spectroscopy",
+      "VLBI astrometry",
+      "Interstellar chemistry"
+    ],
+    "location": "Yebes Observatory, Spain",
+    "description": "IGN observatory in Guadalajara province. The 40m telescope specializes in molecular spectroscopy and VLBI. Part of the RAEGE geodetic network.",
+    "geojson": "yebes.geojson"
+  },
+  {
+    "code": "yerkes",
+    "name": "Yerkes Observatory",
+    "country": "United States",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 334,
+    "aperture": "1.02 m (40-inch refractor)",
+    "telescopes": [
+      "40-inch Refractor",
+      "41-inch Reflector"
+    ],
+    "keyDiscoveries": [
+      "Spectral classification system",
+      "Stellar parallaxes",
+      "Interstellar matter"
+    ],
+    "location": "Yerkes Observatory, United States",
+    "description": "Houses the world's largest refracting telescope (40-inch). Founded in 1897 by George Ellery Hale, birthplace of modern astrophysics. Recently restored and reopened.",
+    "geojson": "yerkes.geojson"
+  },
+  {
+    "code": "yunnan",
+    "name": "Yunnan Astronomical Observatory",
+    "country": "China",
+    "observatoryType": "Optical",
+    "status": "Operational",
+    "elevation": 2000,
+    "aperture": "2.4 m",
+    "telescopes": [
+      "2.4m Lijiang",
+      "1m solar telescope"
+    ],
+    "keyDiscoveries": [
+      "Binary star systems",
+      "Active galactic nuclei monitoring",
+      "Solar physics"
+    ],
+    "location": "Yunnan Astronomical Observatory, China",
+    "description": "CAS observatory in Kunming operating the 2.4m telescope at Lijiang and a 1m solar telescope. Focus on time-domain astronomy and solar activity.",
+    "geojson": "yunnan.geojson"
+  }
+]

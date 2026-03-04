@@ -1,0 +1,15 @@
+{
+  "code": "historic-city-of-ahmadabad",
+  "name": "Historic City of Ahmadabad",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The walled city of Ahmadabad, founded by Sultan Ahmad Shah in the 15th century, on the eastern bank of the Sabarmati river, presents a rich architectural heritage from the sultanate period, notably the Bhadra citadel, the walls and gates of the Fort city and numerous mosques and tombs as well as important Hindu and Jain temples of later periods. The urban fabric is made up of densely-packed traditional houses (pols) in gated traditional streets (puras) with characteristic features such as bird feeders, public wells and religious institutions. The city continued to flourish as the capital of the State of Gujarat for six centuries, up to the present.",
+  "danger": false,
+  "geojson": "historic-city-of-ahmadabad.geojson"
+}

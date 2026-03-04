@@ -1,0 +1,19 @@
+{
+  "code": "aae-1-africa",
+  "name": "AAE-1 (Africa)",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8000,
+  "yearLaid": 2016,
+  "rfsDate": "2017-07",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Djibouti, Djibouti",
+    "Aden, Yemen",
+    "Mogadishu, Somalia",
+    "Mombasa, Kenya",
+    "Dar es Salaam, Tanzania"
+  ],
+  "description": "Asia Africa Europe-1 Africa segment.",
+  "geojson": "aae-1-africa.geojson"
+}

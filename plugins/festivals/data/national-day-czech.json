@@ -1,0 +1,14 @@
+{
+  "code": "national-day-czech",
+  "name": "Czech Statehood Day",
+  "festivalType": "National",
+  "dateOrSeason": "September 28",
+  "origin": "Czech national",
+  "estimatedAttendance": "10.8+ million Czechs",
+  "unescoICH": "Not inscribed",
+  "traditions": "State awards ceremony at Prague Castle; wreath-laying; Czech flag displays; cultural events; open-door days at monuments.",
+  "historicalBackground": "Czech Statehood Day honors St. Wenceslas, the patron saint of Bohemia, who was martyred on September 28, 935. It celebrates Czech identity and sovereignty.",
+  "description": "The Czech Republic's celebration of national identity, honoring the patron saint of Bohemia with ceremonies at Prague Castle.",
+  "location": "Prague, Czech Republic",
+  "geojson": "national-day-czech.geojson"
+}

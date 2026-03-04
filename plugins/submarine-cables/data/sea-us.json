@@ -1,0 +1,18 @@
+{
+  "code": "sea-us",
+  "name": "SEA-US",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2015,
+  "rfsDate": "2017-08",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Manado, Indonesia",
+    "Davao, Philippines",
+    "Honolulu, USA",
+    "Los Angeles, USA"
+  ],
+  "description": "Southeast Asia-US cable via Indonesia and the Philippines.",
+  "geojson": "sea-us.geojson"
+}

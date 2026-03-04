@@ -1,0 +1,19 @@
+{
+  "code": "tapanuli-orangutan",
+  "name": "Tapanuli Orangutan",
+  "scientificName": "Pongo tapanuliensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~800 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical montane forest",
+  "threats": [
+    "Habitat loss",
+    "Hydroelectric dam project",
+    "Hunting",
+    "Isolation"
+  ],
+  "conservationEfforts": "Discovered as a separate species in 2017. Conservation groups oppose the Batang Toru hydroelectric dam that would fragment remaining habitat.",
+  "description": "The most recently described great ape species, known from only about 800 individuals in the Batang Toru forest of North Sumatra. They have distinctive cinnamon-colored fur and smaller skull than other orangutans.",
+  "geojson": "tapanuli-orangutan.geojson"
+}

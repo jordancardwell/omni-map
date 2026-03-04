@@ -1,0 +1,18 @@
+{
+  "code": "hnd-cdg",
+  "name": "Tokyo — Paris",
+  "airports": [
+    "HND",
+    "CDG"
+  ],
+  "distanceKm": 9707,
+  "weeklyFlights": 20,
+  "airlines": [
+    "ANA",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HND–CDG route between Tokyo and Paris. Distance: 9,707 km. ~20 weekly flights operated by ANA, Air France.",
+  "geojson": "hnd-cdg.geojson"
+}

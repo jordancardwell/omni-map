@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.798888889,
+          41.10166667
+        ]
+      },
+      "properties": {
+        "code": "alto-douro-wine-region",
+        "name": "Alto Douro Wine Region",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

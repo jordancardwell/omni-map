@@ -1,0 +1,18 @@
+{
+  "code": "cdg-ams",
+  "name": "Paris — Amsterdam",
+  "airports": [
+    "CDG",
+    "AMS"
+  ],
+  "distanceKm": 399,
+  "weeklyFlights": 120,
+  "airlines": [
+    "Air France",
+    "KLM"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CDG–AMS route between Paris and Amsterdam. Distance: 399 km. ~120 weekly flights operated by Air France, KLM.",
+  "geojson": "cdg-ams.geojson"
+}

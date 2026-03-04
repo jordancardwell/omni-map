@@ -1,0 +1,16 @@
+{
+  "code": "ao",
+  "name": "Angola",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European Europlug.",
+  "geojson": "ao.geojson"
+}

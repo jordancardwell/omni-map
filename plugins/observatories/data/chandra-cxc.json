@@ -1,0 +1,20 @@
+{
+  "code": "chandra-cxc",
+  "name": "Chandra X-ray Center",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 10,
+  "aperture": "Chandra: 1.2 m (X-ray)",
+  "telescopes": [
+    "Chandra X-ray Observatory"
+  ],
+  "keyDiscoveries": [
+    "Black hole accretion",
+    "Dark energy evidence",
+    "Supernova remnant structure"
+  ],
+  "location": "Chandra X-ray Center, United States",
+  "description": "Science operations center at the Smithsonian Astrophysical Observatory in Cambridge, MA. Chandra provides the sharpest X-ray images of the cosmos.",
+  "geojson": "chandra-cxc.geojson"
+}

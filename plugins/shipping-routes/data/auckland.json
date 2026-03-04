@@ -1,0 +1,15 @@
+{
+  "code": "auckland",
+  "name": "Port of Auckland",
+  "country": "New Zealand",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "New Zealand Trade Route",
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Auckland in New Zealand. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+  "geojson": "auckland.geojson"
+}

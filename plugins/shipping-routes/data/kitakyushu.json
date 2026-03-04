@@ -1,0 +1,14 @@
+{
+  "code": "kitakyushu",
+  "name": "Port of Kitakyushu",
+  "country": "Japan",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 110,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Kitakyushu in Japan. Annual cargo throughput: ~110 million tons. Type: Bulk Port.",
+  "geojson": "kitakyushu.geojson"
+}

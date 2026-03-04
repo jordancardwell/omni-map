@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3138888888,
+          36.1266666666
+        ]
+      },
+      "properties": {
+        "code": "yin-xu",
+        "name": "Yin Xu",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "bossa-nova",
+  "name": "Bossa Nova",
+  "region": "Rio de Janeiro, Brazil",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Nylon Guitar",
+    "Piano",
+    "Vocals",
+    "Double Bass",
+    "Light Percussion"
+  ],
+  "keyArtists": [
+    "João Gilberto",
+    "Tom Jobim",
+    "Astrud Gilberto",
+    "Vinícius de Moraes",
+    "Stan Getz"
+  ],
+  "description": "Bossa nova emerged in the late 1950s and early 1960s in the Copacabana and Ipanema neighborhoods of Rio de Janeiro. It fused samba rhythms with jazz harmonies, creating an intimate, sophisticated sound. The genre gained international fame through songs like 'The Girl from Ipanema' and 'Desafinado.'",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Brazilian Music",
+      "url": "https://folkways.si.edu/search?query=bossa+nova"
+    }
+  ],
+  "geojson": "bossa-nova.geojson"
+}

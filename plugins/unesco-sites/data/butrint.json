@@ -1,0 +1,14 @@
+{
+  "code": "butrint",
+  "name": "Butrint",
+  "type": "Cultural",
+  "country": "Albania",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Inhabited since prehistoric times, Butrint has been the site of a Greek colony, a Roman city and a bishopric. Following a period of prosperity under Byzantine administration, then a brief occupation by the Venetians, the city was abandoned in the late Middle Ages after marshes formed in the area. The present archaeological site is a repository of ruins representing each period in the city’s development.",
+  "danger": false,
+  "geojson": "butrint.geojson"
+}

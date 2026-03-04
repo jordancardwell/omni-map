@@ -1,0 +1,17 @@
+{
+  "code": "it",
+  "name": "Italy",
+  "avgDownloadMbps": 155.8,
+  "avgUploadMbps": 44.3,
+  "avgLatencyMs": 17,
+  "mobileDownloadMbps": 52.4,
+  "mobileUploadMbps": 10.6,
+  "fixedDownloadMbps": 155.8,
+  "fixedUploadMbps": 44.3,
+  "rank": 26,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Fiber rollout gaining momentum. ~15% year-over-year improvement.",
+  "geojson": "it.geojson"
+}

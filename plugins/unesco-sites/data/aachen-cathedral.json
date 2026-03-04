@@ -1,0 +1,16 @@
+{
+  "code": "aachen-cathedral",
+  "name": "Aachen Cathedral",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages.",
+  "danger": false,
+  "geojson": "aachen-cathedral.geojson"
+}

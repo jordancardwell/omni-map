@@ -1,0 +1,16 @@
+{
+  "code": "gn-lr-cable-2",
+  "name": "GN-LR Cable-2",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 227,
+  "yearLaid": 2020,
+  "rfsDate": "2019-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Conakry, Guinea",
+    "Monrovia, Liberia"
+  ],
+  "description": "GN-LR Cable-2 connecting Conakry to Monrovia along the West African coast.",
+  "geojson": "gn-lr-cable-2.geojson"
+}

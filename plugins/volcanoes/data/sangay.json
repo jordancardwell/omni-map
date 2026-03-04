@@ -1,0 +1,22 @@
+{
+  "code": "sangay",
+  "name": "Sangay",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 5230,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Ecuador",
+  "region": "Morona Santiago",
+  "location": "Morona Santiago, Ecuador",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in Ecuador, erupting almost continuously since 1934.",
+  "description": "Sangay has been in near-continuous eruption since 1934, making it one of the most persistently active volcanoes in the Andes.",
+  "geojson": "sangay.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "historic-quarter-of-the-city-of-colonia-del-sacramento",
+  "name": "Historic Quarter of the City of Colonia del Sacramento",
+  "type": "Cultural",
+  "country": "Uruguay",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Founded by the Portuguese in 1680 on the Río de la Plata, the city was of strategic importance in resisting the Spanish. After being disputed for a century, it was finally lost by its founders. The well-preserved urban landscape illustrates the successful fusion of the Portuguese, Spanish and post-colonial styles.",
+  "danger": false,
+  "geojson": "historic-quarter-of-the-city-of-colonia-del-sacramento.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "sardinia",
+  "name": "Sardinia Radio Telescope",
+  "country": "Italy",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 600,
+  "aperture": "64 m",
+  "telescopes": [
+    "SRT 64m"
+  ],
+  "keyDiscoveries": [
+    "Pulsar studies",
+    "VLBI imaging",
+    "Space debris tracking"
+  ],
+  "location": "Sardinia Radio Telescope, Italy",
+  "description": "INAF's newest major radio telescope in Sardinia, capable of receiving frequencies from 300 MHz to 116 GHz. Also used for space debris monitoring.",
+  "geojson": "sardinia.geojson"
+}

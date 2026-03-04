@@ -1,0 +1,18 @@
+{
+  "code": "black-rhino",
+  "name": "Black Rhinoceros",
+  "scientificName": "Diceros bicornis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~6,200 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Savanna and scrubland",
+  "threats": [
+    "Poaching",
+    "Habitat loss",
+    "Political instability"
+  ],
+  "conservationEfforts": "Anti-poaching units with technology like drones and GPS tracking. Rhino horn trade bans enforced internationally. Translocation programs establish new populations.",
+  "description": "The black rhino has a hooked upper lip adapted for browsing on shrubs. Poaching reduced their numbers from 65,000 in 1970 to just 2,400 by 1995, but intensive conservation has enabled a slow recovery.",
+  "geojson": "black-rhino.geojson"
+}

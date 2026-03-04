@@ -1,0 +1,16 @@
+{
+  "code": "kenya-lake-system-in-the-great-rift-valley",
+  "name": "Kenya Lake System in the Great Rift Valley",
+  "type": "Natural",
+  "country": "Kenya",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance.",
+  "danger": false,
+  "geojson": "kenya-lake-system-in-the-great-rift-valley.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "tis-thailand-indonesia-singapore",
+  "name": "TIS (Thailand-Indonesia-Singapore)",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3000,
+  "yearLaid": 2018,
+  "rfsDate": "2018-12",
+  "owner": "TOT, Telkom, Singtel",
+  "landingPoints": [
+    "Songkhla, Thailand",
+    "Singapore",
+    "Batam, Indonesia",
+    "Jakarta, Indonesia"
+  ],
+  "description": "Cable connecting Thailand to Singapore and Indonesia.",
+  "geojson": "tis-thailand-indonesia-singapore.geojson"
+}

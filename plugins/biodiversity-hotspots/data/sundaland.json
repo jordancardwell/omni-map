@@ -1,0 +1,29 @@
+{
+  "code": "sundaland",
+  "name": "Sundaland",
+  "location": "Southeast Asia (Malay Peninsula, Borneo, Sumatra, Java)",
+  "areaKm2": 1501063,
+  "habitatRemaining": "7.8%",
+  "plantSpecies": 25000,
+  "endemicPlants": 15000,
+  "vertebrateSpecies": 1800,
+  "endemicVertebrates": 701,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Orangutan",
+    "Sumatran rhinoceros",
+    "Sumatran tiger",
+    "Proboscis monkey",
+    "Rafflesia arnoldii"
+  ],
+  "threats": [
+    "Palm oil plantations",
+    "Logging",
+    "Mining",
+    "Fires",
+    "Poaching"
+  ],
+  "conservationEfforts": "Roundtable on Sustainable Palm Oil (RSPO) promotes sustainable production. Orangutan rehabilitation centers in Borneo and Sumatra. Heart of Borneo initiative protects 22 million hectares. Leuser Ecosystem in Sumatra is the last place where orangutans, tigers, elephants, and rhinos coexist.",
+  "description": "Sundaland encompasses the western half of the Indo-Malayan archipelago, including the Malay Peninsula, Borneo, Sumatra, Java, and surrounding islands. During ice ages, these were connected by land bridges on the Sunda Shelf, allowing species exchange.\n\nThe hotspot's tropical rainforests are among the most species-rich on Earth. Borneo alone has more tree species than all of tropical Africa. Sundaland is home to both species of orangutan, the critically endangered Sumatran rhinoceros and tiger, and Rafflesia arnoldii — the world's largest flower. Rapid conversion to oil palm plantations is the greatest threat.",
+  "geojson": "sundaland.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ma-no-cable",
+  "name": "MA-NO Cable",
+  "capacityTbps": 46,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10154,
+  "yearLaid": 2016,
+  "rfsDate": "2022-06",
+  "owner": "Bulk",
+  "landingPoints": [
+    "Lynn, USA",
+    "Kristiansand, Norway"
+  ],
+  "description": "MA-NO Cable connecting Lynn to Kristiansand.",
+  "geojson": "ma-no-cable.geojson"
+}

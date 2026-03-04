@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6665,
+          27.097528
+        ]
+      },
+      "properties": {
+        "code": "fatehpur-sikri",
+        "name": "Fatehpur Sikri",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

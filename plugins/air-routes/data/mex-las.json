@@ -1,0 +1,17 @@
+{
+  "code": "mex-las",
+  "name": "Mexico City — Las Vegas",
+  "airports": [
+    "MEX",
+    "LAS"
+  ],
+  "distanceKm": 2428,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Southwest"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–LAS route between Mexico City and Las Vegas. Distance: 2,428 km. ~20 weekly flights operated by Southwest.",
+  "geojson": "mex-las.geojson"
+}

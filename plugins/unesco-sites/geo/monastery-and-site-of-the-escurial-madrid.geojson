@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14775,
+          40.5891111111
+        ]
+      },
+      "properties": {
+        "code": "monastery-and-site-of-the-escurial-madrid",
+        "name": "Monastery and Site of the Escurial, Madrid",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

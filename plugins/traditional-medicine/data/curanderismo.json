@@ -1,0 +1,28 @@
+{
+  "code": "curanderismo",
+  "name": "Curanderismo",
+  "tradition": "Latin American",
+  "originRegion": "Mesoamerica / Latin America",
+  "estimatedPractitioners": 100000,
+  "whoRecognition": "Partially recognized — Some Latin American countries include in national health policies; WHO acknowledges Indigenous medicine traditions",
+  "keyPractices": [
+    "Herbal medicine (Yerbería)",
+    "Spiritual cleansing (Limpia)",
+    "Massage (Sobada)",
+    "Ritual healing ceremonies",
+    "Prayer and invocation",
+    "Sweat lodge (Temazcal)",
+    "Cupping"
+  ],
+  "regionsOfPractice": [
+    "Mexico",
+    "Guatemala",
+    "Peru",
+    "Colombia",
+    "Ecuador",
+    "US Southwest (Latino communities)"
+  ],
+  "description": "Curanderismo is a traditional healing system practiced across Latin America and Latino communities in the United States. It blends Indigenous Mesoamerican medicine with Spanish colonial folk healing and Catholic spiritual traditions. Curanderos/curanderas (healers) treat both physical and spiritual ailments using herbal remedies, ritual cleansings (limpias), massage, prayer, and ceremony. The system recognizes culture-bound syndromes such as susto (soul fright), empacho (digestive blockage), and mal de ojo (evil eye). Traditional markets (mercados) serve as important sources of medicinal herbs and healing supplies.",
+  "historicalNotes": "Curanderismo's roots lie in the sophisticated medical traditions of the Aztec, Maya, and Inca civilizations, which had extensive pharmacopoeias and specialized healers. The Aztec herbal text Badianus Manuscript (1552) documented Indigenous medicinal plants. Spanish colonization blended these traditions with European humoral medicine and Catholic healing practices. The resulting syncretic system adapted to local ecosystems throughout Latin America. Today, Mexico's IMSS-Bienestar program and Peru's National Institute of Traditional Medicine represent efforts to integrate curanderismo into public health frameworks.",
+  "geojson": "curanderismo.geojson"
+}

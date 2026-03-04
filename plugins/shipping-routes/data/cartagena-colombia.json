@@ -1,0 +1,15 @@
+{
+  "code": "cartagena-colombia",
+  "name": "Port of Cartagena",
+  "country": "Colombia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South America–Caribbean Route",
+    "Panama Canal Route"
+  ],
+  "description": "Port of Cartagena in Colombia. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+  "geojson": "cartagena-colombia.geojson"
+}

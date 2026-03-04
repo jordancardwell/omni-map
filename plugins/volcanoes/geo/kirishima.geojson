@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[130.862,31.934]},"properties":{"code":"kirishima","name":"Kirishima","volcanoType":"Complex volcano","status":"Erupting/Recent","elevation":1700,"lastEruption":"2022","vei":3}}]}

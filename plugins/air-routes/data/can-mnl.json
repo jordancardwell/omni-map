@@ -1,0 +1,18 @@
+{
+  "code": "can-mnl",
+  "name": "Guangzhou — Manila",
+  "airports": [
+    "CAN",
+    "MNL"
+  ],
+  "distanceKm": 1278,
+  "weeklyFlights": 30,
+  "airlines": [
+    "China Southern",
+    "Philippine Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CAN–MNL route between Guangzhou and Manila. Distance: 1,278 km. ~30 weekly flights operated by China Southern, Philippine Airlines.",
+  "geojson": "can-mnl.geojson"
+}

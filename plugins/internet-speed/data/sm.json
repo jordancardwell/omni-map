@@ -1,0 +1,17 @@
+{
+  "code": "sm",
+  "name": "San Marino",
+  "avgDownloadMbps": 88.4,
+  "avgUploadMbps": 32.6,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 42.6,
+  "mobileUploadMbps": 8.4,
+  "fixedDownloadMbps": 88.4,
+  "fixedUploadMbps": 32.6,
+  "rank": 52,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Small European microstate. ~8% year-over-year growth.",
+  "geojson": "sm.geojson"
+}

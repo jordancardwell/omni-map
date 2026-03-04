@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"et","name":"Ethiopia","country":"ET","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[33,3.4],[33,15],[48,15],[48,3.4],[33,3.4]]]}}]}

@@ -1,0 +1,15 @@
+{
+  "code": "nahanni-national-park",
+  "name": "Nahanni National Park",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located along the South Nahanni River, one of the most spectacular wild rivers in North America, this park contains deep canyons and huge waterfalls, as well as a unique limestone cave system. The park is also home to animals of the boreal forest, such as wolves, grizzly bears and caribou. Dall's sheep and mountain goats are found in the park's alpine environment.",
+  "danger": false,
+  "geojson": "nahanni-national-park.geojson"
+}

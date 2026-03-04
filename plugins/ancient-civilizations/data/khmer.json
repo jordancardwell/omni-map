@@ -1,0 +1,12 @@
+{
+  "code": "khmer",
+  "name": "Khmer Empire",
+  "period": "c. 802–1431 CE",
+  "region": "Southeast Asia",
+  "type": "Civilization",
+  "writingSystem": "Khmer script (Pallava-derived)",
+  "majorAchievements": ["Angkor Wat", "Hydraulic engineering", "Bayon temple faces", "Massive reservoir systems", "Hindu-Buddhist synthesis", "Urban planning"],
+  "keyCities": ["Angkor", "Koh Ker", "Banteay Chhmar", "Preah Vihear", "Sambor Prei Kuk"],
+  "description": "The Khmer Empire, centered in modern-day Cambodia, built one of the most impressive civilizations in Southeast Asia. Its capital at Angkor was one of the largest preindustrial cities in the world, supported by an elaborate hydraulic system of reservoirs and canals. Angkor Wat, the empire's crowning achievement, remains the largest religious monument ever constructed.",
+  "geojson": "khmer.geojson"
+}

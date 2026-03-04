@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6777777777,
+          32.65745
+        ]
+      },
+      "properties": {
+        "code": "meidan-emam-esfahan",
+        "name": "Meidan Emam, Esfahan",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

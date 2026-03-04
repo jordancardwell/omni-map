@@ -1,0 +1,22 @@
+{
+  "code": "gy",
+  "name": "Guyana",
+  "voltage": "240V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "D",
+    "G"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types at 240V. Bring a universal adapter and verify device voltage.",
+  "geojson": "gy.geojson"
+}

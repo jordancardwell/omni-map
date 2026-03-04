@@ -1,0 +1,16 @@
+{
+  "code": "gu-sb-cable",
+  "name": "GU-SB Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3036,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "BSCC",
+  "landingPoints": [
+    "Guam",
+    "Honiara, Solomon Islands"
+  ],
+  "description": "GU-SB Cable connecting Guam to Honiara in the Pacific.",
+  "geojson": "gu-sb-cable.geojson"
+}

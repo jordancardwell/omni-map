@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"yangon","name":"Port of Yangon","featureType":"port","portType":"Multi-Purpose Port","country":"Myanmar"},"geometry":{"type":"Point","coordinates":[96.17,16.77]}}]}

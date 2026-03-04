@@ -1,0 +1,14 @@
+{
+  "code": "thaipusam",
+  "name": "Thaipusam",
+  "festivalType": "Religious",
+  "dateOrSeason": "January–February (full moon)",
+  "origin": "Hindu Tamil tradition",
+  "estimatedAttendance": "1.5+ million at Batu Caves",
+  "unescoICH": "Not inscribed",
+  "traditions": "Kavadi (burden-bearing) rituals with body piercings; milk pot carrying; shaving heads; chariot processions; prayers to Lord Murugan.",
+  "historicalBackground": "Thaipusam honors Lord Murugan receiving a divine spear (Vel) from Goddess Parvati to vanquish evil. The festival emphasizes penance and devotion.",
+  "description": "A Hindu Tamil festival of devotion to Lord Murugan, famous for its dramatic kavadi rituals and processions at Batu Caves, Malaysia.",
+  "location": "Kuala Lumpur, Malaysia",
+  "geojson": "thaipusam.geojson"
+}

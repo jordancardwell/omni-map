@@ -1,0 +1,42 @@
+{
+  "id": "endangered-species",
+  "name": "Endangered Species Habitats",
+  "description": "Range polygons for ~200 iconic endangered species colored by IUCN Red List status, sourced from IUCN spatial data (curated subset)",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#F97316",
+  "categories": ["ecology", "environment", "conservation", "wildlife"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#F97316",
+  "schema": "EndangeredSpeciesMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "scientificName", "iucnStatus", "habitatType", "taxonomicGroup", "description"],
+    "groupBy": "taxonomicGroup",
+    "titleField": "name",
+    "subtitleField": "scientificName",
+    "badgeField": "populationEstimate",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "scientificName"
+  },
+  "detailFields": [
+    { "key": "iucnStatus", "label": "IUCN Status", "type": "status-badge", "statusColors": {
+      "Vulnerable": "#EAB308",
+      "Endangered": "#F97316",
+      "Critically Endangered": "#EF4444"
+    }},
+    { "key": "taxonomicGroup", "label": "Taxonomic Group", "type": "text" },
+    { "key": "populationEstimate", "label": "Population Estimate", "type": "text" },
+    { "key": "populationTrend", "label": "Population Trend", "type": "text" },
+    { "key": "habitatType", "label": "Habitat Type", "type": "text" },
+    { "key": "threats", "label": "Threats", "type": "tags" },
+    { "key": "conservationEfforts", "label": "Conservation Efforts", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

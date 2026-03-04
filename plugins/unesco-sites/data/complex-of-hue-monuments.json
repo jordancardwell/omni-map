@@ -1,0 +1,14 @@
+{
+  "code": "complex-of-hue-monuments",
+  "name": "Complex of Hué Monuments",
+  "type": "Cultural",
+  "country": "Viet Nam",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Established as the capital of unified Viet Nam in 1802, Hué was not only the political but also the cultural and religious centre under the Nguyen dynasty until 1945. The Perfume River winds its way through the Capital City, the Imperial City, the Forbidden Purple City and the Inner City, giving this unique feudal capital a setting of great natural beauty.",
+  "danger": false,
+  "geojson": "complex-of-hue-monuments.geojson"
+}

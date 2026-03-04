@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"dakar","name":"Port of Dakar","featureType":"port","portType":"Multi-Purpose Port","country":"Senegal"},"geometry":{"type":"Point","coordinates":[-17.44,14.69]}}]}

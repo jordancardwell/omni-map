@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.00833333,
+          -2.333333333
+        ]
+      },
+      "properties": {
+        "code": "central-amazon-conservation-complex",
+        "name": "Central Amazon Conservation Complex",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

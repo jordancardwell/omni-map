@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.36666667,
+          -33.8
+        ]
+      },
+      "properties": {
+        "code": "robben-island",
+        "name": "Robben Island",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

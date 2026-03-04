@@ -1,0 +1,21 @@
+{
+  "code": "kamchatka",
+  "name": "Kamchatka Current",
+  "currentType": "Cold",
+  "speedRange": "0.2–0.4 m/s",
+  "origin": "Bering Sea",
+  "destination": "Oyashio Current",
+  "climateEffects": [
+    "Transports cold Bering water south",
+    "Cools Kamchatka Peninsula",
+    "Feeds nutrient-rich Oyashio"
+  ],
+  "connectedEcosystems": [
+    "Bering Sea fisheries",
+    "Kamchatka marine habitats",
+    "Kuril Islands ecosystem"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Kamchatka Current flows southwestward along the coast of the Kamchatka Peninsula, carrying cold, nutrient-rich water from the Bering Sea. It is the northern feeder of the Oyashio Current.",
+  "geojson": "kamchatka.geojson"
+}

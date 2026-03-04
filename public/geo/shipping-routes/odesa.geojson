@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"odesa","name":"Port of Odesa","featureType":"port","portType":"Multi-Purpose Port","country":"Ukraine"},"geometry":{"type":"Point","coordinates":[30.74,46.49]}}]}

@@ -1,0 +1,14 @@
+{
+  "code": "night-of-radishes",
+  "name": "Night of the Radishes",
+  "festivalType": "Cultural",
+  "dateOrSeason": "December 23",
+  "origin": "Oaxacan tradition",
+  "estimatedAttendance": "Thousands of visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Carved radish sculptures depicting nativity scenes and historical events; competition for best carving; market stalls; buñuelos.",
+  "historicalBackground": "Noche de Rábanos began in 1897 when Oaxacan merchants carved radishes to attract customers at the Christmas market. It became an annual competition.",
+  "description": "Oaxaca's wonderfully quirky Christmas tradition, where artisans compete to create the most elaborate sculptures carved from giant radishes.",
+  "location": "Oaxaca, Mexico",
+  "geojson": "night-of-radishes.geojson"
+}

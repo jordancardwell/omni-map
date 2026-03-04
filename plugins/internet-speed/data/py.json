@@ -1,0 +1,17 @@
+{
+  "code": "py",
+  "name": "Paraguay",
+  "avgDownloadMbps": 24.6,
+  "avgUploadMbps": 8.2,
+  "avgLatencyMs": 36,
+  "mobileDownloadMbps": 18.4,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 24.6,
+  "fixedUploadMbps": 8.2,
+  "rank": 102,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Improving broadband access. ~14% year-over-year growth.",
+  "geojson": "py.geojson"
+}

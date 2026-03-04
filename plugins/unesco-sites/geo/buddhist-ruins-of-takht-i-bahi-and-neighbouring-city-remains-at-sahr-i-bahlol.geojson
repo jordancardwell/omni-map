@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.94583333,
+          34.32083333
+        ]
+      },
+      "properties": {
+        "code": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+        "name": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+        "type": "Cultural",
+        "country": "Pakistan",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

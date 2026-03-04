@@ -1,0 +1,15 @@
+{
+  "code": "gros-morne-national-park",
+  "name": "Gros Morne National Park",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the west coast of the island of Newfoundland, the park provides a rare example of the process of continental drift, where deep ocean crust and the rocks of the earth's mantle lie exposed. More recent glacial action has resulted in some spectacular scenery, with coastal lowland, alpine plateau, fjords, glacial valleys, sheer cliffs, waterfalls and many pristine lakes.",
+  "danger": false,
+  "geojson": "gros-morne-national-park.geojson"
+}

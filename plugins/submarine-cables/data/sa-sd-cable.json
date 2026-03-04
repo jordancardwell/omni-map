@@ -1,0 +1,16 @@
+{
+  "code": "sa-sd-cable",
+  "name": "SA-SD Cable",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3166,
+  "yearLaid": 2016,
+  "rfsDate": "2021-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Jeddah, Saudi Arabia",
+    "Port Sudan, Sudan"
+  ],
+  "description": "SA-SD Cable connecting Jeddah to Port Sudan.",
+  "geojson": "sa-sd-cable.geojson"
+}

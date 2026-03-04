@@ -1,0 +1,17 @@
+{
+  "code": "ctu-nrt",
+  "name": "Chengdu — Tokyo",
+  "airports": [
+    "CTU",
+    "NRT"
+  ],
+  "distanceKm": 3426,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Sichuan Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CTU–NRT route between Chengdu and Tokyo. Distance: 3,426 km. ~20 weekly flights operated by Sichuan Airlines.",
+  "geojson": "ctu-nrt.geojson"
+}

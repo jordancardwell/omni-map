@@ -1,0 +1,18 @@
+{
+  "code": "muc-ist",
+  "name": "Munich — Istanbul",
+  "airports": [
+    "MUC",
+    "IST"
+  ],
+  "distanceKm": 1548,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Lufthansa",
+    "Turkish Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MUC–IST route between Munich and Istanbul. Distance: 1,548 km. ~60 weekly flights operated by Lufthansa, Turkish Airlines.",
+  "geojson": "muc-ist.geojson"
+}

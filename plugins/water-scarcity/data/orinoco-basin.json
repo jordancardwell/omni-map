@@ -1,0 +1,15 @@
+{
+  "code": "orinoco-basin",
+  "name": "Orinoco Basin",
+  "region": "South America",
+  "stressGroup": "1. Low (<10%)",
+  "waterStressLevel": "Low",
+  "waterStressRatio": "< 3% — withdrawal-to-availability",
+  "depletionRate": "Negligible — extremely high renewable supply",
+  "droughtRisk": "Low",
+  "seasonalVariability": "Moderate",
+  "affectedPopulation": 30000000,
+  "riskFactors": ["Oil extraction pollution", "Mining contamination", "Deforestation", "Agricultural runoff"],
+  "description": "The Orinoco is the fourth largest river by discharge volume globally. Its basin covers most of Venezuela and eastern Colombia. Water stress is among the lowest on Earth, though petroleum extraction and artisanal mining create localized water-quality concerns in tributary sub-basins.",
+  "geojson": "orinoco-basin.geojson"
+}

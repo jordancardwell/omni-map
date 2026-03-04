@@ -1,0 +1,21 @@
+{
+  "code": "int",
+  "name": "Isaac Newton Telescope",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2336,
+  "aperture": "2.54 m",
+  "telescopes": [
+    "INT",
+    "WFC"
+  ],
+  "keyDiscoveries": [
+    "IPHAS survey",
+    "Photometric surveys",
+    "Planetary nebulae catalogs"
+  ],
+  "location": "Isaac Newton Telescope, Spain",
+  "description": "Part of the Isaac Newton Group on La Palma. The Wide Field Camera has been used for major photometric surveys of the northern galactic plane.",
+  "geojson": "int.geojson"
+}

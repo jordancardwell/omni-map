@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6855583333,
+          39.4414888889
+        ]
+      },
+      "properties": {
+        "code": "silk-roads-zarafshan-karakum-corridor",
+        "name": "Silk Roads: Zarafshan-Karakum Corridor",
+        "type": "Cultural",
+        "country": "Tajikistan, Uzbekistan, Turkmenistan",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

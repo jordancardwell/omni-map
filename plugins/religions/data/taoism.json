@@ -1,0 +1,22 @@
+{
+  "code": "taoism",
+  "name": "Taoism",
+  "family": "East Asian",
+  "foundingPeriod": "4th century BCE",
+  "adherents": {
+    "estimated": 12000000,
+    "percentWorld": "0.2%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["China", "Taiwan", "Singapore", "Malaysia"],
+  "denominations": [
+    "Zhengyi (Orthodox Unity)",
+    "Quanzhen (Complete Reality)",
+    "Tianshi (Celestial Masters)",
+    "Shangqing",
+    "Lingbao"
+  ],
+  "description": "Taoism (Daoism) is a Chinese philosophical and religious tradition emphasizing living in harmony with the Tao — the fundamental, nameless force underlying all existence. Core texts include the Tao Te Ching by Laozi and the Zhuangzi. Taoism values naturalness, simplicity, spontaneity, and the balance of yin and yang. It encompasses meditation, feng shui, martial arts, and traditional Chinese medicine.",
+  "historicalNotes": "Taoism's philosophical roots trace to Laozi and Zhuangzi in the 4th–3rd centuries BCE. Organized Taoism emerged with the Celestial Masters movement in the 2nd century CE. It flourished during the Tang Dynasty (618–907 CE), which claimed Laozi as an imperial ancestor. Taoism profoundly influenced Chinese culture, art, literature, and science. It interacted with and absorbed elements of Buddhism and Confucianism. Despite suppression during the Cultural Revolution, Taoism has experienced revival in modern China.",
+  "geojson": "taoism.geojson"
+}

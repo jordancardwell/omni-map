@@ -1,0 +1,20 @@
+{
+  "code": "arcetri",
+  "name": "Arcetri Astrophysical Observatory",
+  "country": "Italy",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 184,
+  "aperture": "N/A (research institute)",
+  "telescopes": [
+    "Adaptive optics laboratory"
+  ],
+  "keyDiscoveries": [
+    "Adaptive optics innovations",
+    "Star formation studies",
+    "Infrared astronomy"
+  ],
+  "location": "Arcetri Astrophysical Observatory, Italy",
+  "description": "Historic INAF research institute in Florence, founded in 1872 near Galileo's last home. Leading center for adaptive optics development and infrared astronomy.",
+  "geojson": "arcetri.geojson"
+}

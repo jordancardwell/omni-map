@@ -1,0 +1,16 @@
+{
+  "code": "ws-to-cable",
+  "name": "WS-TO Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2829,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "Bluesky",
+  "landingPoints": [
+    "Apia, Samoa",
+    "Nuku'alofa, Tonga"
+  ],
+  "description": "WS-TO Cable connecting Apia to Nuku'alofa in the Pacific.",
+  "geojson": "ws-to-cable.geojson"
+}

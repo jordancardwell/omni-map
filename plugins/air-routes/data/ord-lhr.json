@@ -1,0 +1,19 @@
+{
+  "code": "ord-lhr",
+  "name": "Chicago — London",
+  "airports": [
+    "ORD",
+    "LHR"
+  ],
+  "distanceKm": 6345,
+  "weeklyFlights": 90,
+  "airlines": [
+    "American",
+    "British Airways",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–LHR route between Chicago and London. Distance: 6,345 km. ~90 weekly flights operated by American, British Airways, United.",
+  "geojson": "ord-lhr.geojson"
+}

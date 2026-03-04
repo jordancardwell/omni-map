@@ -1,0 +1,14 @@
+{
+  "code": "national-day-japan-foundation",
+  "name": "National Foundation Day (Japan)",
+  "festivalType": "National",
+  "dateOrSeason": "February 11",
+  "origin": "Japanese national",
+  "estimatedAttendance": "126+ million Japanese",
+  "unescoICH": "Not inscribed",
+  "traditions": "Shrine visits; patriotic ceremonies; academic lectures; community events; Japanese flag displays.",
+  "historicalBackground": "National Foundation Day commemorates the legendary founding of Japan by Emperor Jimmu in 660 BCE, as recorded in the Nihon Shoki chronicles.",
+  "description": "Japan's celebration of its mythological founding, honoring the legendary first Emperor Jimmu with shrine visits and cultural events.",
+  "location": "Osaka, Japan",
+  "geojson": "national-day-japan-foundation.geojson"
+}

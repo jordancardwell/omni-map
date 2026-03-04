@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2755555556,
+          49.2927777778
+        ]
+      },
+      "properties": {
+        "code": "bardejov-town-conservation-reserve",
+        "name": "Bardejov Town Conservation Reserve",
+        "type": "Cultural",
+        "country": "Slovakia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "ist-fco",
+  "name": "Istanbul — Rome",
+  "airports": [
+    "IST",
+    "FCO"
+  ],
+  "distanceKm": 1374,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Turkish Airlines",
+    "ITA Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IST–FCO route between Istanbul and Rome. Distance: 1,374 km. ~60 weekly flights operated by Turkish Airlines, ITA Airways.",
+  "geojson": "ist-fco.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "us-ie-direct",
+  "name": "US-IE Direct",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 7966,
+  "yearLaid": 2016,
+  "rfsDate": "2011-06",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Dublin, Ireland"
+  ],
+  "description": "US-IE Direct connecting Virginia Beach to Dublin.",
+  "geojson": "us-ie-direct.geojson"
+}

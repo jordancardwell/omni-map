@@ -1,0 +1,16 @@
+{
+  "code": "th-south-link",
+  "name": "TH South Link",
+  "capacityTbps": 21,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1560,
+  "yearLaid": 2017,
+  "rfsDate": "2021-06",
+  "owner": "CAT Telecom",
+  "landingPoints": [
+    "Bangkok, Thailand",
+    "Songkhla, Thailand"
+  ],
+  "description": "TH South Link connecting Bangkok to Songkhla in Southeast Asia.",
+  "geojson": "th-south-link.geojson"
+}

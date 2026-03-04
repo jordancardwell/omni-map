@@ -1,0 +1,14 @@
+{
+  "code": "algiers",
+  "name": "Port of Algiers",
+  "country": "Algeria",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Algiers in Algeria. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+  "geojson": "algiers.geojson"
+}

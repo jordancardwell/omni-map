@@ -1,0 +1,16 @@
+{
+  "code": "bph-cable",
+  "name": "BPH Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1978,
+  "yearLaid": 2019,
+  "rfsDate": "2014-06",
+  "owner": "Globe Telecom",
+  "landingPoints": [
+    "Batangas, Philippines",
+    "Hong Kong, China"
+  ],
+  "description": "BPH Cable connecting Batangas to Hong Kong in Southeast Asia.",
+  "geojson": "bph-cable.geojson"
+}

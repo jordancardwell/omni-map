@@ -1,0 +1,17 @@
+{
+  "code": "ml",
+  "name": "Mali",
+  "avgDownloadMbps": 6.4,
+  "avgUploadMbps": 2.2,
+  "avgLatencyMs": 48,
+  "mobileDownloadMbps": 8.6,
+  "mobileUploadMbps": 2.4,
+  "fixedDownloadMbps": 6.4,
+  "fixedUploadMbps": 2.2,
+  "rank": 164,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Sahel region with limited connectivity. ~10% year-over-year growth.",
+  "geojson": "ml.geojson"
+}

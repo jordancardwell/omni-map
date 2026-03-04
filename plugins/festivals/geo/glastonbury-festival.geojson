@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5857,
+          51.1592
+        ]
+      },
+      "properties": {
+        "code": "glastonbury-festival",
+        "name": "Glastonbury Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Late June",
+        "location": "Pilton, UK"
+      }
+    }
+  ]
+}

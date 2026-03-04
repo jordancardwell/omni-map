@@ -1,0 +1,16 @@
+{
+  "code": "site-of-xanadu",
+  "name": "Site of Xanadu",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "North of the Great Wall, the Site of Xanadu encompasses the remains of Kublai Khan’s legendary capital city, designed by the Mongol ruler’s Chinese advisor Liu Bingzhdong in 1256. Over a surface area of 25,000 ha, the site was a unique attempt to assimilate the nomadic Mongolian and Han Chinese cultures. From this base, Kublai Khan established the Yuan dynasty that ruled China over a century, extending its boundaries across Asia. The religious debate that took place here resulted in the dissemination of Tibetan Buddhism over north-east Asia, a cultural and religious tradition still practised in many areas today. The site was planned according to traditional Chinese feng shui in relation to the nearby mountains and river. It features the remains of the city, including temples, palaces, tombs, nomadic encampments and the Tiefan’gang Canal, along with other waterworks.",
+  "danger": false,
+  "geojson": "site-of-xanadu.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "i2i",
+  "name": "i2i",
+  "capacityTbps": 8.4,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3200,
+  "yearLaid": 2003,
+  "rfsDate": "2003-06",
+  "owner": "Bharti Airtel, SingTel",
+  "landingPoints": [
+    "Chennai, India",
+    "Singapore"
+  ],
+  "description": "India to Singapore direct submarine cable.",
+  "geojson": "i2i.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "kinabalu-park",
+  "name": "Kinabalu Park",
+  "type": "Natural",
+  "country": "Malaysia",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Kinabalu Park, in the State of Sabah on the northern end of the island of Borneo, is dominated by Mount Kinabalu (4,095 m), the highest mountain between the Himalayas and New Guinea. It has a very wide range of habitats, from rich tropical lowland and hill rainforest to tropical mountain forest, sub-alpine forest and scrub on the higher elevations. It has been designated as a Centre of Plant Diversity for Southeast Asia and is exceptionally rich in species with examples of flora from the Himalayas, China, Australia, Malaysia, as well as pan-tropical flora.",
+  "danger": false,
+  "geojson": "kinabalu-park.geojson"
+}

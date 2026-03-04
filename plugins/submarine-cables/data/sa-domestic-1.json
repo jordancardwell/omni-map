@@ -1,0 +1,16 @@
+{
+  "code": "sa-domestic-1",
+  "name": "SA Domestic-1",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1957,
+  "yearLaid": 2016,
+  "rfsDate": "2016-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Jeddah, Saudi Arabia",
+    "Yanbu, Saudi Arabia"
+  ],
+  "description": "SA Domestic-1 connecting Jeddah to Yanbu in the Middle East.",
+  "geojson": "sa-domestic-1.geojson"
+}

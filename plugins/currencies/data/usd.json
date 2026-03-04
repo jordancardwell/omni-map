@@ -1,0 +1,24 @@
+{
+  "code": "usd",
+  "name": "United States Dollar",
+  "isoCode": "USD",
+  "symbol": "$",
+  "region": "Americas",
+  "centralBank": "Federal Reserve System",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "United States",
+    "Ecuador",
+    "El Salvador",
+    "Panama",
+    "East Timor",
+    "Marshall Islands",
+    "Micronesia",
+    "Palau",
+    "Zimbabwe"
+  ],
+  "countryCount": 9,
+  "description": "The US Dollar is the world's primary reserve currency and the most widely traded currency in foreign exchange markets. It serves as the official currency of the United States and several other countries, and is accepted as a de facto currency in many more.",
+  "historicalNotes": "The dollar was established by the Coinage Act of 1792. It became the world's dominant reserve currency after the Bretton Woods Agreement of 1944. The Nixon Shock of 1971 ended the dollar's convertibility to gold, transitioning to a free-floating fiat currency.",
+  "geojson": "usd.geojson"
+}

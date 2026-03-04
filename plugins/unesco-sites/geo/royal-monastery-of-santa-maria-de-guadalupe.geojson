@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3275,
+          39.45285
+        ]
+      },
+      "properties": {
+        "code": "royal-monastery-of-santa-maria-de-guadalupe",
+        "name": "Royal Monastery of Santa María de Guadalupe",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

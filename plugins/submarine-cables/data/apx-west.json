@@ -1,0 +1,17 @@
+{
+  "code": "apx-west",
+  "name": "APX-West",
+  "capacityTbps": 80,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13500,
+  "yearLaid": 2022,
+  "rfsDate": "2024-12",
+  "owner": "Vocus, RTI",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Guam",
+    "Los Angeles, USA"
+  ],
+  "description": "Australia-Pacific-US cable system.",
+  "geojson": "apx-west.geojson"
+}

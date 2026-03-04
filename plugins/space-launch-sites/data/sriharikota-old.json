@@ -1,0 +1,16 @@
+{
+  "code": "sriharikota-old",
+  "name": "Sriharikota (SLV Pad)",
+  "country": "India",
+  "operator": "ISRO",
+  "coordinates": "13.7330°N, 80.2350°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "SLV-3 (India's first orbital, 1980)",
+    "ASLV flights"
+  ],
+  "orbitalInclinationRange": "13°–22°",
+  "location": "Sriharikota (SLV Pad), India",
+  "description": "The original launch pad at Sriharikota used for India's first satellite launch vehicle. Now part of the larger Satish Dhawan Space Centre complex but the original SLV pad is historical.",
+  "geojson": "sriharikota-old.geojson"
+}

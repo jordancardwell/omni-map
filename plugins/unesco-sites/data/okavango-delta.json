@@ -1,0 +1,16 @@
+{
+  "code": "okavango-delta",
+  "name": "Okavango Delta",
+  "type": "Natural",
+  "country": "Botswana",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This delta in north-west Botswana comprises permanent marshlands and seasonally flooded plains. It is one of the very few major interior delta systems that do not flow into a sea or ocean, with a wetland system that is almost intact. One of the unique characteristics of the site is that the annual flooding from the River Okavango occurs during the dry season, with the result that the native plants and animals have synchronized their biological cycles with these seasonal rains and floods. It is an exceptional example of the interaction between climatic, hydrological and biological processes. The Okavango Delta is home to some of the world’s most endangered species of large mammal, such as the cheetah, white rhinoceros, black rhinoceros, African wild dog and lion.",
+  "danger": false,
+  "geojson": "okavango-delta.geojson"
+}

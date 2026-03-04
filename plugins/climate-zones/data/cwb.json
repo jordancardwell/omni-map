@@ -1,0 +1,18 @@
+{
+  "code": "cwb",
+  "name": "Subtropical Highland (Dry Winter)",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month <22°C; coolest month 0-18°C",
+  "precipitationPattern": "Dry winters, moderate wet summers",
+  "vegetation": "Cloud forest, highland grassland, páramo at highest elevations",
+  "exampleCities": [
+    "Addis Ababa",
+    "Mexico City",
+    "Bogotá",
+    "Kunming",
+    "Nairobi"
+  ],
+  "description": "Subtropical highland climate with dry winters (Cwb) occurs at tropical and subtropical elevations where altitude moderates temperatures. Often called 'eternal spring' climate. Found in highland East Africa, the Mexican Plateau, and the Yunnan Plateau.",
+  "typicalWeather": "Mild year-round (15-22°C in warmest month). Cool nights. Dry season has clear skies and chilly mornings. Wet season brings afternoon showers and thunderstorms. Frost rare but possible at highest elevations.",
+  "geojson": "cwb.geojson"
+}

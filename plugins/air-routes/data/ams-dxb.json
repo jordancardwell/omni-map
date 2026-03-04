@@ -1,0 +1,18 @@
+{
+  "code": "ams-dxb",
+  "name": "Amsterdam — Dubai",
+  "airports": [
+    "AMS",
+    "DXB"
+  ],
+  "distanceKm": 5168,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Emirates",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "AMS–DXB route between Amsterdam and Dubai. Distance: 5,168 km. ~40 weekly flights operated by Emirates, KLM.",
+  "geojson": "ams-dxb.geojson"
+}

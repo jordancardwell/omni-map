@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5166861111,
+          34.8023888889
+        ]
+      },
+      "properties": {
+        "code": "hegmataneh",
+        "name": "Hegmataneh",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bz","name":"Belize","country":"BZ","voltageStandard":"Dual"},"geometry":{"type":"Polygon","coordinates":[[[-89.2,15.9],[-89.2,18.5],[-87.5,18.5],[-87.5,15.9],[-89.2,15.9]]]}}]}

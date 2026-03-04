@@ -1,0 +1,18 @@
+{
+  "code": "lhr-bcn",
+  "name": "London — Barcelona",
+  "airports": [
+    "LHR",
+    "BCN"
+  ],
+  "distanceKm": 1148,
+  "weeklyFlights": 120,
+  "airlines": [
+    "British Airways",
+    "Vueling"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–BCN route between London and Barcelona. Distance: 1,148 km. ~120 weekly flights operated by British Airways, Vueling.",
+  "geojson": "lhr-bcn.geojson"
+}

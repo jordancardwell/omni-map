@@ -1,0 +1,16 @@
+{
+  "code": "funerary-and-memory-sites-of-the-first-world-war-western-front",
+  "name": "Funerary and memory sites of the First World War (Western Front)",
+  "type": "Cultural",
+  "country": "Belgium, France",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(vi)"
+  ],
+  "region": "Europe and North America",
+  "description": "The transnational serial property comprises 139 funerary and memorial sites of the First World War located along the Western Front, stretching some 700 km from the North Sea to the Franco-Swiss border. The sites illustrate the new forms of memorialization that arose in the aftermath of the conflict.",
+  "danger": false,
+  "geojson": "funerary-and-memory-sites-of-the-first-world-war-western-front.geojson"
+}

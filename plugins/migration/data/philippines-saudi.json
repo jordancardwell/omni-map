@@ -1,0 +1,18 @@
+{
+  "code": "philippines-saudi",
+  "name": "Philippines \u2192 Saudi Arabia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Philippines \u2192 Saudi Arabia",
+  "badgeValue": "~1.0 million",
+  "origin": "Philippines",
+  "destination": "Saudi Arabia",
+  "estimatedMigrants": "~1.0 million",
+  "drivers": [
+    "Domestic worker demand",
+    "Healthcare jobs",
+    "Wage premium",
+    "OFW culture"
+  ],
+  "description": "The Philippines has a deeply institutionalized overseas worker program, and Saudi Arabia is one of the top destinations. Filipino workers in Saudi Arabia include domestic helpers, nurses, engineers, and IT professionals. The Overseas Filipino Worker (OFW) culture is embedded in Philippine society, with remittances accounting for roughly 10% of GDP. Government agencies (POEA, OWWA) regulate deployment and provide worker protection.",
+  "geojson": "philippines-saudi.geojson"
+}

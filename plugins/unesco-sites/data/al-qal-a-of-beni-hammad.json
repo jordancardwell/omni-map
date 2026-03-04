@@ -1,0 +1,14 @@
+{
+  "code": "al-qal-a-of-beni-hammad",
+  "name": "Al Qal'a of Beni Hammad",
+  "type": "Cultural",
+  "country": "Algeria",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "In a mountainous site of extraordinary beauty, the ruins of the first capital of the Hammadid emirs, founded in 1007 and demolished in 1152, provide an authentic picture of a fortified Muslim city. The mosque, whose prayer room has 13 aisles with eight bays, is one of the largest in Algeria.",
+  "danger": false,
+  "geojson": "al-qal-a-of-beni-hammad.geojson"
+}

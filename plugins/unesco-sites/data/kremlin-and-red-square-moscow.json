@@ -1,0 +1,16 @@
+{
+  "code": "kremlin-and-red-square-moscow",
+  "name": "Kremlin and Red Square, Moscow",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Inextricably linked to all the most important historical and political events in Russia since the 13th century, the Kremlin (built between the 14th and 17th centuries by outstanding Russian and foreign architects) was the residence of the Great Prince and also a religious centre. At the foot of its ramparts, on Red Square, St Basil's Basilica is one of the most beautiful Russian Orthodox monuments.",
+  "danger": false,
+  "geojson": "kremlin-and-red-square-moscow.geojson"
+}

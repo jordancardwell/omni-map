@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ngn","name":"Nigerian Naira","country":"NG","region":"Africa"},"geometry":{"type":"Polygon","coordinates":[[[2.7,4.3],[2.7,13.9],[14.7,13.9],[14.7,4.3],[2.7,4.3]]]}}]}

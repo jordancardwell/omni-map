@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"jazz","name":"Jazz","region":"New Orleans, United States","traditionFamily":"African-American"},"geometry":{"type":"Polygon","coordinates":[[[-90.5,30.3],[-90.5,29.7],[-89.5,29.7],[-89.5,30.3],[-90.5,30.3]]]}}]}

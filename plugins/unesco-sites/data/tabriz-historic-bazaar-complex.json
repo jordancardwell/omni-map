@@ -1,0 +1,16 @@
+{
+  "code": "tabriz-historic-bazaar-complex",
+  "name": "Tabriz Historic Bazaar Complex",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Tabriz has been a place of cultural exchange since antiquity and its historic bazaar complex is one of the most important commercial centres on the Silk Road. Tabriz Historic Bazaar Complex consists of a series of interconnected, covered, brick structures, buildings, and enclosed spaces for different functions. Tabriz and its Bazaar were already prosperous and famous in the 13th century, when the town, in the province of Eastern Azerbaijan, became the capital city of the Safavid kingdom. The city lost its status as capital in the 16th century, but remained important as a commercial hub until the end of the 18th century, with the expansion of Ottoman power. It is one of the most complete examples of the traditional commercial and cultural system of Iran.",
+  "danger": false,
+  "geojson": "tabriz-historic-bazaar-complex.geojson"
+}

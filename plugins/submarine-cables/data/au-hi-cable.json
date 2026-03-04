@@ -1,0 +1,16 @@
+{
+  "code": "au-hi-cable",
+  "name": "AU-HI Cable",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1690,
+  "yearLaid": 2011,
+  "rfsDate": "2014-06",
+  "owner": "Southern Cross",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Honolulu, USA"
+  ],
+  "description": "AU-HI Cable connecting Sydney to Honolulu.",
+  "geojson": "au-hi-cable.geojson"
+}

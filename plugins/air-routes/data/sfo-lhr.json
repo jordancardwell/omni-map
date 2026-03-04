@@ -1,0 +1,19 @@
+{
+  "code": "sfo-lhr",
+  "name": "San Francisco — London",
+  "airports": [
+    "SFO",
+    "LHR"
+  ],
+  "distanceKm": 8616,
+  "weeklyFlights": 50,
+  "airlines": [
+    "British Airways",
+    "United",
+    "Virgin Atlantic"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SFO–LHR route between San Francisco and London. Distance: 8,616 km. ~50 weekly flights operated by British Airways, United, Virgin Atlantic.",
+  "geojson": "sfo-lhr.geojson"
+}

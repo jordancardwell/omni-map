@@ -1,0 +1,16 @@
+{
+  "code": "ghs",
+  "name": "Ghanaian Cedi",
+  "isoCode": "GHS",
+  "symbol": "GH₵",
+  "region": "Africa",
+  "centralBank": "Bank of Ghana",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Ghana"
+  ],
+  "countryCount": 1,
+  "description": "The Ghanaian Cedi (meaning 'cowrie shell') is the currency of Ghana, the world's second-largest cocoa producer.",
+  "historicalNotes": "The new cedi was introduced in 2007, removing four zeros. Ghana was the first sub-Saharan African country to gain independence (1957).",
+  "geojson": "ghs.geojson"
+}

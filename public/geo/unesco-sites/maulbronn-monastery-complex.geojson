@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81306,
+          49.00083
+        ]
+      },
+      "properties": {
+        "code": "maulbronn-monastery-complex",
+        "name": "Maulbronn Monastery Complex",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

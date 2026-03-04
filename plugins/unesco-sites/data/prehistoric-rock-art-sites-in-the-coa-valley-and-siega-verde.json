@@ -1,0 +1,15 @@
+{
+  "code": "prehistoric-rock-art-sites-in-the-coa-valley-and-siega-verde",
+  "name": "Prehistoric Rock Art Sites in the Côa Valley and Siega Verde",
+  "type": "Cultural",
+  "country": "Spain, Portugal",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The two Prehistoric Rock Art Sites in the Côa Valley (Portugal) and Siega Verde (Spain) are located on the banks of the rivers Agueda and Côa, tributaries of the river Douro, documenting continuous human occupation from the end of the Paleolithic Age. Hundreds of panels with thousands of animal figures (5,000 in Foz Côa and around 440 in Siega Verde) were carved over several millennia, representing the most remarkable open-air ensemble of Paleolithic art on the Iberian Peninsula. Côa Valley and Siega Verde provide the best illustration of the iconographic themes and organization of Paleolithic rock art, using the same modes of expression in caves and in the open air, thus contributing to a greater understanding of this artistic phenomenon. Together they form a unique site of the prehistoric era, rich in material evidence of Upper Paleolithic occupation.",
+  "danger": false,
+  "geojson": "prehistoric-rock-art-sites-in-the-coa-valley-and-siega-verde.geojson"
+}

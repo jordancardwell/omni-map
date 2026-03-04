@@ -1,0 +1,14 @@
+{
+  "code": "old-town-of-kuldiga",
+  "name": "Old town of Kuldīga",
+  "type": "Cultural",
+  "country": "Latvia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the western part of Latvia, the town of Kuldīga is an exceptionally well-preserved example of a traditional urban settlement, which developed from a small medieval hamlet into an important administrative centre of the Duchy of Courland and Semigallia between the 16th and 18th centuries. The town structure of Kuldīga has largely retained the street layout of that period, and includes traditional log architecture as well as foreign-influenced styles that illustrate the rich exchange between local and travelling craftspeople from around the Baltic Sea. The architectural influences and craftsmanship traditions introduced during the period of the Duchy endured well into the 19th century.",
+  "danger": false,
+  "geojson": "old-town-of-kuldiga.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "cdg-bcn",
+  "name": "Paris — Barcelona",
+  "airports": [
+    "CDG",
+    "BCN"
+  ],
+  "distanceKm": 858,
+  "weeklyFlights": 110,
+  "airlines": [
+    "Air France",
+    "Vueling"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CDG–BCN route between Paris and Barcelona. Distance: 858 km. ~110 weekly flights operated by Air France, Vueling.",
+  "geojson": "cdg-bcn.geojson"
+}

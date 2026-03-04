@@ -1,0 +1,15 @@
+{
+  "code": "guangzhou",
+  "name": "Port of Guangzhou",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 630,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "South China Sea Route",
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Guangzhou in China. Annual cargo throughput: ~630 million tons. Type: Multi-Purpose Port.",
+  "geojson": "guangzhou.geojson"
+}

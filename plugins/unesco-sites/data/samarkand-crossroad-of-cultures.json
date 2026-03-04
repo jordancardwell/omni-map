@@ -1,0 +1,16 @@
+{
+  "code": "samarkand-crossroad-of-cultures",
+  "name": "Samarkand – Crossroad of Cultures",
+  "type": "Cultural",
+  "country": "Uzbekistan",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The historic town of Samarkand is a crossroad and melting pot of the world's cultures. Founded in the 7th century B.C. as ancient Afrasiab, Samarkand had its most significant development in the Timurid period from the 14th to the 15th centuries. The major monuments include the Registan Mosque and madrasas, Bibi-Khanum Mosque, the Shakhi-Zinda compound and the Gur-Emir ensemble, as well as Ulugh-Beg's Observatory.",
+  "danger": false,
+  "geojson": "samarkand-crossroad-of-cultures.geojson"
+}

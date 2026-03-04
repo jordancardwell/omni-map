@@ -1,0 +1,14 @@
+{
+  "code": "hanukkah",
+  "name": "Hanukkah",
+  "festivalType": "Religious",
+  "dateOrSeason": "November–December (varies)",
+  "origin": "Jewish tradition",
+  "estimatedAttendance": "14+ million Jews worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Lighting the menorah over eight nights; playing dreidel; eating oil-fried foods like latkes and sufganiyot; gift-giving; singing traditional songs.",
+  "historicalBackground": "Hanukkah commemorates the rededication of the Second Temple in Jerusalem (164 BCE) after the Maccabean Revolt, and the miracle of oil lasting eight days.",
+  "description": "The Festival of Lights, an eight-day Jewish celebration commemorating the rededication of the Holy Temple in Jerusalem.",
+  "location": "Jerusalem, Israel",
+  "geojson": "hanukkah.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "pvg-ctu",
+  "name": "Shanghai — Chengdu",
+  "airports": [
+    "PVG",
+    "CTU"
+  ],
+  "distanceKm": 1703,
+  "weeklyFlights": 270,
+  "airlines": [
+    "China Eastern",
+    "Sichuan Airlines",
+    "Spring Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PVG–CTU route between Shanghai and Chengdu. Distance: 1,703 km. ~270 weekly flights operated by China Eastern, Sichuan Airlines, Spring Airlines.",
+  "geojson": "pvg-ctu.geojson"
+}

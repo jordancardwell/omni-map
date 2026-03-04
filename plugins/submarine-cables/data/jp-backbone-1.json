@@ -1,0 +1,16 @@
+{
+  "code": "jp-backbone-1",
+  "name": "JP Backbone-1",
+  "capacityTbps": 25,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1178,
+  "yearLaid": 2013,
+  "rfsDate": "2016-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Chikura, Japan"
+  ],
+  "description": "JP Backbone-1 connecting Tokyo to Chikura in East Asia.",
+  "geojson": "jp-backbone-1.geojson"
+}

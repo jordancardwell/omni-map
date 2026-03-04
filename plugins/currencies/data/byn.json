@@ -1,0 +1,16 @@
+{
+  "code": "byn",
+  "name": "Belarusian Ruble",
+  "isoCode": "BYN",
+  "symbol": "Br",
+  "region": "Europe",
+  "centralBank": "National Bank of the Republic of Belarus",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Belarus"
+  ],
+  "countryCount": 1,
+  "description": "The Belarusian Ruble is the currency of Belarus, a landlocked country in Eastern Europe.",
+  "historicalNotes": "The current 'new' ruble was introduced in 2016, removing four zeros. Belarus has experienced multiple currency crises and redenominations since independence.",
+  "geojson": "byn.geojson"
+}

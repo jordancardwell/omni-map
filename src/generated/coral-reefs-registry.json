@@ -1,0 +1,442 @@
+[
+  {
+    "code": "aldabra-atoll",
+    "name": "Aldabra Atoll",
+    "location": "Seychelles, Indian Ocean",
+    "areaKm2": 155,
+    "reefType": "Atoll",
+    "healthStatus": "Good",
+    "coralSpecies": 200,
+    "marineSpecies": 850,
+    "threats": [
+      "Climate change",
+      "Invasive species",
+      "Plastic pollution",
+      "Ocean acidification",
+      "Rising sea temperatures"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site since 1982. Managed by the Seychelles Islands Foundation. One of the most remote and undisturbed atolls in the world.",
+    "description": "Aldabra is the world's second-largest coral atoll and one of the most remote, located over 1,000 km from the Seychelles capital. Its extreme isolation has preserved a pristine ecosystem largely untouched by human development.\n\nThe atoll is home to the world's largest population of giant tortoises (over 100,000) and supports significant populations of nesting sea turtles, manta rays, and sharks. Its coral reefs demonstrated remarkable recovery after the 1998 bleaching event, serving as a model for natural reef resilience.",
+    "geojson": "aldabra-atoll.geojson"
+  },
+  {
+    "code": "andaman-sea-reef",
+    "name": "Andaman Sea Reef",
+    "location": "Thailand, Myanmar, India",
+    "areaKm2": 3200,
+    "reefType": "Fringing",
+    "healthStatus": "Vulnerable",
+    "coralSpecies": 280,
+    "marineSpecies": 900,
+    "threats": [
+      "Coral bleaching",
+      "Overfishing",
+      "Tourism damage",
+      "Sedimentation",
+      "Coastal development"
+    ],
+    "conservationStatus": "Surin Islands and Similan Islands National Parks in Thailand. Mergui Archipelago in Myanmar largely unprotected but remote. Andaman and Nicobar Islands (India) have marine national parks.",
+    "description": "The Andaman Sea reefs span three nations across the eastern Indian Ocean, from the Andaman and Nicobar Islands to the Thai and Myanmar coastlines. The Similan Islands host some of the most spectacular reef diving in the world.\n\nThe 2004 Indian Ocean tsunami caused significant physical damage to shallow reefs, but most recovered within a decade. The region's reefs face ongoing pressure from Thailand's tourism industry, which brings millions of visitors annually to island destinations like Phi Phi and Phuket. Myanmar's Mergui Archipelago remains one of the least explored reef systems in the region.",
+    "geojson": "andaman-sea-reef.geojson"
+  },
+  {
+    "code": "apo-reef",
+    "name": "Apo Reef",
+    "location": "Mindoro, Philippines",
+    "areaKm2": 34,
+    "reefType": "Atoll",
+    "healthStatus": "Near Threatened",
+    "coralSpecies": 385,
+    "marineSpecies": 530,
+    "threats": [
+      "Illegal fishing",
+      "Crown-of-thorns starfish",
+      "Coral bleaching",
+      "Anchor damage",
+      "Poaching"
+    ],
+    "conservationStatus": "Apo Reef Natural Park, managed by the Apo Reef Protected Area Management Board. Philippines' largest contiguous reef system.",
+    "description": "Apo Reef is the largest contiguous coral reef system in the Philippines and the second-largest in the world after Australia's Great Barrier Reef. The atoll-like structure covers 34 km² of reef area in the Mindoro Strait.\n\nThe reef's remote location in the Sulu Sea has helped preserve its ecological integrity, though enforcement of no-take zones remains challenging. Apo Reef supports exceptional coral diversity with nearly 400 species, and is an important aggregation site for sharks, mantas, and marine turtles. The reef is a critical component of the broader Coral Triangle ecosystem.",
+    "geojson": "apo-reef.geojson"
+  },
+  {
+    "code": "belize-barrier-reef",
+    "name": "Belize Barrier Reef",
+    "location": "Belize",
+    "areaKm2": 960,
+    "reefType": "Barrier",
+    "healthStatus": "Endangered",
+    "coralSpecies": 70,
+    "marineSpecies": 500,
+    "threats": [
+      "Coral bleaching",
+      "Mangrove clearing",
+      "Cruise ship damage",
+      "Overfishing",
+      "Coastal development"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site since 1996. Removed from UNESCO Danger List in 2018 after Belize placed a moratorium on oil exploration. Seven marine reserves within the system.",
+    "description": "The Belize Barrier Reef Reserve System is a serial UNESCO site encompassing seven marine protected areas that showcase the reef's diversity. It includes the famous Great Blue Hole, a giant marine sinkhole visible from space.\n\nBelize's reef is part of the larger Mesoamerican Barrier Reef but stands out for its cayes (islands), three distinct atolls, and the Great Blue Hole. Conservation victories — including banning offshore oil drilling and gill net fishing — have improved the reef's outlook, though bleaching events continue to threaten recovery.",
+    "geojson": "belize-barrier-reef.geojson"
+  },
+  {
+    "code": "chagos-archipelago",
+    "name": "Chagos Archipelago",
+    "location": "British Indian Ocean Territory",
+    "areaKm2": 4500,
+    "reefType": "Atoll",
+    "healthStatus": "Good",
+    "coralSpecies": 300,
+    "marineSpecies": 780,
+    "threats": [
+      "Climate change",
+      "Coral bleaching",
+      "Illegal fishing",
+      "Marine debris",
+      "Ocean warming"
+    ],
+    "conservationStatus": "World's largest no-take marine protected area (640,000 km²) declared in 2010. Virtually uninhabited, providing a unique scientific baseline for reef health.",
+    "description": "The Chagos Archipelago comprises 55 islands forming five atolls, including the Great Chagos Bank — the world's largest atoll structure. With no permanent population and strict marine protection, it represents one of the most pristine ocean environments on Earth.\n\nThe archipelago's reefs serve as a critical scientific reference site — a 'control' for measuring human impacts on reefs elsewhere. Despite the 2016 bleaching event causing significant coral mortality, Chagos reefs have shown encouraging recovery rates, likely due to the absence of local human pressures that compound climate stress on most other reefs.",
+    "geojson": "chagos-archipelago.geojson"
+  },
+  {
+    "code": "coral-sea-reef",
+    "name": "Coral Sea Reefs",
+    "location": "Australia, Papua New Guinea",
+    "areaKm2": 35000,
+    "reefType": "Barrier",
+    "healthStatus": "Near Threatened",
+    "coralSpecies": 370,
+    "marineSpecies": 1100,
+    "threats": [
+      "Climate change",
+      "Illegal fishing",
+      "Marine debris",
+      "Ocean acidification",
+      "Coral bleaching"
+    ],
+    "conservationStatus": "Coral Sea Commonwealth Marine Reserve established in 2012 — one of the world's largest marine parks at 989,842 km². Remote reefs receive minimal direct human impact.",
+    "description": "The Coral Sea contains a vast system of remote reef platforms, cays, and atolls east of Australia's Great Barrier Reef. These offshore reefs include the spectacular Osprey Reef, Holmes Reef, and the Lihou Reef — one of the largest atoll systems in the world.\n\nDue to their extreme remoteness, Coral Sea reefs are among the most pristine in the world. They support significant populations of pelagic predators including sharks, tuna, and billfish. The reefs serve as important stepping-stones for larval connectivity between the Great Barrier Reef and Pacific reef systems, making their health critical for broader regional reef resilience.",
+    "geojson": "coral-sea-reef.geojson"
+  },
+  {
+    "code": "coral-triangle",
+    "name": "Coral Triangle",
+    "location": "Indonesia, Philippines, Papua New Guinea, Solomon Islands, Timor-Leste, Malaysia",
+    "areaKm2": 5700000,
+    "reefType": "Fringing",
+    "healthStatus": "Vulnerable",
+    "coralSpecies": 605,
+    "marineSpecies": 3000,
+    "threats": [
+      "Destructive fishing practices",
+      "Climate change",
+      "Coastal development",
+      "Pollution",
+      "Coral mining"
+    ],
+    "conservationStatus": "Coral Triangle Initiative on Coral Reefs, Fisheries, and Food Security (CTI-CFF) is a multilateral partnership of six governments. Multiple marine protected area networks across member nations.",
+    "description": "The Coral Triangle is the global epicenter of marine biodiversity, containing 76% of all known coral species and over 3,000 species of reef fish. Spanning 5.7 million km² across six nations in Southeast Asia and the Pacific, it is often called the 'Amazon of the Seas.'\n\nThe region sustains the livelihoods of over 120 million coastal people who depend directly on reef resources. The Coral Triangle Initiative, launched in 2009, represents the most ambitious multilateral marine conservation effort in history, coordinating protection across six sovereign nations with diverse governance structures.",
+    "geojson": "coral-triangle.geojson"
+  },
+  {
+    "code": "florida-reef-tract",
+    "name": "Florida Reef Tract",
+    "location": "Florida, United States",
+    "areaKm2": 1430,
+    "reefType": "Fringing",
+    "healthStatus": "Critical",
+    "coralSpecies": 45,
+    "marineSpecies": 600,
+    "threats": [
+      "Stony coral tissue loss disease",
+      "Ocean warming",
+      "Nutrient pollution",
+      "Coastal development",
+      "Recreational damage"
+    ],
+    "conservationStatus": "Florida Keys National Marine Sanctuary provides federal protection. Mission: Iconic Reefs restoration initiative by NOAA targets seven reef sites for active intervention.",
+    "description": "The Florida Reef Tract is the only extensive reef system in the continental United States, extending 580 km from the Dry Tortugas to St. Lucie Inlet. It is the third-largest barrier reef system in the world.\n\nSince 2014, Stony Coral Tissue Loss Disease has devastated the reef, affecting over 20 coral species and killing tissue at an alarming rate. Combined with chronic nutrient pollution from the Everglades and urban runoff, the Florida Reef has lost over 90% of its living coral cover since the 1970s. Active restoration efforts are underway but face significant challenges.",
+    "geojson": "florida-reef-tract.geojson"
+  },
+  {
+    "code": "great-barrier-reef",
+    "name": "Great Barrier Reef",
+    "location": "Queensland, Australia",
+    "areaKm2": 344400,
+    "reefType": "Barrier",
+    "healthStatus": "Endangered",
+    "coralSpecies": 600,
+    "marineSpecies": 4000,
+    "threats": [
+      "Ocean warming",
+      "Coral bleaching",
+      "Crown-of-thorns starfish",
+      "Agricultural runoff",
+      "Coastal development"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site. Great Barrier Reef Marine Park Authority manages the reef with zoning plans. Reef 2050 Long-Term Sustainability Plan in effect.",
+    "description": "The Great Barrier Reef is the world's largest coral reef system, stretching over 2,300 km along the northeast coast of Australia. Composed of nearly 3,000 individual reef systems and hundreds of islands, it is visible from space and is one of Earth's most complex natural ecosystems.\n\nThe reef has suffered multiple mass bleaching events since 2016, with warming ocean temperatures being the primary threat. Despite conservation efforts, an estimated 50% of its coral cover has been lost since the 1990s. It remains critically important for marine biodiversity and supports a $6.4 billion tourism industry.",
+    "geojson": "great-barrier-reef.geojson"
+  },
+  {
+    "code": "great-sea-reef",
+    "name": "Great Sea Reef",
+    "location": "Fiji, South Pacific",
+    "areaKm2": 2000,
+    "reefType": "Barrier",
+    "healthStatus": "Endangered",
+    "coralSpecies": 300,
+    "marineSpecies": 700,
+    "threats": [
+      "Sedimentation from logging",
+      "Overfishing",
+      "Climate change",
+      "Agricultural runoff",
+      "Crown-of-thorns starfish"
+    ],
+    "conservationStatus": "WWF Fiji leads conservation efforts. Several locally managed marine areas (LMMAs) established with community cooperation. Fiji committed to 30% marine protection by 2030.",
+    "description": "The Great Sea Reef (Cakaulevu) is the third-longest continuous barrier reef in the world, stretching 200 km along the northern coast of Vanua Levu, Fiji's second-largest island. It is the largest and most significant reef system in the South Pacific outside of Australia.\n\nThe reef supports four endangered species of sea turtles, humpback whale calving grounds, and endemic species. Fiji's traditional vanua system of marine stewardship is increasingly integrated with modern conservation, with over 400 locally managed marine areas established across the country.",
+    "geojson": "great-sea-reef.geojson"
+  },
+  {
+    "code": "hawaiian-reef",
+    "name": "Hawaiian Reef System",
+    "location": "Hawaii, United States",
+    "areaKm2": 3610,
+    "reefType": "Fringing",
+    "healthStatus": "Endangered",
+    "coralSpecies": 80,
+    "marineSpecies": 7000,
+    "threats": [
+      "Coral bleaching",
+      "Invasive algae",
+      "Sunscreen chemicals",
+      "Sedimentation",
+      "Overfishing"
+    ],
+    "conservationStatus": "Papahānaumokuākea Marine National Monument protects Northwestern Hawaiian Islands. Hawaii banned reef-harmful sunscreens in 2021. Multiple state marine life conservation districts.",
+    "description": "Hawaii's coral reefs are the most isolated reef system in the world, located over 3,800 km from the nearest continent. This isolation has produced exceptional endemism — roughly 25% of reef species are found nowhere else on Earth.\n\nThe Northwestern Hawaiian Islands within Papahānaumokuākea contain some of the most pristine reefs in US waters, while the populated Main Hawaiian Islands face significant pressure. Hawaii became the first US state to ban oxybenzone and octinoxate sunscreens to protect reef health. Recent bleaching events have affected both the main and northwestern islands.",
+    "geojson": "hawaiian-reef.geojson"
+  },
+  {
+    "code": "maldives-atolls",
+    "name": "Maldives Atolls",
+    "location": "Maldives, Indian Ocean",
+    "areaKm2": 21100,
+    "reefType": "Atoll",
+    "healthStatus": "Vulnerable",
+    "coralSpecies": 250,
+    "marineSpecies": 1100,
+    "threats": [
+      "Sea level rise",
+      "Coral bleaching",
+      "Tourism impact",
+      "Dredging and reclamation",
+      "Ocean warming"
+    ],
+    "conservationStatus": "Baa Atoll designated as a UNESCO Biosphere Reserve. Multiple marine protected areas across atolls. National coral reef monitoring framework in place.",
+    "description": "The Maldives is the world's lowest-lying country, composed of 26 natural atolls formed from ancient volcanic peaks. The nation's 1,192 coral islands are entirely dependent on healthy reef systems for their physical existence, as the reefs build and maintain the islands.\n\nThe 1998 El Niño caused catastrophic bleaching, killing up to 90% of shallow corals. While significant recovery occurred, repeated bleaching events in 2016 and subsequent years have hampered recovery. The Maldives is a powerful symbol of how climate change threatens coral reef nations.",
+    "geojson": "maldives-atolls.geojson"
+  },
+  {
+    "code": "mesoamerican-barrier-reef",
+    "name": "Mesoamerican Barrier Reef",
+    "location": "Mexico, Belize, Guatemala, Honduras",
+    "areaKm2": 96300,
+    "reefType": "Barrier",
+    "healthStatus": "Vulnerable",
+    "coralSpecies": 65,
+    "marineSpecies": 1400,
+    "threats": [
+      "Coastal development",
+      "Overfishing",
+      "Sargassum seaweed influx",
+      "Coral disease",
+      "Climate change"
+    ],
+    "conservationStatus": "Belize Barrier Reef Reserve System is a UNESCO World Heritage Site. The Mesoamerican Reef Fund coordinates transboundary conservation across all four countries.",
+    "description": "The Mesoamerican Barrier Reef System is the largest barrier reef in the Western Hemisphere and the second-largest in the world, extending over 1,000 km from the tip of the Yucatán Peninsula to the Bay Islands of Honduras.\n\nThe reef supports critical fisheries for the region's coastal communities and is a major driver of tourism revenue. Recent conservation efforts, including the removal of the Belize Barrier Reef from the UNESCO endangered list in 2018, show progress, though threats from development and climate change persist.",
+    "geojson": "mesoamerican-barrier-reef.geojson"
+  },
+  {
+    "code": "new-caledonia-barrier-reef",
+    "name": "New Caledonia Barrier Reef",
+    "location": "New Caledonia, France",
+    "areaKm2": 40000,
+    "reefType": "Barrier",
+    "healthStatus": "Near Threatened",
+    "coralSpecies": 350,
+    "marineSpecies": 2300,
+    "threats": [
+      "Nickel mining runoff",
+      "Ocean acidification",
+      "Invasive species",
+      "Cyclones",
+      "Coastal development"
+    ],
+    "conservationStatus": "Lagoons of New Caledonia is a UNESCO World Heritage Site since 2008. Marine protected areas cover significant portions of the lagoon system.",
+    "description": "The New Caledonia Barrier Reef is the world's second-longest double barrier reef at 1,500 km, enclosing one of the world's largest lagoons at 24,000 km². Located in the southwest Pacific Ocean, it is one of the most pristine reef systems remaining.\n\nThe reef's exceptional biodiversity includes dugongs, sea turtles, and endemic species found nowhere else. Its relative isolation has helped protect it from some human impacts, though climate change and mining activities on the main island pose ongoing threats.",
+    "geojson": "new-caledonia-barrier-reef.geojson"
+  },
+  {
+    "code": "ningaloo-reef",
+    "name": "Ningaloo Reef",
+    "location": "Western Australia, Australia",
+    "areaKm2": 6045,
+    "reefType": "Fringing",
+    "healthStatus": "Good",
+    "coralSpecies": 300,
+    "marineSpecies": 740,
+    "threats": [
+      "Climate change",
+      "Oil and gas exploration",
+      "Tourism pressure",
+      "Cyclones",
+      "Coral bleaching"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site since 2011. Ningaloo Marine Park protects the reef under both state and commonwealth legislation. Strict zoning with sanctuary zones.",
+    "description": "Ningaloo Reef is one of the longest fringing reefs in the world, stretching 260 km along the remote coast of Western Australia. Unlike most large reef systems, Ningaloo is accessible directly from shore, with coral gardens beginning just meters from the beach.\n\nThe reef is famous for annual aggregations of whale sharks (the world's largest fish), humpback whales, and manta rays. Its relatively pristine condition is attributed to its remote location and low coastal population. Ningaloo is considered one of the healthiest reef systems globally.",
+    "geojson": "ningaloo-reef.geojson"
+  },
+  {
+    "code": "palau-reef",
+    "name": "Palau Reef System",
+    "location": "Palau, Western Pacific",
+    "areaKm2": 1580,
+    "reefType": "Barrier",
+    "healthStatus": "Near Threatened",
+    "coralSpecies": 400,
+    "marineSpecies": 1500,
+    "threats": [
+      "Climate change",
+      "Typhoons",
+      "Illegal fishing",
+      "Sedimentation",
+      "Tourism pressure"
+    ],
+    "conservationStatus": "Palau National Marine Sanctuary protects 80% of the nation's exclusive economic zone. Rock Islands Southern Lagoon is a UNESCO World Heritage Site.",
+    "description": "Palau's reef system encompasses over 700 islands and features an extraordinary diversity of marine habitats including barrier reefs, fringing reefs, atolls, patch reefs, and over 50 marine lakes. The Rock Islands are ancient coral reef uplifts creating mushroom-shaped limestone islands.\n\nPalau made global headlines in 2015 by creating one of the world's largest marine sanctuaries. The nation's marine biodiversity is exceptional, with 400 coral species and 1,500 fish species in a relatively small area. Palau's traditional conservation practice of 'bul' (temporary reef closures) predates modern marine conservation.",
+    "geojson": "palau-reef.geojson"
+  },
+  {
+    "code": "persian-gulf-reef",
+    "name": "Persian Gulf Reef",
+    "location": "UAE, Bahrain, Qatar, Iran, Saudi Arabia",
+    "areaKm2": 2800,
+    "reefType": "Fringing",
+    "healthStatus": "Critical",
+    "coralSpecies": 60,
+    "marineSpecies": 350,
+    "threats": [
+      "Extreme temperatures",
+      "Desalination brine discharge",
+      "Oil industry pollution",
+      "Dredging and reclamation",
+      "Hypersalinity"
+    ],
+    "conservationStatus": "Limited protection through ROPME (Regional Organization for the Protection of the Marine Environment). Some marine protected areas in UAE, Bahrain, and Saudi Arabia. Al Yasat Marine Protected Area in Abu Dhabi.",
+    "description": "The Persian Gulf contains the world's most thermally extreme coral reefs, surviving summer temperatures exceeding 36°C — conditions that would kill corals elsewhere. These heat-adapted corals are of immense scientific interest for understanding thermal tolerance.\n\nDespite their resilience to heat, Persian Gulf corals face extreme stress from coastal development, land reclamation projects, desalination plant discharges, and oil industry activities. The rapid urbanization along Gulf coasts, particularly in the UAE and Qatar, has destroyed significant reef areas. An estimated 70% of coral cover has been lost in some areas since the 1990s.",
+    "geojson": "persian-gulf-reef.geojson"
+  },
+  {
+    "code": "raja-ampat-reef",
+    "name": "Raja Ampat Reef",
+    "location": "West Papua, Indonesia",
+    "areaKm2": 40000,
+    "reefType": "Fringing",
+    "healthStatus": "Good",
+    "coralSpecies": 553,
+    "marineSpecies": 1700,
+    "threats": [
+      "Illegal fishing",
+      "Mining activities",
+      "Climate change",
+      "Plastic pollution",
+      "Dynamite fishing"
+    ],
+    "conservationStatus": "Raja Ampat Marine Protected Area network encompasses over 20,000 km². Community-based management with local sasi (traditional marine tenure) system. Part of the Coral Triangle Initiative.",
+    "description": "Raja Ampat in eastern Indonesia holds the highest recorded marine biodiversity on Earth. A single hectare of reef can contain more coral species than found in the entire Caribbean. The archipelago of over 1,500 islands sits at the epicenter of the Coral Triangle.\n\nThe exceptional biodiversity is attributed to Raja Ampat's position at the confluence of Pacific and Indian Ocean currents, creating a mixing zone for larvae from multiple biogeographic regions. Conservation efforts combining traditional management with modern marine protected areas have been remarkably successful.",
+    "geojson": "raja-ampat-reef.geojson"
+  },
+  {
+    "code": "red-sea-coral-reef",
+    "name": "Red Sea Coral Reef",
+    "location": "Egypt, Saudi Arabia, Sudan, Eritrea, Jordan",
+    "areaKm2": 17640,
+    "reefType": "Fringing",
+    "healthStatus": "Vulnerable",
+    "coralSpecies": 300,
+    "marineSpecies": 1200,
+    "threats": [
+      "Oil spills",
+      "Coastal development",
+      "Overfishing",
+      "Tourism pressure",
+      "Shipping traffic"
+    ],
+    "conservationStatus": "Ras Mohammed National Park and several marine protected areas along the coastline. PERSGA (Regional Organization for the Conservation of the Environment of the Red Sea) coordinates regional protection.",
+    "description": "The Red Sea coral reefs are among the most thermally resilient reef systems in the world. Stretching along 2,000 km of coastline, these fringing reefs have evolved to tolerate temperatures that would bleach corals elsewhere, making them a critical refuge as oceans warm globally.\n\nThe northern Red Sea has been identified as a potential coral reef 'refugium' where reefs may survive projected warming. With over 300 coral species (10% endemic), the Red Sea supports unique biodiversity adapted to high salinity and temperature extremes.",
+    "geojson": "red-sea-coral-reef.geojson"
+  },
+  {
+    "code": "solomon-islands-reef",
+    "name": "Solomon Islands Reef",
+    "location": "Solomon Islands, South Pacific",
+    "areaKm2": 5750,
+    "reefType": "Fringing",
+    "healthStatus": "Near Threatened",
+    "coralSpecies": 494,
+    "marineSpecies": 1019,
+    "threats": [
+      "Logging-related sedimentation",
+      "Subsistence overfishing",
+      "Climate change",
+      "Crown-of-thorns starfish",
+      "Sea level rise"
+    ],
+    "conservationStatus": "Part of the Coral Triangle. Arnavon Community Marine Conservation Area is the largest in the Pacific. Community-based resource management expanding across provinces.",
+    "description": "The Solomon Islands sit at the eastern edge of the Coral Triangle and harbor extraordinary reef biodiversity. The archipelago's 900+ islands create a complex mosaic of reef habitats, from coastal fringing reefs to oceanic atolls and isolated seamounts.\n\nThe Solomon Islands hold the distinction of having more coral species than any similarly sized area outside of Raja Ampat. Traditional marine tenure systems (tambu areas) have been practiced for centuries and are increasingly recognized as effective conservation tools. The combination of high biodiversity and low population density makes the Solomon Islands one of the most promising areas for reef conservation in the Pacific.",
+    "geojson": "solomon-islands-reef.geojson"
+  },
+  {
+    "code": "sulu-sea-reef",
+    "name": "Sulu Sea Reef System",
+    "location": "Philippines, Malaysia",
+    "areaKm2": 5800,
+    "reefType": "Fringing",
+    "healthStatus": "Vulnerable",
+    "coralSpecies": 450,
+    "marineSpecies": 1200,
+    "threats": [
+      "Blast fishing",
+      "Cyanide fishing",
+      "Overfishing",
+      "Coral bleaching",
+      "Sedimentation"
+    ],
+    "conservationStatus": "Sulu-Sulawesi Marine Ecoregion conservation program. Part of the Coral Triangle Initiative. Multiple marine protected areas including Tubbataha (separate entry) and Jessie Beazley Reef.",
+    "description": "The Sulu Sea contains some of the highest coral diversity in the world, lying at the heart of the Coral Triangle between the Philippines and Malaysian Borneo. Its reef systems range from tiny patch reefs to extensive fringing reefs around hundreds of islands.\n\nDespite exceptionally high biodiversity, the Sulu Sea faces severe threats from destructive fishing practices. Blast fishing and cyanide fishing, though illegal, remain persistent problems. The area is also critical for marine turtle nesting and shark nursery habitats. Cross-border cooperation between the Philippines and Malaysia is essential for effective conservation.",
+    "geojson": "sulu-sea-reef.geojson"
+  },
+  {
+    "code": "tubbataha-reef",
+    "name": "Tubbataha Reefs",
+    "location": "Sulu Sea, Philippines",
+    "areaKm2": 970,
+    "reefType": "Atoll",
+    "healthStatus": "Good",
+    "coralSpecies": 396,
+    "marineSpecies": 600,
+    "threats": [
+      "Illegal fishing",
+      "Ship groundings",
+      "Climate change",
+      "Poaching",
+      "Marine debris"
+    ],
+    "conservationStatus": "UNESCO World Heritage Site since 1993. Tubbataha Reefs Natural Park is a strict no-take marine reserve managed by the Tubbataha Management Office with ranger patrols.",
+    "description": "Tubbataha Reefs Natural Park consists of two coral atolls and a coral islet in the middle of the Sulu Sea, Philippines. Its remote location — 150 km from the nearest inhabited island — has helped preserve it as one of the most pristine reef systems in Southeast Asia.\n\nThe park serves as a critical spawning ground for commercially important fish, sharks, and sea turtles. Its isolation and strict protection have made it a benchmark for reef health in the Coral Triangle region. The park supports nearly 400 coral species and remains one of the best-managed marine protected areas in the tropics.",
+    "geojson": "tubbataha-reef.geojson"
+  }
+]

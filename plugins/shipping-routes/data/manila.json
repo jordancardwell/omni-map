@@ -1,0 +1,15 @@
+{
+  "code": "manila",
+  "name": "Port of Manila",
+  "country": "Philippines",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 70,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South China Sea Route",
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Manila in Philippines. Annual cargo throughput: ~70 million tons. Type: Container Port.",
+  "geojson": "manila.geojson"
+}

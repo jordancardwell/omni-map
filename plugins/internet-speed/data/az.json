@@ -1,0 +1,17 @@
+{
+  "code": "az",
+  "name": "Azerbaijan",
+  "avgDownloadMbps": 33.6,
+  "avgUploadMbps": 16.8,
+  "avgLatencyMs": 20,
+  "mobileDownloadMbps": 20.4,
+  "mobileUploadMbps": 4.8,
+  "fixedDownloadMbps": 33.6,
+  "fixedUploadMbps": 16.8,
+  "rank": 89,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Infrastructure development ongoing. ~14% year-over-year growth.",
+  "geojson": "az.geojson"
+}

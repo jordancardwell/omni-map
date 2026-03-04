@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.237906,
+          16.414602
+        ]
+      },
+      "properties": {
+        "code": "djoudj-national-bird-sanctuary",
+        "name": "Djoudj National Bird Sanctuary",
+        "type": "Natural",
+        "country": "Senegal",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

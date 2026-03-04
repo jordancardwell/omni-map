@@ -1,0 +1,17 @@
+{
+  "code": "yyz-ist",
+  "name": "Toronto — Istanbul",
+  "airports": [
+    "YYZ",
+    "IST"
+  ],
+  "distanceKm": 8172,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Turkish Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–IST route between Toronto and Istanbul. Distance: 8,172 km. ~20 weekly flights operated by Turkish Airlines.",
+  "geojson": "yyz-ist.geojson"
+}

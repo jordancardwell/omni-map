@@ -1,0 +1,16 @@
+{
+  "code": "khr",
+  "name": "Cambodian Riel",
+  "isoCode": "KHR",
+  "symbol": "៛",
+  "region": "Asia",
+  "centralBank": "National Bank of Cambodia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Cambodia"
+  ],
+  "countryCount": 1,
+  "description": "The Cambodian Riel circulates alongside the US Dollar, which dominates larger transactions. Cambodia's economy has grown rapidly through garment exports and tourism.",
+  "historicalNotes": "The riel was reintroduced in 1980 after the Khmer Rouge era. During the Pol Pot regime (1975-1979), money was abolished entirely.",
+  "geojson": "khr.geojson"
+}

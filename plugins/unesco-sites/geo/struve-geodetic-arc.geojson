@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3377777777,
+          59.0577777778
+        ]
+      },
+      "properties": {
+        "code": "struve-geodetic-arc",
+        "name": "Struve Geodetic Arc",
+        "type": "Cultural",
+        "country": "Latvia, Norway, Sweden, Belarus, Estonia, Finland, Ukraine, Lithuania, Republic of Moldova, Russian Federation",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

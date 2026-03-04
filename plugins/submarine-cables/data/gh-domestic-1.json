@@ -1,0 +1,16 @@
+{
+  "code": "gh-domestic-1",
+  "name": "GH Domestic-1",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 996,
+  "yearLaid": 2020,
+  "rfsDate": "2013-06",
+  "owner": "Vodafone",
+  "landingPoints": [
+    "Takoradi, Ghana",
+    "Tema, Ghana"
+  ],
+  "description": "GH Domestic-1 connecting Takoradi to Tema along the West African coast.",
+  "geojson": "gh-domestic-1.geojson"
+}

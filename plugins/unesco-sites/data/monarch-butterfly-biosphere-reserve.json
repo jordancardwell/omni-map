@@ -1,0 +1,14 @@
+{
+  "code": "monarch-butterfly-biosphere-reserve",
+  "name": "Monarch Butterfly Biosphere Reserve",
+  "type": "Natural",
+  "country": "Mexico",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The 56,259 ha biosphere lies within rugged forested mountains about 100 km northwest of Mexico City. Every autumn, millions, perhaps a billion, butterflies from wide areas of North America return to the site and cluster on small areas of the forest reserve, colouring its trees orange and literally bending their branches under their collective weight. In the spring, these butterflies begin an 8 month migration that takes them all the way to Eastern Canada and back, during which time four successive generations are born and die. How they find their way back to their overwintering site remains a mystery.",
+  "danger": false,
+  "geojson": "monarch-butterfly-biosphere-reserve.geojson"
+}

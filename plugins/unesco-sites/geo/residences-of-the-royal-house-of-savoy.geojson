@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68572,
+          45.07253
+        ]
+      },
+      "properties": {
+        "code": "residences-of-the-royal-house-of-savoy",
+        "name": "Residences of the Royal House of Savoy",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

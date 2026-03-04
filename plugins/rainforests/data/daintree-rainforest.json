@@ -1,0 +1,20 @@
+{
+  "code": "daintree-rainforest",
+  "name": "Daintree Rainforest",
+  "country": "Australia",
+  "forestType": "Tropical",
+  "areaKm2": 1200,
+  "intactness": "Mostly Intact",
+  "changeSince2000": "-0.8% (minimal loss, approximately 10 km²)",
+  "annualLossRate": "<0.1% per year",
+  "threats": [
+    "Tourism pressure",
+    "Invasive species",
+    "Climate change",
+    "Cyclone damage",
+    "Urban encroachment"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site (Wet Tropics of Queensland). Daintree National Park provides strong protection. Eastern Kuku Yalanji Aboriginal ownership of parts of the forest restored in 2021. Wet Tropics Management Authority oversees conservation.",
+  "description": "The **Daintree Rainforest** in Far North Queensland is the oldest continuously surviving tropical rainforest on Earth, estimated at 180 million years old. It is part of the larger Wet Tropics World Heritage Area.\n\n### Key Statistics\n- **Biodiversity**: 3,000+ plant species (700 endemic), 430+ bird species\n- **Age**: ~180 million years, the oldest tropical rainforest\n- **Rare species**: Southern cassowary, Bennett's tree-kangaroo, musky rat-kangaroo\n- **Unique feature**: Where rainforest meets the Great Barrier Reef\n\n### Deforestation Trends\nThe Daintree is one of the best-protected rainforests globally. The IFL 2020 data shows minimal disturbance. Primary threats are now climate-related (warming, cyclone intensity) and invasive species rather than direct clearing.",
+  "geojson": "daintree-rainforest.geojson"
+}

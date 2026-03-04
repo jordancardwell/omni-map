@@ -1,0 +1,17 @@
+{
+  "code": "kairouan",
+  "name": "Kairouan",
+  "type": "Cultural",
+  "country": "Tunisia",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Founded in 670, Kairouan flourished under the Aghlabid dynasty in the 9th century. Despite the transfer of the political capital to Tunis in the 12th century, Kairouan remained the Maghreb's principal holy city. Its rich architectural heritage includes the Great Mosque, with its marble and porphyry columns, and the 9th-century Mosque of the Three Gates.",
+  "danger": false,
+  "geojson": "kairouan.geojson"
+}

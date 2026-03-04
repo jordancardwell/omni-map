@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0952777778,
+          5.6488888889
+        ]
+      },
+      "properties": {
+        "code": "tai-national-park",
+        "name": "Taï National Park",
+        "type": "Natural",
+        "country": "Côte d'Ivoire",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

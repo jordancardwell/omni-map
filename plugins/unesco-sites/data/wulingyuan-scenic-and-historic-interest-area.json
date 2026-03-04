@@ -1,0 +1,14 @@
+{
+  "code": "wulingyuan-scenic-and-historic-interest-area",
+  "name": "Wulingyuan Scenic and Historic Interest Area",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "A spectacular area stretching over more than 26,000 ha in China's Hunan Province, the site is dominated by more than 3,000 narrow sandstone pillars and peaks, many over 200 m high. Between the peaks lie ravines and gorges with streams, pools and waterfalls, some 40 caves, and two large natural bridges. In addition to the striking beauty of the landscape, the region is also noted for the fact that it is home to a number of endangered plant and animal species.",
+  "danger": false,
+  "geojson": "wulingyuan-scenic-and-historic-interest-area.geojson"
+}

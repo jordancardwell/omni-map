@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cu","name":"Cuba","country":"CU","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-85,19.8],[-85,23.3],[-74.1,23.3],[-74.1,19.8],[-85,19.8]]]}}]}

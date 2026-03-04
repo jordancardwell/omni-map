@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"carrier","name":"Carrier","people":"Carrier","region":"North America"},"geometry":{"type":"Polygon","coordinates":[[[-122.2,54],[-123.1,55.1],[-124,54.9],[-125,55.1],[-125.2,54],[-124.9,53],[-124,52.7],[-122.8,53.1],[-122.2,54]]]}}]}

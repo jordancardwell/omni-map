@@ -1,0 +1,31 @@
+{
+  "code": "west-african-savanna",
+  "name": "West African Savanna Belt",
+  "region": "West Africa",
+  "aridityGroup": "4. Dry Sub-Humid",
+  "aridityClassification": "Dry Sub-Humid",
+  "aridityIndex": "0.50–0.65 — dry savanna with seasonal rains",
+  "area": "1,600,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 150000000,
+  "affectedCountries": [
+    "Nigeria",
+    "Ghana",
+    "Burkina Faso",
+    "Senegal",
+    "Guinea",
+    "Cameroon",
+    "Benin",
+    "Togo"
+  ],
+  "desertificationDrivers": [
+    "Deforestation",
+    "Charcoal production",
+    "Slash-and-burn agriculture",
+    "Population growth",
+    "Soil nutrient depletion"
+  ],
+  "desertFrontier": "Sahel aridity pushing southward into the Guinea savanna zone",
+  "description": "The West African dry savanna supports 150 million people between the Sahel to the north and the humid forests to the south. Rapid population growth (3%/year in some areas) drives land clearing for subsistence agriculture. Charcoal production for cooking fuel strips tree cover. Nigeria alone loses 400,000 hectares of forest and woodland annually. The southern boundary of the degradation zone is moving southward.",
+  "geojson": "west-african-savanna.geojson"
+}

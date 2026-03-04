@@ -1,0 +1,16 @@
+{
+  "code": "yt-mg-cable",
+  "name": "YT-MG Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1308,
+  "yearLaid": 2015,
+  "rfsDate": "2014-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Mamoudzou, Mayotte",
+    "Nosy Be, Madagascar"
+  ],
+  "description": "YT-MG Cable connecting Mamoudzou to Nosy Be in East Africa/Indian Ocean.",
+  "geojson": "yt-mg-cable.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6094444444,
+          34.5622222222
+        ]
+      },
+      "properties": {
+        "code": "mozu-furuichi-kofun-group-mounded-tombs-of-ancient-japan",
+        "name": "Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

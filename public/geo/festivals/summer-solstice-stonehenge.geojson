@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8262,
+          51.1789
+        ]
+      },
+      "properties": {
+        "code": "summer-solstice-stonehenge",
+        "name": "Summer Solstice at Stonehenge",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "June 20–21",
+        "location": "Stonehenge, UK"
+      }
+    }
+  ]
+}

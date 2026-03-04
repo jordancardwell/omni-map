@@ -1,0 +1,16 @@
+{
+  "code": "ancient-city-of-ping-yao",
+  "name": "Ancient City of Ping Yao",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Ping Yao is an exceptionally well-preserved example of a traditional Han Chinese city, founded in the 14th century. Its urban fabric shows the evolution of architectural styles and town planning in Imperial China over five centuries. Of special interest are the imposing buildings associated with banking, for which Ping Yao was the major centre for the whole of China in the 19th and early 20th centuries.",
+  "danger": false,
+  "geojson": "ancient-city-of-ping-yao.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.11717,
+          29.65792
+        ]
+      },
+      "properties": {
+        "code": "historic-ensemble-of-the-potala-palace-lhasa",
+        "name": "Historic Ensemble of the Potala Palace, Lhasa",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

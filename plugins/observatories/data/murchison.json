@@ -1,0 +1,21 @@
+{
+  "code": "murchison",
+  "name": "Murchison Radio-astronomy Observatory",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 377,
+  "aperture": "Various (MWA, ASKAP)",
+  "telescopes": [
+    "MWA",
+    "ASKAP"
+  ],
+  "keyDiscoveries": [
+    "Epoch of Reionization studies",
+    "ASKAP fast radio bursts",
+    "All-sky radio surveys"
+  ],
+  "location": "Murchison Radio-astronomy Observatory, Australia",
+  "description": "Australia's premier radio-quiet site in Western Australia. Home to MWA and ASKAP precursor arrays for the Square Kilometre Array.",
+  "geojson": "murchison.geojson"
+}

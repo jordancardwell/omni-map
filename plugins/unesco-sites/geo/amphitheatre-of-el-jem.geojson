@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70694,
+          35.29639
+        ]
+      },
+      "properties": {
+        "code": "amphitheatre-of-el-jem",
+        "name": "Amphitheatre of El Jem",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

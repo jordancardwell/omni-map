@@ -1,0 +1,16 @@
+{
+  "code": "sc-dg-cable",
+  "name": "SC-DG Cable",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2297,
+  "yearLaid": 2017,
+  "rfsDate": "2020-06",
+  "owner": "US DoD",
+  "landingPoints": [
+    "Victoria, Seychelles",
+    "Diego Garcia"
+  ],
+  "description": "SC-DG Cable connecting Victoria to Diego Garcia in East Africa/Indian Ocean.",
+  "geojson": "sc-dg-cable.geojson"
+}

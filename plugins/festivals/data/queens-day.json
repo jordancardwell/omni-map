@@ -1,0 +1,14 @@
+{
+  "code": "queens-day",
+  "name": "King's Day",
+  "festivalType": "Cultural",
+  "dateOrSeason": "April 27",
+  "origin": "Dutch tradition",
+  "estimatedAttendance": "5+ million celebrating",
+  "unescoICH": "Not inscribed",
+  "traditions": "Wearing orange (House of Orange-Nassau); flea markets (vrijmarkt); canal boat parades; live music; orange food and drinks.",
+  "historicalBackground": "King's Day (formerly Queen's Day) celebrates the Dutch monarch's birthday. The tradition began in 1885 for Princess Wilhelmina and became a national celebration.",
+  "description": "The Netherlands' biggest national party, when the entire country turns orange for street markets, canal parades, and celebrations of the Dutch monarchy.",
+  "location": "Amsterdam, Netherlands",
+  "geojson": "queens-day.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"antwerp","name":"Port of Antwerp-Bruges","featureType":"port","portType":"Container Port","country":"Belgium"},"geometry":{"type":"Point","coordinates":[4.4,51.23]}}]}

@@ -1,0 +1,15 @@
+{
+  "code": "humayun-s-tomb-delhi",
+  "name": "Humayun's Tomb, Delhi",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This tomb, built in 1570, is of particular cultural significance as it was the first garden-tomb on the Indian subcontinent. It inspired several major architectural innovations, culminating in the construction of the Taj Mahal.",
+  "danger": false,
+  "geojson": "humayun-s-tomb-delhi.geojson"
+}

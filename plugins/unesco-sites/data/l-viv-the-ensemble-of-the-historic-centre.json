@@ -1,0 +1,15 @@
+{
+  "code": "l-viv-the-ensemble-of-the-historic-centre",
+  "name": "L'viv – the Ensemble of the Historic Centre",
+  "type": "Cultural",
+  "country": "Ukraine",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The city of L''viv, founded in the late Middle Ages, was a flourishing administrative, religious and commercial centre for several centuries. The medieval urban topography has been preserved virtually intact (in particular, there is evidence of the different ethnic communities who lived there), along with many fine Baroque and later buildings.",
+  "danger": true,
+  "geojson": "l-viv-the-ensemble-of-the-historic-centre.geojson"
+}

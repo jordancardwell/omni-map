@@ -1,0 +1,14 @@
+{
+  "code": "tallinn",
+  "name": "Port of Tallinn",
+  "country": "Estonia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Tallinn in Estonia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "tallinn.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "vizcaya-bridge",
+  "name": "Vizcaya Bridge",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Vizcaya Bridge straddles the mouth of the Ibaizabal estuary, west of Bilbao. It was designed by the Basque architect Alberto de Palacio and completed in 1893. The 45-m-high bridge with its span of 160 m, merges 19th-century ironworking traditions with the then new lightweight technology of twisted steel ropes. It was the first bridge in the world to carry people and traffic on a high suspended gondola and was used as a model for many similar bridges in Europe, Africa and the America only a few of which survive. With its innovative use of lightweight twisted steel cables, it is regarded as one of the outstanding architectural iron constructions of the Industrial Revolution.",
+  "danger": false,
+  "geojson": "vizcaya-bridge.geojson"
+}

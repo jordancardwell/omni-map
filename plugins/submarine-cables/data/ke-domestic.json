@@ -1,0 +1,16 @@
+{
+  "code": "ke-domestic",
+  "name": "KE Domestic",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 621,
+  "yearLaid": 2010,
+  "rfsDate": "2017-06",
+  "owner": "Safaricom",
+  "landingPoints": [
+    "Lamu, Kenya",
+    "Mombasa, Kenya"
+  ],
+  "description": "KE Domestic connecting Lamu to Mombasa in East Africa/Indian Ocean.",
+  "geojson": "ke-domestic.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "virgo",
+  "name": "Virgo Interferometer",
+  "country": "Italy",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 9,
+  "aperture": "3 km arms",
+  "telescopes": [
+    "Advanced Virgo"
+  ],
+  "keyDiscoveries": [
+    "Gravitational wave sky localization",
+    "Binary neutron star merger GW170817",
+    "Black hole mergers"
+  ],
+  "location": "Virgo Interferometer, Italy",
+  "description": "European gravitational wave detector near Pisa. Adding Virgo to LIGO observations enables precise source localization, crucial for multi-messenger follow-up.",
+  "geojson": "virgo.geojson"
+}

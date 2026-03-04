@@ -1,0 +1,22 @@
+{
+  "code": "vesuvius",
+  "name": "Mount Vesuvius",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 1281,
+  "lastEruption": "1944",
+  "vei": 5,
+  "country": "Italy",
+  "region": "Campania",
+  "location": "Campania, Italy",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Destroyed Pompeii and Herculaneum in 79 CE (VEI 5). Last erupted in 1944. Over 3 million people live in the red zone surrounding the volcano.",
+  "description": "Vesuvius is one of the most famous and dangerous volcanoes in the world. Its 79 CE eruption buried the Roman cities of Pompeii and Herculaneum and is one of the most documented volcanic disasters in history.",
+  "geojson": "vesuvius.geojson"
+}

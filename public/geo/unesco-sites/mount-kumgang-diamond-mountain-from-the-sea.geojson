@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1375,
+          38.6602777778
+        ]
+      },
+      "properties": {
+        "code": "mount-kumgang-diamond-mountain-from-the-sea",
+        "name": "Mount Kumgang – Diamond Mountain from the Sea",
+        "type": "Mixed",
+        "country": "Democratic People's Republic of Korea",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

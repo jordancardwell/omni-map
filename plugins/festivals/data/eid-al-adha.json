@@ -1,0 +1,14 @@
+{
+  "code": "eid-al-adha",
+  "name": "Eid al-Adha",
+  "festivalType": "Religious",
+  "dateOrSeason": "10th Dhul Hijjah (varies)",
+  "origin": "Islamic tradition",
+  "estimatedAttendance": "1.8 billion Muslims worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Ritual sacrifice of livestock (Qurbani); distribution of meat to poor; communal prayers; family gatherings; pilgrimage to Mecca (Hajj).",
+  "historicalBackground": "Eid al-Adha honors Ibrahim's willingness to sacrifice his son as an act of obedience to God. It coincides with the Hajj pilgrimage, one of Islam's Five Pillars.",
+  "description": "The Festival of Sacrifice, the holier of the two Islamic holidays, commemorating Ibrahim's devotion and coinciding with the annual Hajj pilgrimage.",
+  "location": "Mecca, Saudi Arabia",
+  "geojson": "eid-al-adha.geojson"
+}

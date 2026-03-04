@@ -1,0 +1,18 @@
+{
+  "code": "lax-cdg",
+  "name": "Los Angeles — Paris",
+  "airports": [
+    "LAX",
+    "CDG"
+  ],
+  "distanceKm": 9103,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Air France",
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAX–CDG route between Los Angeles and Paris. Distance: 9,103 km. ~35 weekly flights operated by Air France, Delta.",
+  "geojson": "lax-cdg.geojson"
+}

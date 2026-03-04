@@ -1,0 +1,15 @@
+{
+  "code": "noel-kempff-mercado-national-park",
+  "name": "Noel Kempff Mercado National Park",
+  "type": "Natural",
+  "country": "Bolivia (Plurinational State of)",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park.",
+  "danger": false,
+  "geojson": "noel-kempff-mercado-national-park.geojson"
+}

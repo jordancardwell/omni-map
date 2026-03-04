@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.50194,
+          33.25667
+        ]
+      },
+      "properties": {
+        "code": "portuguese-city-of-mazagan-el-jadida",
+        "name": "Portuguese City of Mazagan (El Jadida)",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

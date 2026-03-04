@@ -1,0 +1,14 @@
+{
+  "code": "san-juan",
+  "name": "Port of San Juan",
+  "country": "Puerto Rico",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of San Juan in Puerto Rico. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+  "geojson": "san-juan.geojson"
+}

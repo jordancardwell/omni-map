@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45028,
+          46.94806
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-berne",
+        "name": "Old City of Berne",
+        "type": "Cultural",
+        "country": "Switzerland",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

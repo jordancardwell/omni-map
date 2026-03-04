@@ -1,0 +1,16 @@
+{
+  "code": "tz-mz-north",
+  "name": "TZ-MZ North",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1063,
+  "yearLaid": 2013,
+  "rfsDate": "2021-06",
+  "owner": "Vodacom",
+  "landingPoints": [
+    "Dar es Salaam, Tanzania",
+    "Nacala, Mozambique"
+  ],
+  "description": "TZ-MZ North connecting Dar es Salaam to Nacala in East Africa/Indian Ocean.",
+  "geojson": "tz-mz-north.geojson"
+}

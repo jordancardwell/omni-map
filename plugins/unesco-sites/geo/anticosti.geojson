@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2452777778,
+          49.5386111111
+        ]
+      },
+      "properties": {
+        "code": "anticosti",
+        "name": "Anticosti",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "tat-14",
+  "name": "TAT-14",
+  "capacityTbps": 3.2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2000,
+  "rfsDate": "2001-05",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Tuckerton, USA",
+    "Norden, Germany",
+    "Katwijk, Netherlands",
+    "Bude, UK",
+    "Saint-Hilaire-de-Riez, France",
+    "Blaabjerg, Denmark"
+  ],
+  "description": "Trans-Atlantic Telecommunications cable, one of the last generation of traditional consortium-built transatlantic cables.",
+  "geojson": "tat-14.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "hk-gu-cable",
+  "name": "HK-GU Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 960,
+  "yearLaid": 2020,
+  "rfsDate": "2013-06",
+  "owner": "RTI",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Guam"
+  ],
+  "description": "HK-GU Cable connecting Hong Kong to Guam.",
+  "geojson": "hk-gu-cable.geojson"
+}

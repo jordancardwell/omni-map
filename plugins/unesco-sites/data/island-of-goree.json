@@ -1,0 +1,12 @@
+{
+  "code": "island-of-goree",
+  "name": "Island of Gorée",
+  "type": "Cultural",
+  "country": "Senegal",
+  "yearInscribed": "1978",
+  "criteria": [],
+  "region": "Africa",
+  "description": "The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation.",
+  "danger": false,
+  "geojson": "island-of-goree.geojson"
+}

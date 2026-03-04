@@ -1,0 +1,17 @@
+{
+  "code": "starbase",
+  "name": "Starbase (SpaceX South Texas)",
+  "country": "United States",
+  "operator": "SpaceX",
+  "coordinates": "25.9972°N, 97.1571°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Starship IFT-1 through IFT-6",
+    "First full-stack Starship flights",
+    "Mechazilla booster catch"
+  ],
+  "orbitalInclinationRange": "26°–60°",
+  "location": "Starbase (SpaceX South Texas), United States",
+  "description": "SpaceX's Starship development and launch facility at Boca Chica, Texas. Site of the world's most powerful rocket ever flown. Features innovative launch tower with booster catch capability.",
+  "geojson": "starbase.geojson"
+}

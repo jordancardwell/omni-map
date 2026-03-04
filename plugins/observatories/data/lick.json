@@ -1,0 +1,21 @@
+{
+  "code": "lick",
+  "name": "Lick Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1283,
+  "aperture": "3 m",
+  "telescopes": [
+    "Shane 3m",
+    "Automated Planet Finder"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet surveys",
+    "Supernova searches",
+    "Adaptive optics development"
+  ],
+  "location": "Lick Observatory, United States",
+  "description": "UC's first permanently occupied mountain-top observatory on Mount Hamilton. The Automated Planet Finder is a robotic telescope dedicated to exoplanet searches.",
+  "geojson": "lick.geojson"
+}

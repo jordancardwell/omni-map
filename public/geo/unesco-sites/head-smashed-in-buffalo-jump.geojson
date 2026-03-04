@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6520527778,
+          49.7084055556
+        ]
+      },
+      "properties": {
+        "code": "head-smashed-in-buffalo-jump",
+        "name": "Head-Smashed-In Buffalo Jump",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

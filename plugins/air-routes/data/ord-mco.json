@@ -1,0 +1,19 @@
+{
+  "code": "ord-mco",
+  "name": "Chicago — Orlando",
+  "airports": [
+    "ORD",
+    "MCO"
+  ],
+  "distanceKm": 1620,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–MCO route between Chicago and Orlando. Distance: 1,620 km. ~60 weekly flights operated by United, Southwest, Spirit.",
+  "geojson": "ord-mco.geojson"
+}

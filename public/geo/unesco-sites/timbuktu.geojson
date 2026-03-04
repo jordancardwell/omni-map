@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.999444444,
+          16.77333333
+        ]
+      },
+      "properties": {
+        "code": "timbuktu",
+        "name": "Timbuktu",
+        "type": "Cultural",
+        "country": "Mali",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "golestan-palace",
+  "name": "Golestan Palace",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2013",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The lavish Golestan Palace is a masterpiece of the Qajar era, embodying the successful integration of earlier Persian crafts and architecture with Western influences. The walled Palace, one of the oldest groups of buildings in Teheran, became the seat of government of the Qajar family, which came into power in 1779 and made Teheran the capital of the country. Built around a garden featuring pools as well as planted areas, the Palace’s most characteristic features and rich ornaments date from the 19th century. It became a centre of Qajari arts and architecture of which it is an outstanding example and has remained a source of inspiration for Iranian artists and architects to this day. It represents a new style incorporating traditional Persian arts and crafts and elements of 18th century architecture and technology.",
+  "danger": false,
+  "geojson": "golestan-palace.geojson"
+}

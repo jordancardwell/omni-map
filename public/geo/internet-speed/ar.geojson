@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ar","name":"Argentina","country":"AR","speedTier":"Moderate (30–75 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-73.6,-55.1],[-73.6,-21.8],[-53.6,-21.8],[-53.6,-55.1],[-73.6,-55.1]]]}}]}

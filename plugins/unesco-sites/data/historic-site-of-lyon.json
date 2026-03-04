@@ -1,0 +1,15 @@
+{
+  "code": "historic-site-of-lyon",
+  "name": "Historic Site of Lyon",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The long history of Lyon, which was founded by the Romans in the 1st century B.C. as the capital of the Three Gauls and has continued to play a major role in Europe's political, cultural and economic development ever since, is vividly illustrated by its urban fabric and the many fine historic buildings from all periods.",
+  "danger": false,
+  "geojson": "historic-site-of-lyon.geojson"
+}

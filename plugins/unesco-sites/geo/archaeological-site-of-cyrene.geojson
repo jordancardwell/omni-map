@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.85833,
+          32.825
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-cyrene",
+        "name": "Archaeological Site of Cyrene",
+        "type": "Cultural",
+        "country": "Libya",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

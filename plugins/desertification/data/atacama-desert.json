@@ -1,0 +1,23 @@
+{
+  "code": "atacama-desert",
+  "name": "Atacama Desert",
+  "region": "South America",
+  "aridityGroup": "1. Hyper-Arid",
+  "aridityClassification": "Hyper-Arid",
+  "aridityIndex": "< 0.03 — driest non-polar desert",
+  "area": "105,000 km²",
+  "degradationTrend": "Stable",
+  "populationAffected": 1000000,
+  "affectedCountries": [
+    "Chile",
+    "Peru"
+  ],
+  "desertificationDrivers": [
+    "Rain shadow effect",
+    "Cold ocean currents",
+    "Mining water extraction"
+  ],
+  "desertFrontier": "Relatively stable boundaries due to Andes rain shadow",
+  "description": "The Atacama is the driest non-polar desert on Earth. Some weather stations have never recorded rainfall. The extreme aridity is caused by the rain shadow of the Andes and the cold Humboldt Current. Despite the harsh conditions, lithium and copper mining operations extract significant groundwater resources.",
+  "geojson": "atacama-desert.geojson"
+}

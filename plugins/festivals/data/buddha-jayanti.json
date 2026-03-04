@@ -1,0 +1,14 @@
+{
+  "code": "buddha-jayanti",
+  "name": "Buddha Jayanti",
+  "festivalType": "Religious",
+  "dateOrSeason": "May (full moon)",
+  "origin": "Buddhist tradition",
+  "estimatedAttendance": "Millions worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Visiting Lumbini (Buddha's birthplace); meditation retreats; temple decorations; chanting sutras; offering alms; releasing caged animals.",
+  "historicalBackground": "Buddha Jayanti specifically celebrates the birth of Siddhartha Gautama in Lumbini, Nepal, around 563 BCE. It is especially significant in Theravada countries.",
+  "description": "The celebration of the Buddha's birth at Lumbini, Nepal, with pilgrimages, meditation, and acts of compassion across the Buddhist world.",
+  "location": "Lumbini, Nepal",
+  "geojson": "buddha-jayanti.geojson"
+}

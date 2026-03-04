@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[110.4457,-7.5407]},"properties":{"code":"merapi","name":"Mount Merapi","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2930,"lastEruption":"2023","vei":4}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "lushan-national-park",
+  "name": "Lushan National Park",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Mount Lushan, in Jiangxi, is one of the spiritual centres of Chinese civilization. Buddhist and Taoist temples, along with landmarks of Confucianism, where the most eminent masters taught, blend effortlessly into a strikingly beautiful landscape which has inspired countless artists who developed the aesthetic approach to nature found in Chinese culture.",
+  "danger": false,
+  "geojson": "lushan-national-park.geojson"
+}

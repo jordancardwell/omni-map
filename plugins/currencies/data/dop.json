@@ -1,0 +1,16 @@
+{
+  "code": "dop",
+  "name": "Dominican Peso",
+  "isoCode": "DOP",
+  "symbol": "RD$",
+  "region": "Americas",
+  "centralBank": "Central Bank of the Dominican Republic",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Dominican Republic"
+  ],
+  "countryCount": 1,
+  "description": "The Dominican Peso is the currency of the Dominican Republic, the largest Caribbean economy by GDP.",
+  "historicalNotes": "The peso was introduced in 1844 when the Dominican Republic gained independence. The country briefly used the US dollar from 1905 to 1947.",
+  "geojson": "dop.geojson"
+}

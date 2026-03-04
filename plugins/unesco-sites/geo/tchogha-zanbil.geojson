@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.522118,
+          32.00857
+        ]
+      },
+      "properties": {
+        "code": "tchogha-zanbil",
+        "name": "Tchogha Zanbil",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

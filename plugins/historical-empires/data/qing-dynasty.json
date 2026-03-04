@@ -1,0 +1,25 @@
+{
+  "code": "qing-dynasty",
+  "name": "Qing Dynasty",
+  "era": "Early Modern",
+  "peakYear": "1790 CE",
+  "areaAtPeakKm2": 14700000,
+  "populationEstimate": "400 million",
+  "capital": "Beijing",
+  "keyAchievements": [
+    "Kangxi-Qianlong golden age",
+    "Tibet and Xinjiang incorporation",
+    "Population boom",
+    "Porcelain and silk production",
+    "Literary compilations"
+  ],
+  "declineFactors": [
+    "Opium Wars",
+    "Taiping Rebellion",
+    "Foreign concessions",
+    "Boxer Rebellion",
+    "Xinhai Revolution"
+  ],
+  "description": "The Qing Dynasty (1644–1912) was the last imperial dynasty of China and at its peak was the most populous country in the world. Founded by the Manchu people, it expanded China's territory to include Tibet, Xinjiang, Mongolia, and Taiwan.\n\nThe Kangxi and Qianlong emperors presided over an era of prosperity and cultural achievement. However, the 19th century brought devastating conflicts: the Opium Wars with Britain, the Taiping Rebellion (which killed 20–30 million people), and growing foreign interference that ultimately led to the dynasty's fall in 1912.",
+  "geojson": "qing-dynasty.geojson"
+}

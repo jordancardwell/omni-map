@@ -1,0 +1,15 @@
+{
+  "code": "la-lonja-de-la-seda-de-valencia",
+  "name": "La Lonja de la Seda de Valencia",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built between 1482 and 1533, this group of buildings was originally used for trading in silk (hence its name, the Silk Exchange) and it has always been a centre for commerce. It is a masterpiece of late Gothic architecture. The grandiose Sala de Contratación (Contract or Trading Hall), in particular, illustrates the power and wealth of a major Mediterranean mercantile city in the 15th and 16th centuries.",
+  "danger": false,
+  "geojson": "la-lonja-de-la-seda-de-valencia.geojson"
+}

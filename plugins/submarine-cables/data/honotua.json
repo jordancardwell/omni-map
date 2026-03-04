@@ -1,0 +1,16 @@
+{
+  "code": "honotua",
+  "name": "Honotua",
+  "capacityTbps": 2.56,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 4800,
+  "yearLaid": 2010,
+  "rfsDate": "2010-06",
+  "owner": "OPT French Polynesia",
+  "landingPoints": [
+    "Papeete, French Polynesia",
+    "Honolulu, USA"
+  ],
+  "description": "Cable connecting French Polynesia to Hawaii.",
+  "geojson": "honotua.geojson"
+}

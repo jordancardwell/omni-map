@@ -1,0 +1,17 @@
+{
+  "code": "grand-canyon-national-park",
+  "name": "Grand Canyon National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Carved out by the Colorado River, the Grand Canyon (nearly 1,500 m deep) is the most spectacular gorge in the world. Located in the state of Arizona, it cuts across the Grand Canyon National Park. Its horizontal strata retrace the geological history of the past 2 billion years. There are also prehistoric traces of human adaptation to a particularly harsh environment.",
+  "danger": false,
+  "geojson": "grand-canyon-national-park.geojson"
+}

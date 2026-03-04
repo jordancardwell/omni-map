@@ -1,0 +1,16 @@
+{
+  "code": "au-eastern",
+  "name": "AU Eastern",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1819,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "Optus",
+  "landingPoints": [
+    "Adelaide, Australia",
+    "Sydney, Australia"
+  ],
+  "description": "AU Eastern connecting Adelaide to Sydney.",
+  "geojson": "au-eastern.geojson"
+}

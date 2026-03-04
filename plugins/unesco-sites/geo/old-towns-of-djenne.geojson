@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.555,
+          13.90639
+        ]
+      },
+      "properties": {
+        "code": "old-towns-of-djenne",
+        "name": "Old Towns of Djenné",
+        "type": "Cultural",
+        "country": "Mali",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

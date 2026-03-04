@@ -1,0 +1,18 @@
+{
+  "code": "dxb-hkg",
+  "name": "Dubai — Hong Kong",
+  "airports": [
+    "DXB",
+    "HKG"
+  ],
+  "distanceKm": 5920,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Emirates",
+    "Cathay Pacific"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DXB–HKG route between Dubai and Hong Kong. Distance: 5,920 km. ~50 weekly flights operated by Emirates, Cathay Pacific.",
+  "geojson": "dxb-hkg.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3150277778,
+          48.8106944444
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-cesky-krumlov",
+        "name": "Historic Centre of Český Krumlov",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

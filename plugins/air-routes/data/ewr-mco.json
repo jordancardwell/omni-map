@@ -1,0 +1,18 @@
+{
+  "code": "ewr-mco",
+  "name": "Newark — Orlando",
+  "airports": [
+    "EWR",
+    "MCO"
+  ],
+  "distanceKm": 1510,
+  "weeklyFlights": 50,
+  "airlines": [
+    "United",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "EWR–MCO route between Newark and Orlando. Distance: 1,510 km. ~50 weekly flights operated by United, Spirit.",
+  "geojson": "ewr-mco.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "ord-jfk",
+  "name": "Chicago — New York",
+  "airports": [
+    "ORD",
+    "JFK"
+  ],
+  "distanceKm": 1188,
+  "weeklyFlights": 100,
+  "airlines": [
+    "American",
+    "Delta",
+    "United"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ORD–JFK route between Chicago and New York. Distance: 1,188 km. ~100 weekly flights operated by American, Delta, United.",
+  "geojson": "ord-jfk.geojson"
+}

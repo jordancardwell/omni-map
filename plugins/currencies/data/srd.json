@@ -1,0 +1,16 @@
+{
+  "code": "srd",
+  "name": "Surinamese Dollar",
+  "isoCode": "SRD",
+  "symbol": "SR$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Suriname",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Suriname"
+  ],
+  "countryCount": 1,
+  "description": "The Surinamese Dollar is the currency of the smallest sovereign state in South America.",
+  "historicalNotes": "Introduced in 2004, replacing the Surinamese guilder at a rate of 1,000:1. Suriname was formerly a Dutch colony.",
+  "geojson": "srd.geojson"
+}

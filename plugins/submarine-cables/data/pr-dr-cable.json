@@ -1,0 +1,16 @@
+{
+  "code": "pr-dr-cable",
+  "name": "PR-DR Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 829,
+  "yearLaid": 2020,
+  "rfsDate": "2014-06",
+  "owner": "Claro",
+  "landingPoints": [
+    "San Juan, Puerto Rico",
+    "Santo Domingo, Dominican Republic"
+  ],
+  "description": "PR-DR Cable connecting San Juan to Santo Domingo in the Caribbean region.",
+  "geojson": "pr-dr-cable.geojson"
+}

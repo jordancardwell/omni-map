@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2305555556,
+          -43.1184722222
+        ]
+      },
+      "properties": {
+        "code": "tasmanian-wilderness",
+        "name": "Tasmanian Wilderness",
+        "type": "Mixed",
+        "country": "Australia",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

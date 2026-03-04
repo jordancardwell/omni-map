@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.008,
+          19.233
+        ]
+      },
+      "properties": {
+        "code": "day-of-the-dead-mixquic",
+        "name": "Día de los Muertos (Mixquic)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "November 1–2",
+        "location": "San Andrés Mixquic, Mexico"
+      }
+    }
+  ]
+}

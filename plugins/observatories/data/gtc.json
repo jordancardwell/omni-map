@@ -1,0 +1,20 @@
+{
+  "code": "gtc",
+  "name": "Gran Telescopio Canarias",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2267,
+  "aperture": "10.4 m",
+  "telescopes": [
+    "GTC"
+  ],
+  "keyDiscoveries": [
+    "Farthest galaxy spectroscopy",
+    "Transient event follow-up",
+    "Exoplanet characterization"
+  ],
+  "location": "Gran Telescopio Canarias, Spain",
+  "description": "The world's largest single-aperture optical telescope, located at the Roque de los Muchachos Observatory in La Palma, Canary Islands.",
+  "geojson": "gtc.geojson"
+}

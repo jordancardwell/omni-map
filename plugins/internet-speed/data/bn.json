@@ -1,0 +1,17 @@
+{
+  "code": "bn",
+  "name": "Brunei",
+  "avgDownloadMbps": 48.6,
+  "avgUploadMbps": 18.4,
+  "avgLatencyMs": 18,
+  "mobileDownloadMbps": 32.6,
+  "mobileUploadMbps": 6.8,
+  "fixedDownloadMbps": 48.6,
+  "fixedUploadMbps": 18.4,
+  "rank": 74,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Oil-wealthy nation with growing broadband. ~10% year-over-year growth.",
+  "geojson": "bn.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "bcs-east-west-interlink",
+  "name": "BCS East-West Interlink",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 270,
+  "yearLaid": 2019,
+  "rfsDate": "2019-12",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Karlshamn, Sweden",
+    "Rostock, Germany"
+  ],
+  "description": "Baltic Sea cable connecting Sweden to Germany.",
+  "geojson": "bcs-east-west-interlink.geojson"
+}

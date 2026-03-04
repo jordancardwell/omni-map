@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0072222222,
+          45.1697222222
+        ]
+      },
+      "properties": {
+        "code": "monastery-of-horezu",
+        "name": "Monastery of Horezu",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "korla",
+  "name": "Korla Missile Test Complex",
+  "country": "China",
+  "operator": "PLA",
+  "coordinates": "41.7270°N, 86.1300°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Anti-satellite tests",
+    "Ballistic missile interceptor tests",
+    "HQ-19 ABM tests"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital/interceptor tests)",
+  "location": "Korla Missile Test Complex, China",
+  "description": "Chinese military test range in Xinjiang for missile defense and anti-satellite weapon testing. One of China's primary facilities for BMD technology development.",
+  "geojson": "korla.geojson"
+}

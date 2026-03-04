@@ -1,0 +1,15 @@
+{
+  "code": "uruq-bani-maarid",
+  "name": "‘Uruq Bani Ma’arid",
+  "type": "Natural",
+  "country": "Saudi Arabia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Arab States",
+  "description": "The property encompasses the western part of the greatest expanse of windblown sand on Earth, known as Ar Rub' al-KhaIi, and conserves a portion of one of the Earth’s most spectacular desert landscapes. The varied topography of the property creates a wide range of ecosystems. The site is globally notable due to the reintroduction of iconic desert animals, including the Arabian Oryx (Oryx leucoryx) and Arabian Sand Gazelle (Gazella marica). In the case of the oryx, this was after decades of extinction in the wild. The mobile dunes also provide an excellent and well-oxygenated habitat for sand-diving invertebrates and reptiles, while incised wadis in the limestone plateau harbor rare relict plants. The area has also been used for generations by pastoral, nomadic Bedu.",
+  "danger": false,
+  "geojson": "uruq-bani-maarid.geojson"
+}

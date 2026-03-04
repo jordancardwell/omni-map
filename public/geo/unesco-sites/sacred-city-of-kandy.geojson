@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64027778,
+          7.293611111
+        ]
+      },
+      "properties": {
+        "code": "sacred-city-of-kandy",
+        "name": "Sacred City of Kandy",
+        "type": "Cultural",
+        "country": "Sri Lanka",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

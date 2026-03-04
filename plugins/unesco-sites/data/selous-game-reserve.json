@@ -1,0 +1,15 @@
+{
+  "code": "selous-game-reserve",
+  "name": "Selous Game Reserve",
+  "type": "Natural",
+  "country": "United Republic of Tanzania",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands.",
+  "danger": true,
+  "geojson": "selous-game-reserve.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "iah-sea",
+  "name": "Houston — Seattle",
+  "airports": [
+    "IAH",
+    "SEA"
+  ],
+  "distanceKm": 3013,
+  "weeklyFlights": 30,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–SEA route between Houston and Seattle. Distance: 3,013 km. ~30 weekly flights operated by United.",
+  "geojson": "iah-sea.geojson"
+}

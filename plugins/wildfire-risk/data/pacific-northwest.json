@@ -1,0 +1,15 @@
+{
+  "code": "pacific-northwest",
+  "name": "Pacific Northwest Forests",
+  "region": "North America",
+  "riskGroup": "3. Moderate",
+  "riskLevel": "Moderate",
+  "fireFrequency": "Moderate — increasing rapidly with drought and beetle kill",
+  "dominantVegetation": "Douglas fir, western red cedar, ponderosa pine, subalpine forest",
+  "fireSeasonMonths": "July – October",
+  "areaBurnedAnnual": "~200,000 ha average across Oregon and Washington",
+  "seasonalPattern": "Fire season peaks in late summer (August–September) when dry east winds can drive fires through moisture-stressed forests. The 2020 Labor Day fires demonstrated the catastrophic potential when unprecedented wind events coincide with drought. Mountain pine beetle epidemics have created vast areas of dead, fire-prone timber. Smoke events now regularly affect urban air quality in Portland and Seattle.",
+  "historicalFires": ["2020 Oregon Labor Day Fires (400K ha)", "2017 Eagle Creek Fire (20K ha)", "2015 Okanogan Complex (130K ha)", "2014 Carlton Complex (103K ha)"],
+  "description": "The Pacific Northwest — historically considered a wet, temperate region — has emerged as a significant wildfire risk zone. The catastrophic 2020 Labor Day fires in Oregon burned over 400,000 hectares in just 72 hours, destroying entire communities and producing hazardous air quality across the region. A century of fire suppression has created dense, overgrown forests vulnerable to catastrophic fire. Mountain pine beetle infestations, driven by warming winters, have killed millions of hectares of forest, creating vast expanses of dead fuel. Climate change is projected to increase fire risk 300-500% in some Pacific Northwest forests by 2080.",
+  "geojson": "pacific-northwest.geojson"
+}

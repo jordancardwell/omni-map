@@ -1,0 +1,21 @@
+{
+  "code": "lowell",
+  "name": "Lowell Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2210,
+  "aperture": "4.3 m",
+  "telescopes": [
+    "Lowell Discovery Telescope",
+    "Clark Refractor"
+  ],
+  "keyDiscoveries": [
+    "Pluto discovery",
+    "Expanding universe evidence",
+    "Planetary studies"
+  ],
+  "location": "Lowell Observatory, United States",
+  "description": "Founded in 1894 by Percival Lowell. Site of Pluto's discovery in 1930 by Clyde Tombaugh. The Lowell Discovery Telescope is its modern flagship.",
+  "geojson": "lowell.geojson"
+}

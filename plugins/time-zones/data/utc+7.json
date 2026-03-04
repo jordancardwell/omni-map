@@ -1,0 +1,29 @@
+{
+  "code": "utc+7",
+  "name": "Indochina Time",
+  "nativeName": "UTC+07:00",
+  "utcOffset": "UTC+07:00",
+  "utcOffsetHours": 7,
+  "offsetGroup": "6. East (UTC+6 to +7)",
+  "ianaNames": [
+    "Asia/Bangkok",
+    "Asia/Jakarta",
+    "Asia/Ho_Chi_Minh",
+    "Asia/Krasnoyarsk"
+  ],
+  "countries": [
+    "Thailand",
+    "Vietnam",
+    "Indonesia (western)",
+    "Cambodia",
+    "Laos",
+    "Russia (Krasnoyarsk)",
+    "Christmas Island (Australia)"
+  ],
+  "dstRules": "No DST observed in any country using this timezone",
+  "description": "Covers the heart of mainland Southeast Asia and western Indonesia. Bangkok, Jakarta, and Ho Chi Minh City are major economic centers. The combined population of this timezone exceeds 400 million people.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+7.geojson"
+}

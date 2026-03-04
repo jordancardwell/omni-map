@@ -1,0 +1,18 @@
+{
+  "code": "jfk-bcn",
+  "name": "New York — Barcelona",
+  "airports": [
+    "JFK",
+    "BCN"
+  ],
+  "distanceKm": 6150,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Delta",
+    "Iberia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–BCN route between New York and Barcelona. Distance: 6,150 km. ~50 weekly flights operated by Delta, Iberia.",
+  "geojson": "jfk-bcn.geojson"
+}

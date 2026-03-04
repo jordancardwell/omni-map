@@ -1,0 +1,12 @@
+{
+  "code": "hnd",
+  "name": "Tokyo Haneda",
+  "iataCode": "HND",
+  "city": "Tokyo",
+  "country": "Japan",
+  "annualPassengers": 75500000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "Tokyo Haneda (HND) in Tokyo, Japan. Annual passengers: ~75.5M. Classification: Mega Hub.",
+  "geojson": "hnd.geojson"
+}

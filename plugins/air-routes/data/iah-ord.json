@@ -1,0 +1,17 @@
+{
+  "code": "iah-ord",
+  "name": "Houston — Chicago",
+  "airports": [
+    "IAH",
+    "ORD"
+  ],
+  "distanceKm": 1490,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IAH–ORD route between Houston and Chicago. Distance: 1,490 km. ~60 weekly flights operated by United.",
+  "geojson": "iah-ord.geojson"
+}

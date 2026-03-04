@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0138888889,
+          -25.9738888889
+        ]
+      },
+      "properties": {
+        "code": "barberton-makhonjwa-mountains",
+        "name": "Barberton Makhonjwa Mountains",
+        "type": "Natural",
+        "country": "South Africa",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

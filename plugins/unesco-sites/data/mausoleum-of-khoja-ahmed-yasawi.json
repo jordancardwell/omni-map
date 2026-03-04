@@ -1,0 +1,16 @@
+{
+  "code": "mausoleum-of-khoja-ahmed-yasawi",
+  "name": "Mausoleum of Khoja Ahmed Yasawi",
+  "type": "Cultural",
+  "country": "Kazakhstan",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Mausoleum of Khoja Ahmed Yasawi, in the town of Yasi, now Turkestan, was built at the time of Timur (Tamerlane), from 1389 to 1405. In this partly unfinished building, Persian master builders experimented with architectural and structural solutions later used in the construction of Samarkand, the capital of the Timurid Empire. Today, it is one of the largest and best-preserved constructions of the Timurid period.",
+  "danger": false,
+  "geojson": "mausoleum-of-khoja-ahmed-yasawi.geojson"
+}

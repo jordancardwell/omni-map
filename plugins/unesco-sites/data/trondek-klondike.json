@@ -1,0 +1,14 @@
+{
+  "code": "trondek-klondike",
+  "name": "Tr’ondëk-Klondike",
+  "type": "Cultural",
+  "country": "Canada",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located along the Yukon River in the sub-arctic region of Northwest Canada, Tr’ondëk-Klondike lies within the homeland of the Tr’ondëk Hwëch’in First Nation. It contains archaeological and historic sources that reflect Indigenous people’s adaptation to unprecedented changes caused by the Klondike Gold Rush at the end of the 19th century. The series illustrates different aspects of the colonization of this area, including sites of exchange between the Indigenous population and the colonists, and sites demonstrating the Tr’ondëk Hwëch’in’s adaptations to colonial presence.",
+  "danger": false,
+  "geojson": "trondek-klondike.geojson"
+}

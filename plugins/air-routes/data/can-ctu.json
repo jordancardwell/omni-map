@@ -1,0 +1,19 @@
+{
+  "code": "can-ctu",
+  "name": "Guangzhou — Chengdu",
+  "airports": [
+    "CAN",
+    "CTU"
+  ],
+  "distanceKm": 1201,
+  "weeklyFlights": 250,
+  "airlines": [
+    "China Southern",
+    "Sichuan Airlines",
+    "Air China"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "CAN–CTU route between Guangzhou and Chengdu. Distance: 1,201 km. ~250 weekly flights operated by China Southern, Sichuan Airlines, Air China.",
+  "geojson": "can-ctu.geojson"
+}

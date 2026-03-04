@@ -1,0 +1,12 @@
+{
+  "code": "ancient-greece",
+  "name": "Ancient Greece",
+  "period": "c. 800–146 BCE",
+  "region": "Europe",
+  "type": "Civilization",
+  "writingSystem": "Greek alphabet",
+  "majorAchievements": ["Democracy", "Philosophy", "Olympic Games", "Theater", "Western mathematics", "Historiography"],
+  "keyCities": ["Athens", "Sparta", "Corinth", "Thebes", "Delphi"],
+  "description": "Ancient Greece is regarded as the foundational civilization of Western culture. Greek city-states pioneered democracy, produced towering philosophical traditions through Socrates, Plato, and Aristotle, and made groundbreaking advances in mathematics, science, theater, and art. Greek influence spread throughout the Mediterranean and was further amplified by Alexander the Great's conquests.",
+  "geojson": "ancient-greece.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50366667,
+          3.051305556
+        ]
+      },
+      "properties": {
+        "code": "lake-turkana-national-parks",
+        "name": "Lake Turkana National Parks",
+        "type": "Natural",
+        "country": "Kenya",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "ng",
+  "name": "Nigeria",
+  "avgDownloadMbps": 17.6,
+  "avgUploadMbps": 5.8,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 16.4,
+  "mobileUploadMbps": 3.8,
+  "fixedDownloadMbps": 17.6,
+  "fixedUploadMbps": 5.8,
+  "rank": 119,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Africa's largest market. Mobile dominant. ~18% year-over-year growth.",
+  "geojson": "ng.geojson"
+}

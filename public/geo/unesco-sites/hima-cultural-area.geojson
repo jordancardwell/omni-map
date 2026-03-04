@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5453361111,
+          18.3167111111
+        ]
+      },
+      "properties": {
+        "code": "hima-cultural-area",
+        "name": "Ḥimā Cultural Area",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

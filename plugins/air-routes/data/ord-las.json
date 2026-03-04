@@ -1,0 +1,19 @@
+{
+  "code": "ord-las",
+  "name": "Chicago — Las Vegas",
+  "airports": [
+    "ORD",
+    "LAS"
+  ],
+  "distanceKm": 2431,
+  "weeklyFlights": 70,
+  "airlines": [
+    "United",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–LAS route between Chicago and Las Vegas. Distance: 2,431 km. ~70 weekly flights operated by United, Southwest, Spirit.",
+  "geojson": "ord-las.geojson"
+}

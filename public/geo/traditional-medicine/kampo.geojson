@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kampo","name":"Kampo","region":"Japan","country":"JP","percentage":80},"geometry":{"type":"Polygon","coordinates":[[[129.4,31],[129.4,45.6],[145.5,45.6],[145.5,31],[129.4,31]]]}}]}

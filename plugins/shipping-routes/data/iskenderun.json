@@ -1,0 +1,14 @@
+{
+  "code": "iskenderun",
+  "name": "Port of Iskenderun",
+  "country": "Turkey",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Iskenderun in Turkey. Annual cargo throughput: ~35 million tons. Type: Bulk Port.",
+  "geojson": "iskenderun.geojson"
+}

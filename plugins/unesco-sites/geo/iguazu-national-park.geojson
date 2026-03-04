@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.286073,
+          -25.577357
+        ]
+      },
+      "properties": {
+        "code": "iguazu-national-park",
+        "name": "Iguazu National Park",
+        "type": "Natural",
+        "country": "Argentina",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

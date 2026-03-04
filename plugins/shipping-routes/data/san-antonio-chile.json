@@ -1,0 +1,15 @@
+{
+  "code": "san-antonio-chile",
+  "name": "Puerto de San Antonio",
+  "country": "Chile",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 20,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West Coast Americas Route",
+    "Trans-Pacific Southern Route"
+  ],
+  "description": "Puerto de San Antonio in Chile. Annual cargo throughput: ~20 million tons. Type: Container Port.",
+  "geojson": "san-antonio-chile.geojson"
+}

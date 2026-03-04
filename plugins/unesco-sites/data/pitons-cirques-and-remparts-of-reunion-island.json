@@ -1,0 +1,15 @@
+{
+  "code": "pitons-cirques-and-remparts-of-reunion-island",
+  "name": "Pitons, cirques and remparts of Reunion Island",
+  "type": "Natural",
+  "country": "France",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Pitons, cirques and remparts of Reunion Island site coincides with the core zone of La Réunion National Park. The property covers more than 100,000 ha or 40 % of La Réunion, an island comprising two adjoining volcanic massifs located in the south-west of the Indian Ocean. Dominated by two towering volcanic peaks, massive walls and three cliff-rimmed cirques, the property includes a great variety of rugged terrain and impressive escarpments, forested gorges and basins creating a visually striking landscape. It is the natural habitat for a wide diversity of plants, presenting a high level of endemism. There are subtropical rainforests, cloud forests and heaths creating a remarkable and visually appealing mosaic of ecosystems and landscape features.",
+  "danger": false,
+  "geojson": "pitons-cirques-and-remparts-of-reunion-island.geojson"
+}

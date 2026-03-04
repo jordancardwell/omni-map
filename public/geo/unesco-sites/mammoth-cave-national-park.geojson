@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10305556,
+          37.18722222
+        ]
+      },
+      "properties": {
+        "code": "mammoth-cave-national-park",
+        "name": "Mammoth Cave National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

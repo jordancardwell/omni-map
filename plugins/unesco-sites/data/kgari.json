@@ -1,0 +1,16 @@
+{
+  "code": "kgari",
+  "name": "K’gari",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "K’gari lies just off the east coast of Australia. At 122 km long, it is the largest sand island in the world. Majestic remnants of tall rainforest growing on sand and half the world’s perched freshwater dune lakes are found inland from the beach. The combination of shifting sand-dunes, tropical rainforests and lakes makes it an exceptional site.",
+  "danger": false,
+  "geojson": "kgari.geojson"
+}

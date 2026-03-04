@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"osaka","name":"Port of Osaka","featureType":"port","portType":"Container Port","country":"Japan"},"geometry":{"type":"Point","coordinates":[135.42,34.65]}}]}

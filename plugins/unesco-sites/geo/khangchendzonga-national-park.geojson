@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3772222222,
+          27.7647222222
+        ]
+      },
+      "properties": {
+        "code": "khangchendzonga-national-park",
+        "name": "Khangchendzonga National Park",
+        "type": "Mixed",
+        "country": "India",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

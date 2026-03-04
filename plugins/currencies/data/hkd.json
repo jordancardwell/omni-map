@@ -1,0 +1,16 @@
+{
+  "code": "hkd",
+  "name": "Hong Kong Dollar",
+  "isoCode": "HKD",
+  "symbol": "HK$",
+  "region": "Asia",
+  "centralBank": "Hong Kong Monetary Authority",
+  "exchangeRateEra": "Linked exchange rate to USD",
+  "countries": [
+    "Hong Kong"
+  ],
+  "countryCount": 1,
+  "description": "The Hong Kong Dollar is pegged to the US Dollar through a linked exchange rate system. Hong Kong is a major international financial center.",
+  "historicalNotes": "The dollar has been used since 1863. The linked exchange rate system with the US dollar was established in 1983 during a confidence crisis. Three commercial banks (HSBC, Standard Chartered, Bank of China) issue banknotes.",
+  "geojson": "hkd.geojson"
+}

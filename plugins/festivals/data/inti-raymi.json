@@ -1,0 +1,14 @@
+{
+  "code": "inti-raymi",
+  "name": "Inti Raymi",
+  "festivalType": "Cultural",
+  "dateOrSeason": "June 24",
+  "origin": "Inca/Quechua tradition",
+  "estimatedAttendance": "100,000+ spectators",
+  "unescoICH": "Not inscribed",
+  "traditions": "Dramatic theatrical reenactment at Sacsayhuamán fortress; processions in traditional Inca regalia; llama offerings; music and dance.",
+  "historicalBackground": "Inti Raymi was the most important Inca ceremony, honoring the Sun God Inti during the winter solstice. Banned by the Spanish in 1572, it was revived in 1944.",
+  "description": "The Festival of the Sun, a spectacular reenactment of the ancient Inca ceremony honoring the sun god at the fortress of Sacsayhuamán, Cusco.",
+  "location": "Cusco, Peru",
+  "geojson": "inti-raymi.geojson"
+}

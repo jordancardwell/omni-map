@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"genoa","name":"Port of Genoa","featureType":"port","portType":"Container Port","country":"Italy"},"geometry":{"type":"Point","coordinates":[8.93,44.41]}}]}

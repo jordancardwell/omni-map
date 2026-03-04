@@ -1,0 +1,19 @@
+{
+  "code": "yangtze-finless-porpoise",
+  "name": "Yangtze Finless Porpoise",
+  "scientificName": "Neophocaena asiaeorientalis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater river and lake",
+  "threats": [
+    "Water pollution",
+    "Shipping traffic",
+    "Overfishing",
+    "Dam construction"
+  ],
+  "conservationEfforts": "Semi-natural reserves established in Yangtze oxbow lakes. Fishing bans implemented in key sections of the river. China declared 10-year fishing moratorium on the Yangtze in 2021.",
+  "description": "The only freshwater porpoise remaining since the extinction of the baiji dolphin. Known for its perpetual smile-like expression and high intelligence.",
+  "geojson": "yangtze-finless-porpoise.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "bkk-pvg",
+  "name": "Bangkok — Shanghai",
+  "airports": [
+    "BKK",
+    "PVG"
+  ],
+  "distanceKm": 2896,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Thai Airways",
+    "China Eastern"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "BKK–PVG route between Bangkok and Shanghai. Distance: 2,896 km. ~50 weekly flights operated by Thai Airways, China Eastern.",
+  "geojson": "bkk-pvg.geojson"
+}

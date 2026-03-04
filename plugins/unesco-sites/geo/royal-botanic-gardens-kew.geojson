@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2940277778,
+          51.48194444
+        ]
+      },
+      "properties": {
+        "code": "royal-botanic-gardens-kew",
+        "name": "Royal Botanic Gardens, Kew",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

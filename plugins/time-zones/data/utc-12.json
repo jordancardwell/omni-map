@@ -1,0 +1,21 @@
+{
+  "code": "utc-12",
+  "name": "Baker Island Time",
+  "nativeName": "UTC-12:00",
+  "utcOffset": "UTC-12:00",
+  "utcOffsetHours": -12,
+  "offsetGroup": "1. Far West (UTC-12 to -9)",
+  "ianaNames": [
+    "Etc/GMT+12"
+  ],
+  "countries": [
+    "Baker Island (US)",
+    "Howland Island (US)"
+  ],
+  "dstRules": "No DST observed",
+  "description": "The furthest west timezone, observed only on uninhabited US minor outlying islands in the central Pacific Ocean. Baker and Howland Islands are among the last places on Earth to see each new day.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-12.geojson"
+}

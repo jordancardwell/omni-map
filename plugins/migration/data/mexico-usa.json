@@ -1,0 +1,18 @@
+{
+  "code": "mexico-usa",
+  "name": "Mexico \u2192 United States",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Mexico \u2192 United States",
+  "badgeValue": "~10.9 million",
+  "origin": "Mexico",
+  "destination": "United States",
+  "estimatedMigrants": "~10.9 million",
+  "drivers": [
+    "Economic opportunity",
+    "Family reunification",
+    "Wage differentials",
+    "Established networks"
+  ],
+  "description": "The Mexico\u2013US migration corridor is the largest in the world. Mexican migrants constitute the largest foreign-born population in the United States. Migration has been driven by economic disparity, labor demand in agriculture and services, and deeply established social networks spanning decades. Border enforcement and policy shifts have altered but not eliminated these flows.",
+  "geojson": "mexico-usa.geojson"
+}

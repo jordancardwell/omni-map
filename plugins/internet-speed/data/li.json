@@ -1,0 +1,17 @@
+{
+  "code": "li",
+  "name": "Liechtenstein",
+  "avgDownloadMbps": 142.6,
+  "avgUploadMbps": 58.4,
+  "avgLatencyMs": 10,
+  "mobileDownloadMbps": 72.8,
+  "mobileUploadMbps": 14.6,
+  "fixedDownloadMbps": 142.6,
+  "fixedUploadMbps": 58.4,
+  "rank": 31,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Small wealthy nation with excellent infrastructure. ~6% year-over-year growth.",
+  "geojson": "li.geojson"
+}

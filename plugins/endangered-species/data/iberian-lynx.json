@@ -1,0 +1,19 @@
+{
+  "code": "iberian-lynx",
+  "name": "Iberian Lynx",
+  "scientificName": "Lynx pardinus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,700 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Mediterranean scrubland",
+  "threats": [
+    "Habitat loss",
+    "Road mortality",
+    "Rabbit disease",
+    "Genetic bottleneck"
+  ],
+  "conservationEfforts": "One of conservation's greatest successes — population increased from 94 in 2002 to over 1,700. Captive breeding and reintroduction across Spain and Portugal.",
+  "description": "Once the world's most endangered cat species with fewer than 100 individuals in 2002. Intensive conservation including captive breeding and habitat restoration has dramatically increased the population.",
+  "geojson": "iberian-lynx.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "the-persian-caravanserai",
+  "name": "The Persian Caravanserai",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Caravanserais were roadside inns, providing shelter, food and water for caravans, pilgrims and other travellers. The routes and the locations of the caravanserais were determined by the presence of water, geographical conditions and security concerns. The fifty-four caravanserais of the property are only a small percentage of the numerous caravanserais built along the ancient roads of Iran. They are considered to be the most influential and valuable examples of the caravanserais of Iran, revealing a wide range of architectural styles, adaptation to climatic conditions, and construction materials, spread across thousands of kilometres and built over many centuries. Together, they showcase the evolution and network of caravanserais in Iran, in different historical stages.",
+  "danger": false,
+  "geojson": "the-persian-caravanserai.geojson"
+}

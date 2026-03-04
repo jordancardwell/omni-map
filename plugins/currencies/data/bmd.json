@@ -1,0 +1,16 @@
+{
+  "code": "bmd",
+  "name": "Bermudian Dollar",
+  "isoCode": "BMD",
+  "symbol": "BD$",
+  "region": "Americas",
+  "centralBank": "Bermuda Monetary Authority",
+  "exchangeRateEra": "Pegged to USD at par",
+  "countries": [
+    "Bermuda"
+  ],
+  "countryCount": 1,
+  "description": "The Bermudian Dollar is pegged at par with the US Dollar. Bermuda is a British Overseas Territory and a major offshore financial center.",
+  "historicalNotes": "Introduced in 1970, replacing the Bermudian pound. Bermuda is home to many international insurance and reinsurance companies.",
+  "geojson": "bmd.geojson"
+}

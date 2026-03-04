@@ -1,0 +1,24 @@
+{
+  "code": "siddha",
+  "name": "Siddha Medicine",
+  "tradition": "South Asian",
+  "originRegion": "Tamil Nadu, South India",
+  "estimatedPractitioners": 25000,
+  "whoRecognition": "Recognized — Regulated in India under AYUSH ministry; WHO acknowledges as traditional medical system",
+  "keyPractices": [
+    "Herbal medicine",
+    "Metal/mineral preparations (Chenduram)",
+    "Pulse diagnosis (Naadi)",
+    "Yoga therapy",
+    "Varma therapy (pressure points)",
+    "Dietary therapy"
+  ],
+  "regionsOfPractice": [
+    "India (Tamil Nadu)",
+    "Sri Lanka",
+    "Malaysia (Tamil diaspora)"
+  ],
+  "description": "Siddha medicine is one of India's oldest medical systems, originating in Tamil Nadu and closely associated with Tamil culture. The system is attributed to the Siddhars — ancient sages believed to have attained spiritual perfection. Siddha is unique in its extensive use of metals and minerals (especially mercury, sulfur, and gold) in medicinal preparations alongside plant-based remedies. It shares some theoretical foundations with Ayurveda but has distinct diagnostic methods, particularly Naadi (pulse) diagnosis at specific wrist points and Varma therapy targeting vital energy points.",
+  "historicalNotes": "Siddha tradition attributes its founding to 18 Siddhars, with Agastya considered the primary authority. The system is documented in ancient Tamil texts dating to the Sangam period (300 BCE–300 CE). Siddha medicine developed sophisticated alchemical practices for preparing metallic medicines (Rasa Shastra) centuries before European alchemy. It remains primarily practiced in Tamil-speaking regions. India's Central Council of Indian Medicine regulates Siddha education and practice, with approximately 25,000 registered practitioners.",
+  "geojson": "siddha.geojson"
+}

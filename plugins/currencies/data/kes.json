@@ -1,0 +1,16 @@
+{
+  "code": "kes",
+  "name": "Kenyan Shilling",
+  "isoCode": "KES",
+  "symbol": "KSh",
+  "region": "Africa",
+  "centralBank": "Central Bank of Kenya",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Kenya"
+  ],
+  "countryCount": 1,
+  "description": "The Kenyan Shilling is the currency of East Africa's largest economy, known for its mobile money innovation (M-Pesa).",
+  "historicalNotes": "Introduced in 1966, replacing the East African shilling. Kenya's M-Pesa mobile payment system revolutionized financial inclusion globally.",
+  "geojson": "kes.geojson"
+}

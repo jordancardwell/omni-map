@@ -1,0 +1,16 @@
+{
+  "code": "hebrew",
+  "name": "Hebrew",
+  "scriptType": "Abjad",
+  "characters": 22,
+  "direction": "RTL",
+  "originDate": "~10th century BCE",
+  "sampleText": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
+  "relatedScripts": [
+    "arabic",
+    "tifinagh"
+  ],
+  "description": "The Hebrew script is an abjad of 22 consonant letters, with optional diacritical marks (niqqud) for vowels. It is used for Hebrew and, in a variant form, for Yiddish and Ladino. Five letters have different forms when they appear at the end of a word (final forms).",
+  "historicalNotes": "The Hebrew alphabet evolved from the Phoenician script around the 10th century BCE. After the Babylonian exile, Jews adopted the 'square script' (Ktav Ashuri) based on the Aramaic alphabet, which is the basis of modern Hebrew letters. Hebrew was revived as a spoken language in the late 19th century by Eliezer Ben-Yehuda, and the script was modernized for modern Israeli use.",
+  "geojson": "hebrew.geojson"
+}

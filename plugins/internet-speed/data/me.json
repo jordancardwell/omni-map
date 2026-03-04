@@ -1,0 +1,17 @@
+{
+  "code": "me",
+  "name": "Montenegro",
+  "avgDownloadMbps": 72.8,
+  "avgUploadMbps": 24.6,
+  "avgLatencyMs": 19,
+  "mobileDownloadMbps": 30.4,
+  "mobileUploadMbps": 6.8,
+  "fixedDownloadMbps": 72.8,
+  "fixedUploadMbps": 24.6,
+  "rank": 59,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Tourism-driven infrastructure investment. ~11% year-over-year growth.",
+  "geojson": "me.geojson"
+}

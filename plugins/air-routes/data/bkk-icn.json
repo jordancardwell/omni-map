@@ -1,0 +1,18 @@
+{
+  "code": "bkk-icn",
+  "name": "Bangkok — Seoul",
+  "airports": [
+    "BKK",
+    "ICN"
+  ],
+  "distanceKm": 3666,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Thai Airways",
+    "Korean Air"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "BKK–ICN route between Bangkok and Seoul. Distance: 3,666 km. ~80 weekly flights operated by Thai Airways, Korean Air.",
+  "geojson": "bkk-icn.geojson"
+}

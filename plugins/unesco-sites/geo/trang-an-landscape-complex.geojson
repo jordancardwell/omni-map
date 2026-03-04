@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8963888889,
+          20.2566666667
+        ]
+      },
+      "properties": {
+        "code": "trang-an-landscape-complex",
+        "name": "Trang An Landscape Complex",
+        "type": "Mixed",
+        "country": "Viet Nam",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

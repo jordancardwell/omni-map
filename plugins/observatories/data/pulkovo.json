@@ -1,0 +1,21 @@
+{
+  "code": "pulkovo",
+  "name": "Pulkovo Observatory",
+  "country": "Russia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 75,
+  "aperture": "0.65 m",
+  "telescopes": [
+    "26-inch refractor",
+    "Normal Astrograph"
+  ],
+  "keyDiscoveries": [
+    "Pulkovo Catalogue of stars",
+    "Astrometric standards",
+    "Solar observations"
+  ],
+  "location": "Pulkovo Observatory, Russia",
+  "description": "Principal astronomical observatory of the Russian Academy of Sciences, founded in 1839. Known as the 'Astronomical Capital of the World' in the 19th century.",
+  "geojson": "pulkovo.geojson"
+}

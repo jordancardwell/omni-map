@@ -1,0 +1,16 @@
+{
+  "code": "sicily-fiber",
+  "name": "Sicily Fiber",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 202,
+  "yearLaid": 2020,
+  "rfsDate": "2017-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Genoa, Italy",
+    "Catania, Italy"
+  ],
+  "description": "Sicily Fiber cable connecting Genoa to Catania across the Mediterranean.",
+  "geojson": "sicily-fiber.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "pvg-szx",
+  "name": "Shanghai — Shenzhen",
+  "airports": [
+    "PVG",
+    "SZX"
+  ],
+  "distanceKm": 1233,
+  "weeklyFlights": 260,
+  "airlines": [
+    "China Eastern",
+    "Shenzhen Airlines",
+    "Spring Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PVG–SZX route between Shanghai and Shenzhen. Distance: 1,233 km. ~260 weekly flights operated by China Eastern, Shenzhen Airlines, Spring Airlines.",
+  "geojson": "pvg-szx.geojson"
+}

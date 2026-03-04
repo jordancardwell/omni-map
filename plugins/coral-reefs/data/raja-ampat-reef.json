@@ -1,0 +1,20 @@
+{
+  "code": "raja-ampat-reef",
+  "name": "Raja Ampat Reef",
+  "location": "West Papua, Indonesia",
+  "areaKm2": 40000,
+  "reefType": "Fringing",
+  "healthStatus": "Good",
+  "coralSpecies": 553,
+  "marineSpecies": 1700,
+  "threats": [
+    "Illegal fishing",
+    "Mining activities",
+    "Climate change",
+    "Plastic pollution",
+    "Dynamite fishing"
+  ],
+  "conservationStatus": "Raja Ampat Marine Protected Area network encompasses over 20,000 km². Community-based management with local sasi (traditional marine tenure) system. Part of the Coral Triangle Initiative.",
+  "description": "Raja Ampat in eastern Indonesia holds the highest recorded marine biodiversity on Earth. A single hectare of reef can contain more coral species than found in the entire Caribbean. The archipelago of over 1,500 islands sits at the epicenter of the Coral Triangle.\n\nThe exceptional biodiversity is attributed to Raja Ampat's position at the confluence of Pacific and Indian Ocean currents, creating a mixing zone for larvae from multiple biogeographic regions. Conservation efforts combining traditional management with modern marine protected areas have been remarkably successful.",
+  "geojson": "raja-ampat-reef.geojson"
+}

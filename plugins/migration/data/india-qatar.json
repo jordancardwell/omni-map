@@ -1,0 +1,18 @@
+{
+  "code": "india-qatar",
+  "name": "India \u2192 Qatar",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "India \u2192 Qatar",
+  "badgeValue": "~750,000",
+  "origin": "India",
+  "destination": "Qatar",
+  "estimatedMigrants": "~750,000",
+  "drivers": [
+    "Construction boom",
+    "World Cup infrastructure",
+    "Higher wages",
+    "Gulf labor demand"
+  ],
+  "description": "Indian workers form the largest national group in Qatar, heavily concentrated in construction and infrastructure projects. The 2022 FIFA World Cup drove massive construction demand. Workers typically migrate on temporary contracts under the kafala system, which has undergone reforms but still restricts worker mobility. Remittances from Qatar support millions of families in India.",
+  "geojson": "india-qatar.geojson"
+}

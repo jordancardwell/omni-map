@@ -1,0 +1,15 @@
+{
+  "code": "rachid-karami-international-fair-tripoli",
+  "name": "Rachid Karami International Fair-Tripoli",
+  "type": "Cultural",
+  "country": "Lebanon",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Located in northern Lebanon, the Rachid Karameh International Fair of Tripoli was designed in 1962 by the Brazilian architect Oscar Niemeyer on a 70-hectare site located between the historic centre of Tripoli and the Al Mina port. The main building of the fair consists of a huge covered hall in the shape of a boomerang of 750 metres by 70 metres, a flexible space for countries to install exhibitions. The fair was the flagship project of Lebanon's modernization policy in the 1960s. The close collaboration between Oscar Niemeyer, the architect of the project, and Lebanese engineers gave rise to a remarkable example of exchange between different continents. In terms of scale and wealth of formal expression, it is one of the major representative works of 20th century modern architecture in the Arab Near East.",
+  "danger": true,
+  "geojson": "rachid-karami-international-fair-tripoli.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "site-persepolis",
+  "name": "Persepolis",
+  "period": "c. 515–330 BCE",
+  "region": "Middle East",
+  "type": "Archaeological Site",
+  "writingSystem": "Old Persian cuneiform",
+  "majorAchievements": ["Gate of All Nations", "Apadana audience hall", "Multi-cultural relief carvings", "Monumental terrace platform"],
+  "keyCities": ["Persepolis"],
+  "description": "Persepolis was the ceremonial capital of the Achaemenid Persian Empire, built on a massive stone terrace by Darius I and his successors. Its grand staircases, audience halls, and detailed relief carvings depicting tribute-bearing delegations from across the empire provide an unparalleled record of ancient Persian artistic achievement. Alexander the Great burned the complex in 330 BCE.",
+  "geojson": "site-persepolis.geojson"
+}

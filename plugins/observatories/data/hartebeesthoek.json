@@ -1,0 +1,20 @@
+{
+  "code": "hartebeesthoek",
+  "name": "Hartebeesthoek Radio Astronomy Observatory",
+  "country": "South Africa",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1391,
+  "aperture": "26 m",
+  "telescopes": [
+    "26m HartRAO"
+  ],
+  "keyDiscoveries": [
+    "Geodesy measurements",
+    "Pulsar monitoring",
+    "VLBI observations"
+  ],
+  "location": "Hartebeesthoek Radio Astronomy Observatory, South Africa",
+  "description": "South Africa's first radio astronomy observatory. The 26m telescope is a key southern VLBI station and conducts pulsar timing and maser observations.",
+  "geojson": "hartebeesthoek.geojson"
+}

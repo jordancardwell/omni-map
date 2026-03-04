@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1944,46.1912]},"properties":{"code":"st-helens","name":"Mount St. Helens","volcanoType":"Stratovolcano","status":"Historically Active","elevation":2549,"lastEruption":"2008","vei":5}}]}

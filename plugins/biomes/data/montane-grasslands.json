@@ -1,0 +1,13 @@
+{
+  "code": "montane-grasslands",
+  "name": "Montane Grasslands & Shrublands",
+  "biomeType": "Grassland",
+  "areaKm2": 5100000,
+  "keyCharacteristics": "High-altitude grasslands and shrublands above the tree line. Extreme UV radiation, strong winds, and wide temperature fluctuations drive high endemism.",
+  "typicalFlora": ["Giant groundsel", "Giant lobelia", "Espeletia", "Tussock grass", "Cushion plants", "Alpine wildflowers"],
+  "typicalFauna": ["Snow leopard", "Yak", "Vicuña", "Andean condor", "Ethiopian wolf", "Mountain gorilla"],
+  "threatLevel": "High",
+  "conservationStatus": "Climate change is the primary threat, pushing habitats upslope with nowhere to go. Overgrazing by livestock degrades many areas. Island-like distribution limits species migration.",
+  "description": "Montane grasslands and shrublands occur at high elevations above the tree line, where cold temperatures, intense UV radiation, and strong winds create challenging conditions. Plants have evolved remarkable adaptations including cushion growth forms, thick insulation, and UV-protective compounds.\n\nMajor examples include the Páramo of the Andes, the Afroalpine zones of East Africa, the Tibetan Plateau, and the Ethiopian Highlands. These ecosystems are often called \"sky islands\" due to their isolated nature.\n\nEndemism is extremely high because populations are isolated on mountain peaks. These ecosystems are particularly vulnerable to climate change, as species cannot migrate to higher elevations when temperatures rise.",
+  "geojson": "montane-grasslands.geojson"
+}

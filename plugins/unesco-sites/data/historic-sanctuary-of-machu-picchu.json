@@ -1,0 +1,17 @@
+{
+  "code": "historic-sanctuary-of-machu-picchu",
+  "name": "Historic Sanctuary of Machu Picchu",
+  "type": "Mixed",
+  "country": "Peru",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Machu Picchu stands 2,430 m above sea-level, in the middle of a tropical mountain forest, in an extraordinarily beautiful setting. It was probably the most amazing urban creation of the Inca Empire at its height; its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments. The natural setting, on the eastern slopes of the Andes, encompasses the upper Amazon basin with its rich diversity of flora and fauna.",
+  "danger": false,
+  "geojson": "historic-sanctuary-of-machu-picchu.geojson"
+}

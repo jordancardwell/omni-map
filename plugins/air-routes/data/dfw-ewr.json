@@ -1,0 +1,18 @@
+{
+  "code": "dfw-ewr",
+  "name": "Dallas — Newark",
+  "airports": [
+    "DFW",
+    "EWR"
+  ],
+  "distanceKm": 2204,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–EWR route between Dallas and Newark. Distance: 2,204 km. ~60 weekly flights operated by American, United.",
+  "geojson": "dfw-ewr.geojson"
+}

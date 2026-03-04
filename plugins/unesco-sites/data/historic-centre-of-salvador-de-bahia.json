@@ -1,0 +1,14 @@
+{
+  "code": "historic-centre-of-salvador-de-bahia",
+  "name": "Historic Centre of Salvador de Bahia",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "As the first capital of Brazil, from 1549 to 1763, Salvador de Bahia witnessed the blending of European, African and Amerindian cultures. It was also, from 1558, the first slave market in the New World, with slaves arriving to work on the sugar plantations. The city has managed to preserve many outstanding Renaissance buildings. A special feature of the old town are the brightly coloured houses, often decorated with fine stucco-work.",
+  "danger": false,
+  "geojson": "historic-centre-of-salvador-de-bahia.geojson"
+}

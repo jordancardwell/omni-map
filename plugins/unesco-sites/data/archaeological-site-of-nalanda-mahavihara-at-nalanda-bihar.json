@@ -1,0 +1,14 @@
+{
+  "code": "archaeological-site-of-nalanda-mahavihara-at-nalanda-bihar",
+  "name": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Nalanda Mahavihara site is in the State of Bihar, in north-eastern India. It comprises the archaeological remains of a monastic and scholastic institution dating from the 3rd century BCE to the 13th century CE. It includes stupas, shrines, viharas (residential and educational buildings) and important art works in stucco, stone and metal. Nalanda stands out as the most ancient university of the Indian Subcontinent. It engaged in the organized transmission of knowledge over an uninterrupted period of 800 years. The historical development of the site testifies to the development of Buddhism into a religion and the flourishing of monastic and educational traditions.",
+  "danger": false,
+  "geojson": "archaeological-site-of-nalanda-mahavihara-at-nalanda-bihar.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "telstra-endeavour",
+  "name": "Telstra Endeavour",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Perth, Australia",
+    "Singapore",
+    "Jakarta, Indonesia"
+  ],
+  "description": "Telstra's cable connecting Australia to Southeast Asia.",
+  "geojson": "telstra-endeavour.geojson"
+}

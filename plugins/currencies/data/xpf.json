@@ -1,0 +1,18 @@
+{
+  "code": "xpf",
+  "name": "CFP Franc",
+  "isoCode": "XPF",
+  "symbol": "₣",
+  "region": "Oceania",
+  "centralBank": "Institut d'émission d'outre-mer (IEOM)",
+  "exchangeRateEra": "Pegged to EUR",
+  "countries": [
+    "French Polynesia",
+    "New Caledonia",
+    "Wallis and Futuna"
+  ],
+  "countryCount": 3,
+  "description": "The CFP Franc is used in French overseas territories in the Pacific. It is pegged to the Euro through a fixed exchange rate.",
+  "historicalNotes": "Created in 1945 as the 'Franc of the French Pacific Colonies'. Like the CFA franc in Africa, it maintains a fixed rate to the Euro guaranteed by the French Treasury.",
+  "geojson": "xpf.geojson"
+}

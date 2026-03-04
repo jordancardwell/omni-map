@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6504,
+          35.0844
+        ]
+      },
+      "properties": {
+        "code": "powwow-gathering-nations",
+        "name": "Gathering of Nations Powwow",
+        "festivalType": "Cultural",
+        "dateOrSeason": "April",
+        "location": "Albuquerque, USA"
+      }
+    }
+  ]
+}

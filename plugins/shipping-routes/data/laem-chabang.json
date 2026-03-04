@@ -1,0 +1,14 @@
+{
+  "code": "laem-chabang",
+  "name": "Laem Chabang",
+  "country": "Thailand",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 160,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Laem Chabang in Thailand. Annual cargo throughput: ~160 million tons. Type: Container Port.",
+  "geojson": "laem-chabang.geojson"
+}

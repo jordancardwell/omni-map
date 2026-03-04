@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"miami","name":"Miami","people":"Miami","region":"North America"},"geometry":{"type":"Polygon","coordinates":[[[-84.6,40.5],[-85.2,41.1],[-86.3,41.5],[-87.1,41],[-87.4,40.2],[-86.3,39.7],[-85.3,39.7],[-84.6,40.5]]]}}]}

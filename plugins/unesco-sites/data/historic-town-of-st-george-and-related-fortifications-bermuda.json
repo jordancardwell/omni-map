@@ -1,0 +1,14 @@
+{
+  "code": "historic-town-of-st-george-and-related-fortifications-bermuda",
+  "name": "Historic Town of St George and Related Fortifications, Bermuda",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Town of St George, founded in 1612, is an outstanding example of the earliest English urban settlement in the New World. Its associated fortifications graphically illustrate the development of English military engineering from the 17th to the 20th century, being adapted to take account of the development of artillery over this period.",
+  "danger": false,
+  "geojson": "historic-town-of-st-george-and-related-fortifications-bermuda.geojson"
+}

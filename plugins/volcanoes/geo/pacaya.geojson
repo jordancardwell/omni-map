@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.601,14.381]},"properties":{"code":"pacaya","name":"Pacaya","volcanoType":"Complex volcano","status":"Erupting/Recent","elevation":2552,"lastEruption":"2023","vei":3}}]}

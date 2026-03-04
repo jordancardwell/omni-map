@@ -1,0 +1,16 @@
+{
+  "code": "djf",
+  "name": "Djiboutian Franc",
+  "isoCode": "DJF",
+  "symbol": "Fdj",
+  "region": "Africa",
+  "centralBank": "Central Bank of Djibouti",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Djibouti"
+  ],
+  "countryCount": 1,
+  "description": "The Djiboutian Franc has been pegged to the US Dollar since 1973. Djibouti hosts military bases for several countries due to its strategic location.",
+  "historicalNotes": "Djibouti gained independence from France in 1977 and maintained the franc.",
+  "geojson": "djf.geojson"
+}

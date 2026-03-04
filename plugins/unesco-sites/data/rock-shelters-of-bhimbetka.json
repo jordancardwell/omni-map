@@ -1,0 +1,15 @@
+{
+  "code": "rock-shelters-of-bhimbetka",
+  "name": "Rock Shelters of Bhimbetka",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Rock Shelters of Bhimbetka are in the foothills of the Vindhyan Mountains on the southern edge of the central Indian plateau. Within massive sandstone outcrops, above comparatively dense forest, are five clusters of natural rock shelters, displaying paintings that appear to date from the Mesolithic Period right through to the historical period. The cultural traditions of the inhabitants of the twenty-one villages adjacent to the site bear a strong resemblance to those represented in the rock paintings.",
+  "danger": false,
+  "geojson": "rock-shelters-of-bhimbetka.geojson"
+}

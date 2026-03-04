@@ -1,0 +1,12 @@
+{
+  "code": "pek",
+  "name": "Beijing Capital International",
+  "iataCode": "PEK",
+  "city": "Beijing",
+  "country": "China",
+  "annualPassengers": 58000000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Beijing Capital International (PEK) in Beijing, China. Annual passengers: ~58M. Classification: Major Hub.",
+  "geojson": "pek.geojson"
+}

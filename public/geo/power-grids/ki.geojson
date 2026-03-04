@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ki","name":"Kiribati","country":"KI","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[169.5,-11.5],[169.5,4.7],[-150.2,4.7],[-150.2,-11.5],[169.5,-11.5]]]}}]}

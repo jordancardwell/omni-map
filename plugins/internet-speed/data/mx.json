@@ -1,0 +1,17 @@
+{
+  "code": "mx",
+  "name": "Mexico",
+  "avgDownloadMbps": 68.4,
+  "avgUploadMbps": 28.6,
+  "avgLatencyMs": 26,
+  "mobileDownloadMbps": 34.2,
+  "mobileUploadMbps": 7.8,
+  "fixedDownloadMbps": 68.4,
+  "fixedUploadMbps": 28.6,
+  "rank": 61,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "North America",
+  "dataYear": 2024,
+  "trendDescription": "Growing middle class driving demand. ~14% year-over-year improvement.",
+  "geojson": "mx.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "paleochristian-and-byzantine-monuments-of-thessalonika",
+  "name": "Paleochristian and Byzantine Monuments of Thessalonika",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded in 315 B.C., the provincial capital and sea port of Thessalonika was one of the first bases for the spread of Christianity. Among its Christian monuments are fine churches, some built on the Greek cross plan and others on the three-nave basilica plan. Constructed over a long period, from the 4th to the 15th century, they constitute a diachronic typological series, which had considerable influence in the Byzantine world. The mosaics of the rotunda, St Demetrius and St David are among the great masterpieces of early Christian art.",
+  "danger": false,
+  "geojson": "paleochristian-and-byzantine-monuments-of-thessalonika.geojson"
+}

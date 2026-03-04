@@ -1,0 +1,8 @@
+{
+  "code": "brazil-europe-route",
+  "name": "Brazil–Europe Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Direct transatlantic route connecting Brazilian ports with Western European markets. Major corridor for Brazilian agricultural exports (soy, coffee, sugar) and manufactured imports.",
+  "geojson": "brazil-europe-route.geojson"
+}

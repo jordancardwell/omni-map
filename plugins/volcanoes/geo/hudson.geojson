@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.97,-45.9]},"properties":{"code":"hudson","name":"Cerro Hudson","volcanoType":"Caldera","status":"Historically Active","elevation":1905,"lastEruption":"2011","vei":5}}]}

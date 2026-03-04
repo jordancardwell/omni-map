@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8280555556,
+          37.6666666667
+        ]
+      },
+      "properties": {
+        "code": "neolithic-site-of-catalhoyuk",
+        "name": "Neolithic Site of Çatalhöyük",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

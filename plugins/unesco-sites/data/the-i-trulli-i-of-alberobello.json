@@ -1,0 +1,16 @@
+{
+  "code": "the-i-trulli-i-of-alberobello",
+  "name": "The Trulli of Alberobello",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The trulli , limestone dwellings found in the southern region of Puglia, are remarkable examples of drywall (mortarless) construction, a prehistoric building technique still in use in this region. The trulli are made of roughly worked limestone boulders collected from neighbouring fields. Characteristically, they feature pyramidal, domed or conical roofs built up of corbelled limestone slabs.",
+  "danger": false,
+  "geojson": "the-i-trulli-i-of-alberobello.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "bh",
+  "name": "Bahrain",
+  "avgDownloadMbps": 55.8,
+  "avgUploadMbps": 12.4,
+  "avgLatencyMs": 10,
+  "mobileDownloadMbps": 62.3,
+  "mobileUploadMbps": 10.8,
+  "fixedDownloadMbps": 55.8,
+  "fixedUploadMbps": 12.4,
+  "rank": 68,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Small island nation with strong 5G. ~9% year-over-year growth.",
+  "geojson": "bh.geojson"
+}

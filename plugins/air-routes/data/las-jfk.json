@@ -1,0 +1,18 @@
+{
+  "code": "las-jfk",
+  "name": "Las Vegas — New York",
+  "airports": [
+    "LAS",
+    "JFK"
+  ],
+  "distanceKm": 3609,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAS–JFK route between Las Vegas and New York. Distance: 3,609 km. ~40 weekly flights operated by Delta, JetBlue.",
+  "geojson": "las-jfk.geojson"
+}

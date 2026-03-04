@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4841666667,
+          32.5191666667
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-bosra",
+        "name": "Ancient City of Bosra",
+        "type": "Cultural",
+        "country": "Syrian Arab Republic",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

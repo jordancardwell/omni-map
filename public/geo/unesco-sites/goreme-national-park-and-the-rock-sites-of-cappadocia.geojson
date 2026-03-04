@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.85,
+          38.66667
+        ]
+      },
+      "properties": {
+        "code": "goreme-national-park-and-the-rock-sites-of-cappadocia",
+        "name": "Göreme National Park and the Rock Sites of Cappadocia",
+        "type": "Mixed",
+        "country": "Türkiye",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

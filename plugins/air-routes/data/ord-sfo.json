@@ -1,0 +1,18 @@
+{
+  "code": "ord-sfo",
+  "name": "Chicago — San Francisco",
+  "airports": [
+    "ORD",
+    "SFO"
+  ],
+  "distanceKm": 2964,
+  "weeklyFlights": 80,
+  "airlines": [
+    "United",
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–SFO route between Chicago and San Francisco. Distance: 2,964 km. ~80 weekly flights operated by United, American.",
+  "geojson": "ord-sfo.geojson"
+}

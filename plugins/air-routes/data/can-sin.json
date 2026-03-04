@@ -1,0 +1,18 @@
+{
+  "code": "can-sin",
+  "name": "Guangzhou — Singapore",
+  "airports": [
+    "CAN",
+    "SIN"
+  ],
+  "distanceKm": 2648,
+  "weeklyFlights": 40,
+  "airlines": [
+    "China Southern",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CAN–SIN route between Guangzhou and Singapore. Distance: 2,648 km. ~40 weekly flights operated by China Southern, Singapore Airlines.",
+  "geojson": "can-sin.geojson"
+}

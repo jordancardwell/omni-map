@@ -1,0 +1,16 @@
+{
+  "code": "azn",
+  "name": "Azerbaijani Manat",
+  "isoCode": "AZN",
+  "symbol": "₼",
+  "region": "Asia",
+  "centralBank": "Central Bank of Azerbaijan",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Azerbaijan"
+  ],
+  "countryCount": 1,
+  "description": "The Azerbaijani Manat is the currency of Azerbaijan, a major oil and gas producer in the Caspian region.",
+  "historicalNotes": "The 'new manat' was introduced in 2006, removing four zeros. Azerbaijan's economy is heavily dependent on hydrocarbon exports.",
+  "geojson": "azn.geojson"
+}

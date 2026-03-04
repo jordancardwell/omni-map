@@ -1,0 +1,18 @@
+{
+  "code": "mnl-nrt",
+  "name": "Manila — Tokyo",
+  "airports": [
+    "MNL",
+    "NRT"
+  ],
+  "distanceKm": 3052,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Philippine Airlines",
+    "ANA"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MNL–NRT route between Manila and Tokyo. Distance: 3,052 km. ~50 weekly flights operated by Philippine Airlines, ANA.",
+  "geojson": "mnl-nrt.geojson"
+}

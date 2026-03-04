@@ -1,0 +1,14 @@
+{
+  "code": "tanabata",
+  "name": "Tanabata (Star Festival)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "July 7 (or August)",
+  "origin": "Japanese tradition",
+  "estimatedAttendance": "2+ million in Sendai",
+  "unescoICH": "Not inscribed",
+  "traditions": "Writing wishes on paper strips (tanzaku) and hanging them on bamboo; elaborate streamer decorations; parades; stargazing.",
+  "historicalBackground": "Tanabata originated from the Chinese Qixi festival, celebrating the meeting of star-crossed lovers Orihime and Hikoboshi across the Milky Way.",
+  "description": "Japan's romantic Star Festival, where cities are adorned with colorful streamers and wishes are hung on bamboo under the summer stars.",
+  "location": "Sendai, Japan",
+  "geojson": "tanabata.geojson"
+}

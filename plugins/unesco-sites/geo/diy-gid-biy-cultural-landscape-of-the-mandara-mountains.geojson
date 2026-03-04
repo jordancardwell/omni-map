@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7955555556,
+          10.9033333333
+        ]
+      },
+      "properties": {
+        "code": "diy-gid-biy-cultural-landscape-of-the-mandara-mountains",
+        "name": "Diy-Gid-Biy Cultural Landscape of the Mandara Mountains",
+        "type": "Cultural",
+        "country": "Cameroon",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

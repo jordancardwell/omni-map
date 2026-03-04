@@ -1,0 +1,14 @@
+{
+  "code": "port-fortresses-and-group-of-monuments-cartagena",
+  "name": "Port, Fortresses and Group of Monuments, Cartagena",
+  "type": "Cultural",
+  "country": "Colombia",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Situated in a bay in the Caribbean Sea, Cartagena has the most extensive fortifications in South America. A system of zones divides the city into three neighbourhoods: San Pedro, with the cathedral and many Andalusian-style palaces; San Diego, where merchants and the middle class lived; and Gethsemani, the 'popular quarter'.",
+  "danger": false,
+  "geojson": "port-fortresses-and-group-of-monuments-cartagena.geojson"
+}

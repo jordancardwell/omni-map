@@ -1,0 +1,21 @@
+{
+  "code": "hamburg",
+  "name": "Hamburg Observatory",
+  "country": "Germany",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 41,
+  "aperture": "1.2 m",
+  "telescopes": [
+    "1.2m reflector",
+    "Schmidt telescope"
+  ],
+  "keyDiscoveries": [
+    "Hamburg/ESO Survey",
+    "Quasar surveys",
+    "Stellar spectral classification"
+  ],
+  "location": "Hamburg Observatory, Germany",
+  "description": "University of Hamburg facility in Bergedorf. Conducted the Hamburg Quasar Survey discovering thousands of quasars and rare stellar objects.",
+  "geojson": "hamburg.geojson"
+}

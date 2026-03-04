@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7174,
+          51.0543
+        ]
+      },
+      "properties": {
+        "code": "day-of-flanders",
+        "name": "Gentse Feesten",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Late July (10 days)",
+        "location": "Ghent, Belgium"
+      }
+    }
+  ]
+}

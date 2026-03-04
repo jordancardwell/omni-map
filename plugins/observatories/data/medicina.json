@@ -1,0 +1,21 @@
+{
+  "code": "medicina",
+  "name": "Medicina Radio Astronomical Station",
+  "country": "Italy",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 28,
+  "aperture": "32 m",
+  "telescopes": [
+    "Medicina 32m",
+    "Northern Cross"
+  ],
+  "keyDiscoveries": [
+    "VLBI observations",
+    "Radio source surveys",
+    "Spectroscopy"
+  ],
+  "location": "Medicina Radio Astronomical Station, Italy",
+  "description": "INAF radio astronomy station near Bologna. The Northern Cross is one of the largest cross-type radio telescopes and a key European VLBI Network station.",
+  "geojson": "medicina.geojson"
+}

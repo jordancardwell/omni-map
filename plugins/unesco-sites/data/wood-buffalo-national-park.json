@@ -1,0 +1,16 @@
+{
+  "code": "wood-buffalo-national-park",
+  "name": "Wood Buffalo National Park",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the plains in the north-central region of Canada, the park (which covers 44,807 km2) is home to North America's largest population of wild bison. It is also the natural nesting place of the whooping crane. Another of the park's attractions is the world's largest inland delta, located at the mouth of the Peace and Athabasca rivers.",
+  "danger": false,
+  "geojson": "wood-buffalo-national-park.geojson"
+}

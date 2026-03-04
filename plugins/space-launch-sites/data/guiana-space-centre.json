@@ -1,0 +1,18 @@
+{
+  "code": "guiana-space-centre",
+  "name": "Guiana Space Centre (CSG)",
+  "country": "France (French Guiana)",
+  "operator": "CNES / ESA / Arianespace",
+  "coordinates": "5.2322°N, 52.7693°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Ariane 5 maiden flight",
+    "James Webb Space Telescope",
+    "Galileo constellation",
+    "Rosetta"
+  ],
+  "orbitalInclinationRange": "5°–100°",
+  "location": "Guiana Space Centre (CSG), France (French Guiana)",
+  "description": "Europe's primary spaceport near the equator in Kourou, French Guiana. Ideal equatorial location provides significant payload advantage for GTO missions. Supports Ariane 6, Vega-C, and Soyuz.",
+  "geojson": "guiana-space-centre.geojson"
+}

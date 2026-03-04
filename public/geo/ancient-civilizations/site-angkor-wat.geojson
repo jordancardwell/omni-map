@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "site-angkor-wat", "name": "Angkor Wat" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.8670, 13.4125]
+    }
+  }]
+}

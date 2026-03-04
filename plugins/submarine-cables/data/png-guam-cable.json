@@ -1,0 +1,16 @@
+{
+  "code": "png-guam-cable",
+  "name": "PNG-Guam Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5216,
+  "yearLaid": 2011,
+  "rfsDate": "2022-06",
+  "owner": "DataCo PNG",
+  "landingPoints": [
+    "Port Moresby, Papua New Guinea",
+    "Guam"
+  ],
+  "description": "PNG-Guam Cable connecting Port Moresby to Guam in the Pacific.",
+  "geojson": "png-guam-cable.geojson"
+}

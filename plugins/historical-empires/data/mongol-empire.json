@@ -1,0 +1,25 @@
+{
+  "code": "mongol-empire",
+  "name": "Mongol Empire",
+  "era": "Medieval",
+  "peakYear": "1279 CE",
+  "areaAtPeakKm2": 24000000,
+  "populationEstimate": "110 million",
+  "capital": "Karakorum",
+  "keyAchievements": [
+    "Pax Mongolica",
+    "Silk Road revival",
+    "Postal system (Yam)",
+    "Religious tolerance",
+    "Unified Eurasian trade"
+  ],
+  "declineFactors": [
+    "Succession disputes",
+    "Fragmentation into khanates",
+    "Black Death",
+    "Overextension",
+    "Assimilation into local cultures"
+  ],
+  "description": "The Mongol Empire was the largest contiguous land empire in history, founded by Genghis Khan in 1206. At its peak under Kublai Khan, it stretched from Eastern Europe to the Sea of Japan, covering much of Central Asia, China, Persia, and Russia.\n\nThe empire facilitated unprecedented cultural exchange along the Silk Road during the Pax Mongolica. Despite its reputation for brutal conquest, it promoted trade, religious tolerance, and diplomatic communication across Eurasia.",
+  "geojson": "mongol-empire.geojson"
+}

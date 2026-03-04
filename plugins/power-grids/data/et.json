@@ -1,0 +1,22 @@
+{
+  "code": "et",
+  "name": "Ethiopia",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "E",
+    "F",
+    "L"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type L — Three round pins in a line (Italian style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+  "geojson": "et.geojson"
+}

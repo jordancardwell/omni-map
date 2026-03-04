@@ -1,0 +1,1513 @@
+[
+  {
+    "code": "al-anbar",
+    "name": "Al-Anbar Space Launch Facility",
+    "country": "Iraq",
+    "operator": "Iraq Space Agency (former)",
+    "coordinates": "33.3000°N, 42.5000°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Al-Abid SLV attempt (1989)",
+      "Project Babylon (supergun)"
+    ],
+    "orbitalInclinationRange": "33°–50° (planned)",
+    "location": "Al-Anbar Space Launch Facility, Iraq",
+    "description": "Iraq's attempted space launch facility. The Al-Abid SLV was tested once in 1989 but likely failed. Associated with Gerald Bull's Project Babylon supergun. Destroyed during 1991 Gulf War.",
+    "geojson": "al-anbar.geojson"
+  },
+  {
+    "code": "alcantara",
+    "name": "Alcantara Launch Center",
+    "country": "Brazil",
+    "operator": "AEB / Brazilian Air Force",
+    "coordinates": "2.3733°S, 44.3964°W",
+    "status": "Active",
+    "notableLaunches": [
+      "VLS-1 attempts",
+      "Sounding rockets",
+      "Planned commercial launches"
+    ],
+    "orbitalInclinationRange": "2°–100°",
+    "location": "Alcantara Launch Center, Brazil",
+    "description": "Brazil's primary launch center in Maranhao state, near the equator. Offers excellent GTO payload performance due to equatorial location. Being developed for commercial launches.",
+    "geojson": "alcantara.geojson"
+  },
+  {
+    "code": "andoya",
+    "name": "Andoya Spaceport",
+    "country": "Norway",
+    "operator": "Andoya Space",
+    "coordinates": "69.2945°N, 16.0209°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Sounding rockets since 1962",
+      "Planned Isar Aerospace orbital launches"
+    ],
+    "orbitalInclinationRange": "87°–98° (polar/SSO)",
+    "location": "Andoya Spaceport, Norway",
+    "description": "Northern Norway's launch facility with over 1,200 sounding rocket launches since 1962. Being upgraded for orbital launches by commercial operators like Isar Aerospace.",
+    "geojson": "andoya.geojson"
+  },
+  {
+    "code": "arnhem-space-centre",
+    "name": "Arnhem Space Centre",
+    "country": "Australia",
+    "operator": "Equatorial Launch Australia",
+    "coordinates": "12.4425°S, 136.8155°E",
+    "status": "Active",
+    "notableLaunches": [
+      "NASA sounding rockets (2022)",
+      "First launches from Australian commercial site"
+    ],
+    "orbitalInclinationRange": "12°–98°",
+    "location": "Arnhem Space Centre, Australia",
+    "description": "Australia's first commercial launch facility in East Arnhem Land, Northern Territory. Near-equatorial location is advantageous for LEO and GTO missions. Hosted NASA sounding rocket campaigns in 2022.",
+    "geojson": "arnhem-space-centre.geojson"
+  },
+  {
+    "code": "baikonur",
+    "name": "Baikonur Cosmodrome",
+    "country": "Kazakhstan",
+    "operator": "Roscosmos",
+    "coordinates": "45.9650°N, 63.3050°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Sputnik 1",
+      "Vostok 1 (Gagarin)",
+      "Salyut/Mir/ISS missions",
+      "Proton launches"
+    ],
+    "orbitalInclinationRange": "46°–65°",
+    "location": "Baikonur Cosmodrome, Kazakhstan",
+    "description": "The world's first and largest operational space launch facility. Launched Sputnik, Yuri Gagarin, and thousands of missions since 1957. Leased by Russia from Kazakhstan.",
+    "geojson": "baikonur.geojson"
+  },
+  {
+    "code": "base-aerienne-biscarrosse",
+    "name": "Centre d'Essais des Landes (Biscarrosse)",
+    "country": "France",
+    "operator": "DGA / French MOD",
+    "coordinates": "44.3655°N, 1.2286°W",
+    "status": "Active",
+    "notableLaunches": [
+      "M51 SLBM tests",
+      "Exoatmospheric missile tests",
+      "Various military sounding rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital/ICBM tests)",
+    "location": "Centre d'Essais des Landes (Biscarrosse), France",
+    "description": "French military missile test center on the Atlantic coast near Biscarrosse. Used for submarine-launched ballistic missile testing and defense system validation, not orbital launches.",
+    "geojson": "base-aerienne-biscarrosse.geojson"
+  },
+  {
+    "code": "camp-cactus",
+    "name": "Overberg Test Range (Denel OTB)",
+    "country": "South Africa",
+    "operator": "Denel Dynamics",
+    "coordinates": "34.6150°S, 20.3160°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "RSA-3 (South African orbital attempt)",
+      "Missile tests"
+    ],
+    "orbitalInclinationRange": "34°–98° (polar)",
+    "location": "Overberg Test Range (Denel OTB), South Africa",
+    "description": "South Africa's rocket test range near Arniston. Used for the RSA series of launch vehicles in the 1980s-90s apartheid-era space program. The orbital program was cancelled; now used for missile testing.",
+    "geojson": "camp-cactus.geojson"
+  },
+  {
+    "code": "camp-david-ahin",
+    "name": "Dongfeng Aerospace City (JSLC housing)",
+    "country": "China",
+    "operator": "CASC",
+    "coordinates": "40.9500°N, 100.3000°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Support facility for Jiuquan launches"
+    ],
+    "orbitalInclinationRange": "40°–70°",
+    "location": "Dongfeng Aerospace City (JSLC housing), China",
+    "description": "The city and support infrastructure complex for the Jiuquan Satellite Launch Center. Houses thousands of workers and provides mission control facilities.",
+    "geojson": "camp-david-ahin.geojson"
+  },
+  {
+    "code": "canso-spaceport",
+    "name": "Canso Spaceport",
+    "country": "Canada",
+    "operator": "Maritime Launch Services",
+    "coordinates": "45.3200°N, 61.0000°W",
+    "status": "Planned",
+    "notableLaunches": [
+      "Planned first Canadian orbital launch"
+    ],
+    "orbitalInclinationRange": "45°–98°",
+    "location": "Canso Spaceport, Canada",
+    "description": "Proposed Canadian orbital launch site in Nova Scotia. Maritime Launch Services plans to launch small and medium rockets to serve the growing small satellite market from Canadian soil.",
+    "geojson": "canso-spaceport.geojson"
+  },
+  {
+    "code": "cape-canaveral-sfs",
+    "name": "Cape Canaveral Space Force Station",
+    "country": "United States",
+    "operator": "USSF / ULA / SpaceX",
+    "coordinates": "28.4889°N, 80.5778°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Mercury-Atlas 6 (first US orbital)",
+      "Mariner 2",
+      "Mars Reconnaissance Orbiter",
+      "Parker Solar Probe"
+    ],
+    "orbitalInclinationRange": "28.5°–57°",
+    "location": "Cape Canaveral Space Force Station, United States",
+    "description": "Adjacent to Kennedy Space Center, this military spaceport has hosted launches since 1950. Multiple active pads support Atlas V, Falcon 9, and Vulcan Centaur missions.",
+    "geojson": "cape-canaveral-sfs.geojson"
+  },
+  {
+    "code": "cape-canaveral-slc37",
+    "name": "Space Launch Complex 37 (Cape Canaveral)",
+    "country": "United States",
+    "operator": "ULA",
+    "coordinates": "28.5316°N, 80.5653°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Saturn I/IB launches",
+      "Delta IV Heavy",
+      "NROL missions",
+      "Parker Solar Probe"
+    ],
+    "orbitalInclinationRange": "28.5°–57°",
+    "location": "Space Launch Complex 37 (Cape Canaveral), United States",
+    "description": "Historic launch complex first built for Saturn I rockets in the 1960s. Rebuilt for Delta IV in the 2000s. Home to ULA's Delta IV Heavy, the US's most powerful operational rocket before SLS.",
+    "geojson": "cape-canaveral-slc37.geojson"
+  },
+  {
+    "code": "cape-canaveral-slc41",
+    "name": "Space Launch Complex 41 (Cape Canaveral)",
+    "country": "United States",
+    "operator": "ULA",
+    "coordinates": "28.5834°N, 80.5831°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Mars Science Lab (Curiosity)",
+      "Juno",
+      "Perseverance rover",
+      "Vulcan Centaur maiden flight"
+    ],
+    "orbitalInclinationRange": "28.5°–57°",
+    "location": "Space Launch Complex 41 (Cape Canaveral), United States",
+    "description": "ULA's primary Atlas V and Vulcan Centaur launch pad. Originally built for Titan rockets. Has launched many high-profile NASA science missions including multiple Mars rovers.",
+    "geojson": "cape-canaveral-slc41.geojson"
+  },
+  {
+    "code": "cape-york",
+    "name": "Cape York Spaceport",
+    "country": "Australia",
+    "operator": "APSC (proposed)",
+    "coordinates": "12.2000°S, 143.1000°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Never operational — cancelled in 1990s"
+    ],
+    "orbitalInclinationRange": "12°–98° (planned)",
+    "location": "Cape York Spaceport, Australia",
+    "description": "A proposed commercial spaceport on Cape York Peninsula, Queensland. Despite significant investment and near-equatorial location advantages, the project was cancelled in the 1990s due to financial and environmental issues.",
+    "geojson": "cape-york.geojson"
+  },
+  {
+    "code": "chamical",
+    "name": "Centro de Experimentacion y Lanzamiento de Proyectiles Autopropulsados (CELPA)",
+    "country": "Argentina",
+    "operator": "CNIE / CONAE",
+    "coordinates": "30.3500°S, 66.2800°W",
+    "status": "Historical",
+    "notableLaunches": [
+      "Rigel sounding rockets",
+      "Orion series",
+      "Castor/Canopus rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Centro de Experimentacion y Lanzamiento de Proyectiles Autopropulsados (CELPA), Argentina",
+    "description": "Argentina's rocket launch center in La Rioja province. Active from 1961 through the 1990s for sounding rocket research. Argentina's space launch activities later consolidated at other facilities.",
+    "geojson": "chamical.geojson"
+  },
+  {
+    "code": "china-sea-launch",
+    "name": "China Sea Launch (Offshore Platform)",
+    "country": "China",
+    "operator": "CASC / Haiyan",
+    "coordinates": "34.9000°N, 121.1900°E",
+    "status": "Active",
+    "notableLaunches": [
+      "CZ-11 sea launch (2019)",
+      "CZ-11 Shandong offshore launches"
+    ],
+    "orbitalInclinationRange": "0°–45°",
+    "location": "China Sea Launch (Offshore Platform), China",
+    "description": "China's offshore launch capability using sea-based platforms in the Yellow Sea. Long March 11 rockets launch from modified barges, offering flexible positioning for equatorial and low-inclination orbits.",
+    "geojson": "china-sea-launch.geojson"
+  },
+  {
+    "code": "christmas-island",
+    "name": "Christmas Island (British Tests)",
+    "country": "United Kingdom",
+    "operator": "British MOD (former)",
+    "coordinates": "1.9861°N, 157.4750°W",
+    "status": "Historical",
+    "notableLaunches": [
+      "Operation Grapple nuclear tests",
+      "Blue Streak missile development support"
+    ],
+    "orbitalInclinationRange": "N/A (nuclear tests)",
+    "location": "Christmas Island (British Tests), United Kingdom",
+    "description": "British nuclear weapons test site in the Pacific (now Kiritimati, Kiribati). While primarily for nuclear testing, it supported rocket technology development connected to the Blue Streak missile program.",
+    "geojson": "christmas-island.geojson"
+  },
+  {
+    "code": "edwards-afb",
+    "name": "Edwards Air Force Base (NTS/Dryden)",
+    "country": "United States",
+    "operator": "USAF / NASA",
+    "coordinates": "34.9054°N, 117.8836°W",
+    "status": "Active",
+    "notableLaunches": [
+      "X-15 flights",
+      "Space Shuttle landings",
+      "Pegasus air-launched rocket drops"
+    ],
+    "orbitalInclinationRange": "Various (air-launch)",
+    "location": "Edwards Air Force Base (NTS/Dryden), United States",
+    "description": "Famous dry lakebed facility in California's Mojave Desert. Served as Space Shuttle alternate landing site and launch point for air-launched rockets. Home to NASA Armstrong Flight Research Center.",
+    "geojson": "edwards-afb.geojson"
+  },
+  {
+    "code": "el-arenosillo",
+    "name": "El Arenosillo Test Centre",
+    "country": "Spain",
+    "operator": "INTA",
+    "coordinates": "37.1014°N, 6.7339°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Sounding rockets since 1966",
+      "DART microgravity rockets",
+      "Atmospheric research"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "El Arenosillo Test Centre, Spain",
+    "description": "Spain's sounding rocket launch facility near Huelva. Operated by INTA since 1966 for atmospheric research, microgravity experiments, and military testing.",
+    "geojson": "el-arenosillo.geojson"
+  },
+  {
+    "code": "emirati-launch-site",
+    "name": "Al Ain Launch Site (planned)",
+    "country": "United Arab Emirates",
+    "operator": "UAE Space Agency (planned)",
+    "coordinates": "24.2000°N, 55.7000°E",
+    "status": "Planned",
+    "notableLaunches": [
+      "Planned first UAE domestic launch"
+    ],
+    "orbitalInclinationRange": "24°–98° (planned)",
+    "location": "Al Ain Launch Site (planned), United Arab Emirates",
+    "description": "Proposed UAE launch facility. The UAE has announced plans to develop domestic launch capability to complement its growing satellite and Mars mission programs.",
+    "geojson": "emirati-launch-site.geojson"
+  },
+  {
+    "code": "esrange",
+    "name": "Esrange Space Center",
+    "country": "Sweden",
+    "operator": "SSC",
+    "coordinates": "67.8933°N, 21.1064°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Numerous sounding rockets",
+      "MAXUS microgravity flights",
+      "Stratospheric balloon campaigns"
+    ],
+    "orbitalInclinationRange": "87°–98° (polar/SSO)",
+    "location": "Esrange Space Center, Sweden",
+    "description": "Located above the Arctic Circle near Kiruna, Sweden. Primarily a sounding rocket and balloon launch site, with planned orbital launch capability being developed.",
+    "geojson": "esrange.geojson"
+  },
+  {
+    "code": "guiana-space-centre",
+    "name": "Guiana Space Centre (CSG)",
+    "country": "France (French Guiana)",
+    "operator": "CNES / ESA / Arianespace",
+    "coordinates": "5.2322°N, 52.7693°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Ariane 5 maiden flight",
+      "James Webb Space Telescope",
+      "Galileo constellation",
+      "Rosetta"
+    ],
+    "orbitalInclinationRange": "5°–100°",
+    "location": "Guiana Space Centre (CSG), France (French Guiana)",
+    "description": "Europe's primary spaceport near the equator in Kourou, French Guiana. Ideal equatorial location provides significant payload advantage for GTO missions. Supports Ariane 6, Vega-C, and Soyuz.",
+    "geojson": "guiana-space-centre.geojson"
+  },
+  {
+    "code": "haiyang",
+    "name": "Haiyang Launch Site",
+    "country": "China",
+    "operator": "CAS Space / Commercial operators",
+    "coordinates": "36.7700°N, 121.1500°E",
+    "status": "Active",
+    "notableLaunches": [
+      "CAS Space Kinetica-1 sea launches",
+      "Eastern Aerospace Gravity-1"
+    ],
+    "orbitalInclinationRange": "35°–98°",
+    "location": "Haiyang Launch Site, China",
+    "description": "Sea-adjacent commercial launch site near Haiyang, Shandong province. Supports China's growing commercial space launch industry with both land-based and sea-launch operations.",
+    "geojson": "haiyang.geojson"
+  },
+  {
+    "code": "hammaguir-b2",
+    "name": "Hammaguir (Brigitte & Bacchus pads)",
+    "country": "Algeria (French-operated)",
+    "operator": "French Armed Forces",
+    "coordinates": "31.6100°N, 3.0650°W",
+    "status": "Historical",
+    "notableLaunches": [
+      "Precious Stones series (Agate, Topaz, Emerald, Ruby, Sapphire)",
+      "French sounding rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Hammaguir (Brigitte & Bacchus pads), Algeria (French-operated)",
+    "description": "French military and research launch pads at the Hammaguir complex in Algeria. Named after cocktails, these pads supported France's early sounding rocket and missile development programs.",
+    "geojson": "hammaguir-b2.geojson"
+  },
+  {
+    "code": "hammaguir",
+    "name": "Hammaguir Launch Site",
+    "country": "Algeria (French-operated)",
+    "operator": "CNES (France)",
+    "coordinates": "31.6150°N, 3.0700°W",
+    "status": "Historical",
+    "notableLaunches": [
+      "Diamant A (first French orbital)",
+      "Asterix satellite (1965)"
+    ],
+    "orbitalInclinationRange": "34°–45°",
+    "location": "Hammaguir Launch Site, Algeria (French-operated)",
+    "description": "France's original space launch facility in the Sahara Desert, Algeria. Site of the first French satellite launch (Asterix, 1965). Closed in 1967 when France withdrew from Algeria and moved to Kourou.",
+    "geojson": "hammaguir.geojson"
+  },
+  {
+    "code": "jeju-island",
+    "name": "Jeju Offshore Launch Site (proposed)",
+    "country": "South Korea",
+    "operator": "KASA (proposed)",
+    "coordinates": "33.2500°N, 126.2500°E",
+    "status": "Planned",
+    "notableLaunches": [
+      "Future South Korean launches (conceptual)"
+    ],
+    "orbitalInclinationRange": "33°–98°",
+    "location": "Jeju Offshore Launch Site (proposed), South Korea",
+    "description": "Proposed future launch site concept near Jeju Island for expanding South Korea's launch capabilities. In early conceptual stages as part of Korea's space development master plan.",
+    "geojson": "jeju-island.geojson"
+  },
+  {
+    "code": "jiuquan-commercial",
+    "name": "Jiuquan Commercial Launch Zone",
+    "country": "China",
+    "operator": "CASC / Commercial operators",
+    "coordinates": "40.9200°N, 100.3100°E",
+    "status": "Active",
+    "notableLaunches": [
+      "CERES-1 commercial launches",
+      "Smart Dragon series",
+      "Hyperbola-1"
+    ],
+    "orbitalInclinationRange": "40°–70°",
+    "location": "Jiuquan Commercial Launch Zone, China",
+    "description": "Dedicated commercial launch zone adjacent to the main Jiuquan center. Used by China's growing commercial space industry including Galactic Energy, iSpace, and Landspace.",
+    "geojson": "jiuquan-commercial.geojson"
+  },
+  {
+    "code": "jiuquan-suborbital",
+    "name": "Jiuquan Sounding Rocket Range",
+    "country": "China",
+    "operator": "CASC",
+    "coordinates": "40.9580°N, 100.2980°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Tianying sounding rockets",
+      "T-series rockets for atmospheric research"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Jiuquan Sounding Rocket Range, China",
+    "description": "Sounding rocket launch area within the Jiuquan complex. Used for atmospheric research, microgravity experiments, and technology demonstration missions.",
+    "geojson": "jiuquan-suborbital.geojson"
+  },
+  {
+    "code": "jiuquan",
+    "name": "Jiuquan Satellite Launch Center",
+    "country": "China",
+    "operator": "CNSA / CASC",
+    "coordinates": "40.9606°N, 100.2910°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Shenzhou 5 (first Chinese crewed)",
+      "Tiangong stations",
+      "Shenzhou/Tianzhou missions"
+    ],
+    "orbitalInclinationRange": "40°–70°",
+    "location": "Jiuquan Satellite Launch Center, China",
+    "description": "China's first and most famous launch center in the Gobi Desert. Used for crewed Shenzhou missions to the Tiangong space station and various scientific satellites.",
+    "geojson": "jiuquan.geojson"
+  },
+  {
+    "code": "kapustin-yar-v2",
+    "name": "Kapustin Yar V-2 Test Stand",
+    "country": "Russia",
+    "operator": "Soviet Ministry of Defense",
+    "coordinates": "48.5780°N, 46.2500°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Captured V-2 tests (1947)",
+      "R-1 missile development"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Kapustin Yar V-2 Test Stand, Russia",
+    "description": "The original V-2 test stand at Kapustin Yar where the Soviet Union first tested captured German V-2 rockets in 1947, beginning the Soviet space program's trajectory to Sputnik and beyond.",
+    "geojson": "kapustin-yar-v2.geojson"
+  },
+  {
+    "code": "kapustin-yar",
+    "name": "Kapustin Yar",
+    "country": "Russia",
+    "operator": "Russian MOD",
+    "coordinates": "48.5700°N, 46.2530°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "R-1 (first Soviet ballistic missile)",
+      "Cosmos-1 (first orbital)",
+      "Early ICBM tests"
+    ],
+    "orbitalInclinationRange": "48°–51°",
+    "location": "Kapustin Yar, Russia",
+    "description": "The Soviet Union's first rocket launch and test site. Established in 1946 for captured V-2 testing. Launched the first Soviet ballistic missiles and early Cosmos satellites. Mostly decommissioned for space launches.",
+    "geojson": "kapustin-yar.geojson"
+  },
+  {
+    "code": "kauai",
+    "name": "Pacific Missile Range Facility Barking Sands",
+    "country": "United States",
+    "operator": "US Navy / DARPA / Sandia",
+    "coordinates": "22.0270°N, 159.7850°W",
+    "status": "Active",
+    "notableLaunches": [
+      "STARS target vehicles",
+      "Astra Rocket 3 attempts",
+      "DARPA hypersonic tests"
+    ],
+    "orbitalInclinationRange": "22°–70°",
+    "location": "Pacific Missile Range Facility Barking Sands, United States",
+    "description": "Military missile range on Kauai, Hawaii used for missile defense tests and occasional orbital launch attempts. Provides over-water flight paths for safe launches in multiple directions.",
+    "geojson": "kauai.geojson"
+  },
+  {
+    "code": "kennedy-space-center",
+    "name": "Kennedy Space Center",
+    "country": "United States",
+    "operator": "NASA / SpaceX",
+    "coordinates": "28.5728°N, 80.6490°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Apollo 11",
+      "STS-1 (first Shuttle)",
+      "Artemis I",
+      "Falcon Heavy demo"
+    ],
+    "orbitalInclinationRange": "28.5°–57°",
+    "location": "Kennedy Space Center, United States",
+    "description": "America's premier human spaceflight launch facility at Cape Canaveral, Florida. Home to historic Apollo Moon missions, the Space Shuttle program, and now SpaceX Falcon 9/Heavy launches from LC-39A.",
+    "geojson": "kennedy-space-center.geojson"
+  },
+  {
+    "code": "kiruna-esrange",
+    "name": "Esrange Orbital Launch Pad",
+    "country": "Sweden",
+    "operator": "SSC / RFA",
+    "coordinates": "67.8900°N, 21.1100°E",
+    "status": "Planned",
+    "notableLaunches": [
+      "RFA ONE (planned)",
+      "Isar Aerospace Spectrum (considered)"
+    ],
+    "orbitalInclinationRange": "87°–98° (polar/SSO)",
+    "location": "Esrange Orbital Launch Pad, Sweden",
+    "description": "Planned orbital launch pad at Esrange Space Center for Rocket Factory Augsburg's RFA ONE small launch vehicle. Part of Europe's push for independent small-satellite launch capability.",
+    "geojson": "kiruna-esrange.geojson"
+  },
+  {
+    "code": "kodiak",
+    "name": "Pacific Spaceport Complex – Alaska",
+    "country": "United States",
+    "operator": "Alaska Aerospace",
+    "coordinates": "57.4358°N, 152.3378°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Kodiak Star (first orbital attempt)",
+      "Astra launches",
+      "Minotaur IV"
+    ],
+    "orbitalInclinationRange": "57°–116° (polar/SSO)",
+    "location": "Pacific Spaceport Complex – Alaska, United States",
+    "description": "The only FAA-licensed spaceport not co-located with a federal range. Located on Kodiak Island, Alaska, it offers excellent polar and sun-synchronous orbit access.",
+    "geojson": "kodiak.geojson"
+  },
+  {
+    "code": "korla",
+    "name": "Korla Missile Test Complex",
+    "country": "China",
+    "operator": "PLA",
+    "coordinates": "41.7270°N, 86.1300°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Anti-satellite tests",
+      "Ballistic missile interceptor tests",
+      "HQ-19 ABM tests"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital/interceptor tests)",
+    "location": "Korla Missile Test Complex, China",
+    "description": "Chinese military test range in Xinjiang for missile defense and anti-satellite weapon testing. One of China's primary facilities for BMD technology development.",
+    "geojson": "korla.geojson"
+  },
+  {
+    "code": "kourou-ela4",
+    "name": "ELA-4 (Ariane 6 Launch Complex)",
+    "country": "France (French Guiana)",
+    "operator": "ESA / Arianespace",
+    "coordinates": "5.2360°N, 52.7680°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Ariane 6 maiden flight (2024)",
+      "Next-gen European launches"
+    ],
+    "orbitalInclinationRange": "5°–100°",
+    "location": "ELA-4 (Ariane 6 Launch Complex), France (French Guiana)",
+    "description": "The newest launch complex at the Guiana Space Centre, purpose-built for the Ariane 6 rocket. Features a mobile gantry and flame duct designed for both A62 and A64 configurations.",
+    "geojson": "kourou-ela4.geojson"
+  },
+  {
+    "code": "kourou-old",
+    "name": "Centre Spatial Guyanais (Original Diamant Pad)",
+    "country": "France (French Guiana)",
+    "operator": "CNES",
+    "coordinates": "5.2360°N, 52.7750°W",
+    "status": "Historical",
+    "notableLaunches": [
+      "Early Diamant B/BP4 launches from Kourou",
+      "Transition from Hammaguir"
+    ],
+    "orbitalInclinationRange": "5°–50°",
+    "location": "Centre Spatial Guyanais (Original Diamant Pad), France (French Guiana)",
+    "description": "The original launch pads at the Guiana Space Centre used for Diamant B rockets after France relocated from Hammaguir. Predecessor infrastructure to the modern Ariane launch complexes.",
+    "geojson": "kourou-old.geojson"
+  },
+  {
+    "code": "kwajalein",
+    "name": "Omelek Island (SpaceX)",
+    "country": "Marshall Islands",
+    "operator": "SpaceX (former)",
+    "coordinates": "9.0477°N, 167.7432°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Falcon 1 Flight 4 (first successful)",
+      "Falcon 1 Flight 5",
+      "RazakSAT"
+    ],
+    "orbitalInclinationRange": "9°–60°",
+    "location": "Omelek Island (SpaceX), Marshall Islands",
+    "description": "Small island in Kwajalein Atoll where SpaceX achieved its first successful orbital launch (Falcon 1 Flight 4) on September 28, 2008. Now decommissioned as SpaceX moved operations to Cape Canaveral.",
+    "geojson": "kwajalein.geojson"
+  },
+  {
+    "code": "lc-39a",
+    "name": "Launch Complex 39A (Kennedy Space Center)",
+    "country": "United States",
+    "operator": "SpaceX",
+    "coordinates": "28.6082°N, 80.6041°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Apollo 11 (first Moon landing)",
+      "STS-1 (first Shuttle)",
+      "Falcon Heavy demo",
+      "Crew Dragon missions"
+    ],
+    "orbitalInclinationRange": "28.5°–57°",
+    "location": "Launch Complex 39A (Kennedy Space Center), United States",
+    "description": "The most famous launch pad in history. Launched Apollo 11, the first Space Shuttle mission, and now serves as SpaceX's primary East Coast pad for Falcon 9, Falcon Heavy, and crewed missions.",
+    "geojson": "lc-39a.geojson"
+  },
+  {
+    "code": "lc-39b",
+    "name": "Launch Complex 39B (Kennedy Space Center)",
+    "country": "United States",
+    "operator": "NASA",
+    "coordinates": "28.6272°N, 80.6208°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Apollo 10",
+      "Multiple Shuttle missions",
+      "Artemis I (SLS maiden flight)"
+    ],
+    "orbitalInclinationRange": "28.5°–57°",
+    "location": "Launch Complex 39B (Kennedy Space Center), United States",
+    "description": "One of two Apollo-era launch pads at KSC. Modified for Space Launch System (SLS). Launched Artemis I, the first uncrewed Orion mission around the Moon. NASA's pad for Artemis lunar missions.",
+    "geojson": "lc-39b.geojson"
+  },
+  {
+    "code": "lc-46",
+    "name": "Space Launch Complex 46 (Cape Canaveral)",
+    "country": "United States",
+    "operator": "Space Florida / US Navy",
+    "coordinates": "28.4650°N, 80.5660°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Trident missile tests",
+      "Minotaur launches",
+      "L-1011 Pegasus drops"
+    ],
+    "orbitalInclinationRange": "28°–57°",
+    "location": "Space Launch Complex 46 (Cape Canaveral), United States",
+    "description": "Multi-use launch complex at Cape Canaveral originally built for Navy Trident missile testing. Now operated by Space Florida for small launch vehicles.",
+    "geojson": "lc-46.geojson"
+  },
+  {
+    "code": "long-beach-sea-launch",
+    "name": "Sea Launch (Odyssey Platform)",
+    "country": "International Waters",
+    "operator": "Sea Launch AG (defunct)",
+    "coordinates": "0.0000°N, 154.0000°W",
+    "status": "Historical",
+    "notableLaunches": [
+      "36 Zenit-3SL launches",
+      "XM Radio satellites",
+      "DirecTV satellites"
+    ],
+    "orbitalInclinationRange": "0°–60°",
+    "location": "Sea Launch (Odyssey Platform), International Waters",
+    "description": "Mobile ocean-based equatorial launch platform operated 1999-2014. Launched Zenit-3SL rockets from the equator in the Pacific Ocean for maximum GTO payload performance. Mothballed after financial difficulties.",
+    "geojson": "long-beach-sea-launch.geojson"
+  },
+  {
+    "code": "mahia-lc1-pad-a",
+    "name": "Rocket Lab LC-1 Pad A",
+    "country": "New Zealand",
+    "operator": "Rocket Lab",
+    "coordinates": "39.2613°S, 177.8647°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Still Testing (first Electron from NZ)",
+      "It's Business Time",
+      "Numerous Electron missions"
+    ],
+    "orbitalInclinationRange": "39°–98°",
+    "location": "Rocket Lab LC-1 Pad A, New Zealand",
+    "description": "The original pad at Rocket Lab's Mahia Peninsula facility. The first pad from which a privately developed rocket reached orbit from a private launch site.",
+    "geojson": "mahia-lc1-pad-a.geojson"
+  },
+  {
+    "code": "mahia-lc2",
+    "name": "Rocket Lab Launch Complex 2",
+    "country": "United States",
+    "operator": "Rocket Lab",
+    "coordinates": "37.8404°N, 75.4874°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Electron VADR mission",
+      "HASTE suborbital"
+    ],
+    "orbitalInclinationRange": "38°–60°",
+    "location": "Rocket Lab Launch Complex 2, United States",
+    "description": "Rocket Lab's US launch site at the Mid-Atlantic Regional Spaceport (MARS) at Wallops, Virginia. Provides US-soil launch capability for government and defense payloads.",
+    "geojson": "mahia-lc2.geojson"
+  },
+  {
+    "code": "mahia-peninsula",
+    "name": "Rocket Lab LC-1 Pad B",
+    "country": "New Zealand",
+    "operator": "Rocket Lab",
+    "coordinates": "39.2620°S, 177.8645°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Electron missions from second pad",
+      "Increased launch cadence"
+    ],
+    "orbitalInclinationRange": "39°–98°",
+    "location": "Rocket Lab LC-1 Pad B, New Zealand",
+    "description": "Second launch pad at Rocket Lab's New Zealand facility, enabling higher launch frequency. Part of the company's strategy to achieve weekly launch cadence.",
+    "geojson": "mahia-peninsula.geojson"
+  },
+  {
+    "code": "mid-atlantic-regional",
+    "name": "Mid-Atlantic Regional Spaceport (MARS)",
+    "country": "United States",
+    "operator": "Virginia Space",
+    "coordinates": "37.8340°N, 75.4880°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Antares maiden flight",
+      "Cygnus ISS resupply missions",
+      "Minotaur launches"
+    ],
+    "orbitalInclinationRange": "38°–60°",
+    "location": "Mid-Atlantic Regional Spaceport (MARS), United States",
+    "description": "Commercial launch facility at NASA Wallops Flight Facility. Primary launch site for Northrop Grumman's Antares rocket and Cygnus spacecraft providing ISS cargo resupply.",
+    "geojson": "mid-atlantic-regional.geojson"
+  },
+  {
+    "code": "mojave-air-space",
+    "name": "Mojave Air and Space Port",
+    "country": "United States",
+    "operator": "East Kern Airport District",
+    "coordinates": "35.0594°N, 118.1519°W",
+    "status": "Active",
+    "notableLaunches": [
+      "SpaceShipOne (first private crewed spaceflight)",
+      "Scaled Composites tests",
+      "Various rocket engine tests"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital/testing)",
+    "location": "Mojave Air and Space Port, United States",
+    "description": "FAA-licensed spaceport in the Mojave Desert, California. Site of SpaceShipOne's historic X Prize-winning flights in 2004. Major center for private rocket engine development and testing.",
+    "geojson": "mojave-air-space.geojson"
+  },
+  {
+    "code": "naro-space-center",
+    "name": "Naro Space Center",
+    "country": "South Korea",
+    "operator": "KARI / KASA",
+    "coordinates": "34.4316°N, 127.5350°E",
+    "status": "Active",
+    "notableLaunches": [
+      "KSLV-II Nuri (first successful 2023)",
+      "Next-generation launch vehicle tests"
+    ],
+    "orbitalInclinationRange": "34°–98°",
+    "location": "Naro Space Center, South Korea",
+    "description": "South Korea's first spaceport on Oenaro Island. Successfully launched the domestically developed Nuri (KSLV-II) rocket, making South Korea the 7th nation with indigenous orbital capability.",
+    "geojson": "naro-space-center.geojson"
+  },
+  {
+    "code": "newquay-spaceport",
+    "name": "Spaceport Cornwall",
+    "country": "United Kingdom",
+    "operator": "Virgin Orbit (defunct) / Others",
+    "coordinates": "50.4406°N, 4.9954°W",
+    "status": "Active",
+    "notableLaunches": [
+      "LauncherOne Start Me Up (2023, failed)"
+    ],
+    "orbitalInclinationRange": "Various (air-launch)",
+    "location": "Spaceport Cornwall, United Kingdom",
+    "description": "UK's first horizontal spaceport at Cornwall Airport Newquay. Hosted the attempted Virgin Orbit LauncherOne mission in 2023. Being repositioned for other horizontal launch providers.",
+    "geojson": "newquay-spaceport.geojson"
+  },
+  {
+    "code": "north-island-new-zealand",
+    "name": "Kaitorete Spit Launch Site",
+    "country": "New Zealand",
+    "operator": "Planned",
+    "coordinates": "43.8300°S, 172.4100°E",
+    "status": "Planned",
+    "notableLaunches": [
+      "Planned future launches"
+    ],
+    "orbitalInclinationRange": "44°–98°",
+    "location": "Kaitorete Spit Launch Site, New Zealand",
+    "description": "Proposed launch site on New Zealand's South Island near Christchurch. Would complement existing Mahia Peninsula facilities for different orbital inclinations.",
+    "geojson": "north-island-new-zealand.geojson"
+  },
+  {
+    "code": "ontent-spaceport",
+    "name": "Camden County Spaceport",
+    "country": "United States",
+    "operator": "Camden County (proposed)",
+    "coordinates": "30.9690°N, 81.5200°W",
+    "status": "Planned",
+    "notableLaunches": [
+      "Under FAA review"
+    ],
+    "orbitalInclinationRange": "31°–57°",
+    "location": "Camden County Spaceport, United States",
+    "description": "Proposed commercial spaceport in Camden County, Georgia. Currently undergoing FAA environmental review. Would provide an East Coast launch alternative near existing Cape Canaveral ranges.",
+    "geojson": "ontent-spaceport.geojson"
+  },
+  {
+    "code": "palmachim",
+    "name": "Palmachim Airbase",
+    "country": "Israel",
+    "operator": "Israel Aerospace Industries / Israel MOD",
+    "coordinates": "31.8848°N, 34.6826°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Shavit launches",
+      "Ofeq reconnaissance satellites"
+    ],
+    "orbitalInclinationRange": "143°–145° (retrograde due to westward launch)",
+    "location": "Palmachim Airbase, Israel",
+    "description": "Israel's launch site on the Mediterranean coast. Uniquely launches westward (retrograde orbit) over the Mediterranean to avoid overflying hostile neighboring countries.",
+    "geojson": "palmachim.geojson"
+  },
+  {
+    "code": "peenemuende",
+    "name": "Peenemunde Army Research Center",
+    "country": "Germany",
+    "operator": "Nazi Germany / Wehrmacht",
+    "coordinates": "54.1500°N, 13.7930°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "V-2 rocket (A-4) development and testing",
+      "First object to reach space (1944)"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital/ballistic)",
+    "location": "Peenemunde Army Research Center, Germany",
+    "description": "Historic German research center where Wernher von Braun's team developed the V-2 rocket — the first human-made object to reach space. Birthplace of modern rocketry. Now a museum.",
+    "geojson": "peenemuende.geojson"
+  },
+  {
+    "code": "plesetsk",
+    "name": "Plesetsk Cosmodrome",
+    "country": "Russia",
+    "operator": "Russian Aerospace Forces",
+    "coordinates": "62.9271°N, 40.5777°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Cosmos series",
+      "GLONASS satellites",
+      "Angara A5 maiden flight",
+      "Military reconnaissance satellites"
+    ],
+    "orbitalInclinationRange": "63°–83° (high-inclination/polar)",
+    "location": "Plesetsk Cosmodrome, Russia",
+    "description": "Russia's northern military cosmodrome and the most active launch site by total launches. Primarily used for military and polar orbit missions. Home to the new Angara launch vehicle family.",
+    "geojson": "plesetsk.geojson"
+  },
+  {
+    "code": "poker-flat",
+    "name": "Poker Flat Research Range",
+    "country": "United States",
+    "operator": "University of Alaska / NASA",
+    "coordinates": "65.1297°N, 147.4700°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Hundreds of sounding rockets",
+      "Aurora research rockets",
+      "Mesospheric studies"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Poker Flat Research Range, United States",
+    "description": "The world's largest land-based sounding rocket range, located north of Fairbanks, Alaska. Operated by the University of Alaska, it specializes in aurora borealis and upper atmosphere research.",
+    "geojson": "poker-flat.geojson"
+  },
+  {
+    "code": "reagan-test-site",
+    "name": "Ronald Reagan Ballistic Missile Defense Test Site",
+    "country": "United States",
+    "operator": "US Army",
+    "coordinates": "9.0480°N, 167.7430°E",
+    "status": "Active",
+    "notableLaunches": [
+      "SpaceX Falcon 1 (first 3 attempts)",
+      "Missile defense interceptor tests"
+    ],
+    "orbitalInclinationRange": "9°–65°",
+    "location": "Ronald Reagan Ballistic Missile Defense Test Site, United States",
+    "description": "Located on Kwajalein Atoll, Marshall Islands. Famous as the site of SpaceX's first three Falcon 1 launch attempts. Primarily used for US ballistic missile defense testing.",
+    "geojson": "reagan-test-site.geojson"
+  },
+  {
+    "code": "rocket-lab-lc1",
+    "name": "Rocket Lab Launch Complex 1",
+    "country": "New Zealand",
+    "operator": "Rocket Lab",
+    "coordinates": "39.2615°S, 177.8649°E",
+    "status": "Active",
+    "notableLaunches": [
+      "First Electron launch",
+      "CAPSTONE (lunar)",
+      "PREFIRE climate mission",
+      "Virginia Diode Sources"
+    ],
+    "orbitalInclinationRange": "39°–98°",
+    "location": "Rocket Lab Launch Complex 1, New Zealand",
+    "description": "The world's first private orbital launch site, located on the Mahia Peninsula of New Zealand's North Island. Enables rapid-cadence Electron launches with minimal range conflicts.",
+    "geojson": "rocket-lab-lc1.geojson"
+  },
+  {
+    "code": "rocket-lab-lc3",
+    "name": "Rocket Lab Launch Complex 3",
+    "country": "United States",
+    "operator": "Rocket Lab",
+    "coordinates": "37.8410°N, 75.4870°W",
+    "status": "Planned",
+    "notableLaunches": [
+      "Neutron rocket (planned first launch)"
+    ],
+    "orbitalInclinationRange": "38°–60°",
+    "location": "Rocket Lab Launch Complex 3, United States",
+    "description": "Planned launch complex at Wallops for Rocket Lab's medium-lift Neutron rocket. Will support missions to LEO, GTO, and beyond. Part of Rocket Lab's expansion from small to medium launch.",
+    "geojson": "rocket-lab-lc3.geojson"
+  },
+  {
+    "code": "san-clemente",
+    "name": "San Nicolas Island (Navy)",
+    "country": "United States",
+    "operator": "US Navy",
+    "coordinates": "33.2500°N, 119.5000°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Missile defense tests",
+      "SM-3 interceptor launches",
+      "Sounding rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "San Nicolas Island (Navy), United States",
+    "description": "US Navy missile test facility on San Nicolas Island off the California coast. Part of the Point Mugu Sea Range. Used for air defense and missile interceptor testing.",
+    "geojson": "san-clemente.geojson"
+  },
+  {
+    "code": "san-marco-scout",
+    "name": "Wallops-San Marco Scout Program",
+    "country": "United States / Italy",
+    "operator": "NASA / Italian Space Agency",
+    "coordinates": "2.9400°S, 40.2100°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Scout rocket orbital launches",
+      "San Marco 2-5 satellites"
+    ],
+    "orbitalInclinationRange": "3°–37°",
+    "location": "Wallops-San Marco Scout Program, United States / Italy",
+    "description": "Joint US-Italian equatorial launch program using Scout rockets from the San Marco platform. Key contributor to international space cooperation in the 1960s-1980s.",
+    "geojson": "san-marco-scout.geojson"
+  },
+  {
+    "code": "san-marco",
+    "name": "San Marco Platform",
+    "country": "Kenya (Italian-operated)",
+    "operator": "ASI / University of Rome",
+    "coordinates": "2.9383°S, 40.2130°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "San Marco satellites",
+      "Scout rocket launches",
+      "Uhuru X-ray satellite"
+    ],
+    "orbitalInclinationRange": "2°–38°",
+    "location": "San Marco Platform, Kenya (Italian-operated)",
+    "description": "A sea-based equatorial launch platform off the coast of Kenya near Malindi. Operated by Italy from 1964–1988, it was the only sea-launch platform used by a non-maritime power. Now decommissioned.",
+    "geojson": "san-marco.geojson"
+  },
+  {
+    "code": "santa-maria-azores",
+    "name": "Santa Maria Spaceport (planned)",
+    "country": "Portugal",
+    "operator": "Azores International Research Center",
+    "coordinates": "36.9714°N, 25.0906°W",
+    "status": "Planned",
+    "notableLaunches": [
+      "Planned European smallsat launches"
+    ],
+    "orbitalInclinationRange": "37°–98°",
+    "location": "Santa Maria Spaceport (planned), Portugal",
+    "description": "Proposed launch site on Santa Maria Island in the Azores. Would leverage mid-Atlantic location for European small satellite launches with favorable launch azimuths.",
+    "geojson": "santa-maria-azores.geojson"
+  },
+  {
+    "code": "satish-dhawan",
+    "name": "Satish Dhawan Space Centre (SHAR)",
+    "country": "India",
+    "operator": "ISRO",
+    "coordinates": "13.7199°N, 80.2304°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Chandrayaan-1/2/3",
+      "Mangalyaan (Mars)",
+      "104 satellites single launch",
+      "Gaganyaan test flights"
+    ],
+    "orbitalInclinationRange": "13°–99°",
+    "location": "Satish Dhawan Space Centre (SHAR), India",
+    "description": "India's primary orbital launch site on Sriharikota island, Andhra Pradesh. Home to PSLV and GSLV launches. Achieved fame with cost-effective Mars and Moon missions.",
+    "geojson": "satish-dhawan.geojson"
+  },
+  {
+    "code": "semnan-sounding",
+    "name": "Semnan Sounding Rocket Site",
+    "country": "Iran",
+    "operator": "ISA",
+    "coordinates": "35.2300°N, 53.9300°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Kavoshgar sounding rockets",
+      "Biological payload launches",
+      "Suborbital research"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Semnan Sounding Rocket Site, Iran",
+    "description": "Sounding rocket facilities adjacent to the main Semnan launch center. Used for biological and atmospheric research rockets as part of Iran's space technology development program.",
+    "geojson": "semnan-sounding.geojson"
+  },
+  {
+    "code": "semnan",
+    "name": "Semnan Space Center (Imam Khomeini)",
+    "country": "Iran",
+    "operator": "ISA",
+    "coordinates": "35.2346°N, 53.9210°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Omid (Iran's first satellite)",
+      "Noor-1 (military satellite)",
+      "Zafar",
+      "Nahid-1"
+    ],
+    "orbitalInclinationRange": "55°–80°",
+    "location": "Semnan Space Center (Imam Khomeini), Iran",
+    "description": "Iran's primary civilian space launch facility in Semnan province. Launches Safir and Simorgh rockets for satellite deployment. Subject to international scrutiny regarding dual-use technology.",
+    "geojson": "semnan.geojson"
+  },
+  {
+    "code": "shahrud-iran",
+    "name": "Shahrud Launch Area",
+    "country": "Iran",
+    "operator": "IRGC",
+    "coordinates": "36.4200°N, 55.5800°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Qaem SLV tests",
+      "Military rocket development"
+    ],
+    "orbitalInclinationRange": "36°–80°",
+    "location": "Shahrud Launch Area, Iran",
+    "description": "Secondary Iranian military launch and test area near Shahrud. Used for solid-fuel rocket development and testing by the Islamic Revolutionary Guard Corps aerospace division.",
+    "geojson": "shahrud-iran.geojson"
+  },
+  {
+    "code": "sharud",
+    "name": "Shahroud Missile and Launch Complex",
+    "country": "Iran",
+    "operator": "IRGC Aerospace Force",
+    "coordinates": "36.2340°N, 55.0000°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Qased SLV / Noor satellite launches",
+      "Military satellite deployments"
+    ],
+    "orbitalInclinationRange": "55°–80°",
+    "location": "Shahroud Missile and Launch Complex, Iran",
+    "description": "Iran's military launch facility operated by the IRGC. Used solid-fuel Qased rocket to place Noor military satellites in orbit. Separate from the civilian Semnan program.",
+    "geojson": "sharud.geojson"
+  },
+  {
+    "code": "sohae",
+    "name": "Sohae Satellite Launching Station",
+    "country": "North Korea",
+    "operator": "NADA",
+    "coordinates": "39.6600°N, 124.7050°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Kwangmyongsong-3 Unit 2",
+      "Kwangmyongsong-4",
+      "Chollima-1 attempts"
+    ],
+    "orbitalInclinationRange": "97°–98° (SSO)",
+    "location": "Sohae Satellite Launching Station, North Korea",
+    "description": "North Korea's primary orbital launch facility on the west coast. Successfully placed satellites in orbit in 2012 and 2016. Subject to international sanctions due to dual-use missile technology concerns.",
+    "geojson": "sohae.geojson"
+  },
+  {
+    "code": "spaceport-america",
+    "name": "Spaceport America",
+    "country": "United States",
+    "operator": "New Mexico Spaceport Authority",
+    "coordinates": "32.9903°N, 106.9750°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Virgin Galactic SpaceShipTwo flights",
+      "UP Aerospace launches",
+      "SpinLaunch tests"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Spaceport America, United States",
+    "description": "The world's first purpose-built commercial spaceport in New Mexico. Home base for Virgin Galactic's suborbital tourism flights. Also hosts UP Aerospace sounding rockets and SpinLaunch testing.",
+    "geojson": "spaceport-america.geojson"
+  },
+  {
+    "code": "sriharikota-old",
+    "name": "Sriharikota (SLV Pad)",
+    "country": "India",
+    "operator": "ISRO",
+    "coordinates": "13.7330°N, 80.2350°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "SLV-3 (India's first orbital, 1980)",
+      "ASLV flights"
+    ],
+    "orbitalInclinationRange": "13°–22°",
+    "location": "Sriharikota (SLV Pad), India",
+    "description": "The original launch pad at Sriharikota used for India's first satellite launch vehicle. Now part of the larger Satish Dhawan Space Centre complex but the original SLV pad is historical.",
+    "geojson": "sriharikota-old.geojson"
+  },
+  {
+    "code": "sriharikota-sounding",
+    "name": "TERLS Sounding Rocket Complex",
+    "country": "India",
+    "operator": "ISRO",
+    "coordinates": "8.5400°N, 76.8600°E",
+    "status": "Active",
+    "notableLaunches": [
+      "RH-200",
+      "RH-300",
+      "RH-560 sounding rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "TERLS Sounding Rocket Complex, India",
+    "description": "Part of the Thumba Equatorial Rocket Launching Station complex. Continues active sounding rocket operations for atmospheric and ionospheric research near the geomagnetic equator.",
+    "geojson": "sriharikota-sounding.geojson"
+  },
+  {
+    "code": "starbase",
+    "name": "Starbase (SpaceX South Texas)",
+    "country": "United States",
+    "operator": "SpaceX",
+    "coordinates": "25.9972°N, 97.1571°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Starship IFT-1 through IFT-6",
+      "First full-stack Starship flights",
+      "Mechazilla booster catch"
+    ],
+    "orbitalInclinationRange": "26°–60°",
+    "location": "Starbase (SpaceX South Texas), United States",
+    "description": "SpaceX's Starship development and launch facility at Boca Chica, Texas. Site of the world's most powerful rocket ever flown. Features innovative launch tower with booster catch capability.",
+    "geojson": "starbase.geojson"
+  },
+  {
+    "code": "sutherland-scotland",
+    "name": "Space Hub Sutherland",
+    "country": "United Kingdom",
+    "operator": "Orbex / HIE",
+    "coordinates": "58.5167°N, 4.2667°W",
+    "status": "Planned",
+    "notableLaunches": [
+      "Orbex Prime (planned first launch)"
+    ],
+    "orbitalInclinationRange": "88°–98° (polar/SSO)",
+    "location": "Space Hub Sutherland, United Kingdom",
+    "description": "Planned vertical launch site in the Scottish Highlands. Being developed by Orbex for its Prime rocket, targeting polar and SSO small satellite launches.",
+    "geojson": "sutherland-scotland.geojson"
+  },
+  {
+    "code": "sutherland",
+    "name": "SaxaVord Spaceport (Shetland)",
+    "country": "United Kingdom",
+    "operator": "SaxaVord UK",
+    "coordinates": "60.8233°N, 0.8667°W",
+    "status": "Active",
+    "notableLaunches": [
+      "First UK vertical orbital launch (planned)"
+    ],
+    "orbitalInclinationRange": "88°–98° (polar/SSO)",
+    "location": "SaxaVord Spaceport (Shetland), United Kingdom",
+    "description": "The United Kingdom's first vertical orbital launch site on Unst, Shetland Islands. Designed primarily for polar and SSO small satellite launches. Multiple launch companies plan to operate here.",
+    "geojson": "sutherland.geojson"
+  },
+  {
+    "code": "svobodny",
+    "name": "Svobodny Cosmodrome",
+    "country": "Russia",
+    "operator": "Russian Strategic Rocket Forces",
+    "coordinates": "51.7000°N, 128.0000°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Start-1 rockets",
+      "Early Russian commercial launches"
+    ],
+    "orbitalInclinationRange": "51°–98°",
+    "location": "Svobodny Cosmodrome, Russia",
+    "description": "Former Russian launch facility near Tsiolkovsky in the Amur Oblast. Operated from 1996-2007 as a stopgap before Vostochny was built. Used converted ICBMs for satellite launches.",
+    "geojson": "svobodny.geojson"
+  },
+  {
+    "code": "taiki",
+    "name": "Taiki Aerospace Research Field",
+    "country": "Japan",
+    "operator": "JAXA / Interstellar Technologies",
+    "coordinates": "42.5016°N, 143.4380°E",
+    "status": "Active",
+    "notableLaunches": [
+      "MOMO sounding rockets",
+      "Interstellar Technologies ZERO (planned orbital)"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital, orbital planned)",
+    "location": "Taiki Aerospace Research Field, Japan",
+    "description": "Japanese commercial launch site in Hokkaido. Home to Interstellar Technologies' MOMO sounding rocket program. The company plans orbital launches of its ZERO rocket from this location.",
+    "geojson": "taiki.geojson"
+  },
+  {
+    "code": "taiyuan",
+    "name": "Taiyuan Satellite Launch Center",
+    "country": "China",
+    "operator": "CNSA / CASC",
+    "coordinates": "38.8490°N, 111.6080°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Yaogan reconnaissance satellites",
+      "Gaofen Earth observation",
+      "Haiyang ocean satellites"
+    ],
+    "orbitalInclinationRange": "83°–98° (polar/SSO)",
+    "location": "Taiyuan Satellite Launch Center, China",
+    "description": "China's center for sun-synchronous and polar orbit launches in Shanxi province. Primarily used for Earth observation, weather, and reconnaissance satellite deployments.",
+    "geojson": "taiyuan.geojson"
+  },
+  {
+    "code": "tanegashima",
+    "name": "Tanegashima Space Center",
+    "country": "Japan",
+    "operator": "JAXA",
+    "coordinates": "30.4010°N, 130.9690°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Hayabusa 1 & 2",
+      "SELENE (Kaguya)",
+      "H-IIA/B series",
+      "SLIM lunar lander"
+    ],
+    "orbitalInclinationRange": "30°–98°",
+    "location": "Tanegashima Space Center, Japan",
+    "description": "Japan's largest launch facility on Tanegashima island. Known as one of the most beautiful launch sites in the world. Launches H-IIA, H3, and Epsilon S rockets for JAXA missions.",
+    "geojson": "tanegashima.geojson"
+  },
+  {
+    "code": "thumba",
+    "name": "Thumba Equatorial Rocket Launching Station",
+    "country": "India",
+    "operator": "ISRO",
+    "coordinates": "8.5373°N, 76.8653°E",
+    "status": "Active",
+    "notableLaunches": [
+      "India's first sounding rocket (1963)",
+      "Nike-Apache launches",
+      "RH-series sounding rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "Thumba Equatorial Rocket Launching Station, India",
+    "description": "India's first rocket launch site near Thiruvananthapuram, Kerala. Located near the magnetic equator, ideal for ionospheric studies. Now primarily used for sounding rockets and technology development.",
+    "geojson": "thumba.geojson"
+  },
+  {
+    "code": "tonghae",
+    "name": "Tonghae Satellite Launching Ground (Musudan-ri)",
+    "country": "North Korea",
+    "operator": "NADA",
+    "coordinates": "40.8560°N, 129.6660°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Paektusan (Unha prototype)",
+      "Early DPRK missile tests"
+    ],
+    "orbitalInclinationRange": "40°–88°",
+    "location": "Tonghae Satellite Launching Ground (Musudan-ri), North Korea",
+    "description": "North Korea's original east-coast launch site. Used for early long-range missile and space launch attempts. Largely superseded by Sohae for orbital launches.",
+    "geojson": "tonghae.geojson"
+  },
+  {
+    "code": "uchinada",
+    "name": "Noshiro Rocket Testing Center",
+    "country": "Japan",
+    "operator": "JAXA",
+    "coordinates": "40.2281°N, 140.0089°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Solid rocket motor tests",
+      "S-series sounding rockets",
+      "SS-520 launches"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital, except SS-520-5)",
+    "location": "Noshiro Rocket Testing Center, Japan",
+    "description": "JAXA's rocket testing facility in Akita Prefecture. Famous for the SS-520-5, the smallest rocket to put a satellite in orbit (2018). Primarily used for engine testing and sounding rockets.",
+    "geojson": "uchinada.geojson"
+  },
+  {
+    "code": "uchinoura",
+    "name": "Uchinoura Space Center",
+    "country": "Japan",
+    "operator": "JAXA",
+    "coordinates": "31.2510°N, 131.0790°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Ohsumi (Japan's first satellite)",
+      "Epsilon rocket launches",
+      "SPRINT-A"
+    ],
+    "orbitalInclinationRange": "31°–98° (primarily SSO)",
+    "location": "Uchinoura Space Center, Japan",
+    "description": "Japan's original space launch site, formerly Kagoshima Space Center. Primarily used for solid-fuel Epsilon rockets and sounding rockets. Historic site of Japan's first satellite launch in 1970.",
+    "geojson": "uchinoura.geojson"
+  },
+  {
+    "code": "vandenberg-sfb",
+    "name": "Vandenberg Space Force Base",
+    "country": "United States",
+    "operator": "USSF / SpaceX / ULA",
+    "coordinates": "34.7420°N, 120.5724°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Corona (first spy satellite)",
+      "Landsat 1",
+      "NROL missions",
+      "Iridium constellation"
+    ],
+    "orbitalInclinationRange": "51°–145° (polar/SSO)",
+    "location": "Vandenberg Space Force Base, United States",
+    "description": "Primary US West Coast launch site in California, specializing in polar and sun-synchronous orbits. Hosts SpaceX Falcon 9, ULA Delta IV Heavy, and planned Vulcan launches.",
+    "geojson": "vandenberg-sfb.geojson"
+  },
+  {
+    "code": "vostochny",
+    "name": "Vostochny Cosmodrome",
+    "country": "Russia",
+    "operator": "Roscosmos",
+    "coordinates": "51.8844°N, 128.3339°E",
+    "status": "Active",
+    "notableLaunches": [
+      "First Soyuz-2.1a from Vostochny (2016)",
+      "Luna 25",
+      "Meteor-M weather satellites"
+    ],
+    "orbitalInclinationRange": "51°–98°",
+    "location": "Vostochny Cosmodrome, Russia",
+    "description": "Russia's newest cosmodrome in the Amur Oblast, built to reduce dependence on Baikonur. Operational since 2016 with Soyuz-2 rockets, with Angara facilities under construction.",
+    "geojson": "vostochny.geojson"
+  },
+  {
+    "code": "wallops",
+    "name": "Wallops Flight Facility",
+    "country": "United States",
+    "operator": "NASA / Northrop Grumman",
+    "coordinates": "37.8402°N, 75.4788°W",
+    "status": "Active",
+    "notableLaunches": [
+      "Antares/Cygnus ISS resupply",
+      "Rocket Lab Electron (MARS pad)",
+      "Sounding rockets"
+    ],
+    "orbitalInclinationRange": "38°–60°",
+    "location": "Wallops Flight Facility, United States",
+    "description": "NASA's launch facility on Wallops Island, Virginia. Supports Northrop Grumman Antares ISS resupply missions and various sounding rocket campaigns. Rocket Lab also launches Electron from here.",
+    "geojson": "wallops.geojson"
+  },
+  {
+    "code": "wenchang",
+    "name": "Wenchang Space Launch Site",
+    "country": "China",
+    "operator": "CNSA / CASC",
+    "coordinates": "19.6145°N, 110.9510°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Long March 5 maiden flight",
+      "Tianwen-1 (Mars)",
+      "Chang'e 5 (lunar sample return)",
+      "Tiangong modules"
+    ],
+    "orbitalInclinationRange": "19°–59°",
+    "location": "Wenchang Space Launch Site, China",
+    "description": "China's newest and most southerly launch center on Hainan Island. Its coastal location enables large-diameter rocket transport by sea. Launches Long March 5/7/8 rockets.",
+    "geojson": "wenchang.geojson"
+  },
+  {
+    "code": "white-sands",
+    "name": "White Sands Missile Range",
+    "country": "United States",
+    "operator": "US Army",
+    "coordinates": "32.3894°N, 106.4781°W",
+    "status": "Active",
+    "notableLaunches": [
+      "V-2 tests (post-WWII)",
+      "WAC Corporal",
+      "Trinity nuclear test (adjacent)",
+      "Sounding rockets"
+    ],
+    "orbitalInclinationRange": "N/A (suborbital)",
+    "location": "White Sands Missile Range, United States",
+    "description": "Historic US Army test range in New Mexico. First US V-2 launches, the WAC Corporal (first US sounding rocket), and thousands of missile tests. Still active for suborbital launches and testing.",
+    "geojson": "white-sands.geojson"
+  },
+  {
+    "code": "woomera",
+    "name": "Woomera Test Range",
+    "country": "Australia",
+    "operator": "Australian DOD / RAAF",
+    "coordinates": "31.1000°S, 136.8340°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "WRESAT (Australia's first satellite, 1967)",
+      "Europa rocket tests",
+      "Black Arrow launches"
+    ],
+    "orbitalInclinationRange": "83°–96°",
+    "location": "Woomera Test Range, Australia",
+    "description": "Historic Australian launch range in South Australia. Launched Australia's first satellite (WRESAT) in 1967 using a US Redstone rocket. Also used for British Black Arrow and European Europa rocket programs.",
+    "geojson": "woomera.geojson"
+  },
+  {
+    "code": "wuzhai",
+    "name": "Wuzhai Satellite Launch Center (Kelan)",
+    "country": "China",
+    "operator": "PLA / CASC",
+    "coordinates": "38.8700°N, 111.5700°E",
+    "status": "Active",
+    "notableLaunches": [
+      "Kuaizhou launches",
+      "Commercial smallsat launches",
+      "Military tests"
+    ],
+    "orbitalInclinationRange": "83°–98°",
+    "location": "Wuzhai Satellite Launch Center (Kelan), China",
+    "description": "Chinese launch facility near Taiyuan used for Kuaizhou solid-fuel rockets. Supports rapid-response commercial and military launches.",
+    "geojson": "wuzhai.geojson"
+  },
+  {
+    "code": "xichang",
+    "name": "Xichang Satellite Launch Center",
+    "country": "China",
+    "operator": "CNSA / CASC",
+    "coordinates": "28.2468°N, 102.0267°E",
+    "status": "Active",
+    "notableLaunches": [
+      "BeiDou constellation",
+      "Chang'e lunar probes",
+      "Fengyun weather satellites"
+    ],
+    "orbitalInclinationRange": "28°–59°",
+    "location": "Xichang Satellite Launch Center, China",
+    "description": "China's primary center for geostationary orbit launches in Sichuan province. Key site for the BeiDou navigation system, Chang'e lunar exploration program, and communications satellites.",
+    "geojson": "xichang.geojson"
+  },
+  {
+    "code": "yasny",
+    "name": "Yasny Launch Base (Dombarovsky)",
+    "country": "Russia",
+    "operator": "ISC Kosmotras",
+    "coordinates": "51.2080°N, 59.8500°E",
+    "status": "Historical",
+    "notableLaunches": [
+      "Dnepr rocket (converted SS-18)",
+      "CubeSat rideshares",
+      "DubaiSat-1"
+    ],
+    "orbitalInclinationRange": "51°–98° (polar/SSO)",
+    "location": "Yasny Launch Base (Dombarovsky), Russia",
+    "description": "Russian launch base using converted RS-20 (SS-18 Satan) ICBMs as Dnepr launch vehicles from former missile silos. Launched numerous small satellites before the program ended.",
+    "geojson": "yasny.geojson"
+  }
+]

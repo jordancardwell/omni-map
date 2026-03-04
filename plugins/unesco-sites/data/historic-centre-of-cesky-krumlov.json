@@ -1,0 +1,14 @@
+{
+  "code": "historic-centre-of-cesky-krumlov",
+  "name": "Historic Centre of Český Krumlov",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the banks of the Vltava river, the town was built around a 13th-century castle with Gothic, Renaissance and Baroque elements. It is an outstanding example of a small central European medieval town whose architectural heritage has remained intact thanks to its peaceful evolution over more than five centuries.",
+  "danger": false,
+  "geojson": "historic-centre-of-cesky-krumlov.geojson"
+}

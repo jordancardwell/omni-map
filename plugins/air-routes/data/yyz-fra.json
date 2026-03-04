@@ -1,0 +1,18 @@
+{
+  "code": "yyz-fra",
+  "name": "Toronto — Frankfurt",
+  "airports": [
+    "YYZ",
+    "FRA"
+  ],
+  "distanceKm": 6343,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Air Canada",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–FRA route between Toronto and Frankfurt. Distance: 6,343 km. ~30 weekly flights operated by Air Canada, Lufthansa.",
+  "geojson": "yyz-fra.geojson"
+}

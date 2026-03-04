@@ -1,0 +1,17 @@
+{
+  "code": "bos-ams",
+  "name": "Boston — Amsterdam",
+  "airports": [
+    "BOS",
+    "AMS"
+  ],
+  "distanceKm": 5548,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "BOS–AMS route between Boston and Amsterdam. Distance: 5,548 km. ~35 weekly flights operated by Delta.",
+  "geojson": "bos-ams.geojson"
+}

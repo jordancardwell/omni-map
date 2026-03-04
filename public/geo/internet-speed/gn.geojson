@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gn","name":"Guinea","country":"GN","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-15,7.2],[-15,12.7],[-7.6,12.7],[-7.6,7.2],[-15,7.2]]]}}]}

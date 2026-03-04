@@ -1,0 +1,19 @@
+{
+  "code": "maui-dolphin",
+  "name": "Maui Dolphin",
+  "scientificName": "Cephalorhynchus hectori maui",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~63 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal marine waters",
+  "threats": [
+    "Bycatch in set nets",
+    "Trawl fishing",
+    "Disease",
+    "Toxoplasmosis"
+  ],
+  "conservationEfforts": "Set net and trawl restrictions along the west coast of North Island. Threat Management Plan coordinates government and stakeholder actions. Population remains critically low.",
+  "description": "The world's smallest and rarest marine dolphin subspecies, found only off the west coast of New Zealand's North Island. They are identified by their distinctive rounded dorsal fin.",
+  "geojson": "maui-dolphin.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "norwegian",
+  "name": "Norwegian Current",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "North Atlantic Drift",
+  "destination": "Barents Sea / Arctic Ocean",
+  "climateEffects": [
+    "Keeps Norwegian coast ice-free",
+    "Warms Northern Scandinavia",
+    "Major heat transport to Arctic"
+  ],
+  "connectedEcosystems": [
+    "Norwegian fjord ecosystems",
+    "Barents Sea fisheries",
+    "Lofoten Islands marine habitats"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Norwegian Current carries warm Atlantic water northward along the Norwegian coast into the Barents Sea and Arctic Ocean. It is the primary source of heat for the Norwegian and Barents seas.",
+  "geojson": "norwegian.geojson"
+}

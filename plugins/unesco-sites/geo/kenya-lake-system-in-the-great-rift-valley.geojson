@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.24,
+          -0.4425
+        ]
+      },
+      "properties": {
+        "code": "kenya-lake-system-in-the-great-rift-valley",
+        "name": "Kenya Lake System in the Great Rift Valley",
+        "type": "Natural",
+        "country": "Kenya",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

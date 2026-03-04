@@ -1,0 +1,19 @@
+{
+  "code": "sei-whale",
+  "name": "Sei Whale",
+  "scientificName": "Balaenoptera borealis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~50,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Open ocean",
+  "threats": [
+    "Ship strikes",
+    "Ocean noise",
+    "Pollution",
+    "Climate change"
+  ],
+  "conservationEfforts": "Protected by IWC moratorium on commercial whaling since 1986. Iceland and Japan have taken sei whales under controversial scientific whaling permits.",
+  "description": "One of the fastest cetaceans, capable of speeds up to 50 km/h. Sei whales were heavily targeted by whalers after blue and fin whale populations collapsed.",
+  "geojson": "sei-whale.geojson"
+}

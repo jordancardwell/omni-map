@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3530555556,
+          38.1108333333
+        ]
+      },
+      "properties": {
+        "code": "arab-norman-palermo-and-the-cathedral-churches-of-cefalu-and-monreale",
+        "name": "Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

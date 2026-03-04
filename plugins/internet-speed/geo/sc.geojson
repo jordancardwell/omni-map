@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sc","name":"Seychelles","country":"SC","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[46.2,-10],[46.2,-4],[56.3,-4],[56.3,-10],[46.2,-10]]]}}]}

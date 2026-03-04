@@ -1,0 +1,14 @@
+{
+  "code": "songkran-myanmar-water",
+  "name": "Water Festival (Dagu)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "April",
+  "origin": "Myanmar tradition",
+  "estimatedAttendance": "Millions across Myanmar",
+  "unescoICH": "Not inscribed",
+  "traditions": "Water throwing and dousing; decorated pandals with music; visiting pagodas; washing Buddha images; merit-making.",
+  "historicalBackground": "Mandalay's Thingyan celebrations are among Myanmar's most traditional, centered around the Mahamyatmuni Pagoda and the ancient royal city.",
+  "description": "Mandalay's traditional water festival celebrations, combining sacred Buddhist rituals with joyous water-dousing at the ancient royal city.",
+  "location": "Mandalay, Myanmar",
+  "geojson": "songkran-myanmar-water.geojson"
+}

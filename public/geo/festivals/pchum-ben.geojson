@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9282,
+          11.5564
+        ]
+      },
+      "properties": {
+        "code": "pchum-ben",
+        "name": "Pchum Ben",
+        "festivalType": "Religious",
+        "dateOrSeason": "September–October",
+        "location": "Phnom Penh, Cambodia"
+      }
+    }
+  ]
+}

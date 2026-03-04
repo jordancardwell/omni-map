@@ -1,0 +1,16 @@
+{
+  "code": "au-southwest",
+  "name": "AU Southwest",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2118,
+  "yearLaid": 2012,
+  "rfsDate": "2024-06",
+  "owner": "NextGen",
+  "landingPoints": [
+    "Perth, Australia",
+    "Adelaide, Australia"
+  ],
+  "description": "AU Southwest connecting Perth to Adelaide.",
+  "geojson": "au-southwest.geojson"
+}

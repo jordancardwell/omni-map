@@ -1,0 +1,15 @@
+{
+  "code": "persepolis",
+  "name": "Persepolis",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Founded by Darius I in 518 B.C., Persepolis was the capital of the Achaemenid Empire. It was built on an immense half-artificial, half-natural terrace, where the king of kings created an impressive palace complex inspired by Mesopotamian models. The importance and quality of the monumental ruins make it a unique archaeological site.",
+  "danger": false,
+  "geojson": "persepolis.geojson"
+}

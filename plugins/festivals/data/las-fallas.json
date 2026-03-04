@@ -1,0 +1,14 @@
+{
+  "code": "las-fallas",
+  "name": "Las Fallas",
+  "festivalType": "Cultural",
+  "dateOrSeason": "March 15–19",
+  "origin": "Valencian tradition",
+  "estimatedAttendance": "2+ million visitors",
+  "unescoICH": "Inscribed 2016",
+  "traditions": "Building massive satirical papier-mâché monuments (fallas); La Cremà (burning of all fallas); mascleta (daily firecrackers); flower offering to Virgin Mary.",
+  "historicalBackground": "Las Fallas originated from carpenters burning wooden forms (parots) on St. Joseph's Day. Over centuries, it evolved into an elaborate artistic tradition.",
+  "description": "Valencia's spectacular fire festival featuring towering artistic monuments that are paraded, judged, and then set ablaze in a dramatic finale.",
+  "location": "Valencia, Spain",
+  "geojson": "las-fallas.geojson"
+}

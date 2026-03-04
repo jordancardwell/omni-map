@@ -1,0 +1,14 @@
+{
+  "code": "songkran-laos",
+  "name": "Pi Mai Lao (Lao New Year)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "April 14–16",
+  "origin": "Lao tradition",
+  "estimatedAttendance": "Millions across Laos",
+  "unescoICH": "Not inscribed",
+  "traditions": "Water splashing; sand stupa building at temples; bathing Buddha images; baci ceremony; releasing birds and fish.",
+  "historicalBackground": "Pi Mai Lao is the traditional Lao New Year, similar to Songkran but with unique Lao Buddhist ceremonies. It marks the beginning of the agricultural cycle.",
+  "description": "Laos' gentle New Year celebration, where water rituals, temple visits, and the baci ceremony mark the renewal of the season.",
+  "location": "Vientiane, Laos",
+  "geojson": "songkran-laos.geojson"
+}

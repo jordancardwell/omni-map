@@ -1,0 +1,16 @@
+{
+  "code": "gel",
+  "name": "Georgian Lari",
+  "isoCode": "GEL",
+  "symbol": "₾",
+  "region": "Europe",
+  "centralBank": "National Bank of Georgia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Georgia"
+  ],
+  "countryCount": 1,
+  "description": "The Lari means 'hoard' or 'property' in Georgian. Georgia lies at the crossroads of Europe and Asia.",
+  "historicalNotes": "Introduced in 1995, replacing the provisional coupon currency used after independence from the Soviet Union.",
+  "geojson": "gel.geojson"
+}

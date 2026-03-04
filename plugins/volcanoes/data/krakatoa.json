@@ -1,0 +1,22 @@
+{
+  "code": "krakatoa",
+  "name": "Krakatoa (Anak Krakatau)",
+  "volcanoType": "Caldera",
+  "status": "Erupting/Recent",
+  "elevation": 155,
+  "lastEruption": "2023",
+  "vei": 6,
+  "country": "Indonesia",
+  "region": "Sunda Strait",
+  "location": "Sunda Strait, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Tsunami",
+    "Pyroclastic flows",
+    "Ashfall",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "The 1883 eruption was one of the deadliest in recorded history, killing over 36,000 people and producing a global shockwave. Anak Krakatau emerged in 1927 and collapsed in 2018.",
+  "description": "Krakatoa is one of the most famous volcanoes in history. The 1883 eruption destroyed most of the island and produced tsunamis up to 30 meters high. The child volcano Anak Krakatau continues to grow and erupt.",
+  "geojson": "krakatoa.geojson"
+}

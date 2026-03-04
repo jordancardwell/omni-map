@@ -1,0 +1,18 @@
+{
+  "code": "bkk-nrt",
+  "name": "Bangkok — Tokyo",
+  "airports": [
+    "BKK",
+    "NRT"
+  ],
+  "distanceKm": 4649,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Thai Airways",
+    "ANA"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "BKK–NRT route between Bangkok and Tokyo. Distance: 4,649 km. ~60 weekly flights operated by Thai Airways, ANA.",
+  "geojson": "bkk-nrt.geojson"
+}

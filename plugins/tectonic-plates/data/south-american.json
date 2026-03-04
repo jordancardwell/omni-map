@@ -1,0 +1,31 @@
+{
+  "code": "south-american",
+  "name": "South American Plate",
+  "plateClass": "Major",
+  "crustType": "Mixed",
+  "area": 43.6,
+  "movementDirection": "West-Northwest",
+  "movementRate": "25–35",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "nazca",
+    "caribbean",
+    "north-american",
+    "african",
+    "antarctic",
+    "scotia"
+  ],
+  "notableFeatures": [
+    "Andes Mountains",
+    "Mid-Atlantic Ridge (western)",
+    "Peru-Chile Trench",
+    "Amazon Basin"
+  ],
+  "description": "The South American Plate carries the continent of South America and a large portion of the Atlantic Ocean floor. Its western convergent boundary with the Nazca Plate has created the Andes — the longest continental mountain range on Earth. The Mid-Atlantic Ridge forms its divergent eastern boundary, where new oceanic crust is continuously created.",
+  "geologicalHistory": "South America separated from Africa approximately 130 million years ago as the South Atlantic Ocean opened along the Mid-Atlantic Ridge. The Andean Orogeny began around 200 million years ago and intensified during the Cenozoic, producing the modern Andes. Ongoing subduction of the Nazca Plate generates frequent earthquakes and volcanism along the western margin.",
+  "geojson": "south-american.geojson"
+}

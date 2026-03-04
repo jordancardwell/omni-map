@@ -1,0 +1,14 @@
+{
+  "code": "churches-of-the-pskov-school-of-architecture",
+  "name": "Churches of the Pskov School of Architecture",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This group of monuments is located in the historic city of Pskov, on the banks of the Velikaya River in the northwest of Russia. Characteristics of these buildings, produced by the Pskov School of Architecture, include cubic volumes, domes, porches and belfries, with the oldest elements dating back to the 12th century. Churches and cathedrals are integrated into the natural environment through gardens, perimeter walls and fences. Inspired by the Byzantine and Novgorod traditions, the Pskov School of Architecture reached its peak in the 15th and 16th centuries, and was one of the foremost schools in the country. It informed the evolution of Russian architecture over five centuries.",
+  "danger": false,
+  "geojson": "churches-of-the-pskov-school-of-architecture.geojson"
+}

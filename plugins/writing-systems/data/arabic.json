@@ -1,0 +1,16 @@
+{
+  "code": "arabic",
+  "name": "Arabic",
+  "scriptType": "Abjad",
+  "characters": 28,
+  "direction": "RTL",
+  "originDate": "4th century CE",
+  "sampleText": "بسم الله الرحمن الرحيم",
+  "relatedScripts": [
+    "hebrew",
+    "tifinagh"
+  ],
+  "description": "The Arabic script is the second most widely used alphabetic writing system after Latin. It is an abjad, meaning it primarily represents consonants, with optional diacritics for vowels. Arabic script is used for Arabic, Persian, Urdu, Pashto, and several other languages across the Middle East, North Africa, and South/Central Asia.",
+  "historicalNotes": "The Arabic script evolved from the Nabataean alphabet in the 4th century CE. The spread of Islam from the 7th century onward carried Arabic script across a vast region from Spain to Southeast Asia. It developed into several calligraphic styles including Naskh, Thuluth, and Nastaliq. The script was adapted for non-Arabic languages including Persian, Ottoman Turkish, Urdu, and Malay.",
+  "geojson": "arabic.geojson"
+}

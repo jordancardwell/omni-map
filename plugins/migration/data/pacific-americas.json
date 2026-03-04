@@ -1,0 +1,24 @@
+{
+  "code": "pacific-americas",
+  "name": "Pacific Americas Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Western Americas",
+  "badgeValue": "~350 species",
+  "speciesCount": "~350 migratory species including shorebirds, seabirds, and raptors",
+  "keyStopoverSites": [
+    "Copper River Delta AK",
+    "San Francisco Bay",
+    "Baja California Lagoons",
+    "Humboldt Bay",
+    "Salton Sea"
+  ],
+  "threats": [
+    "Water diversion",
+    "Urbanization",
+    "Oil spills",
+    "El Ni\u00f1o disruptions",
+    "Invasive species"
+  ],
+  "description": "The Pacific Americas Flyway runs along the western coast of the Americas from Alaska to Chile. The Bar-tailed Godwit performs the longest non-stop flight of any land bird along this route \u2014 over 11,000 km from Alaska to New Zealand without rest. The flyway's coastal wetlands are critical but threatened by water diversion for agriculture. The Salton Sea in California, once a major stopover, has been shrinking dramatically, reducing habitat for millions of birds.",
+  "geojson": "pacific-americas.geojson"
+}

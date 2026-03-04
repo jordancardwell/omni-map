@@ -1,0 +1,14 @@
+{
+  "code": "tet-vietnam",
+  "name": "Tết (Vietnamese New Year)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "January–February (varies)",
+  "origin": "Vietnamese tradition",
+  "estimatedAttendance": "100+ million Vietnamese",
+  "unescoICH": "Not inscribed",
+  "traditions": "Family reunions; ancestral altar offerings; lucky money (lì xì) in red envelopes; kumquat and peach blossom displays; bánh chưng rice cakes.",
+  "historicalBackground": "Tết Nguyên Đán is Vietnam's most important celebration, with roots in Chinese lunar New Year traditions adapted over millennia to Vietnamese culture.",
+  "description": "Vietnam's most cherished holiday, a celebration of family, ancestors, and renewal during the Lunar New Year.",
+  "location": "Hanoi, Vietnam",
+  "geojson": "tet-vietnam.geojson"
+}

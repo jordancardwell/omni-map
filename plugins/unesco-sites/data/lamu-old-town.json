@@ -1,0 +1,15 @@
+{
+  "code": "lamu-old-town",
+  "name": "Lamu Old Town",
+  "type": "Cultural",
+  "country": "Kenya",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures.",
+  "danger": false,
+  "geojson": "lamu-old-town.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22028,
+          36.42361
+        ]
+      },
+      "properties": {
+        "code": "dougga-thugga",
+        "name": "Dougga / Thugga",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

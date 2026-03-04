@@ -1,0 +1,14 @@
+{
+  "code": "white-nights",
+  "name": "White Nights Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "June–July",
+  "origin": "Russian tradition",
+  "estimatedAttendance": "1+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Ballet and opera at the Mariinsky Theatre; Scarlet Sails celebration; drawbridge openings; midnight sun walks; classical music concerts.",
+  "historicalBackground": "The festival celebrates St. Petersburg's unique geography at 59°N, where the sun barely sets in June. Peter the Great founded the city to embrace this phenomenon.",
+  "description": "St. Petersburg's magical summer celebration during the midnight sun, featuring world-class ballet, opera, and the iconic Scarlet Sails spectacle.",
+  "location": "St. Petersburg, Russia",
+  "geojson": "white-nights.geojson"
+}

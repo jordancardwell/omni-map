@@ -1,0 +1,16 @@
+{
+  "code": "sek",
+  "name": "Swedish Krona",
+  "isoCode": "SEK",
+  "symbol": "kr",
+  "region": "Europe",
+  "centralBank": "Sveriges Riksbank",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Sweden"
+  ],
+  "countryCount": 1,
+  "description": "The Swedish Krona is issued by the world's oldest central bank, Sveriges Riksbank (est. 1668). Sweden is one of the world's most cashless societies.",
+  "historicalNotes": "The krona was introduced in 1873 when Sweden joined the Scandinavian Monetary Union. Sweden is an EU member but has opted out of the Eurozone.",
+  "geojson": "sek.geojson"
+}

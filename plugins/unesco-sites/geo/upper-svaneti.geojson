@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.009,
+          42.914
+        ]
+      },
+      "properties": {
+        "code": "upper-svaneti",
+        "name": "Upper Svaneti",
+        "type": "Cultural",
+        "country": "Georgia",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

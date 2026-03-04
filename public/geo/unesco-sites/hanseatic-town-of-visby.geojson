@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.29583,
+          57.64167
+        ]
+      },
+      "properties": {
+        "code": "hanseatic-town-of-visby",
+        "name": "Hanseatic Town of Visby",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

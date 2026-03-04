@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"whale-shark","name":"Whale Shark"},"geometry":{"type":"Polygon","coordinates":[[[30,-35],[170,-35],[175,0],[170,35],[30,35],[25,0],[30,-35]]]}}]}

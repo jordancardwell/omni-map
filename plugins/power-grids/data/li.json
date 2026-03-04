@@ -1,0 +1,18 @@
+{
+  "code": "li",
+  "name": "Liechtenstein",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "J"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type J — Three round pins (Swiss style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Same as Switzerland. Swiss adapter needed for grounded plugs.",
+  "geojson": "li.geojson"
+}

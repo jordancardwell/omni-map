@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.432,
+          27.684
+        ]
+      },
+      "properties": {
+        "code": "buddha-jayanti",
+        "name": "Buddha Jayanti",
+        "festivalType": "Religious",
+        "dateOrSeason": "May (full moon)",
+        "location": "Lumbini, Nepal"
+      }
+    }
+  ]
+}

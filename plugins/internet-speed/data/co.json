@@ -1,0 +1,17 @@
+{
+  "code": "co",
+  "name": "Colombia",
+  "avgDownloadMbps": 59.6,
+  "avgUploadMbps": 18.2,
+  "avgLatencyMs": 32,
+  "mobileDownloadMbps": 22.4,
+  "mobileUploadMbps": 5.2,
+  "fixedDownloadMbps": 59.6,
+  "fixedUploadMbps": 18.2,
+  "rank": 66,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Growing fiber market. ~16% year-over-year growth.",
+  "geojson": "co.geojson"
+}

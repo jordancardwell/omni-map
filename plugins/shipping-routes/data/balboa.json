@@ -1,0 +1,14 @@
+{
+  "code": "balboa",
+  "name": "Port of Balboa",
+  "country": "Panama",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Panama Canal Route"
+  ],
+  "description": "Port of Balboa in Panama. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+  "geojson": "balboa.geojson"
+}

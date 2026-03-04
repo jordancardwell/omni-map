@@ -1,0 +1,19 @@
+{
+  "code": "wild-bactrian-camel",
+  "name": "Wild Bactrian Camel",
+  "scientificName": "Camelus ferus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Desert and semi-arid steppe",
+  "threats": [
+    "Hybridization with domestic camels",
+    "Mining",
+    "Water source competition",
+    "Hunting"
+  ],
+  "conservationEfforts": "Lop Nur Wild Camel National Nature Reserve in China. Great Gobi Strictly Protected Area in Mongolia. Wild Camel Protection Foundation coordinates conservation.",
+  "description": "Genetically distinct from domestic Bactrian camels, the wild Bactrian camel survives in some of the harshest desert environments on Earth, including former nuclear test sites in China.",
+  "geojson": "wild-bactrian-camel.geojson"
+}

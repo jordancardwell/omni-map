@@ -1,0 +1,988 @@
+[
+  {
+    "code": "utc+0",
+    "name": "Greenwich Mean Time",
+    "nativeName": "UTC±00:00",
+    "utcOffset": "UTC±00:00",
+    "utcOffsetHours": 0,
+    "offsetGroup": "4. Central (UTC±0 to +2)",
+    "ianaNames": [
+      "Europe/London",
+      "Africa/Accra",
+      "Atlantic/Reykjavik",
+      "Europe/Lisbon"
+    ],
+    "countries": [
+      "United Kingdom",
+      "Iceland",
+      "Portugal",
+      "Ireland",
+      "Ghana",
+      "Senegal",
+      "Gambia",
+      "Guinea",
+      "Sierra Leone",
+      "Liberia",
+      "Côte d'Ivoire",
+      "Mali",
+      "Burkina Faso",
+      "Mauritania"
+    ],
+    "dstRules": "UK/Ireland/Portugal observe DST as BST/IST/WEST (UTC+1 in summer); Iceland and West African countries do not",
+    "description": "The reference timezone for the world, centered on the Royal Observatory in Greenwich, London. All other time zones are defined as offsets from UTC. The UK switches to British Summer Time (BST, UTC+1) from late March to late October.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+0.geojson"
+  },
+  {
+    "code": "utc+1",
+    "name": "Central European Time",
+    "nativeName": "UTC+01:00",
+    "utcOffset": "UTC+01:00",
+    "utcOffsetHours": 1,
+    "offsetGroup": "4. Central (UTC±0 to +2)",
+    "ianaNames": [
+      "Europe/Paris",
+      "Europe/Berlin",
+      "Europe/Rome",
+      "Africa/Lagos"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "Belgium",
+      "Switzerland",
+      "Austria",
+      "Poland",
+      "Czech Republic",
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Nigeria",
+      "Cameroon",
+      "Algeria",
+      "Tunisia",
+      "Angola"
+    ],
+    "dstRules": "European countries observe DST as CEST (UTC+2 in summer, Mar–Oct); African countries do not",
+    "description": "The most populous time zone in Europe, covering the EU's economic heartland. Major cities include Paris, Berlin, Rome, Madrid, Amsterdam, and Lagos. The EU has debated abolishing seasonal clock changes since 2019.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+1.geojson"
+  },
+  {
+    "code": "utc+10",
+    "name": "Australian Eastern Standard Time",
+    "nativeName": "UTC+10:00",
+    "utcOffset": "UTC+10:00",
+    "utcOffsetHours": 10,
+    "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+    "ianaNames": [
+      "Australia/Sydney",
+      "Australia/Brisbane",
+      "Pacific/Guam",
+      "Pacific/Port_Moresby"
+    ],
+    "countries": [
+      "Australia (NSW, Victoria, Tasmania, Queensland, ACT)",
+      "Papua New Guinea",
+      "Guam (US)",
+      "Northern Mariana Islands (US)",
+      "Russia (Vladivostok)"
+    ],
+    "dstRules": "NSW/Victoria/Tasmania/ACT observe DST (UTC+11 in summer, Oct–Apr); Queensland, Guam, and PNG do not",
+    "description": "Covers Australia's most populous eastern states and major Pacific territories. Sydney and Melbourne are in this zone, though Queensland notably refuses DST, creating seasonal time differences between Brisbane and Sydney.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+10.geojson"
+  },
+  {
+    "code": "utc+10h30",
+    "name": "Lord Howe Standard Time",
+    "nativeName": "UTC+10:30",
+    "utcOffset": "UTC+10:30",
+    "utcOffsetHours": 10.5,
+    "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+    "ianaNames": [
+      "Australia/Lord_Howe"
+    ],
+    "countries": [
+      "Australia (Lord Howe Island)"
+    ],
+    "dstRules": "Observes 30-minute DST shift (UTC+11 in summer, Oct–Apr) — the only place using a 30-minute DST change",
+    "description": "Used exclusively by Lord Howe Island, a tiny Australian territory in the Tasman Sea with about 400 residents. Uniquely, Lord Howe Island advances clocks by only 30 minutes for DST (to UTC+11), rather than the standard one-hour shift.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+10h30.geojson"
+  },
+  {
+    "code": "utc+11",
+    "name": "Solomon Islands Time",
+    "nativeName": "UTC+11:00",
+    "utcOffset": "UTC+11:00",
+    "utcOffsetHours": 11,
+    "offsetGroup": "8. Pacific (UTC+11 to +14)",
+    "ianaNames": [
+      "Pacific/Guadalcanal",
+      "Pacific/Noumea",
+      "Asia/Magadan",
+      "Pacific/Norfolk"
+    ],
+    "countries": [
+      "Solomon Islands",
+      "New Caledonia (France)",
+      "Vanuatu",
+      "Russia (Magadan, Sakhalin)",
+      "Norfolk Island (Australia)",
+      "Federated States of Micronesia (Kosrae, Pohnpei)"
+    ],
+    "dstRules": "Generally no DST observed; Norfolk Island abolished DST in 2015",
+    "description": "Covers the western Pacific islands and Russia's far eastern regions. The Solomon Islands, site of crucial WWII battles, and New Caledonia, known for its vast lagoon, are the main Pacific territories in this zone.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+11.geojson"
+  },
+  {
+    "code": "utc+12",
+    "name": "New Zealand Standard Time",
+    "nativeName": "UTC+12:00",
+    "utcOffset": "UTC+12:00",
+    "utcOffsetHours": 12,
+    "offsetGroup": "8. Pacific (UTC+11 to +14)",
+    "ianaNames": [
+      "Pacific/Auckland",
+      "Pacific/Fiji",
+      "Pacific/Majuro",
+      "Pacific/Tarawa"
+    ],
+    "countries": [
+      "New Zealand",
+      "Fiji",
+      "Marshall Islands",
+      "Kiribati (Gilbert Islands)",
+      "Nauru",
+      "Tuvalu",
+      "Wake Island (US)",
+      "Russia (Kamchatka)"
+    ],
+    "dstRules": "New Zealand observes DST (UTC+13 in summer, Sep–Apr); Fiji also observes DST",
+    "description": "Covers New Zealand and numerous Pacific island nations. Auckland is the largest city in this zone. New Zealand was one of the first countries to adopt standard time in 1868, and it's among the first to see each new day (excluding UTC+13/+14 zones).",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+12.geojson"
+  },
+  {
+    "code": "utc+12h45",
+    "name": "Chatham Island Standard Time",
+    "nativeName": "UTC+12:45",
+    "utcOffset": "UTC+12:45",
+    "utcOffsetHours": 12.75,
+    "offsetGroup": "8. Pacific (UTC+11 to +14)",
+    "ianaNames": [
+      "Pacific/Chatham"
+    ],
+    "countries": [
+      "New Zealand (Chatham Islands)"
+    ],
+    "dstRules": "Observes DST (UTC+13:45 in summer, Sep–Apr)",
+    "description": "Used exclusively by New Zealand's Chatham Islands, a remote archipelago about 800 km east of the South Island. With a population of about 600, it maintains its 45-minute offset from New Zealand time, established because of its eastern longitude.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+12h45.geojson"
+  },
+  {
+    "code": "utc+13",
+    "name": "Tonga Time",
+    "nativeName": "UTC+13:00",
+    "utcOffset": "UTC+13:00",
+    "utcOffsetHours": 13,
+    "offsetGroup": "8. Pacific (UTC+11 to +14)",
+    "ianaNames": [
+      "Pacific/Tongatapu",
+      "Pacific/Apia",
+      "Pacific/Fakaofo"
+    ],
+    "countries": [
+      "Tonga",
+      "Samoa",
+      "Tokelau (NZ)",
+      "Kiribati (Phoenix Islands)"
+    ],
+    "dstRules": "Samoa observes DST (UTC+14 in summer); Tonga does not",
+    "description": "One of the first time zones to see each new day. Samoa switched from UTC-11 to UTC+13 in December 2011, skipping an entire day to align with its major trading partners Australia and New Zealand rather than the Americas.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+13.geojson"
+  },
+  {
+    "code": "utc+14",
+    "name": "Line Islands Time",
+    "nativeName": "UTC+14:00",
+    "utcOffset": "UTC+14:00",
+    "utcOffsetHours": 14,
+    "offsetGroup": "8. Pacific (UTC+11 to +14)",
+    "ianaNames": [
+      "Pacific/Kiritimati"
+    ],
+    "countries": [
+      "Kiribati (Line Islands)"
+    ],
+    "dstRules": "No DST observed",
+    "description": "The furthest ahead timezone in the world. The Line Islands, part of the Republic of Kiribati, are the first inhabited places to welcome each new day. Kiribati moved these islands from UTC-10 to UTC+14 on December 31, 1994, to unify the nation on the same calendar day.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+14.geojson"
+  },
+  {
+    "code": "utc+2",
+    "name": "Eastern European Time",
+    "nativeName": "UTC+02:00",
+    "utcOffset": "UTC+02:00",
+    "utcOffsetHours": 2,
+    "offsetGroup": "4. Central (UTC±0 to +2)",
+    "ianaNames": [
+      "Europe/Athens",
+      "Africa/Cairo",
+      "Africa/Johannesburg",
+      "Europe/Helsinki",
+      "Europe/Bucharest"
+    ],
+    "countries": [
+      "Greece",
+      "Egypt",
+      "South Africa",
+      "Finland",
+      "Romania",
+      "Bulgaria",
+      "Ukraine",
+      "Israel",
+      "Lebanon",
+      "Jordan",
+      "Libya",
+      "Mozambique",
+      "Zimbabwe",
+      "Zambia",
+      "Botswana",
+      "Namibia",
+      "Democratic Republic of the Congo (east)"
+    ],
+    "dstRules": "European countries observe DST as EEST (UTC+3 in summer); Israel uses IDT; African countries generally do not",
+    "description": "Spans from Scandinavia through Eastern Europe to southern Africa. This zone bridges three continents, covering major cities like Athens, Cairo, Helsinki, Johannesburg, and Bucharest. South Africa, the largest economy in Africa, operates on this time year-round.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+2.geojson"
+  },
+  {
+    "code": "utc+3",
+    "name": "Moscow Standard Time",
+    "nativeName": "UTC+03:00",
+    "utcOffset": "UTC+03:00",
+    "utcOffsetHours": 3,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Europe/Moscow",
+      "Africa/Nairobi",
+      "Asia/Baghdad",
+      "Asia/Riyadh"
+    ],
+    "countries": [
+      "Russia (western)",
+      "Saudi Arabia",
+      "Iraq",
+      "Kenya",
+      "Ethiopia",
+      "Tanzania",
+      "Uganda",
+      "Somalia",
+      "Eritrea",
+      "Djibouti",
+      "Bahrain",
+      "Kuwait",
+      "Qatar",
+      "Turkey",
+      "Belarus"
+    ],
+    "dstRules": "Russia and Turkey permanently on UTC+3 (no DST); most countries in this zone do not observe DST",
+    "description": "A major timezone spanning from Eastern Europe through the Middle East to East Africa. Moscow moved to permanent UTC+3 in 2014, and Turkey followed suit in 2016. Riyadh, Nairobi, and Istanbul are among the largest cities in this zone.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+3.geojson"
+  },
+  {
+    "code": "utc+3h30",
+    "name": "Iran Standard Time",
+    "nativeName": "UTC+03:30",
+    "utcOffset": "UTC+03:30",
+    "utcOffsetHours": 3.5,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Asia/Tehran"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "dstRules": "Iran observes DST (UTC+04:30 in summer, ~Mar–Sep)",
+    "description": "Used exclusively by Iran, one of the most populous countries with a half-hour offset timezone. Iran's calendar follows the Solar Hijri system, and its DST schedule differs from Western conventions, typically starting around the March equinox.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+3h30.geojson"
+  },
+  {
+    "code": "utc+4",
+    "name": "Gulf Standard Time",
+    "nativeName": "UTC+04:00",
+    "utcOffset": "UTC+04:00",
+    "utcOffsetHours": 4,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Asia/Dubai",
+      "Asia/Baku",
+      "Asia/Tbilisi",
+      "Indian/Mauritius"
+    ],
+    "countries": [
+      "United Arab Emirates",
+      "Oman",
+      "Azerbaijan",
+      "Georgia",
+      "Armenia",
+      "Mauritius",
+      "Réunion (France)",
+      "Seychelles"
+    ],
+    "dstRules": "Generally no DST observed in this zone",
+    "description": "Covers the Persian Gulf states, South Caucasus, and western Indian Ocean islands. Dubai and Abu Dhabi have become global hubs for commerce and aviation, strategically positioned between European and Asian time zones.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+4.geojson"
+  },
+  {
+    "code": "utc+4h30",
+    "name": "Afghanistan Time",
+    "nativeName": "UTC+04:30",
+    "utcOffset": "UTC+04:30",
+    "utcOffsetHours": 4.5,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Asia/Kabul"
+    ],
+    "countries": [
+      "Afghanistan"
+    ],
+    "dstRules": "No DST observed",
+    "description": "Used exclusively by Afghanistan. This half-hour offset was adopted in 1945. Afghanistan's position at the crossroads of Central and South Asia is reflected in its unique timezone, bridging the Gulf and South Asian time zones.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+4h30.geojson"
+  },
+  {
+    "code": "utc+5",
+    "name": "Pakistan Standard Time",
+    "nativeName": "UTC+05:00",
+    "utcOffset": "UTC+05:00",
+    "utcOffsetHours": 5,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Asia/Karachi",
+      "Asia/Tashkent",
+      "Asia/Yekaterinburg",
+      "Indian/Maldives"
+    ],
+    "countries": [
+      "Pakistan",
+      "Uzbekistan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Russia (Urals/Yekaterinburg)",
+      "Maldives"
+    ],
+    "dstRules": "Generally no DST observed; Pakistan briefly used DST in 2002 and 2008–2009",
+    "description": "Spans from the Ural Mountains in Russia through Central Asia to Pakistan. Karachi and Lahore are among the most populous cities in this zone. The historical Silk Road traversed much of this timezone's territory.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+5.geojson"
+  },
+  {
+    "code": "utc+5h30",
+    "name": "India Standard Time",
+    "nativeName": "UTC+05:30",
+    "utcOffset": "UTC+05:30",
+    "utcOffsetHours": 5.5,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Asia/Kolkata",
+      "Asia/Colombo"
+    ],
+    "countries": [
+      "India",
+      "Sri Lanka"
+    ],
+    "dstRules": "No DST observed",
+    "description": "One of the world's most populous time zones, covering over 1.4 billion people in India alone. India uses a single time zone despite spanning roughly 30° of longitude. Sri Lanka adopted UTC+05:30 in 2006 to align with India.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+5h30.geojson"
+  },
+  {
+    "code": "utc+5h45",
+    "name": "Nepal Time",
+    "nativeName": "UTC+05:45",
+    "utcOffset": "UTC+05:45",
+    "utcOffsetHours": 5.75,
+    "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+    "ianaNames": [
+      "Asia/Kathmandu"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "dstRules": "No DST observed",
+    "description": "The only timezone in the world with a 45-minute offset from UTC. Nepal adopted this unique offset in 1986 to distinguish itself from India's UTC+05:30. The offset is based on the meridian of Kathmandu (85°19' E), calculated as 5 hours and 45 minutes ahead of GMT.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+5h45.geojson"
+  },
+  {
+    "code": "utc+6",
+    "name": "Bangladesh Standard Time",
+    "nativeName": "UTC+06:00",
+    "utcOffset": "UTC+06:00",
+    "utcOffsetHours": 6,
+    "offsetGroup": "6. East (UTC+6 to +7)",
+    "ianaNames": [
+      "Asia/Dhaka",
+      "Asia/Almaty",
+      "Asia/Omsk"
+    ],
+    "countries": [
+      "Bangladesh",
+      "Kazakhstan (most)",
+      "Bhutan",
+      "Kyrgyzstan",
+      "Russia (Omsk)"
+    ],
+    "dstRules": "Generally no DST observed; Bangladesh briefly used DST in 2009",
+    "description": "Covers the densely populated Bangladesh delta region and the vast steppes of Central Asia. Dhaka is one of the most densely populated cities in the world. Kazakhstan's largest city, Almaty, also operates on this time.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+6.geojson"
+  },
+  {
+    "code": "utc+6h30",
+    "name": "Myanmar Time",
+    "nativeName": "UTC+06:30",
+    "utcOffset": "UTC+06:30",
+    "utcOffsetHours": 6.5,
+    "offsetGroup": "6. East (UTC+6 to +7)",
+    "ianaNames": [
+      "Asia/Yangon",
+      "Indian/Cocos"
+    ],
+    "countries": [
+      "Myanmar",
+      "Cocos (Keeling) Islands (Australia)"
+    ],
+    "dstRules": "No DST observed",
+    "description": "Used primarily by Myanmar (Burma), a country of over 54 million people in Southeast Asia. This half-hour offset timezone reflects Myanmar's geographic position between the Indian subcontinent and mainland Southeast Asia.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+6h30.geojson"
+  },
+  {
+    "code": "utc+7",
+    "name": "Indochina Time",
+    "nativeName": "UTC+07:00",
+    "utcOffset": "UTC+07:00",
+    "utcOffsetHours": 7,
+    "offsetGroup": "6. East (UTC+6 to +7)",
+    "ianaNames": [
+      "Asia/Bangkok",
+      "Asia/Jakarta",
+      "Asia/Ho_Chi_Minh",
+      "Asia/Krasnoyarsk"
+    ],
+    "countries": [
+      "Thailand",
+      "Vietnam",
+      "Indonesia (western)",
+      "Cambodia",
+      "Laos",
+      "Russia (Krasnoyarsk)",
+      "Christmas Island (Australia)"
+    ],
+    "dstRules": "No DST observed in any country using this timezone",
+    "description": "Covers the heart of mainland Southeast Asia and western Indonesia. Bangkok, Jakarta, and Ho Chi Minh City are major economic centers. The combined population of this timezone exceeds 400 million people.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+7.geojson"
+  },
+  {
+    "code": "utc+8",
+    "name": "China Standard Time",
+    "nativeName": "UTC+08:00",
+    "utcOffset": "UTC+08:00",
+    "utcOffsetHours": 8,
+    "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+    "ianaNames": [
+      "Asia/Shanghai",
+      "Asia/Singapore",
+      "Asia/Taipei",
+      "Australia/Perth",
+      "Asia/Irkutsk"
+    ],
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan",
+      "Philippines",
+      "Malaysia",
+      "Indonesia (central)",
+      "Australia (Western Australia)",
+      "Brunei",
+      "Mongolia",
+      "Russia (Irkutsk)",
+      "Hong Kong",
+      "Macau"
+    ],
+    "dstRules": "Generally no DST observed; China uses a single timezone for the entire country despite spanning 5 geographic zones",
+    "description": "The world's most populous time zone, covering over 1.7 billion people. China controversially uses a single timezone (Beijing Time) across its vast territory. Singapore, despite being geographically at UTC+7, uses UTC+8 for economic alignment with China and Malaysia.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+8.geojson"
+  },
+  {
+    "code": "utc+8h45",
+    "name": "Australian Central Western Time",
+    "nativeName": "UTC+08:45",
+    "utcOffset": "UTC+08:45",
+    "utcOffsetHours": 8.75,
+    "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+    "ianaNames": [
+      "Australia/Eucla"
+    ],
+    "countries": [
+      "Australia (Eucla region, Western Australia border)"
+    ],
+    "dstRules": "Unofficially observes DST (+09:45 in summer); not recognized by Australian federal law",
+    "description": "One of the world's rarest time zones, used by a tiny community along the Western Australia–South Australia border near Eucla. With only a few hundred residents, this 45-minute offset zone is an unofficial compromise between Perth (UTC+8) and Adelaide (UTC+9:30).",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+8h45.geojson"
+  },
+  {
+    "code": "utc+9",
+    "name": "Japan Standard Time",
+    "nativeName": "UTC+09:00",
+    "utcOffset": "UTC+09:00",
+    "utcOffsetHours": 9,
+    "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+    "ianaNames": [
+      "Asia/Tokyo",
+      "Asia/Seoul",
+      "Asia/Yakutsk",
+      "Pacific/Palau"
+    ],
+    "countries": [
+      "Japan",
+      "South Korea",
+      "North Korea",
+      "Palau",
+      "East Timor",
+      "Russia (Yakutsk)",
+      "Indonesia (eastern)"
+    ],
+    "dstRules": "No DST observed in Japan or South Korea; Japan abolished DST after WWII occupation ended",
+    "description": "Covers the economic powerhouses of Japan and South Korea. Tokyo is the world's most populous metropolitan area. Japan experimented with DST during the US occupation (1948–1951) but abandoned it due to public opposition.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+9.geojson"
+  },
+  {
+    "code": "utc+9h30",
+    "name": "Australian Central Standard Time",
+    "nativeName": "UTC+09:30",
+    "utcOffset": "UTC+09:30",
+    "utcOffsetHours": 9.5,
+    "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+    "ianaNames": [
+      "Australia/Adelaide",
+      "Australia/Darwin"
+    ],
+    "countries": [
+      "Australia (South Australia, Northern Territory)"
+    ],
+    "dstRules": "South Australia observes DST (UTC+10:30 in summer, Oct–Apr); Northern Territory does not",
+    "description": "Covers Australia's central states. Adelaide (South Australia) observes DST while Darwin (Northern Territory) does not, creating a seasonal time difference within the same standard timezone. The half-hour offset dates back to colonial-era telegraph coordination.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc+9h30.geojson"
+  },
+  {
+    "code": "utc-1",
+    "name": "Azores Standard Time",
+    "nativeName": "UTC-01:00",
+    "utcOffset": "UTC-01:00",
+    "utcOffsetHours": -1,
+    "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+    "ianaNames": [
+      "Atlantic/Azores",
+      "Atlantic/Cape_Verde"
+    ],
+    "countries": [
+      "Portugal (Azores)",
+      "Cape Verde"
+    ],
+    "dstRules": "Azores observe DST (UTC±0 in summer); Cape Verde does not",
+    "description": "Covers the Azores archipelago in the mid-Atlantic and the Cape Verde islands off West Africa. The Azores serve as a crucial waypoint for transatlantic travel and are known for their volcanic landscapes and mild maritime climate.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-1.geojson"
+  },
+  {
+    "code": "utc-10",
+    "name": "Hawaii-Aleutian Standard Time",
+    "nativeName": "UTC-10:00",
+    "utcOffset": "UTC-10:00",
+    "utcOffsetHours": -10,
+    "offsetGroup": "1. Far West (UTC-12 to -9)",
+    "ianaNames": [
+      "Pacific/Honolulu",
+      "Pacific/Rarotonga",
+      "Pacific/Tahiti"
+    ],
+    "countries": [
+      "Hawaii (US)",
+      "Cook Islands",
+      "French Polynesia (Tahiti)"
+    ],
+    "dstRules": "Hawaii does not observe DST; Aleutian Islands observe DST (UTC-9 in summer)",
+    "description": "Covers the Hawaiian Islands and parts of the Aleutian Islands chain. Hawaii permanently uses standard time, making it one of only two US states (along with Arizona) that do not observe DST.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-10.geojson"
+  },
+  {
+    "code": "utc-11",
+    "name": "Samoa Standard Time",
+    "nativeName": "UTC-11:00",
+    "utcOffset": "UTC-11:00",
+    "utcOffsetHours": -11,
+    "offsetGroup": "1. Far West (UTC-12 to -9)",
+    "ianaNames": [
+      "Pacific/Pago_Pago",
+      "Pacific/Niue",
+      "Pacific/Midway"
+    ],
+    "countries": [
+      "American Samoa (US)",
+      "Niue",
+      "Midway Atoll (US)"
+    ],
+    "dstRules": "No DST observed",
+    "description": "Covers American Samoa and Niue in the South Pacific. American Samoa is one of the few US territories that does not observe daylight saving time.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-11.geojson"
+  },
+  {
+    "code": "utc-12",
+    "name": "Baker Island Time",
+    "nativeName": "UTC-12:00",
+    "utcOffset": "UTC-12:00",
+    "utcOffsetHours": -12,
+    "offsetGroup": "1. Far West (UTC-12 to -9)",
+    "ianaNames": [
+      "Etc/GMT+12"
+    ],
+    "countries": [
+      "Baker Island (US)",
+      "Howland Island (US)"
+    ],
+    "dstRules": "No DST observed",
+    "description": "The furthest west timezone, observed only on uninhabited US minor outlying islands in the central Pacific Ocean. Baker and Howland Islands are among the last places on Earth to see each new day.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-12.geojson"
+  },
+  {
+    "code": "utc-2",
+    "name": "South Georgia Time",
+    "nativeName": "UTC-02:00",
+    "utcOffset": "UTC-02:00",
+    "utcOffsetHours": -2,
+    "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+    "ianaNames": [
+      "Atlantic/South_Georgia",
+      "America/Noronha"
+    ],
+    "countries": [
+      "South Georgia and the South Sandwich Islands (UK)",
+      "Brazil (Fernando de Noronha)"
+    ],
+    "dstRules": "No DST observed",
+    "description": "One of the least populated time zones, covering primarily the remote South Atlantic islands. Fernando de Noronha, a Brazilian archipelago known for its pristine beaches, and the sub-Antarctic South Georgia island are the main inhabited territories.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-2.geojson"
+  },
+  {
+    "code": "utc-3",
+    "name": "Brasília Time",
+    "nativeName": "UTC-03:00",
+    "utcOffset": "UTC-03:00",
+    "utcOffsetHours": -3,
+    "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+    "ianaNames": [
+      "America/Sao_Paulo",
+      "America/Argentina/Buenos_Aires",
+      "America/Montevideo"
+    ],
+    "countries": [
+      "Brazil (eastern)",
+      "Argentina",
+      "Uruguay",
+      "Suriname",
+      "French Guiana",
+      "Greenland (most)"
+    ],
+    "dstRules": "Generally no DST; Greenland observes DST in some areas",
+    "description": "Covers eastern South America including Brazil's most populous regions. São Paulo and Buenos Aires, two of the largest cities in the Southern Hemisphere, operate on this time. Brazil abandoned DST in 2019.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-3.geojson"
+  },
+  {
+    "code": "utc-3h30",
+    "name": "Newfoundland Standard Time",
+    "nativeName": "UTC-03:30",
+    "utcOffset": "UTC-03:30",
+    "utcOffsetHours": -3.5,
+    "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+    "ianaNames": [
+      "America/St_Johns"
+    ],
+    "countries": [
+      "Canada (Newfoundland and Labrador)"
+    ],
+    "dstRules": "Observes DST (UTC-2:30 in summer, Mar–Nov)",
+    "description": "One of the few half-hour offset zones, used by Newfoundland and Labrador in eastern Canada. St. John's, the provincial capital, is the oldest and most easterly city in North America. The half-hour offset dates back to 1884.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-3h30.geojson"
+  },
+  {
+    "code": "utc-4",
+    "name": "Atlantic Standard Time",
+    "nativeName": "UTC-04:00",
+    "utcOffset": "UTC-04:00",
+    "utcOffsetHours": -4,
+    "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+    "ianaNames": [
+      "America/Halifax",
+      "America/Caracas",
+      "America/La_Paz",
+      "America/Santiago"
+    ],
+    "countries": [
+      "Canada (Atlantic provinces)",
+      "Venezuela",
+      "Bolivia",
+      "Chile",
+      "Paraguay",
+      "Bermuda",
+      "Puerto Rico",
+      "Dominican Republic",
+      "Trinidad and Tobago"
+    ],
+    "dstRules": "Canada/Bermuda observe DST (UTC-3 in summer); most South American countries do not",
+    "description": "Spans the Caribbean, Atlantic Canada, and western South America. This zone includes a diverse mix of cultures from the maritime provinces of Canada to the tropical islands of the Caribbean and the Andes mountains.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-4.geojson"
+  },
+  {
+    "code": "utc-5",
+    "name": "Eastern Standard Time",
+    "nativeName": "UTC-05:00",
+    "utcOffset": "UTC-05:00",
+    "utcOffsetHours": -5,
+    "offsetGroup": "2. West (UTC-8 to -5)",
+    "ianaNames": [
+      "America/New_York",
+      "America/Toronto",
+      "America/Bogota",
+      "America/Lima"
+    ],
+    "countries": [
+      "US (Eastern states)",
+      "Canada (Ontario, Quebec)",
+      "Colombia",
+      "Peru",
+      "Ecuador",
+      "Cuba",
+      "Jamaica",
+      "Panama"
+    ],
+    "dstRules": "US/Canada observe DST (UTC-4 in summer, Mar–Nov); South American countries generally do not",
+    "description": "The most economically significant timezone in the Americas, home to New York City, Washington DC, Toronto, and the major financial markets. Covers the entire eastern seaboard of the US and extends into South America.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-5.geojson"
+  },
+  {
+    "code": "utc-6",
+    "name": "Central Standard Time",
+    "nativeName": "UTC-06:00",
+    "utcOffset": "UTC-06:00",
+    "utcOffsetHours": -6,
+    "offsetGroup": "2. West (UTC-8 to -5)",
+    "ianaNames": [
+      "America/Chicago",
+      "America/Mexico_City",
+      "America/Guatemala"
+    ],
+    "countries": [
+      "US (Central states)",
+      "Canada (Manitoba, Saskatchewan)",
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Belize"
+    ],
+    "dstRules": "US/Canada/Mexico observe DST (UTC-5 in summer); Central American countries do not",
+    "description": "The most populous North American time zone, covering the heartland of the United States, most of Mexico, and Central America. Major cities include Chicago, Houston, Dallas, Mexico City, and San Antonio.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-6.geojson"
+  },
+  {
+    "code": "utc-7",
+    "name": "Mountain Standard Time",
+    "nativeName": "UTC-07:00",
+    "utcOffset": "UTC-07:00",
+    "utcOffsetHours": -7,
+    "offsetGroup": "2. West (UTC-8 to -5)",
+    "ianaNames": [
+      "America/Denver",
+      "America/Edmonton",
+      "America/Phoenix"
+    ],
+    "countries": [
+      "US (Mountain states)",
+      "Canada (Alberta)",
+      "Mexico (Chihuahua)"
+    ],
+    "dstRules": "Most areas observe DST (UTC-6 in summer); Arizona does not observe DST",
+    "description": "Covers the Rocky Mountain region of North America. Arizona famously does not observe daylight saving time (except the Navajo Nation), creating a unique patchwork of time-keeping in the US Southwest.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-7.geojson"
+  },
+  {
+    "code": "utc-8",
+    "name": "Pacific Standard Time",
+    "nativeName": "UTC-08:00",
+    "utcOffset": "UTC-08:00",
+    "utcOffsetHours": -8,
+    "offsetGroup": "2. West (UTC-8 to -5)",
+    "ianaNames": [
+      "America/Los_Angeles",
+      "America/Vancouver",
+      "America/Tijuana"
+    ],
+    "countries": [
+      "US (Pacific coast)",
+      "Canada (BC)",
+      "Mexico (Baja California)"
+    ],
+    "dstRules": "Observes DST (UTC-7 in summer, Mar–Nov in US/Canada)",
+    "description": "Covers the Pacific coast of North America including major cities like Los Angeles, San Francisco, Seattle, and Vancouver. Home to Silicon Valley and Hollywood, this timezone spans a region of enormous economic and cultural influence.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-8.geojson"
+  },
+  {
+    "code": "utc-9",
+    "name": "Alaska Standard Time",
+    "nativeName": "UTC-09:00",
+    "utcOffset": "UTC-09:00",
+    "utcOffsetHours": -9,
+    "offsetGroup": "1. Far West (UTC-12 to -9)",
+    "ianaNames": [
+      "America/Anchorage",
+      "Pacific/Gambier"
+    ],
+    "countries": [
+      "Alaska (US)",
+      "Gambier Islands (France)"
+    ],
+    "dstRules": "Alaska observes DST (UTC-8 in summer, Mar–Nov)",
+    "description": "Covers most of Alaska, the largest US state. Alaska's extreme northern latitude means summer days can last over 20 hours, while winter days may have only a few hours of twilight.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-9.geojson"
+  },
+  {
+    "code": "utc-9h30",
+    "name": "Marquesas Time",
+    "nativeName": "UTC-09:30",
+    "utcOffset": "UTC-09:30",
+    "utcOffsetHours": -9.5,
+    "offsetGroup": "1. Far West (UTC-12 to -9)",
+    "ianaNames": [
+      "Pacific/Marquesas"
+    ],
+    "countries": [
+      "Marquesas Islands (France)"
+    ],
+    "dstRules": "No DST observed",
+    "description": "One of the few half-hour offset time zones, used exclusively by the Marquesas Islands in French Polynesia. This remote archipelago in the South Pacific is known for its dramatic volcanic landscapes.",
+    "speakers": {
+      "total": 0
+    },
+    "geojson": "utc-9h30.geojson"
+  }
+]

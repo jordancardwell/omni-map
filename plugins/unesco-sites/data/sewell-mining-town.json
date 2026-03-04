@@ -1,0 +1,14 @@
+{
+  "code": "sewell-mining-town",
+  "name": "Sewell Mining Town",
+  "type": "Cultural",
+  "country": "Chile",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Situated at 2,000 m in the Andes, 60 km to the east of Rancagua, in an environment marked by extremes of climate, Sewell Mining Town was built by the Braden Copper company in 1905 to house workers at what was to become the world’s largest underground copper mine, El Teniente. It is an outstanding example of the company towns that were born in many remote parts of the world from the fusion of local labour and resources from an industrialized nation, to mine and process high-value natural resources. The town was built on a terrain too steep for wheeled vehicles around a large central staircase rising from the railway station. Along its route formal squares of irregular shape with ornamental trees and plants constituted the main public spaces or squares of the town. The buildings lining the streets are timber, often painted in vivid green, yellow, red and blue. At its peak Sewell numbered 15,000 inhabitants, but was largely abandoned in the 1970s.",
+  "danger": false,
+  "geojson": "sewell-mining-town.geojson"
+}

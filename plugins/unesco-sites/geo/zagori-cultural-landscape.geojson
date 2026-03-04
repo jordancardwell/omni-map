@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8197222222,
+          39.9052777778
+        ]
+      },
+      "properties": {
+        "code": "zagori-cultural-landscape",
+        "name": "Zagori Cultural Landscape",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

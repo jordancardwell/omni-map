@@ -1,0 +1,16 @@
+{
+  "code": "cl-pe-cable",
+  "name": "CL-PE Cable",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 541,
+  "yearLaid": 2012,
+  "rfsDate": "2018-06",
+  "owner": "Entel",
+  "landingPoints": [
+    "Valparaíso, Chile",
+    "Lima, Peru"
+  ],
+  "description": "CL-PE Cable connecting Valparaíso to Lima in South America.",
+  "geojson": "cl-pe-cable.geojson"
+}

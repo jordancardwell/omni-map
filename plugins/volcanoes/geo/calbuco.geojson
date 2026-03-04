@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.614,-41.326]},"properties":{"code":"calbuco","name":"Calbuco","volcanoType":"Stratovolcano","status":"Historically Active","elevation":2003,"lastEruption":"2015","vei":4}}]}

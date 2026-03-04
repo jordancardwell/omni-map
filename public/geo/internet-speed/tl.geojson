@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tl","name":"Timor-Leste","country":"TL","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[124.9,-9.5],[124.9,-8.1],[127.3,-8.1],[127.3,-9.5],[124.9,-9.5]]]}}]}

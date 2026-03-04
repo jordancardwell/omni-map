@@ -1,0 +1,15 @@
+{
+  "code": "biaowieza-forest",
+  "name": "Białowieża Forest",
+  "type": "Natural",
+  "country": "Poland, Belarus",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison.",
+  "danger": false,
+  "geojson": "biaowieza-forest.geojson"
+}

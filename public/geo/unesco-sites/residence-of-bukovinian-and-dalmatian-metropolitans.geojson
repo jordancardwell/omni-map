@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9247222222,
+          48.2966666667
+        ]
+      },
+      "properties": {
+        "code": "residence-of-bukovinian-and-dalmatian-metropolitans",
+        "name": "Residence of Bukovinian and Dalmatian Metropolitans",
+        "type": "Cultural",
+        "country": "Ukraine",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

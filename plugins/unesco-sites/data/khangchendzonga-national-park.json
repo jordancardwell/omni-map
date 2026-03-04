@@ -1,0 +1,16 @@
+{
+  "code": "khangchendzonga-national-park",
+  "name": "Khangchendzonga National Park",
+  "type": "Mixed",
+  "country": "India",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iii)",
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located at the heart of the Himalayan range in northern India (State of Sikkim), the Khangchendzonga National Park includes a unique diversity of plains, valleys, lakes, glaciers and spectacular, snow-capped mountains covered with ancient forests, including the world’s third highest peak, Mount Khangchendzonga. Mythological stories are associated with this mountain and with a great number of natural elements (caves, rivers, lakes, etc.) that are the object of worship by the indigenous people of Sikkim. The sacred meanings of these stories and practices have been integrated with Buddhist beliefs and constitute the basis for Sikkimese identity.",
+  "danger": false,
+  "geojson": "khangchendzonga-national-park.geojson"
+}

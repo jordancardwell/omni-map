@@ -1,0 +1,47 @@
+{
+  "id": "music-regions",
+  "name": "Traditional Music Regions",
+  "description": "Explore world music traditions by region, from Blues and Flamenco to Gamelan and Throat Singing. Discover the geography of musical diversity with tradition families, key instruments, notable artists, and UNESCO Intangible Cultural Heritage status. Data curated from Global Jukebox and Alan Lomax Archive research.",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#E91E63",
+  "categories": ["music", "culture", "geography"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Music & Culture",
+  "thumbnail": "#E91E63",
+  "schema": "MusicRegionMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "region", "traditionFamily", "instruments", "keyArtists", "description"],
+    "groupBy": "traditionFamily",
+    "titleField": "name",
+    "subtitleField": "region",
+    "badgeField": "traditionFamily",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "region"
+  },
+  "detailFields": [
+    { "key": "traditionFamily", "label": "Tradition Family", "type": "text" },
+    { "key": "region", "label": "Region", "type": "text" },
+    {
+      "key": "unescoICHStatus",
+      "label": "UNESCO ICH Status",
+      "type": "status-badge",
+      "statusColors": {
+        "Inscribed": "#22c55e",
+        "Nominated": "#eab308",
+        "Under Review": "#3b82f6",
+        "Not Listed": "#6b7280"
+      }
+    },
+    { "key": "instruments", "label": "Key Instruments", "type": "tags" },
+    { "key": "keyArtists", "label": "Notable Artists", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "resources", "label": "Audio Resources", "type": "links" }
+  ]
+}

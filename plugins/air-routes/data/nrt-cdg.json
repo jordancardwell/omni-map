@@ -1,0 +1,18 @@
+{
+  "code": "nrt-cdg",
+  "name": "Tokyo — Paris",
+  "airports": [
+    "NRT",
+    "CDG"
+  ],
+  "distanceKm": 9710,
+  "weeklyFlights": 20,
+  "airlines": [
+    "ANA",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "NRT–CDG route between Tokyo and Paris. Distance: 9,710 km. ~20 weekly flights operated by ANA, Air France.",
+  "geojson": "nrt-cdg.geojson"
+}

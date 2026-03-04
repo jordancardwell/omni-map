@@ -1,0 +1,16 @@
+{
+  "code": "the-loire-valley-between-sully-sur-loire-and-chalonnes",
+  "name": "The Loire Valley between Sully-sur-Loire and Chalonnes",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Loire Valley is an outstanding cultural landscape of great beauty, containing historic towns and villages, great architectural monuments (the châteaux), and cultivated lands formed by many centuries of interaction between their population and the physical environment, primarily the river Loire itself.",
+  "danger": false,
+  "geojson": "the-loire-valley-between-sully-sur-loire-and-chalonnes.geojson"
+}

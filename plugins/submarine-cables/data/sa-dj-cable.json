@@ -1,0 +1,16 @@
+{
+  "code": "sa-dj-cable",
+  "name": "SA-DJ Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1525,
+  "yearLaid": 2016,
+  "rfsDate": "2013-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Jeddah, Saudi Arabia",
+    "Djibouti, Djibouti"
+  ],
+  "description": "SA-DJ Cable connecting Jeddah to Djibouti.",
+  "geojson": "sa-dj-cable.geojson"
+}

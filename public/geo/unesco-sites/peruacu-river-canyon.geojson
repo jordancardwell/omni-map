@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2083333333,
+          -15.075
+        ]
+      },
+      "properties": {
+        "code": "peruacu-river-canyon",
+        "name": "Peruaçu River Canyon",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

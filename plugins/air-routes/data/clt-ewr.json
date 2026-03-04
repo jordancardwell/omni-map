@@ -1,0 +1,17 @@
+{
+  "code": "clt-ewr",
+  "name": "Charlotte — Newark",
+  "airports": [
+    "CLT",
+    "EWR"
+  ],
+  "distanceKm": 850,
+  "weeklyFlights": 50,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CLT–EWR route between Charlotte and Newark. Distance: 850 km. ~50 weekly flights operated by American.",
+  "geojson": "clt-ewr.geojson"
+}

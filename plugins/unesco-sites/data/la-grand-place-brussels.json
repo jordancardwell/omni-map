@@ -1,0 +1,15 @@
+{
+  "code": "la-grand-place-brussels",
+  "name": "La Grand-Place, Brussels",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "La Grand-Place in Brussels is a remarkably homogeneous body of public and private buildings, dating mainly from the late 17th century. The architecture provides a vivid illustration of the level of social and cultural life of the period in this important political and commercial centre.",
+  "danger": false,
+  "geojson": "la-grand-place-brussels.geojson"
+}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "myanmar-thailand", "name": "Myanmar \u2192 Thailand", "migrantVolume": 3}, "geometry": {"type": "LineString", "coordinates": [[96, 20], [98, 18], [100, 16], [100, 14]]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "tw-ring",
+  "name": "TW Ring",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1973,
+  "yearLaid": 2010,
+  "rfsDate": "2010-06",
+  "owner": "Chunghwa Telecom",
+  "landingPoints": [
+    "Toucheng, Taiwan",
+    "Fangshan, Taiwan"
+  ],
+  "description": "TW Ring connecting Toucheng to Fangshan in East Asia.",
+  "geojson": "tw-ring.geojson"
+}

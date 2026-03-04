@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5437527778,
+          53.187375
+        ]
+      },
+      "properties": {
+        "code": "eisinga-planetarium-in-franeker",
+        "name": "Eisinga Planetarium in Franeker",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

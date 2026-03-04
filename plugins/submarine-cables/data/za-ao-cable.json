@@ -1,0 +1,16 @@
+{
+  "code": "za-ao-cable",
+  "name": "ZA-AO Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 570,
+  "yearLaid": 2012,
+  "rfsDate": "2013-06",
+  "owner": "Liquid Telecom",
+  "landingPoints": [
+    "Cape Town, South Africa",
+    "Luanda, Angola"
+  ],
+  "description": "ZA-AO Cable connecting Cape Town to Luanda along the African coast.",
+  "geojson": "za-ao-cable.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "kilimanjaro",
+  "name": "Mount Kilimanjaro",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 5895,
+  "lastEruption": "-8000",
+  "vei": 0,
+  "country": "Tanzania",
+  "region": "East Africa",
+  "location": "East Africa, Tanzania",
+  "tectonicSetting": "Continental rift",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Glacial outburst"
+  ],
+  "eruptionHistory": "Last erupted approximately 10,000 years ago. Fumarolic activity in the Kibo summit crater suggests the volcano is not extinct.",
+  "description": "Africa's highest peak is a dormant stratovolcano with three volcanic cones: Kibo, Mawenzi, and Shira. Its summit glaciers are rapidly shrinking due to climate change.",
+  "geojson": "kilimanjaro.geojson"
+}

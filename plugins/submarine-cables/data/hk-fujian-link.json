@@ -1,0 +1,16 @@
+{
+  "code": "hk-fujian-link",
+  "name": "HK-Fujian Link",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1409,
+  "yearLaid": 2012,
+  "rfsDate": "2023-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Xiamen, China"
+  ],
+  "description": "HK-Fujian Link connecting Hong Kong to Xiamen in East Asia.",
+  "geojson": "hk-fujian-link.geojson"
+}

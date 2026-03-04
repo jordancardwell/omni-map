@@ -1,0 +1,16 @@
+{
+  "code": "za-kzn",
+  "name": "ZA KZN",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1066,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "Vodacom SA",
+  "landingPoints": [
+    "Richards Bay, South Africa",
+    "Durban, South Africa"
+  ],
+  "description": "ZA KZN connecting Richards Bay to Durban in East Africa/Indian Ocean.",
+  "geojson": "za-kzn.geojson"
+}

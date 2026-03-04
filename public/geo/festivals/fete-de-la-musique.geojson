@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "code": "fete-de-la-musique",
+        "name": "Fête de la Musique",
+        "festivalType": "Cultural",
+        "dateOrSeason": "June 21 (Summer Solstice)",
+        "location": "Paris, France"
+      }
+    }
+  ]
+}

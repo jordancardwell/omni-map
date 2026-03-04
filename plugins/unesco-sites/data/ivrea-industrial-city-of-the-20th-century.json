@@ -1,0 +1,14 @@
+{
+  "code": "ivrea-industrial-city-of-the-20th-century",
+  "name": "Ivrea, industrial city of the 20th century",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The industrial city of Ivrea is located in the Piedmont region and developed as the testing ground for Olivetti, manufacturer of typewriters, mechanical calculators and office computers. It comprises a large factory and buildings designed to serve the administration and social services, as well as residential units. Designed by leading Italian urban planners and architects, mostly between the 1930s and the 1960s, this architectural ensemble reflects the ideas of the Community Movement (Movimento Comunità). A model social project, Ivrea expresses a modern vision of the relationship between industrial production and architecture.",
+  "danger": false,
+  "geojson": "ivrea-industrial-city-of-the-20th-century.geojson"
+}

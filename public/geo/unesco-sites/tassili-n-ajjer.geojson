@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          25.5
+        ]
+      },
+      "properties": {
+        "code": "tassili-n-ajjer",
+        "name": "Tassili n'Ajjer",
+        "type": "Mixed",
+        "country": "Algeria",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

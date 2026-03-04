@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3327777778,
+          44.4913888889
+        ]
+      },
+      "properties": {
+        "code": "the-porticoes-of-bologna",
+        "name": "The Porticoes of Bologna",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

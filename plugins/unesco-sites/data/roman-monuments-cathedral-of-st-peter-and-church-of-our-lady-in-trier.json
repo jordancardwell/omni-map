@@ -1,0 +1,16 @@
+{
+  "code": "roman-monuments-cathedral-of-st-peter-and-church-of-our-lady-in-trier",
+  "name": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Trier, which stands on the Moselle River, was a Roman colony from the 1st century AD and then a great trading centre beginning in the next century. It became one of the capitals of the Tetrarchy at the end of the 3rd century, when it was known as the ‘second Rome’. The number and quality of the surviving monuments are an outstanding testimony to Roman civilization.",
+  "danger": false,
+  "geojson": "roman-monuments-cathedral-of-st-peter-and-church-of-our-lady-in-trier.geojson"
+}

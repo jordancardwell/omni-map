@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.20361,
+          -7.60778
+        ]
+      },
+      "properties": {
+        "code": "borobudur-temple-compounds",
+        "name": "Borobudur Temple Compounds",
+        "type": "Cultural",
+        "country": "Indonesia",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

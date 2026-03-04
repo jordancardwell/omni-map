@@ -1,0 +1,20 @@
+{
+  "code": "maldives-atolls",
+  "name": "Maldives Atolls",
+  "location": "Maldives, Indian Ocean",
+  "areaKm2": 21100,
+  "reefType": "Atoll",
+  "healthStatus": "Vulnerable",
+  "coralSpecies": 250,
+  "marineSpecies": 1100,
+  "threats": [
+    "Sea level rise",
+    "Coral bleaching",
+    "Tourism impact",
+    "Dredging and reclamation",
+    "Ocean warming"
+  ],
+  "conservationStatus": "Baa Atoll designated as a UNESCO Biosphere Reserve. Multiple marine protected areas across atolls. National coral reef monitoring framework in place.",
+  "description": "The Maldives is the world's lowest-lying country, composed of 26 natural atolls formed from ancient volcanic peaks. The nation's 1,192 coral islands are entirely dependent on healthy reef systems for their physical existence, as the reefs build and maintain the islands.\n\nThe 1998 El Niño caused catastrophic bleaching, killing up to 90% of shallow corals. While significant recovery occurred, repeated bleaching events in 2016 and subsequent years have hampered recovery. The Maldives is a powerful symbol of how climate change threatens coral reef nations.",
+  "geojson": "maldives-atolls.geojson"
+}

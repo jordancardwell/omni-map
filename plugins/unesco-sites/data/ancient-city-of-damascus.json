@@ -1,0 +1,17 @@
+{
+  "code": "ancient-city-of-damascus",
+  "name": "Ancient City of Damascus",
+  "type": "Cultural",
+  "country": "Syrian Arab Republic",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary.",
+  "danger": true,
+  "geojson": "ancient-city-of-damascus.geojson"
+}

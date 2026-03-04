@@ -1,0 +1,14 @@
+{
+  "code": "lohri",
+  "name": "Lohri",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "January 13",
+  "origin": "Punjabi tradition",
+  "estimatedAttendance": "Tens of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bonfires with offerings of sesame seeds and peanuts; bhangra and gidda dancing; singing folk songs; distributing rewri sweets.",
+  "historicalBackground": "Lohri marks the end of winter and the longest night. It's especially significant for newlywed couples and newborn babies in Punjabi culture.",
+  "description": "Punjab's winter bonfire festival, celebrating the passing of the winter solstice with roaring fires, folk music, and exuberant bhangra dancing.",
+  "location": "Chandigarh, India",
+  "geojson": "lohri.geojson"
+}

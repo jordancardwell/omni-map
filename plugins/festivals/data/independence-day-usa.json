@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-usa",
+  "name": "Independence Day (USA)",
+  "festivalType": "National",
+  "dateOrSeason": "July 4",
+  "origin": "American national",
+  "estimatedAttendance": "330+ million Americans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fireworks displays; barbecues; parades; patriotic music; American flag displays; family gatherings; baseball games.",
+  "historicalBackground": "July 4 celebrates the adoption of the Declaration of Independence in 1776, declaring the thirteen American colonies free from British rule.",
+  "description": "America's birthday celebration with fireworks, barbecues, and patriotic festivities marking the Declaration of Independence.",
+  "location": "Washington D.C., USA",
+  "geojson": "independence-day-usa.geojson"
+}

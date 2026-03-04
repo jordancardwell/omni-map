@@ -1,0 +1,15 @@
+{
+  "code": "los-katios-national-park",
+  "name": "Los Katíos National Park",
+  "type": "Natural",
+  "country": "Colombia",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Extending over 72,000 ha in north-western Colombia, Los Katios National Park comprises low hills, forests and humid plains. An exceptional biological diversity is found in the park, which is home to many threatened animal species, as well as many endemic plants.",
+  "danger": false,
+  "geojson": "los-katios-national-park.geojson"
+}

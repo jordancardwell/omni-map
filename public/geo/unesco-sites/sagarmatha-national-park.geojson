@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.91306,
+          27.96528
+        ]
+      },
+      "properties": {
+        "code": "sagarmatha-national-park",
+        "name": "Sagarmatha National Park",
+        "type": "Natural",
+        "country": "Nepal",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

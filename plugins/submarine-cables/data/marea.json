@@ -1,0 +1,16 @@
+{
+  "code": "marea",
+  "name": "MAREA",
+  "capacityTbps": 200,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 6600,
+  "yearLaid": 2017,
+  "rfsDate": "2018-02",
+  "owner": "Microsoft, Facebook, Telxius",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Bilbao, Spain"
+  ],
+  "description": "One of the highest-capacity transatlantic cables, connecting the US East Coast to Spain with 200 Tbps capacity across 8 fiber pairs.",
+  "geojson": "marea.geojson"
+}

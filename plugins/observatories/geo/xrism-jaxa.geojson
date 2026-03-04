@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[139.3958,35.5574]},"properties":{"code":"xrism-jaxa","name":"JAXA Sagamihara (XRISM)","observatoryType":"Space-based","status":"Operational","country":"Japan"}}]}

@@ -1,0 +1,14 @@
+{
+  "code": "rijeka",
+  "name": "Port of Rijeka",
+  "country": "Croatia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Adriatic Sea Route"
+  ],
+  "description": "Port of Rijeka in Croatia. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+  "geojson": "rijeka.geojson"
+}

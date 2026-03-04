@@ -1,0 +1,16 @@
+{
+  "code": "rub",
+  "name": "Russian Ruble",
+  "isoCode": "RUB",
+  "symbol": "₽",
+  "region": "Europe",
+  "centralBank": "Central Bank of Russia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Russia"
+  ],
+  "countryCount": 1,
+  "description": "The Russian Ruble is one of the world's oldest currencies. Russia possesses vast natural resources including oil, gas, and minerals.",
+  "historicalNotes": "The ruble dates back to the 13th century. The current ruble was redenominated in 1998, removing three zeros. International sanctions since 2022 have significantly impacted the currency's global convertibility.",
+  "geojson": "rub.geojson"
+}

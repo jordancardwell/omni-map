@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8763888889,
+          46.9375
+        ]
+      },
+      "properties": {
+        "code": "from-the-great-saltworks-of-salins-les-bains-to-the-royal-saltworks-of-arc-et-se",
+        "name": "From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "north-sea-link-1",
+  "name": "North Sea Link-1",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 471,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "NorSea",
+  "landingPoints": [
+    "Kristiansand, Norway",
+    "Katwijk, Netherlands"
+  ],
+  "description": "North Sea Link-1 submarine cable connecting Kristiansand to Katwijk.",
+  "geojson": "north-sea-link-1.geojson"
+}

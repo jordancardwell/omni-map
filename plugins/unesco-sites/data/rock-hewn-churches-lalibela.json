@@ -1,0 +1,16 @@
+{
+  "code": "rock-hewn-churches-lalibela",
+  "name": "Rock-Hewn Churches, Lalibela",
+  "type": "Cultural",
+  "country": "Ethiopia",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The 11 medieval monolithic cave churches of this 13th-century 'New Jerusalem' are situated in a mountainous region in the heart of Ethiopia near a traditional village with circular-shaped dwellings. Lalibela is a high place of Ethiopian Christianity, still today a place of pilmigrage and devotion.",
+  "danger": false,
+  "geojson": "rock-hewn-churches-lalibela.geojson"
+}

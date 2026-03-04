@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3283333333,
+          -20.4519444444
+        ]
+      },
+      "properties": {
+        "code": "le-morne-cultural-landscape",
+        "name": "Le Morne Cultural Landscape",
+        "type": "Cultural",
+        "country": "Mauritius",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

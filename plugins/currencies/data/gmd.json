@@ -1,0 +1,16 @@
+{
+  "code": "gmd",
+  "name": "Gambian Dalasi",
+  "isoCode": "GMD",
+  "symbol": "D",
+  "region": "Africa",
+  "centralBank": "Central Bank of the Gambia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Gambia"
+  ],
+  "countryCount": 1,
+  "description": "The Gambian Dalasi is the currency of The Gambia, Africa's smallest mainland country.",
+  "historicalNotes": "Introduced in 1971, replacing the Gambian pound. The Gambia is entirely surrounded by Senegal except for its Atlantic coastline.",
+  "geojson": "gmd.geojson"
+}

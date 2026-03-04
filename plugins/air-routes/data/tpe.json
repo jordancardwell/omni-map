@@ -1,0 +1,12 @@
+{
+  "code": "tpe",
+  "name": "Taiwan Taoyuan International",
+  "iataCode": "TPE",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "annualPassengers": 36000000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Taiwan Taoyuan International (TPE) in Taipei, Taiwan. Annual passengers: ~36M. Classification: Regional Hub.",
+  "geojson": "tpe.geojson"
+}

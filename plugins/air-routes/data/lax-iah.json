@@ -1,0 +1,18 @@
+{
+  "code": "lax-iah",
+  "name": "Los Angeles — Houston",
+  "airports": [
+    "LAX",
+    "IAH"
+  ],
+  "distanceKm": 2215,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–IAH route between Los Angeles and Houston. Distance: 2,215 km. ~60 weekly flights operated by United, Southwest.",
+  "geojson": "lax-iah.geojson"
+}

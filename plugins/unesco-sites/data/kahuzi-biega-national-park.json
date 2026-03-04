@@ -1,0 +1,14 @@
+{
+  "code": "kahuzi-biega-national-park",
+  "name": "Kahuzi-Biega National Park",
+  "type": "Natural",
+  "country": "Democratic Republic of the Congo",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level.",
+  "danger": true,
+  "geojson": "kahuzi-biega-national-park.geojson"
+}

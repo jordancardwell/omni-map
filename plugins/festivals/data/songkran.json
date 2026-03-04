@@ -1,0 +1,14 @@
+{
+  "code": "songkran",
+  "name": "Songkran",
+  "festivalType": "Religious",
+  "dateOrSeason": "April 13–15",
+  "origin": "Thai Buddhist tradition",
+  "estimatedAttendance": "Millions across Thailand",
+  "unescoICH": "Inscribed 2023",
+  "traditions": "Water splashing and water fights; visiting temples; building sand stupas; pouring scented water over elders' hands; releasing fish and birds.",
+  "historicalBackground": "Songkran originated as a ritual cleansing for the Thai New Year based on the solar calendar. Water symbolizes purification and the washing away of misfortune.",
+  "description": "The Thai New Year water festival, where streets transform into massive water fights symbolizing purification and renewal.",
+  "location": "Bangkok, Thailand",
+  "geojson": "songkran.geojson"
+}

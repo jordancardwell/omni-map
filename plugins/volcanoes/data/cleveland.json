@@ -1,0 +1,22 @@
+{
+  "code": "cleveland",
+  "name": "Mount Cleveland",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1730,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Pyroclastic flows",
+    "Aviation hazards"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in the Aleutian arc. Frequent small eruptions with intermittent larger events.",
+  "description": "Mount Cleveland is an isolated stratovolcano on Chuginadak Island in the central Aleutians. It is one of the most active volcanoes in the Aleutian arc.",
+  "geojson": "cleveland.geojson"
+}

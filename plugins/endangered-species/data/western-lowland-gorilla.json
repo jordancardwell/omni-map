@@ -1,0 +1,19 @@
+{
+  "code": "western-lowland-gorilla",
+  "name": "Western Lowland Gorilla",
+  "scientificName": "Gorilla gorilla gorilla",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~360,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland forest and swamp",
+  "threats": [
+    "Ebola virus",
+    "Poaching",
+    "Logging",
+    "Commercial bushmeat trade"
+  ],
+  "conservationEfforts": "Great Apes Survival Partnership coordinates international conservation. Ebola vaccination research for wild apes. Protected areas network across Central Africa.",
+  "description": "The most numerous gorilla subspecies but still critically endangered due to Ebola epidemics that have killed up to 95% of some populations, combined with hunting and habitat loss.",
+  "geojson": "western-lowland-gorilla.geojson"
+}

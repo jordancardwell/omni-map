@@ -1,0 +1,19 @@
+{
+  "code": "sin-cgk",
+  "name": "Singapore — Jakarta",
+  "airports": [
+    "SIN",
+    "CGK"
+  ],
+  "distanceKm": 884,
+  "weeklyFlights": 300,
+  "airlines": [
+    "Singapore Airlines",
+    "Garuda Indonesia",
+    "Lion Air"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "SIN–CGK route between Singapore and Jakarta. Distance: 884 km. ~300 weekly flights operated by Singapore Airlines, Garuda Indonesia, Lion Air.",
+  "geojson": "sin-cgk.geojson"
+}

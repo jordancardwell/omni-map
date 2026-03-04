@@ -1,0 +1,15 @@
+{
+  "code": "town-of-bamberg",
+  "name": "Town of Bamberg",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "From the 10th century onwards, this town became an important link with the Slav peoples, especially those of Poland and Pomerania. During its period of greatest prosperity, from the 12th century onwards, the architecture of Bamberg strongly influenced northern Germany and Hungary. In the late 18th century it was the centre of the Enlightenment in southern Germany, with eminent philosophers and writers such as Hegel and Hoffmann living there.",
+  "danger": false,
+  "geojson": "town-of-bamberg.geojson"
+}

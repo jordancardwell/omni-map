@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-siena",
+  "name": "Historic Centre of Siena",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Siena is the embodiment of a medieval city. Its inhabitants pursued their rivalry with Florence right into the area of urban planning. Throughout the centuries, they preserved their city's Gothic appearance, acquired between the 12th and 15th centuries. During this period the work of Duccio, the Lorenzetti brothers and Simone Martini was to influence the course of Italian and, more broadly, European art. The whole city of Siena, built around the Piazza del Campo, was devised as a work of art that blends into the surrounding landscape.",
+  "danger": false,
+  "geojson": "historic-centre-of-siena.geojson"
+}

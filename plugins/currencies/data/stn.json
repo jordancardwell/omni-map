@@ -1,0 +1,16 @@
+{
+  "code": "stn",
+  "name": "São Tomé and Príncipe Dobra",
+  "isoCode": "STN",
+  "symbol": "Db",
+  "region": "Africa",
+  "centralBank": "Central Bank of São Tomé and Príncipe",
+  "exchangeRateEra": "Pegged to EUR",
+  "countries": [
+    "São Tomé and Príncipe"
+  ],
+  "countryCount": 1,
+  "description": "The Dobra is the currency of São Tomé and Príncipe, one of Africa's smallest countries, located in the Gulf of Guinea.",
+  "historicalNotes": "The 'new dobra' was introduced in 2018, removing three zeros. The country pegged its currency to the Euro in 2010.",
+  "geojson": "stn.geojson"
+}

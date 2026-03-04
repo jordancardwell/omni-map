@@ -1,0 +1,16 @@
+{
+  "code": "chinese",
+  "name": "Chinese (Hanzi)",
+  "scriptType": "Logographic",
+  "characters": 50000,
+  "direction": "LTR / Vertical",
+  "originDate": "~1200 BCE",
+  "sampleText": "天地玄黄，宇宙洪荒。",
+  "relatedScripts": [
+    "japanese",
+    "hangul"
+  ],
+  "description": "Chinese characters (Hanzi) are logographic, where each character represents a morpheme or word. It is one of the oldest continuously used writing systems. Simplified characters are used in mainland China and Singapore, while traditional characters are used in Taiwan, Hong Kong, and Macau. The total number of characters exceeds 50,000, though literacy requires knowledge of 3,000–4,000.",
+  "historicalNotes": "Chinese characters originated during the Shang dynasty (~1200 BCE) as oracle bone inscriptions. They evolved through bronze inscriptions, seal script, clerical script, and regular script. The script was adopted and adapted by neighboring civilizations, forming the basis for Japanese kanji, Korean hanja, and Vietnamese chữ Nôm. The People's Republic of China introduced simplified characters in the 1950s and 1960s.",
+  "geojson": "chinese.geojson"
+}

@@ -1,0 +1,1073 @@
+# OmniMap Progress
+
+## Codebase Patterns
+- **Property-based line styling chain**: MapView's line style function uses a priority chain of property checks: `weeklyFlights` → `currentStrength` → `routeType` → `boundaryType` → default. Each check uses early return. To add a new line styling variant, insert a new property check block in the chain. Properties like `routeType: "land"/"maritime"/"mixed"` drive `dashArray`/`weight`/`opacity` per-feature.
+- **Arrow polygon features for directional lines**: To indicate flow direction on line overlays (e.g., ocean currents), include small triangle Polygon features in the GeoJSON with `featureType: "arrow"` property. MapView's style callback checks for `featureType === "arrow"` and renders with `fillOpacity: 0.7` (vs default 0.3 for regions). Arrow triangles are computed from path bearings in the generation script.
+- **Generation scripts for plugin data**: For plugins with many items and computed geometry (e.g., ocean currents with arrow triangles), create a standalone `scripts/generate-{plugin}.mjs` script that writes all data/*.json and geo/*.geojson files. This is faster and more maintainable than manual file creation.
+- **GlowOverlay pointToLayer for mixed line+point plugins**: GlowOverlay now includes a `pointToLayer` callback that creates `L.circleMarker` for Point features within line-type plugins. This enables airports, ports, etc. to render as sized circle markers (driven by feature properties like `annualPassengers`) instead of default Leaflet markers. The `style` callback also supports `weeklyFlights`-based weight/opacity for route lines.
+- **Generic plugin config pattern**: Plugins define `sidebarConfig`, `detailPanelConfig`, and `detailFields` in plugin.json. The sidebar and detail panel render any plugin's data using dot-path field access (`getFieldValue(item, "speakers.total")`). Field types (text, number, formatted-number, list, tags, links, status-badge, markdown, utc-clock) each have a dedicated renderer in `FieldRenderer.tsx`.
+- **Custom field types**: New field types can be added to `VALID_FIELD_TYPES` in `types.ts` and rendered in `FieldRenderer.tsx`. The `utc-clock` type takes a numeric UTC offset and renders a live-updating clock using `setInterval`.
+- **Gradient colors via sorted groups**: To achieve per-item gradient coloring, use numbered group prefixes (e.g., "1. Far West", "2. West") so alphabetical sort matches the desired gradient order. The palette colors then map 1:1 to the visual gradient.
+- **Tab-based multi-plugin sidebar**: When multiple plugins have active overlays, `GenericSidebar` shows tabs to switch between plugin item lists. Search resets when switching tabs via `handleTabClick` (not useEffect, which violates `react-hooks/set-state-in-effect`).
+- **React hooks linting (strict mode)**: `react-hooks/set-state-in-effect` forbids calling `setState` inside `useEffect`. `react-hooks/refs` forbids reading/writing refs during render. Reset state in event handlers instead. For derived resets, use the handler that triggers the change.
+- **Plugin data registries**: Map page maintains `pluginDataRegistries` keyed by plugin ID. The plugin registry JSON includes full config (sidebarConfig, detailFields). Data items are `Record<string, unknown>` accessed via `getFieldValue()`.
+- **referenceItems in detailFields**: When a tags/list field has `referenceItems: true`, the values are treated as IDs of other items in the same plugin. The `FieldRenderer` resolves them to names and renders as clickable buttons.
+- **Vitest config**: Use `.mts` extension for vitest config files to avoid ESM/CJS issues with vitest 4.x
+- **DOM environment**: Use `happy-dom` instead of `jsdom` 28+ with vitest — jsdom 28 has ESM compatibility issues (`html-encoding-sniffer` requires ESM-only `@exodus/bytes`)
+- **Tailwind dark mode**: Use `@custom-variant dark (&:is(.dark *));` in globals.css with `className="dark"` on `<html>` for class-based dark mode in Tailwind v4
+- **Next.js 16 linting**: `next lint` CLI was removed; use `eslint` directly (the scaffolded `eslint.config.mjs` handles everything)
+- **Line-based plugins with landing points**: For cable/route overlays, use mixed-geometry GeoJSON (LineString for routes + Point for endpoints). Set `featureType` property to distinguish them. The MapView style callback already handles LineString vs Polygon; Points render as circle markers by default.
+- **pnpm build scripts**: Use `onlyBuiltDependencies` in `pnpm-workspace.yaml` to whitelist packages that need native builds (e.g., `esbuild`, `sharp`)
+- **Leaflet dynamic import**: In Next.js 16 App Router, `next/dynamic` with `ssr: false` requires the importing file to be a Client Component (`"use client"`). Server Components cannot use `ssr: false`.
+- **Leaflet component testing**: Mock `react-leaflet` in vitest since Leaflet requires a real DOM (`window`). Use `vi.mock("react-leaflet", ...)` to render simple divs with data-testid.
+- **Leaflet CSS**: Import `leaflet/dist/leaflet.css` directly in the MapView client component.
+- **Point plugin generics**: `PointClusterOverlay` receives `pluginId` prop to differentiate tooltip content and marker sizing per plugin. Cluster CSS uses `point-cluster-{pluginId}` class prefix with shared base styles via `[class*="point-cluster-"]` attribute selector. Each point plugin gets its own color progression (e.g., volcanoes: red→orange→yellow, unesco-sites: blue→indigo→violet).
+- **Plugin loader pattern**: File-based plugin system uses `fs.readdirSync` to scan plugin directories, validate `plugin.json` against a required-fields schema, and return typed metadata. A build script (`scripts/generate-plugin-registry.ts`) generates a static JSON registry importable by the app. Test fixtures live in `src/lib/plugins/__fixtures__/`.
+- **Language plugin schema pattern**: Domain-specific metadata schemas (e.g., `language-types.ts`) define interfaces separately from the base `PluginMetadata`. Validation functions (`language-schema.ts`) check nested objects (speakers), string arrays (regions, dialects), and typed array items (resources). Use `Record<string, unknown>` for validation input, not the typed interface (avoids TS2345 index signature errors).
+- **Language data schema**: Each language requires a `data/{code}.json` (metadata) and `geo/{code}.geojson` (polygons) file. Metadata must match `LanguageMetadata` interface in `src/lib/plugins/language-types.ts` with all fields required.
+- **Test coverage**: The `SAMPLE_LANGUAGES` array in `language-schema.test.ts` must include every language code to get full test coverage. Tests validate schema, speaker counts, regions, dialects, resources, and GeoJSON file existence + size (<500KB).
+- **GeoJSON format**: Each geojson is a FeatureCollection with features having `code`, `name`, `region` properties. Keep polygons simplified to stay under 500KB.
+- **Next.js 16**: `next lint` was removed in Next.js 16. Use `npx eslint .` directly (matches `pnpm lint` script).
+- **Build-time language registry**: The generate script (`scripts/generate-plugin-registry.ts`) produces both `plugin-registry.json` and `language-registry.json` in `src/generated/`. Language registry aggregates all `plugins/languages/data/*.json` files into a single importable JSON array. Use `as unknown as LanguageMetadata[]` cast when importing in client components.
+- **GeoJSON API route**: Serve GeoJSON files on demand via `/api/geo/[code]` route handler. In Next.js 16 App Router, route handler `params` is a `Promise` — must `await params` before use.
+- **@types/geojson**: Not installed as a transitive dependency of `@types/leaflet` in pnpm — must install explicitly (`pnpm add -D @types/geojson`) for `import type { FeatureCollection } from "geojson"` to work.
+- **Sidebar z-index**: Leaflet uses z-index 400 for tiles and 1000 for controls. Sidebar uses `z-[1000]` and mobile hamburger uses `z-[1001]` to layer correctly above the map.
+- **Leaflet imperative layers with transitions**: For animated add/remove of map layers, use imperative `L.geoJSON()` inside a React component with `useMap()` instead of react-leaflet's declarative `<GeoJSON>`. Apply CSS `className` via Leaflet style options, set `style.opacity = "0"` on `_path` elements in cleanup, and delay `map.removeLayer()` with `setTimeout` for fade-out transitions.
+- **Detail panel pattern**: Use a separate `LanguageDetailPanel` component with `selectedLanguage` state in `page.tsx`. Thread `onClickOverlay` through `MapView` → `GlowOverlay` (Leaflet `click` event), and `onSelectLanguage` through `LanguageSidebar` (info button). Panel is fixed-position `z-[1100]` (above sidebar's 1000), full-screen on mobile, right-side drawer on desktop.
+- **happy-dom style values**: happy-dom returns hex color values from `element.style.backgroundColor` (e.g., `#22c55e`), not `rgb()` format like jsdom/browsers. Tests checking inline style colors should accept both formats.
+- **Sidebar split actions**: When a sidebar item needs both toggle and detail actions, split the row into a `<div>` wrapper with separate `<button>` elements for toggle (main click area) and info (icon button). Update existing tests to target the specific button `data-testid` instead of the wrapper.
+- **Touch-friendly tap targets**: Use `min-w-[44px] min-h-[44px] flex items-center justify-center` on all interactive elements for 44px minimum touch targets without changing visual layout.
+- **Playwright mobile testing**: Add a `mobile-chrome` project with `devices["Pixel 5"]` and explicit viewport. Use `testIgnore`/`testMatch` regex patterns to separate desktop and mobile test files (e.g., `mobile.spec.ts` only runs on mobile project).
+- **Debounced search testing**: Don't use `vi.useFakeTimers()` with `userEvent.type()` — they conflict and cause timeouts. Use real timers with `waitFor()` to test debounced filtering. Only use fake timers when testing timing-sensitive behavior that doesn't involve `userEvent.type`.
+- **Leaflet custom panes for z-ordering**: Use `map.createPane(name)` + `pane.style.zIndex` to create separate SVG containers per plugin. Pass `{ pane: paneName }` in `L.geoJSON` options. Base z-index 450 (above tiles at 400, below controls at 1000). Each plugin gets its own pane so overlays from different plugins layer independently.
+- **Per-overlay opacity via separate useEffect**: To avoid recreating Leaflet layers when only opacity changes, split into two effects: the main effect (depends on data, color, etc.) creates the layer, and a separate effect (depends only on opacity) calls `layer.setStyle({ fillOpacity, opacity })`. This keeps opacity changes smooth without layer recreation.
+- **URL state sync with initializedRef pattern**: When syncing React state to URL params, use a `useRef(false)` guard (`initializedRef`) to prevent the sync effect from running before the initialization effect reads the URL. Set the ref to `true` at the end of the init effect.
+- **Routing refactor pattern**: When introducing a landing page at `/` in Next.js App Router, move the existing page to a new route (e.g., `/map/page.tsx`), remove global `overflow: hidden` from `globals.css`, and add it to the map page's `<main>` element instead. Update ALL E2E tests to the new route.
+- **Generic plugin architecture**: Extended `PluginMetadata` supports `dataType` (regions/points/lines/heatmap), `dataSource` (static/api), `category` (singular for grouping), `thumbnail` (card preview color/image), and optional `schema` (TypeScript type name reference). Validation enforces enum values for `dataType` and `dataSource`. Registry generation iterates all plugins generically — data registries are `{plugin.id}-registry.json`, GeoJSON is copied to `public/geo/{plugin.id}/`.
+- **Generic GeoJSON API route**: `/api/geo/[plugin]/[code]` serves GeoJSON from any plugin's `geo/` directory. Input validation uses regex: plugin name `^[a-z][a-z0-9-]*$`, code `^[a-z0-9-]{1,64}$`. Path traversal prevented by strict validation.
+- **Backward compat for plugin schema extension**: When adding new required fields to `PluginMetadata`, update ALL existing plugin.json files (real + test fixtures) AND the registry generation script. If a generated file is renamed (e.g., `language-registry.json` → `languages-registry.json`), write BOTH filenames to avoid breaking imports. Also copy geo files to both new (`public/geo/{id}/`) and legacy (`public/geo/`) locations.
+
+---
+
+## 2026-03-02 - US-001
+- What was implemented:
+  - Next.js 16.1.6 app with App Router, TypeScript, and `src/` directory at `~/p/omni-map`
+  - Git repo initialized with comprehensive .gitignore (Node, Next.js, Playwright artifacts)
+  - pnpm as package manager with pnpm-lock.yaml
+  - Leaflet 1.9.4 + react-leaflet 5.0.0 + @types/leaflet installed
+  - Tailwind CSS v4 with dark theme as default (class-based dark mode)
+  - Vitest 4.0.18 + React Testing Library + happy-dom with passing sample test
+  - Playwright 1.58.2 with Chromium and passing sample E2E test
+  - ESLint 9 with eslint-config-next (flat config)
+  - tsconfig.json with strict mode enabled
+  - Vercel-compatible (no custom server, standard Next.js config)
+- Files changed:
+  - `package.json` - dependencies, scripts (test, test:watch, test:e2e)
+  - `pnpm-workspace.yaml` - onlyBuiltDependencies config
+  - `vitest.config.mts` - vitest config with happy-dom and path aliases
+  - `vitest.setup.mts` - jest-dom matchers for vitest
+  - `playwright.config.ts` - Chromium project with webServer config
+  - `eslint.config.mjs` - (scaffolded by create-next-app)
+  - `tsconfig.json` - (scaffolded with strict: true)
+  - `src/app/page.tsx` - simplified OmniMap home page
+  - `src/app/layout.tsx` - dark class on html, OmniMap metadata
+  - `src/app/globals.css` - dark theme defaults with class-based dark variant
+  - `src/app/page.test.tsx` - sample vitest unit test
+  - `e2e/home.spec.ts` - sample Playwright E2E test
+  - `.gitignore` - added Playwright artifact patterns
+- **Learnings:**
+  - Next.js 16 (create-next-app@16.1.6) removed `next lint` CLI — use `eslint` directly
+  - Vitest 4.x requires ESM; use `.mts` config extension for CJS projects
+  - jsdom 28+ has broken ESM compatibility with vitest 4 — `happy-dom` is a reliable alternative
+  - Tailwind v4 uses `@theme inline` and `@custom-variant` syntax (significant API change from v3)
+  - pnpm 10.12+ uses `onlyBuiltDependencies` allowlist pattern (replaces `ignoredBuiltDependencies`)
+  - Playwright's `webServer` config handles dev server lifecycle automatically during tests
+  - Next.js 16 prompts for React Compiler during scaffolding — pipe "N" to skip in non-interactive mode
+---
+
+## 2026-03-02 - US-002
+- What was implemented:
+  - Full-viewport Leaflet map with CartoDB Dark Matter tiles on the home page
+  - MapView client component (`src/components/MapView.tsx`) with react-leaflet
+  - Dynamic import with `ssr: false` in page.tsx (marked as client component)
+  - Map centered at [20, 0] with zoom level 3 (world view)
+  - Smooth zoom/pan interactions with zoom controls enabled
+  - Proper OpenStreetMap + CARTO attribution displayed
+  - Full-screen layout with no overflow (mobile-friendly)
+  - Component test with mocked react-leaflet verifying container, dark tiles, and attribution
+  - E2E tests verifying map rendering, attribution, zoom controls, and zoom interaction
+- Files changed:
+  - `src/components/MapView.tsx` - new Leaflet map component with dark tiles
+  - `src/components/MapView.test.tsx` - new component tests (3 tests)
+  - `src/app/page.tsx` - updated to use dynamic MapView import with ssr: false
+  - `src/app/page.test.tsx` - updated to test map container rendering
+  - `src/app/globals.css` - added html/body full-height, overflow hidden for mobile
+  - `e2e/home.spec.ts` - updated to test Leaflet map, attribution, zoom controls
+- **Learnings:**
+  - `next/dynamic` with `ssr: false` is NOT allowed in Server Components in Next.js 16 App Router — the file must have `"use client"` directive
+  - CartoDB Dark Matter tile URL: `https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png`
+  - react-leaflet components need mocking in vitest/happy-dom since Leaflet requires real browser APIs
+  - Leaflet CSS must be imported for proper rendering — `leaflet/dist/leaflet.css` works as a direct import in client components
+---
+
+## 2026-03-02 - US-003
+- What was implemented:
+  - File-based plugin system architecture with `/plugins/{plugin-name}/` convention
+  - TypeScript types for plugin metadata (`src/lib/plugins/types.ts`)
+  - Plugin loader that scans directories, validates plugin.json, and returns typed metadata (`src/lib/plugins/loader.ts`)
+  - Build-time registry generation script (`scripts/generate-plugin-registry.ts`) with `tsx`
+  - Static JSON registry output at `src/generated/plugin-registry.json` importable in the app
+  - `generate:registry` npm script and `prebuild` hook for automatic generation
+  - 12 unit tests covering valid plugins, missing plugin.json, invalid JSON, missing required fields, wrong types, and non-existent directories
+  - Test fixtures for valid and invalid plugin scenarios
+- Files changed:
+  - `src/lib/plugins/types.ts` - PluginMetadata interface + REQUIRED_PLUGIN_FIELDS
+  - `src/lib/plugins/loader.ts` - validatePluginJson() + loadPlugins() functions
+  - `src/lib/plugins/loader.test.ts` - 12 unit tests
+  - `src/lib/plugins/__fixtures__/` - 6 fixture directories (2 valid, 4 invalid)
+  - `src/generated/plugin-registry.json` - generated registry (empty initially)
+  - `scripts/generate-plugin-registry.ts` - build script
+  - `package.json` - added generate:registry, prebuild scripts, tsx devDependency
+  - `plugins/.gitkeep` - empty plugins directory
+- **Learnings:**
+  - `resolveJsonModule: true` in tsconfig enables importing the generated registry JSON with full type inference
+  - vitest's happy-dom environment still has full Node.js `fs` access — no special config needed for filesystem tests
+  - `tsx` (TypeScript Execute) is needed to run `.ts` build scripts outside of Next.js/vitest — added as devDependency
+  - Plugin validation should check field existence first, then types, to give the most useful error messages
+---
+
+## 2026-03-02 - US-004
+- What was implemented:
+  - Language plugin at `/plugins/languages/` with plugin.json (type: 'regions', name: 'World Languages')
+  - TypeScript interfaces for language metadata schema (`src/lib/plugins/language-types.ts`): LanguageMetadata, LanguageSpeakers, LanguageResource
+  - Schema validation function (`src/lib/plugins/language-schema.ts`): validateLanguageMetadata() + isLanguageMetadata() type guard
+  - 5 sample languages with full metadata: English (en), Mandarin Chinese (zh), Spanish (es), Arabic (ar), Hindi (hi)
+  - Metadata includes all required fields: code, name, nativeName, family, branch, speakers, regions, writingSystem, dialects, endangermentStatus, description, historicalNotes, relatedLanguages, resources, geojson
+  - GeoJSON files in `/plugins/languages/geo/` with simplified polygons for each language's primary regions
+  - 56 unit tests verifying schema compliance, data integrity, GeoJSON validity, and file size constraints
+- Files changed:
+  - `plugins/languages/plugin.json` - plugin configuration
+  - `plugins/languages/data/en.json` - English metadata
+  - `plugins/languages/data/zh.json` - Mandarin Chinese metadata
+  - `plugins/languages/data/es.json` - Spanish metadata
+  - `plugins/languages/data/ar.json` - Arabic metadata
+  - `plugins/languages/data/hi.json` - Hindi metadata
+  - `plugins/languages/geo/en.geojson` - English regions (UK, US, Australia, Ireland, NZ)
+  - `plugins/languages/geo/zh.geojson` - Mandarin regions (China, Taiwan)
+  - `plugins/languages/geo/es.geojson` - Spanish regions (Spain, Mexico, Colombia, Argentina, Peru)
+  - `plugins/languages/geo/ar.geojson` - Arabic regions (Saudi Arabia, Egypt, Iraq, Morocco, Syria/Lebanon)
+  - `plugins/languages/geo/hi.geojson` - Hindi regions (Northern India Hindi Belt, southern Nepal)
+  - `src/lib/plugins/language-types.ts` - TypeScript interfaces + REQUIRED_LANGUAGE_FIELDS
+  - `src/lib/plugins/language-schema.ts` - validateLanguageMetadata() + isLanguageMetadata()
+  - `src/lib/plugins/language-schema.test.ts` - 56 unit tests
+- **Learnings:**
+  - TypeScript interfaces are not directly assignable to `Record<string, unknown>` due to missing index signature — use `Record<string, unknown>` type annotation in tests when passing to validation functions
+  - `it.each()` in vitest works well for parameterized tests across language files (avoids repetitive test definitions)
+  - GeoJSON simplified polygons should use FeatureCollection type with Feature items — each feature has properties (code, name, region) and geometry (Polygon with coordinates)
+  - Next.js 16 removed `next lint` CLI entirely — acceptance criteria referencing it should use `eslint` directly instead
+---
+
+## 2026-03-02 - US-009
+- What was implemented:
+  - Searchable sidebar with language browser overlaying the map on the left side
+  - Search input with 300ms debounced filtering against name, nativeName, and language family
+  - Languages grouped by language family with colored indicators and speaker counts
+  - Click-to-toggle language overlays on the map (GeoJSON layers via react-leaflet)
+  - Active/toggled languages show visible "ON" state badge in the sidebar
+  - Mobile: sidebar hidden by default, hamburger menu opens full-screen overlay, close button to collapse
+  - Desktop: sidebar always visible at 320px width, overlaying the map
+  - Build-time language registry generation (56 languages aggregated into single JSON)
+  - API route `/api/geo/[code]` serving GeoJSON files on demand for map overlays
+  - Color-coded language families (13 families with distinct colors) for both sidebar indicators and map overlays
+  - 8 component tests for LanguageSidebar (search filtering, category rendering, active state, toggle callback)
+  - 6 component tests for MapView (base rendering + GeoJSON overlay rendering)
+  - 4 page tests verifying sidebar + map integration
+  - 3 E2E tests (sidebar display, search filtering, toggle on/off)
+- Files changed:
+  - `src/lib/language-utils.ts` - new: FAMILY_COLORS map, getFamilyColor(), formatSpeakers()
+  - `src/components/LanguageSidebar.tsx` - new: sidebar component with search, categories, toggle
+  - `src/components/LanguageSidebar.test.tsx` - new: 8 component tests
+  - `src/components/MapView.tsx` - updated: added GeoJSON overlay support with LanguageOverlay interface
+  - `src/components/MapView.test.tsx` - updated: added GeoJSON mock + 3 overlay tests
+  - `src/app/page.tsx` - updated: state management for active languages, GeoJSON cache, sidebar integration
+  - `src/app/page.test.tsx` - updated: added sidebar + search rendering tests, language-registry mock
+  - `src/app/api/geo/[code]/route.ts` - new: API route handler for serving GeoJSON files
+  - `src/generated/language-registry.json` - new: build-time generated registry of all 56 languages
+  - `scripts/generate-plugin-registry.ts` - updated: extended to also generate language-registry.json
+  - `e2e/sidebar.spec.ts` - new: 3 E2E tests for sidebar search and toggle
+  - `package.json` - updated: added @types/geojson devDependency
+- **Learnings:**
+  - `@types/geojson` is NOT a transitive dependency of `@types/leaflet` under pnpm strict hoisting — must install explicitly
+  - Next.js 16 App Router route handler `params` is a `Promise<T>` — must `await params` before accessing properties
+  - react-leaflet v5 GeoJSON component needs a unique `key` prop per layer to render correctly; `style` prop accepts a function returning PathOptions
+  - Build-time JSON registry pattern works well for aggregating plugin data files — client components import the generated JSON directly with `resolveJsonModule`
+  - Sidebar z-index must be >= 1000 to layer above Leaflet controls; hamburger toggle uses z-[1001]
+  - When testing components where name and nativeName can be identical (e.g., English), use `getAllByText` or `getByTestId` instead of `getByText` to avoid ambiguous queries
+---
+
+## 2026-03-02 - US-010
+- What was implemented:
+  - Glowing colored overlays on the map when languages are selected
+  - Imperative `GlowOverlay` component using Leaflet's `L.geoJSON` API directly (replaced react-leaflet's `<GeoJSON>` declarative component)
+  - Per-language colored glow via dynamic `<style>` tag with `filter: drop-shadow()` CSS
+  - Semi-transparent fill (0.3 opacity) with colored glowing borders
+  - Fade-out transition on deselect (400ms CSS opacity transition, delayed layer removal)
+  - `mix-blend-mode: screen` for beautiful overlapping region blending on dark basemap
+  - `will-change: opacity, filter` for smooth GPU-accelerated rendering during zoom/pan
+  - Each language family gets a distinct glow color matching its fill (from FAMILY_COLORS)
+  - 6 new component tests verifying Leaflet layer add/remove lifecycle and glow CSS generation
+  - 3 new E2E tests verifying overlay path appearance, disappearance, and multi-overlay with distinct colors
+- Files changed:
+  - `src/components/MapView.tsx` - replaced react-leaflet GeoJSON with imperative GlowOverlay component, added dynamic glow CSS generation
+  - `src/components/MapView.test.tsx` - rewrote overlay tests to mock `leaflet` module and `useMap`, verify imperative API calls and glow CSS
+  - `src/app/globals.css` - added `.language-overlay` CSS class with transition, will-change, and mix-blend-mode
+  - `e2e/overlay.spec.ts` - new: 3 E2E tests for overlay visibility on toggle
+- **Learnings:**
+  - react-leaflet's `<GeoJSON>` component doesn't support lifecycle animations (no fade-out on unmount). Using imperative `L.geoJSON` via `useMap()` gives full control over add/remove transitions
+  - Leaflet stores SVG path elements in the internal `_path` property on `L.Path` instances — no public `getElement()` API exists, so access via type assertion `(l as L.Path & { _path?: SVGPathElement })._path`
+  - CSS `transition: opacity` works on SVG path elements when `style.opacity` is set directly. Leaflet sets `fill-opacity`/`stroke-opacity` via `setAttribute`, which is separate from CSS `opacity`
+  - Dynamic `<style>` tags with `dangerouslySetInnerHTML` work well for per-overlay glow colors since the component is client-only
+  - `mix-blend-mode: screen` on SVG overlays creates beautiful additive color blending for overlapping language regions on dark backgrounds
+  - When mocking both `leaflet` and `react-leaflet` in vitest, use `vi.useFakeTimers()` scoped to the describe block to test `setTimeout`-based fade-out without affecting other tests
+  - Playwright `toBeAttached()` is more reliable than `toBeVisible()` for detecting SVG `<path>` elements in the Leaflet container
+---
+
+## 2026-03-02 - US-014
+- What was implemented: Responsive mobile layout with touch-friendly tap targets and mobile E2E tests
+- Features:
+  - All interactive elements now have min 44px tap targets (buttons, links, legend items)
+  - Playwright config extended with `mobile-chrome` project using Pixel 5 device + 375x667 viewport
+  - 7 mobile-specific E2E tests covering: full-viewport map, no horizontal scroll, hamburger menu, sidebar open/close, search/toggle on mobile, full-screen detail panel, back button dismissal
+  - Desktop tests isolated from mobile tests via `testIgnore`/`testMatch` patterns
+- Files changed:
+  - Modified: `src/components/LanguageSidebar.tsx` — Added `min-w-[44px] min-h-[44px]` to hamburger toggle, close button, language toggle rows, and info buttons
+  - Modified: `src/components/LanguageDetailPanel.tsx` — Added touch-friendly sizes to back button, close button, related language buttons, and resource links
+  - Modified: `src/components/OverlayLegend.tsx` — Added touch-friendly sizes to expand button, collapse button, and legend items
+  - Modified: `playwright.config.ts` — Added `mobile-chrome` project with 375x667 viewport, `testIgnore`/`testMatch` to separate desktop and mobile tests
+  - New: `e2e/mobile.spec.ts` — 7 mobile-specific E2E tests
+- **Learnings:**
+  - Most responsive layout work (sidebar drawer, full-screen detail panel, collapsible legend) was already implemented in US-009/US-012/US-013 — this story mainly needed tap target sizing and mobile E2E coverage
+  - Playwright's `devices["Pixel 5"]` provides mobile userAgent, `hasTouch: true`, and `isMobile: true` — combining with explicit viewport override gives precise control
+  - Use `testIgnore` on desktop project and `testMatch` on mobile project to cleanly separate test suites without complex conditionals inside tests
+  - `min-w-[44px] min-h-[44px]` with `flex items-center justify-center` is the clean pattern for ensuring touch-friendly buttons in Tailwind without changing visual appearance
+  - Playwright's `boundingBox()` on elements is useful for verifying both viewport coverage (map fills screen) and minimum tap target sizes programmatically
+  - On mobile, existing `translate-x` based sidebar animation means the sidebar element is always in DOM but off-screen — Playwright treats it as "visible" since CSS visibility/display aren't affected, so mobile tests must use hamburger flow instead of direct sidebar access
+---
+
+## 2026-03-02 - US-012
+- What was implemented:
+  - Language detail panel that opens when clicking an overlay region or sidebar info button
+  - `LanguageDetailPanel` component (`src/components/LanguageDetailPanel.tsx`) as a right-side drawer (desktop) / full-screen panel (mobile)
+  - Displays all metadata fields: name, native name, language family, branch, speaker statistics (native + total with locale formatting + source), writing system, dialects (as chips), endangerment status with color indicator (safe=green, vulnerable=yellow, endangered=orange, critically endangered=red), description paragraph, historical notes, related languages (clickable links to other languages), and external resource links
+  - Click-outside and Escape key dismissal
+  - Desktop: close (X) button in header; Mobile: back arrow button
+  - `onClick` event handler added to `GlowOverlay` in `MapView.tsx` for map region clicks
+  - `onSelectLanguage` prop added to `LanguageSidebar` with info (i) button per language item
+  - `selectedLanguage` state in `page.tsx` wiring everything together
+  - 16 component tests verifying all metadata fields, close/escape/click-outside, related language navigation, resource links, z-index
+  - 3 E2E tests: overlay click opens panel, sidebar info click opens panel, close button dismisses panel
+- Files changed:
+  - `src/components/LanguageDetailPanel.tsx` - new: detail panel component
+  - `src/components/LanguageDetailPanel.test.tsx` - new: 16 component tests
+  - `src/components/MapView.tsx` - updated: added `onClickOverlay` prop and `onClick` handler on GlowOverlay
+  - `src/components/LanguageSidebar.tsx` - updated: added `onSelectLanguage` prop and info button per language item, refactored row to split toggle/info actions
+  - `src/components/LanguageSidebar.test.tsx` - updated: fixed toggle test to target new `language-toggle-{code}` testid
+  - `src/app/page.tsx` - updated: added `selectedLanguage` state, `handleSelectLanguage`/`handleCloseDetail` callbacks, `LanguageDetailPanel` rendering
+  - `e2e/detail-panel.spec.ts` - new: 3 E2E tests
+- **Learnings:**
+  - happy-dom returns hex values for `style.backgroundColor` not `rgb()` — tests must accept both formats
+  - When splitting a sidebar item into toggle + info buttons, the wrapper `<div>` gets the `data-testid` but existing tests clicking it will break — need to target the inner toggle button specifically
+  - Panel z-index 1100 layers correctly above sidebar (1000) and Leaflet controls
+  - `useCallback` for stable handler refs (onClose, onSelectLanguage) prevents unnecessary re-renders of the detail panel when parent state changes
+  - Leaflet `layer.on("click")` handler fires for both desktop clicks and mobile taps on overlay regions — no special mobile handling needed for click events (unlike hover which needs contextmenu/long-press)
+---
+
+## 2026-03-02 - US-003 (Generic Overlay Plugin Architecture)
+- What was implemented:
+  - Extended `PluginMetadata` interface with 5 new fields: `dataType` (regions/points/lines/heatmap), `dataSource` (static/api), `category` (string for landing page grouping), `thumbnail` (string for card preview), `schema` (optional TypeScript type name)
+  - Added `VALID_DATA_TYPES` and `VALID_DATA_SOURCES` const arrays with corresponding union types (`PluginDataType`, `PluginDataSource`)
+  - Extended `validatePluginJson()` to validate enum values for `dataType` and `dataSource`, string types for `category`/`thumbnail`, and optional `schema` string
+  - Updated `loadPlugins()` to populate all new fields in returned metadata (including optional `schema`)
+  - Updated languages `plugin.json` with new fields: `dataType: "regions"`, `dataSource: "static"`, `category: "linguistics"`, `thumbnail: "#4A90D9"`, `schema: "LanguageMetadata"`
+  - Generalized `generate-plugin-registry.ts` to iterate ALL plugins for data registry and GeoJSON generation (not just hardcoded languages)
+  - Created generic API route `/api/geo/[plugin]/[code]/route.ts` serving GeoJSON for any plugin
+  - Maintained backward compat: `language-registry.json` alias + legacy `public/geo/` copy for languages
+  - Created 4 new test fixtures: `valid-plugin-points` (cities, points/api), `valid-plugin-lines` (rivers, lines/static), `invalid-bad-datatype`, `invalid-bad-datasource`
+  - 33 unit tests (21 new) covering all validation scenarios for new fields
+  - Existing language overlay continues to work without changes (backward compat verified)
+- Files changed:
+  - `src/lib/plugins/types.ts` - Extended `PluginMetadata` with `dataType`, `dataSource`, `category`, `thumbnail`, `schema`; added `VALID_DATA_TYPES`, `VALID_DATA_SOURCES`, `PluginDataType`, `PluginDataSource`
+  - `src/lib/plugins/loader.ts` - Extended validation for enum fields and optional schema; updated `loadPlugins` return
+  - `src/lib/plugins/loader.test.ts` - 33 tests (was 12), added validation tests for all new fields and plugin types
+  - `plugins/languages/plugin.json` - Added new required fields
+  - `scripts/generate-plugin-registry.ts` - Generalized to iterate all plugins for data/geo processing
+  - `src/app/api/geo/[plugin]/[code]/route.ts` - New generic GeoJSON API route
+  - `src/lib/plugins/__fixtures__/valid-plugin/plugin.json` - Updated with new fields
+  - `src/lib/plugins/__fixtures__/valid-plugin-minimal/plugin.json` - Updated with new fields
+  - `src/lib/plugins/__fixtures__/valid-plugin-points/plugin.json` - New: points/api plugin
+  - `src/lib/plugins/__fixtures__/valid-plugin-lines/plugin.json` - New: lines/static plugin
+  - `src/lib/plugins/__fixtures__/invalid-bad-datatype/plugin.json` - New: invalid dataType fixture
+  - `src/lib/plugins/__fixtures__/invalid-bad-datasource/plugin.json` - New: invalid dataSource fixture
+  - `src/lib/plugins/__fixtures__/invalid-wrong-types/plugin.json` - Updated with new required fields
+  - `src/generated/plugin-registry.json` - Regenerated with new fields
+  - `src/generated/languages-registry.json` - New generic name for language registry
+  - `src/generated/language-registry.json` - Backward compat alias
+- **Learnings:**
+  - When extending a plugin schema with new required fields, ALL plugin.json files must be updated (real plugins, test fixtures, and generated registries) — easy to miss test fixtures
+  - Renaming generated files (e.g., `language-registry.json` → `languages-registry.json` using plugin id) can break existing imports — write both filenames for backward compat
+  - GeoJSON files need to be copied to both the new generic path (`public/geo/{plugin-id}/`) and the legacy path (`public/geo/`) to avoid breaking existing frontend fetches
+  - `VALID_DATA_TYPES` and `VALID_DATA_SOURCES` as `as const` arrays enable both runtime validation and compile-time type inference via indexed access types
+  - Next.js App Router supports nested dynamic route segments (`[plugin]/[code]`) — `params` is a single Promise resolving to an object with both params
+---
+
+## 2026-03-02 - US-001 (Map Type Selection Landing Page)
+- What was implemented:
+  - Card-based landing page at `/` showing available map overlay plugins
+  - Each card displays: overlay name, SVG icon, description, category tags, and color thumbnail preview
+  - Cards grouped by category with capitalized section headers
+  - Search bar with 300ms debounced filtering against plugin name and description
+  - Category filter chips for filtering by one or more categories (toggle on/off)
+  - Clicking a card navigates to `/map?overlay={plugin-id}` with pre-selected overlay
+  - Responsive grid: 1 column mobile, 2 tablet (sm), 3 desktop (lg), 4 wide (xl)
+  - Dark theme: gray-900 backgrounds, gray-100 text, gray-800 cards, blue-500 hover accents
+  - Map page moved from `/` to `/map` with query param support for overlay pre-selection
+  - Global `overflow: hidden` removed from CSS; applied via Tailwind on map page's `<main>` only
+  - 16 unit tests for landing page (rendering, search, category filtering, navigation, responsiveness, dark theme)
+  - 8 map page tests preserved + 1 new test for overlay query param
+  - All 6 E2E test files updated to navigate to `/map` instead of `/`
+  - 2 new E2E tests for landing page: card rendering and card click navigation
+- Files changed:
+  - `src/app/page.tsx` - new: landing page with card grid, search, category filters
+  - `src/app/page.test.tsx` - new: 16 landing page unit tests
+  - `src/app/map/page.tsx` - moved from root page.tsx with added `useSearchParams` overlay pre-selection
+  - `src/app/map/page.test.tsx` - moved from root page.test.tsx with `useSearchParams` mock
+  - `src/app/globals.css` - removed global `overflow: hidden` (now on map page element)
+  - `e2e/home.spec.ts` - updated: added landing page tests, map tests point to `/map`
+  - `e2e/sidebar.spec.ts` - updated: `goto("/map")`
+  - `e2e/overlay.spec.ts` - updated: `goto("/map")`
+  - `e2e/detail-panel.spec.ts` - updated: `goto("/map")`
+  - `e2e/legend.spec.ts` - updated: `goto("/map")`
+  - `e2e/mobile.spec.ts` - updated: `goto("/map")`
+- **Learnings:**
+  - `vi.useFakeTimers()` conflicts with `userEvent.type()` causing test timeouts — use real timers with `waitFor()` for debounced search tests instead
+  - happy-dom returns hex values from `element.style.backgroundColor` (e.g., `#4A90D9`) not `rgb()` format — tests should accept both formats
+  - When moving a page to a new route in Next.js App Router, remember to update ALL E2E tests that `goto("/")` — search-and-replace is reliable here
+  - `useSearchParams` from `next/navigation` must be used in client components — works well for passing overlay selection from landing page to map page
+  - Removing global `overflow: hidden` is necessary when adding a scrollable landing page; apply it locally on the map page's container element instead
+---
+
+## 2026-03-02 - US-004 (Multi-Layer Overlay Support)
+- What was implemented:
+  - Extended `LanguageOverlay` interface with `pluginId` and `opacity` fields for multi-plugin support
+  - Custom Leaflet panes per plugin type (`PluginPane` component) with independent z-ordering (base z 450, incrementing per plugin)
+  - Per-overlay opacity control via separate `useEffect` in `GlowOverlay` that calls `layer.setStyle()` without recreating the layer
+  - `OverlayLegend` updated to show at 1+ overlay (was 2+), with opacity slider per overlay and plugin group headers when overlays span multiple plugins
+  - Plugin color palette infrastructure (`PLUGIN_PALETTES`, `getPluginPalette()`) in `language-utils.ts` with distinct palettes for languages, geology, and climate plugins
+  - Map page URL sync: active overlays written to `?overlays=en,zh,es` query param; supports reading both `?overlays=` (multi) and `?overlay=` (legacy single) on mount
+  - Opacity state management in map page via `overlayOpacity: Record<string, number>` with `handleChangeOpacity` callback
+  - `useRouter().replace()` for URL updates without navigation, guarded by `initializedRef` to prevent overwriting URL before reading it
+  - 14 OverlayLegend tests (was 9): opacity slider rendering, opacity value display, opacity change callback, plugin group headers, single-overlay legend visibility
+  - 18 MapView tests (was 14): custom pane creation, multi-plugin pane separation, pane name passed to L.geoJSON, opacity update via setStyle
+  - 9 map page tests (was 8): multi-overlay query param pre-selection, useRouter mock
+  - 7 E2E tests (was 2): single overlay legend, opacity slider interaction, URL param sync, URL restore on load
+- Files changed:
+  - `src/components/MapView.tsx` - Added `pluginId`, `opacity` to interface; `PluginPane` component; opacity useEffect; pane prop threading
+  - `src/components/OverlayLegend.tsx` - Show at 1+ overlay; opacity slider; plugin grouping; `onChangeOpacity` prop
+  - `src/app/map/page.tsx` - `overlayOpacity` state; URL sync with `useRouter`; `initializedRef` guard; legacy + multi overlay param reading; `pluginId: "languages"` on overlays
+  - `src/lib/language-utils.ts` - `PLUGIN_PALETTES`, `getPluginPalette()` for distinct per-plugin color palettes
+  - `src/components/OverlayLegend.test.tsx` - 14 tests covering new features
+  - `src/components/MapView.test.tsx` - 18 tests covering pane and opacity features
+  - `src/app/map/page.test.tsx` - 9 tests with useRouter mock and multi-overlay param
+  - `e2e/legend.spec.ts` - 7 E2E tests covering single-overlay legend, opacity, URL sync
+- **Learnings:**
+  - Leaflet's `map.createPane()` is the idiomatic way to handle z-ordering between layer groups — custom panes get their own SVG container with controllable z-index
+  - Splitting Leaflet layer effects (creation vs. style updates) prevents expensive layer recreation when only visual properties like opacity change
+  - `useRouter().replace()` in Next.js App Router is the clean way to sync state to URL without adding history entries; must be called from client components
+  - When reading URL params on mount and also writing them on state change, use a ref guard to prevent the write effect from firing before the read effect completes
+  - The `input[type=range]` element works well for opacity control in Tailwind with `appearance-none cursor-pointer accent-gray-400` for dark theme styling
+  - Testing `useRouter` requires a mock at the `next/navigation` module level — the `replace` mock function must be created outside the mock factory to be accessible in assertions
+---
+
+## 2026-03-02 - US-002 (Navigation & Routing Between Landing Page and Map View)
+- What was implemented:
+  - Added back button header to map view (`/map`) that navigates back to landing page (`/`)
+  - Header uses `next/link` for client-side navigation (no full page reload)
+  - Header styled with dark theme, backdrop blur, and z-[1002] to layer above sidebar and controls
+  - Map content area wrapped in flex layout with header as shrink-0 element
+  - Most routing infrastructure was already in place from prior stories (US-001 landing page, US-004 URL sync)
+- Files changed:
+  - `src/app/map/page.tsx` - Added header with back button Link, wrapped map content in flex layout
+  - `src/app/map/page.test.tsx` - Added next/link mock and back button test (630 total tests)
+- **Learnings:**
+  - When adding a fixed header to a full-viewport map layout, use `flex flex-col` on the outer container with `shrink-0` on the header and `flex-1 relative overflow-hidden` on the content area — avoids height calculation hacks
+  - `next/link` is simpler than `useRouter().push()` for static navigation links and easier to test (just check `href` attribute)
+  - Mock `next/link` in vitest by rendering a plain `<a>` tag — simpler than mocking the router for navigation tests
+---
+
+## 2026-03-02 - US-005
+- What was implemented:
+  - Generic sidebar (`GenericSidebar`) and detail panel (`GenericDetailPanel`) system that adapts to any overlay plugin
+  - Plugin-driven configuration via `sidebarConfig`, `detailPanelConfig`, and `detailFields` in plugin.json
+  - Extended `PluginMetadata` type with `DetailField`, `SidebarConfig`, `DetailPanelConfig` interfaces
+  - `FieldRenderer` component with 8 field types: text, number, formatted-number, list, tags, links, status-badge, markdown
+  - `referenceItems` support in tags fields for cross-referencing other items in the same plugin (e.g., related languages)
+  - Tabbed interface in sidebar for switching between plugin item lists when multiple plugins are active
+  - Generic `plugin-utils.ts` with `getFieldValue()` (dot-path access), `formatCompactNumber()`, `buildGroupColorMap()`
+  - Updated languages plugin.json with full sidebarConfig, detailPanelConfig, and 12 detailFields preserving all existing content
+  - Updated plugin loader to validate new optional fields (detailFields array, sidebarConfig object, detailPanelConfig object)
+  - Map page refactored from language-specific to plugin-generic (uses `Record<string, Set<string>>` for multi-plugin active items)
+  - GeoJSON fetching now tries generic path `/geo/{pluginId}/{code}.geojson` first, falls back to legacy `/geo/{code}.geojson`
+  - Mobile responsive: sidebar collapses with hamburger (preserved from LanguageSidebar), detail panel goes full-screen (preserved from LanguageDetailPanel)
+  - 10 plugin-utils tests, 11 FieldRenderer tests, 13 GenericSidebar tests, 16 GenericDetailPanel tests
+  - Updated 10 map page tests, 6 E2E test files updated for new generic test IDs
+  - Total: 680 tests passing, 0 lint errors
+- Files changed:
+  - `src/lib/plugins/types.ts` - Added DetailField, SidebarConfig, DetailPanelConfig, FieldType, VALID_FIELD_TYPES
+  - `src/lib/plugins/loader.ts` - Extended validation for detailFields, sidebarConfig, detailPanelConfig
+  - `plugins/languages/plugin.json` - Added sidebarConfig, detailPanelConfig, detailFields (12 fields)
+  - `src/lib/plugin-utils.ts` - New: getFieldValue, formatCompactNumber, buildGroupColorMap
+  - `src/lib/plugin-utils.test.ts` - New: 10 unit tests
+  - `src/components/FieldRenderer.tsx` - New: generic field renderer with 8 type handlers
+  - `src/components/FieldRenderer.test.tsx` - New: 11 unit tests
+  - `src/components/GenericSidebar.tsx` - New: plugin-aware sidebar with tabs, search, grouping
+  - `src/components/GenericSidebar.test.tsx` - New: 13 unit tests
+  - `src/components/GenericDetailPanel.tsx` - New: plugin-driven detail panel using FieldRenderer
+  - `src/components/GenericDetailPanel.test.tsx` - New: 16 unit tests
+  - `src/app/map/page.tsx` - Refactored to use generic components, multi-plugin active items state, plugin registry-driven overlays
+  - `src/app/map/page.test.tsx` - Updated for generic component test IDs and plugin registry mock
+  - `src/generated/plugin-registry.json` - Regenerated with new config fields
+  - `e2e/sidebar.spec.ts` - Updated test IDs (language-sidebar → generic-sidebar, etc.)
+  - `e2e/detail-panel.spec.ts` - Updated test IDs (language-detail-panel → detail-panel, etc.)
+  - `e2e/overlay.spec.ts` - Updated test IDs (language-item → sidebar-item)
+  - `e2e/legend.spec.ts` - Updated test IDs (language-toggle → sidebar-toggle)
+  - `e2e/mobile.spec.ts` - Updated test IDs for generic sidebar and detail panel
+- **Learnings:**
+  - `react-hooks/set-state-in-effect` lint rule forbids calling `setState` directly inside `useEffect`. Move state resets to the event handler that triggers the change (e.g., `handleTabClick` instead of `useEffect([activePluginId])`)
+  - `react-hooks/refs` lint rule forbids reading/writing `useRef.current` during render. The "track previous value with ref" pattern doesn't work with strict React hooks linting
+  - Dot-path field access (`getFieldValue(item, "speakers.total")`) is a clean generic alternative to typed property access. Use `Record<string, unknown>` as the item type for maximum flexibility
+  - Plugin config in `plugin.json` should include all rendering metadata (sidebar fields, detail fields, status colors) so plugins are fully self-describing without TypeScript imports
+  - When genericizing test IDs, pick a consistent prefix pattern (e.g., `sidebar-` for sidebar, `detail-panel-` for detail panel, `field-` for field renderers) and update ALL E2E tests systematically
+  - `buildGroupColorMap()` assigns palette colors to sorted group names for deterministic color assignment across renders — ensures same group always gets same color
+---
+
+## 2026-03-02 - US-007
+- What was implemented:
+  - Writing Systems overlay plugin at `plugins/writing-systems/` with 29 major scripts (~30 as specified)
+  - All 24 AC-named scripts included: Latin, Cyrillic, Arabic, Devanagari, Chinese, Japanese, Korean (Hangul), Thai, Georgian, Armenian, Greek, Hebrew, Bengali, Tamil, Telugu, Gujarati, Ge'ez, Tibetan, Khmer, Burmese (Myanmar), Lao, Sinhala, Mongolian, Braille
+  - 5 additional scripts: Kannada, Malayalam, Gurmukhi, Odia, Tifinagh
+  - Country/region polygons colored by primary writing system, grouped by scriptType in sidebar
+  - Metadata per script: name, scriptType (Alphabet/Abjad/Abugida/Logographic/Mixed/Tactile), characters count, direction (LTR/RTL/Vertical), originDate, sampleText
+  - Detail panel shows script sample, character count, direction (as status-badge with color), history, and related scripts (with referenceItems cross-linking)
+  - Sidebar grouped by scriptType with character count badge
+  - Jewel-tone color palette (6 colors for 6 script type groups)
+  - All 680 tests pass, 0 lint errors (only pre-existing warnings in loader.test.ts)
+- Files changed:
+  - `plugins/writing-systems/plugin.json` - Plugin configuration with sidebarConfig, detailPanelConfig, 8 detailFields
+  - `plugins/writing-systems/data/*.json` - 29 data files (one per script)
+  - `plugins/writing-systems/geo/*.geojson` - 29 GeoJSON files with simplified country polygons
+  - `src/lib/language-utils.ts` - Added "writing-systems" palette to PLUGIN_PALETTES
+  - `src/app/map/page.tsx` - Imported writing-systems-registry.json, added to pluginDataRegistries
+  - `src/generated/writing-systems-registry.json` - Generated registry (29 items)
+  - `src/generated/plugin-registry.json` - Regenerated (3 plugins)
+  - `public/geo/writing-systems/` - Generated GeoJSON copies for serving
+- **Learnings:**
+  - Plugin creation pattern is now very streamlined: create plugin.json + data/*.json + geo/*.geojson, add palette, import registry, run generate:registry — no test changes needed
+  - For plugins with many items (~30), a temporary generator script is efficient: define all data in a single array, loop to write files, then delete the script
+  - The generic plugin architecture (US-005) fully delivers on its promise — adding a new plugin required zero changes to sidebar, detail panel, or field renderer components
+  - groupBy "scriptType" gives logical organization: Alphabet, Abjad, Abugida, Logographic, Mixed, Tactile
+  - status-badge field type works well for writing direction (LTR=blue, RTL=amber, Vertical=purple) giving visual distinction
+  - referenceItems on relatedScripts enables clickable cross-linking between writing systems in the detail panel
+---
+
+## 2026-03-02 - US-009
+- Implemented Power Grid Standards overlay plugin with 197 countries
+- Files changed:
+  - `scripts/generate-power-grids.mjs` — generation script with all country power grid data (voltage, frequency, plug types, adapter notes)
+  - `plugins/power-grids/plugin.json` — plugin config with Infrastructure & Travel category, grouped by voltageStandard (110V/220V/Dual)
+  - `plugins/power-grids/data/*.json` — 197 data files (one per country)
+  - `plugins/power-grids/geo/*.geojson` — 197 GeoJSON files with country bounding boxes
+  - `src/lib/language-utils.ts` — added power-grids color palette (warm reds/oranges for 110V, cool blues for 220V, amber for dual)
+  - `src/app/map/page.tsx` — imported power-grids-registry and added to pluginDataRegistries
+  - `src/generated/plugin-registry.json` — regenerated with 5 plugins
+  - `src/generated/power-grids-registry.json` — generated with 197 country items
+  - `public/geo/power-grids/*.geojson` — 197 GeoJSON files copied for serving
+- **Learnings:**
+  - For country-level plugins (one entry per country rather than shared entries like currencies), each data item maps 1:1 to a country code, simplifying the GeoJSON generation
+  - `voltageStandard` as groupBy field creates three clear sidebar groups: "110V" (warm), "220V" (cool), "Dual" (mixed), which matches the visual color coding
+  - Plug type descriptions (Type A through N) stored in data files enable rich detail panel display without component changes
+  - 197 countries covers essentially all sovereign states plus territories with distinct electrical standards
+  - The existing test suite (680 tests) passes without modification when adding new plugins
+  - Pre-existing lint warnings (4) in loader.test.ts remain unchanged
+---
+
+## 2026-03-02 - US-010 (Internet Connectivity Speed Overlay)
+- What was implemented:
+  - Internet speed overlay plugin at `plugins/internet-speed/` with 195 countries
+  - Country-level broadband speed data based on Ookla Speedtest Global Index 2024 rankings
+  - Country polygons grouped by speed tier for gradient coloring: Very Fast (150+ Mbps, green), Fast (75–150 Mbps, light green), Moderate (30–75 Mbps, yellow), Slow (10–30 Mbps, amber), Very Slow (<10 Mbps, red)
+  - Metadata per country: avg download speed, avg upload speed, avg latency, mobile download/upload, fixed download/upload, global rank, speed tier, region, data year, year-over-year trend description
+  - Detail panel shows all speed metrics, global ranking, and trend description via markdown field
+  - Sidebar grouped by speedTier with rank badge, searchable by name/speedTier/region
+  - 5-color gradient palette in PLUGIN_PALETTES (green→yellow→red matching speed tiers)
+  - Generation script (`scripts/generate-internet-speed.mjs`) with all 195 countries and realistic speed data
+  - GeoJSON copied and adapted from power-grids plugin (country bounding boxes), Afghanistan GeoJSON created manually
+  - All 680 tests pass, 0 lint errors
+- Files changed:
+  - `plugins/internet-speed/plugin.json` — plugin config with Technology & Infrastructure category, grouped by speedTier
+  - `plugins/internet-speed/data/*.json` — 195 data files (one per country)
+  - `plugins/internet-speed/geo/*.geojson` — 195 GeoJSON files with country bounding boxes
+  - `scripts/generate-internet-speed.mjs` — generation script with all country internet speed data
+  - `src/lib/language-utils.ts` — added internet-speed color palette (green→yellow→red gradient)
+  - `src/app/map/page.tsx` — imported internet-speed-registry and added to pluginDataRegistries
+  - `src/generated/plugin-registry.json` — regenerated with 6 plugins
+  - `src/generated/internet-speed-registry.json` — generated with 195 country items
+  - `public/geo/internet-speed/*.geojson` — 195 GeoJSON files copied for serving
+- **Learnings:**
+  - GeoJSON files from other country-level plugins (power-grids) can be directly reused by copying and updating properties — no need to regenerate geometry
+  - Speed tier grouping via `sidebarConfig.groupBy: "speedTier"` creates a natural gradient effect when combined with a green-to-red color palette
+  - Some countries present in one plugin's GeoJSON set may be missing from another (Afghanistan missing from power-grids) — always check for 1:1 coverage
+  - For 195 countries, computed rank ordering (sorting by speed then assigning indices) is more reliable than manually assigning ranks in the source data
+  - The generic plugin architecture continues to scale effortlessly — 6th plugin added with zero component changes needed
+---
+
+## 2026-03-03 - US-011
+- Implemented Traditional Medicine Systems overlay plugin with 10 systems: Ayurveda, Traditional Chinese Medicine, Kampo, Korean Medicine, Unani, Siddha, African Traditional Medicine, Curanderismo, Naturopathy/Western Herbalism, Tibetan Medicine (Sowa Rigpa)
+- Files changed:
+  - `plugins/traditional-medicine/plugin.json` — plugin config with Culture & Society category, grouped by tradition
+  - `plugins/traditional-medicine/data/*.json` — 10 data files with metadata (origin, practitioners, WHO recognition, key practices, description, historical notes)
+  - `plugins/traditional-medicine/geo/*.geojson` — 10 GeoJSON files with simplified country polygon bounding boxes
+  - `scripts/generate-traditional-medicine.mjs` — generation script for data and GeoJSON files
+  - `src/lib/language-utils.ts` — added traditional-medicine color palette (earthy/herbal tones) to PLUGIN_PALETTES
+  - `src/app/map/page.tsx` — imported traditional-medicine-registry and added to pluginDataRegistries
+  - `src/generated/plugin-registry.json` — regenerated with 7 plugins
+  - `src/generated/traditional-medicine-registry.json` — generated with 10 medicine system items
+  - `public/geo/traditional-medicine/*.geojson` — 10 GeoJSON files copied for serving
+- **Learnings:**
+  - The `sidebarConfig.groupBy: "tradition"` field groups medicine systems by tradition family (South Asian, East Asian, African, Latin American, Western, Central Asian, Greco-Arabic) for logical sidebar organization
+  - Some systems share countries (e.g., Ayurveda, Unani, and Siddha all practiced in India) — the plugin system handles overlapping regions fine since each system has its own GeoJSON
+  - WHO recognition status varies significantly — some systems (TCM, Ayurveda) have full ICD-11 inclusion while others are only partially recognized
+  - Writing a Node.js generation script continues to be the cleanest approach for creating data + geo files in bulk
+  - The existing test suite (680 tests) passes without modification — 7th plugin added with zero component changes needed
+  - Pre-existing lint warnings (4) in loader.test.ts remain unchanged
+---
+
+## 2026-03-03 - US-012
+- Implemented Tectonic Plates & Earthquake Zones overlay plugin with 15 tectonic plates (7 major, 7 minor, 1 microplate)
+- Plates include: Pacific, North American, South American, African, Eurasian, Antarctic, Indo-Australian, Nazca, Indian, Philippine Sea, Arabian, Caribbean, Cocos, Juan de Fuca, Scotia
+- Each plate has metadata: name, classification (Major/Minor/Microplate), crust type, area, movement direction/rate, boundary types, adjacent plates (with referenceItems for cross-linking), notable features, description, and geological history
+- Files changed:
+  - `plugins/tectonic-plates/plugin.json` — plugin configuration with sidebarConfig (groupBy: plateClass), detailFields, and detailPanelConfig
+  - `plugins/tectonic-plates/data/*.json` — 15 plate metadata files
+  - `plugins/tectonic-plates/geo/*.geojson` — 15 simplified GeoJSON polygon files (largest: 585 bytes)
+  - `scripts/generate-tectonic-plates.mjs` — Node.js generation script for data + GeoJSON
+  - `src/lib/language-utils.ts` — added "tectonic-plates" palette to PLUGIN_PALETTES
+  - `src/app/map/page.tsx` — imported tectonic-plates-registry and added to pluginDataRegistries
+  - `src/generated/tectonic-plates-registry.json` — generated with 15 plate items
+  - `src/generated/plugin-registry.json` — regenerated (now 8 plugins)
+  - `public/geo/tectonic-plates/*.geojson` — 15 GeoJSON files copied for serving
+- **Learnings:**
+  - For plates crossing the antimeridian (Pacific Plate), use multiple polygon features in the same FeatureCollection rather than attempting a single polygon that wraps
+  - The `adjacentPlates` field with `referenceItems: true` enables clickable cross-references between plates in the detail panel — powerful for exploring geological relationships
+  - Grouping by `plateClass` (Major/Minor/Microplate) provides clear visual organization in the sidebar
+  - All 15 GeoJSON files are extremely small (252–585 bytes) using simplified polygon boundaries — well under the 500KB limit
+  - The existing test suite (680 tests) passes without modification — 8th plugin added with zero component changes needed
+  - Pre-existing TypeScript errors in page.test.tsx (mock type mismatches) and lint warnings (4) are unchanged
+---
+
+## 2026-03-03 - US-014
+- What was implemented:
+  - New plugin at `plugins/biomes/` with all 14 WWF biome classification types
+  - `plugin.json` with sidebarConfig (grouped by biomeType: Forest/Grassland/Tundra/Mediterranean/Desert/Coastal), detailPanelConfig, and 8 detail fields including flora/fauna tags, threat level, conservation status, and markdown descriptions
+  - 14 data JSON files (`data/*.json`) with metadata per biome: code, name, biomeType, areaKm2, keyCharacteristics, typicalFlora, typicalFauna, threatLevel, conservationStatus, description
+  - 14 GeoJSON files (`geo/*.geojson`) with representative polygons for global distribution of each biome (3-10 regions per biome)
+  - Color palette (14 colors) added to `PLUGIN_PALETTES` in `language-utils.ts` as `"biomes"` key — forests=greens, grasslands=golds/tans, tundra=light gray, desert=sand, mediterranean=olive, mangroves=teal
+  - Registry generated successfully: 14 items in `biomes-registry.json`, GeoJSON copied to `public/geo/biomes/`
+- Files changed:
+  - `plugins/biomes/plugin.json` (new)
+  - `plugins/biomes/data/*.json` (14 new files)
+  - `plugins/biomes/geo/*.geojson` (14 new files)
+  - `src/lib/language-utils.ts` (added `"biomes"` palette with 14 colors)
+  - `src/generated/plugin-registry.json` (regenerated, now 10 plugins)
+  - `src/generated/biomes-registry.json` (new, 14 items)
+  - `public/geo/biomes/*.geojson` (14 files copied by registry generator)
+- **Learnings:**
+  - The 14 WWF biome types map cleanly to biomeType groups: Forest (6 types), Grassland (4 types), Tundra (1), Mediterranean (1), Desert (1), Coastal (1) — groupBy works well for sidebar organization
+  - Biome colors should reflect ecological character: use greens for forest biomes (varying shades), golds/tans for grasslands, near-white for tundra, sand/cream for deserts — this matches user expectations from the acceptance criteria
+  - The palette key must match plugin `id` exactly ("biomes" not "biome" or "ecology")
+  - All 680 tests pass and only 4 pre-existing lint warnings remain — 10th plugin added with zero component changes needed
+---
+
+## 2026-03-03 - US-015
+- Implemented biodiversity-hotspots plugin with all 36 Conservation International hotspots
+- Each hotspot has metadata: name, location, area (km²), plant/vertebrate species counts, endemic species counts, habitat remaining percentage, threat level, key species, threats, conservation efforts, description
+- Hotspots grouped by threat level (Critical/Endangered/Vulnerable) in sidebar with warm-to-critical color palette
+- Files changed:
+  - `plugins/biodiversity-hotspots/plugin.json` (new)
+  - `plugins/biodiversity-hotspots/data/*.json` (36 new files)
+  - `plugins/biodiversity-hotspots/geo/*.geojson` (36 new files)
+  - `src/lib/language-utils.ts` (added `"biodiversity-hotspots"` palette with 16 colors)
+  - `src/app/map/page.tsx` (added import + registry entry for biodiversity-hotspots, also wired in biomes and climate-zones registries which were missing)
+  - `src/generated/biodiversity-hotspots-registry.json` (new, 36 items)
+  - `src/generated/plugin-registry.json` (regenerated, now 11 plugins)
+  - `public/geo/biodiversity-hotspots/*.geojson` (36 files copied by registry generator)
+- **Learnings:**
+  - The biomes and climate-zones plugins had data/geo files but were not wired into `pluginDataRegistries` in page.tsx — added them while adding biodiversity-hotspots
+  - For plugins with many items (36 hotspots), using a one-time Node.js generation script is much more efficient than creating files individually
+  - threatLevel works well as groupBy field for sidebar grouping (Critical, Endangered, Vulnerable)
+  - All 680 tests pass and only 4 pre-existing lint warnings remain — 11th plugin added with zero component changes needed
+---
+
+## 2026-03-03 - US-016
+- Implemented time-zones plugin with 38 UTC offset zones (UTC-12 through UTC+14, including half-hour and 45-minute offsets)
+- Zone polygons colored by UTC offset gradient: cool blue (UTC-12) → green (UTC±0) → warm red (UTC+14) using 8 regional groups
+- Each zone has metadata: UTC offset, IANA timezone names, countries, DST rules, description
+- Added `utc-clock` field type to FieldRenderer for live client-side time display in detail panel
+- Zones grouped by geographic region with numbered prefixes for correct sort order: Far West, West, Mid-West, Central, Mid-East, East, Far East, Pacific
+- Files changed:
+  - `plugins/time-zones/plugin.json` (new)
+  - `plugins/time-zones/data/*.json` (38 new files)
+  - `plugins/time-zones/geo/*.geojson` (38 new files)
+  - `src/lib/language-utils.ts` (added `"time-zones"` palette with 8 gradient colors)
+  - `src/lib/plugins/types.ts` (added `"utc-clock"` to `VALID_FIELD_TYPES`)
+  - `src/components/FieldRenderer.tsx` (added `UtcClock` component + `formatUtcTime` helper + case for `"utc-clock"`)
+  - `src/app/map/page.tsx` (added import + registry entry for time-zones)
+  - `src/generated/time-zones-registry.json` (new, 38 items)
+  - `src/generated/plugin-registry.json` (regenerated, now 12 plugins)
+  - `public/geo/time-zones/*.geojson` (38 files copied by registry generator)
+- **Learnings:**
+  - For gradient-based coloring, the `buildGroupColorMap` sorts groups alphabetically — use numbered prefixes ("1. Far West", "2. West", ...) to ensure the palette order matches the desired gradient
+  - Half-hour/45-minute offset zones (UTC+3:30 Iran, UTC+5:45 Nepal, etc.) need country-specific bounding box GeoJSON, not vertical strip polygons
+  - Adding a new field type requires changes to both `VALID_FIELD_TYPES` in types.ts and the `renderValue` switch in FieldRenderer.tsx
+  - The tooltip system in MapView requires `name`, `nativeName`, `family`, and `totalSpeakers` to all be truthy — set `nativeName` to the UTC offset display string for timezone tooltips
+  - All 680 tests pass and lint has zero errors (only 4 pre-existing warnings) — 12th plugin added
+---
+
+## 2026-03-03 - US-017
+- Implemented Indigenous Peoples Territories Overlay plugin with 503 territory polygons
+- Territory data covers all major world regions: North America (250+), South America (38), Central America/Caribbean (35), Africa (55), Asia (75), Oceania (40), Europe/Arctic (24)
+- Each territory includes: name, people/nation, language, region, description, related treaties, and link to Native Land Digital
+- Plugin uses semi-transparent irregular polygons (6-8 vertices) for natural-looking overlapping territory boundaries
+- Native Land Digital attribution included in plugin.json
+- Data sourced from comprehensive research on indigenous peoples worldwide, with links back to Native Land Digital for each territory
+- Files changed:
+  - `plugins/indigenous-territories/plugin.json` (new)
+  - `plugins/indigenous-territories/data/*.json` (503 new files)
+  - `plugins/indigenous-territories/geo/*.geojson` (503 new files)
+  - `scripts/generate-indigenous-territories.mjs` (new - generation script)
+  - `src/lib/language-utils.ts` (added `"indigenous-territories"` palette with 24 earthy/warm tones)
+  - `src/generated/indigenous-territories-registry.json` (new, 503 items)
+  - `src/generated/plugin-registry.json` (regenerated, now 13 plugins)
+  - `public/geo/indigenous-territories/*.geojson` (503 files copied by registry generator)
+- **Learnings:**
+  - Native Land Digital API now requires an API key (not freely accessible without one), so territory data was generated from comprehensive research instead
+  - For large plugins (500+ items), a generation script (`.mjs` for ESM) is essential to create data and GeoJSON files programmatically
+  - The `links` field type in detailFields renders URLs as clickable links - used for Native Land Digital territory page links
+  - Irregular polygon generation (6-8 random vertices around a center) produces more natural territory shapes than simple rectangles
+  - Plugin palette needs enough colors (24) to cycle through for 500+ territories with visual variety
+  - All 680 tests pass and lint has zero errors (only 4 pre-existing warnings) — 13th plugin added
+---
+
+## 2026-03-03 - US-019
+- What was implemented:
+  - New plugin at `plugins/unesco-sites/` with 1,248 UNESCO World Heritage Sites as point markers
+  - Point markers differentiated by type via `groupBy: "type"` and palette: Cultural (blue #3B82F6), Natural (green #22C55E), Mixed (purple #A855F7)
+  - Metadata per site: name, country, yearInscribed, type, criteria (tags), region, description, danger status
+  - Data sourced from UNESCO DataHub API (`data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/exports/json`)
+  - Detail panel shows site description (markdown), inscription criteria (tags), country, year inscribed, UNESCO region, and type (status-badge with color)
+  - Clustering at low zoom levels via `leaflet.markercluster` (PointClusterOverlay)
+  - Search/filter by type (Cultural/Natural/Mixed) via sidebar `groupBy: "type"`
+  - Made `PointClusterOverlay` generic: now receives `pluginId` prop for per-plugin marker sizing, tooltip content, and cluster CSS class differentiation
+  - Cluster CSS refactored from volcano-specific to generic base styles with per-plugin color overrides
+- Files changed:
+  - `plugins/unesco-sites/plugin.json` (new)
+  - `plugins/unesco-sites/data/*.json` (1,248 new files)
+  - `plugins/unesco-sites/geo/*.geojson` (1,248 new files)
+  - `src/lib/language-utils.ts` (added `"unesco-sites"` palette with 3 colors: blue, green, purple)
+  - `src/app/map/page.tsx` (added unesco-sites registry import and pluginDataRegistries entry)
+  - `src/components/MapView.tsx` (generalized PointClusterOverlay: pluginId prop, generic tooltip, per-plugin marker radius, refactored cluster CSS)
+  - `src/generated/plugin-registry.json` (regenerated, now 15 plugins)
+  - `src/generated/unesco-sites-registry.json` (new, 1,248 items)
+  - `public/geo/unesco-sites/*.geojson` (1,248 files copied by registry generator)
+- **Learnings:**
+  - UNESCO DataHub API at `data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/exports/json` provides comprehensive data with coordinates, descriptions, criteria, and multi-language names
+  - One site (Funerary and memory sites of the First World War, id 1567) has no coordinates in the API; added manually with approximate Western Front centroid
+  - Some site names contain HTML `<em>` tags in the API data; must strip with regex during generation
+  - The `PointClusterOverlay` was previously volcano-specific; generalized it to support any point plugin by passing `pluginId` and using plugin-keyed class names
+  - CSS attribute selectors (`[class*="point-cluster-"]`) provide clean shared base styles while allowing per-plugin color overrides
+  - UNESCO categories map cleanly to 3 colors: Cultural (971 sites), Natural (235 sites), Mixed (41 sites)
+  - All 680 tests pass and lint has zero errors (only 4 pre-existing warnings) — 15th plugin added
+---
+
+## 2026-03-03 - US-021: Astronomical Observatories Overlay
+- Created new plugin at `plugins/observatories/` with 204 major astronomical observatories as point markers
+- Observatories cover four types: Optical (123), Radio (50), Multi-messenger (19), Space-based (12)
+- Color coding by type: optical (blue #3B82F6), radio (orange #F97316), multi-messenger (purple #8B5CF6), space-based (gray #9CA3AF)
+- Metadata per observatory: name, location, elevation, telescopes, aperture, operational status, key discoveries, description
+- Detail panel uses status-badge for both observatory type and operational status with distinct color maps
+- Added 4-color palette to `PLUGIN_PALETTES` in `language-utils.ts`
+- Generated registry: 204 items in `observatories-registry.json`, GeoJSON copied to `public/geo/observatories/`
+- All 680 tests pass, lint has zero errors (only 4 pre-existing warnings)
+- Files changed:
+  - `plugins/observatories/plugin.json` (new)
+  - `plugins/observatories/data/*.json` (204 new files)
+  - `plugins/observatories/geo/*.geojson` (204 new files)
+  - `src/lib/language-utils.ts` (added observatories palette)
+  - `src/generated/plugin-registry.json` (regenerated, now 17 plugins)
+  - `src/generated/observatories-registry.json` (new)
+  - `public/geo/observatories/*.geojson` (204 copied files)
+- **Learnings:**
+  - Point-based plugins follow the same pattern as volcanoes and space-launch-sites: Point geometry, status-badge fields for color coding, tags for list data
+  - Using a generation script (Node.js ESM) is the most efficient approach for 200+ items — write once, generate data + GeoJSON in a single pass
+  - The `statusColors` field in detailFields supports multiple status-badge fields per plugin (e.g., one for type, one for operational status)
+  - Dev server (`npm run dev`) has a pre-existing routing error ("different slug names for same dynamic path") unrelated to plugin changes
+  - Space-based observatories are represented by their ground control/science operations centers (e.g., STScI for HST/JWST, ESAC for XMM-Newton/Gaia)
+---
+
+## 2026-03-03 - US-022
+- What was implemented:
+  - New plugin at `plugins/submarine-cables/` with 602 submarine internet cable routes worldwide
+  - `plugin.json` with type "lines", sidebarConfig (grouped by capacityTier: Ultra-High/High/Medium/Standard), detailPanelConfig, and 8 detail fields including status-badge with capacity-tier color coding
+  - 602 data JSON files (`data/*.json`) with metadata per cable: code, name, capacityTbps, capacityTier, lengthKm, yearLaid, rfsDate, owner, landingPoints (tags), description
+  - 602 GeoJSON files (`geo/*.geojson`) each containing a LineString feature for the cable route and Point features for landing points (featureType: "cable" and "landing-point")
+  - Generation script at `scripts/generate-submarine-cables.mjs` defining ~250 landing point coordinates and 602 cable definitions with intermediate ocean waypoints
+  - Color palette added to `PLUGIN_PALETTES` in `language-utils.ts` as `"submarine-cables"`: 4 colors mapping to capacity tiers (purple=ultra-high, blue=high, cyan=medium, gray=standard)
+  - Registry generated successfully: 602 items in `submarine-cables-registry.json`, GeoJSON copied to `public/geo/submarine-cables/`
+  - All lint (0 errors, only 4 pre-existing warnings) and tests (680 passed across 12 files) pass
+- Files changed:
+  - `plugins/submarine-cables/plugin.json` (new)
+  - `plugins/submarine-cables/data/*.json` (602 new files)
+  - `plugins/submarine-cables/geo/*.geojson` (602 new files)
+  - `scripts/generate-submarine-cables.mjs` (new generation script)
+  - `src/lib/language-utils.ts` (added `"submarine-cables"` palette with 4 capacity-tier colors)
+  - `src/generated/plugin-registry.json` (regenerated, now 18 plugins)
+  - `src/generated/submarine-cables-registry.json` (new, 602 items)
+  - `public/geo/submarine-cables/*.geojson` (602 files copied by registry generator)
+- **Learnings:**
+  - Line-based plugins with mixed geometry (LineString cables + Point landing-points) work via featureType property in GeoJSON; the existing MapView style callback already differentiates LineString vs Point/Polygon
+  - For ~600 cables, a lookup-table approach with named landing points and a `midOceanPoints()` helper for intermediate waypoints is practical — gives reasonable visual routes without needing actual surveyed cable paths
+  - Capacity tier distribution: 17 ultra-high (>100 Tbps), 171 high (20-100), 285 medium (5-20), 129 standard (<5) — realistic distribution reflecting that most cables are mid-range capacity
+  - Major cables (MAREA, Dunant, Grace Hopper, 2Africa, etc.) have hand-curated metadata; regional cables use parameterized generation with random variation for capacity/year
+  - Using `slug()` function with uniqueness check prevents duplicate filenames when cable names are similar
+  - The badgeFormat "text" works for numeric Tbps values displayed as sidebar badges
+---
+
+## 2026-03-03 - US-023
+- What was implemented:
+  - Shipping Routes & Major Ports plugin at `plugins/shipping-routes/`
+  - 43 shipping corridor items with 200 lane LineString features across major/middle/minor classifications
+  - 250 port items as individual Point features with metadata (country, cargo volume, port type)
+  - Corridors include: Trans-Pacific, Trans-Atlantic, Suez Canal, Strait of Malacca, Cape of Good Hope, Panama Canal, Persian Gulf, Mediterranean, and 30+ more regional routes
+  - Ports span all continents with top global ports by cargo volume
+  - Plugin uses `itemCategory` field for groupBy to separate lanes from ports in sidebar (e.g., "Major Lane", "Container Port")
+  - `classification` field doubles as status-badge with color coding for both lane types and port types
+  - Color palette: 7 colors — red (major), amber (middle), gray (minor), blue (container), green (bulk), orange (oil/gas), purple (multi-purpose)
+- Files changed:
+  - `plugins/shipping-routes/plugin.json` (new)
+  - `plugins/shipping-routes/data/*.json` (293 files — 43 corridors + 250 ports)
+  - `plugins/shipping-routes/geo/*.geojson` (293 files — mixed LineString/Point)
+  - `src/lib/language-utils.ts` (added "shipping-routes" palette)
+  - `src/generated/plugin-registry.json` (regenerated, 19 plugins)
+  - `src/generated/shipping-routes-registry.json` (new, 293 items)
+  - `public/geo/shipping-routes/*.geojson` (293 files copied)
+  - `scripts/generate-shipping-routes.mjs` (generator script)
+- **Learnings:**
+  - For mixed line+point overlays with many items (~293), a generator script is essential — define corridors with lane arrays and ports with coordinates, then generate data/*.json and geo/*.geojson files programmatically
+  - Using a unified `itemCategory` field for groupBy allows mixing different entity types (lanes vs ports) in the same plugin sidebar, with natural grouping
+  - The `classification` field with status-badge type and statusColors supports heterogeneous status values (lane classifications + port types) in one detail field
+  - Each shipping corridor's GeoJSON contains multiple LineString features (lane segments), while each port has a simple single-Point FeatureCollection — both work seamlessly with the existing MapView rendering
+  - Port data includes `keyRoutes` as tags field for showing connected shipping corridors — enables cross-referencing between routes and ports in the detail panel
+---
+
+## 2026-03-03 - US-024
+- What was implemented:
+  - New plugin at `plugins/air-routes/` with 50 major airports (Point) + 488 busiest flight routes (LineString with great-circle arcs) = 538 total items
+  - `plugin.json` with type "lines", sidebarConfig (grouped by itemCategory: Mega Hub/Major Hub/International Hub/Regional Hub + Ultra High/High/Medium/Standard Frequency), detailPanelConfig, and 10 detail fields
+  - 50 airport data/geo files with metadata: IATA code, name, city, country, annualPassengers, classification
+  - 488 route data/geo files with great-circle arc LineStrings computed via haversine intermediate points, metadata: airports pair, distance, weeklyFlights, airlines
+  - Color palette added to `PLUGIN_PALETTES` as `"air-routes"`: red (mega/ultra), amber (major/high), blue (international/medium), green (regional/standard)
+  - GlowOverlay enhanced with `pointToLayer` callback: airport Points render as `L.circleMarker` sized by annualPassengers (radius 5-10), with IATA code labels via permanent tooltips toggled by zoom level (visible at zoom >= 5)
+  - Route-specific `style` callback: weight (1.5-4) and opacity (0.5-0.9) vary by weeklyFlights property; solid lines (no dashArray) to distinguish from tectonic boundary styles
+  - CSS for `.iata-label` tooltips: transparent background, white text with text-shadow, no arrow
+  - Generation script at `scripts/generate-air-routes.mjs` for reproducible data creation
+  - Registry generated: 20 plugins total, 538 air-routes items
+  - All lint (0 errors, 4 pre-existing warnings) and tests (680 passed across 12 files) pass
+- Files changed:
+  - `plugins/air-routes/plugin.json` (new)
+  - `plugins/air-routes/data/*.json` (538 new files)
+  - `plugins/air-routes/geo/*.geojson` (538 new files)
+  - `scripts/generate-air-routes.mjs` (new generation script)
+  - `src/lib/language-utils.ts` (added `"air-routes"` palette with 4 colors)
+  - `src/components/MapView.tsx` (added `pointToLayer` callback, route-specific weight/opacity styling, IATA label zoom toggling, `.iata-label` CSS)
+  - `src/generated/plugin-registry.json` (regenerated, now 20 plugins)
+  - `src/generated/air-routes-registry.json` (new, 538 items)
+  - `public/geo/air-routes/*.geojson` (538 files copied by registry generator)
+- **Learnings:**
+  - Great-circle arcs can be computed purely mathematically using spherical interpolation: for fraction f along the arc, A = sin((1-f)*d)/sin(d), B = sin(f*d)/sin(d), then Cartesian x/y/z → lat/lon conversion. No @turf/turf dependency needed.
+  - `L.geoJSON`'s `pointToLayer` option is the correct way to customize Point feature rendering within GlowOverlay (which normally handles regions/lines). Without it, Point features render as default blue Leaflet markers.
+  - Permanent tooltips in Leaflet (`{ permanent: true }`) can be toggled with `openTooltip()`/`closeTooltip()` on a `zoomend` event listener — useful for IATA labels that should only appear at high zoom
+  - Route deduplication is essential: bidirectional route pairs (A→B and B→A) should be canonicalized by sorting the airport codes
+  - The `weeklyFlights` property on route GeoJSON features enables per-route visual weight/opacity differentiation in the style callback, independent of the existing `boundaryType`-based logic for tectonic plates
+  - For ~500 routes across 50 airports, longer routes (>5000km) need more arc interpolation points (40) for smooth curves, while shorter routes can use fewer (20)
+---
+
+## 2026-03-03 - US-025
+- Implemented Historical Trade Routes Overlay plugin with 9 major trade routes as line features
+- Routes: Silk Road (land + maritime), Spice Routes, Trans-Saharan routes, Amber Road, Incense Route, Tin Route, Viking trade routes, Hanseatic League routes
+- Each route has detailed metadata: name, era/period, key commodities, major cities/stops, historical significance, description
+- GeoJSON files contain LineString features for routes + Point features for key trade cities as waypoints
+- Routes with multiple branches (Trans-Saharan has 3 sub-routes, Viking has 3, Hanseatic has 4, Tin Route has 2) use multiple LineStrings in a single FeatureCollection
+- Added `routeType` property-based styling in MapView: land routes get `dashArray: "10 5"` (long dash), maritime get `dashArray: "3 6"` (dotted), mixed get `dashArray: "10 3 3 3"` (dash-dot)
+- Files changed:
+  - `plugins/trade-routes/plugin.json` (new plugin config with status-badge for routeType)
+  - `plugins/trade-routes/data/*.json` (9 data files with rich metadata)
+  - `plugins/trade-routes/geo/*.geojson` (9 GeoJSON files with routes + waypoint markers)
+  - `src/lib/language-utils.ts` (added `"trade-routes"` palette with 9 colors)
+  - `src/components/MapView.tsx` (added `routeType`-based line styling between weeklyFlights and boundaryType checks)
+  - `src/generated/plugin-registry.json` (regenerated, now 21 plugins)
+  - `src/generated/trade-routes-registry.json` (new, 9 items)
+  - `public/geo/trade-routes/*.geojson` (9 files copied by registry generator)
+- **Learnings:**
+  - Adding a new property-based line style to MapView requires inserting it between existing checks (weeklyFlights > routeType > boundaryType) since the style function uses early returns
+  - Multi-branch routes (e.g., Trans-Saharan with western/central/eastern routes) work well as multiple LineString features in a single FeatureCollection — they all share the same `code` and render together
+  - For historical routes, the `routeType` property on GeoJSON features ("land"/"maritime"/"mixed") provides a clean way to visually distinguish route types without needing a separate plugin for each
+  - Point waypoints in line-plugin GeoJSON render as circle markers via the existing `pointToLayer` callback — no additional code needed
+  - The `era` field serves double duty: sidebar grouping (via `groupBy: "era"`) and historical context in the detail panel
+---
+
+## 2026-03-03 - US-027
+- **What was implemented**: Rainforest Coverage Overlay plugin with 21 forest regions spanning tropical, temperate, and boreal forests worldwide. Includes intact forest landscape polygons with intactness status coloring (pristine→critical), comprehensive metadata per region (name, type, area, country, change since 2000, threats, conservation status, description), and a 5-color green-to-red palette for intactness visualization.
+- **Files changed**:
+  - `plugins/rainforests/plugin.json` (plugin config with sidebarConfig, detailPanelConfig, 8 detail fields including status-badge for intactness)
+  - `plugins/rainforests/data/*.json` (21 data files: Amazon, Congo Basin, Borneo, New Guinea, Daintree, Tongass, Valdivian, Siberian Taiga, Canadian Boreal, Scandinavian Boreal, Madagascar, Atlantic Forest, Sundarbans, Chocó-Darién, Western Ghats, Greater Mekong, Central American, Sumatra, Tasmanian, Pacific Northwest, East African Montane)
+  - `plugins/rainforests/geo/*.geojson` (21 GeoJSON files with Polygon/MultiPolygon geometries)
+  - `src/lib/language-utils.ts` (added `"rainforests"` palette: 5 colors from dark green #064E3B to red #DC2626)
+  - `src/generated/plugin-registry.json` (regenerated, now 23 plugins)
+  - `src/generated/rainforests-registry.json` (new, 21 items)
+  - `public/geo/rainforests/*.geojson` (21 files copied by registry generator)
+- **Learnings:**
+  - The status-badge field type with statusColors map works well for intactness/conservation classification — provides visual distinction in the detail panel without needing custom code
+  - MultiPolygon geometry (used for East African Montane with 3 disjoint sub-regions) works seamlessly alongside standard Polygon features in the same plugin
+  - For forest-type plugins, groupBy on "forestType" (Tropical/Temperate/Boreal) provides a natural sidebar organization that helps users navigate diverse regions
+  - The 5-level color gradient (dark green → medium green → yellow-green → orange → red) maps well to ecological intactness classifications
+---
+
+## 2026-03-03 - US-028
+- Implemented Water Scarcity Zones overlay plugin with 23 sub-basin level water stress polygons
+- Basins grouped into 5 WRI Aqueduct stress levels with numbered group prefixes for gradient ordering: "1. Low (<10%)" through "5. Extremely High (>80%)"
+- Color gradient: blue (#3B82F6) → cyan (#06B6D4) → yellow (#EAB308) → orange (#F97316) → red (#EF4444)
+- Metadata per basin: name, water stress level, depletion rate, drought risk, seasonal variability, affected population, risk factors, description
+- Detail panel uses status-badge fields for water stress level, drought risk, and seasonal variability with matching color scales
+- Files changed:
+  - `plugins/water-scarcity/plugin.json` (new — regions plugin config with WaterScarcityMetadata schema)
+  - `plugins/water-scarcity/data/*.json` (23 basin data files)
+  - `plugins/water-scarcity/geo/*.geojson` (23 basin GeoJSON polygon files)
+  - `src/lib/language-utils.ts` (added `"water-scarcity"` palette: 5 colors blue→cyan→yellow→orange→red)
+  - `src/generated/plugin-registry.json` (regenerated, now 24 plugins)
+  - `src/generated/water-scarcity-registry.json` (new, 23 items)
+  - `public/geo/water-scarcity/*.geojson` (23 files copied by registry generator)
+- **Learnings:**
+  - The numbered group prefix pattern ("1. Low (<10%)", "2. Low-Medium (10-20%)", etc.) works well for stress-level gradients — alphabetical sort maps directly to palette color order
+  - Multiple status-badge fields can coexist in one plugin's detailFields (waterStressLevel, droughtRisk, seasonalVariability) each with independent statusColors maps
+  - For environmental risk plugins, combining status-badge (qualitative) + formatted-number (quantitative, e.g., affected population) + tags (risk factors) covers the full detail-panel needs
+---
+
+## 2026-03-03 - US-030
+- Implemented Light Pollution overlay plugin with Bortle scale zone polygons and International Dark Sky Places
+- 9 Bortle class zones (Class 1 pristine dark → Class 9 inner-city) with global representative polygons
+- 10 International Dark Sky Places as point markers (Aoraki Mackenzie, NamibRand, Cherry Springs, Pic du Midi, Brecon Beacons, Jasper, Big Bend, Kerry, Atacama, Galloway Forest)
+- Zones colored by Bortle class: dark blue/black (class 1-2) through green/yellow (class 5-6) to orange/white (class 8-9), blue for Dark Sky Places
+- Detail panel shows Bortle class description, visible objects (naked eye), sky brightness, limiting magnitude, Milky Way visibility, example locations, nearest dark sky reserves
+- Files changed:
+  - `plugins/light-pollution/plugin.json` (new plugin manifest)
+  - `plugins/light-pollution/data/*.json` (19 data files: 9 Bortle zones + 10 Dark Sky Places)
+  - `plugins/light-pollution/geo/*.geojson` (19 GeoJSON files: zones as Polygon, places as Point)
+  - `src/lib/language-utils.ts` (added `"light-pollution"` palette: 10 colors dark→bright + blue)
+  - `src/app/map/page.tsx` (added light-pollution registry import and pluginDataRegistries entry)
+  - `src/generated/plugin-registry.json` (regenerated, now 26 plugins)
+  - `src/generated/light-pollution-registry.json` (new, 19 items)
+  - `public/geo/light-pollution/*.geojson` (19 files copied by registry generator)
+- **Learnings:**
+  - Mixed geometry plugins (Polygon zones + Point markers) work well with dataType "regions" — Leaflet's L.geoJSON handles both geometries, and the sidebar groupBy separates them visually
+  - For scale-based data (Bortle classes), numbered group prefixes ("1. Pristine (Class 1-2)", etc.) maintain gradient order in the sorted color map
+  - Status-badge statusColors can accommodate many categories (10 for Bortle classes) — the key is using the full descriptive string that matches the data field value
+  - Newer plugins (post-UNESCO) need manual wiring in map/page.tsx (import + pluginDataRegistries entry) — the generate:registry step only creates the JSON files
+---
+
+## 2026-03-03 - US-032
+- What was implemented:
+  - Ocean Currents plugin at `plugins/ocean-currents/` with 40 major named currents
+  - Currents include warm (22), cold (11), and deep/circumpolar (7) types
+  - Each current has LineString path + 2-4 arrow triangle Polygon features for flow direction
+  - Color coding: warm currents (red via palette), cold currents (blue), deep (purple)
+  - Line thickness varies by `currentStrength` property (1-5 scale → 2-4px weight)
+  - Metadata per current: name, type (Warm/Cold/Deep), speed range, origin, destination, climate effects, connected ecosystems, description
+  - Detail panel shows current profile with status-badge for type, tags for climate effects and ecosystems
+  - Generation script at `scripts/generate-ocean-currents.mjs` creates all data and geojson files
+- Files changed:
+  - `plugins/ocean-currents/plugin.json` — plugin configuration with lines dataType
+  - `plugins/ocean-currents/data/*.json` — 40 metadata files (one per current)
+  - `plugins/ocean-currents/geo/*.geojson` — 40 GeoJSON files (LineString + arrow Polygons)
+  - `src/lib/language-utils.ts` — added "ocean-currents" palette (blue/purple/red for Cold/Deep/Warm)
+  - `src/components/MapView.tsx` — added `currentStrength` line styling + `featureType === "arrow"` polygon styling
+  - `scripts/generate-ocean-currents.mjs` — new generation script for ocean current data/geojson
+  - `src/generated/ocean-currents-registry.json` — generated registry (40 items)
+  - `src/generated/plugin-registry.json` — updated with ocean-currents plugin (28 total)
+  - `public/geo/ocean-currents/*.geojson` — copied geojson files for serving
+- **Learnings:**
+  - Arrow triangles as Polygon features in GeoJSON is a lightweight approach for directional line indication without additional Leaflet plugins
+  - The `bearing()` + `offsetPoint()` math for computing arrow orientation from path segments works well
+  - `buildGroupColorMap` sorts groups alphabetically, so palette order must match: Cold (index 0), Deep (index 1), Warm (index 2)
+  - Generation scripts (`*.mjs`) with `import.meta.dirname` work well for creating plugin data programmatically
+  - The `currentStrength` property in GeoJSON features integrates cleanly into MapView's property-based line styling chain
+---
+
+## 2026-03-03 - US-033
+- What was implemented:
+  - Desertification & Arid Zones overlay plugin at `plugins/desertification/` with 24 aridity zones
+  - Zones colored by aridity index: hyper-arid (dark brown #6B3A2A), arid (tan #C8A86E), semi-arid (light yellow #E8D44D), dry sub-humid (pale green #8FBC8F)
+  - 4 aridity groups with numbered prefixes for correct gradient sort order: "1. Hyper-Arid", "2. Arid", "3. Semi-Arid", "4. Dry Sub-Humid"
+  - Coverage: 5 hyper-arid (Sahara, Arabian, Atacama, Lut, Namib), 7 arid (Sahel, Gobi, Karakum, Thar, Patagonian, Australian, Sonoran), 7 semi-arid (Horn of Africa, Central Asian Steppe, Mediterranean, Great Plains, NE Brazil, Southern Africa, Fertile Crescent), 5 dry sub-humid (South Asian Monsoon, West African Savanna, North China Plain, East African Highlands, Brazilian Cerrado)
+  - Metadata per zone: aridity classification, aridity index (P/PET), area, degradation trend, population affected, affected countries, desertification drivers, desert frontier info, description
+  - Detail panel shows aridity data, desertification drivers, and affected communities via status-badge, tags, and markdown fields
+  - Desert frontier information included for each zone where data available
+  - Data sourced from UNCCD/CGIAR aridity index data and UN Environment World Atlas of Desertification
+- Files changed:
+  - `plugins/desertification/plugin.json` — plugin config with Climate & Environment category, grouped by aridityGroup
+  - `plugins/desertification/data/*.json` — 24 data files (one per aridity zone)
+  - `plugins/desertification/geo/*.geojson` — 24 GeoJSON polygon files
+  - `scripts/generate-desertification.mjs` — generation script for all zone data and geojson
+  - `src/lib/language-utils.ts` — added "desertification" palette (dark brown → tan → yellow → pale green)
+  - `src/generated/desertification-registry.json` — generated registry (24 items)
+  - `src/generated/plugin-registry.json` — updated with desertification plugin (29 total)
+  - `public/geo/desertification/*.geojson` — copied geojson files for serving
+- **Learnings:**
+  - Aridity zone plugins follow same region-polygon pattern as water-scarcity and biomes — no special MapView changes needed
+  - Using `aridityGroup` with numbered prefixes (e.g., "1. Hyper-Arid") ensures correct severity ordering in sidebar groups
+  - Generation scripts (`.mjs`) remain the most efficient approach for creating 20+ zone data/geo file pairs
+  - `statusColors` in detailFields enables degradation trend color-coding without any component changes
+  - The plugin system handles 29 plugins smoothly with all 680 tests passing
+---
+
+## 2026-03-03 - US-034
+- What was implemented:
+  - New plugin at `plugins/historical-empires/` with 30 major historical empires as polygon features
+  - `plugin.json` with type "regions", sidebarConfig (grouped by era: Ancient/Medieval/Early Modern/Modern), detailPanelConfig, and 8 detail fields including tags for keyAchievements and declineFactors
+  - 30 data JSON files (`data/*.json`) with metadata per empire: code, name, era, peakYear, areaAtPeakKm2, populationEstimate, capital, keyAchievements, declineFactors, description
+  - 30 GeoJSON polygon files (`geo/*.geojson`) with simplified boundary outlines for each empire at peak extent
+  - Color palette added to `PLUGIN_PALETTES` in `language-utils.ts` as `"historical-empires"`: 30 distinct colors for semi-transparent polygon overlays
+  - Empires included: Roman, Mongol, British, Ottoman, Persian (Achaemenid), Han Chinese, Maurya, Byzantine, Spanish, Portuguese, French Colonial, Russian, Umayyad, Abbasid, Inca, Aztec, Mali, Songhai, Mughal, Qing, Macedonian (Alexander), Egyptian (New Kingdom), Tang, Gupta, Khmer, Sassanid, Timurid, Holy Roman, Ethiopian (Aksumite), Dutch Colonial
+  - Era distribution: 8 Ancient, 7 Medieval, 9 Early Modern, 4 Modern (remaining 2 span eras)
+  - Registry generated successfully: 30 items in `historical-empires-registry.json`, GeoJSON copied to `public/geo/historical-empires/`
+  - All lint (0 errors, only 4 pre-existing warnings) and tests (680 passed across 12 files) pass
+- Files changed:
+  - `plugins/historical-empires/plugin.json` (new)
+  - `plugins/historical-empires/data/*.json` (30 new files)
+  - `plugins/historical-empires/geo/*.geojson` (30 new files)
+  - `src/lib/language-utils.ts` (added `"historical-empires"` palette with 30 distinct colors)
+  - `src/generated/plugin-registry.json` (regenerated, now 30 plugins)
+  - `src/generated/historical-empires-registry.json` (new, 30 items)
+  - `public/geo/historical-empires/*.geojson` (30 files copied by registry generator)
+- **Learnings:**
+  - 30-color palettes work well for historical empires where each empire needs a distinct, recognizable color — no grouping by status needed
+  - Era-based groupBy ("Ancient", "Medieval", "Early Modern", "Modern") provides natural chronological organization in the sidebar
+  - The `tags` field type works well for both `keyAchievements` and `declineFactors` — renders arrays of historical highlights nicely
+  - Empire polygon boundaries use simplified outlines (10-30 coordinate points) following the same approach as other region plugins
+  - `peakYear` as a string field (e.g., "480 BCE", "1920 CE") avoids numeric sorting issues with BCE dates
+  - `formatted-number` badge format on `areaAtPeakKm2` gives users quick size comparison in the sidebar
+---
+
+## 2026-03-03 - US-035
+- Implemented Ancient Civilizations Overlay plugin with 23 items: 17 civilization region polygons + 6 archaeological site point markers
+- Civilizations: Mesopotamia, Ancient Egypt, Indus Valley, Ancient China (Shang/Zhou), Ancient Greece, Ancient Rome, Maya, Olmec, Norte Chico, Minoan, Phoenician, Axum, Great Zimbabwe, Khmer, Achaemenid Persia, Inca, Mycenaean
+- Archaeological sites: Göbekli Tepe, Mohenjo-daro, Pyramids of Giza, Angkor Wat, Machu Picchu, Persepolis
+- Files changed:
+  - Created plugins/ancient-civilizations/plugin.json
+  - Created 23 data JSON files in plugins/ancient-civilizations/data/
+  - Created 23 GeoJSON files in plugins/ancient-civilizations/geo/
+  - Modified src/lib/language-utils.ts (added "ancient-civilizations" palette)
+  - Generated src/generated/ancient-civilizations-registry.json and public/geo/ancient-civilizations/
+- **Learnings:**
+  - Mixed polygon + point items work seamlessly in the same plugin with `dataType: "regions"` — no special config needed
+  - `status-badge` field type with `statusColors` effectively distinguishes between "Civilization" and "Archaeological Site" item types
+  - `groupBy: "region"` provides a good geographic grouping for ancient civilizations (Africa, Europe, Middle East, etc.)
+  - Historical-empires plugin was the closest structural reference; wildfire-risk confirmed mixed geometry approach
+  - 23-color palette with earthy tones (ochres, browns, siennas) + greens/blues for sites gives visual distinction
+---
+
+## 2026-03-03 - US-036
+- What was implemented:
+  - Plugin at `plugins/music-regions/` with 55 musical tradition regions
+  - Traditions include: Blues, Samba, Bossa Nova, Flamenco, Reggae, Fado, K-pop, Raga, Carnatic, Gamelan, Griot, Throat Singing, Celtic, Tango, Mariachi, Jazz, Highlife, Afrobeat, Qawwali, Cumbia, Gnawa, Klezmer, Calypso, Rebetiko, Mbira, Enka, Son Cubano, Maqam, Mugham, Samba-Reggae, Country, Gagaku, Andean, Aboriginal Australian, Polka, Afro-Cuban, Sufi, Gospel, Dangdut, Tuareg Desert Blues, Pansori, Fandango, Bhangra, Morna, Persian Classical, Jùjú, Taiko, Mongolian Long Song, Zouk, Hawaiian Slack-Key, Baul, Joik, Isicathamiya, Peking Opera, Mongolian Overtone Singing
+  - Region polygons colored by musical tradition family (15 families: African-American, Caribbean, Central Asian, East Asian Classical, East Asian Pop, European, Latin American, Middle Eastern, North African, North American, Oceanian, South Asian, Southeast Asian, Southern African, West African)
+  - Metadata per tradition: name, region, instruments, key artists, UNESCO ICH status, description, audio resource links
+  - Detail panel shows tradition description, key instruments, notable artists, and audio resource links via `detailFields` config
+  - 15-color palette added to `PLUGIN_PALETTES` in `language-utils.ts`
+  - Generation script at `scripts/generate-music-regions.mjs` for reproducible data creation
+- Files changed:
+  - `plugins/music-regions/plugin.json` — plugin config with sidebarConfig, detailPanelConfig, detailFields
+  - `plugins/music-regions/data/*.json` — 55 data files (one per tradition)
+  - `plugins/music-regions/geo/*.geojson` — 55 GeoJSON files with region polygons
+  - `src/lib/language-utils.ts` — added `music-regions` palette (15 colors)
+  - `scripts/generate-music-regions.mjs` — generation script for data + geo files
+  - `src/generated/music-regions-registry.json` — generated registry (55 items)
+  - `src/generated/plugin-registry.json` — updated (32 plugins)
+  - `public/geo/music-regions/*.geojson` — 55 copied GeoJSON files
+- **Learnings:**
+  - `groupBy: "traditionFamily"` works well for musical traditions — organizes sidebar by family (African-American, Caribbean, etc.)
+  - `status-badge` field type with `statusColors` effectively distinguishes UNESCO ICH status (Inscribed, Nominated, Under Review, Not Listed)
+  - Generation scripts (`.mjs`) are the most efficient way to create large plugin datasets — single source of truth for data + geo
+  - 55 items with rectangular region polygons is a good starting point; polygons can be refined later for more accurate geographic coverage
+  - The `links` field type renders audio resource URLs as clickable external links in the detail panel — ideal for linking to Smithsonian Folkways, UNESCO ICH, and other audio archives
+---
+
+## 2026-03-03 - US-037
+- What was implemented:
+  - Cuisine & Food Culture Regions plugin at `plugins/cuisine-regions/` with 28 major culinary regions
+  - Covers: French, Italian, Japanese, all 8 Chinese Great Cuisines (Shandong, Sichuan, Cantonese, Jiangsu, Hunan, Fujian, Zhejiang, Anhui), North/South Indian, Thai, Mexican, Ethiopian, Levantine, Korean, Peruvian, Moroccan, Turkish, Vietnamese, Greek, Spanish, Brazilian, West African, Caribbean, Scandinavian
+  - Region polygons colored by cuisine family with warm/appetizing color palette (oranges, reds, golds)
+  - Metadata per region: name, cuisineFamily, keyIngredients, signatureDishes, cookingTechniques, unescoRecognition, description, keyRegions
+  - Detail panel shows cuisine overview, signature dishes, key ingredients, cooking techniques, and UNESCO recognition
+  - Sidebar groups by cuisineFamily with search across name, family, ingredients, and dishes
+- Files changed:
+  - `plugins/cuisine-regions/plugin.json` — plugin metadata and config
+  - `plugins/cuisine-regions/data/*.json` — 28 cuisine data files
+  - `plugins/cuisine-regions/geo/*.geojson` — 28 GeoJSON polygon files
+  - `src/lib/language-utils.ts` — added "cuisine-regions" palette entry
+  - `src/generated/cuisine-regions-registry.json` — generated data registry
+  - `src/generated/plugin-registry.json` — updated with cuisine-regions plugin
+  - `public/geo/cuisine-regions/*.geojson` — 28 GeoJSON files copied to public
+  - `scripts/generate-cuisine-regions.mjs` — generation script for data + geo
+- **Learnings:**
+  - For cuisine families with many sub-entries (e.g., Chinese Eight Great Cuisines), using province-level polygons gives better visual distinction than country-level
+  - `groupBy: "cuisineFamily"` organizes sidebar effectively by culinary tradition family
+  - Warm color palette (oranges, reds, golds, ambers) gives an appetizing feel appropriate for food culture overlays
+  - 28 items is a good count that covers major world cuisines with granularity for Chinese regional cuisines
+---
+
+## 2026-03-03 - US-038
+- What was implemented:
+  - New plugin at `plugins/festivals/` with 200 major festivals worldwide as point markers
+  - `plugin.json` with type "points", sidebarConfig (grouped by festivalType: Religious/Cultural/Seasonal/National), detailPanelConfig, and 8 detail fields including status-badge for festival type with distinct colors (purple=Religious, pink=Cultural, green=Seasonal, blue=National)
+  - 200 data JSON files (`data/*.json`) with metadata per festival: code, name, festivalType, dateOrSeason, origin, estimatedAttendance, unescoICH, traditions, historicalBackground, description, location
+  - 200 GeoJSON point files (`geo/*.geojson`) with coordinates for each festival's primary location
+  - Data curated from UNESCO Intangible Cultural Heritage list + major world festivals: distribution is ~40 Religious, ~68 Cultural, ~43 Seasonal, ~49 National
+  - Color palette added to `PLUGIN_PALETTES` in `language-utils.ts` as `"festivals"`: 4 colors matching festival type categories
+  - Registry generated successfully: 200 items in `festivals-registry.json`, GeoJSON copied to `public/geo/festivals/`
+  - All lint (0 errors, only 4 pre-existing warnings) and tests (680 passed across 12 files) pass
+- Files changed:
+  - `plugins/festivals/plugin.json` (new)
+  - `plugins/festivals/data/*.json` (200 new files)
+  - `plugins/festivals/geo/*.geojson` (200 new files)
+  - `src/lib/language-utils.ts` (added `"festivals"` palette with 4 type-category colors)
+  - `src/generated/plugin-registry.json` (regenerated, now 34 plugins)
+  - `src/generated/festivals-registry.json` (new, 200 items)
+  - `public/geo/festivals/*.geojson` (200 files copied by registry generator)
+- **Learnings:**
+  - The `status-badge` detail field type with `statusColors` maps naturally to festival type categories (Religious/Cultural/Seasonal/National) with 4 distinct colors
+  - `groupBy: "festivalType"` provides clear sidebar organization — festivals naturally categorize into these 4 types
+  - `dateOrSeason` as a combined field handles both fixed-date festivals (July 14) and variable-date ones (varies by lunar calendar) cleanly
+  - The `badgeField: "dateOrSeason"` in sidebarConfig shows timing info in the sidebar list, providing useful at-a-glance information
+  - 200 festivals matches other large plugins (endangered-species) — the registry generator handles it without issues
+  - UNESCO ICH status stored as free text rather than boolean allows nuanced entries like "Inscribed 2009", "Garba dance inscribed 2023", etc.
+  - Comment syntax in language-utils.ts must use `//` not `/` — other entries used `/` but those were apparently pre-existing errors that the linter missed as they parsed as regex division
+---

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6827778,
+          26.20861111
+        ]
+      },
+      "properties": {
+        "code": "gusuku-sites-and-related-properties-of-the-kingdom-of-ryukyu",
+        "name": "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

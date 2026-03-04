@@ -1,0 +1,14 @@
+{
+  "code": "lakes-of-ounianga",
+  "name": "Lakes of Ounianga",
+  "type": "Natural",
+  "country": "Chad",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Africa",
+  "description": "The site includes eighteen interconnected lakes in the hyper arid Ennedi region of the Sahara desert covering an area of 62,808 ha. It constitutes an exceptional natural landscape of great beauty with striking colours and shapes. The saline, hyper saline and freshwater lakes are supplied by groundwater and are found in two groups 40 km apart. Ounianga Kebir comprises four lakes, the largest of which, Yoan, covers an area of 358 ha and is 27 m deep. Its highly saline waters only sustain algae and some microorganisms. The second group, Ounianga Serir, comprises fourteen lakes separated by sand dunes. Floating reeds cover almost half the surface of these lakes reducing evaporation. At 436 ha, Lake Teli has the largest surface area but is less than 10 m deep. With their high quality freshwater, some of these lakes are home to aquatic fauna, particularly fish.",
+  "danger": false,
+  "geojson": "lakes-of-ounianga.geojson"
+}

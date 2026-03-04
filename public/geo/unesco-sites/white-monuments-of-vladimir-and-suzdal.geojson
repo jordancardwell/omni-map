@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.41666667,
+          56.15
+        ]
+      },
+      "properties": {
+        "code": "white-monuments-of-vladimir-and-suzdal",
+        "name": "White Monuments of Vladimir and Suzdal",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

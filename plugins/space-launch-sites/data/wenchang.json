@@ -1,0 +1,18 @@
+{
+  "code": "wenchang",
+  "name": "Wenchang Space Launch Site",
+  "country": "China",
+  "operator": "CNSA / CASC",
+  "coordinates": "19.6145°N, 110.9510°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Long March 5 maiden flight",
+    "Tianwen-1 (Mars)",
+    "Chang'e 5 (lunar sample return)",
+    "Tiangong modules"
+  ],
+  "orbitalInclinationRange": "19°–59°",
+  "location": "Wenchang Space Launch Site, China",
+  "description": "China's newest and most southerly launch center on Hainan Island. Its coastal location enables large-diameter rocket transport by sea. Launches Long March 5/7/8 rockets.",
+  "geojson": "wenchang.geojson"
+}

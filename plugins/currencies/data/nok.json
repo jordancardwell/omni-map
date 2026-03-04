@@ -1,0 +1,16 @@
+{
+  "code": "nok",
+  "name": "Norwegian Krone",
+  "isoCode": "NOK",
+  "symbol": "kr",
+  "region": "Europe",
+  "centralBank": "Norges Bank",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Norway"
+  ],
+  "countryCount": 1,
+  "description": "The Norwegian Krone is backed by one of the world's largest sovereign wealth funds, the Government Pension Fund Global, funded by petroleum revenues.",
+  "historicalNotes": "Introduced in 1875 when Norway joined the Scandinavian Monetary Union. Norway's massive oil wealth has made the krone a petrocurrency.",
+  "geojson": "nok.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.748333333,
+          47.46638889
+        ]
+      },
+      "properties": {
+        "code": "vezelay-church-and-hill",
+        "name": "Vézelay, Church and Hill",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

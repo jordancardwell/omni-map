@@ -1,0 +1,18 @@
+{
+  "code": "mu",
+  "name": "Mauritius",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "G"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of British and European plugs.",
+  "geojson": "mu.geojson"
+}

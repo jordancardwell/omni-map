@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"damietta","name":"Port of Damietta","featureType":"port","portType":"Container Port","country":"Egypt"},"geometry":{"type":"Point","coordinates":[31.8,31.5]}}]}

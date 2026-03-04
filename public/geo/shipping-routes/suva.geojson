@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"suva","name":"Port of Suva","featureType":"port","portType":"Multi-Purpose Port","country":"Fiji"},"geometry":{"type":"Point","coordinates":[178.44,-18.14]}}]}

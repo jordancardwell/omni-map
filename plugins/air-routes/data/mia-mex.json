@@ -1,0 +1,18 @@
+{
+  "code": "mia-mex",
+  "name": "Miami — Mexico City",
+  "airports": [
+    "MIA",
+    "MEX"
+  ],
+  "distanceKm": 2051,
+  "weeklyFlights": 50,
+  "airlines": [
+    "American",
+    "Aeromexico"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MIA–MEX route between Miami and Mexico City. Distance: 2,051 km. ~50 weekly flights operated by American, Aeromexico.",
+  "geojson": "mia-mex.geojson"
+}

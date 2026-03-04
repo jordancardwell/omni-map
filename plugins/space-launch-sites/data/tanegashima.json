@@ -1,0 +1,18 @@
+{
+  "code": "tanegashima",
+  "name": "Tanegashima Space Center",
+  "country": "Japan",
+  "operator": "JAXA",
+  "coordinates": "30.4010°N, 130.9690°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Hayabusa 1 & 2",
+    "SELENE (Kaguya)",
+    "H-IIA/B series",
+    "SLIM lunar lander"
+  ],
+  "orbitalInclinationRange": "30°–98°",
+  "location": "Tanegashima Space Center, Japan",
+  "description": "Japan's largest launch facility on Tanegashima island. Known as one of the most beautiful launch sites in the world. Launches H-IIA, H3, and Epsilon S rockets for JAXA missions.",
+  "geojson": "tanegashima.geojson"
+}

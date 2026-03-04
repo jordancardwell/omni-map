@@ -1,0 +1,16 @@
+{
+  "code": "ie",
+  "name": "Ireland",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "G"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Same as UK plugs. Adapter needed for non-UK/Irish devices.",
+  "geojson": "ie.geojson"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "trans-atlantic-north",
+  "name": "Trans-Atlantic Northern Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Historic shipping corridor linking Northern European ports (Rotterdam, Hamburg, Antwerp) with US/Canadian East Coast ports. Carries ~20% of world container trade.",
+  "geojson": "trans-atlantic-north.geojson"
+}

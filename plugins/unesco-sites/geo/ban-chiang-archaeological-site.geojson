@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.237589,
+          17.407772
+        ]
+      },
+      "properties": {
+        "code": "ban-chiang-archaeological-site",
+        "name": "Ban Chiang Archaeological Site",
+        "type": "Cultural",
+        "country": "Thailand",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

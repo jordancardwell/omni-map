@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.4527777778,
+          37.1972222222
+        ]
+      },
+      "properties": {
+        "code": "royal-tombs-of-the-joseon-dynasty",
+        "name": "Royal Tombs of the Joseon Dynasty",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

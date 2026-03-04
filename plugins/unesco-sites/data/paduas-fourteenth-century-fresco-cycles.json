@@ -1,0 +1,14 @@
+{
+  "code": "paduas-fourteenth-century-fresco-cycles",
+  "name": "Padua’s fourteenth-century fresco cycles",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This property is composed of eight religious and secular building complexes, within the historic walled city of Padua, which house a selection of fresco cycles painted between 1302 and 1397 by different artists for different types of patron and within buildings of diverse functions. Nevertheless, the frescos maintain a unity of style and content. They include Giotto’s Scrovegni Chapel fresco cycle, considered to have marked the beginning of a revolutionary development in the history of mural painting, as well as other fresco cycles of different artists, namely Guariento di Arpo, Giusto de’ Menabuoi, Altichiero da Zevio, Jacopo Avanzi and Jacopo da Verona. As a group, these fresco cycles illustrate how, over the course of a century, fresco art developed along a new creative impetus and understanding of spatial representation.",
+  "danger": false,
+  "geojson": "paduas-fourteenth-century-fresco-cycles.geojson"
+}

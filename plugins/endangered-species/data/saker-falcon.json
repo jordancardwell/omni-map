@@ -1,0 +1,19 @@
+{
+  "code": "saker-falcon",
+  "name": "Saker Falcon",
+  "scientificName": "Falco cherrug",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~12,000-30,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Steppe, grassland, and desert edge",
+  "threats": [
+    "Electrocution",
+    "Trapping for falconry",
+    "Habitat loss",
+    "Pesticides"
+  ],
+  "conservationEfforts": "SakerLife project retrofits power lines in Central Europe. International Saker Falcon Action Plan. Artificial nest platforms increase breeding success.",
+  "description": "A powerful falcon of the Eurasian steppes, historically prized in falconry. The national bird of several Central Asian countries, it has declined rapidly due to electrocution and trapping.",
+  "geojson": "saker-falcon.geojson"
+}

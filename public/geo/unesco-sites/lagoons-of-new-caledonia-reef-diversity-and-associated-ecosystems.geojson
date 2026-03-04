@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.5663888889,
+          -20.4119444444
+        ]
+      },
+      "properties": {
+        "code": "lagoons-of-new-caledonia-reef-diversity-and-associated-ecosystems",
+        "name": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "type": "Natural",
+        "country": "France",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

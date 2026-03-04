@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93583,
+          18.96667
+        ]
+      },
+      "properties": {
+        "code": "elephanta-caves",
+        "name": "Elephanta Caves",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

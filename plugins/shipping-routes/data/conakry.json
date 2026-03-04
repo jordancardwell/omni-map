@@ -1,0 +1,14 @@
+{
+  "code": "conakry",
+  "name": "Port of Conakry",
+  "country": "Guinea",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Conakry in Guinea. Annual cargo throughput: ~15 million tons. Type: Bulk Port.",
+  "geojson": "conakry.geojson"
+}

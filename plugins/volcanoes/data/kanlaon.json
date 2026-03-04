@@ -1,0 +1,21 @@
+{
+  "code": "kanlaon",
+  "name": "Kanlaon",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2435,
+  "lastEruption": "2024",
+  "vei": 3,
+  "country": "Philippines",
+  "region": "Visayas",
+  "location": "Visayas, Philippines",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in the central Philippines. Has erupted over 30 times since 1866.",
+  "description": "Mount Kanlaon is the most active volcano in the central Philippines and the highest peak in the Visayas. It poses significant hazard to the densely populated province of Negros Occidental.",
+  "geojson": "kanlaon.geojson"
+}

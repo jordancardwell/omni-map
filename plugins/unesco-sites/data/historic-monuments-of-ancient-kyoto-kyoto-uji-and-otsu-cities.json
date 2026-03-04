@@ -1,0 +1,15 @@
+{
+  "code": "historic-monuments-of-ancient-kyoto-kyoto-uji-and-otsu-cities",
+  "name": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Built in A.D. 794 on the model of the capitals of ancient China, Kyoto was the imperial capital of Japan from its foundation until the middle of the 19th century. As the centre of Japanese culture for more than 1,000 years, Kyoto illustrates the development of Japanese wooden architecture, particularly religious architecture, and the art of Japanese gardens, which has influenced landscape gardening the world over.",
+  "danger": false,
+  "geojson": "historic-monuments-of-ancient-kyoto-kyoto-uji-and-otsu-cities.geojson"
+}

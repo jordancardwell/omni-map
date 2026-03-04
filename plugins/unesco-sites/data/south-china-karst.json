@@ -1,0 +1,15 @@
+{
+  "code": "south-china-karst",
+  "name": "South China Karst",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "South China Karst is one of the world’s most spectacular examples of humid tropical to subtropical karst landscapes. It is a serial site spread over the provinces of Guizhou, Guangxi, Yunnan and Chongqing and covers 97,125 hectares. It contains the most significant types of karst landforms, including tower karst, pinnacle karst and cone karst formations, along with other spectacular characteristics such as natural bridges, gorges and large cave systems. The stone forests of Shilin are considered superlative natural phenomena and a world reference. The cone and tower karsts of Libo, also considered the world reference site for these types of karst, form a distinctive and beautiful landscape. Wulong Karst has been inscribed for its giant dolines (sinkholes), natural bridges and caves.",
+  "danger": false,
+  "geojson": "south-china-karst.geojson"
+}

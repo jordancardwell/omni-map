@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.7,
+          34.83333333
+        ]
+      },
+      "properties": {
+        "code": "himeji-jo",
+        "name": "Himeji-jo",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

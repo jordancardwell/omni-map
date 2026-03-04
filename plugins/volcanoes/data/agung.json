@@ -1,0 +1,22 @@
+{
+  "code": "agung",
+  "name": "Mount Agung",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3031,
+  "lastEruption": "2019",
+  "vei": 5,
+  "country": "Indonesia",
+  "region": "Bali",
+  "location": "Bali, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "The 1963 eruption was one of the most devastating of the 20th century, killing over 1,100 people and lowering global temperatures. Renewed activity began in 2017.",
+  "description": "Mount Agung is the highest point in Bali and a sacred volcano in Balinese Hinduism. The Besakih Temple, Bali's most important Hindu temple, sits on its slopes.",
+  "geojson": "agung.geojson"
+}

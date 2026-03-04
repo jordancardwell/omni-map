@@ -1,0 +1,22 @@
+{
+  "code": "ctio",
+  "name": "Cerro Tololo Inter-American Observatory",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2215,
+  "aperture": "4 m",
+  "telescopes": [
+    "Blanco 4m",
+    "DECam",
+    "SOAR"
+  ],
+  "keyDiscoveries": [
+    "Dark Energy Survey",
+    "Cosmic shear measurements",
+    "Near-Earth asteroids"
+  ],
+  "location": "Cerro Tololo Inter-American Observatory, Chile",
+  "description": "NOIRLab facility in the Chilean Andes. The Blanco telescope with DECam has been pivotal for the Dark Energy Survey and gravitational wave follow-up.",
+  "geojson": "ctio.geojson"
+}

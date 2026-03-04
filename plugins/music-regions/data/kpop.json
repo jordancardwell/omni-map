@@ -1,0 +1,29 @@
+{
+  "code": "kpop",
+  "name": "K-pop",
+  "region": "South Korea",
+  "traditionFamily": "East Asian Pop",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Synthesizer",
+    "Electronic Drums",
+    "Sampler",
+    "Vocals",
+    "Dance"
+  ],
+  "keyArtists": [
+    "BTS",
+    "BLACKPINK",
+    "EXO",
+    "Girls' Generation",
+    "Seo Taiji"
+  ],
+  "description": "K-pop (Korean pop) is a genre of popular music originating in South Korea, characterized by a wide variety of audiovisual elements including catchy melodies, synchronized choreography, and polished production. While modern K-pop emerged in the 1990s with Seo Taiji and Boys, it has become a global cultural phenomenon known as the Korean Wave (Hallyu).",
+  "resources": [
+    {
+      "title": "Korean Cultural Center – K-pop",
+      "url": "https://www.koreanculture.org/"
+    }
+  ],
+  "geojson": "kpop.geojson"
+}

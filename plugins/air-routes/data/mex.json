@@ -1,0 +1,12 @@
+{
+  "code": "mex",
+  "name": "Mexico City International",
+  "iataCode": "MEX",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "annualPassengers": 39500000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Mexico City International (MEX) in Mexico City, Mexico. Annual passengers: ~39.5M. Classification: Regional Hub.",
+  "geojson": "mex.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "caribbean",
+  "name": "Caribbean Cuisine",
+  "cuisineFamily": "Latin American",
+  "description": "Caribbean cuisine is a vibrant melting pot of African, European, South Asian, and indigenous Taíno and Arawak influences. Each island has developed distinctive dishes, but common threads include jerk seasoning, tropical fruits, seafood, and rice-and-bean combinations. The cuisine celebrates bold spices and communal cooking.",
+  "signatureDishes": [
+    "Jerk Chicken",
+    "Rice and Peas",
+    "Roti",
+    "Ackee and Saltfish",
+    "Callaloo",
+    "Doubles"
+  ],
+  "keyIngredients": [
+    "Scotch Bonnet Peppers",
+    "Allspice",
+    "Coconut",
+    "Plantain",
+    "Rum",
+    "Thyme"
+  ],
+  "cookingTechniques": [
+    "Jerk smoking/grilling",
+    "Curry making",
+    "Slow stewing",
+    "Frying"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Jamaica",
+    "Trinidad",
+    "Cuba",
+    "Barbados",
+    "Haiti"
+  ],
+  "geojson": "caribbean.geojson"
+}

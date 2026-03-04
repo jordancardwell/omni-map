@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.435194444,
+          38.91113889
+        ]
+      },
+      "properties": {
+        "code": "ibiza-biodiversity-and-culture",
+        "name": "Ibiza, Biodiversity and Culture",
+        "type": "Mixed",
+        "country": "Spain",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

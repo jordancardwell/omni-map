@@ -1,0 +1,46 @@
+{
+  "id": "wildfire-risk",
+  "name": "Wildfire Risk Zones",
+  "description": "Global wildfire risk areas based on GWIS/JRC and NASA FIRMS aggregated data — regions colored by fire risk frequency from low to extreme, with major recent fire events shown as point markers",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "flame",
+  "defaultColor": "#EF4444",
+  "categories": ["environment", "climate", "hazards", "natural-disasters"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#EF4444",
+  "schema": "WildfireRiskMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "region", "riskLevel", "dominantVegetation", "description"],
+    "groupBy": "riskGroup",
+    "titleField": "name",
+    "subtitleField": "region",
+    "badgeField": "riskLevel",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "region"
+  },
+  "detailFields": [
+    { "key": "riskLevel", "label": "Fire Risk Level", "type": "status-badge", "statusColors": {
+      "Low": "#EAB308",
+      "Moderate": "#F97316",
+      "High": "#EF4444",
+      "Extreme": "#991B1B"
+    }},
+    { "key": "fireFrequency", "label": "Fire Frequency", "type": "text" },
+    { "key": "dominantVegetation", "label": "Dominant Vegetation", "type": "text" },
+    { "key": "fireSeasonMonths", "label": "Fire Season", "type": "text" },
+    { "key": "areaBurnedAnnual", "label": "Avg. Annual Area Burned (ha)", "type": "text" },
+    { "key": "yearOfEvent", "label": "Year", "type": "text" },
+    { "key": "areaBurned", "label": "Area Burned (ha)", "type": "formatted-number" },
+    { "key": "cause", "label": "Primary Cause", "type": "text" },
+    { "key": "seasonalPattern", "label": "Seasonal Pattern", "type": "markdown" },
+    { "key": "historicalFires", "label": "Historical Fire Data", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

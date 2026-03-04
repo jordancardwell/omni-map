@@ -1,0 +1,20 @@
+{
+  "code": "great-sea-reef",
+  "name": "Great Sea Reef",
+  "location": "Fiji, South Pacific",
+  "areaKm2": 2000,
+  "reefType": "Barrier",
+  "healthStatus": "Endangered",
+  "coralSpecies": 300,
+  "marineSpecies": 700,
+  "threats": [
+    "Sedimentation from logging",
+    "Overfishing",
+    "Climate change",
+    "Agricultural runoff",
+    "Crown-of-thorns starfish"
+  ],
+  "conservationStatus": "WWF Fiji leads conservation efforts. Several locally managed marine areas (LMMAs) established with community cooperation. Fiji committed to 30% marine protection by 2030.",
+  "description": "The Great Sea Reef (Cakaulevu) is the third-longest continuous barrier reef in the world, stretching 200 km along the northern coast of Vanua Levu, Fiji's second-largest island. It is the largest and most significant reef system in the South Pacific outside of Australia.\n\nThe reef supports four endangered species of sea turtles, humpback whale calving grounds, and endemic species. Fiji's traditional vanua system of marine stewardship is increasingly integrated with modern conservation, with over 400 locally managed marine areas established across the country.",
+  "geojson": "great-sea-reef.geojson"
+}

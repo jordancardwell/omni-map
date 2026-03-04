@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"icn","name":"Seoul Incheon International","featureType":"airport","iataCode":"ICN","annualPassengers":61000000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[126.4407,37.4602]}}]}

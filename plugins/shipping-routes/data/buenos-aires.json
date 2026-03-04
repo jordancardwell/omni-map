@@ -1,0 +1,15 @@
+{
+  "code": "buenos-aires",
+  "name": "Port of Buenos Aires",
+  "country": "Argentina",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "River Plate & South Atlantic",
+    "South America–Caribbean Route"
+  ],
+  "description": "Port of Buenos Aires in Argentina. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+  "geojson": "buenos-aires.geojson"
+}

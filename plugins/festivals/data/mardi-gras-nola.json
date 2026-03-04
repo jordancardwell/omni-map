@@ -1,0 +1,14 @@
+{
+  "code": "mardi-gras-nola",
+  "name": "Mardi Gras (New Orleans)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "French Creole tradition",
+  "estimatedAttendance": "1.4+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Krewe parades with elaborate floats; throwing beads and doubloons; masking; jazz music; King Cake; Zulu and Rex parades.",
+  "historicalBackground": "Mardi Gras arrived in Louisiana with French explorers in 1699. The first recorded parade was in 1837. Krewe organizations formalized the tradition.",
+  "description": "New Orleans' legendary pre-Lenten festival of parades, jazz, and revelry, blending French, African, and Creole cultural traditions.",
+  "location": "New Orleans, USA",
+  "geojson": "mardi-gras-nola.geojson"
+}

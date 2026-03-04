@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[43.35,-11.75]},"properties":{"code":"karthala","name":"Karthala","volcanoType":"Shield volcano","status":"Historically Active","elevation":2361,"lastEruption":"2007","vei":2}}]}

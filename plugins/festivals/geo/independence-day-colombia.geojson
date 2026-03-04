@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0721,
+          4.711
+        ]
+      },
+      "properties": {
+        "code": "independence-day-colombia",
+        "name": "Independence Day (Colombia)",
+        "festivalType": "National",
+        "dateOrSeason": "July 20",
+        "location": "Bogotá, Colombia"
+      }
+    }
+  ]
+}

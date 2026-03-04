@@ -1,0 +1,19 @@
+{
+  "code": "philippine-crocodile",
+  "name": "Philippine Crocodile",
+  "scientificName": "Crocodylus mindorensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~100 in wild",
+  "populationTrend": "Increasing",
+  "habitatType": "Freshwater rivers and marshes",
+  "threats": [
+    "Habitat loss",
+    "Persecution",
+    "Fishing nets",
+    "Dynamite fishing"
+  ],
+  "conservationEfforts": "Mabuwaya Foundation community-based conservation on Luzon. Crocodile farming reduces pressure on wild populations. Head-starting program releases captive-raised juveniles.",
+  "description": "One of the rarest crocodilians, found only in the Philippines. Community conservation has changed local attitudes from persecution to protection in key areas.",
+  "geojson": "philippine-crocodile.geojson"
+}

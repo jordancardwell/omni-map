@@ -1,0 +1,16 @@
+{
+  "code": "dunant",
+  "name": "Dunant",
+  "capacityTbps": 250,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 6400,
+  "yearLaid": 2020,
+  "rfsDate": "2021-01",
+  "owner": "Google",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Saint-Hilaire-de-Riez, France"
+  ],
+  "description": "Google's private transatlantic cable named after Red Cross founder Henry Dunant, with 250 Tbps across 12 fiber pairs.",
+  "geojson": "dunant.geojson"
+}

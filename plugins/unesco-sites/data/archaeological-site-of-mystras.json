@@ -1,0 +1,16 @@
+{
+  "code": "archaeological-site-of-mystras",
+  "name": "Archaeological Site of Mystras",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1989",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Mystras, the 'wonder of the Morea', was built as an amphitheatre around the fortress erected in 1249 by the prince of Achaia, William of Villehardouin. Reconquered by the Byzantines, then occupied by the Turks and the Venetians, the city was abandoned in 1832, leaving only the breathtaking medieval ruins, standing in a beautiful landscape.",
+  "danger": false,
+  "geojson": "archaeological-site-of-mystras.geojson"
+}

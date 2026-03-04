@@ -1,0 +1,14 @@
+{
+  "code": "ogasawara-islands",
+  "name": "Ogasawara Islands",
+  "type": "Natural",
+  "country": "Japan",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property numbers more than 30 islands clustered in three groups and covers surface area of 7,939 hectares. The islands offer a variety of landscapes and are home to a wealth of fauna, including the Bonin Flying Fox, a critically endangered bat, and 195 endangered bird species. Four-hundred and forty-one native plant taxa have been documented on the islands whose waters support numerous species of fish, cetaceans and corals. Ogasawara Islands' ecosystems reflect a range of evolutionary processes illustrated through its assemblage of plant species from both southeast and northwest Asia, alongside many endemic species.",
+  "danger": false,
+  "geojson": "ogasawara-islands.geojson"
+}

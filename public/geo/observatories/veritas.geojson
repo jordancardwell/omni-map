@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.9517,31.675]},"properties":{"code":"veritas","name":"VERITAS","observatoryType":"Multi-messenger","status":"Operational","country":"United States"}}]}

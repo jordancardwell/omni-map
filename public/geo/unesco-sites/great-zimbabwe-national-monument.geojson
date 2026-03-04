@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9332689726,
+          -20.271169952
+        ]
+      },
+      "properties": {
+        "code": "great-zimbabwe-national-monument",
+        "name": "Great Zimbabwe National Monument",
+        "type": "Cultural",
+        "country": "Zimbabwe",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

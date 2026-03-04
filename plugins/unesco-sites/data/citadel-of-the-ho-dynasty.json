@@ -1,0 +1,15 @@
+{
+  "code": "citadel-of-the-ho-dynasty",
+  "name": "Citadel of the Ho Dynasty",
+  "type": "Cultural",
+  "country": "Viet Nam",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 14th -century Ho Dynasty citadel, built according to the feng shui principles, testifies to the flowering of neo-Confucianism in late 14th century Viet Nam and its spread to other parts of east Asia. According to these principles it was sited in a landscape of great scenic beauty on an axis joining the Tuong Son and Don Son mountains in a plain between the Ma and Buoi rivers. The citadel buildings represent an outstanding example of a new style of south-east Asian imperial city.",
+  "danger": false,
+  "geojson": "citadel-of-the-ho-dynasty.geojson"
+}

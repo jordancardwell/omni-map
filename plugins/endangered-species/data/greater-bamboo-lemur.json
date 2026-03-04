@@ -1,0 +1,19 @@
+{
+  "code": "greater-bamboo-lemur",
+  "name": "Greater Bamboo Lemur",
+  "scientificName": "Prolemur simus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~500-1,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Bamboo forest",
+  "threats": [
+    "Slash-and-burn agriculture",
+    "Bamboo harvesting",
+    "Mining",
+    "Hunting"
+  ],
+  "conservationEfforts": "Ranomafana National Park protects key populations. Bamboo planting programs restore habitat. Community engagement reduces slash-and-burn near lemur habitat.",
+  "description": "One of the most endangered primates in the world, dependent on bamboo forests in southeastern Madagascar. They consume bamboo containing enough cyanide to kill most animals.",
+  "geojson": "greater-bamboo-lemur.geojson"
+}

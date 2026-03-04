@@ -1,0 +1,16 @@
+{
+  "code": "mt",
+  "name": "Malta",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "G"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "British-style plugs. Adapter needed for European/US devices.",
+  "geojson": "mt.geojson"
+}

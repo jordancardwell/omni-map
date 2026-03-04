@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bs","name":"Bahamas","country":"BS","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-80,22.4],[-80,27],[-73.7,27],[-73.7,22.4],[-80,22.4]]]}}]}

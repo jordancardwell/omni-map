@@ -1,0 +1,16 @@
+{
+  "code": "php",
+  "name": "Philippine Peso",
+  "isoCode": "PHP",
+  "symbol": "₱",
+  "region": "Asia",
+  "centralBank": "Bangko Sentral ng Pilipinas",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Philippines"
+  ],
+  "countryCount": 1,
+  "description": "The Philippine Peso is the currency of the Philippines, an archipelago of over 7,000 islands. Remittances from overseas Filipino workers are a major source of foreign exchange.",
+  "historicalNotes": "The peso has been used since Spanish colonial times. The Philippines was one of the first Asian countries to adopt a decimal currency system.",
+  "geojson": "php.geojson"
+}

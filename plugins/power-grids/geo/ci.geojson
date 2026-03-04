@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ci","name":"Ivory Coast","country":"CI","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-8.6,4.4],[-8.6,10.7],[-2.5,10.7],[-2.5,4.4],[-8.6,4.4]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"rub","name":"Russian Ruble","country":"RU","region":"Europe"},"geometry":{"type":"Polygon","coordinates":[[[27.4,41.2],[27.4,81.9],[180,81.9],[180,41.2],[27.4,41.2]]]}}]}

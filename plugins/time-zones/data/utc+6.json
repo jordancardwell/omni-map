@@ -1,0 +1,26 @@
+{
+  "code": "utc+6",
+  "name": "Bangladesh Standard Time",
+  "nativeName": "UTC+06:00",
+  "utcOffset": "UTC+06:00",
+  "utcOffsetHours": 6,
+  "offsetGroup": "6. East (UTC+6 to +7)",
+  "ianaNames": [
+    "Asia/Dhaka",
+    "Asia/Almaty",
+    "Asia/Omsk"
+  ],
+  "countries": [
+    "Bangladesh",
+    "Kazakhstan (most)",
+    "Bhutan",
+    "Kyrgyzstan",
+    "Russia (Omsk)"
+  ],
+  "dstRules": "Generally no DST observed; Bangladesh briefly used DST in 2009",
+  "description": "Covers the densely populated Bangladesh delta region and the vast steppes of Central Asia. Dhaka is one of the most densely populated cities in the world. Kazakhstan's largest city, Almaty, also operates on this time.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+6.geojson"
+}

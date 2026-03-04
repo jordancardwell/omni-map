@@ -1,0 +1,16 @@
+{
+  "code": "mur",
+  "name": "Mauritian Rupee",
+  "isoCode": "MUR",
+  "symbol": "₨",
+  "region": "Africa",
+  "centralBank": "Bank of Mauritius",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Mauritius"
+  ],
+  "countryCount": 1,
+  "description": "The Mauritian Rupee is the currency of Mauritius, one of Africa's most prosperous and stable economies.",
+  "historicalNotes": "Mauritius has used the rupee since 1877, reflecting its historical connections to India and British colonial rule.",
+  "geojson": "mur.geojson"
+}

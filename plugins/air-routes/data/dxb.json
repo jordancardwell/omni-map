@@ -1,0 +1,12 @@
+{
+  "code": "dxb",
+  "name": "Dubai International",
+  "iataCode": "DXB",
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "annualPassengers": 87000000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "Dubai International (DXB) in Dubai, United Arab Emirates. Annual passengers: ~87M. Classification: Mega Hub.",
+  "geojson": "dxb.geojson"
+}

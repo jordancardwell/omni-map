@@ -1,0 +1,17 @@
+{
+  "code": "papahanaumokuakea",
+  "name": "Papahānaumokuākea",
+  "type": "Mixed",
+  "country": "United States of America",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(iii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Papahānaumokuākea is a vast and isolated linear cluster of small, low lying islands and atolls, with their surrounding ocean, roughly 250 km to the northwest of the main Hawaiian Archipelago and extending over some 1931 km. The area has deep cosmological and traditional significance for living Native Hawaiian culture, as an ancestral environment, as an embodiment of the Hawaiian concept of kinship between people and the natural world, and as the place where it is believed that life originates and to where the spirits return after death. On two of the islands, Nihoa and Makumanamana, there are archaeological remains relating to pre-European settlement and use. Much of the monument is made up of pelagic and deepwater habitats, with notable features such as seamounts and submerged banks, extensive coral reefs and lagoons. It is one of the largest marine protected areas (MPAs) in the world.",
+  "danger": false,
+  "geojson": "papahanaumokuakea.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "national-day-singapore",
+  "name": "National Day (Singapore)",
+  "festivalType": "National",
+  "dateOrSeason": "August 9",
+  "origin": "Singaporean national",
+  "estimatedAttendance": "5.5+ million Singaporeans",
+  "unescoICH": "Not inscribed",
+  "traditions": "National Day Parade at Marina Bay; aerial displays; firework extravaganza; military procession; community celebrations.",
+  "historicalBackground": "Singapore's National Day marks August 9, 1965, when Singapore separated from Malaysia to become an independent republic.",
+  "description": "Singapore's spectacular national celebration, featuring an impressive parade, aerial shows, and fireworks over Marina Bay.",
+  "location": "Singapore",
+  "geojson": "national-day-singapore.geojson"
+}

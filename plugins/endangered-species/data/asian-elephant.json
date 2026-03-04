@@ -1,0 +1,19 @@
+{
+  "code": "asian-elephant",
+  "name": "Asian Elephant",
+  "scientificName": "Elephas maximus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~40,000-50,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical and subtropical forest",
+  "threats": [
+    "Habitat loss",
+    "Human-elephant conflict",
+    "Poaching",
+    "Fragmentation"
+  ],
+  "conservationEfforts": "Elephant corridors established in India. Community-based conflict mitigation using chili fences and beehives. Sri Lanka's Elephant Transit Home rehabilitates orphaned calves.",
+  "description": "Smaller than African elephants, with smaller ears and a single finger-like projection on the trunk tip. They are deeply embedded in Asian culture and religion, yet face severe habitat pressures.",
+  "geojson": "asian-elephant.geojson"
+}

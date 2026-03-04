@@ -1,0 +1,16 @@
+{
+  "code": "pt-cv-cable",
+  "name": "PT-CV Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2481,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "CV Telecom",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Praia, Cape Verde"
+  ],
+  "description": "PT-CV Cable connecting Lisbon to Praia.",
+  "geojson": "pt-cv-cable.geojson"
+}

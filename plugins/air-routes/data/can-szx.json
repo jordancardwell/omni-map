@@ -1,0 +1,18 @@
+{
+  "code": "can-szx",
+  "name": "Guangzhou — Shenzhen",
+  "airports": [
+    "CAN",
+    "SZX"
+  ],
+  "distanceKm": 99,
+  "weeklyFlights": 180,
+  "airlines": [
+    "China Southern",
+    "Shenzhen Airlines"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CAN–SZX route between Guangzhou and Shenzhen. Distance: 99 km. ~180 weekly flights operated by China Southern, Shenzhen Airlines.",
+  "geojson": "can-szx.geojson"
+}

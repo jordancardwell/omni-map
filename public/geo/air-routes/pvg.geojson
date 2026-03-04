@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pvg","name":"Shanghai Pudong International","featureType":"airport","iataCode":"PVG","annualPassengers":57000000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[121.8083,31.1443]}}]}

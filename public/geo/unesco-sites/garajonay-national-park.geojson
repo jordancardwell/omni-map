@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.23722222,
+          28.12625
+        ]
+      },
+      "properties": {
+        "code": "garajonay-national-park",
+        "name": "Garajonay National Park",
+        "type": "Natural",
+        "country": "Spain",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

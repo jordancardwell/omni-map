@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78444,
+          47.55889
+        ]
+      },
+      "properties": {
+        "code": "millenary-benedictine-abbey-of-pannonhalma-and-its-natural-environment",
+        "name": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+        "type": "Cultural",
+        "country": "Hungary",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

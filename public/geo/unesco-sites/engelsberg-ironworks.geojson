@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01,
+          59.97
+        ]
+      },
+      "properties": {
+        "code": "engelsberg-ironworks",
+        "name": "Engelsberg Ironworks",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "dinosaur-provincial-park",
+  "name": "Dinosaur Provincial Park",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "In addition to its particularly beautiful scenery, Dinosaur Provincial Park – located at the heart of the province of Alberta's badlands – contains some of the most important fossil discoveries ever made from the 'Age of Reptiles', in particular about 35 species of dinosaur, dating back some 75 million years.",
+  "danger": false,
+  "geojson": "dinosaur-provincial-park.geojson"
+}

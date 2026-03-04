@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0872222222,
+          47.6161111111
+        ]
+      },
+      "properties": {
+        "code": "megaliths-of-carnac-and-of-the-shores-of-morbihan",
+        "name": "Megaliths of Carnac and of the shores of Morbihan",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

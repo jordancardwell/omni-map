@@ -1,0 +1,13 @@
+{
+  "code": "deserts",
+  "name": "Deserts & Xeric Shrublands",
+  "biomeType": "Desert",
+  "areaKm2": 26000000,
+  "keyCharacteristics": "Extremely arid environments receiving less than 250mm annual rainfall. Dramatic temperature extremes and highly specialized organisms adapted to water scarcity.",
+  "typicalFlora": ["Saguaro cactus", "Creosote bush", "Date palm", "Welwitschia", "Joshua tree", "Prickly pear"],
+  "typicalFauna": ["Camel", "Fennec fox", "Roadrunner", "Sidewinder rattlesnake", "Scorpion", "Addax"],
+  "threatLevel": "Moderate",
+  "conservationStatus": "While less converted than other biomes, deserts face threats from solar energy development, groundwater depletion, off-road recreation, and climate change-driven desertification at margins.",
+  "description": "Deserts and xeric shrublands cover approximately one-third of Earth's land surface, making them the largest terrestrial biome by area. They are defined by extreme aridity, with annual rainfall below 250mm and evaporation greatly exceeding precipitation.\n\nDeserts range from the extreme hyperarid core of the Sahara, which receives virtually no rain, to semi-arid shrublands with seasonal precipitation. Hot deserts like the Sahara and Arabian experience temperatures above 50°C, while cold deserts like the Gobi endure winters below -40°C.\n\nDesert organisms have evolved remarkable adaptations to water scarcity: CAM photosynthesis in cacti, water storage in succulents, deep tap roots, nocturnal activity patterns, and the ability to survive years of dormancy.",
+  "geojson": "deserts.geojson"
+}

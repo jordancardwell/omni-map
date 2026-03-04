@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04472222,
+          40.68944444
+        ]
+      },
+      "properties": {
+        "code": "statue-of-liberty",
+        "name": "Statue of Liberty",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2710555556,
+          43.2976944444
+        ]
+      },
+      "properties": {
+        "code": "mausoleum-of-khoja-ahmed-yasawi",
+        "name": "Mausoleum of Khoja Ahmed Yasawi",
+        "type": "Cultural",
+        "country": "Kazakhstan",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

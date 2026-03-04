@@ -1,0 +1,15 @@
+{
+  "code": "brimstone-hill-fortress-national-park",
+  "name": "Brimstone Hill Fortress National Park",
+  "type": "Cultural",
+  "country": "Saint Kitts and Nevis",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Brimstone Hill Fortress National Park is an outstanding, well-preserved example of 17th- and 18th-century military architecture in a Caribbean context. Designed by the British and built by African slave labour, the fortress is testimony to European colonial expansion, the African slave trade and the emergence of new societies in the Caribbean.",
+  "danger": false,
+  "geojson": "brimstone-hill-fortress-national-park.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "fisher",
+  "name": "Pacific Fisher",
+  "scientificName": "Pekania pennanti",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~3,000 individuals (Pacific pop.)",
+  "populationTrend": "Decreasing",
+  "habitatType": "Old-growth coniferous forest",
+  "threats": [
+    "Habitat loss",
+    "Rodenticide poisoning",
+    "Vehicle strikes",
+    "Trapping"
+  ],
+  "conservationEfforts": "Reintroduced to Olympic National Park and North Cascades. Illegal marijuana grow site cleanup removes rodenticide threat. Listed as threatened under California Endangered Species Act.",
+  "description": "A large member of the weasel family found in Pacific Northwest old-growth forests. They are one of the few predators capable of killing porcupines. Rodenticide from illegal cannabis farms is a major emerging threat.",
+  "geojson": "fisher.geojson"
+}

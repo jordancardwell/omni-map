@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.8458333333,
+          12.5933333333
+        ]
+      },
+      "properties": {
+        "code": "bassari-country-bassari-fula-and-bedik-cultural-landscapes",
+        "name": "Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",
+        "type": "Cultural",
+        "country": "Senegal",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

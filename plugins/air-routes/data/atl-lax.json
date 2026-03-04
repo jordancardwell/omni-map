@@ -1,0 +1,19 @@
+{
+  "code": "atl-lax",
+  "name": "Atlanta — Los Angeles",
+  "airports": [
+    "ATL",
+    "LAX"
+  ],
+  "distanceKm": 3126,
+  "weeklyFlights": 130,
+  "airlines": [
+    "Delta",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–LAX route between Atlanta and Los Angeles. Distance: 3,126 km. ~130 weekly flights operated by Delta, Southwest, Spirit.",
+  "geojson": "atl-lax.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "flag-atlantic-1",
+  "name": "FLAG Atlantic-1",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 12800,
+  "yearLaid": 2000,
+  "rfsDate": "2001-06",
+  "owner": "Global Cloud Xchange",
+  "landingPoints": [
+    "New York, USA",
+    "Bude, UK",
+    "Saint-Hilaire-de-Riez, France"
+  ],
+  "description": "Part of the FLAG global network connecting the Americas to Europe.",
+  "geojson": "flag-atlantic-1.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ca-uk-cable",
+  "name": "CA-UK Cable",
+  "capacityTbps": 30,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3899,
+  "yearLaid": 2013,
+  "rfsDate": "2023-06",
+  "owner": "Hibernia",
+  "landingPoints": [
+    "Halifax, Canada",
+    "Bude, UK"
+  ],
+  "description": "CA-UK Cable connecting Halifax to Bude.",
+  "geojson": "ca-uk-cable.geojson"
+}

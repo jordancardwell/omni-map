@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.68972,
+          41.26
+        ]
+      },
+      "properties": {
+        "code": "city-of-safranbolu",
+        "name": "City of Safranbolu",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

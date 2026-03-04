@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4233333333,
+          55.2672222222
+        ]
+      },
+      "properties": {
+        "code": "stevns-klint",
+        "name": "Stevns Klint",
+        "type": "Natural",
+        "country": "Denmark",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

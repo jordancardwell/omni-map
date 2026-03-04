@@ -1,0 +1,16 @@
+{
+  "code": "it-eg-cable",
+  "name": "IT-EG Cable",
+  "capacityTbps": 29,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4876,
+  "yearLaid": 2017,
+  "rfsDate": "2020-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Genoa, Italy",
+    "Alexandria, Egypt"
+  ],
+  "description": "IT-EG Cable connecting Genoa to Alexandria.",
+  "geojson": "it-eg-cable.geojson"
+}

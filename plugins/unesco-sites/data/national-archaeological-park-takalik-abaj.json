@@ -1,0 +1,15 @@
+{
+  "code": "national-archaeological-park-takalik-abaj",
+  "name": "National Archaeological Park Tak’alik Ab’aj",
+  "type": "Cultural",
+  "country": "Guatemala",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Tak’alik Ab’aj is an archaeological site located on the Pacific Coast of Guatemala. Its 1,700-year history spans a period that saw the transition from the Olmec civilization to the emergence of Early Mayan culture. Tak’alik Ab’aj had a primary role in this transition, in part because it was vital to the long-distance trade route that connected the Isthmus of Tehuantepec in today's Mexico to present-day El Salvador. Ideas and customs were shared extensively along this route. Sacred spaces and buildings were laid out according to cosmological principles, and innovative water management systems, ceramics, and lapidary art can be found. Today, Indigenous groups of different affiliations still consider the site a sacred place and visit it to perform rituals.",
+  "danger": false,
+  "geojson": "national-archaeological-park-takalik-abaj.geojson"
+}

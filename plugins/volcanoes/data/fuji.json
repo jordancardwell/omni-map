@@ -1,0 +1,22 @@
+{
+  "code": "fuji",
+  "name": "Mount Fuji",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 3776,
+  "lastEruption": "1707",
+  "vei": 5,
+  "country": "Japan",
+  "region": "Honshu",
+  "location": "Honshu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Last erupted in 1707 during the Hoei eruption, which deposited ash on Edo (Tokyo). Has erupted at least 16 times since 781 CE.",
+  "description": "Japan's highest peak and most iconic volcano. Mount Fuji is a near-perfect stratovolcano that has been dormant since 1707. It is a UNESCO World Heritage Site and a sacred symbol of Japan.",
+  "geojson": "fuji.geojson"
+}

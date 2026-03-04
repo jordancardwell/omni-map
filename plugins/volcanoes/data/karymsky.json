@@ -1,0 +1,21 @@
+{
+  "code": "karymsky",
+  "name": "Karymsky",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1536,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Russia",
+  "region": "Kamchatka",
+  "location": "Kamchatka, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Has been in near-continuous vulcanian eruption since 1996. One of Kamchatka's most persistently active volcanoes.",
+  "description": "Karymsky is the most active volcano of eastern Kamchatka's volcanic arc. It has been in almost continuous eruption since 1996.",
+  "geojson": "karymsky.geojson"
+}

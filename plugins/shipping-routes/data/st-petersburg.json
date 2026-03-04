@@ -1,0 +1,15 @@
+{
+  "code": "st-petersburg",
+  "name": "Port of St. Petersburg",
+  "country": "Russia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 60,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route",
+    "Scandinavia–Russia Route"
+  ],
+  "description": "Port of St. Petersburg in Russia. Annual cargo throughput: ~60 million tons. Type: Multi-Purpose Port.",
+  "geojson": "st-petersburg.geojson"
+}

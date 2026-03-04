@@ -1,0 +1,15 @@
+{
+  "code": "tchogha-zanbil",
+  "name": "Tchogha Zanbil",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The ruins of the holy city of the Kingdom of Elam, surrounded by three huge concentric walls, are found at Tchogha Zanbil. Founded c. 1250 B.C., the city remained unfinished after it was invaded by Ashurbanipal, as shown by the thousands of unused bricks left at the site.",
+  "danger": false,
+  "geojson": "tchogha-zanbil.geojson"
+}

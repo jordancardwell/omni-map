@@ -1,0 +1,8 @@
+{
+  "code": "scandinavia-russia-route",
+  "name": "Scandinavia–Russia Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Baltic and Arctic shipping connecting Scandinavian ports to Russian ports. Important for energy trade, particularly LNG from Russia's Yamal Peninsula.",
+  "geojson": "scandinavia-russia-route.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "volta",
+  "name": "Volta",
+  "capacityTbps": 200,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 7100,
+  "yearLaid": 2022,
+  "rfsDate": "2024-01",
+  "owner": "Google",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Bilbao, Spain",
+    "Carcavelos, Portugal"
+  ],
+  "description": "Google transatlantic cable connecting US to Iberian Peninsula.",
+  "geojson": "volta.geojson"
+}

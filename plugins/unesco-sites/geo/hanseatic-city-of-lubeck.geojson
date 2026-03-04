@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69167,
+          53.86667
+        ]
+      },
+      "properties": {
+        "code": "hanseatic-city-of-lubeck",
+        "name": "Hanseatic City of Lübeck",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

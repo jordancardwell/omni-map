@@ -1,0 +1,16 @@
+{
+  "code": "antequera-dolmens-site",
+  "name": "Antequera Dolmens Site",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located at the heart of Andalusia in southern Spain, the site comprises three megalithic monuments: the Menga and Viera dolmens and the Tholos of El Romeral, and two natural monuments: La Peña de los Enamorados and El Torcal mountainous formations, which are landmarks within the property. Built during the Neolithic and Bronze Age out of large stone blocks, these monuments form chambers with lintelled roofs or false cupolas. These three tombs, buried beneath their original earth tumuli, are one of the most remarkable architectural works of European prehistory and one of the most important examples of European Megalithism.",
+  "danger": false,
+  "geojson": "antequera-dolmens-site.geojson"
+}

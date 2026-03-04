@@ -1,0 +1,14 @@
+{
+  "code": "honolulu",
+  "name": "Port of Honolulu",
+  "country": "United States",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Honolulu in United States. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+  "geojson": "honolulu.geojson"
+}

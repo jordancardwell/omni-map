@@ -1,0 +1,18 @@
+{
+  "code": "gru-cdg",
+  "name": "São Paulo — Paris",
+  "airports": [
+    "GRU",
+    "CDG"
+  ],
+  "distanceKm": 9405,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air France",
+    "LATAM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–CDG route between São Paulo and Paris. Distance: 9,405 km. ~25 weekly flights operated by Air France, LATAM.",
+  "geojson": "gru-cdg.geojson"
+}

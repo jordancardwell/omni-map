@@ -1,0 +1,16 @@
+{
+  "code": "agave-landscape-and-ancient-industrial-facilities-of-tequila",
+  "name": "Agave Landscape and Ancient Industrial Facilities of Tequila",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The 34,658 ha site, between the foothills of the Tequila Volcano and the deep valley of the Rio Grande River, is part of an expansive landscape of blue agave, shaped by the culture of the plant used since the 16th century to produce tequila spirit and for at least 2,000 years to make fermented drinks and cloth. Within the landscape are working distilleries reflecting the growth in the international consumption of tequila in the 19th and 20th centuries. Today, the agave culture is seen as part of national identity. The area encloses a living, working landscape of blue agave fields and the urban settlements of Tequila, Arenal, and Amatitan with large distilleries where the agave ‘pineapple' is fermented and distilled. The property is also a testimony to the Teuchitlan cultures which shaped the Tequila area from AD 200-900, notably through the creation of terraces for agriculture, housing, temples, ceremonial mounds and ball courts.",
+  "danger": false,
+  "geojson": "agave-landscape-and-ancient-industrial-facilities-of-tequila.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61444,
+          44.87778
+        ]
+      },
+      "properties": {
+        "code": "plitvice-lakes-national-park",
+        "name": "Plitvice Lakes National Park",
+        "type": "Natural",
+        "country": "Croatia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

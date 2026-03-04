@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4932,
+          37.8746
+        ]
+      },
+      "properties": {
+        "code": "mevlana-whirling",
+        "name": "Mevlana Whirling Dervishes Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "December 7–17",
+        "location": "Konya, Turkey"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "melbourne",
+  "name": "Port of Melbourne",
+  "country": "Australia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Australia–Southeast Asia Route",
+    "New Zealand Trade Route"
+  ],
+  "description": "Port of Melbourne in Australia. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "melbourne.geojson"
+}

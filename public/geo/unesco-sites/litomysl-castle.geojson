@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31444,
+          49.87361
+        ]
+      },
+      "properties": {
+        "code": "litomysl-castle",
+        "name": "Litomyšl Castle",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

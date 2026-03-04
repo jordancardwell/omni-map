@@ -1,0 +1,12 @@
+{
+  "code": "sfo",
+  "name": "San Francisco International",
+  "iataCode": "SFO",
+  "city": "San Francisco",
+  "country": "United States",
+  "annualPassengers": 55000000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "San Francisco International (SFO) in San Francisco, United States. Annual passengers: ~55M. Classification: Major Hub.",
+  "geojson": "sfo.geojson"
+}

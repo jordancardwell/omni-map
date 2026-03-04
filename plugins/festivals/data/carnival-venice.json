@@ -1,0 +1,14 @@
+{
+  "code": "carnival-venice",
+  "name": "Carnival of Venice",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Venetian tradition",
+  "estimatedAttendance": "3+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Elaborate masked balls and masquerades; ornate Venetian masks (bauta, moretta, medico della peste); gondola parades; costume contests.",
+  "historicalBackground": "Venice Carnival dates to 1162, celebrating a military victory. The tradition of masks allowed social classes to mingle anonymously. Revived in 1979.",
+  "description": "One of the world's oldest and most elegant carnivals, famous for its ornate masks and mysterious masquerade balls on Venice's canals.",
+  "location": "Venice, Italy",
+  "geojson": "carnival-venice.geojson"
+}

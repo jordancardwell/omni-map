@@ -1,0 +1,14 @@
+{
+  "code": "national-history-park-citadel-sans-souci-ramiers",
+  "name": "National History Park – Citadel, Sans Souci, Ramiers",
+  "type": "Cultural",
+  "country": "Haiti",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "These Haitian monuments date from the beginning of the 19th century, when Haiti proclaimed its independence. The Palace of Sans Souci, the buildings at Ramiers and, in particular, the Citadel serve as universal symbols of liberty, being the first monuments to be constructed by black slaves who had gained their freedom.",
+  "danger": false,
+  "geojson": "national-history-park-citadel-sans-souci-ramiers.geojson"
+}

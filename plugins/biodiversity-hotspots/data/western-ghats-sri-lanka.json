@@ -1,0 +1,29 @@
+{
+  "code": "western-ghats-sri-lanka",
+  "name": "Western Ghats and Sri Lanka",
+  "location": "South Asia (Western India and Sri Lanka)",
+  "areaKm2": 189611,
+  "habitatRemaining": "6.8%",
+  "plantSpecies": 5916,
+  "endemicPlants": 3049,
+  "vertebrateSpecies": 1073,
+  "endemicVertebrates": 355,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Lion-tailed macaque",
+    "Nilgiri tahr",
+    "Sri Lankan leopard",
+    "Purple frog",
+    "Asian elephant"
+  ],
+  "threats": [
+    "Agriculture",
+    "Urbanization",
+    "Mining",
+    "Dam construction",
+    "Plantation monocultures"
+  ],
+  "conservationEfforts": "Western Ghats designated as UNESCO World Heritage Site in 2012. Sri Lanka's Sinharaja Forest Reserve is also a World Heritage Site. Nilgiri Biosphere Reserve protects key habitats. Kerala Forest Research Institute conducts tropical forest research. Elephant corridors being restored.",
+  "description": "The Western Ghats and Sri Lanka hotspot encompasses the mountains running along India's western coast and the island of Sri Lanka. These two landmasses share an ancient geological connection and many species.\n\nThe Western Ghats are older than the Himalaya and harbor ancient lineages that evolved in isolation. The purple frog (Nasikabatrachus sahyadrensis), discovered in 2003, represents a lineage that diverged from other frogs over 100 million years ago. Sri Lanka, despite its small size, has exceptional amphibian endemism — over 90% of its amphibians are found nowhere else. Tea and coffee plantations have replaced much of the original forest.",
+  "geojson": "western-ghats-sri-lanka.geojson"
+}

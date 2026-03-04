@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.7152778,
+          71.18888889
+        ]
+      },
+      "properties": {
+        "code": "natural-system-of-wrangel-island-reserve",
+        "name": "Natural System of Wrangel Island Reserve",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

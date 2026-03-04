@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[25.396,36.404]},"properties":{"code":"santorini","name":"Santorini (Thera)","volcanoType":"Caldera","status":"Historically Active","elevation":567,"lastEruption":"1950","vei":7}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79222222,
+          46.21777778
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-sighisoara",
+        "name": "Historic Centre of Sighişoara",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

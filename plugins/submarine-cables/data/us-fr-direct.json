@@ -1,0 +1,16 @@
+{
+  "code": "us-fr-direct",
+  "name": "US-FR Direct",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5910,
+  "yearLaid": 2015,
+  "rfsDate": "2023-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Marseille, France"
+  ],
+  "description": "US-FR Direct connecting Virginia Beach to Marseille.",
+  "geojson": "us-fr-direct.geojson"
+}

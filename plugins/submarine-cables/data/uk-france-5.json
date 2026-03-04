@@ -1,0 +1,16 @@
+{
+  "code": "uk-france-5",
+  "name": "UK-France 5",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 200,
+  "yearLaid": 2020,
+  "rfsDate": "2020-06",
+  "owner": "GTT Communications",
+  "landingPoints": [
+    "Highbridge, UK",
+    "Deauville, France"
+  ],
+  "description": "English Channel cable.",
+  "geojson": "uk-france-5.geojson"
+}

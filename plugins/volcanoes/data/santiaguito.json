@@ -1,0 +1,22 @@
+{
+  "code": "santiaguito",
+  "name": "Santiaguito",
+  "volcanoType": "Lava dome",
+  "status": "Erupting/Recent",
+  "elevation": 2500,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Guatemala",
+  "region": "Quetzaltenango",
+  "location": "Quetzaltenango, Guatemala",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava domes"
+  ],
+  "eruptionHistory": "Has been continuously erupting since 1922, growing a complex of lava domes in the crater of Santa María volcano.",
+  "description": "Santiaguito is a volcanic dome complex that has been growing continuously since 1922 in the crater formed by Santa María's catastrophic 1902 eruption.",
+  "geojson": "santiaguito.geojson"
+}

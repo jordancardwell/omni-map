@@ -1,0 +1,8 @@
+{
+  "code": "south-america-caribbean",
+  "name": "South America–Caribbean Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Connects major South American ports with Caribbean transshipment hubs. Key corridor for Brazilian exports, Venezuelan oil, and intra-regional trade.",
+  "geojson": "south-america-caribbean.geojson"
+}

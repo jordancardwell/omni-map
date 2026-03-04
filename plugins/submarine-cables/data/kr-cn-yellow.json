@@ -1,0 +1,16 @@
+{
+  "code": "kr-cn-yellow",
+  "name": "KR-CN Yellow",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 418,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Incheon, South Korea",
+    "Qingdao, China"
+  ],
+  "description": "KR-CN Yellow connecting Incheon to Qingdao.",
+  "geojson": "kr-cn-yellow.geojson"
+}

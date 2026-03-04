@@ -1,0 +1,25 @@
+{
+  "code": "inca-empire",
+  "name": "Inca Empire",
+  "era": "Early Modern",
+  "peakYear": "1527 CE",
+  "areaAtPeakKm2": 2000000,
+  "populationEstimate": "12 million",
+  "capital": "Cusco",
+  "keyAchievements": [
+    "Machu Picchu construction",
+    "Quipu record-keeping",
+    "Road network (Qhapaq Ñan)",
+    "Terrace agriculture",
+    "Administrative efficiency"
+  ],
+  "declineFactors": [
+    "Spanish conquest",
+    "Smallpox epidemic",
+    "Civil war between Atahualpa and Huáscar",
+    "Technological disadvantage",
+    "Internal divisions"
+  ],
+  "description": "The Inca Empire (Tawantinsuyu) was the largest empire in pre-Columbian America, stretching along the western coast of South America from present-day Colombia to Chile. Despite lacking a written language, wheeled transport, or iron tools, the Inca built one of history's most sophisticated civilizations.\n\nTheir achievements include Machu Picchu, a 40,000 km road network through the Andes, advanced agricultural terracing, and the quipu system for record-keeping. The empire fell rapidly after Spanish conquistador Francisco Pizarro arrived in 1532.",
+  "geojson": "inca-empire.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "lcogt",
+  "name": "Las Cumbres Observatory (HQ)",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 10,
+  "aperture": "2 × 2m + 10 × 1m + 10 × 0.4m",
+  "telescopes": [
+    "Global robotic network"
+  ],
+  "keyDiscoveries": [
+    "Supernova early observations",
+    "Exoplanet monitoring",
+    "Time-domain astronomy"
+  ],
+  "location": "Las Cumbres Observatory (HQ), United States",
+  "description": "A global network of robotic telescopes at 7 sites spanning both hemispheres. Provides continuous time-domain coverage for transient events and education.",
+  "geojson": "lcogt.geojson"
+}

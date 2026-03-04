@@ -1,0 +1,38 @@
+{
+  "id": "submarine-cables",
+  "name": "Submarine Internet Cables",
+  "description": "Undersea fiber optic cables connecting continents and islands — the physical backbone of the global internet",
+  "type": "lines",
+  "version": "1.0.0",
+  "icon": "cable",
+  "defaultColor": "#0EA5E9",
+  "categories": ["infrastructure", "technology", "internet"],
+  "dataType": "lines",
+  "dataSource": "static",
+  "category": "Infrastructure & Technology",
+  "thumbnail": "#0EA5E9",
+  "schema": "SubmarineCableMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "owner", "landingPoints", "capacityTier", "description"],
+    "groupBy": "capacityTier",
+    "titleField": "name",
+    "subtitleField": "owner",
+    "badgeField": "capacityTbps",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "capacityTier"
+  },
+  "detailFields": [
+    { "key": "capacityTier", "label": "Capacity Tier", "type": "status-badge", "statusColors": { "Ultra-High (>100 Tbps)": "#7C3AED", "High (20–100 Tbps)": "#2563EB", "Medium (5–20 Tbps)": "#0891B2", "Standard (<5 Tbps)": "#6B7280" } },
+    { "key": "capacityTbps", "label": "Design Capacity (Tbps)", "type": "number" },
+    { "key": "lengthKm", "label": "Cable Length (km)", "type": "formatted-number" },
+    { "key": "owner", "label": "Owner / Operator", "type": "text" },
+    { "key": "yearLaid", "label": "Year Laid / Planned", "type": "text" },
+    { "key": "rfsDate", "label": "Ready for Service", "type": "text" },
+    { "key": "landingPoints", "label": "Landing Points", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

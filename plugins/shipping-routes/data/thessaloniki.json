@@ -1,0 +1,14 @@
+{
+  "code": "thessaloniki",
+  "name": "Port of Thessaloniki",
+  "country": "Greece",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 20,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Thessaloniki in Greece. Annual cargo throughput: ~20 million tons. Type: Container Port.",
+  "geojson": "thessaloniki.geojson"
+}

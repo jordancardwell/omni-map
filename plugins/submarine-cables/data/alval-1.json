@@ -1,0 +1,16 @@
+{
+  "code": "alval-1",
+  "name": "Alval-1",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1615,
+  "yearLaid": 2014,
+  "rfsDate": "2012-06",
+  "owner": "Algerie Telecom",
+  "landingPoints": [
+    "Marseille, France",
+    "Algiers, Algeria"
+  ],
+  "description": "Alval-1 cable connecting Marseille to Algiers across the Mediterranean.",
+  "geojson": "alval-1.geojson"
+}

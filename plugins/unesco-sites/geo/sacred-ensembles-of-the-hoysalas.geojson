@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9940722222,
+          13.2124527778
+        ]
+      },
+      "properties": {
+        "code": "sacred-ensembles-of-the-hoysalas",
+        "name": "Sacred Ensembles of the Hoysalas",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"saker-falcon","name":"Saker Falcon"},"geometry":{"type":"Polygon","coordinates":[[[15,40],[60,40],[100,45],[120,50],[120,55],[80,55],[40,50],[15,45],[15,40]]]}}]}

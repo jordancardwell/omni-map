@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[130.658,31.58]},"properties":{"code":"sakurajima-south","name":"Minamidake (Sakurajima)","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":1040,"lastEruption":"2023","vei":3}}]}

@@ -1,0 +1,17 @@
+{
+  "code": "lr",
+  "name": "Liberia",
+  "avgDownloadMbps": 4.8,
+  "avgUploadMbps": 1.4,
+  "avgLatencyMs": 52,
+  "mobileDownloadMbps": 6.8,
+  "mobileUploadMbps": 1.6,
+  "fixedDownloadMbps": 4.8,
+  "fixedUploadMbps": 1.4,
+  "rank": 181,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Limited broadband infrastructure. ~12% year-over-year growth.",
+  "geojson": "lr.geojson"
+}

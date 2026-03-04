@@ -1,0 +1,16 @@
+{
+  "code": "silk-roads-the-routes-network-of-chang-an-tianshan-corridor",
+  "name": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+  "type": "Cultural",
+  "country": "China, Kyrgyzstan, Kazakhstan",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This property is a 5,000 km section of the extensive Silk Roads network, stretching from Chang’an/Luoyang, the central capital of China in the Han and Tang dynasties, to the Zhetysu region of Central Asia. It took shape between the 2nd century BC and 1st century AD and remained in use until the 16th century, linking multiple civilizations and facilitating far-reaching exchanges of activities in trade, religious beliefs, scientific knowledge, technological innovation, cultural practices and the arts. The thirty-three components included in the routes network include capital cities and palace complexes of various empires and Khan kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of The Great Wall, fortifications, tombs and religious buildings.",
+  "danger": false,
+  "geojson": "silk-roads-the-routes-network-of-chang-an-tianshan-corridor.geojson"
+}

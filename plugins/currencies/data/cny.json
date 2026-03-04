@@ -1,0 +1,16 @@
+{
+  "code": "cny",
+  "name": "Chinese Yuan Renminbi",
+  "isoCode": "CNY",
+  "symbol": "¥",
+  "region": "Asia",
+  "centralBank": "People's Bank of China",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "China"
+  ],
+  "countryCount": 1,
+  "description": "The Yuan Renminbi ('people's currency') is the currency of the world's second-largest economy. China has been internationalizing the yuan as part of its economic strategy.",
+  "historicalNotes": "The renminbi was introduced in 1949 by the People's Republic of China. It was tightly pegged to the US dollar until 2005, when China moved to a managed float. The yuan was added to the IMF's Special Drawing Rights basket in 2016.",
+  "geojson": "cny.geojson"
+}

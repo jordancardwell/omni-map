@@ -1,0 +1,12 @@
+{
+  "code": "tin-route",
+  "name": "Tin Route",
+  "routeType": "Mixed",
+  "era": "Ancient",
+  "period": "c. 2500 BCE – 500 BCE",
+  "commodities": ["Tin", "Copper", "Bronze goods", "Gold", "Hides", "Wool", "Wine", "Pottery"],
+  "majorStops": ["Cornwall", "Brittany", "Bordeaux", "Narbonne", "Massalia (Marseille)", "Carthage", "Tyre", "Ugarit"],
+  "significance": "Tin was essential for making bronze — these routes enabled the Bronze Age by connecting tin sources in Britain and Iberia with copper-rich Mediterranean civilizations",
+  "description": "The Tin Routes were ancient trade networks that supplied tin — a rare but essential metal for producing bronze — from sources in Cornwall (Britain), Brittany (France), and Iberia to the great bronze-working civilizations of the Mediterranean.\n\nBronze, an alloy of copper and tin, was the defining material of the Bronze Age (c. 3300–1200 BCE). While copper was relatively abundant around the Mediterranean, tin was scarce and had to be imported from distant sources. This created long-distance trade networks spanning thousands of kilometers.\n\nThe Greek historian Herodotus referred to Britain as the 'Cassiterides' (Tin Islands). Phoenician traders from Tyre and later Carthage sailed through the Strait of Gibraltar to reach Cornwall, while overland routes crossed France via river systems. The trade was so vital that disruption of tin supplies may have contributed to the Bronze Age Collapse around 1200 BCE.",
+  "geojson": "tin-route.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "maqam",
+  "name": "Maqam Music",
+  "region": "Middle East (Iraq, Syria, Egypt)",
+  "traditionFamily": "Middle Eastern",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Oud",
+    "Qanun",
+    "Ney",
+    "Riq",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Umm Kulthum",
+    "Fairuz",
+    "Munir Bashir",
+    "Sabah Fakhri",
+    "Marcel Khalife"
+  ],
+  "description": "Maqam is the modal system of Arabic music, providing the melodic framework for classical and folk traditions across the Middle East. Iraqi Maqam, inscribed on the UNESCO ICH list in 2003, features elaborate vocal improvisations over a modal structure. The system encompasses dozens of scales with quarter-tone intervals, creating the distinctive microtonal quality of Arabic music.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Iraqi Maqam",
+      "url": "https://ich.unesco.org/en/RL/iraqi-maqam-00100"
+    }
+  ],
+  "geojson": "maqam.geojson"
+}

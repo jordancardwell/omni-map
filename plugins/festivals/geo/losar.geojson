@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1,
+          29.65
+        ]
+      },
+      "properties": {
+        "code": "losar",
+        "name": "Losar (Tibetan New Year)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (varies)",
+        "location": "Lhasa, Tibet"
+      }
+    }
+  ]
+}

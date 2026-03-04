@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[101.264,-1.697]},"properties":{"code":"kerinci","name":"Mount Kerinci","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3805,"lastEruption":"2023","vei":2}}]}

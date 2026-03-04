@@ -1,0 +1,15 @@
+{
+  "code": "virginia",
+  "name": "Port of Virginia",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 70,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "East Coast Americas Route"
+  ],
+  "description": "Port of Virginia in United States. Annual cargo throughput: ~70 million tons. Type: Container Port.",
+  "geojson": "virginia.geojson"
+}

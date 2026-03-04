@@ -1,0 +1,16 @@
+{
+  "code": "or-coast",
+  "name": "OR Coast",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 636,
+  "yearLaid": 2012,
+  "rfsDate": "2013-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "Bandon, USA",
+    "Hillsboro, USA"
+  ],
+  "description": "OR Coast connecting Bandon to Hillsboro.",
+  "geojson": "or-coast.geojson"
+}

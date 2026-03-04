@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3317222222,
+          -5.7837111111
+        ]
+      },
+      "properties": {
+        "code": "kuk-early-agricultural-site",
+        "name": "Kuk Early Agricultural Site",
+        "type": "Cultural",
+        "country": "Papua New Guinea",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

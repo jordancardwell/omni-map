@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.16667,
+          62.11667
+        ]
+      },
+      "properties": {
+        "code": "west-norwegian-fjords-geirangerfjord-and-nryfjord",
+        "name": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+        "type": "Natural",
+        "country": "Norway",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

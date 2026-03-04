@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4063888889,
+          32.6369444444
+        ]
+      },
+      "properties": {
+        "code": "monumental-earthworks-of-poverty-point",
+        "name": "Monumental Earthworks of Poverty Point",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

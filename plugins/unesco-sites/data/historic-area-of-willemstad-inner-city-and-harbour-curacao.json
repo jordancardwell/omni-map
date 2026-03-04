@@ -1,0 +1,16 @@
+{
+  "code": "historic-area-of-willemstad-inner-city-and-harbour-curacao",
+  "name": "Historic Area of Willemstad, Inner City and Harbour, Curaçao",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The people of the Netherlands established a trading settlement at a fine natural harbour on the Caribbean island of Curaçao in 1634. The town developed continuously over the following centuries. The modern town consists of several distinct historic districts whose architecture reflects not only European urban-planning concepts but also styles from the Netherlands and from the Spanish and Portuguese colonial towns with which Willemstad engaged in trade.",
+  "danger": false,
+  "geojson": "historic-area-of-willemstad-inner-city-and-harbour-curacao.geojson"
+}

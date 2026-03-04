@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9372222222,
+          50.0613888889
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-krakow",
+        "name": "Historic Centre of Kraków",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

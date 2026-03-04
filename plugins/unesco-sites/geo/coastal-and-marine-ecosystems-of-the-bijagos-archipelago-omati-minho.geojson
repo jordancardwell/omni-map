@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9488888889,
+          11.12
+        ]
+      },
+      "properties": {
+        "code": "coastal-and-marine-ecosystems-of-the-bijagos-archipelago-omati-minho",
+        "name": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+        "type": "Natural",
+        "country": "Guinea-Bissau",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

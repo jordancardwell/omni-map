@@ -1,0 +1,21 @@
+{
+  "code": "haystack",
+  "name": "Haystack Observatory",
+  "country": "United States",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 116,
+  "aperture": "37 m",
+  "telescopes": [
+    "Haystack 37m",
+    "Westford 18m"
+  ],
+  "keyDiscoveries": [
+    "Event Horizon Telescope contribution",
+    "VLBI techniques",
+    "Atmospheric research"
+  ],
+  "location": "Haystack Observatory, United States",
+  "description": "MIT Lincoln Laboratory research facility. Major contributor to the Event Horizon Telescope and pioneer of VLBI techniques.",
+  "geojson": "haystack.geojson"
+}

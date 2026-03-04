@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3666666667,
+          29.11683
+        ]
+      },
+      "properties": {
+        "code": "bam-and-its-cultural-landscape",
+        "name": "Bam and its Cultural Landscape",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

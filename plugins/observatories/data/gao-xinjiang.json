@@ -1,0 +1,21 @@
+{
+  "code": "gao-xinjiang",
+  "name": "Nanshan Station (Xinjiang Astronomical Observatory)",
+  "country": "China",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2080,
+  "aperture": "1 m",
+  "telescopes": [
+    "1m optical",
+    "26m radio"
+  ],
+  "keyDiscoveries": [
+    "Satellite laser ranging",
+    "Space debris tracking",
+    "Variable stars"
+  ],
+  "location": "Nanshan Station (Xinjiang Astronomical Observatory), China",
+  "description": "CAS Xinjiang Astronomical Observatory's Nanshan station near Urumqi. Conducts both optical and radio observations with multiple instruments.",
+  "geojson": "gao-xinjiang.geojson"
+}

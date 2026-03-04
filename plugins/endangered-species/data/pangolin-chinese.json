@@ -1,0 +1,18 @@
+{
+  "code": "pangolin-chinese",
+  "name": "Chinese Pangolin",
+  "scientificName": "Manis pentadactyla",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Subtropical forest and grassland",
+  "threats": [
+    "Illegal wildlife trade",
+    "Traditional medicine demand",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "CITES banned international commercial trade in 2016. China increased pangolin protection to highest national level in 2020. Rescue centers rehabilitate confiscated pangolins.",
+  "description": "The most trafficked mammal in the world. Chinese pangolins are covered in protective keratin scales and can curl into an impenetrable ball when threatened. They consume up to 70 million insects per year.",
+  "geojson": "pangolin-chinese.geojson"
+}

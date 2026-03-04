@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5561111111,
+          53.5286111111
+        ]
+      },
+      "properties": {
+        "code": "wadden-sea",
+        "name": "Wadden Sea",
+        "type": "Natural",
+        "country": "Denmark, Netherlands (Kingdom of the), Germany",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

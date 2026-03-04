@@ -1,0 +1,14 @@
+{
+  "code": "oakland",
+  "name": "Port of Oakland",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Oakland in United States. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+  "geojson": "oakland.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mariachi","name":"Mariachi","region":"Jalisco, Mexico","traditionFamily":"Latin American"},"geometry":{"type":"Polygon","coordinates":[[[-105.5,22],[-105.5,19.5],[-102,19.5],[-102,22],[-105.5,22]]]}}]}

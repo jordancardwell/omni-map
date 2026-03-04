@@ -1,0 +1,18 @@
+{
+  "code": "hkg-sfo",
+  "name": "Hong Kong — San Francisco",
+  "airports": [
+    "HKG",
+    "SFO"
+  ],
+  "distanceKm": 11128,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Cathay Pacific",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HKG–SFO route between Hong Kong and San Francisco. Distance: 11,128 km. ~25 weekly flights operated by Cathay Pacific, United.",
+  "geojson": "hkg-sfo.geojson"
+}

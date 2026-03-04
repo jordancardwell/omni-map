@@ -1,0 +1,27 @@
+{
+  "code": "gagaku",
+  "name": "Gagaku",
+  "region": "Japan",
+  "traditionFamily": "East Asian Classical",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Shō",
+    "Hichiriki",
+    "Ryūteki",
+    "Kakko",
+    "Biwa"
+  ],
+  "keyArtists": [
+    "Imperial Household Agency Musicians",
+    "Tōgi Hideki",
+    "Shiba Sukehiro"
+  ],
+  "description": "Gagaku is the oldest surviving orchestral music tradition in the world, dating to the 7th century at the Japanese Imperial Court. It comprises instrumental ensemble music (kangen), dance music (bugaku), and vocal music (utaimono). The ethereal, slow-moving sound features the mouth organ (shō), oboe-like hichiriki, and transverse flute (ryūteki). UNESCO inscribed gagaku in 2009.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Gagaku",
+      "url": "https://ich.unesco.org/en/RL/gagaku-00265"
+    }
+  ],
+  "geojson": "gagaku.geojson"
+}

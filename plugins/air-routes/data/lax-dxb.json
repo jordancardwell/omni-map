@@ -1,0 +1,17 @@
+{
+  "code": "lax-dxb",
+  "name": "Los Angeles — Dubai",
+  "airports": [
+    "LAX",
+    "DXB"
+  ],
+  "distanceKm": 13400,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAX–DXB route between Los Angeles and Dubai. Distance: 13,400 km. ~30 weekly flights operated by Emirates.",
+  "geojson": "lax-dxb.geojson"
+}

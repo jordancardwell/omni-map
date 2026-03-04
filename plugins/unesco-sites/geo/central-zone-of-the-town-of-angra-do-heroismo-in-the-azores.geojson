@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.22,
+          38.655
+        ]
+      },
+      "properties": {
+        "code": "central-zone-of-the-town-of-angra-do-heroismo-in-the-azores",
+        "name": "Central Zone of the Town of Angra do Heroismo in the Azores",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

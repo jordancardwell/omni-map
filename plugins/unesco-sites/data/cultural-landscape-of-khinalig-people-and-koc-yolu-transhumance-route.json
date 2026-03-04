@@ -1,0 +1,15 @@
+{
+  "code": "cultural-landscape-of-khinalig-people-and-koc-yolu-transhumance-route",
+  "name": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+  "type": "Cultural",
+  "country": "Azerbaijan",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "This cultural landscape is comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal migration between summer and winter pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network including ancient routes, temporary pastures and camping sites, mausoleums, and mosques illustrates a sustainable eco-social system adapted to extreme environmental conditions.",
+  "danger": false,
+  "geojson": "cultural-landscape-of-khinalig-people-and-koc-yolu-transhumance-route.geojson"
+}

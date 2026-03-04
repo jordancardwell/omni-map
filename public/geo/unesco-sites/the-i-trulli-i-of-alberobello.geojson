@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.23694,
+          40.7825
+        ]
+      },
+      "properties": {
+        "code": "the-i-trulli-i-of-alberobello",
+        "name": "The Trulli of Alberobello",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ferto-neusiedlersee-cultural-landscape",
+  "name": "Fertö / Neusiedlersee Cultural Landscape",
+  "type": "Cultural",
+  "country": "Austria, Hungary",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Fertö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area’s considerable cultural interest.",
+  "danger": false,
+  "geojson": "ferto-neusiedlersee-cultural-landscape.geojson"
+}

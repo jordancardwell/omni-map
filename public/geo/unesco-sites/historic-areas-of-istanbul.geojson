@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97993,
+          41.00847
+        ]
+      },
+      "properties": {
+        "code": "historic-areas-of-istanbul",
+        "name": "Historic Areas of Istanbul",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

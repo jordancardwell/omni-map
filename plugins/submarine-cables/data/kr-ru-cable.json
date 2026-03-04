@@ -1,0 +1,16 @@
+{
+  "code": "kr-ru-cable",
+  "name": "KR-RU Cable",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1049,
+  "yearLaid": 2022,
+  "rfsDate": "2023-06",
+  "owner": "Rostelecom",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Vladivostok, Russia"
+  ],
+  "description": "KR-RU Cable connecting Busan to Vladivostok in East Asia.",
+  "geojson": "kr-ru-cable.geojson"
+}

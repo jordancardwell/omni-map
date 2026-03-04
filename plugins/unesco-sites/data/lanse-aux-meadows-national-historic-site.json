@@ -1,0 +1,12 @@
+{
+  "code": "lanse-aux-meadows-national-historic-site",
+  "name": "L’Anse aux Meadows National Historic Site",
+  "type": "Cultural",
+  "country": "Canada",
+  "yearInscribed": "1978",
+  "criteria": [],
+  "region": "Europe and North America",
+  "description": "At the tip of the Great Northern Peninsula of the island of Newfoundland, the remains of an 11th-century Viking settlement are evidence of the first European presence in North America. The excavated remains of wood-framed peat-turf buildings are similar to those found in Norse Greenland and Iceland.",
+  "danger": false,
+  "geojson": "lanse-aux-meadows-national-historic-site.geojson"
+}

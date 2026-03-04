@@ -1,0 +1,18 @@
+{
+  "code": "mnl-bkk",
+  "name": "Manila — Bangkok",
+  "airports": [
+    "MNL",
+    "BKK"
+  ],
+  "distanceKm": 2187,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Philippine Airlines",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MNL–BKK route between Manila and Bangkok. Distance: 2,187 km. ~40 weekly flights operated by Philippine Airlines, Thai Airways.",
+  "geojson": "mnl-bkk.geojson"
+}

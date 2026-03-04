@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.13174,
+          40.07662
+        ]
+      },
+      "properties": {
+        "code": "historic-walled-town-of-cuenca",
+        "name": "Historic Walled Town of Cuenca",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

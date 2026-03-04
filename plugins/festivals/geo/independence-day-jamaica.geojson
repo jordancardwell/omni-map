@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2975,
+          18.1096
+        ]
+      },
+      "properties": {
+        "code": "independence-day-jamaica",
+        "name": "Independence Day (Jamaica)",
+        "festivalType": "National",
+        "dateOrSeason": "August 6",
+        "location": "Kingston, Jamaica"
+      }
+    }
+  ]
+}

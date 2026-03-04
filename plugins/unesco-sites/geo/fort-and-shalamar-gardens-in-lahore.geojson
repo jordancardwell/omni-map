@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.30972222,
+          31.59027778
+        ]
+      },
+      "properties": {
+        "code": "fort-and-shalamar-gardens-in-lahore",
+        "name": "Fort and Shalamar Gardens in Lahore",
+        "type": "Cultural",
+        "country": "Pakistan",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

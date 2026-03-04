@@ -1,0 +1,20 @@
+{
+  "code": "atlas-mauna-loa",
+  "name": "ATLAS Mauna Loa",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3397,
+  "aperture": "0.5 m",
+  "telescopes": [
+    "ATLAS-MLO"
+  ],
+  "keyDiscoveries": [
+    "Asteroid impact warnings",
+    "Near-Earth object discoveries",
+    "Supernovae discoveries"
+  ],
+  "location": "ATLAS Mauna Loa, United States",
+  "description": "Part of the Asteroid Terrestrial-impact Last Alert System network. Scans the entire visible sky every two nights for potentially hazardous asteroids.",
+  "geojson": "atlas-mauna-loa.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169555556,
+          45.97455556
+        ]
+      },
+      "properties": {
+        "code": "i-sacri-monti-i-of-piedmont-and-lombardy",
+        "name": "Sacri Monti of Piedmont and Lombardy",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

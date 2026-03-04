@@ -1,0 +1,8 @@
+{
+  "code": "mediterranean-route",
+  "name": "Mediterranean Shipping Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "East–West corridor through the Mediterranean connecting the Strait of Gibraltar to the Suez Canal. One of the world's busiest waterways with major transshipment hubs.",
+  "geojson": "mediterranean-route.geojson"
+}

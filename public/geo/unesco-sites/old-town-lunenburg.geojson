@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.30916667,
+          44.37611111
+        ]
+      },
+      "properties": {
+        "code": "old-town-lunenburg",
+        "name": "Old Town Lunenburg",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "timgad",
+  "name": "Timgad",
+  "type": "Cultural",
+  "country": "Algeria",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Timgad lies on the northern slopes of the Aurès mountains and was created ex nihilo as a military colony by the Emperor Trajan in AD 100. With its square enclosure and orthogonal design based on the cardo and decumanus, the two perpendicular routes running through the city, it is an excellent example of Roman town planning.",
+  "danger": false,
+  "geojson": "timgad.geojson"
+}

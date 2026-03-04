@@ -1,0 +1,23 @@
+{
+  "code": "esac",
+  "name": "European Space Astronomy Centre",
+  "country": "Spain",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 770,
+  "aperture": "Multiple missions",
+  "telescopes": [
+    "XMM-Newton",
+    "Gaia",
+    "Euclid",
+    "INTEGRAL"
+  ],
+  "keyDiscoveries": [
+    "Gaia stellar catalog (2 billion stars)",
+    "Galaxy X-ray surveys",
+    "Dark universe mapping"
+  ],
+  "location": "European Space Astronomy Centre, Spain",
+  "description": "ESA's space science operations center near Madrid. Manages XMM-Newton, Gaia, Euclid, and INTEGRAL missions, producing the most detailed star map ever.",
+  "geojson": "esac.geojson"
+}

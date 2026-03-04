@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"rotterdam","name":"Port of Rotterdam","featureType":"port","portType":"Multi-Purpose Port","country":"Netherlands"},"geometry":{"type":"Point","coordinates":[4.5,51.9]}}]}

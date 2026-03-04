@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"busan","name":"Port of Busan","featureType":"port","portType":"Container Port","country":"South Korea"},"geometry":{"type":"Point","coordinates":[129.04,35.1]}}]}

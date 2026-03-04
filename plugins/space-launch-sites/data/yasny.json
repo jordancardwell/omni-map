@@ -1,0 +1,17 @@
+{
+  "code": "yasny",
+  "name": "Yasny Launch Base (Dombarovsky)",
+  "country": "Russia",
+  "operator": "ISC Kosmotras",
+  "coordinates": "51.2080°N, 59.8500°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Dnepr rocket (converted SS-18)",
+    "CubeSat rideshares",
+    "DubaiSat-1"
+  ],
+  "orbitalInclinationRange": "51°–98° (polar/SSO)",
+  "location": "Yasny Launch Base (Dombarovsky), Russia",
+  "description": "Russian launch base using converted RS-20 (SS-18 Satan) ICBMs as Dnepr launch vehicles from former missile silos. Launched numerous small satellites before the program ended.",
+  "geojson": "yasny.geojson"
+}

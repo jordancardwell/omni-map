@@ -1,0 +1,17 @@
+{
+  "code": "mex-fra",
+  "name": "Mexico City — Frankfurt",
+  "airports": [
+    "MEX",
+    "FRA"
+  ],
+  "distanceKm": 9551,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–FRA route between Mexico City and Frankfurt. Distance: 9,551 km. ~15 weekly flights operated by Lufthansa.",
+  "geojson": "mex-fra.geojson"
+}

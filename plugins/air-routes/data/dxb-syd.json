@@ -1,0 +1,18 @@
+{
+  "code": "dxb-syd",
+  "name": "Dubai — Sydney",
+  "airports": [
+    "DXB",
+    "SYD"
+  ],
+  "distanceKm": 12043,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Emirates",
+    "Qantas"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–SYD route between Dubai and Sydney. Distance: 12,043 km. ~25 weekly flights operated by Emirates, Qantas.",
+  "geojson": "dxb-syd.geojson"
+}

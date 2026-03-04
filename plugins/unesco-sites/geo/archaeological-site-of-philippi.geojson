@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2852777778,
+          41.0147222222
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-philippi",
+        "name": "Archaeological Site of Philippi",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

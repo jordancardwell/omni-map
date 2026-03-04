@@ -1,0 +1,21 @@
+{
+  "code": "cote-dazur",
+  "name": "Observatoire de la Côte d'Azur",
+  "country": "France",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 372,
+  "aperture": "1.5 m",
+  "telescopes": [
+    "1.5m reflector",
+    "Lunar laser ranging"
+  ],
+  "keyDiscoveries": [
+    "Asteroid studies",
+    "Lunar distance measurements",
+    "Geodesy"
+  ],
+  "location": "Observatoire de la Côte d'Azur, France",
+  "description": "French observatory near Nice combining astronomy, geodesy, and geophysics research. Operates a satellite and lunar laser ranging station.",
+  "geojson": "cote-dazur.geojson"
+}

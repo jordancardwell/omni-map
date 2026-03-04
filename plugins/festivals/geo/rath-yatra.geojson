@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8312,
+          19.8135
+        ]
+      },
+      "properties": {
+        "code": "rath-yatra",
+        "name": "Rath Yatra",
+        "festivalType": "Religious",
+        "dateOrSeason": "June–July",
+        "location": "Puri, India"
+      }
+    }
+  ]
+}

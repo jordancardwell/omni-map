@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-7","name":"Mountain Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-112.5,-60],[-97.5,-60],[-97.5,84],[-112.5,84],[-112.5,-60]]]}}]}

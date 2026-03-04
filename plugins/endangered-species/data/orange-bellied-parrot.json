@@ -1,0 +1,19 @@
+{
+  "code": "orange-bellied-parrot",
+  "name": "Orange-bellied Parrot",
+  "scientificName": "Neophema chrysogaster",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~50 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal saltmarsh and buttongrass moorland",
+  "threats": [
+    "Habitat loss",
+    "Psittacine beak and feather disease",
+    "Small population size",
+    "Climate change"
+  ],
+  "conservationEfforts": "Intensive captive breeding program. Release of captive-bred birds supplements wild population. Habitat management at breeding and wintering sites. Population has stabilized around 50 wild birds.",
+  "description": "One of Australia's rarest birds, breeding only in southwestern Tasmania and wintering on the coast of southeastern Australia. The captive insurance population exceeds the wild one many times over.",
+  "geojson": "orange-bellied-parrot.geojson"
+}

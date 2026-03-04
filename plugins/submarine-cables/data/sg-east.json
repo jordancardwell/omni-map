@@ -1,0 +1,16 @@
+{
+  "code": "sg-east",
+  "name": "SG East",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2645,
+  "yearLaid": 2019,
+  "rfsDate": "2015-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Singapore",
+    "Changi, Singapore"
+  ],
+  "description": "SG East connecting Singapore to Changi in Southeast Asia.",
+  "geojson": "sg-east.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "lake-sturgeon",
+  "name": "Lake Sturgeon",
+  "scientificName": "Acipenser fulvescens",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Depleted in most of range",
+  "populationTrend": "Increasing",
+  "habitatType": "Large freshwater lake and river",
+  "threats": [
+    "Historical overfishing",
+    "Dam construction",
+    "Habitat degradation",
+    "Pollution"
+  ],
+  "conservationEfforts": "Streamside rearing facilities hatch and release juveniles. Fish passage facilities at dams. Commercial fishing bans in most jurisdictions. Populations slowly recovering.",
+  "description": "North America's largest freshwater fish can reach 2.5 meters and live 150 years. Once so abundant they were considered a nuisance, they were nearly eliminated by overfishing in the 19th century.",
+  "geojson": "lake-sturgeon.geojson"
+}

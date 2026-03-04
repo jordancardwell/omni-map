@@ -1,0 +1,17 @@
+{
+  "code": "edwards-afb",
+  "name": "Edwards Air Force Base (NTS/Dryden)",
+  "country": "United States",
+  "operator": "USAF / NASA",
+  "coordinates": "34.9054°N, 117.8836°W",
+  "status": "Active",
+  "notableLaunches": [
+    "X-15 flights",
+    "Space Shuttle landings",
+    "Pegasus air-launched rocket drops"
+  ],
+  "orbitalInclinationRange": "Various (air-launch)",
+  "location": "Edwards Air Force Base (NTS/Dryden), United States",
+  "description": "Famous dry lakebed facility in California's Mojave Desert. Served as Space Shuttle alternate landing site and launch point for air-launched rockets. Home to NASA Armstrong Flight Research Center.",
+  "geojson": "edwards-afb.geojson"
+}

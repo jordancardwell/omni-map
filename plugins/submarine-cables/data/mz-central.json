@@ -1,0 +1,16 @@
+{
+  "code": "mz-central",
+  "name": "MZ Central",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1950,
+  "yearLaid": 2019,
+  "rfsDate": "2015-06",
+  "owner": "TDM",
+  "landingPoints": [
+    "Nacala, Mozambique",
+    "Beira, Mozambique"
+  ],
+  "description": "MZ Central connecting Nacala to Beira in East Africa/Indian Ocean.",
+  "geojson": "mz-central.geojson"
+}

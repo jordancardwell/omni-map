@@ -1,0 +1,21 @@
+{
+  "code": "nevado-del-huila",
+  "name": "Nevado del Huila",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 5364,
+  "lastEruption": "2012",
+  "vei": 3,
+  "country": "Colombia",
+  "region": "Andes",
+  "location": "Andes, Colombia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lahars",
+    "Pyroclastic flows",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Reawakened in 2007 after centuries of dormancy. Multiple eruptions and lahars through 2012.",
+  "description": "Nevado del Huila is the highest active volcano in Colombia. Its reactivation in 2007 after centuries of quiet produced multiple lahars threatening downstream communities.",
+  "geojson": "nevado-del-huila.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "za-coastal",
+  "name": "ZA Coastal",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2048,
+  "yearLaid": 2016,
+  "rfsDate": "2017-06",
+  "owner": "Telkom SA",
+  "landingPoints": [
+    "Durban, South Africa",
+    "Cape Town, South Africa"
+  ],
+  "description": "ZA Coastal connecting Durban to Cape Town along the African coast.",
+  "geojson": "za-coastal.geojson"
+}

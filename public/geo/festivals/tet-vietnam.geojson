@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.0285
+        ]
+      },
+      "properties": {
+        "code": "tet-vietnam",
+        "name": "Tết (Vietnamese New Year)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January–February (varies)",
+        "location": "Hanoi, Vietnam"
+      }
+    }
+  ]
+}

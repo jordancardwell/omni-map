@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.18333,
+          69.95
+        ]
+      },
+      "properties": {
+        "code": "rock-art-of-alta",
+        "name": "Rock Art of Alta",
+        "type": "Cultural",
+        "country": "Norway",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

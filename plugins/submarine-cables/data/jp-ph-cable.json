@@ -1,0 +1,16 @@
+{
+  "code": "jp-ph-cable",
+  "name": "JP-PH Cable",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3586,
+  "yearLaid": 2021,
+  "rfsDate": "2015-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Manila, Philippines"
+  ],
+  "description": "JP-PH Cable connecting Tokyo to Manila.",
+  "geojson": "jp-ph-cable.geojson"
+}

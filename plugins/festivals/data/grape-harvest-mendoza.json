@@ -1,0 +1,14 @@
+{
+  "code": "grape-harvest-mendoza",
+  "name": "Fiesta de la Vendimia",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Late February–March",
+  "origin": "Argentine tradition",
+  "estimatedAttendance": "300,000+ visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Blessing of the grapes; harvest queen coronation; wine tasting; gaucho parades; grape-stomping; spectacular open-air theater.",
+  "historicalBackground": "The Vendimia festival began in 1936 to celebrate Mendoza's wine harvest. Argentina is the world's fifth-largest wine producer.",
+  "description": "Argentina's spectacular grape harvest festival, crowning the Harvest Queen amid wine, gauchos, and open-air spectacles in Mendoza.",
+  "location": "Mendoza, Argentina",
+  "geojson": "grape-harvest-mendoza.geojson"
+}

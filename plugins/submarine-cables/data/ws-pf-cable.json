@@ -1,0 +1,16 @@
+{
+  "code": "ws-pf-cable",
+  "name": "WS-PF Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 608,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "OPT PF",
+  "landingPoints": [
+    "Apia, Samoa",
+    "Papeete, French Polynesia"
+  ],
+  "description": "WS-PF Cable connecting Apia to Papeete in the Pacific.",
+  "geojson": "ws-pf-cable.geojson"
+}

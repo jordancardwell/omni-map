@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          60.6666666667
+        ]
+      },
+      "properties": {
+        "code": "lena-pillars-nature-park",
+        "name": "Lena Pillars Nature Park",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

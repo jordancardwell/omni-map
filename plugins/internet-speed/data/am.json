@@ -1,0 +1,17 @@
+{
+  "code": "am",
+  "name": "Armenia",
+  "avgDownloadMbps": 34.8,
+  "avgUploadMbps": 18.6,
+  "avgLatencyMs": 18,
+  "mobileDownloadMbps": 22.6,
+  "mobileUploadMbps": 5.4,
+  "fixedDownloadMbps": 34.8,
+  "fixedUploadMbps": 18.6,
+  "rank": 86,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Growing tech sector driving demand. ~12% year-over-year growth.",
+  "geojson": "am.geojson"
+}

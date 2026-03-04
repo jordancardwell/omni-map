@@ -1,0 +1,8 @@
+{
+  "code": "intra-asian-route",
+  "name": "Intra-Asian Shipping Network",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Dense web of feeder and mainline services connecting East Asian manufacturing centers. Represents the fastest-growing segment of global container shipping.",
+  "geojson": "intra-asian-route.geojson"
+}

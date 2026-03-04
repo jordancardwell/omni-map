@@ -1,0 +1,16 @@
+{
+  "code": "ae-sg-cable",
+  "name": "AE-SG Cable",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 943,
+  "yearLaid": 2011,
+  "rfsDate": "2019-06",
+  "owner": "Etisalat",
+  "landingPoints": [
+    "Fujairah, UAE",
+    "Singapore"
+  ],
+  "description": "AE-SG Cable connecting Fujairah to Singapore.",
+  "geojson": "ae-sg-cable.geojson"
+}

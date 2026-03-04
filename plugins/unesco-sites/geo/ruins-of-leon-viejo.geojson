@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.616336,
+          12.40047
+        ]
+      },
+      "properties": {
+        "code": "ruins-of-leon-viejo",
+        "name": "Ruins of León Viejo",
+        "type": "Cultural",
+        "country": "Nicaragua",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

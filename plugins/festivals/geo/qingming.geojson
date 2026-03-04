@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "code": "qingming",
+        "name": "Qingming (Tomb-Sweeping Day)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "April 4–6",
+        "location": "Shanghai, China"
+      }
+    }
+  ]
+}

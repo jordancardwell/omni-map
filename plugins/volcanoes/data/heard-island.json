@@ -1,0 +1,20 @@
+{
+  "code": "heard-island",
+  "name": "Big Ben (Heard Island)",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2745,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Australia",
+  "region": "Indian Ocean",
+  "location": "Indian Ocean, Australia",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Has been intermittently active since at least 1910. One of the most remote active volcanoes on Earth.",
+  "description": "Big Ben on Heard Island is one of the most remote active volcanoes in the world. The glacier-covered stratovolcano is visible mainly via satellite imagery.",
+  "geojson": "heard-island.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "beirut",
+  "name": "Port of Beirut",
+  "country": "Lebanon",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Beirut in Lebanon. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+  "geojson": "beirut.geojson"
+}

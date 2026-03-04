@@ -1,0 +1,21 @@
+{
+  "code": "langila",
+  "name": "Langila",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1330,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Papua New Guinea",
+  "region": "New Britain",
+  "location": "New Britain, Papua New Guinea",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of the most frequently active volcanoes in Papua New Guinea with eruptions recorded in most decades.",
+  "description": "Langila is one of Papua New Guinea's most persistently active volcanoes, located on the northern coast of New Britain.",
+  "geojson": "langila.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.180743,
+          -2.334053
+        ]
+      },
+      "properties": {
+        "code": "kahuzi-biega-national-park",
+        "name": "Kahuzi-Biega National Park",
+        "type": "Natural",
+        "country": "Democratic Republic of the Congo",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

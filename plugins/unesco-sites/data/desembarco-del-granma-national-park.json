@@ -1,0 +1,15 @@
+{
+  "code": "desembarco-del-granma-national-park",
+  "name": "Desembarco del Granma National Park",
+  "type": "Natural",
+  "country": "Cuba",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Desembarco del Granma National Park, with its uplifted marine terraces and associated ongoing development of karst topography and features, represents a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area, which is situated in and around Cabo Cruz in south-east Cuba, includes spectacular terraces and cliffs, as well as some of the most pristine and impressive coastal cliffs bordering the western Atlantic.",
+  "danger": false,
+  "geojson": "desembarco-del-granma-national-park.geojson"
+}

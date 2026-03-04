@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42083,
+          51.8425
+        ]
+      },
+      "properties": {
+        "code": "garden-kingdom-of-dessau-worlitz",
+        "name": "Garden Kingdom of Dessau-Wörlitz",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

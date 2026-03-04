@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "sub-saharan-west-african-savanna", "name": "West African Savanna" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-16,14],[-14,15],[-10,15],[-6,14],[-2,12],[2,11],[6,10],[10,10],[14,10],[15,12],[14,14],[10,14],[6,14],[2,13],[-2,13],[-6,13],[-10,14],[-14,14],[-16,14]]]
+    }
+  }]
+}

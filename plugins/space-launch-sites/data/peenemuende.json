@@ -1,0 +1,16 @@
+{
+  "code": "peenemuende",
+  "name": "Peenemunde Army Research Center",
+  "country": "Germany",
+  "operator": "Nazi Germany / Wehrmacht",
+  "coordinates": "54.1500°N, 13.7930°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "V-2 rocket (A-4) development and testing",
+    "First object to reach space (1944)"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital/ballistic)",
+  "location": "Peenemunde Army Research Center, Germany",
+  "description": "Historic German research center where Wernher von Braun's team developed the V-2 rocket — the first human-made object to reach space. Birthplace of modern rocketry. Now a museum.",
+  "geojson": "peenemuende.geojson"
+}

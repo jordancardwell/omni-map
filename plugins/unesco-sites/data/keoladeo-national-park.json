@@ -1,0 +1,14 @@
+{
+  "code": "keoladeo-national-park",
+  "name": "Keoladeo National Park",
+  "type": "Natural",
+  "country": "India",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This former duck-hunting reserve of the Maharajas is one of the major wintering areas for large numbers of aquatic birds from Afghanistan, Turkmenistan, China and Siberia. Some 364 species of birds, including the rare Siberian crane, have been recorded in the park.",
+  "danger": false,
+  "geojson": "keoladeo-national-park.geojson"
+}

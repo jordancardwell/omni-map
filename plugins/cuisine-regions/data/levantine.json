@@ -1,0 +1,36 @@
+{
+  "code": "levantine",
+  "name": "Levantine Cuisine",
+  "cuisineFamily": "Middle Eastern",
+  "description": "Levantine cuisine encompasses the culinary traditions of the Eastern Mediterranean, including Lebanese, Syrian, Palestinian, and Jordanian cooking. It emphasizes mezze culture, olive oil, fresh herbs, and grains. The cuisine celebrates communal dining and features some of the world's most widely adopted dishes.",
+  "signatureDishes": [
+    "Hummus",
+    "Falafel",
+    "Tabbouleh",
+    "Shawarma",
+    "Kibbeh",
+    "Fattoush"
+  ],
+  "keyIngredients": [
+    "Olive Oil",
+    "Tahini",
+    "Chickpeas",
+    "Sumac",
+    "Za'atar",
+    "Pomegranate"
+  ],
+  "cookingTechniques": [
+    "Charcoal grilling",
+    "Slow roasting",
+    "Mezze preparation",
+    "Pickling and preserving"
+  ],
+  "unescoRecognition": "None specific; multiple Levantine food elements under consideration",
+  "keyRegions": [
+    "Lebanon",
+    "Syria",
+    "Palestine",
+    "Jordan"
+  ],
+  "geojson": "levantine.geojson"
+}

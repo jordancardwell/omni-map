@@ -1,0 +1,15 @@
+{
+  "code": "early-christian-necropolis-of-pecs-sopianae",
+  "name": "Early Christian Necropolis of Pécs (Sopianae)",
+  "type": "Cultural",
+  "country": "Hungary",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the 4th century, a remarkable series of decorated tombs were constructed in the cemetery of the Roman provincial town of Sopianae (modern Pécs). These are important both structurally and architecturally, since they were built as underground burial chambers with memorial chapels above the ground. The tombs are important also in artistic terms, since they are richly decorated with murals of outstanding quality depicting Christian themes.",
+  "danger": false,
+  "geojson": "early-christian-necropolis-of-pecs-sopianae.geojson"
+}

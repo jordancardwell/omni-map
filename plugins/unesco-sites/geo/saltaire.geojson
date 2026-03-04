@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.788333333,
+          53.83916667
+        ]
+      },
+      "properties": {
+        "code": "saltaire",
+        "name": "Saltaire",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

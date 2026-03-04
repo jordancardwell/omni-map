@@ -1,0 +1,29 @@
+{
+  "code": "persian-classical",
+  "name": "Persian Classical Music",
+  "region": "Iran",
+  "traditionFamily": "Middle Eastern",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Tar",
+    "Setar",
+    "Santur",
+    "Kamancheh",
+    "Tombak"
+  ],
+  "keyArtists": [
+    "Mohammad Reza Shajarian",
+    "Hossein Alizadeh",
+    "Shahram Nazeri",
+    "Parviz Meshkatian",
+    "Kayhan Kalhor"
+  ],
+  "description": "Persian classical music (musiqi-e assil) is based on the radif, a collection of melodic models organized into twelve dastgahs (modal systems). The tradition emphasizes vocal mastery and improvisation within modal frameworks, with deep connections to Persian poetry by Hafez and Rumi. The radif was inscribed on the UNESCO ICH list in 2009.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Radif of Iranian Music",
+      "url": "https://ich.unesco.org/en/RL/radif-of-iranian-music-00279"
+    }
+  ],
+  "geojson": "persian-classical.geojson"
+}

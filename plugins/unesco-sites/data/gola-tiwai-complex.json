@@ -1,0 +1,15 @@
+{
+  "code": "gola-tiwai-complex",
+  "name": "Gola-Tiwai Complex",
+  "type": "Natural",
+  "country": "Sierra Leone",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This serial property includes the Gola Rainforest National Park and the Tiwai Island Wildlife Sanctuary. Part of the Greater Gola Landscape, it lies within the Upper Guinean Forest, a biodiversity hotspot. The area hosts more than 1,000 plant species (113 endemic), 55 mammals (19 globally threatened), and key species like the African Forest Elephant and Pygmy Hippopotamus. It also supports up to 448 bird species, including the endangered White-necked Rockfowl. Rich in freshwater fish, butterflies, and dragonflies, the site provides vital habitats and ecosystem services, reflecting high conservation value and ecological integrity.",
+  "danger": false,
+  "geojson": "gola-tiwai-complex.geojson"
+}

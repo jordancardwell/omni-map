@@ -1,0 +1,16 @@
+{
+  "code": "jp-tw-south",
+  "name": "JP-TW South",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2649,
+  "yearLaid": 2015,
+  "rfsDate": "2014-06",
+  "owner": "KDDI",
+  "landingPoints": [
+    "Naha, Japan",
+    "Taipei, Taiwan"
+  ],
+  "description": "JP-TW South connecting Naha to Taipei in the Pacific.",
+  "geojson": "jp-tw-south.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.808416667,
+          44.13572222
+        ]
+      },
+      "properties": {
+        "code": "roman-theatre-and-its-surroundings-and-the-triumphal-arch-of-orange",
+        "name": "Roman Theatre and its Surroundings and the Triumphal Arch of Orange",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "kmf",
+  "name": "Comorian Franc",
+  "isoCode": "KMF",
+  "symbol": "CF",
+  "region": "Africa",
+  "centralBank": "Central Bank of the Comoros",
+  "exchangeRateEra": "Pegged to EUR",
+  "countries": [
+    "Comoros"
+  ],
+  "countryCount": 1,
+  "description": "The Comorian Franc is pegged to the Euro through a monetary cooperation agreement with France.",
+  "historicalNotes": "Comoros gained independence from France in 1975. The franc maintains a fixed exchange rate with the Euro.",
+  "geojson": "kmf.geojson"
+}

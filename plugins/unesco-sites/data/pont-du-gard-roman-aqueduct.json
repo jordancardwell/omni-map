@@ -1,0 +1,16 @@
+{
+  "code": "pont-du-gard-roman-aqueduct",
+  "name": "Pont du Gard (Roman Aqueduct)",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Pont du Gard was built shortly before the Christian era to allow the aqueduct of Nîmes (which is almost 50 km long) to cross the Gard river. The Roman architects and hydraulic engineers who designed this bridge, which stands almost 50 m high and is on three levels – the longest measuring 275 m – created a technical as well as an artistic masterpiece.",
+  "danger": false,
+  "geojson": "pont-du-gard-roman-aqueduct.geojson"
+}

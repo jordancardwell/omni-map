@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5933333333,
+          45.2285833333
+        ]
+      },
+      "properties": {
+        "code": "episcopal-complex-of-the-euphrasian-basilica-in-the-historic-centre-of-porec",
+        "name": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+        "type": "Cultural",
+        "country": "Croatia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

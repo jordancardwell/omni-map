@@ -1,0 +1,28 @@
+{
+  "code": "beijing-opera",
+  "name": "Peking Opera (Jingju)",
+  "region": "Beijing, China",
+  "traditionFamily": "East Asian Classical",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Jinghu (Beijing Fiddle)",
+    "Yueqin (Moon Guitar)",
+    "Percussion Ensemble",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Mei Lanfang",
+    "Cheng Yanqiu",
+    "Zhou Xinfang",
+    "Ma Lianliang",
+    "Zhang Junqiu"
+  ],
+  "description": "Peking opera (jingju) is the preeminent form of Chinese opera, combining singing, dialogue, acrobatics, and martial arts into a highly stylized theatrical art. Originating in Beijing in the late 18th century from a fusion of regional opera styles, it features elaborate costumes, face painting, and codified performance techniques. UNESCO inscribed Peking opera in 2010.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Peking Opera",
+      "url": "https://ich.unesco.org/en/RL/peking-opera-00418"
+    }
+  ],
+  "geojson": "beijing-opera.geojson"
+}

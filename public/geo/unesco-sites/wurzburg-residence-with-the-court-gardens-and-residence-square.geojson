@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93889,
+          49.79278
+        ]
+      },
+      "properties": {
+        "code": "wurzburg-residence-with-the-court-gardens-and-residence-square",
+        "name": "Würzburg Residence with the Court Gardens and Residence Square",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

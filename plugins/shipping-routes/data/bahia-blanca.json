@@ -1,0 +1,14 @@
+{
+  "code": "bahia-blanca",
+  "name": "Port of Bahía Blanca",
+  "country": "Argentina",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "River Plate & South Atlantic"
+  ],
+  "description": "Port of Bahía Blanca in Argentina. Annual cargo throughput: ~30 million tons. Type: Bulk Port.",
+  "geojson": "bahia-blanca.geojson"
+}

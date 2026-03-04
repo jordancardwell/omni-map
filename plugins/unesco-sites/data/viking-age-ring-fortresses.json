@@ -1,0 +1,15 @@
+{
+  "code": "viking-age-ring-fortresses",
+  "name": "Viking-Age Ring Fortresses",
+  "type": "Cultural",
+  "country": "Denmark",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These five archaeological sites comprise a system of monumental ring-shaped Viking-Age fortresses sharing a uniform geometric design. Constructed between about 970 and 980 CE, the fortresses at Aggersborg, Fyrkat, Nonnebakken, Trelleborg and Borgring were positioned strategically near important land and sea routes, and each made use of the natural topography of their surrounding landscape for defensive purposes. They are an emblematic demonstration of the centralized power of the Jelling Dynasty, and a testimony to the socio-political transformations that the Danish realm underwent in the late 10th century.",
+  "danger": false,
+  "geojson": "viking-age-ring-fortresses.geojson"
+}

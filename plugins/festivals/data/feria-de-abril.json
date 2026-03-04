@@ -1,0 +1,14 @@
+{
+  "code": "feria-de-abril",
+  "name": "Feria de Abril",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Two weeks after Easter",
+  "origin": "Andalusian tradition",
+  "estimatedAttendance": "1+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Flamenco dancing in private casetas (tents); horse parades; women in traje de flamenca dresses; sherry and tapas; bullfighting.",
+  "historicalBackground": "The Feria de Abril began in 1847 as a livestock fair. It quickly evolved into Seville's greatest secular celebration of Andalusian culture.",
+  "description": "Seville's vibrant spring fair, a week of flamenco, fine horses, and Andalusian elegance in a city of colorful lantern-lit casetas.",
+  "location": "Seville, Spain",
+  "geojson": "feria-de-abril.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "utc+3h30",
+  "name": "Iran Standard Time",
+  "nativeName": "UTC+03:30",
+  "utcOffset": "UTC+03:30",
+  "utcOffsetHours": 3.5,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Asia/Tehran"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "dstRules": "Iran observes DST (UTC+04:30 in summer, ~Mar–Sep)",
+  "description": "Used exclusively by Iran, one of the most populous countries with a half-hour offset timezone. Iran's calendar follows the Solar Hijri system, and its DST schedule differs from Western conventions, typically starting around the March equinox.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+3h30.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "xrism-jaxa",
+  "name": "JAXA Sagamihara (XRISM)",
+  "country": "Japan",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 100,
+  "aperture": "XRISM: 0.45 m (X-ray)",
+  "telescopes": [
+    "XRISM"
+  ],
+  "keyDiscoveries": [
+    "X-ray spectroscopy of galaxy clusters",
+    "Stellar remnants",
+    "High-resolution X-ray spectroscopy"
+  ],
+  "location": "JAXA Sagamihara (XRISM), Japan",
+  "description": "JAXA's Institute of Space and Astronautical Science operates XRISM (X-Ray Imaging and Spectroscopy Mission), launched 2023, for high-resolution X-ray spectroscopy.",
+  "geojson": "xrism-jaxa.geojson"
+}

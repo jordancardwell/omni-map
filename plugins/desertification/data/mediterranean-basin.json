@@ -1,0 +1,30 @@
+{
+  "code": "mediterranean-basin",
+  "name": "Mediterranean Dryland Basin",
+  "region": "Southern Europe & North Africa",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — semi-arid Mediterranean climate",
+  "area": "1,500,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 45000000,
+  "affectedCountries": [
+    "Spain",
+    "Italy",
+    "Greece",
+    "Turkey",
+    "Tunisia",
+    "Morocco",
+    "Algeria"
+  ],
+  "desertificationDrivers": [
+    "Climate change",
+    "Wildfire intensification",
+    "Soil erosion",
+    "Water overextraction",
+    "Tourism pressure"
+  ],
+  "desertFrontier": "Arid zone expanding northward into southern Spain, Sicily, and southern Greece",
+  "description": "The Mediterranean basin is one of the most climate-vulnerable regions in Europe. Southern Spain (Almería, Murcia) is experiencing active desertification, with some areas receiving less than 200mm annual rainfall. Greece and southern Italy face similar pressures. The 2023 IPCC report projects that the Mediterranean will warm 20% faster than the global average, with rainfall declining 4–22% by 2100.",
+  "geojson": "mediterranean-basin.geojson"
+}

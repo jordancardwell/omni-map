@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76369,
+          38.03661
+        ]
+      },
+      "properties": {
+        "code": "nemrut-dag",
+        "name": "Nemrut Dağ",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

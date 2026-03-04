@@ -1,0 +1,16 @@
+{
+  "code": "ik-cable",
+  "name": "IK Cable",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4382,
+  "yearLaid": 2016,
+  "rfsDate": "2012-06",
+  "owner": "PTCL",
+  "landingPoints": [
+    "Mumbai, India",
+    "Karachi, Pakistan"
+  ],
+  "description": "IK Cable connecting Mumbai to Karachi.",
+  "geojson": "ik-cable.geojson"
+}

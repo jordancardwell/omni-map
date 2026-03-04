@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3155277778,
+          14.1953333333
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-zabid",
+        "name": "Historic Town of Zabid",
+        "type": "Cultural",
+        "country": "Yemen",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

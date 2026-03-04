@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kp","name":"North Korea","country":"KP","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[124.3,37.7],[124.3,43.1],[130.7,43.1],[130.7,37.7],[124.3,37.7]]]}}]}

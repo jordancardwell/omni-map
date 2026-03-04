@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.42,
+          55.75638889
+        ]
+      },
+      "properties": {
+        "code": "jelling-mounds-runic-stones-and-church",
+        "name": "Jelling Mounds, Runic Stones and Church",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

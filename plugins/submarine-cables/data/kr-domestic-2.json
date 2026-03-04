@@ -1,0 +1,16 @@
+{
+  "code": "kr-domestic-2",
+  "name": "KR Domestic-2",
+  "capacityTbps": 21,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2172,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Jeju, South Korea",
+    "Busan, South Korea"
+  ],
+  "description": "KR Domestic-2 connecting Jeju to Busan.",
+  "geojson": "kr-domestic-2.geojson"
+}

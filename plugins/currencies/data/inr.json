@@ -1,0 +1,16 @@
+{
+  "code": "inr",
+  "name": "Indian Rupee",
+  "isoCode": "INR",
+  "symbol": "₹",
+  "region": "Asia",
+  "centralBank": "Reserve Bank of India",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "India"
+  ],
+  "countryCount": 1,
+  "description": "The Indian Rupee is the currency of the world's most populous country and fifth-largest economy. India is a major player in IT services and pharmaceuticals.",
+  "historicalNotes": "The rupee has ancient origins, with the name derived from the Sanskrit 'rūpya' (silver coin). Modern decimalization occurred in 1957. The ₹ symbol was adopted in 2010. India's 2016 demonetization of ₹500 and ₹1000 notes was one of the largest monetary experiments in history.",
+  "geojson": "inr.geojson"
+}

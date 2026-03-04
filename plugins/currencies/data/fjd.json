@@ -1,0 +1,16 @@
+{
+  "code": "fjd",
+  "name": "Fijian Dollar",
+  "isoCode": "FJD",
+  "symbol": "FJ$",
+  "region": "Oceania",
+  "centralBank": "Reserve Bank of Fiji",
+  "exchangeRateEra": "Pegged to basket",
+  "countries": [
+    "Fiji"
+  ],
+  "countryCount": 1,
+  "description": "The Fijian Dollar is the currency of Fiji, the tourism and economic hub of the South Pacific.",
+  "historicalNotes": "Introduced in 1969, replacing the Fijian pound. Fiji is the most developed Pacific Island economy.",
+  "geojson": "fjd.geojson"
+}

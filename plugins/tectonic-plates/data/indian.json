@@ -1,0 +1,28 @@
+{
+  "code": "indian",
+  "name": "Indian Plate",
+  "plateClass": "Minor",
+  "crustType": "Continental",
+  "area": 11.9,
+  "movementDirection": "North-Northeast",
+  "movementRate": "40–50",
+  "boundaryTypes": [
+    "Convergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "eurasian",
+    "indo-australian",
+    "arabian",
+    "african"
+  ],
+  "notableFeatures": [
+    "Himalayas",
+    "Tibetan Plateau",
+    "Indo-Gangetic Plain",
+    "Carlsberg Ridge"
+  ],
+  "description": "The Indian Plate is sometimes considered a separate plate from the Australian Plate. It carries the Indian subcontinent and part of the Indian Ocean floor. Its collision with the Eurasian Plate is the most dramatic active continental collision on Earth, creating the Himalayas and the Tibetan Plateau — the highest and most extensive highland on the planet.",
+  "geologicalHistory": "India rifted away from the eastern coast of Africa about 120 million years ago and from Madagascar about 88 million years ago. It then traveled northward at speeds up to 150 mm/year — the fastest recorded plate motion — before colliding with the Eurasian Plate about 50 million years ago. The collision compressed and uplifted sediments to form the Himalayas, which continue to rise today.",
+  "geojson": "indian.geojson"
+}

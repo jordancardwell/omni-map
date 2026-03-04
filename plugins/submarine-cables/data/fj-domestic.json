@@ -1,0 +1,16 @@
+{
+  "code": "fj-domestic",
+  "name": "FJ Domestic",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4012,
+  "yearLaid": 2016,
+  "rfsDate": "2014-06",
+  "owner": "Telecom Fiji",
+  "landingPoints": [
+    "Suva, Fiji",
+    "Lautoka, Fiji"
+  ],
+  "description": "FJ Domestic connecting Suva to Lautoka in the Pacific.",
+  "geojson": "fj-domestic.geojson"
+}

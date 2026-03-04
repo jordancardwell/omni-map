@@ -1,0 +1,14 @@
+{
+  "code": "anzac-day",
+  "name": "ANZAC Day",
+  "festivalType": "National",
+  "dateOrSeason": "April 25",
+  "origin": "Australian/NZ tradition",
+  "estimatedAttendance": "Millions across AU/NZ",
+  "unescoICH": "Not inscribed",
+  "traditions": "Dawn services at war memorials; marches of veterans and descendants; playing The Last Post; two-up gambling; Anzac biscuits.",
+  "historicalBackground": "ANZAC Day marks April 25, 1915, when Australian and New Zealand Army Corps (ANZAC) landed at Gallipoli. It evolved into a day of remembrance for all who served.",
+  "description": "Australia and New Zealand's solemn day of remembrance, honoring the ANZAC tradition with dawn services and veterans' marches.",
+  "location": "Sydney, Australia",
+  "geojson": "anzac-day.geojson"
+}

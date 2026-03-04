@@ -1,0 +1,15 @@
+{
+  "code": "csc",
+  "name": "Cold-Summer Mediterranean",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month <22°C; fewer than 4 months >10°C",
+  "precipitationPattern": "Dry cool summers, wet mild winters",
+  "vegetation": "Subalpine meadow, heath, stunted woodland",
+  "exampleCities": [
+    "Mount Read (Tasmania)",
+    "Balmaceda (Chile)"
+  ],
+  "description": "Cold-summer Mediterranean climate (Csc) is extremely rare, found only in small high-altitude or high-latitude areas that combine cool summers with dry-summer Mediterranean precipitation patterns. Less than a handful of weather stations worldwide record this climate.",
+  "typicalWeather": "Cool year-round with mild, rainy winters and dry but cool summers. Summer temperatures rarely exceed 20°C. Frost possible much of the year at higher elevations. Very limited geographical extent.",
+  "geojson": "csc.geojson"
+}

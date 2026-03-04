@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.378,
+          27.6487
+        ]
+      },
+      "properties": {
+        "code": "holi-mathura",
+        "name": "Holi (Barsana Lathmar)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "March (before Holi)",
+        "location": "Barsana, India"
+      }
+    }
+  ]
+}

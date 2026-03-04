@@ -1,0 +1,18 @@
+{
+  "code": "gharial-tomistoma",
+  "name": "Tomistoma",
+  "scientificName": "Tomistoma schlegelii",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~2,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater peat swamp",
+  "threats": [
+    "Peat swamp conversion",
+    "Dam construction",
+    "Logging"
+  ],
+  "conservationEfforts": "Mesangat Lake in East Kalimantan serves as key habitat. Protected under Indonesian law. Research into population status and ecology is ongoing.",
+  "description": "A slender-snouted crocodilian of Southeast Asian peat swamps. Adults can reach 5 meters. Despite appearances, molecular studies suggest it may be more closely related to gharials than crocodiles.",
+  "geojson": "gharial-tomistoma.geojson"
+}

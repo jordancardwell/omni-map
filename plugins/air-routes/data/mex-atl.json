@@ -1,0 +1,17 @@
+{
+  "code": "mex-atl",
+  "name": "Mexico City — Atlanta",
+  "airports": [
+    "MEX",
+    "ATL"
+  ],
+  "distanceKm": 2144,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–ATL route between Mexico City and Atlanta. Distance: 2,144 km. ~30 weekly flights operated by Delta.",
+  "geojson": "mex-atl.geojson"
+}

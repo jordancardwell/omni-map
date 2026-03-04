@@ -1,0 +1,15 @@
+{
+  "code": "major-mining-sites-of-wallonia",
+  "name": "Major Mining Sites of Wallonia",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The four sites of the property form a strip 170 km long by 3–15 km wide, crossing Belgium from east to west, consisting of the best-preserved 19th- and 20th-century coal-mining sites of the country. It features examples of the utopian architecture from the early periods of the industrial era in Europe within a highly integrated, industrial and urban ensemble, notably the Grand-Hornu colliery and workers’ city designed by Bruno Renard in the first half of the 19th century. Bois-du-Luc includes numerous buildings erected from 1838 to 1909 and one of Europe’s oldest collieries dating back to the late 17th century. While Wallonia had hundreds of collieries, most have lost their infrastructure, while the four components of the listed site retain a high measure of integrity.",
+  "danger": false,
+  "geojson": "major-mining-sites-of-wallonia.geojson"
+}

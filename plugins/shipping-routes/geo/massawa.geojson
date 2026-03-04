@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"massawa","name":"Port of Massawa","featureType":"port","portType":"Multi-Purpose Port","country":"Eritrea"},"geometry":{"type":"Point","coordinates":[39.47,15.61]}}]}

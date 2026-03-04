@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.68461111,
+          -14.00569444
+        ]
+      },
+      "properties": {
+        "code": "cerrado-protected-areas-chapada-dos-veadeiros-and-emas-national-parks",
+        "name": "Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

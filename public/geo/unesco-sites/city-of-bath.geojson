@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3590555556,
+          51.3813055556
+        ]
+      },
+      "properties": {
+        "code": "city-of-bath",
+        "name": "City of Bath",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ttd",
+  "name": "Trinidad and Tobago Dollar",
+  "isoCode": "TTD",
+  "symbol": "TT$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Trinidad and Tobago",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Trinidad and Tobago"
+  ],
+  "countryCount": 1,
+  "description": "The Trinidad and Tobago Dollar is the currency of the twin-island Caribbean nation known for its petroleum and natural gas industries.",
+  "historicalNotes": "Introduced in 1964, replacing the British West Indies dollar. Trinidad and Tobago is the wealthiest Caribbean nation by GDP per capita.",
+  "geojson": "ttd.geojson"
+}

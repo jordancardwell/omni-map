@@ -1,0 +1,20 @@
+{
+  "code": "piton-de-la-fournaise",
+  "name": "Piton de la Fournaise",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 2632,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "France",
+  "region": "Réunion",
+  "location": "Réunion, France",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "One of the world's most active volcanoes. Erupts on average every 8 months. Eruptions are typically effusive and rarely dangerous.",
+  "description": "Piton de la Fournaise is one of the world's most active and accessible volcanoes. Its frequent, non-explosive eruptions make it a popular tourist attraction on Réunion Island.",
+  "geojson": "piton-de-la-fournaise.geojson"
+}

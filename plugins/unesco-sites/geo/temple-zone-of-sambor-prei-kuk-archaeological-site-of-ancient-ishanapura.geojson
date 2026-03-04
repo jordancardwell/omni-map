@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0430555556,
+          12.8725
+        ]
+      },
+      "properties": {
+        "code": "temple-zone-of-sambor-prei-kuk-archaeological-site-of-ancient-ishanapura",
+        "name": "Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",
+        "type": "Cultural",
+        "country": "Cambodia",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

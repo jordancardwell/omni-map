@@ -1,0 +1,15 @@
+{
+  "code": "hangul",
+  "name": "Hangul",
+  "scriptType": "Alphabet",
+  "characters": 24,
+  "direction": "LTR",
+  "originDate": "1443 CE",
+  "sampleText": "한글은 아름다운 글자입니다",
+  "relatedScripts": [
+    "chinese"
+  ],
+  "description": "Hangul is the Korean alphabet, invented in 1443 by King Sejong the Great and his scholars. It is considered one of the most scientifically designed writing systems. Characters are composed of 14 consonants and 10 vowels arranged into syllabic blocks. The shapes of consonant letters are based on the articulatory phonetics of how sounds are produced.",
+  "historicalNotes": "Before Hangul, Koreans used Classical Chinese characters (hanja), which were inaccessible to commoners. King Sejong created Hangul to increase literacy among the general population. Initially called Hunminjeongeum ('the correct sounds for the instruction of the people'), it faced resistance from the scholarly elite. Hangul gained widespread acceptance in the 20th century and is celebrated annually on Hangul Day (October 9).",
+  "geojson": "hangul.geojson"
+}

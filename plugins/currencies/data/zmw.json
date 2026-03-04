@@ -1,0 +1,16 @@
+{
+  "code": "zmw",
+  "name": "Zambian Kwacha",
+  "isoCode": "ZMW",
+  "symbol": "ZK",
+  "region": "Africa",
+  "centralBank": "Bank of Zambia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Zambia"
+  ],
+  "countryCount": 1,
+  "description": "The Zambian Kwacha means 'dawn' in the Bemba language, symbolizing independence. Zambia is one of Africa's largest copper producers.",
+  "historicalNotes": "The current kwacha was introduced in 2013, removing three zeros from the old kwacha.",
+  "geojson": "zmw.geojson"
+}

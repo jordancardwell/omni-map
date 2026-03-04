@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cd","name":"DR Congo","country":"CD","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[12.2,-13.5],[12.2,5.4],[31.3,5.4],[31.3,-13.5],[12.2,-13.5]]]}}]}

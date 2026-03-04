@@ -1,0 +1,14 @@
+{
+  "code": "statue-of-liberty",
+  "name": "Statue of Liberty",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(i)"
+  ],
+  "region": "Europe and North America",
+  "description": "Made in Paris by the French sculptor Bartholdi, in collaboration with Gustave Eiffel (who was responsible for the steel framework), this towering monument to liberty was a gift from France on the centenary of American independence. Inaugurated in 1886, the sculpture stands at the entrance to New York Harbour and has welcomed millions of immigrants to the United States ever since.",
+  "danger": false,
+  "geojson": "statue-of-liberty.geojson"
+}

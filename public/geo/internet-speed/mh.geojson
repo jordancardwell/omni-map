@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mh","name":"Marshall Islands","country":"MH","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[160.8,4.6],[160.8,14.6],[172,14.6],[172,4.6],[160.8,4.6]]]}}]}

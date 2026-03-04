@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[14.9934,37.751]},"properties":{"code":"etna","name":"Mount Etna","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3357,"lastEruption":"2023","vei":3}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"om","name":"Oman","country":"OM","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[52,16.6],[52,26.4],[59.8,26.4],[59.8,16.6],[52,16.6]]]}}]}

@@ -1,0 +1,23 @@
+{
+  "code": "idsp-kerry",
+  "name": "Kerry International Dark Sky Reserve",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Reserve (Gold Tier)",
+  "designationYear": "2014",
+  "areaSqKm": 700,
+  "visibleObjects": [
+    "Milky Way",
+    "Andromeda Galaxy",
+    "Star clusters",
+    "Bright nebulae"
+  ],
+  "exampleLocations": [
+    "Iveragh Peninsula, County Kerry, Ireland"
+  ],
+  "nearestDarkSkyReserves": [
+    "Kerry (this site)"
+  ],
+  "description": "Located on the Iveragh Peninsula in southwest Ireland, this Gold Tier reserve benefits from its position on the Atlantic coast — with nothing but ocean to the west and south, there are zero artificial light sources in those directions. The reserve was the first Gold Tier designation outside North America. The combination of Atlantic air clarity and remote coastal position creates surprisingly pristine skies for such a northerly, oceanic location. The Dark Sky Reserve has become a major tourism draw for the Wild Atlantic Way.",
+  "geojson": "idsp-kerry.geojson"
+}

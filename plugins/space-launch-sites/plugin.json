@@ -1,0 +1,35 @@
+{
+  "id": "space-launch-sites",
+  "name": "Space Launch Sites",
+  "description": "Space launch facilities worldwide — active, historical, and planned spaceports including government and commercial launch sites",
+  "type": "points",
+  "version": "1.0.0",
+  "icon": "rocket",
+  "defaultColor": "#22C55E",
+  "categories": ["space", "infrastructure", "technology"],
+  "dataType": "points",
+  "dataSource": "static",
+  "category": "Space & Technology",
+  "thumbnail": "#22C55E",
+  "schema": "LaunchSiteMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "country", "operator", "status", "description"],
+    "groupBy": "status",
+    "titleField": "name",
+    "subtitleField": "country",
+    "badgeField": "status"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "location"
+  },
+  "detailFields": [
+    { "key": "status", "label": "Status", "type": "status-badge", "statusColors": { "Active": "#22C55E", "Historical": "#9CA3AF", "Planned": "#3B82F6" } },
+    { "key": "operator", "label": "Operator", "type": "text" },
+    { "key": "country", "label": "Country", "type": "text" },
+    { "key": "orbitalInclinationRange", "label": "Orbital Inclination Range", "type": "text" },
+    { "key": "notableLaunches", "label": "Notable Launches", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "vesak",
+  "name": "Vesak",
+  "festivalType": "Religious",
+  "dateOrSeason": "May (full moon)",
+  "origin": "Buddhist tradition",
+  "estimatedAttendance": "500+ million Buddhists worldwide",
+  "unescoICH": "Inscribed 2019",
+  "traditions": "Visiting temples; meditation and prayer; bathing Buddha statues; releasing caged birds; lantern processions; acts of generosity to monks and the poor.",
+  "historicalBackground": "Vesak celebrates the birth, enlightenment, and death of Siddhartha Gautama (the Buddha). It is the most sacred day in the Buddhist calendar, observed since ancient times.",
+  "description": "The most important Buddhist festival, celebrating the birth, enlightenment, and passing of the Buddha on the full moon day of May.",
+  "location": "Kandy, Sri Lanka",
+  "geojson": "vesak.geojson"
+}

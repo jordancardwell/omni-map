@@ -1,0 +1,20 @@
+{
+  "code": "bohyunsan",
+  "name": "Bohyunsan Optical Astronomy Observatory",
+  "country": "South Korea",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1124,
+  "aperture": "1.8 m",
+  "telescopes": [
+    "Bohyunsan 1.8m"
+  ],
+  "keyDiscoveries": [
+    "Gamma-ray burst follow-up",
+    "Galaxy photometry",
+    "Asteroid lightcurves"
+  ],
+  "location": "Bohyunsan Optical Astronomy Observatory, South Korea",
+  "description": "KASI's primary optical telescope at Bohyunsan in North Gyeongsang Province. South Korea's largest optical telescope for research observations.",
+  "geojson": "bohyunsan.geojson"
+}

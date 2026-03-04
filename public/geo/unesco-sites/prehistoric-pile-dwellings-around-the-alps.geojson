@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2075,
+          47.2783333333
+        ]
+      },
+      "properties": {
+        "code": "prehistoric-pile-dwellings-around-the-alps",
+        "name": "Prehistoric Pile Dwellings around the Alps",
+        "type": "Cultural",
+        "country": "Italy, France, Austria, Slovenia, Switzerland, Germany",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

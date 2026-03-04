@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2258333333,
+          47.7427777778
+        ]
+      },
+      "properties": {
+        "code": "deer-stone-monuments-and-related-bronze-age-sites",
+        "name": "Deer Stone Monuments and Related Bronze Age Sites",
+        "type": "Cultural",
+        "country": "Mongolia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

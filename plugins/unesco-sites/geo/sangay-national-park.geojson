@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.33333,
+          -1.83333
+        ]
+      },
+      "properties": {
+        "code": "sangay-national-park",
+        "name": "Sangay National Park",
+        "type": "Natural",
+        "country": "Ecuador",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

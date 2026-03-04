@@ -1,0 +1,17 @@
+{
+  "code": "jiuquan-commercial",
+  "name": "Jiuquan Commercial Launch Zone",
+  "country": "China",
+  "operator": "CASC / Commercial operators",
+  "coordinates": "40.9200°N, 100.3100°E",
+  "status": "Active",
+  "notableLaunches": [
+    "CERES-1 commercial launches",
+    "Smart Dragon series",
+    "Hyperbola-1"
+  ],
+  "orbitalInclinationRange": "40°–70°",
+  "location": "Jiuquan Commercial Launch Zone, China",
+  "description": "Dedicated commercial launch zone adjacent to the main Jiuquan center. Used by China's growing commercial space industry including Galactic Energy, iSpace, and Landspace.",
+  "geojson": "jiuquan-commercial.geojson"
+}

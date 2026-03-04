@@ -1,0 +1,16 @@
+{
+  "code": "sn-gn-cable-2",
+  "name": "SN-GN Cable-2",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1380,
+  "yearLaid": 2018,
+  "rfsDate": "2020-06",
+  "owner": "Sonatel",
+  "landingPoints": [
+    "Dakar, Senegal",
+    "Conakry, Guinea"
+  ],
+  "description": "SN-GN Cable-2 connecting Dakar to Conakry along the West African coast.",
+  "geojson": "sn-gn-cable-2.geojson"
+}

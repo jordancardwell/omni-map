@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13722,
+          50.48111
+        ]
+      },
+      "properties": {
+        "code": "the-four-lifts-on-the-canal-du-centre-and-their-environs-la-louviere-and-le-roeu",
+        "name": "The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

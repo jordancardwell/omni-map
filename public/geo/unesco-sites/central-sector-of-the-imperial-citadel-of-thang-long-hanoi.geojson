@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.838623,
+          21.03752
+        ]
+      },
+      "properties": {
+        "code": "central-sector-of-the-imperial-citadel-of-thang-long-hanoi",
+        "name": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
+        "type": "Cultural",
+        "country": "Viet Nam",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

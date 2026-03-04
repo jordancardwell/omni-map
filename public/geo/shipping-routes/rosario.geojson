@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"rosario","name":"Port of Rosario","featureType":"port","portType":"Bulk Port","country":"Argentina"},"geometry":{"type":"Point","coordinates":[-60.65,-32.95]}}]}

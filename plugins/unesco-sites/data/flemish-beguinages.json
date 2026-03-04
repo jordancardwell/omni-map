@@ -1,0 +1,16 @@
+{
+  "code": "flemish-beguinages",
+  "name": "Flemish Béguinages",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Béguines were women who dedicated their lives to God without retiring from the world. In the 13th century they founded the béguinages , enclosed communities designed to meet their spiritual and material needs. The Flemish béguinages are architectural ensembles composed of houses, churches, ancillary buildings and green spaces, with a layout of either urban or rural origin and built in styles specific to the Flemish cultural region. They are a fascinating reminder of the tradition of the Béguines that developed in north-western Europe in the Middle Ages.",
+  "danger": false,
+  "geojson": "flemish-beguinages.geojson"
+}

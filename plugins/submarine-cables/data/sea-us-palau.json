@@ -1,0 +1,16 @@
+{
+  "code": "sea-us-palau",
+  "name": "SEA-US-Palau",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4451,
+  "yearLaid": 2017,
+  "rfsDate": "2014-06",
+  "owner": "BSCC",
+  "landingPoints": [
+    "Guam",
+    "Palau"
+  ],
+  "description": "SEA-US-Palau connecting Guam to Palau in the Pacific.",
+  "geojson": "sea-us-palau.geojson"
+}

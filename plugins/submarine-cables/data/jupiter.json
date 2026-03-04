@@ -1,0 +1,17 @@
+{
+  "code": "jupiter",
+  "name": "Jupiter",
+  "capacityTbps": 60,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 14300,
+  "yearLaid": 2020,
+  "rfsDate": "2020-06",
+  "owner": "Google, Meta, Amazon",
+  "landingPoints": [
+    "Hermosa Beach, USA",
+    "Maruyama, Japan",
+    "Manila, Philippines"
+  ],
+  "description": "Trans-Pacific cable connecting the US, Japan, and the Philippines.",
+  "geojson": "jupiter.geojson"
+}

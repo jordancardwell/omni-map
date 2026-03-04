@@ -1,0 +1,17 @@
+{
+  "code": "cathedral-torre-civica-and-piazza-grande-modena",
+  "name": "Cathedral, Torre Civica and Piazza Grande, Modena",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The magnificent 12th-century cathedral at Modena, the work of two great artists (Lanfranco and Wiligelmus), is a supreme example of early Romanesque art. With its piazza and soaring tower, it testifies to the faith of its builders and the power of the Canossa dynasty who commissioned it.",
+  "danger": false,
+  "geojson": "cathedral-torre-civica-and-piazza-grande-modena.geojson"
+}

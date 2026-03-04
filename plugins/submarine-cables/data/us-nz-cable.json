@@ -1,0 +1,16 @@
+{
+  "code": "us-nz-cable",
+  "name": "US-NZ Cable",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9976,
+  "yearLaid": 2017,
+  "rfsDate": "2023-06",
+  "owner": "Southern Cross",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Auckland, New Zealand"
+  ],
+  "description": "US-NZ Cable connecting Los Angeles to Auckland.",
+  "geojson": "us-nz-cable.geojson"
+}

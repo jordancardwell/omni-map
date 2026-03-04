@@ -1,0 +1,20 @@
+{
+  "code": "northern-cross",
+  "name": "Northern Cross Radio Telescope",
+  "country": "Italy",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 28,
+  "aperture": "564m × 640m cross",
+  "telescopes": [
+    "Northern Cross"
+  ],
+  "keyDiscoveries": [
+    "Radio source surveys",
+    "Pulsar searches",
+    "Fast radio burst detection"
+  ],
+  "location": "Northern Cross Radio Telescope, Italy",
+  "description": "One of the largest cross-type radio telescopes in the world at Medicina. Currently being upgraded for fast radio burst and pulsar observations.",
+  "geojson": "northern-cross.geojson"
+}

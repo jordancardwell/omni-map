@@ -1,0 +1,20 @@
+{
+  "code": "geo600",
+  "name": "GEO600",
+  "country": "Germany",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 58,
+  "aperture": "600 m arms",
+  "telescopes": [
+    "GEO600"
+  ],
+  "keyDiscoveries": [
+    "Squeezed light technology",
+    "GW detector technology development",
+    "Signal recycling"
+  ],
+  "location": "GEO600, Germany",
+  "description": "German-British gravitational wave detector near Hannover. A testbed for advanced technologies later adopted by LIGO and Virgo.",
+  "geojson": "geo600.geojson"
+}

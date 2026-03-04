@@ -1,0 +1,16 @@
+{
+  "code": "al-anbar",
+  "name": "Al-Anbar Space Launch Facility",
+  "country": "Iraq",
+  "operator": "Iraq Space Agency (former)",
+  "coordinates": "33.3000°N, 42.5000°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Al-Abid SLV attempt (1989)",
+    "Project Babylon (supergun)"
+  ],
+  "orbitalInclinationRange": "33°–50° (planned)",
+  "location": "Al-Anbar Space Launch Facility, Iraq",
+  "description": "Iraq's attempted space launch facility. The Al-Abid SLV was tested once in 1989 but likely failed. Associated with Gerald Bull's Project Babylon supergun. Destroyed during 1991 Gulf War.",
+  "geojson": "al-anbar.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "cerrado",
+  "name": "Cerrado",
+  "location": "Central Brazil",
+  "areaKm2": 2031990,
+  "habitatRemaining": "21.3%",
+  "plantSpecies": 12070,
+  "endemicPlants": 4400,
+  "vertebrateSpecies": 1268,
+  "endemicVertebrates": 117,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Maned wolf",
+    "Giant anteater",
+    "Giant armadillo",
+    "Hyacinth macaw",
+    "Pampas deer"
+  ],
+  "threats": [
+    "Soybean agriculture",
+    "Cattle ranching",
+    "Charcoal production",
+    "Fire regime changes",
+    "Infrastructure"
+  ],
+  "conservationEfforts": "Only about 8% of the Cerrado is in protected areas. The Cerrado Manifesto (2017) calls for zero deforestation. Conservation programs for maned wolf and giant armadillo. Sustainable agriculture initiatives promote Cerrado-friendly farming.",
+  "description": "The Cerrado is the world's most biodiverse tropical savanna, covering roughly 21% of Brazil's land area. It is the second-largest biome in South America after the Amazon. The landscape ranges from dense grasslands to open woodlands with twisted, fire-adapted trees.\n\nOften called the 'upside-down forest' because its plants invest heavily in deep root systems, the Cerrado stores vast amounts of carbon underground. It is also the source of major river systems including tributaries of the Amazon, Paraná, and São Francisco rivers, making it crucial for Brazil's water security.",
+  "geojson": "cerrado.geojson"
+}

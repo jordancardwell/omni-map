@@ -1,0 +1,18 @@
+{
+  "code": "cdg-fra",
+  "name": "Paris — Frankfurt",
+  "airports": [
+    "CDG",
+    "FRA"
+  ],
+  "distanceKm": 449,
+  "weeklyFlights": 130,
+  "airlines": [
+    "Air France",
+    "Lufthansa"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CDG–FRA route between Paris and Frankfurt. Distance: 449 km. ~130 weekly flights operated by Air France, Lufthansa.",
+  "geojson": "cdg-fra.geojson"
+}

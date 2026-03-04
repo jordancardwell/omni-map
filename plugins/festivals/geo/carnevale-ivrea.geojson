@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8752,
+          45.4668
+        ]
+      },
+      "properties": {
+        "code": "carnevale-ivrea",
+        "name": "Battle of the Oranges",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Ivrea, Italy"
+      }
+    }
+  ]
+}

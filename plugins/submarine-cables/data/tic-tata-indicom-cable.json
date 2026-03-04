@@ -1,0 +1,17 @@
+{
+  "code": "tic-tata-indicom-cable",
+  "name": "TIC (Tata Indicom Cable)",
+  "capacityTbps": 5.12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 6100,
+  "yearLaid": 2009,
+  "rfsDate": "2009-12",
+  "owner": "Tata Communications",
+  "landingPoints": [
+    "Mumbai, India",
+    "Chennai, India",
+    "Singapore"
+  ],
+  "description": "Tata submarine cable connecting India to Singapore.",
+  "geojson": "tic-tata-indicom-cable.geojson"
+}

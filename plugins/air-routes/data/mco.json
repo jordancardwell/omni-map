@@ -1,0 +1,12 @@
+{
+  "code": "mco",
+  "name": "Orlando International",
+  "iataCode": "MCO",
+  "city": "Orlando",
+  "country": "United States",
+  "annualPassengers": 47000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Orlando International (MCO) in Orlando, United States. Annual passengers: ~47M. Classification: International Hub.",
+  "geojson": "mco.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "corpus-christi",
+  "name": "Port of Corpus Christi",
+  "country": "United States",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 170,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Corpus Christi in United States. Annual cargo throughput: ~170 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "corpus-christi.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"atl","name":"Hartsfield-Jackson Atlanta International","featureType":"airport","iataCode":"ATL","annualPassengers":93700000,"classification":"Mega Hub"},"geometry":{"type":"Point","coordinates":[-84.4277,33.6407]}}]}

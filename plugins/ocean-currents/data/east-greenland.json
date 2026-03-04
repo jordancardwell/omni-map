@@ -1,0 +1,21 @@
+{
+  "code": "east-greenland",
+  "name": "East Greenland Current",
+  "currentType": "Cold",
+  "speedRange": "0.2–0.4 m/s",
+  "origin": "Arctic Ocean (Fram Strait)",
+  "destination": "Denmark Strait / Labrador Sea",
+  "climateEffects": [
+    "Exports Arctic sea ice southward",
+    "Cools eastern Greenland",
+    "Influences North Atlantic deep water formation"
+  ],
+  "connectedEcosystems": [
+    "Arctic marine ecosystem",
+    "Greenland fjord habitats",
+    "Denmark Strait marine life"
+  ],
+  "itemCategory": "Cold",
+  "description": "The East Greenland Current carries cold Arctic water and sea ice southward along the eastern coast of Greenland. It is a major pathway for Arctic Ocean water export and plays a critical role in global thermohaline circulation.",
+  "geojson": "east-greenland.geojson"
+}

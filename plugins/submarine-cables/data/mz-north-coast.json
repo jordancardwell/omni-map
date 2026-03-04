@@ -1,0 +1,16 @@
+{
+  "code": "mz-north-coast",
+  "name": "MZ North Coast",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 854,
+  "yearLaid": 2017,
+  "rfsDate": "2022-06",
+  "owner": "TDM",
+  "landingPoints": [
+    "Nacala, Mozambique",
+    "Pemba, Mozambique"
+  ],
+  "description": "MZ North Coast connecting Nacala to Pemba in East Africa/Indian Ocean.",
+  "geojson": "mz-north-coast.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "manas-wildlife-sanctuary",
+  "name": "Manas Wildlife Sanctuary",
+  "type": "Natural",
+  "country": "India",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "On a gentle slope in the foothills of the Himalayas, where wooded hills give way to alluvial grasslands and tropical forests, the Manas sanctuary is home to a great variety of wildlife, including many endangered species, such as the tiger, pygmy hog, Indian rhinoceros and Indian elephant.",
+  "danger": false,
+  "geojson": "manas-wildlife-sanctuary.geojson"
+}

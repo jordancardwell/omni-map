@@ -1,0 +1,17 @@
+{
+  "code": "tgn-ia-tgn-intra-asia",
+  "name": "TGN-IA (TGN Intra-Asia)",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 7700,
+  "yearLaid": 2002,
+  "rfsDate": "2002-06",
+  "owner": "Telia Carrier",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Tokyo, Japan"
+  ],
+  "description": "TGN Intra-Asia connecting Singapore, Hong Kong, and Japan.",
+  "geojson": "tgn-ia-tgn-intra-asia.geojson"
+}

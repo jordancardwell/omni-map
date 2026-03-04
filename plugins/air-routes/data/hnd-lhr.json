@@ -1,0 +1,18 @@
+{
+  "code": "hnd-lhr",
+  "name": "Tokyo — London",
+  "airports": [
+    "HND",
+    "LHR"
+  ],
+  "distanceKm": 9592,
+  "weeklyFlights": 25,
+  "airlines": [
+    "ANA",
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HND–LHR route between Tokyo and London. Distance: 9,592 km. ~25 weekly flights operated by ANA, British Airways.",
+  "geojson": "hnd-lhr.geojson"
+}

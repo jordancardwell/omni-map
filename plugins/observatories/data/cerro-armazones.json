@@ -1,0 +1,20 @@
+{
+  "code": "cerro-armazones",
+  "name": "Cerro Armazones Observatory Site",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Under Construction",
+  "elevation": 3064,
+  "aperture": "39.3 m (ELT)",
+  "telescopes": [
+    "ELT (under construction)"
+  ],
+  "keyDiscoveries": [
+    "Expected: Revolutionary first light",
+    "Exoplanet direct imaging",
+    "First stars"
+  ],
+  "location": "Cerro Armazones Observatory Site, Chile",
+  "description": "ESO's chosen site for the Extremely Large Telescope, 20 km from Paranal. The mountain peak was leveled to create the telescope platform.",
+  "geojson": "cerro-armazones.geojson"
+}

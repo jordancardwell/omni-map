@@ -1,0 +1,18 @@
+{
+  "code": "tikal-national-park",
+  "name": "Tikal National Park",
+  "type": "Mixed",
+  "country": "Guatemala",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "In the heart of the jungle, surrounded by lush vegetation, lies one of the major sites of Mayan civilization, inhabited from the 6th century B.C. to the 10th century A.D. The ceremonial centre contains superb temples and palaces, and public squares accessed by means of ramps. Remains of dwellings are scattered throughout the surrounding countryside.",
+  "danger": false,
+  "geojson": "tikal-national-park.geojson"
+}

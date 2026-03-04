@@ -1,0 +1,8 @@
+{
+  "code": "adriatic-route",
+  "name": "Adriatic Sea Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Connects Mediterranean shipping to northern Italian and Slovenian ports through the Adriatic Sea. Important corridor for Central European trade via rail connections from Trieste and Venice.",
+  "geojson": "adriatic-route.geojson"
+}

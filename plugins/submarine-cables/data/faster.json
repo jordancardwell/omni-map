@@ -1,0 +1,18 @@
+{
+  "code": "faster",
+  "name": "FASTER",
+  "capacityTbps": 60,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11600,
+  "yearLaid": 2015,
+  "rfsDate": "2016-06",
+  "owner": "Google consortium",
+  "landingPoints": [
+    "Bandon, USA",
+    "Chikura, Japan",
+    "Shima, Japan",
+    "Taipei, Taiwan"
+  ],
+  "description": "Trans-Pacific cable connecting the US West Coast to Japan and Taiwan with 60 Tbps capacity.",
+  "geojson": "faster.geojson"
+}

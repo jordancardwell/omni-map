@@ -1,0 +1,16 @@
+{
+  "code": "ae-pk-north",
+  "name": "AE-PK North",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 289,
+  "yearLaid": 2016,
+  "rfsDate": "2013-06",
+  "owner": "Etisalat",
+  "landingPoints": [
+    "Ras Al Khaimah, UAE",
+    "Karachi, Pakistan"
+  ],
+  "description": "AE-PK North connecting Ras Al Khaimah to Karachi in the Middle East.",
+  "geojson": "ae-pk-north.geojson"
+}

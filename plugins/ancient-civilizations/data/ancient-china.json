@@ -1,0 +1,12 @@
+{
+  "code": "ancient-china",
+  "name": "Ancient China (Shang/Zhou)",
+  "period": "c. 1600–256 BCE",
+  "region": "East Asia",
+  "type": "Civilization",
+  "writingSystem": "Oracle bone script / Chinese characters",
+  "majorAchievements": ["Bronze casting", "Oracle bone divination", "Mandate of Heaven concept", "Iron smelting", "Crossbow", "Confucianism and Daoism"],
+  "keyCities": ["Anyang", "Zhengzhou", "Luoyang", "Hao", "Qufu"],
+  "description": "Ancient China's Shang dynasty established the first verifiable Chinese state with sophisticated bronze work and the earliest Chinese writing on oracle bones. The succeeding Zhou dynasty, the longest-lasting in Chinese history, saw the development of foundational philosophical traditions including Confucianism, Daoism, and Legalism during the intellectually vibrant Hundred Schools of Thought period.",
+  "geojson": "ancient-china.geojson"
+}

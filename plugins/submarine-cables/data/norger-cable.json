@@ -1,0 +1,16 @@
+{
+  "code": "norger-cable",
+  "name": "NorGer Cable",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 796,
+  "yearLaid": 2018,
+  "rfsDate": "2020-06",
+  "owner": "NorSea Group",
+  "landingPoints": [
+    "Stavanger, Norway",
+    "Sylt, Germany"
+  ],
+  "description": "NorGer Cable submarine cable connecting Stavanger to Sylt.",
+  "geojson": "norger-cable.geojson"
+}

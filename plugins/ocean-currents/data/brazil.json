@@ -1,0 +1,21 @@
+{
+  "code": "brazil",
+  "name": "Brazil Current",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.7 m/s",
+  "origin": "South Equatorial Current (Atlantic)",
+  "destination": "South Atlantic convergence zone",
+  "climateEffects": [
+    "Warms Brazilian coast",
+    "Influences South American weather",
+    "Creates subtropical convergence with Falkland Current"
+  ],
+  "connectedEcosystems": [
+    "Brazilian coral reefs",
+    "South Atlantic fisheries",
+    "Rio de la Plata estuary"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Brazil Current is a warm, southward-flowing western boundary current in the South Atlantic Ocean. It carries tropical water along the coast of Brazil before meeting the cold Falkland Current near the Rio de la Plata.",
+  "geojson": "brazil.geojson"
+}

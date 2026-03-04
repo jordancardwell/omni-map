@@ -1,0 +1,16 @@
+{
+  "code": "au-southern",
+  "name": "AU Southern",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5109,
+  "yearLaid": 2017,
+  "rfsDate": "2020-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Adelaide, Australia",
+    "Perth, Australia"
+  ],
+  "description": "AU Southern connecting Adelaide to Perth.",
+  "geojson": "au-southern.geojson"
+}

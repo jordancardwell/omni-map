@@ -1,0 +1,15 @@
+{
+  "code": "pantanal-wetlands",
+  "name": "Pantanal Wetlands",
+  "region": "South America",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "High — dramatically increasing since 2019",
+  "dominantVegetation": "Tropical wetland, gallery forest, cerrado grassland, floodplain",
+  "fireSeasonMonths": "July – October",
+  "areaBurnedAnnual": "~150,000 ha average; 4.2 million ha in 2020",
+  "seasonalPattern": "The dry season (July–October) lowers water levels across the floodplain, exposing vast areas of dry vegetation. In drought years, fires — often set for pasture management — spread uncontrollably across the parched landscape. The 2020 fires burned approximately 30% of the entire Pantanal, the worst disaster in the wetland's recorded history.",
+  "historicalFires": ["2020 Pantanal Megafires (4.2M ha)", "2024 Pantanal Fires (2.1M ha)", "2019 Pantanal Fires (1.4M ha)", "2005 Drought Fires (300K ha)"],
+  "description": "The Pantanal — the world's largest tropical wetland spanning Brazil, Bolivia, and Paraguay — has experienced catastrophic fires in recent years. The 2020 fire season destroyed approximately 30% of the 150,000 km² biome, killing millions of animals including jaguars, giant otters, and hyacinth macaws. Reduced river flows due to upstream deforestation and drought, combined with agricultural land conversion, have made this once-waterlogged ecosystem increasingly vulnerable to fire. The Pantanal's fire crisis highlights how even wetlands are not immune to climate-driven fire risk.",
+  "geojson": "pantanal-wetlands.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-cherry-springs",
+        "name": "Cherry Springs State Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.823,
+          41.663
+        ]
+      }
+    }
+  ]
+}

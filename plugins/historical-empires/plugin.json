@@ -1,0 +1,38 @@
+{
+  "id": "historical-empires",
+  "name": "Historical Empires",
+  "description": "Boundaries of major historical empires at their peak territorial extent, sourced from aourednik/historical-basemaps. Explore how political power has shaped the world across millennia.",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#8B4513",
+  "categories": ["history", "politics", "geography"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "History & Culture",
+  "thumbnail": "#8B4513",
+  "schema": "HistoricalEmpireMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "era", "capital", "peakYear", "description"],
+    "groupBy": "era",
+    "titleField": "name",
+    "subtitleField": "peakYear",
+    "badgeField": "areaAtPeakKm2",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "peakYear"
+  },
+  "detailFields": [
+    { "key": "era", "label": "Era", "type": "text" },
+    { "key": "peakYear", "label": "Peak Year", "type": "text" },
+    { "key": "areaAtPeakKm2", "label": "Area at Peak (km²)", "type": "formatted-number" },
+    { "key": "populationEstimate", "label": "Population Estimate", "type": "text" },
+    { "key": "capital", "label": "Capital", "type": "text" },
+    { "key": "keyAchievements", "label": "Key Achievements", "type": "tags" },
+    { "key": "declineFactors", "label": "Decline Factors", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

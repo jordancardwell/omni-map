@@ -1,0 +1,16 @@
+{
+  "code": "ligmar",
+  "name": "LigMar",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 413,
+  "yearLaid": 2011,
+  "rfsDate": "2013-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Genoa, Italy",
+    "Marseille, France"
+  ],
+  "description": "LigMar cable connecting Genoa to Marseille across the Mediterranean.",
+  "geojson": "ligmar.geojson"
+}

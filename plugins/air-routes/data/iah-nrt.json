@@ -1,0 +1,18 @@
+{
+  "code": "iah-nrt",
+  "name": "Houston — Tokyo",
+  "airports": [
+    "IAH",
+    "NRT"
+  ],
+  "distanceKm": 10668,
+  "weeklyFlights": 20,
+  "airlines": [
+    "United",
+    "ANA"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–NRT route between Houston and Tokyo. Distance: 10,668 km. ~20 weekly flights operated by United, ANA.",
+  "geojson": "iah-nrt.geojson"
+}

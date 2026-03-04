@@ -1,0 +1,31 @@
+{
+  "code": "african-traditional",
+  "name": "African Traditional Medicine",
+  "tradition": "African",
+  "originRegion": "Sub-Saharan Africa",
+  "estimatedPractitioners": 500000,
+  "whoRecognition": "Recognized — WHO Africa Regional Strategy for Traditional Medicine; WHO supports integration into primary healthcare",
+  "keyPractices": [
+    "Herbal medicine",
+    "Spiritual healing",
+    "Divination",
+    "Bone-setting",
+    "Midwifery",
+    "Steam baths",
+    "Scarification therapy"
+  ],
+  "regionsOfPractice": [
+    "Nigeria",
+    "Ghana",
+    "Kenya",
+    "South Africa",
+    "Tanzania",
+    "Ethiopia",
+    "Cameroon",
+    "Senegal",
+    "Sub-Saharan Africa broadly"
+  ],
+  "description": "African Traditional Medicine encompasses diverse healing practices across the continent, used by an estimated 80% of Africa's population for primary healthcare according to the WHO. It integrates herbal medicine, spiritual healing, divination, and community-based health practices. Traditional healers (known by various names — Sangoma, Nganga, Babalawo, Herbalist) serve as physicians, counselors, and spiritual intermediaries. The African pharmacopoeia includes thousands of medicinal plants, many of which have been validated by modern pharmacological research. Several African countries are now formalizing traditional medicine practice and integrating it into national health systems.",
+  "historicalNotes": "African healing traditions are among the oldest in human history, with archaeological evidence of medicinal plant use dating back tens of thousands of years. Knowledge was traditionally transmitted orally from healer to apprentice across generations. The Egyptian medical papyri (c. 1550 BCE) document sophisticated herbal treatments that influenced Greek and Arabic medicine. Colonial-era suppression disrupted many traditions, but they persisted through community practice. Post-independence, the Alma-Ata Declaration (1978) and subsequent WHO initiatives recognized traditional medicine's role in achieving health for all. South Africa's Traditional Health Practitioners Act (2007) and Nigeria's Traditional Medicine Board represent modern regulatory frameworks.",
+  "geojson": "african-traditional.geojson"
+}

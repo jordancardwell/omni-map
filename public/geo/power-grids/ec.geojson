@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ec","name":"Ecuador","country":"EC","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-91.7,-5],[-91.7,1.7],[-75.2,1.7],[-75.2,-5],[-91.7,-5]]]}}]}

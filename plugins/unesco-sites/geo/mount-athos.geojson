@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.21667,
+          40.26667
+        ]
+      },
+      "properties": {
+        "code": "mount-athos",
+        "name": "Mount Athos",
+        "type": "Mixed",
+        "country": "Greece",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

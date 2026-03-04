@@ -1,0 +1,15 @@
+{
+  "code": "ontent-spaceport",
+  "name": "Camden County Spaceport",
+  "country": "United States",
+  "operator": "Camden County (proposed)",
+  "coordinates": "30.9690°N, 81.5200°W",
+  "status": "Planned",
+  "notableLaunches": [
+    "Under FAA review"
+  ],
+  "orbitalInclinationRange": "31°–57°",
+  "location": "Camden County Spaceport, United States",
+  "description": "Proposed commercial spaceport in Camden County, Georgia. Currently undergoing FAA environmental review. Would provide an East Coast launch alternative near existing Cape Canaveral ranges.",
+  "geojson": "ontent-spaceport.geojson"
+}

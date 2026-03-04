@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.234268,
+          19.573025
+        ]
+      },
+      "properties": {
+        "code": "national-history-park-citadel-sans-souci-ramiers",
+        "name": "National History Park – Citadel, Sans Souci, Ramiers",
+        "type": "Cultural",
+        "country": "Haiti",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

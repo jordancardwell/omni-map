@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"karachi","name":"Port of Karachi","featureType":"port","portType":"Multi-Purpose Port","country":"Pakistan"},"geometry":{"type":"Point","coordinates":[66.99,24.85]}}]}

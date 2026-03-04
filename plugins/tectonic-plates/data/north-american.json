@@ -1,0 +1,32 @@
+{
+  "code": "north-american",
+  "name": "North American Plate",
+  "plateClass": "Major",
+  "crustType": "Mixed",
+  "area": 75.9,
+  "movementDirection": "West-Southwest",
+  "movementRate": "15–25",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "pacific",
+    "juan-de-fuca",
+    "caribbean",
+    "south-american",
+    "eurasian",
+    "african"
+  ],
+  "notableFeatures": [
+    "San Andreas Fault",
+    "Mid-Atlantic Ridge (western)",
+    "Cascadia Subduction Zone",
+    "Rocky Mountains",
+    "Yellowstone Hotspot"
+  ],
+  "description": "The North American Plate includes most of North America, Greenland, Cuba, the Bahamas, and parts of the Atlantic Ocean floor west of the Mid-Atlantic Ridge. Its western boundary with the Pacific Plate includes the famous San Andreas Fault, a transform boundary running through California. The Cascadia Subduction Zone in the Pacific Northwest is capable of producing magnitude 9+ earthquakes.",
+  "geologicalHistory": "The North American Plate has been moving westward since the breakup of Pangaea about 200 million years ago. The Laramide Orogeny (80–55 Ma) built the Rocky Mountains as the Farallon Plate subducted at a shallow angle beneath the continent. The San Andreas Fault formed about 28 million years ago as the Pacific and North American plates came into direct contact.",
+  "geojson": "north-american.geojson"
+}

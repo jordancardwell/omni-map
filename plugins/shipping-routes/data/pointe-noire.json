@@ -1,0 +1,14 @@
+{
+  "code": "pointe-noire",
+  "name": "Pointe-Noire",
+  "country": "Republic of Congo",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 10,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Pointe-Noire in Republic of Congo. Annual cargo throughput: ~10 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "pointe-noire.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4688611111,
+          35.4841666667
+        ]
+      },
+      "properties": {
+        "code": "timgad",
+        "name": "Timgad",
+        "type": "Cultural",
+        "country": "Algeria",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

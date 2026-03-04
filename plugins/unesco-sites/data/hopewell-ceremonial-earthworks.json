@@ -1,0 +1,15 @@
+{
+  "code": "hopewell-ceremonial-earthworks",
+  "name": "Hopewell Ceremonial Earthworks",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This property is a series of eight monumental earthen enclosure complexes built between 2,000 and 1,600 years ago along the central tributaries of the Ohio River. They are the most representative surviving expressions of the Indigenous tradition now referred to as the Hopewell culture. Their scale and complexity are evidenced in precise geometric figures as well as hilltops sculpted to enclose vast, level plazas. There are alignments with the cycles of the Sun and the far more complex cycles of the Moon. These earthworks served as ceremonial centres and the sites have yielded finely crafted ritual objects fashioned from exotic raw materials obtained from distant places.",
+  "danger": false,
+  "geojson": "hopewell-ceremonial-earthworks.geojson"
+}

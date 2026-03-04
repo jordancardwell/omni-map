@@ -1,0 +1,34 @@
+{
+  "code": "pacific",
+  "name": "Pacific Plate",
+  "plateClass": "Major",
+  "crustType": "Oceanic",
+  "area": 103.3,
+  "movementDirection": "Northwest",
+  "movementRate": "56–102",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "north-american",
+    "juan-de-fuca",
+    "cocos",
+    "nazca",
+    "antarctic",
+    "indo-australian",
+    "philippine-sea",
+    "eurasian"
+  ],
+  "notableFeatures": [
+    "Ring of Fire",
+    "East Pacific Rise",
+    "Mariana Trench",
+    "Hawaiian Hotspot",
+    "San Andreas Fault"
+  ],
+  "description": "The Pacific Plate is the largest tectonic plate on Earth, covering approximately 103 million km². It is almost entirely oceanic crust and is surrounded by the Ring of Fire — the most seismically and volcanically active zone on the planet. The plate contains the Hawaiian hotspot chain, which has created a series of volcanic islands as the plate moves northwest over a stationary mantle plume.",
+  "geologicalHistory": "The Pacific Plate formed during the Mesozoic Era from the breakup of the Farallon Plate. The oldest oceanic crust on the Pacific Plate dates to about 190 million years ago. The plate has been moving northwest at varying speeds, creating the Hawaiian-Emperor seamount chain. Subduction along its boundaries has generated major volcanic arcs including Japan, the Philippines, and the Andes.",
+  "geojson": "pacific.geojson"
+}

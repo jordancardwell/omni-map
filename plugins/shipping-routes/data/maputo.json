@@ -1,0 +1,14 @@
+{
+  "code": "maputo",
+  "name": "Port of Maputo",
+  "country": "Mozambique",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 20,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East African Coastal Route"
+  ],
+  "description": "Port of Maputo in Mozambique. Annual cargo throughput: ~20 million tons. Type: Multi-Purpose Port.",
+  "geojson": "maputo.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9240527778,
+          43.0922138889
+        ]
+      },
+      "properties": {
+        "code": "stecci-medieval-tombstone-graveyards",
+        "name": "Stećci Medieval Tombstone Graveyards",
+        "type": "Cultural",
+        "country": "Serbia, Croatia, Montenegro, Bosnia and Herzegovina",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

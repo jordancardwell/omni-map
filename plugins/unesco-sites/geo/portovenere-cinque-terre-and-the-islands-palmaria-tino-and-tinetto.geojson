@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.72917,
+          44.10694
+        ]
+      },
+      "properties": {
+        "code": "portovenere-cinque-terre-and-the-islands-palmaria-tino-and-tinetto",
+        "name": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

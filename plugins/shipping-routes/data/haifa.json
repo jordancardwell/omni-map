@@ -1,0 +1,14 @@
+{
+  "code": "haifa",
+  "name": "Port of Haifa",
+  "country": "Israel",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Haifa in Israel. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "haifa.geojson"
+}

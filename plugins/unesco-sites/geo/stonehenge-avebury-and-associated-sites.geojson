@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.825277778,
+          51.17888889
+        ]
+      },
+      "properties": {
+        "code": "stonehenge-avebury-and-associated-sites",
+        "name": "Stonehenge, Avebury and Associated Sites",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

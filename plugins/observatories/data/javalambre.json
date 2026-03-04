@@ -1,0 +1,22 @@
+{
+  "code": "javalambre",
+  "name": "Observatorio Astrofísico de Javalambre",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1957,
+  "aperture": "2.55 m (JST250)",
+  "telescopes": [
+    "JST250",
+    "JAST80",
+    "J-PAS camera"
+  ],
+  "keyDiscoveries": [
+    "J-PAS photometric survey",
+    "Galaxy evolution studies",
+    "Cosmological constraints"
+  ],
+  "location": "Observatorio Astrofísico de Javalambre, Spain",
+  "description": "CEFCA observatory in Teruel designed for large-scale photometric surveys. The J-PAS survey will map hundreds of millions of galaxies with 56 narrowband filters.",
+  "geojson": "javalambre.geojson"
+}

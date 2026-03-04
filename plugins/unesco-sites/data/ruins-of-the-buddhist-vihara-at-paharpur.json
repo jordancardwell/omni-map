@@ -1,0 +1,15 @@
+{
+  "code": "ruins-of-the-buddhist-vihara-at-paharpur",
+  "name": "Ruins of the Buddhist Vihara at Paharpur",
+  "type": "Cultural",
+  "country": "Bangladesh",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards, Somapura Mahavira, or the Great Monastery, was a renowned intellectual centre until the 12th century. Its layout perfectly adapted to its religious function, this monastery-city represents a unique artistic achievement. With its simple, harmonious lines and its profusion of carved decoration, it influenced Buddhist architecture as far away as Cambodia.",
+  "danger": false,
+  "geojson": "ruins-of-the-buddhist-vihara-at-paharpur.geojson"
+}

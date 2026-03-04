@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.472777778,
+          52.62638889
+        ]
+      },
+      "properties": {
+        "code": "ironbridge-gorge",
+        "name": "Ironbridge Gorge",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.42278,
+          43.11889
+        ]
+      },
+      "properties": {
+        "code": "stari-ras-and-sopocani",
+        "name": "Stari Ras and Sopoćani",
+        "type": "Cultural",
+        "country": "Serbia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

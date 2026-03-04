@@ -1,0 +1,16 @@
+{
+  "code": "baltic-link",
+  "name": "Baltic Link",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 723,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Copenhagen, Denmark",
+    "Rostock, Germany"
+  ],
+  "description": "Baltic Link submarine cable connecting Copenhagen to Rostock.",
+  "geojson": "baltic-link.geojson"
+}

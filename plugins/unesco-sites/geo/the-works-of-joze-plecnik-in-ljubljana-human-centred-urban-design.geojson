@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5022222222,
+          46.0433333333
+        ]
+      },
+      "properties": {
+        "code": "the-works-of-joze-plecnik-in-ljubljana-human-centred-urban-design",
+        "name": "The works of Jože Plečnik in Ljubljana – Human Centred Urban Design",
+        "type": "Cultural",
+        "country": "Slovenia",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

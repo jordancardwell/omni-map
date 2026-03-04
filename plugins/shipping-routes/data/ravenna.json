@@ -1,0 +1,14 @@
+{
+  "code": "ravenna",
+  "name": "Port of Ravenna",
+  "country": "Italy",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Adriatic Sea Route"
+  ],
+  "description": "Port of Ravenna in Italy. Annual cargo throughput: ~25 million tons. Type: Bulk Port.",
+  "geojson": "ravenna.geojson"
+}

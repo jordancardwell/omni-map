@@ -1,0 +1,21 @@
+{
+  "code": "florida",
+  "name": "Florida Current",
+  "currentType": "Warm",
+  "speedRange": "1.0–1.8 m/s",
+  "origin": "Florida Strait",
+  "destination": "Cape Hatteras (becomes Gulf Stream)",
+  "climateEffects": [
+    "Warms southeastern US",
+    "Influences Florida weather",
+    "Major Atlantic heat transport"
+  ],
+  "connectedEcosystems": [
+    "Florida Keys reefs",
+    "Bahamas marine habitats",
+    "Southeast US continental shelf"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Florida Current is the intense, narrow warm current that flows through the Florida Strait between Florida and Cuba/Bahamas. It is the initial segment of the Gulf Stream system.",
+  "geojson": "florida.geojson"
+}

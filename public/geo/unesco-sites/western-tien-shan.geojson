@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6788888889,
+          43.7183333333
+        ]
+      },
+      "properties": {
+        "code": "western-tien-shan",
+        "name": "Western Tien-Shan",
+        "type": "Natural",
+        "country": "Kyrgyzstan, Kazakhstan, Uzbekistan",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

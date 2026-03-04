@@ -1,0 +1,14 @@
+{
+  "code": "bolgar-historical-and-archaeological-complex",
+  "name": "Bolgar Historical and Archaeological Complex",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This property lies on the shores of the Volga River, south of its confluence with the River Kama, and south of the capital of Tatarstan, Kazan. It contains evidence of the medieval city of Bolgar, an early settlement of the civilization of Volga-Bolgars, which existed between the 7th and 15th centuries AD, and was the first capital of the Golden Horde in the 13th century. Bolgar represents the historical cultural exchanges and transformations of Eurasia over several centuries that played a pivotal role in the formation of civilizations, customs and cultural traditions. The property provides remarkable evidence of historic continuity and cultural diversity. It is a symbolic reminder of the acceptance of Islam by the Volga-Bolgars in AD 922 and remains a sacred pilgrimage destination to the Tatar Muslims.",
+  "danger": false,
+  "geojson": "bolgar-historical-and-archaeological-complex.geojson"
+}

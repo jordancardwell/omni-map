@@ -1,0 +1,17 @@
+{
+  "code": "csb",
+  "name": "Warm-Summer Mediterranean",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month <22°C; coldest month 0-18°C",
+  "precipitationPattern": "Dry warm summers, wet mild winters",
+  "vegetation": "Mixed evergreen forest, coastal scrub, temperate woodland",
+  "exampleCities": [
+    "San Francisco",
+    "Porto",
+    "Cape Town",
+    "Santiago"
+  ],
+  "description": "Warm-summer Mediterranean climate (Csb) features the same dry-summer/wet-winter pattern as Csa but with cooler summer temperatures. Coastal fog and marine influence moderate temperatures. Found in coastal regions like northern California, Portugal, and parts of Chile and South Africa.",
+  "typicalWeather": "Mild summers (18-22°C) often with coastal fog or low clouds in mornings. Winters are cool and rainy (5-12°C). Frost is rare at sea level. Very pleasant shoulder seasons. Precipitation 400-900mm annually, almost all in winter half of year.",
+  "geojson": "csb.geojson"
+}

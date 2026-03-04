@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8333333333,
+          36.5419444444
+        ]
+      },
+      "properties": {
+        "code": "sansa-buddhist-mountain-monasteries-in-korea",
+        "name": "Sansa, Buddhist Mountain Monasteries in Korea",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

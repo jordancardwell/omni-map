@@ -1,0 +1,22 @@
+{
+  "code": "teide",
+  "name": "Teide Observatory",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2390,
+  "aperture": "1.5 m",
+  "telescopes": [
+    "Carlos Sánchez 1.5m",
+    "IAC-80",
+    "QUIJOTE"
+  ],
+  "keyDiscoveries": [
+    "Cosmic microwave background studies",
+    "Brown dwarf discoveries",
+    "Solar observations"
+  ],
+  "location": "Teide Observatory, Spain",
+  "description": "Instituto de Astrofísica de Canarias facility on Tenerife. Specializes in solar physics, cosmic microwave background experiments, and infrared astronomy.",
+  "geojson": "teide.geojson"
+}

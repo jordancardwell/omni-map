@@ -1,0 +1,17 @@
+{
+  "code": "ke",
+  "name": "Kenya",
+  "avgDownloadMbps": 19.8,
+  "avgUploadMbps": 8.4,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 18.6,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 19.8,
+  "fixedUploadMbps": 8.4,
+  "rank": 113,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Mobile-first market with growing fiber. ~20% year-over-year growth.",
+  "geojson": "ke.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.03725,
+          64.25380556
+        ]
+      },
+      "properties": {
+        "code": "ingvellir-national-park",
+        "name": "Þingvellir National Park",
+        "type": "Cultural",
+        "country": "Iceland",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

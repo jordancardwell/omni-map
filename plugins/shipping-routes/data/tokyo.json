@@ -1,0 +1,15 @@
+{
+  "code": "tokyo",
+  "name": "Port of Tokyo",
+  "country": "Japan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 90,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Tokyo in Japan. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+  "geojson": "tokyo.geojson"
+}

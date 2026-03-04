@@ -1,0 +1,16 @@
+{
+  "code": "ir-d-f-woudagemaal-d-f-wouda-steam-pumping-station",
+  "name": "Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Wouda Pumping Station at Lemmer in the province of Friesland opened in 1920. It is the largest steam-pumping station ever built and is still in operation. It represents the high point of the contribution made by Netherlands engineers and architects in protecting their people and land against the natural forces of water.",
+  "danger": false,
+  "geojson": "ir-d-f-woudagemaal-d-f-wouda-steam-pumping-station.geojson"
+}

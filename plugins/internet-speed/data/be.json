@@ -1,0 +1,17 @@
+{
+  "code": "be",
+  "name": "Belgium",
+  "avgDownloadMbps": 146.2,
+  "avgUploadMbps": 36.8,
+  "avgLatencyMs": 15,
+  "mobileDownloadMbps": 57.3,
+  "mobileUploadMbps": 11.4,
+  "fixedDownloadMbps": 146.2,
+  "fixedUploadMbps": 36.8,
+  "rank": 29,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Cable-dominant market transitioning to fiber. ~10% year-over-year growth.",
+  "geojson": "be.geojson"
+}

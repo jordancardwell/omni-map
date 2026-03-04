@@ -1,0 +1,23 @@
+{
+  "code": "haleakala",
+  "name": "Haleakalā Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3055,
+  "aperture": "Various",
+  "telescopes": [
+    "DKIST",
+    "Pan-STARRS",
+    "Faulkes North",
+    "ATLAS"
+  ],
+  "keyDiscoveries": [
+    "Pan-STARRS sky surveys",
+    "Near-Earth object discoveries",
+    "Interstellar object 'Oumuamua"
+  ],
+  "location": "Haleakalā Observatory, United States",
+  "description": "Multi-telescope facility on Maui hosting DKIST, Pan-STARRS, and ATLAS survey telescopes. Pan-STARRS discovered the first known interstellar object, 'Oumuamua.",
+  "geojson": "haleakala.geojson"
+}

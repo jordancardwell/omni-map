@@ -1,0 +1,17 @@
+{
+  "code": "om",
+  "name": "Oman",
+  "avgDownloadMbps": 52.6,
+  "avgUploadMbps": 14.2,
+  "avgLatencyMs": 14,
+  "mobileDownloadMbps": 44.6,
+  "mobileUploadMbps": 8.2,
+  "fixedDownloadMbps": 52.6,
+  "fixedUploadMbps": 14.2,
+  "rank": 70,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Growing infrastructure investment. ~15% year-over-year growth.",
+  "geojson": "om.geojson"
+}

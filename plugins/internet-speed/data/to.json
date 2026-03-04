@@ -1,0 +1,17 @@
+{
+  "code": "to",
+  "name": "Tonga",
+  "avgDownloadMbps": 10.8,
+  "avgUploadMbps": 3.6,
+  "avgLatencyMs": 40,
+  "mobileDownloadMbps": 12.2,
+  "mobileUploadMbps": 2.8,
+  "fixedDownloadMbps": 10.8,
+  "fixedUploadMbps": 3.6,
+  "rank": 139,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Oceania",
+  "dataYear": 2024,
+  "trendDescription": "Remote Pacific nation. ~8% year-over-year growth.",
+  "geojson": "to.geojson"
+}

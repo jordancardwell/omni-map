@@ -1,0 +1,22 @@
+{
+  "code": "karangetang",
+  "name": "Karangetang",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1784,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Siau Island",
+  "location": "Siau Island, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lava flows",
+    "Lahars",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in Indonesia with over 40 eruptions since 1675.",
+  "description": "Karangetang is one of the most active and dangerous volcanoes in Indonesia, located on the small island of Siau with over 20,000 residents.",
+  "geojson": "karangetang.geojson"
+}

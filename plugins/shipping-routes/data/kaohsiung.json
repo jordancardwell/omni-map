@@ -1,0 +1,15 @@
+{
+  "code": "kaohsiung",
+  "name": "Port of Kaohsiung",
+  "country": "Taiwan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 160,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South China Sea Route",
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Kaohsiung in Taiwan. Annual cargo throughput: ~160 million tons. Type: Container Port.",
+  "geojson": "kaohsiung.geojson"
+}

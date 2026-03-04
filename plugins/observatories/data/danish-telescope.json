@@ -1,0 +1,20 @@
+{
+  "code": "danish-telescope",
+  "name": "Danish 1.54m Telescope",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2340,
+  "aperture": "1.54 m",
+  "telescopes": [
+    "Danish 1.54m"
+  ],
+  "keyDiscoveries": [
+    "Gravitational microlensing",
+    "Exoplanet searches",
+    "Stellar photometry"
+  ],
+  "location": "Danish 1.54m Telescope, Chile",
+  "description": "A Danish telescope at ESO La Silla used for photometry and lucky imaging. Part of the MiNDSTEp microlensing network searching for exoplanets.",
+  "geojson": "danish-telescope.geojson"
+}

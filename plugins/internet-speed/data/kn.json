@@ -1,0 +1,17 @@
+{
+  "code": "kn",
+  "name": "Saint Kitts and Nevis",
+  "avgDownloadMbps": 24.6,
+  "avgUploadMbps": 8.8,
+  "avgLatencyMs": 32,
+  "mobileDownloadMbps": 18.2,
+  "mobileUploadMbps": 4,
+  "fixedDownloadMbps": 24.6,
+  "fixedUploadMbps": 8.8,
+  "rank": 103,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Small Caribbean economy with improving broadband. ~8% year-over-year growth.",
+  "geojson": "kn.geojson"
+}

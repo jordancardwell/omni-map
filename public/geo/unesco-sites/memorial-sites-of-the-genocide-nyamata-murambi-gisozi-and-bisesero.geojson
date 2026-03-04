@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5677222222,
+          -2.4555277778
+        ]
+      },
+      "properties": {
+        "code": "memorial-sites-of-the-genocide-nyamata-murambi-gisozi-and-bisesero",
+        "name": "Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero",
+        "type": "Cultural",
+        "country": "Rwanda",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "jiuquan",
+  "name": "Jiuquan Satellite Launch Center",
+  "country": "China",
+  "operator": "CNSA / CASC",
+  "coordinates": "40.9606°N, 100.2910°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Shenzhou 5 (first Chinese crewed)",
+    "Tiangong stations",
+    "Shenzhou/Tianzhou missions"
+  ],
+  "orbitalInclinationRange": "40°–70°",
+  "location": "Jiuquan Satellite Launch Center, China",
+  "description": "China's first and most famous launch center in the Gobi Desert. Used for crewed Shenzhou missions to the Tiangong space station and various scientific satellites.",
+  "geojson": "jiuquan.geojson"
+}

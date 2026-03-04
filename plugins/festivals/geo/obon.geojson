@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681,
+          35.0116
+        ]
+      },
+      "properties": {
+        "code": "obon",
+        "name": "Obon",
+        "festivalType": "Religious",
+        "dateOrSeason": "August 13–16",
+        "location": "Kyoto, Japan"
+      }
+    }
+  ]
+}

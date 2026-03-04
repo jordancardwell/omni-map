@@ -1,0 +1,15 @@
+{
+  "code": "ulsan",
+  "name": "Port of Ulsan",
+  "country": "South Korea",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 210,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "East China Sea–Japan Route",
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Port of Ulsan in South Korea. Annual cargo throughput: ~210 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "ulsan.geojson"
+}

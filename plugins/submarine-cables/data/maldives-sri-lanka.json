@@ -1,0 +1,16 @@
+{
+  "code": "maldives-sri-lanka",
+  "name": "Maldives-Sri Lanka",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 800,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Dhiraagu",
+  "landingPoints": [
+    "Colombo, Sri Lanka",
+    "Malé, Maldives"
+  ],
+  "description": "Maldives submarine cable to Sri Lanka.",
+  "geojson": "maldives-sri-lanka.geojson"
+}

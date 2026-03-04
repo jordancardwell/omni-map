@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-9","name":"Alaska Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-142.5,-60],[-127.5,-60],[-127.5,84],[-142.5,84],[-142.5,-60]]]}}]}

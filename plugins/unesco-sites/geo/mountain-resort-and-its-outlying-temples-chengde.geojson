@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.93833,
+          40.98694
+        ]
+      },
+      "properties": {
+        "code": "mountain-resort-and-its-outlying-temples-chengde",
+        "name": "Mountain Resort and its Outlying Temples, Chengde",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

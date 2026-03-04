@@ -1,0 +1,17 @@
+{
+  "code": "nuvem",
+  "name": "NUVEM",
+  "capacityTbps": 72,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10500,
+  "yearLaid": 2021,
+  "rfsDate": "2023-01",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Fortaleza, Brazil",
+    "Rio de Janeiro, Brazil"
+  ],
+  "description": "Brazil-US cable system providing connectivity between North and South America.",
+  "geojson": "nuvem.geojson"
+}

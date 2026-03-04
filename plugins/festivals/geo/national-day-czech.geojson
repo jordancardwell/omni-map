@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "code": "national-day-czech",
+        "name": "Czech Statehood Day",
+        "festivalType": "National",
+        "dateOrSeason": "September 28",
+        "location": "Prague, Czech Republic"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "humpback-whale",
+  "name": "Humpback Whale",
+  "scientificName": "Megaptera novaeangliae",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~80,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Open ocean and coastal waters",
+  "threats": [
+    "Ship strikes",
+    "Entanglement",
+    "Ocean noise",
+    "Climate change"
+  ],
+  "conservationEfforts": "International Whaling Commission moratorium protects from commercial whaling. Whale watching industry provides economic incentive for conservation.",
+  "description": "Famous for their complex songs and acrobatic breaching. Humpbacks migrate up to 16,000 km annually between polar feeding grounds and tropical breeding areas — the longest migration of any mammal.",
+  "geojson": "humpback-whale.geojson"
+}

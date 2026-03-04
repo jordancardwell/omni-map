@@ -1,0 +1,17 @@
+{
+  "code": "dfw-mad",
+  "name": "Dallas — Madrid",
+  "airports": [
+    "DFW",
+    "MAD"
+  ],
+  "distanceKm": 7972,
+  "weeklyFlights": 20,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DFW–MAD route between Dallas and Madrid. Distance: 7,972 km. ~20 weekly flights operated by American.",
+  "geojson": "dfw-mad.geojson"
+}

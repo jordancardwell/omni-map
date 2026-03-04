@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pk","name":"Pakistan","country":"PK","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[60.9,23.7],[60.9,37],[77.1,37],[77.1,23.7],[60.9,23.7]]]}}]}

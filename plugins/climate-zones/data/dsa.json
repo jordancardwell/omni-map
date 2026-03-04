@@ -1,0 +1,16 @@
+{
+  "code": "dsa",
+  "name": "Hot-Summer Continental (Dry Summer)",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month ≥22°C; coldest month <0°C",
+  "precipitationPattern": "Dry hot summers, precipitation in other seasons",
+  "vegetation": "Dry steppe transitioning to mountain forest, drought-adapted shrubs",
+  "exampleCities": [
+    "Erzurum (Turkey)",
+    "Hakkâri (Turkey)",
+    "Saqqez (Iran)"
+  ],
+  "description": "Hot-summer Mediterranean-influenced continental climate (Dsa) is rare, found mainly in the highlands of eastern Turkey and Iran. It combines the dry-summer pattern of Mediterranean climates with the cold winters of continental climates, creating a unique environment.",
+  "typicalWeather": "Hot, dry summers (25-35°C) and bitterly cold, snowy winters (-10 to -20°C). The temperature range between seasons is extreme. Spring snowmelt can cause flooding. Annual precipitation 400-600mm, mostly as winter/spring snow.",
+  "geojson": "dsa.geojson"
+}

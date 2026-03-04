@@ -1,0 +1,18 @@
+{
+  "code": "lhr-doh",
+  "name": "London — Doha",
+  "airports": [
+    "LHR",
+    "DOH"
+  ],
+  "distanceKm": 5241,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Qatar Airways",
+    "British Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LHR–DOH route between London and Doha. Distance: 5,241 km. ~60 weekly flights operated by Qatar Airways, British Airways.",
+  "geojson": "lhr-doh.geojson"
+}

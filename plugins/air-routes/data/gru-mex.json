@@ -1,0 +1,18 @@
+{
+  "code": "gru-mex",
+  "name": "São Paulo — Mexico City",
+  "airports": [
+    "GRU",
+    "MEX"
+  ],
+  "distanceKm": 7433,
+  "weeklyFlights": 25,
+  "airlines": [
+    "LATAM",
+    "Aeromexico"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–MEX route between São Paulo and Mexico City. Distance: 7,433 km. ~25 weekly flights operated by LATAM, Aeromexico.",
+  "geojson": "gru-mex.geojson"
+}

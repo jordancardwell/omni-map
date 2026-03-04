@@ -1,0 +1,16 @@
+{
+  "code": "in-mu-cable",
+  "name": "IN-MU Cable",
+  "capacityTbps": 49,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9302,
+  "yearLaid": 2013,
+  "rfsDate": "2012-06",
+  "owner": "Airtel",
+  "landingPoints": [
+    "Mumbai, India",
+    "Port Louis, Mauritius"
+  ],
+  "description": "IN-MU Cable connecting Mumbai to Port Louis.",
+  "geojson": "in-mu-cable.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "orangutan-bornean",
+  "name": "Bornean Orangutan",
+  "scientificName": "Pongo pygmaeus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~104,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical and subtropical moist forest",
+  "threats": [
+    "Deforestation",
+    "Palm oil plantations",
+    "Hunting",
+    "Forest fires"
+  ],
+  "conservationEfforts": "Borneo Orangutan Survival Foundation operates rehabilitation centers. Orangutan Islands provide semi-wild environments for rescued individuals.",
+  "description": "The largest tree-dwelling animal, Bornean orangutans have experienced a 50% population decline in the past 60 years due to massive deforestation for palm oil and timber.",
+  "geojson": "orangutan-bornean.geojson"
+}

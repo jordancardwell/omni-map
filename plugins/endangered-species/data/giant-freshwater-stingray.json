@@ -1,0 +1,19 @@
+{
+  "code": "giant-freshwater-stingray",
+  "name": "Giant Freshwater Stingray",
+  "scientificName": "Urogymnus polylepis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Large tropical rivers",
+  "threats": [
+    "Bycatch",
+    "Sand mining",
+    "Dam construction",
+    "Pollution"
+  ],
+  "conservationEfforts": "Research expeditions in Thailand, Cambodia, and Borneo. Community-based fisheries management. The largest specimen ever recorded (300 kg) was caught and released in Cambodia in 2022.",
+  "description": "One of the world's largest freshwater fish, with a disc width of up to 2.4 meters. They bury themselves in sandy river bottoms and have a venomous tail barb up to 38 cm long.",
+  "geojson": "giant-freshwater-stingray.geojson"
+}

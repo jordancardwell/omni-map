@@ -1,0 +1,17 @@
+{
+  "code": "mct-malaysia-cambodia-thailand",
+  "name": "MCT (Malaysia-Cambodia-Thailand)",
+  "capacityTbps": 1.5,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1100,
+  "yearLaid": 2017,
+  "rfsDate": "2017-12",
+  "owner": "Symphony Communication",
+  "landingPoints": [
+    "Kuantan, Malaysia",
+    "Sihanoukville, Cambodia",
+    "Songkhla, Thailand"
+  ],
+  "description": "Regional cable connecting Malaysia, Cambodia, and Thailand.",
+  "geojson": "mct-malaysia-cambodia-thailand.geojson"
+}

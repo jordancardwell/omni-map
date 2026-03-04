@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3610916667,
+          38.3822
+        ]
+      },
+      "properties": {
+        "code": "arslantepe-mound",
+        "name": "Arslantepe Mound",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

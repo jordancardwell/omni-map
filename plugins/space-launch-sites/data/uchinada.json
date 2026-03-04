@@ -1,0 +1,17 @@
+{
+  "code": "uchinada",
+  "name": "Noshiro Rocket Testing Center",
+  "country": "Japan",
+  "operator": "JAXA",
+  "coordinates": "40.2281°N, 140.0089°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Solid rocket motor tests",
+    "S-series sounding rockets",
+    "SS-520 launches"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital, except SS-520-5)",
+  "location": "Noshiro Rocket Testing Center, Japan",
+  "description": "JAXA's rocket testing facility in Akita Prefecture. Famous for the SS-520-5, the smallest rocket to put a satellite in orbit (2018). Primarily used for engine testing and sounding rockets.",
+  "geojson": "uchinada.geojson"
+}

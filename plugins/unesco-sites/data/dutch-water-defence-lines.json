@@ -1,0 +1,16 @@
+{
+  "code": "dutch-water-defence-lines",
+  "name": "Dutch Water Defence Lines",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Dutch Water Defence Lines represents a defence system extending over 200 km along the edge of the administrative and economic heartland of Holland. It is comprised of the New Dutch Waterline and the Defence Line of Amsterdam. Built between 1815 and 1940, the system consists of a network of forts, dikes, sluices, pumping stations, canals and inundation polders, working in concert to protect the Netherlands by applying the principle of temporary flooding of the land. It has been developed thanks to the special knowledge of hydraulic engineering for defence purposes held and applied by the people of the Netherlands since the 16th century. Each of the polders along the line of fortifications has its own inundation facilities.",
+  "danger": false,
+  "geojson": "dutch-water-defence-lines.geojson"
+}

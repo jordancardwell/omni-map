@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.902,
+          48.3654722222
+        ]
+      },
+      "properties": {
+        "code": "water-management-system-of-augsburg",
+        "name": "Water Management System of Augsburg",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

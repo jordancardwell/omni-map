@@ -1,0 +1,16 @@
+{
+  "code": "rapa-nui-national-park",
+  "name": "Rapa Nui National Park",
+  "type": "Cultural",
+  "country": "Chile",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai , which created an unrivalled cultural landscape that continues to fascinate people throughout the world.",
+  "danger": false,
+  "geojson": "rapa-nui-national-park.geojson"
+}

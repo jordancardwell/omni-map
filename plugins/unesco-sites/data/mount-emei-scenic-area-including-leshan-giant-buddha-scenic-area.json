@@ -1,0 +1,15 @@
+{
+  "code": "mount-emei-scenic-area-including-leshan-giant-buddha-scenic-area",
+  "name": "Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+  "type": "Mixed",
+  "country": "China",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The first Buddhist temple in China was built here in Sichuan Province in the 1st century A.D. in the beautiful surroundings of the summit Mount Emei. The addition of other temples turned the site into one of Buddhism's holiest sites. Over the centuries, the cultural treasures grew in number. The most remarkable is the Giant Buddha of Leshan, carved out of a hillside in the 8th century and looking down on the confluence of three rivers. At 71 m high, it is the largest Buddha in the world. Mount Emei is also notable for its exceptionally diverse vegetation, ranging from subtropical to subalpine pine forests. Some of the trees there are more than 1,000 years old.",
+  "danger": false,
+  "geojson": "mount-emei-scenic-area-including-leshan-giant-buddha-scenic-area.geojson"
+}

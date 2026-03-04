@@ -1,0 +1,16 @@
+{
+  "code": "lake-malawi-national-park",
+  "name": "Lake Malawi National Park",
+  "type": "Natural",
+  "country": "Malawi",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Located at the southern end of the great expanse of Lake Malawi, with its deep, clear waters and mountain backdrop, the national park is home to many hundreds of fish species, nearly all endemic. Its importance for the study of evolution is comparable to that of the finches of the Galapagos Islands.",
+  "danger": false,
+  "geojson": "lake-malawi-national-park.geojson"
+}

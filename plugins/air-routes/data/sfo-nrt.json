@@ -1,0 +1,19 @@
+{
+  "code": "sfo-nrt",
+  "name": "San Francisco — Tokyo",
+  "airports": [
+    "SFO",
+    "NRT"
+  ],
+  "distanceKm": 8226,
+  "weeklyFlights": 60,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SFO–NRT route between San Francisco and Tokyo. Distance: 8,226 km. ~60 weekly flights operated by ANA, JAL, United.",
+  "geojson": "sfo-nrt.geojson"
+}

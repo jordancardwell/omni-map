@@ -1,0 +1,12 @@
+{
+  "code": "valongo-wharf-archaeological-site",
+  "name": "Valongo Wharf Archaeological Site",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "2017",
+  "criteria": [],
+  "region": "Latin America and the Caribbean",
+  "description": "Valongo Wharf Archaeological Site is located in central Rio de Janeiro and encompasses the entirety of Jornal do Comércio Square. It is in the former harbour area of Rio de Janeiro in which the old stone wharf was built for the landing of enslaved Africans reaching the South American continent from 1811 onwards. An estimated 900,000 Africans arrived in South America via Valongo. The site is composed of several archaeological layers, the lowest of which consists of floor pavings in pé de moleque style, attributed to the original Valongo Wharf. It is the most important physical trace of the arrival of African slaves on the American continent.",
+  "danger": false,
+  "geojson": "valongo-wharf-archaeological-site.geojson"
+}

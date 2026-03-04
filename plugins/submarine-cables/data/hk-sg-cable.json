@@ -1,0 +1,16 @@
+{
+  "code": "hk-sg-cable",
+  "name": "HK-SG Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1716,
+  "yearLaid": 2012,
+  "rfsDate": "2022-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Singapore"
+  ],
+  "description": "HK-SG Cable connecting Hong Kong to Singapore.",
+  "geojson": "hk-sg-cable.geojson"
+}

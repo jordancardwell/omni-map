@@ -1,0 +1,15 @@
+{
+  "code": "heard-and-mcdonald-islands",
+  "name": "Heard and McDonald Islands",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Heard Island and McDonald Islands are located in the Southern Ocean, approximately 1,700 km from the Antarctic continent and 4,100 km south-west of Perth. As the only volcanically active subantarctic islands they ‘open a window into the earth’, thus providing the opportunity to observe ongoing geomorphic processes and glacial dynamics. The distinctive conservation value of Heard and McDonald – one of the world’s rare pristine island ecosystems – lies in the complete absence of alien plants and animals, as well as human impact.",
+  "danger": false,
+  "geojson": "heard-and-mcdonald-islands.geojson"
+}

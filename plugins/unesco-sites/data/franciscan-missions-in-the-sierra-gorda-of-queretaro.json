@@ -1,0 +1,15 @@
+{
+  "code": "franciscan-missions-in-the-sierra-gorda-of-queretaro",
+  "name": "Franciscan Missions in the Sierra Gorda of Querétaro",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The five Franciscan missions of Sierra Gorda were built during the last phase of the conversion to Christianity of the interior of Mexico in the mid-18th century and became an important reference for the continuation of the evangelization of California, Arizona and Texas. The richly decorated church façades are of special interest as they represent an example of the joint creative efforts of the missionaries and the Indios. The rural settlements that grew around the missions have retained their vernacular character.",
+  "danger": false,
+  "geojson": "franciscan-missions-in-the-sierra-gorda-of-queretaro.geojson"
+}

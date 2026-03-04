@@ -1,0 +1,21 @@
+{
+  "code": "erebus",
+  "name": "Mount Erebus",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3794,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Antarctica",
+  "region": "Ross Island",
+  "location": "Ross Island, Antarctica",
+  "tectonicSetting": "Continental rift",
+  "hazards": [
+    "Volcanic bombs",
+    "Lava lake overflow",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Contains the world's southernmost active lava lake. Has been continuously active since at least 1972. Discovered by James Clark Ross in 1841.",
+  "description": "Mount Erebus is the most active volcano in Antarctica and contains one of the world's few persistent lava lakes. It is the southernmost active volcano on Earth.",
+  "geojson": "erebus.geojson"
+}

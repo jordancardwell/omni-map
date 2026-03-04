@@ -1,0 +1,18 @@
+{
+  "code": "yyz-phx",
+  "name": "Toronto — Phoenix",
+  "airports": [
+    "YYZ",
+    "PHX"
+  ],
+  "distanceKm": 3013,
+  "weeklyFlights": 15,
+  "airlines": [
+    "WestJet",
+    "Air Canada"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–PHX route between Toronto and Phoenix. Distance: 3,013 km. ~15 weekly flights operated by WestJet, Air Canada.",
+  "geojson": "yyz-phx.geojson"
+}

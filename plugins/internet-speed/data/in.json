@@ -1,0 +1,17 @@
+{
+  "code": "in",
+  "name": "India",
+  "avgDownloadMbps": 40.8,
+  "avgUploadMbps": 28.6,
+  "avgLatencyMs": 24,
+  "mobileDownloadMbps": 22.4,
+  "mobileUploadMbps": 4.8,
+  "fixedDownloadMbps": 40.8,
+  "fixedUploadMbps": 28.6,
+  "rank": 80,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "South Asia",
+  "dataYear": 2024,
+  "trendDescription": "Massive Jio effect with affordable data. ~18% year-over-year improvement.",
+  "geojson": "in.geojson"
+}

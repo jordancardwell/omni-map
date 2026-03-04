@@ -1,0 +1,16 @@
+{
+  "code": "cg-ao-cable",
+  "name": "CG-AO Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1263,
+  "yearLaid": 2015,
+  "rfsDate": "2014-06",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Pointe-Noire, Congo",
+    "Cabinda, Angola"
+  ],
+  "description": "CG-AO Cable connecting Pointe-Noire to Cabinda along the West African coast.",
+  "geojson": "cg-ao-cable.geojson"
+}

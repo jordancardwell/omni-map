@@ -1,0 +1,8 @@
+{
+  "code": "indian-ocean-crossings",
+  "name": "Indian Ocean Crossings",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Trans-Indian Ocean routes connecting East Africa, the Middle East, and India with Southeast Asia. Monsoon-influenced sailing routes used for millennia.",
+  "geojson": "indian-ocean-crossings.geojson"
+}

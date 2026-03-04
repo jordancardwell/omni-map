@@ -1,0 +1,18 @@
+{
+  "code": "phx-jfk",
+  "name": "Phoenix — New York",
+  "airports": [
+    "PHX",
+    "JFK"
+  ],
+  "distanceKm": 3458,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PHX–JFK route between Phoenix and New York. Distance: 3,458 km. ~30 weekly flights operated by Delta, JetBlue.",
+  "geojson": "phx-jfk.geojson"
+}

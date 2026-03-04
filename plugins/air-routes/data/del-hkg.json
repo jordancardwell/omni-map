@@ -1,0 +1,18 @@
+{
+  "code": "del-hkg",
+  "name": "Delhi — Hong Kong",
+  "airports": [
+    "DEL",
+    "HKG"
+  ],
+  "distanceKm": 3747,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Air India",
+    "Cathay Pacific"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DEL–HKG route between Delhi and Hong Kong. Distance: 3,747 km. ~40 weekly flights operated by Air India, Cathay Pacific.",
+  "geojson": "del-hkg.geojson"
+}

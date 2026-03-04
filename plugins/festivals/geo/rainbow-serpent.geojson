@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2,
+          -37.6
+        ]
+      },
+      "properties": {
+        "code": "rainbow-serpent",
+        "name": "Rainbow Serpent Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January",
+        "location": "Lexton, Australia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "py",
+  "name": "Paraguay",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European-style plugs. Adapter needed for US/UK devices.",
+  "geojson": "py.geojson"
+}

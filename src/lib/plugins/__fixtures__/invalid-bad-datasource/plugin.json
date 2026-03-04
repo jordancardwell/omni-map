@@ -1,0 +1,14 @@
+{
+  "id": "bad-datasource",
+  "name": "Bad DataSource",
+  "description": "Plugin with invalid dataSource",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "x",
+  "defaultColor": "#000",
+  "categories": ["test"],
+  "dataType": "regions",
+  "dataSource": "database",
+  "category": "test",
+  "thumbnail": "#000"
+}

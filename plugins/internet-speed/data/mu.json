@@ -1,0 +1,17 @@
+{
+  "code": "mu",
+  "name": "Mauritius",
+  "avgDownloadMbps": 38.4,
+  "avgUploadMbps": 14.8,
+  "avgLatencyMs": 22,
+  "mobileDownloadMbps": 22.6,
+  "mobileUploadMbps": 5.2,
+  "fixedDownloadMbps": 38.4,
+  "fixedUploadMbps": 14.8,
+  "rank": 82,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Island nation with good submarine cable access. ~12% year-over-year growth.",
+  "geojson": "mu.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "mesopotamia",
+  "name": "Mesopotamia",
+  "period": "c. 3500–539 BCE",
+  "region": "Middle East",
+  "type": "Civilization",
+  "writingSystem": "Cuneiform",
+  "majorAchievements": ["Invention of writing", "Code of Hammurabi", "Irrigation systems", "Wheel invention", "Base-60 mathematics", "Ziggurats"],
+  "keyCities": ["Ur", "Uruk", "Babylon", "Nineveh", "Akkad"],
+  "description": "Mesopotamia, the 'land between rivers' (Tigris and Euphrates), is often called the cradle of civilization. It gave rise to successive cultures including the Sumerians, Akkadians, Babylonians, and Assyrians. Mesopotamians invented cuneiform writing, developed advanced irrigation, and created some of humanity's earliest legal codes.",
+  "geojson": "mesopotamia.geojson"
+}

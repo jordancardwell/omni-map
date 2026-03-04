@@ -1,0 +1,18 @@
+{
+  "code": "cgk-bkk",
+  "name": "Jakarta — Bangkok",
+  "airports": [
+    "CGK",
+    "BKK"
+  ],
+  "distanceKm": 2298,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Garuda Indonesia",
+    "Thai AirAsia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CGK–BKK route between Jakarta and Bangkok. Distance: 2,298 km. ~60 weekly flights operated by Garuda Indonesia, Thai AirAsia.",
+  "geojson": "cgk-bkk.geojson"
+}

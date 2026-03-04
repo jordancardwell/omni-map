@@ -1,0 +1,16 @@
+{
+  "code": "temple-of-apollo-epicurius-at-bassae",
+  "name": "Temple of Apollo Epicurius at Bassae",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This famous temple to the god of healing and the sun was built towards the middle of the 5th century B.C. in the lonely heights of the Arcadian mountains. The temple, which has the oldest Corinthian capital yet found, combines the Archaic style and the serenity of the Doric style with some daring architectural features.",
+  "danger": false,
+  "geojson": "temple-of-apollo-epicurius-at-bassae.geojson"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "california-chaparral", "name": "California Chaparral & Forests" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-124,42],[-122,42],[-120,40],[-119,38],[-118,36],[-117,34],[-118,33],[-120,34],[-121,35],[-122,37],[-123,39],[-124,41],[-124,42]]]
+    }
+  }]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "tropical-moist-forests",
+  "name": "Tropical & Subtropical Moist Broadleaf Forests",
+  "biomeType": "Forest",
+  "areaKm2": 17000000,
+  "keyCharacteristics": "Dense, multi-layered canopy with year-round warmth and rainfall exceeding 2000mm annually. Highest terrestrial biodiversity on Earth.",
+  "typicalFlora": ["Kapok tree", "Strangler fig", "Bromeliads", "Orchids", "Mahogany", "Rubber tree"],
+  "typicalFauna": ["Jaguar", "Orangutan", "Toucan", "Poison dart frog", "Harpy eagle", "Gorilla"],
+  "threatLevel": "Critical",
+  "conservationStatus": "Over 50% of original extent lost to deforestation. Losing approximately 10 million hectares per year globally. IUCN considers tropical moist forests among the most threatened biomes.",
+  "description": "Tropical and subtropical moist broadleaf forests, commonly known as tropical rainforests, are the most biodiverse terrestrial ecosystems on Earth. Found near the equator where temperatures remain warm year-round and rainfall is abundant, these forests support an estimated 50-80% of all terrestrial species.\n\nThe canopy structure is complex, with emergent trees reaching 60-70 meters, a main canopy at 30-45 meters, an understory layer, and a forest floor that receives less than 2% of sunlight. Epiphytes, lianas, and other climbing plants are abundant.\n\nMajor regions include the Amazon Basin, Congo Basin, and Southeast Asian archipelago. These forests play a crucial role in global carbon cycling, storing an estimated 250 billion tonnes of carbon.",
+  "geojson": "tropical-moist-forests.geojson"
+}

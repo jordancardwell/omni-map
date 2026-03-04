@@ -1,0 +1,18 @@
+{
+  "code": "dxb-sin",
+  "name": "Dubai — Singapore",
+  "airports": [
+    "DXB",
+    "SIN"
+  ],
+  "distanceKm": 5845,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Emirates",
+    "Singapore Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DXB–SIN route between Dubai and Singapore. Distance: 5,845 km. ~70 weekly flights operated by Emirates, Singapore Airlines.",
+  "geojson": "dxb-sin.geojson"
+}

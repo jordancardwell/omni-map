@@ -1,0 +1,16 @@
+{
+  "code": "odia",
+  "name": "Odia",
+  "scriptType": "Abugida",
+  "characters": 47,
+  "direction": "LTR",
+  "originDate": "~14th century CE",
+  "sampleText": "ଓଡ଼ିଆ ଲିପି ବହୁତ ସୁନ୍ଦର",
+  "relatedScripts": [
+    "bengali",
+    "devanagari"
+  ],
+  "description": "The Odia script is an abugida with 47 characters, notable for its curved and rounded letterforms that resemble circles and arcs. Unlike Devanagari and Bengali, Odia lacks a headline. The distinctive roundness is attributed to the historical practice of writing on palm leaves, where straight horizontal lines would tear the leaf.",
+  "historicalNotes": "Odia script evolved from the eastern Nagari scripts, with inscriptions dating to the 14th century CE. The script developed its characteristic curved forms over time as scribes wrote on dried palm leaves. The earliest known Odia prose text is the Madala Panji (temple chronicles). Odia was recognized as a classical language of India in 2014.",
+  "geojson": "odia.geojson"
+}

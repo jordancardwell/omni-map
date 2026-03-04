@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[44.2983,39.7019]},"properties":{"code":"mount-ararat","name":"Mount Ararat","volcanoType":"Stratovolcano","status":"Dormant","elevation":5137,"lastEruption":"1840","vei":3}}]}

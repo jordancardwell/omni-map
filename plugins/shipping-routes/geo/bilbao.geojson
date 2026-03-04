@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bilbao","name":"Port of Bilbao","featureType":"port","portType":"Multi-Purpose Port","country":"Spain"},"geometry":{"type":"Point","coordinates":[-3.02,43.33]}}]}

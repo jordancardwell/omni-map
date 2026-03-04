@@ -1,0 +1,14 @@
+{
+  "code": "montevideo",
+  "name": "Port of Montevideo",
+  "country": "Uruguay",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "River Plate & South Atlantic"
+  ],
+  "description": "Port of Montevideo in Uruguay. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+  "geojson": "montevideo.geojson"
+}

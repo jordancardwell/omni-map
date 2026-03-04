@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9138888889,
+          45.8888888889
+        ]
+      },
+      "properties": {
+        "code": "monte-san-giorgio",
+        "name": "Monte San Giorgio",
+        "type": "Natural",
+        "country": "Italy, Switzerland",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

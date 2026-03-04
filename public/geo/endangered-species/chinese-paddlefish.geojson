@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"chinese-paddlefish","name":"Chinese Paddlefish"},"geometry":{"type":"Polygon","coordinates":[[[104,28],[112,28],[118,30],[121,31.5],[118,32],[110,31],[104,30],[104,28]]]}}]}

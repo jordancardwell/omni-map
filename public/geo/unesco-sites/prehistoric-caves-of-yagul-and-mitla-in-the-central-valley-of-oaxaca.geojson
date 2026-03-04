@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4211111111,
+          16.9508333333
+        ]
+      },
+      "properties": {
+        "code": "prehistoric-caves-of-yagul-and-mitla-in-the-central-valley-of-oaxaca",
+        "name": "Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

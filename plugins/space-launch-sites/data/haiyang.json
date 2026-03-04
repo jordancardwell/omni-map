@@ -1,0 +1,16 @@
+{
+  "code": "haiyang",
+  "name": "Haiyang Launch Site",
+  "country": "China",
+  "operator": "CAS Space / Commercial operators",
+  "coordinates": "36.7700°N, 121.1500°E",
+  "status": "Active",
+  "notableLaunches": [
+    "CAS Space Kinetica-1 sea launches",
+    "Eastern Aerospace Gravity-1"
+  ],
+  "orbitalInclinationRange": "35°–98°",
+  "location": "Haiyang Launch Site, China",
+  "description": "Sea-adjacent commercial launch site near Haiyang, Shandong province. Supports China's growing commercial space launch industry with both land-based and sea-launch operations.",
+  "geojson": "haiyang.geojson"
+}

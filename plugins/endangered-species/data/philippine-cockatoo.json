@@ -1,0 +1,18 @@
+{
+  "code": "philippine-cockatoo",
+  "name": "Philippine Cockatoo",
+  "scientificName": "Cacatua haematuropygia",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~1,200 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Lowland forest and mangrove",
+  "threats": [
+    "Poaching for pet trade",
+    "Deforestation",
+    "Mining"
+  ],
+  "conservationEfforts": "Katala Foundation's nest warden program hires locals to guard nests. Rasa Island Wildlife Sanctuary success story increased local population from 23 to over 300 birds.",
+  "description": "A small white cockatoo found only in the Philippines. The Rasa Island conservation program is a model for community-based species recovery in the tropics.",
+  "geojson": "philippine-cockatoo.geojson"
+}

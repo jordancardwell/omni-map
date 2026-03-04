@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.62361,
+          20.92889
+        ]
+      },
+      "properties": {
+        "code": "ancient-i-ksour-i-of-ouadane-chinguetti-tichitt-and-oualata",
+        "name": "Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata",
+        "type": "Cultural",
+        "country": "Mauritania",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

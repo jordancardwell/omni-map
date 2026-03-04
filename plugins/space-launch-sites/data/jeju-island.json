@@ -1,0 +1,15 @@
+{
+  "code": "jeju-island",
+  "name": "Jeju Offshore Launch Site (proposed)",
+  "country": "South Korea",
+  "operator": "KASA (proposed)",
+  "coordinates": "33.2500°N, 126.2500°E",
+  "status": "Planned",
+  "notableLaunches": [
+    "Future South Korean launches (conceptual)"
+  ],
+  "orbitalInclinationRange": "33°–98°",
+  "location": "Jeju Offshore Launch Site (proposed), South Korea",
+  "description": "Proposed future launch site concept near Jeju Island for expanding South Korea's launch capabilities. In early conceptual stages as part of Korea's space development master plan.",
+  "geojson": "jeju-island.geojson"
+}

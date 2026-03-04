@@ -1,0 +1,14 @@
+{
+  "code": "qingming",
+  "name": "Qingming (Tomb-Sweeping Day)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "April 4–6",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Sweeping and tending ancestral graves; offering food and incense; flying kites; planting willow branches; spring outings.",
+  "historicalBackground": "Qingming has been observed for over 2,500 years, dating to the Zhou Dynasty. It combines ancestor veneration with celebration of spring's renewal.",
+  "description": "China's Tomb-Sweeping Day, when families honor ancestors by tending graves and enjoying spring outings during the season of renewal.",
+  "location": "Shanghai, China",
+  "geojson": "qingming.geojson"
+}

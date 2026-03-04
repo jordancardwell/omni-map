@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3093,
+          47.0502
+        ]
+      },
+      "properties": {
+        "code": "national-day-switzerland",
+        "name": "Swiss National Day",
+        "festivalType": "National",
+        "dateOrSeason": "August 1",
+        "location": "Rütli Meadow, Switzerland"
+      }
+    }
+  ]
+}

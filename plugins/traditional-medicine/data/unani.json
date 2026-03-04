@@ -1,0 +1,28 @@
+{
+  "code": "unani",
+  "name": "Unani Medicine",
+  "tradition": "South Asian / Greco-Arabic",
+  "originRegion": "Greece / Arab world / South Asia",
+  "estimatedPractitioners": 60000,
+  "whoRecognition": "Recognized — Included in WHO Traditional Medicine Strategy; regulated in India under AYUSH ministry",
+  "keyPractices": [
+    "Herbal medicine (Ilaj bil-Dawa)",
+    "Dietary therapy (Ilaj bil-Ghiza)",
+    "Regimental therapy (Ilaj bil-Tadbeer)",
+    "Surgery (Ilaj bil-Yad)",
+    "Cupping (Hijama)",
+    "Pulse diagnosis"
+  ],
+  "regionsOfPractice": [
+    "India",
+    "Pakistan",
+    "Bangladesh",
+    "Iran",
+    "Afghanistan",
+    "Central Asia",
+    "Middle East"
+  ],
+  "description": "Unani medicine ('Greek medicine') is a Greco-Arabic medical system based on the teachings of Hippocrates and Galen, later developed by Arab and Persian physicians. It rests on the theory of four humors (blood, phlegm, yellow bile, black bile) and four temperaments. Treatment aims to restore humoral balance through diet, herbal medicines, physical therapies, and lifestyle modifications. India is the primary center of Unani practice today, with over 50,000 registered practitioners and government-recognized universities teaching the system.",
+  "historicalNotes": "Originating with Hippocrates (460–370 BCE), the system was systematized by Galen (130–200 CE) and greatly expanded by Arab-Persian scholars: Al-Razi (Rhazes), Ibn Sina (Avicenna, whose Canon of Medicine was a European medical standard for centuries), and Ibn al-Nafis (who discovered pulmonary circulation). The system was brought to South Asia by Arab traders and the Delhi Sultanate. India's Unani tradition has been continuously practiced for over 800 years and was officially recognized alongside Ayurveda after independence.",
+  "geojson": "unani.geojson"
+}

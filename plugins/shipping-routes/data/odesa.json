@@ -1,0 +1,14 @@
+{
+  "code": "odesa",
+  "name": "Port of Odesa",
+  "country": "Ukraine",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Black Sea Shipping Route"
+  ],
+  "description": "Port of Odesa in Ukraine. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "odesa.geojson"
+}

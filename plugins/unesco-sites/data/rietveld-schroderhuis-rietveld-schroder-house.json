@@ -1,0 +1,15 @@
+{
+  "code": "rietveld-schroderhuis-rietveld-schroder-house",
+  "name": "Rietveld Schröderhuis (Rietveld Schröder House)",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Rietveld Schröder House in Utrecht was commissioned by Ms Truus Schröder-Schräder, designed by the architect Gerrit Thomas Rietveld, and built in 1924. This small family house, with its interior, the flexible spatial arrangement, and the visual and formal qualities, was a manifesto of the ideals of the De Stijl group of artists and architects in the Netherlands in the 1920s, and has since been considered one of the icons of the Modern Movement in architecture.",
+  "danger": false,
+  "geojson": "rietveld-schroderhuis-rietveld-schroder-house.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"oslo","name":"Port of Oslo","featureType":"port","portType":"Multi-Purpose Port","country":"Norway"},"geometry":{"type":"Point","coordinates":[10.74,59.91]}}]}

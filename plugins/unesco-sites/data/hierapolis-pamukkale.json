@@ -1,0 +1,16 @@
+{
+  "code": "hierapolis-pamukkale",
+  "name": "Hierapolis-Pamukkale",
+  "type": "Mixed",
+  "country": "Türkiye",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(vii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Deriving from springs in a cliff almost 200 m high overlooking the plain, calcite-laden waters have created at Pamukkale (Cotton Palace) an unreal landscape, made up of mineral forests, petrified waterfalls and a series of terraced basins. At the end of the 2nd century B.C. the dynasty of the Attalids, the kings of Pergamon, established the thermal spa of Hierapolis. The ruins of the baths, temples and other Greek monuments can be seen at the site.",
+  "danger": false,
+  "geojson": "hierapolis-pamukkale.geojson"
+}

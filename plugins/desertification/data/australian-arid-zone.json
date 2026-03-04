@@ -1,0 +1,23 @@
+{
+  "code": "australian-arid-zone",
+  "name": "Australian Arid Zone",
+  "region": "Oceania",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.05–0.20 — vast interior aridity",
+  "area": "3,400,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 600000,
+  "affectedCountries": [
+    "Australia"
+  ],
+  "desertificationDrivers": [
+    "Drought intensification",
+    "Overgrazing",
+    "Invasive species",
+    "Fire regime changes"
+  ],
+  "desertFrontier": "Arid zone expanding into semi-arid margins during prolonged droughts",
+  "description": "Australia's arid zone covers ~44% of the continent, including the Gibson, Great Sandy, Great Victoria, Simpson, and Tanami deserts. The region experiences extreme drought variability linked to El Niño cycles. Invasive species like feral camels, rabbits, and buffel grass have dramatically altered ecosystems. Aboriginal Australians managed these landscapes with fire for over 60,000 years.",
+  "geojson": "australian-arid-zone.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sea","name":"Seattle-Tacoma International","featureType":"airport","iataCode":"SEA","annualPassengers":50000000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[-122.3088,47.4502]}}]}

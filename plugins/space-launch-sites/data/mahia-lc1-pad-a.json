@@ -1,0 +1,17 @@
+{
+  "code": "mahia-lc1-pad-a",
+  "name": "Rocket Lab LC-1 Pad A",
+  "country": "New Zealand",
+  "operator": "Rocket Lab",
+  "coordinates": "39.2613°S, 177.8647°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Still Testing (first Electron from NZ)",
+    "It's Business Time",
+    "Numerous Electron missions"
+  ],
+  "orbitalInclinationRange": "39°–98°",
+  "location": "Rocket Lab LC-1 Pad A, New Zealand",
+  "description": "The original pad at Rocket Lab's Mahia Peninsula facility. The first pad from which a privately developed rocket reached orbit from a private launch site.",
+  "geojson": "mahia-lc1-pad-a.geojson"
+}

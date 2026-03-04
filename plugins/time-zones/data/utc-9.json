@@ -1,0 +1,22 @@
+{
+  "code": "utc-9",
+  "name": "Alaska Standard Time",
+  "nativeName": "UTC-09:00",
+  "utcOffset": "UTC-09:00",
+  "utcOffsetHours": -9,
+  "offsetGroup": "1. Far West (UTC-12 to -9)",
+  "ianaNames": [
+    "America/Anchorage",
+    "Pacific/Gambier"
+  ],
+  "countries": [
+    "Alaska (US)",
+    "Gambier Islands (France)"
+  ],
+  "dstRules": "Alaska observes DST (UTC-8 in summer, Mar–Nov)",
+  "description": "Covers most of Alaska, the largest US state. Alaska's extreme northern latitude means summer days can last over 20 hours, while winter days may have only a few hours of twilight.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-9.geojson"
+}

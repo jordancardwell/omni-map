@@ -1,0 +1,15 @@
+{
+  "code": "churches-of-chiloe",
+  "name": "Churches of Chiloé",
+  "type": "Cultural",
+  "country": "Chile",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Churches of Chiloé represent a unique example in Latin America of an outstanding form of ecclesiastical wooden architecture. They represent a tradition initiated by the Jesuit Peripatetic Mission in the 17th and 18th centuries, continued and enriched by the Franciscans during the 19th century and still prevailing today. These churches embody the intangible richness of the Chiloé Archipelago, and bear witness to a successful fusion of indigenous and European culture, the full integration of its architecture in the landscape and environment, as well as to the spiritual values of the communities.",
+  "danger": false,
+  "geojson": "churches-of-chiloe.geojson"
+}

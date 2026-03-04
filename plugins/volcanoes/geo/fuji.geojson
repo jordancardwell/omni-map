@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[138.7274,35.3606]},"properties":{"code":"fuji","name":"Mount Fuji","volcanoType":"Stratovolcano","status":"Dormant","elevation":3776,"lastEruption":"1707","vei":5}}]}

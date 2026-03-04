@@ -1,0 +1,18 @@
+{
+  "code": "st-kilda",
+  "name": "St Kilda",
+  "type": "Mixed",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(iii)",
+    "(v)",
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "This volcanic archipelago, with its spectacular landscapes, is situated off the coast of the Hebrides and comprises the islands of Hirta, Dun, Soay and Boreray. It has some of the highest cliffs in Europe, which have large colonies of rare and endangered species of birds, especially puffins and gannets. The archipelago, uninhabited since 1930, bears the evidence of more than 2,000 years of human occupation in the extreme conditions prevalent in the Hebrides. Human vestiges include built structures and field systems, the cleits and the traditional Highland stone houses. They feature the vulnerable remains of a subsistence economy based on the products of birds, agriculture and sheep farming.",
+  "danger": false,
+  "geojson": "st-kilda.geojson"
+}

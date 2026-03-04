@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"north-atlantic-right-whale","name":"North Atlantic Right Whale"},"geometry":{"type":"Polygon","coordinates":[[[80,25],[75,25],[65,35],[60,45],[65,50],[70,45],[75,35],[80,25]]]}}]}

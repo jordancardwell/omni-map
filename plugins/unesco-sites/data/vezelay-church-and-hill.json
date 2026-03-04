@@ -1,0 +1,14 @@
+{
+  "code": "vezelay-church-and-hill",
+  "name": "Vézelay, Church and Hill",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)"
+  ],
+  "region": "Europe and North America",
+  "description": "Shortly after its foundation in the 9th century, the Benedictine abbey of Vézelay acquired the relics of St Mary Magdalene and since then it has been an important place of pilgrimage. St Bernard preached the Second Crusade there in 1146 and Richard the Lion-Hearted and Philip II Augustus met there to leave for the Third Crusade in 1190. With its sculpted capitals and portal, the Madeleine of Vézelay – a 12th-century monastic church – is a masterpiece of Burgundian Romanesque art and architecture.",
+  "danger": false,
+  "geojson": "vezelay-church-and-hill.geojson"
+}

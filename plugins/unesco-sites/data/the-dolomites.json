@@ -1,0 +1,15 @@
+{
+  "code": "the-dolomites",
+  "name": "The Dolomites",
+  "type": "Natural",
+  "country": "Italy",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The site of the Dolomites comprises a mountain range in the northern Italian Alps, numbering 18 peaks which rise to above 3,000 metres and cover 141,903 ha. It features some of the most beautiful mountain landscapes anywhere, with vertical walls, sheer cliffs and a high density of narrow, deep and long valleys. A serial property of nine areas that present a diversity of spectacular landscapes of international significance for geomorphology marked by steeples, pinnacles and rock walls, the site also contains glacial landforms and karst systems. It is characterized by dynamic processes with frequent landslides, floods and avalanches. The property also features one of the best examples of the preservation of Mesozoic carbonate platform systems, with fossil records.",
+  "danger": false,
+  "geojson": "the-dolomites.geojson"
+}

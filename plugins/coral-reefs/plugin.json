@@ -1,0 +1,44 @@
+{
+  "id": "coral-reefs",
+  "name": "Coral Reefs",
+  "description": "Global distribution of major coral reef systems — barrier reefs, fringing reefs, and atolls with health status and conservation data sourced from UNEP-WCMC",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#FF7F50",
+  "categories": ["ecology", "environment", "marine", "conservation"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#FF7F50",
+  "schema": "CoralReefMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "location", "reefType", "healthStatus", "description"],
+    "groupBy": "reefType",
+    "titleField": "name",
+    "subtitleField": "location",
+    "badgeField": "areaKm2",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "location"
+  },
+  "detailFields": [
+    { "key": "reefType", "label": "Reef Type", "type": "text" },
+    { "key": "healthStatus", "label": "Health Status", "type": "status-badge", "statusColors": {
+      "Good": "#2DD4BF",
+      "Near Threatened": "#22D3EE",
+      "Vulnerable": "#FBBF24",
+      "Endangered": "#F97316",
+      "Critical": "#EF4444"
+    }},
+    { "key": "areaKm2", "label": "Area (km²)", "type": "formatted-number" },
+    { "key": "threats", "label": "Threats", "type": "tags" },
+    { "key": "conservationStatus", "label": "Conservation Status", "type": "text" },
+    { "key": "marineSpecies", "label": "Marine Species", "type": "formatted-number" },
+    { "key": "coralSpecies", "label": "Coral Species", "type": "formatted-number" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

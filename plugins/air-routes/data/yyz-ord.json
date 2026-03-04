@@ -1,0 +1,18 @@
+{
+  "code": "yyz-ord",
+  "name": "Toronto — Chicago",
+  "airports": [
+    "YYZ",
+    "ORD"
+  ],
+  "distanceKm": 701,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Air Canada",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "YYZ–ORD route between Toronto and Chicago. Distance: 701 km. ~60 weekly flights operated by Air Canada, United.",
+  "geojson": "yyz-ord.geojson"
+}

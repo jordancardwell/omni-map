@@ -1,0 +1,22 @@
+{
+  "code": "fuego-guatemala",
+  "name": "Volcán de Fuego",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3763,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Guatemala",
+  "region": "Sacatepéquez",
+  "location": "Sacatepéquez, Guatemala",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of Central America's most active volcanoes. The June 2018 eruption produced devastating pyroclastic flows that killed over 190 people in the village of San Miguel Los Lotes.",
+  "description": "Volcán de Fuego is one of the most active volcanoes in Central America. Its devastating 2018 eruption was one of the deadliest volcanic disasters in Guatemalan history.",
+  "geojson": "fuego-guatemala.geojson"
+}

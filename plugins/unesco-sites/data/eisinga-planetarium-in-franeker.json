@@ -1,0 +1,14 @@
+{
+  "code": "eisinga-planetarium-in-franeker",
+  "name": "Eisinga Planetarium in Franeker",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built between 1774 and 1781, this property is a moving mechanical scale model of the solar system as it was known at the time. Conceived and built by an ordinary citizen – the wool manufacturer Eise Eisinga – the model is built into the ceiling and south wall of the former living room/bedroom of its creator. Powered by one single pendulum clock, it provides a realistic image of the positions of the Sun, the Moon, the Earth and five other planets (Mercury, Venus, Mars, Jupiter and Saturn). The planets revolve around the Sun in real time and the distance between the planets is at scale. The model fills the entire ceiling of the room, making it one of the earliest predecessors of the ceiling and projection planetariums of the 20th and 21st centuries.",
+  "danger": false,
+  "geojson": "eisinga-planetarium-in-franeker.geojson"
+}

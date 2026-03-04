@@ -1,0 +1,18 @@
+{
+  "code": "mco-sea",
+  "name": "Orlando — Seattle",
+  "airports": [
+    "MCO",
+    "SEA"
+  ],
+  "distanceKm": 4105,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Delta",
+    "Alaska"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MCO–SEA route between Orlando and Seattle. Distance: 4,105 km. ~20 weekly flights operated by Delta, Alaska.",
+  "geojson": "mco-sea.geojson"
+}

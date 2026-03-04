@@ -1,0 +1,16 @@
+{
+  "code": "clp",
+  "name": "Chilean Peso",
+  "isoCode": "CLP",
+  "symbol": "CL$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Chile",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Chile"
+  ],
+  "countryCount": 1,
+  "description": "The Chilean Peso is the currency of one of South America's most stable and open economies, known for its copper exports.",
+  "historicalNotes": "The current peso was reintroduced in 1975, replacing the escudo at a rate of 1,000:1. Chile pioneered inflation-targeting monetary policy in Latin America.",
+  "geojson": "clp.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "horn-of-africa",
+  "name": "Horn of Africa",
+  "location": "Northeast Africa (Somalia, Ethiopia, Eritrea, Djibouti, Kenya)",
+  "areaKm2": 1659363,
+  "habitatRemaining": "5.0%",
+  "plantSpecies": 5000,
+  "endemicPlants": 2750,
+  "vertebrateSpecies": 697,
+  "endemicVertebrates": 92,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Somali wild ass",
+    "Dibatag",
+    "Beira antelope",
+    "Warsangeli linnet",
+    "Speke's gazelle"
+  ],
+  "threats": [
+    "Overgrazing",
+    "Charcoal production",
+    "Drought",
+    "Political instability",
+    "Desertification"
+  ],
+  "conservationEfforts": "Limited formal conservation due to political instability. Some community-managed rangelands in Ethiopia and Kenya. Somali wild ass conservation efforts in Eritrea. Djibouti established Day Forest National Park for endemic species.",
+  "description": "The Horn of Africa hotspot covers the arid and semi-arid lands of Somalia, Djibouti, Eritrea, Ethiopia, and northeastern Kenya. Despite its arid appearance, this region harbors surprising biological richness and exceptionally high plant endemism, with 55% of plant species found nowhere else.\n\nThe hotspot's biodiversity is shaped by its position at the junction of three biogeographic regions: Afrotropical, Palearctic, and Oriental. The landscape includes coastal deserts, dry savannas, juniper forests, and montane habitats. It is one of the most understudied hotspots due to ongoing political conflicts.",
+  "geojson": "horn-of-africa.geojson"
+}

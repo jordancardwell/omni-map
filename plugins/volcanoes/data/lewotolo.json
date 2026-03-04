@@ -1,0 +1,21 @@
+{
+  "code": "lewotolo",
+  "name": "Lewotolo",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1423,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Flores",
+  "location": "Flores, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "Increased activity since 2020 with frequent ash emissions and occasional larger eruptions.",
+  "description": "Lewotolo is an active stratovolcano on the island of Lembata in Indonesia's Lesser Sunda Islands. It has become increasingly active in recent years.",
+  "geojson": "lewotolo.geojson"
+}

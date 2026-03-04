@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45,
+          52.4483333333
+        ]
+      },
+      "properties": {
+        "code": "berlin-modernism-housing-estates",
+        "name": "Berlin Modernism Housing Estates",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

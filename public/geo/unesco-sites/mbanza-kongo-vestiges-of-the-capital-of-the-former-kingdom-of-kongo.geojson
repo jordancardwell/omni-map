@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2497222222,
+          -6.2688888889
+        ]
+      },
+      "properties": {
+        "code": "mbanza-kongo-vestiges-of-the-capital-of-the-former-kingdom-of-kongo",
+        "name": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
+        "type": "Cultural",
+        "country": "Angola",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

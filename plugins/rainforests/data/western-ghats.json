@@ -1,0 +1,21 @@
+{
+  "code": "western-ghats",
+  "name": "Western Ghats Rainforest",
+  "country": "India",
+  "forestType": "Tropical",
+  "areaKm2": 60000,
+  "intactness": "Severely Degraded",
+  "changeSince2000": "-4.8% (approximately 2,900 km² lost)",
+  "annualLossRate": "0.2% per year",
+  "threats": [
+    "Plantation agriculture (tea, coffee, spices)",
+    "Mining",
+    "Hydroelectric projects",
+    "Urban expansion",
+    "Road construction",
+    "Encroachment"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site (serial nomination of 39 properties). Multiple national parks including Silent Valley, Periyar, and Kudremukh. Western Ghats Ecology Expert Panel (Gadgil Report) recommended stronger zoning. Kasturirangan Report provides current regulatory framework.",
+  "description": "The **Western Ghats** mountain chain runs 1,600 km along India's western coast and is one of the world's eight \"hottest hotspots\" of biological diversity. Its tropical and subtropical moist forests harbor extraordinary endemism.\n\n### Key Statistics\n- **Biodiversity**: ~5,000 flowering plant species (33% endemic), 508 bird species, 179 amphibians\n- **Amphibian endemism**: 80% of amphibian species found nowhere else\n- **Population**: 50 million people depend on the Ghats for water and livelihoods\n- **River systems**: Source of major peninsular Indian rivers (Krishna, Godavari, Kaveri)\n\n### Deforestation Trends\nThe IFL 2020 data shows the Western Ghats retain fragmented forest cover, particularly in the southern sections (Kerala, Karnataka). Historical conversion to tea, coffee, and spice plantations removed much forest during the colonial era. Current pressures include mining, dams, and linear infrastructure projects.",
+  "geojson": "western-ghats.geojson"
+}

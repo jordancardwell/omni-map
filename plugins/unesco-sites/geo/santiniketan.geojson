@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6849722222,
+          23.6802777778
+        ]
+      },
+      "properties": {
+        "code": "santiniketan",
+        "name": "Santiniketan",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

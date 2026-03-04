@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-brazil",
+  "name": "Independence Day (Brazil)",
+  "festivalType": "National",
+  "dateOrSeason": "September 7",
+  "origin": "Brazilian national",
+  "estimatedAttendance": "215+ million Brazilians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military parade in Brasília; civic parades nationwide; flag ceremonies; patriotic songs; school performances.",
+  "historicalBackground": "Brazil's Independence Day marks September 7, 1822, when Prince Pedro proclaimed independence from Portugal at the banks of the Ipiranga River.",
+  "description": "Brazil's national celebration of independence from Portugal, marked by grand military parades and patriotic ceremonies.",
+  "location": "Brasília, Brazil",
+  "geojson": "independence-day-brazil.geojson"
+}

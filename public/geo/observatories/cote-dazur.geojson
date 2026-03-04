@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[7.2997,43.7272]},"properties":{"code":"cote-dazur","name":"Observatoire de la Côte d'Azur","observatoryType":"Optical","status":"Operational","country":"France"}}]}

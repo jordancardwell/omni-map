@@ -1,0 +1,14 @@
+{
+  "code": "rock-drawings-in-valcamonica",
+  "name": "Rock Drawings in Valcamonica",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Valcamonica, situated in the Lombardy plain, has one of the world's greatest collections of prehistoric petroglyphs – more than 140,000 symbols and figures carved in the rock over a period of 8,000 years and depicting themes connected with agriculture, navigation, war and magic.",
+  "danger": false,
+  "geojson": "rock-drawings-in-valcamonica.geojson"
+}

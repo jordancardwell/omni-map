@@ -1,0 +1,14 @@
+{
+  "code": "paranagua",
+  "name": "Port of Paranaguá",
+  "country": "Brazil",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 55,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Trans-Atlantic Southern Route"
+  ],
+  "description": "Port of Paranaguá in Brazil. Annual cargo throughput: ~55 million tons. Type: Bulk Port.",
+  "geojson": "paranagua.geojson"
+}

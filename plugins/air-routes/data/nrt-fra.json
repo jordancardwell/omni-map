@@ -1,0 +1,18 @@
+{
+  "code": "nrt-fra",
+  "name": "Tokyo — Frankfurt",
+  "airports": [
+    "NRT",
+    "FRA"
+  ],
+  "distanceKm": 9366,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Lufthansa",
+    "ANA"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "NRT–FRA route between Tokyo and Frankfurt. Distance: 9,366 km. ~20 weekly flights operated by Lufthansa, ANA.",
+  "geojson": "nrt-fra.geojson"
+}

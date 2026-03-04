@@ -1,0 +1,21 @@
+{
+  "code": "ubinas",
+  "name": "Ubinas",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 5672,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Peru",
+  "region": "Moquegua",
+  "location": "Moquegua, Peru",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lahars",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "Peru's most active volcano. Has erupted over 25 times since 1550.",
+  "description": "Ubinas is the most active volcano in Peru, with a long history of eruptions that periodically displace communities in the surrounding valleys.",
+  "geojson": "ubinas.geojson"
+}

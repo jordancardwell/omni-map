@@ -1,0 +1,17 @@
+{
+  "code": "tv",
+  "name": "Tuvalu",
+  "avgDownloadMbps": 3.8,
+  "avgUploadMbps": 1,
+  "avgLatencyMs": 58,
+  "mobileDownloadMbps": 4.2,
+  "mobileUploadMbps": 1.2,
+  "fixedDownloadMbps": 3.8,
+  "fixedUploadMbps": 1,
+  "rank": 189,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Oceania",
+  "dataYear": 2024,
+  "trendDescription": "Among the world's smallest and most remote. ~4% year-over-year growth.",
+  "geojson": "tv.geojson"
+}

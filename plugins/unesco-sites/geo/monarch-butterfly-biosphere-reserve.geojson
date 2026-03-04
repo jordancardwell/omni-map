@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2416666667,
+          19.6063888889
+        ]
+      },
+      "properties": {
+        "code": "monarch-butterfly-biosphere-reserve",
+        "name": "Monarch Butterfly Biosphere Reserve",
+        "type": "Natural",
+        "country": "Mexico",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gq","name":"Equatorial Guinea","country":"GQ","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[5.6,-1.5],[5.6,3.8],[11.3,3.8],[11.3,-1.5],[5.6,-1.5]]]}}]}

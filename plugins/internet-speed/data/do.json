@@ -1,0 +1,17 @@
+{
+  "code": "do",
+  "name": "Dominican Republic",
+  "avgDownloadMbps": 47.6,
+  "avgUploadMbps": 14.2,
+  "avgLatencyMs": 32,
+  "mobileDownloadMbps": 22.4,
+  "mobileUploadMbps": 4.8,
+  "fixedDownloadMbps": 47.6,
+  "fixedUploadMbps": 14.2,
+  "rank": 75,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Caribbean connectivity improving. ~16% year-over-year growth.",
+  "geojson": "do.geojson"
+}

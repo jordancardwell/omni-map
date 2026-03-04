@@ -1,0 +1,20 @@
+{
+  "code": "sy",
+  "name": "Syria",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "E",
+    "L"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)",
+    "Type L — Three round pins in a line (Italian style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European-style plugs with some Italian-style outlets.",
+  "geojson": "sy.geojson"
+}

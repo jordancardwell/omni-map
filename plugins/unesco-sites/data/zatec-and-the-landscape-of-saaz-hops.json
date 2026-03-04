@@ -1,0 +1,16 @@
+{
+  "code": "zatec-and-the-landscape-of-saaz-hops",
+  "name": "Žatec and the Landscape of Saaz Hops",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "This cultural landscape has been shaped for centuries by the living tradition of cultivating and trading the world’s most renowned hop variety, used in beer production around the globe. The property includes particularly fertile hop fields near the river Ohře that have been farmed continuously for hundreds of years, as well as historic villages and buildings used for processing hops. The urban component of the property is represented by the medieval centre of Žatec with its southern extension, known as the “Prague Suburb” (Pražské předměstí) including numerous specific 19th to 20th-century industrial structures. Together, these illustrate the evolution of the agro-industrial processes and socio-economic system of growing, drying, certifying, and trading hops from the Late Middle Ages to the present.",
+  "danger": false,
+  "geojson": "zatec-and-the-landscape-of-saaz-hops.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "molonglo",
+  "name": "Molonglo Observatory Synthesis Telescope",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 735,
+  "aperture": "1.6 km × 12 m cylindrical",
+  "telescopes": [
+    "MOST/UTMOST"
+  ],
+  "keyDiscoveries": [
+    "Radio source surveys",
+    "Fast radio burst localization",
+    "Pulsar discoveries"
+  ],
+  "location": "Molonglo Observatory Synthesis Telescope, Australia",
+  "description": "A large Mills Cross radio telescope near Canberra, converted to a synthesis telescope (UTMOST). Now a key facility for localizing fast radio bursts.",
+  "geojson": "molonglo.geojson"
+}

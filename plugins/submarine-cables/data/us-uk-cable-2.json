@@ -1,0 +1,16 @@
+{
+  "code": "us-uk-cable-2",
+  "name": "US-UK Cable-2",
+  "capacityTbps": 50,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8846,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Bude, UK"
+  ],
+  "description": "US-UK Cable-2 connecting Virginia Beach to Bude.",
+  "geojson": "us-uk-cable-2.geojson"
+}

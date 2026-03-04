@@ -1,0 +1,14 @@
+{
+  "code": "church-of-the-ascension-kolomenskoye",
+  "name": "Church of the Ascension, Kolomenskoye",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Church of the Ascension was built in 1532 on the imperial estate of Kolomenskoye, near Moscow, to celebrate the birth of the prince who was to become Tsar Ivan IV ('the Terrible'). One of the earliest examples of a traditional wooden tent-roofed church on a stone and brick substructure, it had a great influence on the development of Russian ecclesiastical architecture.",
+  "danger": false,
+  "geojson": "church-of-the-ascension-kolomenskoye.geojson"
+}

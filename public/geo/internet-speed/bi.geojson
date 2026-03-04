@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bi","name":"Burundi","country":"BI","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[29,-4.5],[29,-2.3],[30.9,-2.3],[30.9,-4.5],[29,-4.5]]]}}]}

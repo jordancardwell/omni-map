@@ -1,0 +1,15 @@
+{
+  "code": "dalian",
+  "name": "Port of Dalian",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 420,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route",
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Dalian in China. Annual cargo throughput: ~420 million tons. Type: Multi-Purpose Port.",
+  "geojson": "dalian.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "doh-sin",
+  "name": "Doha — Singapore",
+  "airports": [
+    "DOH",
+    "SIN"
+  ],
+  "distanceKm": 6206,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Qatar Airways",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–SIN route between Doha and Singapore. Distance: 6,206 km. ~40 weekly flights operated by Qatar Airways, Singapore Airlines.",
+  "geojson": "doh-sin.geojson"
+}

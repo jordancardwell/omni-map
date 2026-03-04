@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38333333,
+          57.1
+        ]
+      },
+      "properties": {
+        "code": "grimeton-radio-station-varberg",
+        "name": "Grimeton Radio Station, Varberg",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

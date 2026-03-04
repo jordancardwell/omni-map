@@ -1,0 +1,20 @@
+{
+  "code": "nancy-grace-roman",
+  "name": "Nancy Grace Roman Space Telescope (GSFC)",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Under Construction",
+  "elevation": 50,
+  "aperture": "2.4 m",
+  "telescopes": [
+    "Roman Space Telescope"
+  ],
+  "keyDiscoveries": [
+    "Expected: Dark energy constraints",
+    "Exoplanet microlensing census",
+    "Infrared surveys"
+  ],
+  "location": "Nancy Grace Roman Space Telescope (GSFC), United States",
+  "description": "NASA's next flagship observatory, with Hubble-sized mirror but 100× wider field of view. Will survey dark energy, exoplanets, and infrared sky from L2 orbit.",
+  "geojson": "nancy-grace-roman.geojson"
+}

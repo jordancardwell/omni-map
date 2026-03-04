@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.22778,
+          46.07444
+        ]
+      },
+      "properties": {
+        "code": "early-christian-necropolis-of-pecs-sopianae",
+        "name": "Early Christian Necropolis of Pécs (Sopianae)",
+        "type": "Cultural",
+        "country": "Hungary",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

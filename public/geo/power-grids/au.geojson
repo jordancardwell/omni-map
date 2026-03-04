@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"au","name":"Australia","country":"AU","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[113,-43.7],[113,-10.7],[153.6,-10.7],[153.6,-43.7],[113,-43.7]]]}}]}

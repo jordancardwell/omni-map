@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bremerhaven","name":"Port of Bremerhaven","featureType":"port","portType":"Container Port","country":"Germany"},"geometry":{"type":"Point","coordinates":[8.57,53.55]}}]}

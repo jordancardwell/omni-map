@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.73,-29.2563]},"properties":{"code":"trappist-south","name":"TRAPPIST-South","observatoryType":"Optical","status":"Operational","country":"Chile"}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"lv","name":"Latvia","country":"LV","speedTier":"Fast (75–150 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[21,55.7],[21,58.1],[28.2,58.1],[28.2,55.7],[21,55.7]]]}}]}

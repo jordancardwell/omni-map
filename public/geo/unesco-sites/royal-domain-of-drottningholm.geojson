@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88333,
+          59.32306
+        ]
+      },
+      "properties": {
+        "code": "royal-domain-of-drottningholm",
+        "name": "Royal Domain of Drottningholm",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

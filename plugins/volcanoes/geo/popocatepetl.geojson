@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6278,19.0225]},"properties":{"code":"popocatepetl","name":"Popocatépetl","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":5426,"lastEruption":"2023","vei":4}}]}

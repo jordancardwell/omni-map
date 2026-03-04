@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0126388889,
+          61.7299
+        ]
+      },
+      "properties": {
+        "code": "petroglyphs-of-lake-onega-and-the-white-sea",
+        "name": "Petroglyphs of Lake Onega and the White Sea",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

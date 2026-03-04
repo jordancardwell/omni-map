@@ -1,0 +1,16 @@
+{
+  "code": "id-backbone-east",
+  "name": "ID-Backbone-East",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3649,
+  "yearLaid": 2018,
+  "rfsDate": "2014-06",
+  "owner": "Telkom Indonesia",
+  "landingPoints": [
+    "Jakarta, Indonesia",
+    "Manado, Indonesia"
+  ],
+  "description": "ID-Backbone-East connecting Jakarta to Manado in Southeast Asia.",
+  "geojson": "id-backbone-east.geojson"
+}

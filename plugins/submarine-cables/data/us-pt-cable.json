@@ -1,0 +1,16 @@
+{
+  "code": "us-pt-cable",
+  "name": "US-PT Cable",
+  "capacityTbps": 51,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8284,
+  "yearLaid": 2016,
+  "rfsDate": "2012-06",
+  "owner": "GTT",
+  "landingPoints": [
+    "Miami, USA",
+    "Lisbon, Portugal"
+  ],
+  "description": "US-PT Cable connecting Miami to Lisbon.",
+  "geojson": "us-pt-cable.geojson"
+}

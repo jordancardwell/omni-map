@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"iah","name":"George Bush Intercontinental","featureType":"airport","iataCode":"IAH","annualPassengers":35000000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[-95.3414,29.9844]}}]}

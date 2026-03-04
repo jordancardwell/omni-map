@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.209,
+          28.6139
+        ]
+      },
+      "properties": {
+        "code": "dussehra",
+        "name": "Dussehra (Vijayadashami)",
+        "festivalType": "National",
+        "dateOrSeason": "September–October",
+        "location": "New Delhi, India"
+      }
+    }
+  ]
+}

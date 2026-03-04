@@ -1,0 +1,17 @@
+{
+  "code": "ci",
+  "name": "Ivory Coast",
+  "avgDownloadMbps": 9.8,
+  "avgUploadMbps": 3.6,
+  "avgLatencyMs": 36,
+  "mobileDownloadMbps": 12.4,
+  "mobileUploadMbps": 2.8,
+  "fixedDownloadMbps": 9.8,
+  "fixedUploadMbps": 3.6,
+  "rank": 142,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Growing connectivity hub in West Africa. ~18% year-over-year growth.",
+  "geojson": "ci.geojson"
+}

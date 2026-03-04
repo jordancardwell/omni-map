@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.877,
+          -8.0476
+        ]
+      },
+      "properties": {
+        "code": "carnival-recife",
+        "name": "Carnival of Recife and Olinda",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Recife, Brazil"
+      }
+    }
+  ]
+}

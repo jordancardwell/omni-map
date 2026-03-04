@@ -1,0 +1,16 @@
+{
+  "code": "jp-kr-central",
+  "name": "JP-KR Central",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1582,
+  "yearLaid": 2020,
+  "rfsDate": "2018-06",
+  "owner": "KDDI",
+  "landingPoints": [
+    "Osaka, Japan",
+    "Busan, South Korea"
+  ],
+  "description": "JP-KR Central connecting Osaka to Busan.",
+  "geojson": "jp-kr-central.geojson"
+}

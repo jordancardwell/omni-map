@@ -1,0 +1,17 @@
+{
+  "code": "semnan-sounding",
+  "name": "Semnan Sounding Rocket Site",
+  "country": "Iran",
+  "operator": "ISA",
+  "coordinates": "35.2300°N, 53.9300°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Kavoshgar sounding rockets",
+    "Biological payload launches",
+    "Suborbital research"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Semnan Sounding Rocket Site, Iran",
+  "description": "Sounding rocket facilities adjacent to the main Semnan launch center. Used for biological and atmospheric research rockets as part of Iran's space technology development program.",
+  "geojson": "semnan-sounding.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "wooden-hypostyle-mosques-of-medieval-anatolia",
+  "name": "Wooden Hypostyle Mosques of Medieval Anatolia",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial property is comprised of five hypostyle mosques built in Anatolia between the late 13th and mid-14th centuries, each located in a different province of present-day Türkiye. The unusual structural system of the mosques combines an exterior building envelope built of masonry with multiple rows of wooden interior columns (“hypostyle”) that support a flat wooden ceiling and the roof. These mosques are known for the skilful woodcarving and handiwork used in their structures, architectural fittings, and furnishings.",
+  "danger": false,
+  "geojson": "wooden-hypostyle-mosques-of-medieval-anatolia.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "sawback-angelshark",
+  "name": "Sawback Angelshark",
+  "scientificName": "Squatina aculeata",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely depleted",
+  "populationTrend": "Decreasing",
+  "habitatType": "Sandy seabed in coastal waters",
+  "threats": [
+    "Trawl bycatch",
+    "Habitat degradation",
+    "Coastal development"
+  ],
+  "conservationEfforts": "Angel Shark Conservation Network coordinates Mediterranean research. Marine protected areas in the Canary Islands. Bycatch mitigation in trawl fisheries.",
+  "description": "A flat-bodied shark that ambushes prey from beneath the sand. Once common across the Mediterranean and eastern Atlantic, it has been devastated by bottom trawling.",
+  "geojson": "sawback-angelshark.geojson"
+}

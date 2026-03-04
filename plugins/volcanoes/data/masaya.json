@@ -1,0 +1,21 @@
+{
+  "code": "masaya",
+  "name": "Masaya",
+  "volcanoType": "Caldera",
+  "status": "Erupting/Recent",
+  "elevation": 635,
+  "lastEruption": "2023",
+  "vei": 1,
+  "country": "Nicaragua",
+  "region": "Masaya",
+  "location": "Masaya, Nicaragua",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava lake",
+    "Volcanic gases",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Contains a persistent lava lake in the Santiago crater. Spanish conquistadors called it 'The Mouth of Hell.' Has been active since 2015.",
+  "description": "Masaya is one of few volcanoes with a persistent lava lake. Known as 'The Mouth of Hell' since the Spanish colonial era, it is Nicaragua's most accessible volcano.",
+  "geojson": "masaya.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ma-pt-cable",
+  "name": "MA-PT Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1861,
+  "yearLaid": 2016,
+  "rfsDate": "2021-06",
+  "owner": "Maroc Telecom",
+  "landingPoints": [
+    "Casablanca, Morocco",
+    "Lisbon, Portugal"
+  ],
+  "description": "MA-PT Cable connecting Casablanca to Lisbon along the West African coast.",
+  "geojson": "ma-pt-cable.geojson"
+}

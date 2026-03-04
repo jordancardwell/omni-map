@@ -1,0 +1,17 @@
+{
+  "code": "archaeological-sites-of-mycenae-and-tiryns",
+  "name": "Archaeological Sites of Mycenae and Tiryns",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The archaeological sites of Mycenae and Tiryns are the imposing ruins of the two greatest cities of the Mycenaean civilization, which dominated the eastern Mediterranean world from the 15th to the 12th century B.C. and played a vital role in the development of classical Greek culture. These two cities are indissolubly linked to the Homeric epics, the Iliad and the Odyssey , which have influenced European art and literature for more than three millennia.",
+  "danger": false,
+  "geojson": "archaeological-sites-of-mycenae-and-tiryns.geojson"
+}

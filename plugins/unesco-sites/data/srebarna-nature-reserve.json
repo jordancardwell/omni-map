@@ -1,0 +1,14 @@
+{
+  "code": "srebarna-nature-reserve",
+  "name": "Srebarna Nature Reserve",
+  "type": "Natural",
+  "country": "Bulgaria",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill.",
+  "danger": false,
+  "geojson": "srebarna-nature-reserve.geojson"
+}

@@ -1,0 +1,23 @@
+{
+  "code": "paranal",
+  "name": "Paranal Observatory",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2635,
+  "aperture": "Various (VLT, VISTA, VST)",
+  "telescopes": [
+    "VLT",
+    "VISTA",
+    "VST",
+    "VLTI"
+  ],
+  "keyDiscoveries": [
+    "Infrared sky surveys (VISTA)",
+    "Wide-field imaging (VST)",
+    "Interferometric observations"
+  ],
+  "location": "Paranal Observatory, Chile",
+  "description": "ESO's flagship site at Cerro Paranal hosting the VLT, VISTA survey telescope, VST, and VLT Interferometer. One of the world's most productive observatory sites.",
+  "geojson": "paranal.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "peruvian",
+  "name": "Peruvian Cuisine",
+  "cuisineFamily": "Latin American",
+  "description": "Peruvian cuisine is one of the world's most diverse, blending indigenous Andean traditions with Spanish, African, Chinese (chifa), and Japanese (nikkei) influences. Peru's extraordinary biodiversity—thousands of potato varieties, Amazonian fruits, Pacific seafood—creates unparalleled culinary richness.",
+  "signatureDishes": [
+    "Ceviche",
+    "Lomo Saltado",
+    "Aji de Gallina",
+    "Causa",
+    "Anticuchos",
+    "Pisco Sour"
+  ],
+  "keyIngredients": [
+    "Aji Peppers",
+    "Potato (4000+ varieties)",
+    "Corn",
+    "Quinoa",
+    "Lime",
+    "Huacatay"
+  ],
+  "cookingTechniques": [
+    "Citrus curing (ceviche)",
+    "Stir-frying (chifa)",
+    "Pachamanca (earth oven)",
+    "Anticucho grilling"
+  ],
+  "unescoRecognition": "None specific; Lima designated as gastronomic capital of Latin America",
+  "keyRegions": [
+    "Lima",
+    "Cusco",
+    "Arequipa",
+    "Amazon Basin",
+    "Coast"
+  ],
+  "geojson": "peruvian.geojson"
+}

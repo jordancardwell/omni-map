@@ -1,0 +1,14 @@
+{
+  "code": "rock-paintings-of-shulgan-tash-cave",
+  "name": "Rock Paintings of Shulgan-Tash Cave",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the Southern Ural Mountains of Bashkortostan, the Shulgan-Tash Cave contains extensive Late Palaeolithic rock art. Set within a karst massif near the Belaya and Shulgan Rivers, it features large halls and deep chambers across two levels. The paintings depict steppe fauna—mammoths, woolly rhinoceroses, bison, horses, and a Bactrian camel—alongside anthropomorphic figures, abstract signs, and geometric motifs like the “Kapova trapezoids.” Archaeological finds offer insights into the artistic process and domestic life of its prehistoric inhabitants.",
+  "danger": false,
+  "geojson": "rock-paintings-of-shulgan-tash-cave.geojson"
+}

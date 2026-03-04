@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "south-sudan-uganda", "name": "South Sudan \u2192 Uganda", "migrantVolume": 3}, "geometry": {"type": "LineString", "coordinates": [[31, 6], [31, 4], [32, 2], [32, 1]]}}]}

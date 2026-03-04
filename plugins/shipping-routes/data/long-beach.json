@@ -1,0 +1,14 @@
+{
+  "code": "long-beach",
+  "name": "Port of Long Beach",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 90,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Long Beach in United States. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+  "geojson": "long-beach.geojson"
+}

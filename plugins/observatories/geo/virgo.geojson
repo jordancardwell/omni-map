@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[10.5044,43.6314]},"properties":{"code":"virgo","name":"Virgo Interferometer","observatoryType":"Multi-messenger","status":"Operational","country":"Italy"}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3295,
+          50.9747777778
+        ]
+      },
+      "properties": {
+        "code": "bauhaus-and-its-sites-in-weimar-dessau-and-bernau",
+        "name": "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

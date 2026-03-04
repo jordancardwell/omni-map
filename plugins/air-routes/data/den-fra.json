@@ -1,0 +1,18 @@
+{
+  "code": "den-fra",
+  "name": "Denver — Frankfurt",
+  "airports": [
+    "DEN",
+    "FRA"
+  ],
+  "distanceKm": 8088,
+  "weeklyFlights": 25,
+  "airlines": [
+    "United",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DEN–FRA route between Denver and Frankfurt. Distance: 8,088 km. ~25 weekly flights operated by United, Lufthansa.",
+  "geojson": "den-fra.geojson"
+}

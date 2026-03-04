@@ -1,0 +1,15 @@
+{
+  "code": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo",
+  "name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+  "type": "Cultural",
+  "country": "Panama",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade.",
+  "danger": true,
+  "geojson": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo.geojson"
+}

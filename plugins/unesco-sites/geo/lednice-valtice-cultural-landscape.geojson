@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7557944444,
+          48.7411194444
+        ]
+      },
+      "properties": {
+        "code": "lednice-valtice-cultural-landscape",
+        "name": "Lednice-Valtice Cultural Landscape",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

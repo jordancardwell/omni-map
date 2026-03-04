@@ -1,0 +1,15 @@
+{
+  "code": "jurisdiction-of-saint-emilion",
+  "name": "Jurisdiction of Saint-Emilion",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Viticulture was introduced to this fertile region of Aquitaine by the Romans, and intensified in the Middle Ages. The Saint-Emilion area benefited from its location on the pilgrimage route to Santiago de Compostela and many churches, monasteries and hospices were built there from the 11th century onwards. It was granted the special status of a 'jurisdiction' during the period of English rule in the 12th century. It is an exceptional landscape devoted entirely to wine-growing, with many fine historic monuments in its towns and villages.",
+  "danger": false,
+  "geojson": "jurisdiction-of-saint-emilion.geojson"
+}

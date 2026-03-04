@@ -1,0 +1,16 @@
+{
+  "code": "jk-cable",
+  "name": "JK Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1126,
+  "yearLaid": 2012,
+  "rfsDate": "2014-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Busan, South Korea"
+  ],
+  "description": "JK Cable connecting Tokyo to Busan in East Asia.",
+  "geojson": "jk-cable.geojson"
+}

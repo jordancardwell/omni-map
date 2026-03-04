@@ -1,0 +1,12 @@
+{
+  "code": "phx",
+  "name": "Phoenix Sky Harbor International",
+  "iataCode": "PHX",
+  "city": "Phoenix",
+  "country": "United States",
+  "annualPassengers": 43000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Phoenix Sky Harbor International (PHX) in Phoenix, United States. Annual passengers: ~43M. Classification: International Hub.",
+  "geojson": "phx.geojson"
+}

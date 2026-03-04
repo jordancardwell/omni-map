@@ -1,0 +1,18 @@
+{
+  "code": "ams-sin",
+  "name": "Amsterdam — Singapore",
+  "airports": [
+    "AMS",
+    "SIN"
+  ],
+  "distanceKm": 10512,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Singapore Airlines",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "AMS–SIN route between Amsterdam and Singapore. Distance: 10,512 km. ~30 weekly flights operated by Singapore Airlines, KLM.",
+  "geojson": "ams-sin.geojson"
+}

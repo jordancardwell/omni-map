@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50861111,
+          27.15888889
+        ]
+      },
+      "properties": {
+        "code": "keoladeo-national-park",
+        "name": "Keoladeo National Park",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

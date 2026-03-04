@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1077777778,
+          39.0011111111
+        ]
+      },
+      "properties": {
+        "code": "hiraizumi-temples-gardens-and-archaeological-sites-representing-the-buddhist-pur",
+        "name": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

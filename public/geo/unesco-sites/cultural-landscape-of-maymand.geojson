@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3755555556,
+          30.1680555556
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-maymand",
+        "name": "Cultural Landscape of Maymand",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

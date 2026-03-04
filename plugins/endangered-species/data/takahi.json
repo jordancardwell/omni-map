@@ -1,0 +1,18 @@
+{
+  "code": "takahi",
+  "name": "Takahe",
+  "scientificName": "Porphyrio hochstetteri",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~500 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Alpine grassland and tussock",
+  "threats": [
+    "Predation by stoats",
+    "Competition with deer",
+    "Climate change"
+  ],
+  "conservationEfforts": "Rediscovered in 1948 after being thought extinct. Te Anau Bird Sanctuary breeds birds for release. Predator-free island sanctuaries established. Population growing.",
+  "description": "A large, flightless bird with vivid blue-green plumage, found only in New Zealand. Thought extinct for 50 years until dramatically rediscovered in the Murchison Mountains in 1948.",
+  "geojson": "takahi.geojson"
+}

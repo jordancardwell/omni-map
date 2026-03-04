@@ -1,0 +1,15 @@
+{
+  "code": "namhansanseong",
+  "name": "Namhansanseong",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Namhansanseong was designed as an emergency capital for the Joseon dynasty (1392–1910), in a mountainous site 25 km south-east of Seoul. Built and defended by Buddhist monk-soldiers, it could accommodate 4,000 people and fulfilled important administrative and military functions. Its earliest remains date from the 7th century, but it was rebuilt several times, notably in the early 17th century in anticipation of an attack from the Sino-Manchu Qing dynasty. The city embodies a synthesis of the defensive military engineering concepts of the period, based on Chinese and Japanese influences, and changes in the art of fortification following the introduction from the West of weapons using gunpowder. A city that has always been inhabited, and which was the provincial capital over a long period, it contains evidence of a variety of military, civil and religious buildings and has become a symbol of Korean sovereignty.",
+  "danger": false,
+  "geojson": "namhansanseong.geojson"
+}

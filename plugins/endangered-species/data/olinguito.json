@@ -1,0 +1,18 @@
+{
+  "code": "olinguito",
+  "name": "Olinguito",
+  "scientificName": "Bassaricyon neblina",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Unknown",
+  "populationTrend": "Decreasing",
+  "habitatType": "Cloud forest",
+  "threats": [
+    "Deforestation",
+    "Climate change",
+    "Habitat fragmentation"
+  ],
+  "conservationEfforts": "Discovered in 2013 as a new species — the first new carnivore described in the Americas in 35 years. Cloud forest reserves in Colombia and Ecuador protect habitat.",
+  "description": "The newest carnivore species discovered in the Western Hemisphere, described in 2013. It lives in cloud forests of the Andes and was previously misidentified in museum collections for over a century.",
+  "geojson": "olinguito.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "mount-huangshan",
+  "name": "Mount Huangshan",
+  "type": "Mixed",
+  "country": "China",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(ii)",
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Huangshan, known as 'the loveliest mountain of China', was acclaimed through art and literature during a good part of Chinese history (e.g. the Shanshui 'mountain and water' style of the mid-16th century). Today it holds the same fascination for visitors, poets, painters and photographers who come on pilgrimage to the site, which is renowned for its magnificent scenery made up of many granite peaks and rocks emerging out of a sea of clouds.",
+  "danger": false,
+  "geojson": "mount-huangshan.geojson"
+}

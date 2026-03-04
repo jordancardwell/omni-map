@@ -1,0 +1,18 @@
+{
+  "code": "classical-gardens-of-suzhou",
+  "name": "Classical Gardens of Suzhou",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Classical Chinese garden design, which seeks to recreate natural landscapes in miniature, is nowhere better illustrated than in the nine gardens in the historic city of Suzhou. They are generally acknowledged to be masterpieces of the genre. Dating from the 11th-19th century, the gardens reflect the profound metaphysical importance of natural beauty in Chinese culture in their meticulous design.",
+  "danger": false,
+  "geojson": "classical-gardens-of-suzhou.geojson"
+}

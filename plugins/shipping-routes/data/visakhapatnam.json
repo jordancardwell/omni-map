@@ -1,0 +1,14 @@
+{
+  "code": "visakhapatnam",
+  "name": "Port of Visakhapatnam",
+  "country": "India",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 75,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Visakhapatnam in India. Annual cargo throughput: ~75 million tons. Type: Bulk Port.",
+  "geojson": "visakhapatnam.geojson"
+}

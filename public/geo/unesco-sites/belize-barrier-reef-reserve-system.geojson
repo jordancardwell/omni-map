@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.846213,
+          17.190549
+        ]
+      },
+      "properties": {
+        "code": "belize-barrier-reef-reserve-system",
+        "name": "Belize Barrier Reef Reserve System",
+        "type": "Natural",
+        "country": "Belize",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

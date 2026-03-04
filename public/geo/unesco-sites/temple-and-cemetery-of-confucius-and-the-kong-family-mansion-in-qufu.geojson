@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.994561,
+          35.613215
+        ]
+      },
+      "properties": {
+        "code": "temple-and-cemetery-of-confucius-and-the-kong-family-mansion-in-qufu",
+        "name": "Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

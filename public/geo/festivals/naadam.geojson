@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9177,
+          47.9184
+        ]
+      },
+      "properties": {
+        "code": "naadam",
+        "name": "Naadam Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "July 11–13",
+        "location": "Ulaanbaatar, Mongolia"
+      }
+    }
+  ]
+}

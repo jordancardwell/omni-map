@@ -1,0 +1,16 @@
+{
+  "code": "celtixconnect-2",
+  "name": "CeltixConnect-2",
+  "capacityTbps": 25,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 230,
+  "yearLaid": 2019,
+  "rfsDate": "2019-12",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Dublin, Ireland",
+    "Southport, UK"
+  ],
+  "description": "Second generation Irish Sea cable with higher capacity.",
+  "geojson": "celtixconnect-2.geojson"
+}

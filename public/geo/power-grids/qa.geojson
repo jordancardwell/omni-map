@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"qa","name":"Qatar","country":"QA","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[50.7,24.5],[50.7,26.2],[51.6,26.2],[51.6,24.5],[50.7,24.5]]]}}]}

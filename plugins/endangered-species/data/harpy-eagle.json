@@ -1,0 +1,18 @@
+{
+  "code": "harpy-eagle",
+  "name": "Harpy Eagle",
+  "scientificName": "Harpia harpyja",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~50,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland rainforest",
+  "threats": [
+    "Deforestation",
+    "Hunting",
+    "Habitat fragmentation"
+  ],
+  "conservationEfforts": "The Peregrine Fund's Harpy Eagle Restoration Project breeds and releases eagles. National bird of Panama. Protected areas across Central and South America.",
+  "description": "The most powerful eagle in the Americas, with talons as large as a grizzly bear's claws. It hunts sloths and monkeys in the canopy of neotropical rainforests.",
+  "geojson": "harpy-eagle.geojson"
+}

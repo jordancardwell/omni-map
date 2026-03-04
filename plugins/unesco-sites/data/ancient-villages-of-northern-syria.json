@@ -1,0 +1,16 @@
+{
+  "code": "ancient-villages-of-northern-syria",
+  "name": "Ancient Villages of Northern Syria",
+  "type": "Cultural",
+  "country": "Syrian Arab Republic",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Some 40 villages grouped in eight parks situated in north-western Syria provide remarkable testimony to rural life in late Antiquity and during the Byzantine period. Abandoned in the 8th to 10th centuries, the villages, which date from the 1st to 7th centuries, feature a remarkably well preserved landscape and the architectural remains of dwellings, pagan temples, churches, cisterns, bathhouses etc. The relict cultural landscape of the villages also constitutes an important illustration of the transition from the ancient pagan world of the Roman Empire to Byzantine Christianity. Vestiges illustrating hydraulic techniques, protective walls and Roman agricultural plot plans furthermore offer testimony to the inhabitants' mastery of agricultural production.",
+  "danger": true,
+  "geojson": "ancient-villages-of-northern-syria.geojson"
+}

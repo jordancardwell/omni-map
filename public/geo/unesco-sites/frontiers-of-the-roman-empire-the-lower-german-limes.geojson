@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.433,
+          52.1803333333
+        ]
+      },
+      "properties": {
+        "code": "frontiers-of-the-roman-empire-the-lower-german-limes",
+        "name": "Frontiers of the Roman Empire – The Lower German Limes",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the), Germany",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

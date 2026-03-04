@@ -1,0 +1,14 @@
+{
+  "code": "classical-weimar",
+  "name": "Classical Weimar",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the late 18th and early 19th centuries the small Thuringian town of Weimar witnessed a remarkable cultural flowering, attracting many writers and scholars, notably Goethe and Schiller. This development is reflected in the high quality of many of the buildings and of the parks in the surrounding area.",
+  "danger": false,
+  "geojson": "classical-weimar.geojson"
+}

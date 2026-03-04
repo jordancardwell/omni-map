@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "code": "nowruz",
+        "name": "Nowruz",
+        "festivalType": "Religious",
+        "dateOrSeason": "March 20–21 (Spring Equinox)",
+        "location": "Tehran, Iran"
+      }
+    }
+  ]
+}

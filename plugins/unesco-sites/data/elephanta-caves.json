@@ -1,0 +1,15 @@
+{
+  "code": "elephanta-caves",
+  "name": "Elephanta Caves",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 'City of Caves', on an island in the Sea of Oman close to Mumbai, contains a collection of rock art linked to the cult of Shiva. Here, Indian art has found one of its most perfect expressions, particularly the huge high reliefs in the main cave.",
+  "danger": false,
+  "geojson": "elephanta-caves.geojson"
+}

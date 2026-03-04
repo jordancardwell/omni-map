@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "algeria-france", "name": "Algeria \u2192 France", "migrantVolume": 3}, "geometry": {"type": "LineString", "coordinates": [[3, 36], [2, 38], [2, 40], [2, 43], [2, 46]]}}]}

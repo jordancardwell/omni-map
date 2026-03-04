@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.658676,
+          18.613459
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-zone-of-tlacotalpan",
+        "name": "Historic Monuments Zone of Tlacotalpan",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

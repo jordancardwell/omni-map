@@ -1,0 +1,16 @@
+{
+  "code": "ion-med",
+  "name": "ION-MED",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1972,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Catania, Italy",
+    "Athens, Greece"
+  ],
+  "description": "ION-MED cable connecting Catania to Athens across the Mediterranean.",
+  "geojson": "ion-med.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "galeras",
+  "name": "Galeras",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 4276,
+  "lastEruption": "2014",
+  "vei": 3,
+  "country": "Colombia",
+  "region": "Nariño",
+  "location": "Nariño, Colombia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "A Decade Volcano. Erupted in 1993 killing 9 people including 6 volcanologists during a field conference. Active since 1580.",
+  "description": "Galeras is one of the most active volcanoes in Colombia. The 1993 eruption during a scientific conference was a stark reminder of volcanic hazards.",
+  "geojson": "galeras.geojson"
+}

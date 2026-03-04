@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6,
+          25.73333
+        ]
+      },
+      "properties": {
+        "code": "ancient-thebes-with-its-necropolis",
+        "name": "Ancient Thebes with its Necropolis",
+        "type": "Cultural",
+        "country": "Egypt",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

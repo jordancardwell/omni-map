@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "site-machu-picchu", "name": "Machu Picchu" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.5450, -13.1631]
+    }
+  }]
+}

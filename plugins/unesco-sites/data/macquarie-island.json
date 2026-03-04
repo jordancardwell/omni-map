@@ -1,0 +1,15 @@
+{
+  "code": "macquarie-island",
+  "name": "Macquarie Island",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Macquarie Island (34 km long x 5 km wide) is an oceanic island in the Southern Ocean, lying 1,500 km south-east of Tasmania and approximately halfway between Australia and the Antarctic continent. The island is the exposed crest of the undersea Macquarie Ridge, raised to its present position where the Indo-Australian tectonic plate meets the Pacific plate. It is a site of major geoconservation significance, being the only place on earth where rocks from the earth’s mantle (6 km below the ocean floor) are being actively exposed above sea-level. These unique exposures include excellent examples of pillow basalts and other extrusive rocks.",
+  "danger": false,
+  "geojson": "macquarie-island.geojson"
+}

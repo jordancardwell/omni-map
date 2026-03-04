@@ -1,0 +1,21 @@
+{
+  "code": "leeuwin",
+  "name": "Leeuwin Current",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "Northwest Australia / Indonesian Throughflow",
+  "destination": "Southwest Australia",
+  "climateEffects": [
+    "Warms Western Australian coast",
+    "Anomalous warm eastern boundary current",
+    "Influences Australian rainfall"
+  ],
+  "connectedEcosystems": [
+    "Ningaloo Reef",
+    "Shark Bay",
+    "Southwest Australian marine habitats"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Leeuwin Current is unusual as it flows poleward along a continent's western coast — opposite to most eastern boundary currents. It carries warm tropical water southward along Western Australia, supporting unique marine ecosystems including Ningaloo Reef.",
+  "geojson": "leeuwin.geojson"
+}

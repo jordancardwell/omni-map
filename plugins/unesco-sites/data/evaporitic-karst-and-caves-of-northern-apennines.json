@@ -1,0 +1,14 @@
+{
+  "code": "evaporitic-karst-and-caves-of-northern-apennines",
+  "name": "Evaporitic Karst and Caves of Northern Apennines",
+  "type": "Natural",
+  "country": "Italy",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial property is an unusually well-preserved and extensive epigenic gypsum karst terrain. It includes a very high density of caves: over 900 caves in a relatively small area, with over 100 km of caves in total. It is the first and the best studied evaporitic karst in the world, with academic work beginning in the 16th century. It also includes some of the deepest gypsum caves in existence, reaching 265 meters below the surface.",
+  "danger": false,
+  "geojson": "evaporitic-karst-and-caves-of-northern-apennines.geojson"
+}

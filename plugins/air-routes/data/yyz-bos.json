@@ -1,0 +1,18 @@
+{
+  "code": "yyz-bos",
+  "name": "Toronto — Boston",
+  "airports": [
+    "YYZ",
+    "BOS"
+  ],
+  "distanceKm": 715,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Air Canada",
+    "Porter"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–BOS route between Toronto and Boston. Distance: 715 km. ~40 weekly flights operated by Air Canada, Porter.",
+  "geojson": "yyz-bos.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "swiss-alps-jungfrau-aletsch",
+  "name": "Swiss Alps Jungfrau-Aletsch",
+  "type": "Natural",
+  "country": "Switzerland",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "The extension of the natural World Heritage property of Jungfrau - Aletsch - Bietschhorn (first inscribed in 2001), expands the site to the east and west, bringing its surface area up to 82,400 ha., up from 53,900. The site provides an outstanding example of the formation of the High Alps, including the most glaciated part of the mountain range and the largest glacier in Eurasia. It features a wide diversity of ecosystems, including successional stages due particularly to the retreat of glaciers resulting from climate change. The site is of outstanding universal value both for its beauty and for the wealth of information it contains about the formation of mountains and glaciers, as well as ongoing climate change. It is also invaluable in terms of the ecological and biological processes it illustrates, notably through plan succession. Its impressive landscape has played an important role in European art, literature, mountaineering and alpine tourism.",
+  "danger": false,
+  "geojson": "swiss-alps-jungfrau-aletsch.geojson"
+}

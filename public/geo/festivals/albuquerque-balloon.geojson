@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5956,
+          35.1981
+        ]
+      },
+      "properties": {
+        "code": "albuquerque-balloon",
+        "name": "Albuquerque Balloon Fiesta",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Early October",
+        "location": "Albuquerque, USA"
+      }
+    }
+  ]
+}

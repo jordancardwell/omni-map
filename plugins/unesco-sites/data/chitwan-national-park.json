@@ -1,0 +1,16 @@
+{
+  "code": "chitwan-national-park",
+  "name": "Chitwan National Park",
+  "type": "Natural",
+  "country": "Nepal",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed vestiges of the 'Terai' region, which formerly extended over the foothills of India and Nepal. It has a particularly rich flora and fauna. One of the last populations of single-horned Asiatic rhinoceros lives in the park, which is also one of the last refuges of the Bengal tiger.",
+  "danger": false,
+  "geojson": "chitwan-national-park.geojson"
+}

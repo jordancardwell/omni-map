@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "code": "chinese-new-year",
+        "name": "Chinese New Year",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January–February (varies)",
+        "location": "Beijing, China"
+      }
+    }
+  ]
+}

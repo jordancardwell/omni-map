@@ -1,0 +1,14 @@
+{
+  "code": "ichkeul-national-park",
+  "name": "Ichkeul National Park",
+  "type": "Natural",
+  "country": "Tunisia",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Arab States",
+  "description": "The Ichkeul lake and wetland are a major stopover point for hundreds of thousands of migrating birds, such as ducks, geese, storks and pink flamingoes, who come to feed and nest there. Ichkeul is the last remaining lake in a chain that once extended across North Africa.",
+  "danger": false,
+  "geojson": "ichkeul-national-park.geojson"
+}

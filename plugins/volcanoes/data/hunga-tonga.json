@@ -1,0 +1,22 @@
+{
+  "code": "hunga-tonga",
+  "name": "Hunga Tonga-Hunga Ha'apai",
+  "volcanoType": "Submarine volcano",
+  "status": "Historically Active",
+  "elevation": 114,
+  "lastEruption": "2022",
+  "vei": 5,
+  "country": "Tonga",
+  "region": "South Pacific",
+  "location": "South Pacific, Tonga",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Tsunami",
+    "Ashfall",
+    "Pyroclastic flows",
+    "Shockwave"
+  ],
+  "eruptionHistory": "The January 15, 2022 eruption was one of the most powerful volcanic events in recorded history. The blast sent a plume into the mesosphere and generated a global shockwave detectable worldwide.",
+  "description": "The 2022 Hunga Tonga eruption was the largest atmospheric explosion recorded by modern instruments. It sent water vapor into the stratosphere, generated global tsunamis, and created a sonic boom that circled the Earth multiple times.",
+  "geojson": "hunga-tonga.geojson"
+}

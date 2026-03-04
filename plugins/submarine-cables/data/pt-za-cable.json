@@ -1,0 +1,16 @@
+{
+  "code": "pt-za-cable",
+  "name": "PT-ZA Cable",
+  "capacityTbps": 58,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4540,
+  "yearLaid": 2019,
+  "rfsDate": "2022-06",
+  "owner": "Africa-1",
+  "landingPoints": [
+    "Sines, Portugal",
+    "Cape Town, South Africa"
+  ],
+  "description": "PT-ZA Cable connecting Sines to Cape Town.",
+  "geojson": "pt-za-cable.geojson"
+}

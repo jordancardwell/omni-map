@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74,
+          9.03
+        ]
+      },
+      "properties": {
+        "code": "meskel",
+        "name": "Meskel",
+        "festivalType": "Religious",
+        "dateOrSeason": "September 27",
+        "location": "Addis Ababa, Ethiopia"
+      }
+    }
+  ]
+}

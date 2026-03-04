@@ -1,0 +1,14 @@
+{
+  "code": "ban-chiang-archaeological-site",
+  "name": "Ban Chiang Archaeological Site",
+  "type": "Cultural",
+  "country": "Thailand",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Ban Chiang is considered the most important prehistoric settlement so far discovered in South-East Asia. It marks an important stage in human cultural, social and technological evolution. The site presents the earliest evidence of farming in the region and of the manufacture and use of metals.",
+  "danger": false,
+  "geojson": "ban-chiang-archaeological-site.geojson"
+}

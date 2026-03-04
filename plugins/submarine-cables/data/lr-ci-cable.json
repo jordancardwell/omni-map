@@ -1,0 +1,16 @@
+{
+  "code": "lr-ci-cable",
+  "name": "LR-CI Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1596,
+  "yearLaid": 2016,
+  "rfsDate": "2018-06",
+  "owner": "MTN",
+  "landingPoints": [
+    "Monrovia, Liberia",
+    "Abidjan, Ivory Coast"
+  ],
+  "description": "LR-CI Cable connecting Monrovia to Abidjan along the West African coast.",
+  "geojson": "lr-ci-cable.geojson"
+}

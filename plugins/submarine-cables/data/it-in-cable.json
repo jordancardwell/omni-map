@@ -1,0 +1,16 @@
+{
+  "code": "it-in-cable",
+  "name": "IT-IN Cable",
+  "capacityTbps": 52,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2530,
+  "yearLaid": 2019,
+  "rfsDate": "2015-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Genoa, Italy",
+    "Mumbai, India"
+  ],
+  "description": "IT-IN Cable connecting Genoa to Mumbai.",
+  "geojson": "it-in-cable.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "devasthal",
+  "name": "Devasthal Observatory",
+  "country": "India",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2450,
+  "aperture": "3.6 m (DOT)",
+  "telescopes": [
+    "Devasthal Optical Telescope 3.6m",
+    "ILMT",
+    "ST 1.3m"
+  ],
+  "keyDiscoveries": [
+    "International Liquid Mirror Telescope observations",
+    "Transient surveys",
+    "Galaxy studies"
+  ],
+  "location": "Devasthal Observatory, India",
+  "description": "ARIES observatory hosting Asia's largest optical telescope (3.6m DOT) and the first astronomical liquid mirror telescope (ILMT).",
+  "geojson": "devasthal.geojson"
+}

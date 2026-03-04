@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23333333,
+          1.916666667
+        ]
+      },
+      "properties": {
+        "code": "san-agustin-archaeological-park",
+        "name": "San Agustín Archaeological Park",
+        "type": "Cultural",
+        "country": "Colombia",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "code": "hina-matsuri",
+        "name": "Hina Matsuri (Girls' Day)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "March 3",
+        "location": "Tokyo, Japan"
+      }
+    }
+  ]
+}

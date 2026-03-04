@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4653333333,
+          -34.5366416667
+        ]
+      },
+      "properties": {
+        "code": "esma-museum-and-site-of-memory-former-clandestine-centre-of-detention-torture-an",
+        "name": "ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination",
+        "type": "Cultural",
+        "country": "Argentina",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.9919722,
+          61.19758333
+        ]
+      },
+      "properties": {
+        "code": "kluane-wrangell-st-elias-glacier-bay-tatshenshini-alsek",
+        "name": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+        "type": "Natural",
+        "country": "Canada, United States of America",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9888888889,
+          42.845
+        ]
+      },
+      "properties": {
+        "code": "vjetrenica-cave-ravno",
+        "name": "Vjetrenica Cave, Ravno",
+        "type": "Natural",
+        "country": "Bosnia and Herzegovina",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

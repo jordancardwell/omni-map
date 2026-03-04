@@ -1,0 +1,16 @@
+{
+  "code": "hi-sf-cable",
+  "name": "HI-SF Cable",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4425,
+  "yearLaid": 2017,
+  "rfsDate": "2020-06",
+  "owner": "Hawaiian Telcom",
+  "landingPoints": [
+    "Honolulu, USA",
+    "San Francisco, USA"
+  ],
+  "description": "HI-SF Cable connecting Honolulu to San Francisco.",
+  "geojson": "hi-sf-cable.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "ethiopian",
+  "name": "Ethiopian Cuisine",
+  "cuisineFamily": "African",
+  "description": "Ethiopian cuisine is unique in Africa for its distinctive injera flatbread, complex spice blends, and communal eating traditions. Berbere spice mix and niter kibbeh (spiced butter) form the flavor foundation. The cuisine reflects Ethiopia's ancient culinary heritage and diverse ethnic traditions.",
+  "signatureDishes": [
+    "Doro Wat",
+    "Injera",
+    "Kitfo",
+    "Tibs",
+    "Shiro",
+    "Misir Wat"
+  ],
+  "keyIngredients": [
+    "Teff",
+    "Berbere Spice",
+    "Niter Kibbeh",
+    "Lentils",
+    "Chickpeas",
+    "Fenugreek"
+  ],
+  "cookingTechniques": [
+    "Slow stewing (wat)",
+    "Injera fermentation",
+    "Spice roasting and blending",
+    "Tartare preparation"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Addis Ababa",
+    "Amhara",
+    "Tigray",
+    "Oromia",
+    "Gurage"
+  ],
+  "geojson": "ethiopian.geojson"
+}

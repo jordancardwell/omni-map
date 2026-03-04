@@ -1,0 +1,18 @@
+{
+  "code": "las-ewr",
+  "name": "Las Vegas — Newark",
+  "airports": [
+    "LAS",
+    "EWR"
+  ],
+  "distanceKm": 3576,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United",
+    "Spirit"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAS–EWR route between Las Vegas and Newark. Distance: 3,576 km. ~40 weekly flights operated by United, Spirit.",
+  "geojson": "las-ewr.geojson"
+}

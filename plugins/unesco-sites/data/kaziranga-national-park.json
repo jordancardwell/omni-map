@@ -1,0 +1,15 @@
+{
+  "code": "kaziranga-national-park",
+  "name": "Kaziranga National Park",
+  "type": "Natural",
+  "country": "India",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "In the heart of Assam, this park is one of the last areas in eastern India undisturbed by a human presence. It is inhabited by the world's largest population of one-horned rhinoceroses, as well as many mammals, including tigers, elephants, panthers and bears, and thousands of birds.",
+  "danger": false,
+  "geojson": "kaziranga-national-park.geojson"
+}

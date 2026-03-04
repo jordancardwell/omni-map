@@ -1,0 +1,21 @@
+{
+  "code": "westerbork",
+  "name": "Westerbork Synthesis Radio Telescope",
+  "country": "Netherlands",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 16,
+  "aperture": "14 × 25 m dishes",
+  "telescopes": [
+    "WSRT",
+    "Apertif"
+  ],
+  "keyDiscoveries": [
+    "Hydrogen gas in galaxies",
+    "Galaxy rotation curves",
+    "Radio transient surveys"
+  ],
+  "location": "Westerbork Synthesis Radio Telescope, Netherlands",
+  "description": "An array of 14 dish antennas in Drenthe. Pioneered radio aperture synthesis imaging and continues observations with the Apertif phased-array feed system.",
+  "geojson": "westerbork.geojson"
+}

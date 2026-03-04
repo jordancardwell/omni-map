@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          2.0
+        ]
+      },
+      "properties": {
+        "code": "okapi-wildlife-reserve",
+        "name": "Okapi Wildlife Reserve",
+        "type": "Natural",
+        "country": "Democratic Republic of the Congo",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

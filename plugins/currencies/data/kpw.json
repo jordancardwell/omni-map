@@ -1,0 +1,16 @@
+{
+  "code": "kpw",
+  "name": "North Korean Won",
+  "isoCode": "KPW",
+  "symbol": "₩",
+  "region": "Asia",
+  "centralBank": "Central Bank of the Democratic People's Republic of Korea",
+  "exchangeRateEra": "Fixed",
+  "countries": [
+    "North Korea"
+  ],
+  "countryCount": 1,
+  "description": "The North Korean Won is a non-convertible currency used domestically. Foreign exchange is tightly controlled by the state.",
+  "historicalNotes": "Introduced in 1947. North Korea redenominated its currency in 2009, removing two zeros, causing economic disruption. The black market exchange rate differs vastly from official rates.",
+  "geojson": "kpw.geojson"
+}

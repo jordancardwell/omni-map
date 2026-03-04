@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8676944444,
+          37.8858888889
+        ]
+      },
+      "properties": {
+        "code": "caliphate-city-of-medina-azahara",
+        "name": "Caliphate City of Medina Azahara",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "farice-1",
+  "name": "Farice-1",
+  "capacityTbps": 5.12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1850,
+  "yearLaid": 2003,
+  "rfsDate": "2004-02",
+  "owner": "Farice",
+  "landingPoints": [
+    "Reykjavik, Iceland",
+    "Tórshavn, Faroe Islands",
+    "Edinburgh, UK"
+  ],
+  "description": "Iceland's main submarine cable link to Europe.",
+  "geojson": "farice-1.geojson"
+}

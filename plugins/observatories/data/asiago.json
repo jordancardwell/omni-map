@@ -1,0 +1,21 @@
+{
+  "code": "asiago",
+  "name": "Asiago Astrophysical Observatory",
+  "country": "Italy",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1045,
+  "aperture": "1.82 m",
+  "telescopes": [
+    "Copernico 1.82m",
+    "Schmidt 67/92"
+  ],
+  "keyDiscoveries": [
+    "Supernovae discoveries",
+    "Variable star monitoring",
+    "Asteroid discoveries"
+  ],
+  "location": "Asiago Astrophysical Observatory, Italy",
+  "description": "INAF observatory in the Veneto region of Italy, operating the Copernico telescope. Active in supernova searches and transient object classification.",
+  "geojson": "asiago.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "historic-city-of-yazd",
+  "name": "Historic City of Yazd",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The City of Yazd is located in the middle of the Iranian plateau, 270 km southeast of Isfahan, close to the Spice and Silk Roads. It bears living testimony to the use of limited resources for survival in the desert. Water is supplied to the city through a qanat system developed to draw underground water. The earthen architecture of Yazd has escaped the modernization that destroyed many traditional earthen towns, retaining its traditional districts, the qanat system, traditional houses, bazars, hammams, mosques, synagogues, Zoroastrian temples and the historic garden of Dolat-abad.",
+  "danger": false,
+  "geojson": "historic-city-of-yazd.geojson"
+}

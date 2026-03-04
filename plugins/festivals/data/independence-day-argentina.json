@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-argentina",
+  "name": "Independence Day (Argentina)",
+  "festivalType": "National",
+  "dateOrSeason": "July 9",
+  "origin": "Argentine national",
+  "estimatedAttendance": "46+ million Argentines",
+  "unescoICH": "Not inscribed",
+  "traditions": "Civic parades; military displays; traditional gaucho performances; locro stew; empanadas; patriotic concerts.",
+  "historicalBackground": "Argentina's Independence Day marks July 9, 1816, when the Congress of Tucumán declared independence from Spain.",
+  "description": "Argentina's celebration of independence from Spain, with patriotic parades, gaucho traditions, and hearty locro feasts.",
+  "location": "Buenos Aires, Argentina",
+  "geojson": "independence-day-argentina.geojson"
+}

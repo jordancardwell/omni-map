@@ -1,0 +1,16 @@
+{
+  "code": "palace-of-westminster-and-westminster-abbey-including-saint-margarets-church",
+  "name": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Westminster Palace, rebuilt from the year 1840 on the site of important medieval remains, is a fine example of neo-Gothic architecture. The site – which also comprises the small medieval Church of Saint Margaret, built in Perpendicular Gothic style, and Westminster Abbey, where all the sovereigns since the 11th century have been crowned – is of great historic and symbolic significance.",
+  "danger": false,
+  "geojson": "palace-of-westminster-and-westminster-abbey-including-saint-margarets-church.geojson"
+}

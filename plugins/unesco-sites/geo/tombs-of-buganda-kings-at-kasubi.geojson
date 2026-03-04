@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55138889,
+          0.348611111
+        ]
+      },
+      "properties": {
+        "code": "tombs-of-buganda-kings-at-kasubi",
+        "name": "Tombs of Buganda Kings at Kasubi",
+        "type": "Cultural",
+        "country": "Uganda",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

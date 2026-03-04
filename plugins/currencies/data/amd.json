@@ -1,0 +1,16 @@
+{
+  "code": "amd",
+  "name": "Armenian Dram",
+  "isoCode": "AMD",
+  "symbol": "֏",
+  "region": "Asia",
+  "centralBank": "Central Bank of Armenia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Armenia"
+  ],
+  "countryCount": 1,
+  "description": "The Armenian Dram is the currency of Armenia, one of the world's oldest civilizations.",
+  "historicalNotes": "Introduced in 1993 after Armenia's independence from the Soviet Union. Armenia was the first country to adopt Christianity as a state religion.",
+  "geojson": "amd.geojson"
+}

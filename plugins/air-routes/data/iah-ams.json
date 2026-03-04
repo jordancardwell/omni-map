@@ -1,0 +1,18 @@
+{
+  "code": "iah-ams",
+  "name": "Houston — Amsterdam",
+  "airports": [
+    "IAH",
+    "AMS"
+  ],
+  "distanceKm": 8049,
+  "weeklyFlights": 20,
+  "airlines": [
+    "United",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–AMS route between Houston and Amsterdam. Distance: 8,049 km. ~20 weekly flights operated by United, KLM.",
+  "geojson": "iah-ams.geojson"
+}

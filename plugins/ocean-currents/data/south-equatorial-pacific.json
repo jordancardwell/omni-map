@@ -1,0 +1,21 @@
+{
+  "code": "south-equatorial-pacific",
+  "name": "South Equatorial Current (Pacific)",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "Eastern tropical Pacific",
+  "destination": "Western Pacific / Coral Sea",
+  "climateEffects": [
+    "Key component of ENSO system",
+    "Drives Pacific warm pool",
+    "Influences Melanesian climate"
+  ],
+  "connectedEcosystems": [
+    "Pacific Island reefs",
+    "Coral Sea biodiversity",
+    "Galapagos marine ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Pacific South Equatorial Current flows westward across the tropical Pacific, feeding warm water into the western Pacific warm pool and the East Australian Current system.",
+  "geojson": "south-equatorial-pacific.geojson"
+}

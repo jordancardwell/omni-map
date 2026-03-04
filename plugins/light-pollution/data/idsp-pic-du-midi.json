@@ -1,0 +1,23 @@
+{
+  "code": "idsp-pic-du-midi",
+  "name": "Pic du Midi Dark Sky Reserve",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Reserve",
+  "designationYear": "2013",
+  "areaSqKm": 3112,
+  "visibleObjects": [
+    "Milky Way",
+    "Andromeda Galaxy",
+    "Deep-sky objects",
+    "Alpine airglow"
+  ],
+  "exampleLocations": [
+    "Pic du Midi Observatory, French Pyrenees"
+  ],
+  "nearestDarkSkyReserves": [
+    "Pic du Midi (this site)"
+  ],
+  "description": "Located in the French Pyrenees at 2,877 meters altitude, this reserve surrounds the historic Pic du Midi de Bigorre Observatory. The high altitude, clean mountain air, and distance from major light sources produce exceptional astronomical seeing and dark skies. The observatory has been in operation since 1878 and was used to create detailed lunar maps for the Apollo program. Today it serves both professional astronomy and public outreach as a premier dark sky destination in Europe.",
+  "geojson": "idsp-pic-du-midi.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sa-in-cable",
+  "name": "SA-IN Cable",
+  "capacityTbps": 59,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13142,
+  "yearLaid": 2023,
+  "rfsDate": "2023-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Jeddah, Saudi Arabia",
+    "Mumbai, India"
+  ],
+  "description": "SA-IN Cable connecting Jeddah to Mumbai.",
+  "geojson": "sa-in-cable.geojson"
+}

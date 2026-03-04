@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.639,
+          27.4728
+        ]
+      },
+      "properties": {
+        "code": "tsechu-bhutan",
+        "name": "Tsechu",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Varies by district",
+        "location": "Thimphu, Bhutan"
+      }
+    }
+  ]
+}

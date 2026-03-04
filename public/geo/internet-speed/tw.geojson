@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tw","name":"Taiwan","country":"TW","speedTier":"Fast (75–150 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[120,21.9],[120,25.3],[122,25.3],[122,21.9],[120,21.9]]]}}]}

@@ -1,0 +1,19 @@
+{
+  "code": "tamaraw",
+  "name": "Tamaraw",
+  "scientificName": "Bubalus mindorensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~480 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Mountain grassland and forest edge",
+  "threats": [
+    "Habitat loss",
+    "Hunting",
+    "Disease from domestic cattle",
+    "Logging"
+  ],
+  "conservationEfforts": "Mounts Iglit-Baco National Park protects the majority. Tamaraw Conservation Programme conducts regular population surveys. Community ranger programs patrol buffer zones.",
+  "description": "Found only on Mindoro Island in the Philippines, the tamaraw is the country's largest native land animal. Unlike the closely related water buffalo, it is solitary and highly aggressive.",
+  "geojson": "tamaraw.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "jfk-ams",
+  "name": "New York — Amsterdam",
+  "airports": [
+    "JFK",
+    "AMS"
+  ],
+  "distanceKm": 5848,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Delta",
+    "KLM"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–AMS route between New York and Amsterdam. Distance: 5,848 km. ~80 weekly flights operated by Delta, KLM.",
+  "geojson": "jfk-ams.geojson"
+}

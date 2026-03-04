@@ -1,0 +1,14 @@
+{
+  "code": "gdansk",
+  "name": "Port of Gdansk",
+  "country": "Poland",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 55,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Gdansk in Poland. Annual cargo throughput: ~55 million tons. Type: Container Port.",
+  "geojson": "gdansk.geojson"
+}

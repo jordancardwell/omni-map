@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"dz","name":"Algeria","country":"DZ","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-8.7,19],[-8.7,37.1],[12,37.1],[12,19],[-8.7,19]]]}}]}

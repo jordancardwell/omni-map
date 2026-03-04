@@ -1,0 +1,16 @@
+{
+  "code": "ca-hi-express",
+  "name": "CA-HI Express",
+  "capacityTbps": 21,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1270,
+  "yearLaid": 2011,
+  "rfsDate": "2013-06",
+  "owner": "Google",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Honolulu, USA"
+  ],
+  "description": "CA-HI Express connecting Los Angeles to Honolulu.",
+  "geojson": "ca-hi-express.geojson"
+}

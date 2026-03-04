@@ -1,0 +1,16 @@
+{
+  "code": "tubbataha-reefs-natural-park",
+  "name": "Tubbataha Reefs Natural Park",
+  "type": "Natural",
+  "country": "Philippines",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Tubbataha Reef Marine Park covers 96,828 ha, including the North and South Atolls and the Jessie Beazley Reef. It is a unique example of an atoll reef with a very high density of marine species; the North Islet serving as a nesting site for birds and marine turtles. The site is an excellent example of a pristine coral reef with a spectacular 100-m perpendicular wall, extensive lagoons and two coral islands.",
+  "danger": false,
+  "geojson": "tubbataha-reefs-natural-park.geojson"
+}

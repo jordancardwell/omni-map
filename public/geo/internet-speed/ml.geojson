@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ml","name":"Mali","country":"ML","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-12.2,10.2],[-12.2,25],[4.3,25],[4.3,10.2],[-12.2,10.2]]]}}]}

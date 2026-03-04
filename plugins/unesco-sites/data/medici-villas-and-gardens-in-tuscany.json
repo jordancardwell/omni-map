@@ -1,0 +1,15 @@
+{
+  "code": "medici-villas-and-gardens-in-tuscany",
+  "name": "Medici Villas and Gardens in Tuscany",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2013",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Twelve villas and two gardens spread across the Tuscan landscape make up this site which bears testimony to the influence the Medici family exerted over modern European culture through its patronage of the arts. Built between the 15th and 17th centuries, they represent an innovative system of construction in harmony with nature and dedicated to leisure, the arts and knowledge. The villas embody an innovative form and function, a new type of princely residence that differed from both the farms owned by rich Florentines of the period and from the military might of baronial castles. The Medici villas form the first example of the connection between architecture, gardens, and the environment and became an enduring reference for princely residences throughout Italy and Europe. Their gardens and integration into the natural environment helped develop the appreciation of landscape characteristic Humanism and the Renaissance.",
+  "danger": false,
+  "geojson": "medici-villas-and-gardens-in-tuscany.geojson"
+}

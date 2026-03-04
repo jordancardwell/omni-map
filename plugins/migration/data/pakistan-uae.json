@@ -1,0 +1,18 @@
+{
+  "code": "pakistan-uae",
+  "name": "Pakistan \u2192 UAE",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Pakistan \u2192 UAE",
+  "badgeValue": "~1.3 million",
+  "origin": "Pakistan",
+  "destination": "UAE",
+  "estimatedMigrants": "~1.3 million",
+  "drivers": [
+    "Construction demand",
+    "Trade connections",
+    "Higher wages",
+    "Established diaspora"
+  ],
+  "description": "Pakistani migrants in the UAE work primarily in construction, retail, and transportation. Dubai's real estate boom has been a major pull factor. Trade connections between Karachi and Dubai predate modern migration flows. The established Pakistani business community facilitates new arrivals.",
+  "geojson": "pakistan-uae.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "jed-bom",
+  "name": "Jeddah — Mumbai",
+  "airports": [
+    "JED",
+    "BOM"
+  ],
+  "distanceKm": 3519,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Saudia",
+    "IndiGo"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JED–BOM route between Jeddah and Mumbai. Distance: 3,519 km. ~50 weekly flights operated by Saudia, IndiGo.",
+  "geojson": "jed-bom.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "indigo",
+  "name": "INDIGO",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9000,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "Singtel, Indosat, AARNet, SuperHub",
+  "landingPoints": [
+    "Singapore",
+    "Perth, Australia",
+    "Sydney, Australia",
+    "Jakarta, Indonesia"
+  ],
+  "description": "International submarine cable connecting Australia to Singapore.",
+  "geojson": "indigo.geojson"
+}

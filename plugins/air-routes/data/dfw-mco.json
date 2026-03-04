@@ -1,0 +1,18 @@
+{
+  "code": "dfw-mco",
+  "name": "Dallas — Orlando",
+  "airports": [
+    "DFW",
+    "MCO"
+  ],
+  "distanceKm": 1583,
+  "weeklyFlights": 70,
+  "airlines": [
+    "American",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–MCO route between Dallas and Orlando. Distance: 1,583 km. ~70 weekly flights operated by American, Southwest.",
+  "geojson": "dfw-mco.geojson"
+}

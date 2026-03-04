@@ -1,0 +1,18 @@
+{
+  "code": "iah-msp",
+  "name": "Houston — Minneapolis",
+  "airports": [
+    "IAH",
+    "MSP"
+  ],
+  "distanceKm": 1667,
+  "weeklyFlights": 35,
+  "airlines": [
+    "United",
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–MSP route between Houston and Minneapolis. Distance: 1,667 km. ~35 weekly flights operated by United, Delta.",
+  "geojson": "iah-msp.geojson"
+}

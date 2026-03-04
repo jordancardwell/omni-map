@@ -1,0 +1,16 @@
+{
+  "code": "fiji-tonga-2",
+  "name": "Fiji-Tonga-2",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1540,
+  "yearLaid": 2012,
+  "rfsDate": "2014-06",
+  "owner": "Tonga Cable",
+  "landingPoints": [
+    "Suva, Fiji",
+    "Nuku'alofa, Tonga"
+  ],
+  "description": "Fiji-Tonga-2 connecting Suva to Nuku'alofa in the Pacific.",
+  "geojson": "fiji-tonga-2.geojson"
+}

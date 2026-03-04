@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26111,
+          30.05
+        ]
+      },
+      "properties": {
+        "code": "historic-cairo",
+        "name": "Historic Cairo",
+        "type": "Cultural",
+        "country": "Egypt",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

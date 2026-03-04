@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.535,
+          43.80333333
+        ]
+      },
+      "properties": {
+        "code": "petroglyphs-of-the-archaeological-landscape-of-tanbaly",
+        "name": "Petroglyphs of the Archaeological Landscape of Tanbaly",
+        "type": "Cultural",
+        "country": "Kazakhstan",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

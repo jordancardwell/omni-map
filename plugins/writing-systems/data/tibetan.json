@@ -1,0 +1,15 @@
+{
+  "code": "tibetan",
+  "name": "Tibetan",
+  "scriptType": "Abugida",
+  "characters": 30,
+  "direction": "LTR",
+  "originDate": "7th century CE",
+  "sampleText": "བོད་སྐད་ཡིག་གཟུགས་",
+  "relatedScripts": [
+    "devanagari"
+  ],
+  "description": "The Tibetan script is an abugida with 30 consonant letters and 4 vowel diacritics. It features distinctive stacked consonant clusters where characters are placed vertically. The script is used for Tibetan, Dzongkha (Bhutan), and Ladakhi, as well as for Buddhist liturgical texts across Central Asia.",
+  "historicalNotes": "The Tibetan script was created in the 7th century CE by Thonmi Sambhota, a minister of King Songtsen Gampo, based on Indian Brahmi-derived scripts (likely Gupta or Siddham). It was developed specifically to translate Buddhist texts from Sanskrit. The script spread with Tibetan Buddhism to Mongolia, Bhutan, and parts of Nepal and northern India.",
+  "geojson": "tibetan.geojson"
+}

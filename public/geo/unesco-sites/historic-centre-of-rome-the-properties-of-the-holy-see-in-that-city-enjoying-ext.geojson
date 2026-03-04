@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.49230556,
+          41.89022222
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-rome-the-properties-of-the-holy-see-in-that-city-enjoying-ext",
+        "name": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+        "type": "Cultural",
+        "country": "Italy, Holy See",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

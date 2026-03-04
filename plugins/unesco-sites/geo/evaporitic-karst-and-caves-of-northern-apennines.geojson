@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3889166667,
+          44.3799444444
+        ]
+      },
+      "properties": {
+        "code": "evaporitic-karst-and-caves-of-northern-apennines",
+        "name": "Evaporitic Karst and Caves of Northern Apennines",
+        "type": "Natural",
+        "country": "Italy",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

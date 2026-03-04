@@ -1,0 +1,15 @@
+{
+  "code": "djoudj-national-bird-sanctuary",
+  "name": "Djoudj National Bird Sanctuary",
+  "type": "Natural",
+  "country": "Senegal",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant.",
+  "danger": false,
+  "geojson": "djoudj-national-bird-sanctuary.geojson"
+}

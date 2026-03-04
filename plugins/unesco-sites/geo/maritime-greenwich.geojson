@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0037777778,
+          51.4811666667
+        ]
+      },
+      "properties": {
+        "code": "maritime-greenwich",
+        "name": "Maritime Greenwich",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

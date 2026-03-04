@@ -1,0 +1,22 @@
+{
+  "code": "nevados-de-chillan",
+  "name": "Nevados de Chillán",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3212,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Chile",
+  "region": "Biobío",
+  "location": "Biobío, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava domes",
+    "Lahars"
+  ],
+  "eruptionHistory": "Has been in eruption since 2016 with dome growth, explosions, and occasional pyroclastic flows.",
+  "description": "Nevados de Chillán has been in a prolonged eruption since 2016, building a large lava dome and producing frequent explosions. It is a popular ski destination despite the volcanic activity.",
+  "geojson": "nevados-de-chillan.geojson"
+}

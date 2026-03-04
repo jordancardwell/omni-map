@@ -1,0 +1,18 @@
+{
+  "code": "ewr-fra",
+  "name": "Newark — Frankfurt",
+  "airports": [
+    "EWR",
+    "FRA"
+  ],
+  "distanceKm": 6211,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Lufthansa"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "EWR–FRA route between Newark and Frankfurt. Distance: 6,211 km. ~60 weekly flights operated by United, Lufthansa.",
+  "geojson": "ewr-fra.geojson"
+}

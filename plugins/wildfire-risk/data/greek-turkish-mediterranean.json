@@ -1,0 +1,15 @@
+{
+  "code": "greek-turkish-mediterranean",
+  "name": "Greek-Turkish Mediterranean",
+  "region": "Europe",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "High — increasing with heatwave frequency",
+  "dominantVegetation": "Maquis shrubland, Aleppo pine forests, olive groves",
+  "fireSeasonMonths": "June – September",
+  "areaBurnedAnnual": "~120,000 ha average across Greece and Turkey",
+  "seasonalPattern": "Extreme heatwaves — increasingly common and intense — drive fire seasons. Meltemi winds in the Aegean can spread fires rapidly across island and coastal landscapes. Greece and Turkey have experienced their worst fire seasons in the 2020s, with temperatures regularly exceeding 45°C. Urban-wildland interface fires threaten historical sites and coastal communities.",
+  "historicalFires": ["2023 Evros Fire Greece (93K ha)", "2021 Turkey Megafires (200K ha)", "2021 Evia Fire Greece (51K ha)", "2018 Attica Fire (25 dead)", "2007 Peloponnese Fires (270K ha)"],
+  "description": "The eastern Mediterranean — particularly Greece and Turkey — has become a wildfire crisis zone. The 2023 Evros fire in northeastern Greece was the EU's largest-ever recorded wildfire. Turkey experienced unprecedented fires in 2021 across its southern coast. The combination of intense summer heatwaves, abandonment of traditional land management, pine-dominated forests, and strong winds creates explosive fire conditions. Climate models project the eastern Mediterranean as one of the fastest-warming regions globally.",
+  "geojson": "greek-turkish-mediterranean.geojson"
+}

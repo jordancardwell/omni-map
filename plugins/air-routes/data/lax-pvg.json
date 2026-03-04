@@ -1,0 +1,19 @@
+{
+  "code": "lax-pvg",
+  "name": "Los Angeles — Shanghai",
+  "airports": [
+    "LAX",
+    "PVG"
+  ],
+  "distanceKm": 10415,
+  "weeklyFlights": 50,
+  "airlines": [
+    "United",
+    "China Eastern",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–PVG route between Los Angeles and Shanghai. Distance: 10,415 km. ~50 weekly flights operated by United, China Eastern, Delta.",
+  "geojson": "lax-pvg.geojson"
+}

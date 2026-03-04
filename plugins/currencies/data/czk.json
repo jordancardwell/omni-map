@@ -1,0 +1,16 @@
+{
+  "code": "czk",
+  "name": "Czech Koruna",
+  "isoCode": "CZK",
+  "symbol": "Kč",
+  "region": "Europe",
+  "centralBank": "Czech National Bank",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Czech Republic"
+  ],
+  "countryCount": 1,
+  "description": "The Czech Koruna is the currency of one of Europe's most industrialized economies, known for its automotive and engineering sectors.",
+  "historicalNotes": "Introduced on February 8, 1993, when Czechoslovakia peacefully dissolved. It replaced the Czechoslovak koruna.",
+  "geojson": "czk.geojson"
+}

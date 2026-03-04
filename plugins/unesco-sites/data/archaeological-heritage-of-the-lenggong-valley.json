@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-heritage-of-the-lenggong-valley",
+  "name": "Archaeological Heritage of the Lenggong Valley",
+  "type": "Cultural",
+  "country": "Malaysia",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated in the lush Lenggong Valley, the property includes four archaeological sites in two clusters which span close to 2 million years, one of the longest records of early man in a single locality, and the oldest outside the African continent. It features open-air and cave sites with Palaeolithic tool workshops, evidence of early technology. The number of sites found in the relatively contained area suggests the presence of a fairly large, semi-sedentary population with cultural remains from the Palaeolithic, Neolithic and Metal ages.",
+  "danger": false,
+  "geojson": "archaeological-heritage-of-the-lenggong-valley.geojson"
+}

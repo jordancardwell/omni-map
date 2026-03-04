@@ -1,0 +1,16 @@
+{
+  "code": "manatua",
+  "name": "Manatua",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1654,
+  "yearLaid": 2019,
+  "rfsDate": "2019-06",
+  "owner": "OPT",
+  "landingPoints": [
+    "Papeete, French Polynesia",
+    "Apia, Samoa"
+  ],
+  "description": "Manatua connecting Papeete to Apia in the Pacific.",
+  "geojson": "manatua.geojson"
+}

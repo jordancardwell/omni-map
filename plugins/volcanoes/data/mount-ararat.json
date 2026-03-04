@@ -1,0 +1,21 @@
+{
+  "code": "mount-ararat",
+  "name": "Mount Ararat",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 5137,
+  "lastEruption": "1840",
+  "vei": 3,
+  "country": "Turkey",
+  "region": "Eastern Anatolia",
+  "location": "Eastern Anatolia, Turkey",
+  "tectonicSetting": "Continental collision",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Sector collapse"
+  ],
+  "eruptionHistory": "A destructive event in 1840 involved a sector collapse, landslide, and possibly a phreatic eruption that killed thousands. Legendary as Noah's Ark landing site.",
+  "description": "Mount Ararat is Turkey's highest peak and a symbol of Armenian heritage. Traditionally identified as the landing place of Noah's Ark, it is a dormant volcano with active fumaroles.",
+  "geojson": "mount-ararat.geojson"
+}

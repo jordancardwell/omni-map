@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.3308333333,
+          6.8397222222
+        ]
+      },
+      "properties": {
+        "code": "nan-madol-ceremonial-centre-of-eastern-micronesia",
+        "name": "Nan Madol: Ceremonial Centre of Eastern Micronesia",
+        "type": "Cultural",
+        "country": "Micronesia (Federated States of)",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

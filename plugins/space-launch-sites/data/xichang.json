@@ -1,0 +1,17 @@
+{
+  "code": "xichang",
+  "name": "Xichang Satellite Launch Center",
+  "country": "China",
+  "operator": "CNSA / CASC",
+  "coordinates": "28.2468°N, 102.0267°E",
+  "status": "Active",
+  "notableLaunches": [
+    "BeiDou constellation",
+    "Chang'e lunar probes",
+    "Fengyun weather satellites"
+  ],
+  "orbitalInclinationRange": "28°–59°",
+  "location": "Xichang Satellite Launch Center, China",
+  "description": "China's primary center for geostationary orbit launches in Sichuan province. Key site for the BeiDou navigation system, Chang'e lunar exploration program, and communications satellites.",
+  "geojson": "xichang.geojson"
+}

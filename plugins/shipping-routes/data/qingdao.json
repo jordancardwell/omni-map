@@ -1,0 +1,15 @@
+{
+  "code": "qingdao",
+  "name": "Port of Qingdao",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 630,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Qingdao in China. Annual cargo throughput: ~630 million tons. Type: Multi-Purpose Port.",
+  "geojson": "qingdao.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "tpe-can",
+  "name": "Taipei — Guangzhou",
+  "airports": [
+    "TPE",
+    "CAN"
+  ],
+  "distanceKm": 825,
+  "weeklyFlights": 50,
+  "airlines": [
+    "China Airlines",
+    "China Southern"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "TPE–CAN route between Taipei and Guangzhou. Distance: 825 km. ~50 weekly flights operated by China Airlines, China Southern.",
+  "geojson": "tpe-can.geojson"
+}

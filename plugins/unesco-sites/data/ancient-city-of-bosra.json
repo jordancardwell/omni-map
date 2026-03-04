@@ -1,0 +1,15 @@
+{
+  "code": "ancient-city-of-bosra",
+  "name": "Ancient City of Bosra",
+  "type": "Cultural",
+  "country": "Syrian Arab Republic",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls.",
+  "danger": true,
+  "geojson": "ancient-city-of-bosra.geojson"
+}

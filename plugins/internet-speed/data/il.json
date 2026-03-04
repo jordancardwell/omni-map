@@ -1,0 +1,17 @@
+{
+  "code": "il",
+  "name": "Israel",
+  "avgDownloadMbps": 125.7,
+  "avgUploadMbps": 24.8,
+  "avgLatencyMs": 13,
+  "mobileDownloadMbps": 52.6,
+  "mobileUploadMbps": 10.8,
+  "fixedDownloadMbps": 125.7,
+  "fixedUploadMbps": 24.8,
+  "rank": 36,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Strong mobile and fixed infrastructure. ~8% year-over-year improvement.",
+  "geojson": "il.geojson"
+}

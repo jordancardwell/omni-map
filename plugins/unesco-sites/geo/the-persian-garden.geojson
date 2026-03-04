@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1666666667,
+          30.1666666667
+        ]
+      },
+      "properties": {
+        "code": "the-persian-garden",
+        "name": "The Persian Garden",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

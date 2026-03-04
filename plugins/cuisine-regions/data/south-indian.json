@@ -1,0 +1,38 @@
+{
+  "code": "south-indian",
+  "name": "South Indian Cuisine",
+  "cuisineFamily": "South Asian",
+  "description": "South Indian cuisine relies on rice, lentils, coconut, and tamarind as its foundation. It is generally lighter and more rice-centric than the North, with a greater emphasis on vegetarian dishes. Fermented batters for dosas and idlis are a hallmark, along with complex sambar and rasam soups.",
+  "signatureDishes": [
+    "Dosa",
+    "Idli",
+    "Sambar",
+    "Rasam",
+    "Hyderabadi Biryani",
+    "Appam"
+  ],
+  "keyIngredients": [
+    "Coconut",
+    "Curry Leaves",
+    "Tamarind",
+    "Mustard Seeds",
+    "Rice",
+    "Lentils"
+  ],
+  "cookingTechniques": [
+    "Fermentation",
+    "Tempering (tadka)",
+    "Steaming",
+    "Coconut grinding",
+    "Slow-cooking stews"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Kerala",
+    "Tamil Nadu",
+    "Karnataka",
+    "Andhra Pradesh",
+    "Telangana"
+  ],
+  "geojson": "south-indian.geojson"
+}

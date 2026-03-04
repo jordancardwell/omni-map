@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.0,
+          32.46667
+        ]
+      },
+      "properties": {
+        "code": "ancient-building-complex-in-the-wudang-mountains",
+        "name": "Ancient Building Complex in the Wudang Mountains",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

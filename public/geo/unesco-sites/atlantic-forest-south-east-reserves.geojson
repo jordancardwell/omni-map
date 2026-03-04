@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0,
+          -24.16667
+        ]
+      },
+      "properties": {
+        "code": "atlantic-forest-south-east-reserves",
+        "name": "Atlantic Forest South-East Reserves",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

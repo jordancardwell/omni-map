@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bos","name":"Boston Logan International","featureType":"airport","iataCode":"BOS","annualPassengers":34500000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[-71.0096,42.3656]}}]}

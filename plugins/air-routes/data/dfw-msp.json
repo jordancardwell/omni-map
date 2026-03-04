@@ -1,0 +1,19 @@
+{
+  "code": "dfw-msp",
+  "name": "Dallas — Minneapolis",
+  "airports": [
+    "DFW",
+    "MSP"
+  ],
+  "distanceKm": 1373,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American",
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–MSP route between Dallas and Minneapolis. Distance: 1,373 km. ~60 weekly flights operated by American, Delta, Sun Country.",
+  "geojson": "dfw-msp.geojson"
+}

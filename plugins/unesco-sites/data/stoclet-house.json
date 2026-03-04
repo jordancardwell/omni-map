@@ -1,0 +1,15 @@
+{
+  "code": "stoclet-house",
+  "name": "Stoclet House",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "When banker and art collector Adolphe Stoclet commissioned this house from one of the leading architects of the Vienna Secession movement, Josef Hoffmann, in 1905, he imposed neither aesthetic nor financial restrictions on the project. The house and garden were completed in 1911 and their austere geometry marked a turning point in Art Nouveau, foreshadowing Art Deco and the Modern Movement in architecture. Stoclet House is one of the most accomplished and homogenous buildings of the Vienna Secession, and features works by Koloman Moser and Gustav Klimt, embodying the aspiration of creating a ‘total work of art' (Gesamtkunstwerk). Bearing testimony to artistic renewal in European architecture, the house retains a high level of integrity, both externally and internally as it retains most of its original fixtures and furnishings.",
+  "danger": false,
+  "geojson": "stoclet-house.geojson"
+}

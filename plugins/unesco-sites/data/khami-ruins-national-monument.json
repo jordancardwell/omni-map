@@ -1,0 +1,15 @@
+{
+  "code": "khami-ruins-national-monument",
+  "name": "Khami Ruins National Monument",
+  "type": "Cultural",
+  "country": "Zimbabwe",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time.",
+  "danger": false,
+  "geojson": "khami-ruins-national-monument.geojson"
+}

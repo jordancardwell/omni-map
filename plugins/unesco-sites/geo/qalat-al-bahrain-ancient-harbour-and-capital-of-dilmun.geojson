@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5272222222,
+          26.23306
+        ]
+      },
+      "properties": {
+        "code": "qalat-al-bahrain-ancient-harbour-and-capital-of-dilmun",
+        "name": "Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun",
+        "type": "Cultural",
+        "country": "Bahrain",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

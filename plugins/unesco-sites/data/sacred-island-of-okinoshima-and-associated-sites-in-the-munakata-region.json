@@ -1,0 +1,15 @@
+{
+  "code": "sacred-island-of-okinoshima-and-associated-sites-in-the-munakata-region",
+  "name": "Sacred Island of Okinoshima and Associated Sites in the Munakata Region",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located 60 km off the western coast of Kyushu island, the island of Okinoshima is an exceptional example of the tradition of worship of a sacred island. The archaeological sites that have been preserved on the island are virtually intact, and provide a chronological record of how the rituals performed there changed from the 4th to the 9th centuries AD. In these rituals, votive objects were deposited as offerings at different sites on the island. Many of them are of exquisite workmanship and had been brought from overseas, providing evidence of intense exchanges between the Japanese archipelago, the Korean Peninsula and the Asian continent. Integrated within the Grand Shrine of Munakata, the island of Okinoshima is considered sacred to this day.",
+  "danger": false,
+  "geojson": "sacred-island-of-okinoshima-and-associated-sites-in-the-munakata-region.geojson"
+}

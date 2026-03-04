@@ -1,0 +1,17 @@
+{
+  "code": "gm",
+  "name": "Gambia",
+  "avgDownloadMbps": 5.4,
+  "avgUploadMbps": 1.8,
+  "avgLatencyMs": 46,
+  "mobileDownloadMbps": 8.2,
+  "mobileUploadMbps": 2,
+  "fixedDownloadMbps": 5.4,
+  "fixedUploadMbps": 1.8,
+  "rank": 175,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Small West African market. ~14% year-over-year growth.",
+  "geojson": "gm.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "lae",
+  "name": "Port of Lae",
+  "country": "Papua New Guinea",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Lae in Papua New Guinea. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "lae.geojson"
+}

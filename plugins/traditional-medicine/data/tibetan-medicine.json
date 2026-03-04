@@ -1,0 +1,28 @@
+{
+  "code": "tibetan-medicine",
+  "name": "Tibetan Medicine (Sowa Rigpa)",
+  "tradition": "Central Asian",
+  "originRegion": "Tibet / Himalayan region",
+  "estimatedPractitioners": 20000,
+  "whoRecognition": "Recognized — Classified under WHO ICD-11 traditional medicine module; regulated in India under AYUSH ministry as Sowa Rigpa",
+  "keyPractices": [
+    "Herbal medicine (multi-compound formulas)",
+    "Pulse diagnosis",
+    "Urine analysis",
+    "Moxibustion (Metsa)",
+    "Golden needle therapy (Serkhab)",
+    "Cupping (Mebum)",
+    "Dietary and behavioral advice"
+  ],
+  "regionsOfPractice": [
+    "Tibet (China)",
+    "India (Ladakh, Sikkim, Himachal Pradesh)",
+    "Nepal",
+    "Bhutan",
+    "Mongolia",
+    "Russia (Buryatia)"
+  ],
+  "description": "Tibetan Medicine (Sowa Rigpa, 'science of healing') is a centuries-old medical system rooted in Buddhist philosophy and influenced by Indian Ayurveda, Chinese medicine, and Central Asian healing traditions. It is based on the theory of three nyepas (humors): rLung (wind), mKhris-pa (bile), and Bad-kan (phlegm). Diagnosis primarily relies on pulse reading at specific wrist points and detailed urine analysis. Treatment includes complex multi-ingredient herbal formulas (often 20–30 herbs), dietary modification, behavioral changes, and external therapies. The Men-Tsee-Khang (Tibetan Medical and Astrological Institute) in Dharamsala, India, is a leading center for preservation and practice.",
+  "historicalNotes": "The foundational text, the rGyud-bzhi (Four Tantras), was compiled in the 12th century, synthesizing earlier oral traditions attributed to the physician Yuthok Yonten Gonpo. The Chakpori Medical College, founded in Lhasa in 1696, was one of the world's first medical schools. Tibetan medicine was severely disrupted during the Cultural Revolution but has since been revived in Tibet, China's broader Tibetan regions, and the exile community in India. India formally recognized Sowa Rigpa as a national medical system in 2010 under the AYUSH ministry. Mongolia and Buryatia (Russia) also maintain active traditions.",
+  "geojson": "tibetan-medicine.geojson"
+}

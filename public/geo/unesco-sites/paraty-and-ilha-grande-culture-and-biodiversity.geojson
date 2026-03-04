@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6853694444,
+          -23.0186055556
+        ]
+      },
+      "properties": {
+        "code": "paraty-and-ilha-grande-culture-and-biodiversity",
+        "name": "Paraty and Ilha Grande – Culture and Biodiversity",
+        "type": "Mixed",
+        "country": "Brazil",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

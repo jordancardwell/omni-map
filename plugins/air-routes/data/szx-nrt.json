@@ -1,0 +1,17 @@
+{
+  "code": "szx-nrt",
+  "name": "Shenzhen — Tokyo",
+  "airports": [
+    "SZX",
+    "NRT"
+  ],
+  "distanceKm": 2950,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Shenzhen Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SZX–NRT route between Shenzhen and Tokyo. Distance: 2,950 km. ~20 weekly flights operated by Shenzhen Airlines.",
+  "geojson": "szx-nrt.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "gulf-stream",
+  "name": "Gulf Stream",
+  "currentType": "Warm",
+  "speedRange": "1.0–2.5 m/s",
+  "origin": "Gulf of Mexico",
+  "destination": "North Atlantic / Europe",
+  "climateEffects": [
+    "Warms Western Europe",
+    "Moderates UK/Scandinavian climate",
+    "Fuels North Atlantic weather systems"
+  ],
+  "connectedEcosystems": [
+    "Sargasso Sea",
+    "North Atlantic fisheries",
+    "Gulf of Mexico coral reefs"
+  ],
+  "itemCategory": "Warm",
+  "description": "One of the strongest and most studied ocean currents, the Gulf Stream carries warm water from the Gulf of Mexico northeast across the Atlantic. It transports roughly 30 million cubic meters per second and significantly warms the climate of Western Europe.",
+  "geojson": "gulf-stream.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "yerkes",
+  "name": "Yerkes Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 334,
+  "aperture": "1.02 m (40-inch refractor)",
+  "telescopes": [
+    "40-inch Refractor",
+    "41-inch Reflector"
+  ],
+  "keyDiscoveries": [
+    "Spectral classification system",
+    "Stellar parallaxes",
+    "Interstellar matter"
+  ],
+  "location": "Yerkes Observatory, United States",
+  "description": "Houses the world's largest refracting telescope (40-inch). Founded in 1897 by George Ellery Hale, birthplace of modern astrophysics. Recently restored and reopened.",
+  "geojson": "yerkes.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3544444444,
+          24.9233333333
+        ]
+      },
+      "properties": {
+        "code": "south-china-karst",
+        "name": "South China Karst",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

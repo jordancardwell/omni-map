@@ -1,0 +1,20 @@
+{
+  "code": "trappist-south",
+  "name": "TRAPPIST-South",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2315,
+  "aperture": "0.6 m",
+  "telescopes": [
+    "TRAPPIST-South"
+  ],
+  "keyDiscoveries": [
+    "TRAPPIST-1 system discovery",
+    "Exoplanet transits",
+    "Comet monitoring"
+  ],
+  "location": "TRAPPIST-South, Chile",
+  "description": "Belgian robotic telescope at La Silla that discovered the TRAPPIST-1 planetary system with 7 Earth-sized planets, including several in the habitable zone.",
+  "geojson": "trappist-south.geojson"
+}

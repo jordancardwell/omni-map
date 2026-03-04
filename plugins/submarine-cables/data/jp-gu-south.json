@@ -1,0 +1,16 @@
+{
+  "code": "jp-gu-south",
+  "name": "JP-GU South",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2531,
+  "yearLaid": 2022,
+  "rfsDate": "2015-06",
+  "owner": "KDDI",
+  "landingPoints": [
+    "Naha, Japan",
+    "Guam"
+  ],
+  "description": "JP-GU South connecting Naha to Guam in the Pacific.",
+  "geojson": "jp-gu-south.geojson"
+}

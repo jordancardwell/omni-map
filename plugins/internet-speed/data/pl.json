@@ -1,0 +1,17 @@
+{
+  "code": "pl",
+  "name": "Poland",
+  "avgDownloadMbps": 171.8,
+  "avgUploadMbps": 68.4,
+  "avgLatencyMs": 15,
+  "mobileDownloadMbps": 58.2,
+  "mobileUploadMbps": 13.6,
+  "fixedDownloadMbps": 171.8,
+  "fixedUploadMbps": 68.4,
+  "rank": 21,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Competitive broadband market driving speeds up. ~14% year-over-year growth.",
+  "geojson": "pl.geojson"
+}

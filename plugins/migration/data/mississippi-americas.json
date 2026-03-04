@@ -1,0 +1,24 @@
+{
+  "code": "mississippi-americas",
+  "name": "Mississippi Americas Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Central Americas",
+  "badgeValue": "~400 species",
+  "speciesCount": "~400 migratory species including waterfowl, cranes, and warblers",
+  "keyStopoverSites": [
+    "Great Lakes",
+    "Mississippi Delta",
+    "Playa Lakes TX",
+    "Gulf Coast",
+    "Central Mexico Wetlands"
+  ],
+  "threats": [
+    "Wetland drainage",
+    "Agricultural intensification",
+    "Wind turbines",
+    "Climate change",
+    "Hunting"
+  ],
+  "description": "The Mississippi Americas Flyway follows the Mississippi River corridor and the Great Plains, connecting the Canadian prairies and boreal forests to Central America and northern South America. It is the primary route for North American waterfowl \u2014 an estimated 40% of all ducks and geese use this flyway. The whooping crane, one of the rarest birds in the world, migrates along this corridor between Wood Buffalo National Park and Aransas National Wildlife Refuge.",
+  "geojson": "mississippi-americas.geojson"
+}

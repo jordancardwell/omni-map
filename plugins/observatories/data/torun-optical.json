@@ -1,0 +1,20 @@
+{
+  "code": "torun-optical",
+  "name": "Toruń Centre for Astronomy",
+  "country": "Poland",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 100,
+  "aperture": "0.9 m",
+  "telescopes": [
+    "90cm Schmidt-Cassegrain"
+  ],
+  "keyDiscoveries": [
+    "Radio pulsar timing",
+    "Interstellar medium studies",
+    "Stellar evolution"
+  ],
+  "location": "Toruń Centre for Astronomy, Poland",
+  "description": "Nicolaus Copernicus University astronomical center, one of the largest in Poland. Combines optical and radio astronomy research.",
+  "geojson": "torun-optical.geojson"
+}

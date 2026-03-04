@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6625,
+          53.17361111
+        ]
+      },
+      "properties": {
+        "code": "lake-baikal",
+        "name": "Lake Baikal",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

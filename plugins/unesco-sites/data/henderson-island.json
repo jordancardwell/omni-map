@@ -1,0 +1,15 @@
+{
+  "code": "henderson-island",
+  "name": "Henderson Island",
+  "type": "Natural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Henderson Island, which lies in the eastern South Pacific, is one of the few atolls in the world whose ecology has been practically untouched by a human presence. Its isolated location provides the ideal context for studying the dynamics of insular evolution and natural selection. It is particularly notable for the 10 plants and four land birds that are endemic to the island.",
+  "danger": false,
+  "geojson": "henderson-island.geojson"
+}

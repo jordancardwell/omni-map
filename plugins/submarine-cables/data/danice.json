@@ -1,0 +1,16 @@
+{
+  "code": "danice",
+  "name": "DANICE",
+  "capacityTbps": 6.4,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1800,
+  "yearLaid": 2009,
+  "rfsDate": "2009-12",
+  "owner": "Farice",
+  "landingPoints": [
+    "Blaabjerg, Denmark",
+    "Thorlákshöfn, Iceland"
+  ],
+  "description": "Denmark-Iceland submarine cable via Faroe Islands.",
+  "geojson": "danice.geojson"
+}

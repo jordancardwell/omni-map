@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6041666667,
+          53.0105555556
+        ]
+      },
+      "properties": {
+        "code": "medieval-town-of-torun",
+        "name": "Medieval Town of Toruń",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

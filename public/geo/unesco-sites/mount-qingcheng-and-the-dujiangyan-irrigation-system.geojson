@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.60528,
+          31.00167
+        ]
+      },
+      "properties": {
+        "code": "mount-qingcheng-and-the-dujiangyan-irrigation-system",
+        "name": "Mount Qingcheng and the Dujiangyan Irrigation System",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

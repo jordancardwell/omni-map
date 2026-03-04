@@ -1,0 +1,14 @@
+{
+  "code": "sado-island-gold-mines",
+  "name": "Sado Island Gold Mines",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Sado Island Gold Mines is a serial property located on Sado Island, some thirty-five kilometres west of the Niigata Prefecture coast. It is formed of three component parts illustrative of different unmechanised mining methods. Sado Island is of volcanic origin and features two parallel mountain ranges stretching from southwest to northeast and separated by one alluvial plain, the Kuninaka Plain. Gold and silver deposits were formed by the rising of hydrothermal water close to the land surface and forming veins in the rock; tectonic activity first submerged the surface deposits to the seabed, which was later raised again by tectonic movements. Placer deposits were exploited in Nishimikawa Area, located on the north-western side of the Kosado Mountains. In addition, the weathering of the volcanic rock exposed ore veins, which were mined underground at the land surface and deep underground in the Aikawa-Tsurushi Area, at the southern end of the Osado Mountains range. Mostly tangible attributes reflecting mining activities and social and labour organisation are preserved as archaeological elements, both above and below ground, and landscape features.",
+  "danger": false,
+  "geojson": "sado-island-gold-mines.geojson"
+}

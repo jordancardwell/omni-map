@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8512277778,
+          50.4426972222
+        ]
+      },
+      "properties": {
+        "code": "tarnowskie-gory-lead-silver-zinc-mine-and-its-underground-water-management-syste",
+        "name": "Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

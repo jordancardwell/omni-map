@@ -1,0 +1,15 @@
+{
+  "code": "burgos-cathedral",
+  "name": "Burgos Cathedral",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Our Lady of Burgos was begun in the 13th century at the same time as the great cathedrals of the Ile-de-France and was completed in the 15th and 16th centuries. The entire history of Gothic art is summed up in its superb architecture and its unique collection of works of art, including paintings, choir stalls, reredos, tombs and stained-glass windows.",
+  "danger": false,
+  "geojson": "burgos-cathedral.geojson"
+}

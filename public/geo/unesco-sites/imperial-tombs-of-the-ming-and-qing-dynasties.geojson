@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7938889,
+          41.70722222
+        ]
+      },
+      "properties": {
+        "code": "imperial-tombs-of-the-ming-and-qing-dynasties",
+        "name": "Imperial Tombs of the Ming and Qing Dynasties",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

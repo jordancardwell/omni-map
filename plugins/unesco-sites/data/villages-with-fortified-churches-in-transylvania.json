@@ -1,0 +1,14 @@
+{
+  "code": "villages-with-fortified-churches-in-transylvania",
+  "name": "Villages with Fortified Churches in Transylvania",
+  "type": "Cultural",
+  "country": "Romania",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century.",
+  "danger": false,
+  "geojson": "villages-with-fortified-churches-in-transylvania.geojson"
+}

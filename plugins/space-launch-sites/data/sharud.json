@@ -1,0 +1,16 @@
+{
+  "code": "sharud",
+  "name": "Shahroud Missile and Launch Complex",
+  "country": "Iran",
+  "operator": "IRGC Aerospace Force",
+  "coordinates": "36.2340°N, 55.0000°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Qased SLV / Noor satellite launches",
+    "Military satellite deployments"
+  ],
+  "orbitalInclinationRange": "55°–80°",
+  "location": "Shahroud Missile and Launch Complex, Iran",
+  "description": "Iran's military launch facility operated by the IRGC. Used solid-fuel Qased rocket to place Noor military satellites in orbit. Separate from the civilian Semnan program.",
+  "geojson": "sharud.geojson"
+}

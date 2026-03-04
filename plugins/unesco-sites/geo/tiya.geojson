@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6121,
+          8.43491
+        ]
+      },
+      "properties": {
+        "code": "tiya",
+        "name": "Tiya",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

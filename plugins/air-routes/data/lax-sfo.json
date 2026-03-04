@@ -1,0 +1,20 @@
+{
+  "code": "lax-sfo",
+  "name": "Los Angeles — San Francisco",
+  "airports": [
+    "LAX",
+    "SFO"
+  ],
+  "distanceKm": 544,
+  "weeklyFlights": 200,
+  "airlines": [
+    "United",
+    "Delta",
+    "Southwest",
+    "JetBlue"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "LAX–SFO route between Los Angeles and San Francisco. Distance: 544 km. ~200 weekly flights operated by United, Delta, Southwest, JetBlue.",
+  "geojson": "lax-sfo.geojson"
+}

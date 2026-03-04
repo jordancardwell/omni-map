@@ -1,0 +1,16 @@
+{
+  "code": "br-east-coast-1",
+  "name": "BR East Coast-1",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 588,
+  "yearLaid": 2011,
+  "rfsDate": "2013-06",
+  "owner": "Oi",
+  "landingPoints": [
+    "Recife, Brazil",
+    "Salvador, Brazil"
+  ],
+  "description": "BR East Coast-1 connecting Recife to Salvador in South America.",
+  "geojson": "br-east-coast-1.geojson"
+}

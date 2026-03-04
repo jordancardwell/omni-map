@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8161111111,
+          1.3152777778
+        ]
+      },
+      "properties": {
+        "code": "singapore-botanic-gardens",
+        "name": "Singapore Botanic Gardens",
+        "type": "Cultural",
+        "country": "Singapore",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

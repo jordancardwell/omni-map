@@ -1,0 +1,15 @@
+{
+  "code": "zollverein-coal-mine-industrial-complex-in-essen",
+  "name": "Zollverein Coal Mine Industrial Complex in Essen",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Zollverein industrial complex in Land Nordrhein-Westfalen consists of the complete infrastructure of a historical coal-mining site, with some 20th-century buildings of outstanding architectural merit. It constitutes remarkable material evidence of the evolution and decline of an essential industry over the past 150 years.",
+  "danger": false,
+  "geojson": "zollverein-coal-mine-industrial-complex-in-essen.geojson"
+}

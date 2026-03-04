@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mm","name":"Myanmar","country":"MM","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[92.2,9.8],[92.2,28.5],[101.2,28.5],[101.2,9.8],[92.2,9.8]]]}}]}

@@ -1,0 +1,19 @@
+{
+  "code": "blue-iguana",
+  "name": "Grand Cayman Blue Iguana",
+  "scientificName": "Cyclura lewisi",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Dry shrubland and rocky coast",
+  "threats": [
+    "Habitat loss",
+    "Road mortality",
+    "Feral cats and dogs",
+    "Invasive green iguanas"
+  ],
+  "conservationEfforts": "Blue Iguana Recovery Programme increased population from 15 to over 1,000. Queen Elizabeth II Botanic Park and Salina Reserve provide protected habitat. Head-starting program.",
+  "description": "Once down to just 15 individuals in 2002, the blue iguana has been brought back from the brink through one of the most successful reptile conservation programs ever undertaken.",
+  "geojson": "blue-iguana.geojson"
+}

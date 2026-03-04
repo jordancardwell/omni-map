@@ -1,0 +1,21 @@
+{
+  "code": "alaid",
+  "name": "Alaid",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 2339,
+  "lastEruption": "2015",
+  "vei": 3,
+  "country": "Russia",
+  "region": "Kuril Islands",
+  "location": "Kuril Islands, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "The highest volcano in the Kuril Islands. Has erupted multiple times in the 20th century.",
+  "description": "Alaid is the highest volcano in the Kuril Islands, rising from the sea as a symmetric cone on Atlasov Island.",
+  "geojson": "alaid.geojson"
+}

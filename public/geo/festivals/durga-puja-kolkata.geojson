@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3639,
+          22.5726
+        ]
+      },
+      "properties": {
+        "code": "durga-puja-kolkata",
+        "name": "Durga Puja (Kolkata)",
+        "festivalType": "Religious",
+        "dateOrSeason": "September–October",
+        "location": "Kolkata, India"
+      }
+    }
+  ]
+}

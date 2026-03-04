@@ -1,0 +1,18 @@
+{
+  "code": "den-sfo",
+  "name": "Denver — San Francisco",
+  "airports": [
+    "DEN",
+    "SFO"
+  ],
+  "distanceKm": 1553,
+  "weeklyFlights": 80,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–SFO route between Denver and San Francisco. Distance: 1,553 km. ~80 weekly flights operated by United, Southwest.",
+  "geojson": "den-sfo.geojson"
+}

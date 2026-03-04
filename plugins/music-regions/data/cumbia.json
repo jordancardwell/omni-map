@@ -1,0 +1,29 @@
+{
+  "code": "cumbia",
+  "name": "Cumbia",
+  "region": "Caribbean Coast, Colombia",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Gaita",
+    "Tambor Alegre",
+    "Llamador",
+    "Maracas",
+    "Guacharaca"
+  ],
+  "keyArtists": [
+    "Lucho Bermúdez",
+    "Totó la Momposina",
+    "Andrés Landero",
+    "Celso Piña",
+    "Bomba Estéreo"
+  ],
+  "description": "Cumbia is a traditional Colombian music and dance genre that originated among the enslaved African, indigenous, and mestizo populations of the Caribbean coast. Its distinctive rhythm, driven by drums and gaita flutes, has spread throughout Latin America, spawning regional variants in Mexico, Argentina, Peru, and beyond. Cumbia is one of the most widely adapted musical forms in the Americas.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Colombian Music",
+      "url": "https://folkways.si.edu/search?query=cumbia"
+    }
+  ],
+  "geojson": "cumbia.geojson"
+}

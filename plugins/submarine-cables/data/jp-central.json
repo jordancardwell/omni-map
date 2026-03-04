@@ -1,0 +1,16 @@
+{
+  "code": "jp-central",
+  "name": "JP Central",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 471,
+  "yearLaid": 2019,
+  "rfsDate": "2010-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Chikura, Japan",
+    "Shima, Japan"
+  ],
+  "description": "JP Central connecting Chikura to Shima in East Asia.",
+  "geojson": "jp-central.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "id-au-cable",
+  "name": "ID-AU Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1217,
+  "yearLaid": 2012,
+  "rfsDate": "2022-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Jakarta, Indonesia",
+    "Perth, Australia"
+  ],
+  "description": "ID-AU Cable connecting Jakarta to Perth.",
+  "geojson": "id-au-cable.geojson"
+}

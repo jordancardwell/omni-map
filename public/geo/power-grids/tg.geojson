@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tg","name":"Togo","country":"TG","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-0.1,6.1],[-0.1,11.1],[1.8,11.1],[1.8,6.1],[-0.1,6.1]]]}}]}

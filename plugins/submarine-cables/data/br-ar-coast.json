@@ -1,0 +1,16 @@
+{
+  "code": "br-ar-coast",
+  "name": "BR-AR Coast",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2134,
+  "yearLaid": 2022,
+  "rfsDate": "2020-06",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Santos, Brazil",
+    "Buenos Aires, Argentina"
+  ],
+  "description": "BR-AR Coast connecting Santos to Buenos Aires in South America.",
+  "geojson": "br-ar-coast.geojson"
+}

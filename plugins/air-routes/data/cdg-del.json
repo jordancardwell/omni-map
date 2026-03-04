@@ -1,0 +1,18 @@
+{
+  "code": "cdg-del",
+  "name": "Paris — Delhi",
+  "airports": [
+    "CDG",
+    "DEL"
+  ],
+  "distanceKm": 6566,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Air France",
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CDG–DEL route between Paris and Delhi. Distance: 6,566 km. ~30 weekly flights operated by Air France, Air India.",
+  "geojson": "cdg-del.geojson"
+}

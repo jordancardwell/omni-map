@@ -1,0 +1,12 @@
+{
+  "code": "site-machu-picchu",
+  "name": "Machu Picchu",
+  "period": "c. 1450–1572 CE",
+  "region": "South America",
+  "type": "Archaeological Site",
+  "writingSystem": "Quipu",
+  "majorAchievements": ["Mountain-top citadel", "Dry-stone polished walls", "Agricultural terraces", "Intihuatana ritual stone"],
+  "keyCities": ["Machu Picchu"],
+  "description": "Machu Picchu, perched at 2,430 meters in the Peruvian Andes, is the most famous archaeological site in South America. Built as a royal estate for the Inca emperor Pachacuti, its precisely cut stone walls, terraced fields, and integration with the dramatic mountain landscape showcase the pinnacle of Inca engineering. The site was unknown to the outside world until Hiram Bingham's 1911 expedition.",
+  "geojson": "site-machu-picchu.geojson"
+}

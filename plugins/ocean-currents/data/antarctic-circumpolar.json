@@ -1,0 +1,21 @@
+{
+  "code": "antarctic-circumpolar",
+  "name": "Antarctic Circumpolar Current",
+  "currentType": "Deep",
+  "speedRange": "0.1–0.2 m/s (but immense volume)",
+  "origin": "Southern Ocean (circles Antarctica)",
+  "destination": "Southern Ocean (continuous loop)",
+  "climateEffects": [
+    "Isolates Antarctica thermally",
+    "Largest current by volume (150+ Sv)",
+    "Drives global thermohaline circulation"
+  ],
+  "connectedEcosystems": [
+    "Antarctic krill ecosystem",
+    "Southern Ocean fisheries",
+    "Sub-Antarctic islands biodiversity"
+  ],
+  "itemCategory": "Deep",
+  "description": "The Antarctic Circumpolar Current (ACC) is the world's largest ocean current by volume, transporting over 150 million cubic meters per second as it circles Antarctica. It connects the Atlantic, Pacific, and Indian Oceans and thermally isolates Antarctica.",
+  "geojson": "antarctic-circumpolar.geojson"
+}

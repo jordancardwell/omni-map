@@ -1,0 +1,15 @@
+{
+  "code": "sun-temple-konarak",
+  "name": "Sun Temple, Konârak",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "On the shores of the Bay of Bengal, bathed in the rays of the rising sun, the temple at Konarak is a monumental representation of the sun god Surya's chariot; its 24 wheels are decorated with symbolic designs and it is led by a team of six horses. Built in the 13th century, it is one of India's most famous Brahman sanctuaries.",
+  "danger": false,
+  "geojson": "sun-temple-konarak.geojson"
+}

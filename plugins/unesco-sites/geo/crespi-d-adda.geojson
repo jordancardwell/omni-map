@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53833,
+          45.59333
+        ]
+      },
+      "properties": {
+        "code": "crespi-d-adda",
+        "name": "Crespi d'Adda",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "br-pt-link",
+  "name": "BR-PT Link",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2321,
+  "yearLaid": 2020,
+  "rfsDate": "2020-06",
+  "owner": "EllaLink",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Lisbon, Portugal"
+  ],
+  "description": "BR-PT Link connecting Fortaleza to Lisbon.",
+  "geojson": "br-pt-link.geojson"
+}

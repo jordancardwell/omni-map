@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.54116667,
+          38.51344444
+        ]
+      },
+      "properties": {
+        "code": "landscape-of-the-pico-island-vineyard-culture",
+        "name": "Landscape of the Pico Island Vineyard Culture",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

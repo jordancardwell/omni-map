@@ -1,0 +1,16 @@
+{
+  "code": "sacred-ensembles-of-the-hoysalas",
+  "name": "Sacred Ensembles of the Hoysalas",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This serial property encompasses the three most representative examples of Hoysala-style temple complexes in southern India, dating from the 12th to 13th centuries. The Hoysala style was created through careful selection of contemporary temple features and those from the past to create a different identity from neighbouring kingdoms. The shrines are characterized by hyper-real sculptures and stone carvings that cover the entire architectural surface, a circumambulatory platform, a large-scale sculptural gallery, a multi-tiered frieze, and sculptures of the Sala legend. The excellence of the sculptural art underpins the artistic achievement of these temple complexes, which represent a significant stage in the historical development of Hindu temple architecture.",
+  "danger": false,
+  "geojson": "sacred-ensembles-of-the-hoysalas.geojson"
+}

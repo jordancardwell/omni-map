@@ -1,0 +1,18 @@
+{
+  "code": "syd-ams",
+  "name": "Sydney — Amsterdam",
+  "airports": [
+    "SYD",
+    "AMS"
+  ],
+  "distanceKm": 16658,
+  "weeklyFlights": 30,
+  "airlines": [
+    "KLM",
+    "Qantas"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SYD–AMS route between Sydney and Amsterdam. Distance: 16,658 km. ~30 weekly flights operated by KLM, Qantas.",
+  "geojson": "syd-ams.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "vu",
+  "name": "Vanuatu",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "G",
+    "I"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type G — Three rectangular pins (British style)",
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of plug types. Universal adapter recommended.",
+  "geojson": "vu.geojson"
+}

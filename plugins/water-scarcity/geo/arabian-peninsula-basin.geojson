@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "arabian-peninsula-basin", "name": "Arabian Peninsula Basin" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[35,30],[38,28],[40,26],[44,24],[48,24],[50,24],[52,23],[55,22],[56,20],[55,17],[53,15],[50,13],[46,13],[43,14],[42,16],[41,17],[40,19],[39,21],[37,23],[36,26],[35,30]]]
+    }
+  }]
+}

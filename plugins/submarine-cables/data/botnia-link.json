@@ -1,0 +1,16 @@
+{
+  "code": "botnia-link",
+  "name": "Botnia Link",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 414,
+  "yearLaid": 2022,
+  "rfsDate": "2018-06",
+  "owner": "Nordic Fiber",
+  "landingPoints": [
+    "Hanko, Finland",
+    "Karlshamn, Sweden"
+  ],
+  "description": "Botnia Link submarine cable connecting Hanko to Karlshamn.",
+  "geojson": "botnia-link.geojson"
+}

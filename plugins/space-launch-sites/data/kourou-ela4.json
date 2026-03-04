@@ -1,0 +1,16 @@
+{
+  "code": "kourou-ela4",
+  "name": "ELA-4 (Ariane 6 Launch Complex)",
+  "country": "France (French Guiana)",
+  "operator": "ESA / Arianespace",
+  "coordinates": "5.2360°N, 52.7680°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Ariane 6 maiden flight (2024)",
+    "Next-gen European launches"
+  ],
+  "orbitalInclinationRange": "5°–100°",
+  "location": "ELA-4 (Ariane 6 Launch Complex), France (French Guiana)",
+  "description": "The newest launch complex at the Guiana Space Centre, purpose-built for the Ariane 6 rocket. Features a mobile gantry and flame duct designed for both A62 and A64 configurations.",
+  "geojson": "kourou-ela4.geojson"
+}

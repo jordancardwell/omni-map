@@ -1,0 +1,16 @@
+{
+  "code": "iqd",
+  "name": "Iraqi Dinar",
+  "isoCode": "IQD",
+  "symbol": "ع.د",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Iraq",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Iraq"
+  ],
+  "countryCount": 1,
+  "description": "The Iraqi Dinar is the currency of Iraq, which holds the world's fifth-largest proven oil reserves.",
+  "historicalNotes": "New banknotes were introduced in 2003 after the fall of Saddam Hussein, unifying the 'Swiss dinar' used in Kurdistan with the dinar used in the rest of Iraq.",
+  "geojson": "iqd.geojson"
+}

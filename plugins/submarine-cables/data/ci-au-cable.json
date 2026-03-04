@@ -1,0 +1,16 @@
+{
+  "code": "ci-au-cable",
+  "name": "CI-AU Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1516,
+  "yearLaid": 2016,
+  "rfsDate": "2022-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Christmas Island",
+    "Perth, Australia"
+  ],
+  "description": "CI-AU Cable connecting Christmas Island to Perth.",
+  "geojson": "ci-au-cable.geojson"
+}

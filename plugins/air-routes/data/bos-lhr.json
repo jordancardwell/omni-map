@@ -1,0 +1,19 @@
+{
+  "code": "bos-lhr",
+  "name": "Boston — London",
+  "airports": [
+    "BOS",
+    "LHR"
+  ],
+  "distanceKm": 5240,
+  "weeklyFlights": 80,
+  "airlines": [
+    "British Airways",
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "BOS–LHR route between Boston and London. Distance: 5,240 km. ~80 weekly flights operated by British Airways, Delta, JetBlue.",
+  "geojson": "bos-lhr.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0904,
+          -35.2699
+        ]
+      },
+      "properties": {
+        "code": "waitangi-day",
+        "name": "Waitangi Day",
+        "festivalType": "National",
+        "dateOrSeason": "February 6",
+        "location": "Waitangi, New Zealand"
+      }
+    }
+  ]
+}

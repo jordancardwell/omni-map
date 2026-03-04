@@ -1,0 +1,20 @@
+{
+  "code": "ceduna",
+  "name": "Ceduna Radio Observatory",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 155,
+  "aperture": "30 m",
+  "telescopes": [
+    "Ceduna 30m"
+  ],
+  "keyDiscoveries": [
+    "VLBI observations",
+    "AGN monitoring",
+    "Spacecraft tracking"
+  ],
+  "location": "Ceduna Radio Observatory, Australia",
+  "description": "University of Tasmania radio telescope in South Australia. Provides critical long baselines for Australian and southern hemisphere VLBI observations.",
+  "geojson": "ceduna.geojson"
+}

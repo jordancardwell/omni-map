@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.94558333,
+          38.48786111
+        ]
+      },
+      "properties": {
+        "code": "isole-eolie-aeolian-islands",
+        "name": "Isole Eolie (Aeolian Islands)",
+        "type": "Natural",
+        "country": "Italy",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

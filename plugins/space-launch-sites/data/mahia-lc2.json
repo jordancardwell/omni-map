@@ -1,0 +1,16 @@
+{
+  "code": "mahia-lc2",
+  "name": "Rocket Lab Launch Complex 2",
+  "country": "United States",
+  "operator": "Rocket Lab",
+  "coordinates": "37.8404°N, 75.4874°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Electron VADR mission",
+    "HASTE suborbital"
+  ],
+  "orbitalInclinationRange": "38°–60°",
+  "location": "Rocket Lab Launch Complex 2, United States",
+  "description": "Rocket Lab's US launch site at the Mid-Atlantic Regional Spaceport (MARS) at Wallops, Virginia. Provides US-soil launch capability for government and defense payloads.",
+  "geojson": "mahia-lc2.geojson"
+}

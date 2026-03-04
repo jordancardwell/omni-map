@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1594111111,
+          47.1807888889
+        ]
+      },
+      "properties": {
+        "code": "frontiers-of-the-roman-empire-dacia",
+        "name": "Frontiers of the Roman Empire – Dacia",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

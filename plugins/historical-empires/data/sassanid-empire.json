@@ -1,0 +1,25 @@
+{
+  "code": "sassanid-empire",
+  "name": "Sassanid Empire",
+  "era": "Ancient",
+  "peakYear": "620 CE",
+  "areaAtPeakKm2": 3500000,
+  "populationEstimate": "20 million",
+  "capital": "Ctesiphon",
+  "keyAchievements": [
+    "Zoroastrian state religion",
+    "Academy of Gondishapur",
+    "Taq Kasra arch",
+    "Silk trade control",
+    "Metalwork and textiles"
+  ],
+  "declineFactors": [
+    "Arab Muslim conquest",
+    "Byzantine wars exhaustion",
+    "Plague",
+    "Internal instability",
+    "Khosrow II's overreach"
+  ],
+  "description": "The Sassanid Empire (224–651 CE) was the last great Persian empire before the Islamic conquest. It was the principal rival of the Roman/Byzantine Empire for over 400 years, and the two superpowers shaped the political and cultural landscape of the ancient Near East.\n\nThe Sassanids established Zoroastrianism as the state religion, built magnificent palaces and cities, and founded the Academy of Gondishapur — one of the world's first universities, combining Greek, Indian, and Persian knowledge. Their art and administrative systems profoundly influenced the early Islamic caliphates.",
+  "geojson": "sassanid-empire.geojson"
+}

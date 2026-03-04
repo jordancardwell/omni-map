@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0824166667,
+          54.4766111111
+        ]
+      },
+      "properties": {
+        "code": "the-english-lake-district",
+        "name": "The English Lake District",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

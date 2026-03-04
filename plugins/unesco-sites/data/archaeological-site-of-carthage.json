@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-site-of-carthage",
+  "name": "Archaeological Site of Carthage",
+  "type": "Cultural",
+  "country": "Tunisia",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "Carthage was founded in the 9th century B.C. on the Gulf of Tunis. From the 6th century onwards, it developed into a great trading empire covering much of the Mediterranean and was home to a brilliant civilization. In the course of the long Punic wars, Carthage occupied territories belonging to Rome, which finally destroyed its rival in 146 B.C. A second – Roman – Carthage was then established on the ruins of the first.",
+  "danger": false,
+  "geojson": "archaeological-site-of-carthage.geojson"
+}

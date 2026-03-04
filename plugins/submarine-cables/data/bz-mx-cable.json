@@ -1,0 +1,16 @@
+{
+  "code": "bz-mx-cable",
+  "name": "BZ-MX Cable",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 435,
+  "yearLaid": 2016,
+  "rfsDate": "2010-06",
+  "owner": "BTL",
+  "landingPoints": [
+    "Belize City, Belize",
+    "Cancún, Mexico"
+  ],
+  "description": "BZ-MX Cable connecting Belize City to Cancún in the Caribbean region.",
+  "geojson": "bz-mx-cable.geojson"
+}

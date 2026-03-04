@@ -1,0 +1,18 @@
+{
+  "code": "iah-bos",
+  "name": "Houston — Boston",
+  "airports": [
+    "IAH",
+    "BOS"
+  ],
+  "distanceKm": 2567,
+  "weeklyFlights": 30,
+  "airlines": [
+    "United",
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–BOS route between Houston and Boston. Distance: 2,567 km. ~30 weekly flights operated by United, JetBlue.",
+  "geojson": "iah-bos.geojson"
+}

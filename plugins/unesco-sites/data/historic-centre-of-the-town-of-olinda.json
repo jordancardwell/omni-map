@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-the-town-of-olinda",
+  "name": "Historic Centre of the Town of Olinda",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Founded in the 16th century by the Portuguese, the town’s history is linked to the sugar-cane industry. Rebuilt after being looted by the Dutch, its basic urban fabric dates from the 18th century. The harmonious balance between the buildings, gardens, 20 Baroque churches, convents and numerous small passos (chapels) all contribute to Olinda’s particular charm.",
+  "danger": false,
+  "geojson": "historic-centre-of-the-town-of-olinda.geojson"
+}

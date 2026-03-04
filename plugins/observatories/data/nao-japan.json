@@ -1,0 +1,21 @@
+{
+  "code": "nao-japan",
+  "name": "National Astronomical Observatory of Japan (Mitaka)",
+  "country": "Japan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 58,
+  "aperture": "N/A (headquarters)",
+  "telescopes": [
+    "Solar Flare Telescope",
+    "TAMA300"
+  ],
+  "keyDiscoveries": [
+    "Solar physics",
+    "Gravitational wave R&D",
+    "Astronomical computing"
+  ],
+  "location": "National Astronomical Observatory of Japan (Mitaka), Japan",
+  "description": "NAOJ headquarters in Tokyo coordinating Japanese astronomical research including Subaru, ALMA, and next-generation facilities like TMT.",
+  "geojson": "nao-japan.geojson"
+}

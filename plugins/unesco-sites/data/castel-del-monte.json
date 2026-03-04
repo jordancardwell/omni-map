@@ -1,0 +1,16 @@
+{
+  "code": "castel-del-monte",
+  "name": "Castel del Monte",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "When the Emperor Frederick II built this castle near Bari in the 13th century, he imbued it with symbolic significance, as reflected in the location, the mathematical and astronomical precision of the layout and the perfectly regular shape. A unique piece of medieval military architecture, Castel del Monte is a successful blend of elements from classical antiquity, the Islamic Orient and north European Cistercian Gothic.",
+  "danger": false,
+  "geojson": "castel-del-monte.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "new-mangalore",
+  "name": "New Mangalore Port",
+  "country": "India",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 45,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings"
+  ],
+  "description": "New Mangalore Port in India. Annual cargo throughput: ~45 million tons. Type: Multi-Purpose Port.",
+  "geojson": "new-mangalore.geojson"
+}

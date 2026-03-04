@@ -1,0 +1,8 @@
+{
+  "code": "red-sea-route",
+  "name": "Red Sea Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Connects the Suez Canal to the Gulf of Aden through the Bab el-Mandeb strait. A critical chokepoint for Europe–Asia trade carrying ~10% of global maritime commerce.",
+  "geojson": "red-sea-route.geojson"
+}

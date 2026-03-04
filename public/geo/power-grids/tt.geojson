@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tt","name":"Trinidad and Tobago","country":"TT","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-61.9,10],[-61.9,10.9],[-60.5,10.9],[-60.5,10],[-61.9,10]]]}}]}

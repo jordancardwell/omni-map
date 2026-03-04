@@ -1,0 +1,17 @@
+{
+  "code": "historic-centre-of-oaxaca-and-archaeological-site-of-monte-alban",
+  "name": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Inhabited over a period of 1,500 years by a succession of peoples – Olmecs, Zapotecs and Mixtecs – the terraces, dams, canals, pyramids and artificial mounds of Monte Albán were literally carved out of the mountain and are the symbols of a sacred topography. The nearby city of Oaxaca, which is built on a grid pattern, is a good example of Spanish colonial town planning. The solidity and volume of the city's buildings show that they were adapted to the earthquake-prone region in which these architectural gems were constructed.",
+  "danger": false,
+  "geojson": "historic-centre-of-oaxaca-and-archaeological-site-of-monte-alban.geojson"
+}

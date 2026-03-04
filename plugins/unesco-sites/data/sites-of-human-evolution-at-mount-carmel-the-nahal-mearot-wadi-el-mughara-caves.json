@@ -1,0 +1,15 @@
+{
+  "code": "sites-of-human-evolution-at-mount-carmel-the-nahal-mearot-wadi-el-mughara-caves",
+  "name": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+  "type": "Cultural",
+  "country": "Israel",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the western slopes of the Mount Carmel range, the site includes the caves of Tabun, Jamal, el-Wad and Skhul. Ninety years of archaeological research have revealed a cultural sequence of unparalleled duration, providing an archive of early human life in south-west Asia. This 54 ha property contains cultural deposits representing at least 500,000 years of human evolution demonstrating the unique existence of both Neanderthals andEarly Anatomically Modern Humans within the same Middle Palaeolithic cultural framework, the Mousterian. Evidence from numerous Natufian burials and early stone architecture represents the transition from a hunter-gathering lifestyle to agriculture and animal husbandry. As a result, the caves have become a key site of the chrono-stratigraphic framework for human evolution in general, and the prehistory of the Levant in particular.",
+  "danger": false,
+  "geojson": "sites-of-human-evolution-at-mount-carmel-the-nahal-mearot-wadi-el-mughara-caves.geojson"
+}

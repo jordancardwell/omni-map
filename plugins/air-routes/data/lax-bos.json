@@ -1,0 +1,19 @@
+{
+  "code": "lax-bos",
+  "name": "Los Angeles — Boston",
+  "airports": [
+    "LAX",
+    "BOS"
+  ],
+  "distanceKm": 4193,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Delta",
+    "JetBlue",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–BOS route between Los Angeles and Boston. Distance: 4,193 km. ~50 weekly flights operated by Delta, JetBlue, United.",
+  "geojson": "lax-bos.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "tt-ve-cable",
+  "name": "TT-VE Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 818,
+  "yearLaid": 2012,
+  "rfsDate": "2021-06",
+  "owner": "TSTT",
+  "landingPoints": [
+    "Port of Spain, Trinidad",
+    "Caracas, Venezuela"
+  ],
+  "description": "TT-VE Cable connecting Port of Spain to Caracas.",
+  "geojson": "tt-ve-cable.geojson"
+}

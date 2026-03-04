@@ -1,0 +1,16 @@
+{
+  "code": "bh-uae-cable",
+  "name": "BH-UAE Cable",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2779,
+  "yearLaid": 2015,
+  "rfsDate": "2022-06",
+  "owner": "Batelco",
+  "landingPoints": [
+    "Manama, Bahrain",
+    "Dubai, UAE"
+  ],
+  "description": "BH-UAE Cable connecting Manama to Dubai.",
+  "geojson": "bh-uae-cable.geojson"
+}

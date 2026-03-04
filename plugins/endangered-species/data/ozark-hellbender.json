@@ -1,0 +1,19 @@
+{
+  "code": "ozark-hellbender",
+  "name": "Ozark Hellbender",
+  "scientificName": "Cryptobranchus alleganiensis bishopi",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~590 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Clear Ozark mountain streams",
+  "threats": [
+    "Water quality degradation",
+    "Gravel mining",
+    "Disease",
+    "Low recruitment"
+  ],
+  "conservationEfforts": "St. Louis Zoo's Ron Goellner Center for Hellbender Conservation breeds and releases hundreds of juveniles. Stream restoration projects improve water quality.",
+  "description": "A subspecies of hellbender restricted to southern Missouri and northern Arkansas streams. It requires pristine water quality and has declined severely due to gravel mining and sedimentation.",
+  "geojson": "ozark-hellbender.geojson"
+}

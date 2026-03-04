@@ -1,0 +1,19 @@
+{
+  "code": "palila",
+  "name": "Palila",
+  "scientificName": "Loxioides bailleui",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Mamane-naio dry forest",
+  "threats": [
+    "Habitat loss",
+    "Introduced predators",
+    "Disease",
+    "Drought"
+  ],
+  "conservationEfforts": "Critical habitat on Mauna Kea, Hawaii. Feral ungulate removal protects mamane forest. Predator control reduces cat and rat impacts.",
+  "description": "A Hawaiian honeycreeper found only on the slopes of Mauna Kea on the Big Island. It feeds almost exclusively on mamane seed pods, making it one of the most habitat-specialized birds.",
+  "geojson": "palila.geojson"
+}

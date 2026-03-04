@@ -1,0 +1,17 @@
+{
+  "code": "villa-d-este-tivoli",
+  "name": "Villa d'Este, Tivoli",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Villa d'Este in Tivoli, with its palace and garden, is one of the most remarkable and comprehensive illustrations of Renaissance culture at its most refined. Its innovative design along with the architectural components in the garden (fountains, ornamental basins, etc.) make this a unique example of an Italian 16th-century garden. The Villa d'Este, one of the first giardini delle meraviglie , was an early model for the development of European gardens.",
+  "danger": false,
+  "geojson": "villa-d-este-tivoli.geojson"
+}

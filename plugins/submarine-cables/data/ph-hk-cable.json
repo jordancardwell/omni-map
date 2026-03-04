@@ -1,0 +1,16 @@
+{
+  "code": "ph-hk-cable",
+  "name": "PH-HK Cable",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4452,
+  "yearLaid": 2019,
+  "rfsDate": "2022-06",
+  "owner": "PLDT",
+  "landingPoints": [
+    "Cebu, Philippines",
+    "Hong Kong, China"
+  ],
+  "description": "PH-HK Cable connecting Cebu to Hong Kong.",
+  "geojson": "ph-hk-cable.geojson"
+}

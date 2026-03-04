@@ -1,0 +1,17 @@
+{
+  "code": "mex-cdg",
+  "name": "Mexico City — Paris",
+  "airports": [
+    "MEX",
+    "CDG"
+  ],
+  "distanceKm": 9199,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–CDG route between Mexico City and Paris. Distance: 9,199 km. ~15 weekly flights operated by Air France.",
+  "geojson": "mex-cdg.geojson"
+}

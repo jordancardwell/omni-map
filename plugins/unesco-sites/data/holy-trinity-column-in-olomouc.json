@@ -1,0 +1,15 @@
+{
+  "code": "holy-trinity-column-in-olomouc",
+  "name": "Holy Trinity Column in Olomouc",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This memorial column, erected in the early years of the 18th century, is the most outstanding example of a type of monument specific to central Europe. In the characteristic regional style known as Olomouc Baroque and rising to a height of 35 m, it is decorated with many fine religious sculptures, the work of the distinguished Moravian artist Ondrej Zahner.",
+  "danger": false,
+  "geojson": "holy-trinity-column-in-olomouc.geojson"
+}

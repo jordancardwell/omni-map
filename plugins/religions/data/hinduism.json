@@ -1,0 +1,23 @@
+{
+  "code": "hinduism",
+  "name": "Hinduism",
+  "family": "Dharmic",
+  "foundingPeriod": "c. 2000–1500 BCE",
+  "adherents": {
+    "estimated": 1200000000,
+    "percentWorld": "15.2%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["India", "Nepal", "Mauritius", "Bali (Indonesia)", "Sri Lanka", "Bangladesh"],
+  "denominations": [
+    "Vaishnavism",
+    "Shaivism",
+    "Shaktism",
+    "Smartism",
+    "ISKCON",
+    "Arya Samaj"
+  ],
+  "description": "Hinduism is the world's oldest major religion and the third-largest by adherents. It encompasses a diverse range of philosophies, beliefs, and rituals. Core concepts include dharma (duty/righteousness), karma (action and consequence), samsara (cycle of rebirth), and moksha (liberation). Sacred texts include the Vedas, Upanishads, Bhagavad Gita, and the epics Ramayana and Mahabharata.",
+  "historicalNotes": "Hinduism's roots trace to the Indus Valley Civilization and Vedic period (c. 1500–500 BCE). It evolved through the composition of the Upanishads, the bhakti devotional movement (7th–12th centuries), and interactions with Buddhism and Jainism. Hindu kingdoms spread the religion to Southeast Asia, notably to Cambodia (Angkor), Indonesia, and Vietnam. The modern Hindu reform movements of the 19th century, led by figures like Swami Vivekananda, revitalized and internationalized the tradition.",
+  "geojson": "hinduism.geojson"
+}

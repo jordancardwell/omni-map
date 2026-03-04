@@ -1,0 +1,37 @@
+{
+  "code": "west-african",
+  "name": "West African Cuisine",
+  "cuisineFamily": "African",
+  "description": "West African cuisine features bold, hearty flavors built on starchy staples, rich stews, and complex spice combinations. Shared across nations like Nigeria, Ghana, Senegal, and Mali, the cuisine relies on ingredients like yam, cassava, plantain, and groundnuts. One-pot stews and soups served over fufu or rice are the cornerstone.",
+  "signatureDishes": [
+    "Jollof Rice",
+    "Fufu and Light Soup",
+    "Suya",
+    "Thiéboudienne",
+    "Egusi Soup",
+    "Waakye"
+  ],
+  "keyIngredients": [
+    "Palm Oil",
+    "Scotch Bonnet Peppers",
+    "Yam",
+    "Cassava",
+    "Groundnuts",
+    "Okra"
+  ],
+  "cookingTechniques": [
+    "Pounding (fufu)",
+    "One-pot stewing",
+    "Suya spice grilling",
+    "Smoking and drying"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Nigeria",
+    "Ghana",
+    "Senegal",
+    "Mali",
+    "Cameroon"
+  ],
+  "geojson": "west-african.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "us",
+  "name": "United States",
+  "avgDownloadMbps": 242.4,
+  "avgUploadMbps": 31.5,
+  "avgLatencyMs": 14,
+  "mobileDownloadMbps": 110.6,
+  "mobileUploadMbps": 15.2,
+  "fixedDownloadMbps": 242.4,
+  "fixedUploadMbps": 31.5,
+  "rank": 5,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "North America",
+  "dataYear": 2024,
+  "trendDescription": "Steadily improving with fiber and 5G expansion. Average speeds increased ~15% year-over-year.",
+  "geojson": "us.geojson"
+}

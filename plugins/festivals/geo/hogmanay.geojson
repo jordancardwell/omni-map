@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883,
+          55.9533
+        ]
+      },
+      "properties": {
+        "code": "hogmanay",
+        "name": "Hogmanay",
+        "festivalType": "Cultural",
+        "dateOrSeason": "December 31–January 1",
+        "location": "Edinburgh, UK"
+      }
+    }
+  ]
+}

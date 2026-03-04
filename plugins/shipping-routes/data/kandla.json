@@ -1,0 +1,14 @@
+{
+  "code": "kandla",
+  "name": "Port of Kandla",
+  "country": "India",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 130,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "India–Persian Gulf Route"
+  ],
+  "description": "Port of Kandla in India. Annual cargo throughput: ~130 million tons. Type: Bulk Port.",
+  "geojson": "kandla.geojson"
+}

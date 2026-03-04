@@ -1,0 +1,16 @@
+{
+  "code": "bgn",
+  "name": "Bulgarian Lev",
+  "isoCode": "BGN",
+  "symbol": "лв",
+  "region": "Europe",
+  "centralBank": "Bulgarian National Bank",
+  "exchangeRateEra": "Currency board pegged to EUR",
+  "countries": [
+    "Bulgaria"
+  ],
+  "countryCount": 1,
+  "description": "The Bulgarian Lev has been pegged to the Euro (and previously the Deutsche Mark) through a currency board arrangement since 1997.",
+  "historicalNotes": "The current lev was redenominated in 1999 at 1,000:1. Bulgaria joined the ERM II in 2020, a step toward eventual Euro adoption.",
+  "geojson": "bgn.geojson"
+}

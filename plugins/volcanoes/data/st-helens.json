@@ -1,0 +1,22 @@
+{
+  "code": "st-helens",
+  "name": "Mount St. Helens",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 2549,
+  "lastEruption": "2008",
+  "vei": 5,
+  "country": "United States",
+  "region": "Cascades",
+  "location": "Cascades, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Lateral blasts",
+    "Ashfall"
+  ],
+  "eruptionHistory": "The catastrophic May 18, 1980 eruption killed 57 people and devastated 600 km² of forest. A lateral blast traveling 1,080 km/h removed the mountain's north face. Dome-building continued until 2008.",
+  "description": "Mount St. Helens is the most active volcano in the Cascades. Its devastating 1980 eruption remains the most significant volcanic event in US history, providing invaluable data on lateral blast dynamics.",
+  "geojson": "st-helens.geojson"
+}

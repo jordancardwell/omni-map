@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1734305556,
+          6.7171694444
+        ]
+      },
+      "properties": {
+        "code": "mount-hamiguitan-range-wildlife-sanctuary",
+        "name": "Mount Hamiguitan Range Wildlife Sanctuary",
+        "type": "Natural",
+        "country": "Philippines",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

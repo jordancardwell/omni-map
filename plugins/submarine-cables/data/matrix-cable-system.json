@@ -1,0 +1,18 @@
+{
+  "code": "matrix-cable-system",
+  "name": "Matrix Cable System",
+  "capacityTbps": 30,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1800,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Telin, Singtel",
+  "landingPoints": [
+    "Singapore",
+    "Batam, Indonesia",
+    "Dumai, Indonesia",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "Regional cable connecting Singapore to Indonesia and Malaysia.",
+  "geojson": "matrix-cable-system.geojson"
+}

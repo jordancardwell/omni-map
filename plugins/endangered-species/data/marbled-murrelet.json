@@ -1,0 +1,19 @@
+{
+  "code": "marbled-murrelet",
+  "name": "Marbled Murrelet",
+  "scientificName": "Brachyramphus marmoratus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~20,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Old-growth coastal forest and ocean",
+  "threats": [
+    "Logging of nesting habitat",
+    "Oil spills",
+    "Gillnet bycatch",
+    "Predation"
+  ],
+  "conservationEfforts": "Listed under US Endangered Species Act. Critical habitat designated in old-growth forests. Oil spill response plans protect marine habitat.",
+  "description": "A small seabird with an unusual nesting strategy — it nests high in old-growth trees up to 60 km from the ocean. Loss of old-growth forest is its primary threat.",
+  "geojson": "marbled-murrelet.geojson"
+}

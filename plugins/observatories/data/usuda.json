@@ -1,0 +1,20 @@
+{
+  "code": "usuda",
+  "name": "Usuda Deep Space Center",
+  "country": "Japan",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1456,
+  "aperture": "64 m",
+  "telescopes": [
+    "Usuda 64m"
+  ],
+  "keyDiscoveries": [
+    "Spacecraft communication",
+    "VLBI observations",
+    "Planetary probe support"
+  ],
+  "location": "Usuda Deep Space Center, Japan",
+  "description": "JAXA's deep space communication facility with a 64m antenna. Supports Japanese space missions and participates in VLBI radio astronomy observations.",
+  "geojson": "usuda.geojson"
+}

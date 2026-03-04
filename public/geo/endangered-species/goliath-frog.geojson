@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"goliath-frog","name":"Goliath Frog"},"geometry":{"type":"Polygon","coordinates":[[[8.5,3.5],[10.5,3.5],[11,4.5],[10.5,5.5],[9,5.5],[8,4.5],[8.5,3.5]]]}}]}

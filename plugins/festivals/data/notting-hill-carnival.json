@@ -1,0 +1,14 @@
+{
+  "code": "notting-hill-carnival",
+  "name": "Notting Hill Carnival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Last weekend of August",
+  "origin": "Afro-Caribbean British tradition",
+  "estimatedAttendance": "2+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Sound systems playing soca, reggae, calypso; elaborate masquerade costumes; steel pan bands; Caribbean food stalls; parade through streets.",
+  "historicalBackground": "Notting Hill Carnival began in 1966, organized by Trinidadian Claudia Jones as a response to racial tensions. It grew into Europe's largest street festival.",
+  "description": "Europe's largest street festival, celebrating Afro-Caribbean culture with vibrant music, dance, and costumes in London's Notting Hill neighborhood.",
+  "location": "London, UK",
+  "geojson": "notting-hill-carnival.geojson"
+}

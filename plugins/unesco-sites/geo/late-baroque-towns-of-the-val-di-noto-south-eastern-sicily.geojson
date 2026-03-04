@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.06891667,
+          36.89319444
+        ]
+      },
+      "properties": {
+        "code": "late-baroque-towns-of-the-val-di-noto-south-eastern-sicily",
+        "name": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

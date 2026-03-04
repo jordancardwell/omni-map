@@ -1,0 +1,16 @@
+{
+  "code": "aw-cw-cable",
+  "name": "AW-CW Cable",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 681,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "UTS",
+  "landingPoints": [
+    "Oranjestad, Aruba",
+    "Willemstad, Curaçao"
+  ],
+  "description": "AW-CW Cable connecting Oranjestad to Willemstad.",
+  "geojson": "aw-cw-cable.geojson"
+}

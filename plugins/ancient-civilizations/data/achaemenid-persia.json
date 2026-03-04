@@ -1,0 +1,12 @@
+{
+  "code": "achaemenid-persia",
+  "name": "Achaemenid Persian Empire",
+  "period": "c. 550–330 BCE",
+  "region": "Middle East",
+  "type": "Civilization",
+  "writingSystem": "Old Persian cuneiform",
+  "majorAchievements": ["Royal Road postal system", "Satrapy governance", "Persepolis", "Zoroastrianism", "Qanat irrigation", "Human rights (Cyrus Cylinder)"],
+  "keyCities": ["Persepolis", "Susa", "Pasargadae", "Ecbatana", "Babylon"],
+  "description": "The Achaemenid Empire, founded by Cyrus the Great, was the largest empire the world had yet seen, stretching from Egypt to the Indus Valley. It pioneered effective governance of diverse peoples through the satrapy system, built the Royal Road for rapid communication, and promoted cultural tolerance. The Cyrus Cylinder is sometimes considered the first declaration of human rights.",
+  "geojson": "achaemenid-persia.geojson"
+}

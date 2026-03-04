@@ -1,0 +1,19 @@
+{
+  "code": "lax-sea",
+  "name": "Los Angeles — Seattle",
+  "airports": [
+    "LAX",
+    "SEA"
+  ],
+  "distanceKm": 1537,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Alaska",
+    "Delta",
+    "Southwest"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LAX–SEA route between Los Angeles and Seattle. Distance: 1,537 km. ~100 weekly flights operated by Alaska, Delta, Southwest.",
+  "geojson": "lax-sea.geojson"
+}

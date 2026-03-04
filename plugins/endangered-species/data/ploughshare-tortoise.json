@@ -1,0 +1,18 @@
+{
+  "code": "ploughshare-tortoise",
+  "name": "Ploughshare Tortoise",
+  "scientificName": "Astrochelys yniphora",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~400 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Dry deciduous forest and bamboo scrub",
+  "threats": [
+    "Illegal pet trade",
+    "Habitat loss",
+    "Bushfires"
+  ],
+  "conservationEfforts": "Durrell Wildlife Conservation Trust breeds captive tortoises. Engraving shells with identification codes makes them less desirable to collectors. Anti-poaching patrols at Baly Bay.",
+  "description": "Madagascar's rarest tortoise, found only around Baly Bay. It has a distinctive ploughshare-shaped projection on the chest used in male combat. Each tortoise is worth up to $50,000 on the black market.",
+  "geojson": "ploughshare-tortoise.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "calypso",
+  "name": "Calypso",
+  "region": "Trinidad & Tobago",
+  "traditionFamily": "Caribbean",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Steel Pan",
+    "Guitar",
+    "Cuatro",
+    "Bass",
+    "Percussion"
+  ],
+  "keyArtists": [
+    "Lord Kitchener",
+    "Mighty Sparrow",
+    "Lord Invader",
+    "Calypso Rose",
+    "Harry Belafonte"
+  ],
+  "description": "Calypso is a style of Afro-Caribbean music that originated in Trinidad & Tobago in the early 20th century. Growing from the kaiso tradition and African call-and-response, calypso features rhythmic, syncopated melodies with topical, often satirical lyrics commenting on social and political issues. The steel pan, Trinidad's national instrument, evolved alongside calypso.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Calypso",
+      "url": "https://folkways.si.edu/search?query=calypso"
+    }
+  ],
+  "geojson": "calypso.geojson"
+}

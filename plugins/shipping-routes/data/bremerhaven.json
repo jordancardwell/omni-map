@@ -1,0 +1,14 @@
+{
+  "code": "bremerhaven",
+  "name": "Port of Bremerhaven",
+  "country": "Germany",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 50,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route"
+  ],
+  "description": "Port of Bremerhaven in Germany. Annual cargo throughput: ~50 million tons. Type: Container Port.",
+  "geojson": "bremerhaven.geojson"
+}

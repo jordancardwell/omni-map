@@ -1,0 +1,17 @@
+{
+  "code": "doh-muc",
+  "name": "Doha — Munich",
+  "airports": [
+    "DOH",
+    "MUC"
+  ],
+  "distanceKm": 4302,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–MUC route between Doha and Munich. Distance: 4,302 km. ~25 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-muc.geojson"
+}

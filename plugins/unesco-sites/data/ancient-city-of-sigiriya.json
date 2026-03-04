@@ -1,0 +1,16 @@
+{
+  "code": "ancient-city-of-sigiriya",
+  "name": "Ancient City of Sigiriya",
+  "type": "Cultural",
+  "country": "Sri Lanka",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site.",
+  "danger": false,
+  "geojson": "ancient-city-of-sigiriya.geojson"
+}

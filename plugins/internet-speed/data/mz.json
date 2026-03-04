@@ -1,0 +1,17 @@
+{
+  "code": "mz",
+  "name": "Mozambique",
+  "avgDownloadMbps": 8.4,
+  "avgUploadMbps": 2.8,
+  "avgLatencyMs": 42,
+  "mobileDownloadMbps": 8.6,
+  "mobileUploadMbps": 2.2,
+  "fixedDownloadMbps": 8.4,
+  "fixedUploadMbps": 2.8,
+  "rank": 148,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Limited infrastructure but growing. ~14% year-over-year growth.",
+  "geojson": "mz.geojson"
+}

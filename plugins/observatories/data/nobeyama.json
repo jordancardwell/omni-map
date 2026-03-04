@@ -1,0 +1,21 @@
+{
+  "code": "nobeyama",
+  "name": "Nobeyama Radio Observatory",
+  "country": "Japan",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1350,
+  "aperture": "45 m",
+  "telescopes": [
+    "Nobeyama 45m",
+    "Nobeyama Millimeter Array"
+  ],
+  "keyDiscoveries": [
+    "Molecular cloud mapping",
+    "Star formation regions",
+    "Galactic plane surveys"
+  ],
+  "location": "Nobeyama Radio Observatory, Japan",
+  "description": "NAOJ millimeter-wave observatory at the Nobeyama highlands. The 45m telescope is the largest millimeter-wave telescope operating at sea-level-equivalent altitude.",
+  "geojson": "nobeyama.geojson"
+}

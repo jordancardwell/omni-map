@@ -1,0 +1,21 @@
+{
+  "code": "sakurajima-south",
+  "name": "Minamidake (Sakurajima)",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1040,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic bombs",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "The Minamidake summit crater is the most active vent of Sakurajima, producing hundreds to thousands of explosive events per year.",
+  "description": "Minamidake is the most active summit crater of Sakurajima volcano, producing near-daily explosions that shower ash on Kagoshima city.",
+  "geojson": "sakurajima-south.geojson"
+}

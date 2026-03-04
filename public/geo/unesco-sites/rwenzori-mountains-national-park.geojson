@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92416667,
+          0.223611111
+        ]
+      },
+      "properties": {
+        "code": "rwenzori-mountains-national-park",
+        "name": "Rwenzori Mountains National Park",
+        "type": "Natural",
+        "country": "Uganda",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

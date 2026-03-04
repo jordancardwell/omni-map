@@ -1,0 +1,16 @@
+{
+  "code": "cop",
+  "name": "Colombian Peso",
+  "isoCode": "COP",
+  "symbol": "COL$",
+  "region": "Americas",
+  "centralBank": "Bank of the Republic",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Colombia"
+  ],
+  "countryCount": 1,
+  "description": "The Colombian Peso is the currency of Colombia, the fourth-largest economy in Latin America, known for coffee and emerald exports.",
+  "historicalNotes": "The peso has been Colombia's currency since 1837, replacing the real. Colombia adopted inflation targeting in 1999 and has maintained relative monetary stability.",
+  "geojson": "cop.geojson"
+}

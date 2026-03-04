@@ -1,0 +1,20 @@
+{
+  "code": "atca",
+  "name": "Australia Telescope Compact Array",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 217,
+  "aperture": "6 × 22 m antennas",
+  "telescopes": [
+    "ATCA"
+  ],
+  "keyDiscoveries": [
+    "Radio supernovae",
+    "Hydrogen surveys",
+    "Magnetar radio emission"
+  ],
+  "location": "Australia Telescope Compact Array, Australia",
+  "description": "Six 22m antennas near Narrabri forming a radio interferometer. Part of the Australia Telescope National Facility for centimeter-wavelength observations.",
+  "geojson": "atca.geojson"
+}

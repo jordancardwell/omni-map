@@ -1,0 +1,17 @@
+{
+  "code": "namib-sand-sea",
+  "name": "Namib Sand Sea",
+  "type": "Natural",
+  "country": "Namibia",
+  "yearInscribed": "2013",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Namib Sand Sea is the only coastal desert in the world that includes extensive dune fields influenced by fog. Covering an area of over three million hectares and a buffer zone of 899,500 hectares, the site is composed of two dune systems, an ancient semi-consolidated one overlain by a younger active one. The desert dunes are formed by the transportation of materials thousands of kilometres from the hinterland, that are carried by river, ocean current and wind. It features gravel plains, coastal flats, rocky hills, inselbergs within the sand sea, a coastal lagoon and ephemeral rivers, resulting in a landscape of exceptional beauty. Fog is the primary source of water in the site, accounting for a unique environment in which endemic invertebrates, reptiles and mammals adapt to an ever-changing variety of microhabitats and ecological niches.",
+  "danger": false,
+  "geojson": "namib-sand-sea.geojson"
+}

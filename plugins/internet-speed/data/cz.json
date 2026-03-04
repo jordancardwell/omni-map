@@ -1,0 +1,17 @@
+{
+  "code": "cz",
+  "name": "Czech Republic",
+  "avgDownloadMbps": 128.4,
+  "avgUploadMbps": 48.2,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 47.8,
+  "mobileUploadMbps": 10.3,
+  "fixedDownloadMbps": 128.4,
+  "fixedUploadMbps": 48.2,
+  "rank": 35,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Improving fixed broadband market. ~11% year-over-year growth.",
+  "geojson": "cz.geojson"
+}

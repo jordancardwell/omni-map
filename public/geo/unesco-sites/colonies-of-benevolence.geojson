@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3915888889,
+          53.0422222222
+        ]
+      },
+      "properties": {
+        "code": "colonies-of-benevolence",
+        "name": "Colonies of Benevolence",
+        "type": "Cultural",
+        "country": "Belgium, Netherlands (Kingdom of the)",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

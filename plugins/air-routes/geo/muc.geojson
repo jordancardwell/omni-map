@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"muc","name":"Munich Airport","featureType":"airport","iataCode":"MUC","annualPassengers":44500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[11.7861,48.3538]}}]}

@@ -1,0 +1,17 @@
+{
+  "code": "fi",
+  "name": "Finland",
+  "avgDownloadMbps": 110.8,
+  "avgUploadMbps": 38.4,
+  "avgLatencyMs": 13,
+  "mobileDownloadMbps": 68.2,
+  "mobileUploadMbps": 14.6,
+  "fixedDownloadMbps": 110.8,
+  "fixedUploadMbps": 38.4,
+  "rank": 42,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Strong mobile broadband, fixed improving. ~6% year-over-year growth.",
+  "geojson": "fi.geojson"
+}

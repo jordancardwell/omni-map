@@ -1,0 +1,16 @@
+{
+  "code": "naro-space-center",
+  "name": "Naro Space Center",
+  "country": "South Korea",
+  "operator": "KARI / KASA",
+  "coordinates": "34.4316°N, 127.5350°E",
+  "status": "Active",
+  "notableLaunches": [
+    "KSLV-II Nuri (first successful 2023)",
+    "Next-generation launch vehicle tests"
+  ],
+  "orbitalInclinationRange": "34°–98°",
+  "location": "Naro Space Center, South Korea",
+  "description": "South Korea's first spaceport on Oenaro Island. Successfully launched the domestically developed Nuri (KSLV-II) rocket, making South Korea the 7th nation with indigenous orbital capability.",
+  "geojson": "naro-space-center.geojson"
+}

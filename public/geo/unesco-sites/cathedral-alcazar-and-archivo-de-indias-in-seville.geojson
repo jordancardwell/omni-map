@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99155,
+          37.38384
+        ]
+      },
+      "properties": {
+        "code": "cathedral-alcazar-and-archivo-de-indias-in-seville",
+        "name": "Cathedral, Alcázar and Archivo de Indias in Seville",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

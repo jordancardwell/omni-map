@@ -1,0 +1,14 @@
+{
+  "code": "carnival-recife",
+  "name": "Carnival of Recife and Olinda",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Afro-Brazilian tradition",
+  "estimatedAttendance": "1.5+ million per day",
+  "unescoICH": "Frevo inscribed 2012",
+  "traditions": "Galo da Madrugada (world's largest carnival block); frevo dancing with colorful umbrellas; maracatu drumming; giant puppets in Olinda.",
+  "historicalBackground": "Recife and Olinda's carnival preserves distinct Northeast Brazilian traditions including frevo (invented in Recife around 1900) and maracatu of African origin.",
+  "description": "Brazil's most culturally rich carnival, blending frevo's acrobatic dancing with maracatu drumming and Olinda's giant puppet parades.",
+  "location": "Recife, Brazil",
+  "geojson": "carnival-recife.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39638889,
+          43.72305556
+        ]
+      },
+      "properties": {
+        "code": "piazza-del-duomo-pisa",
+        "name": "Piazza del Duomo, Pisa",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

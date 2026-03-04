@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.40556,
+          34.75833
+        ]
+      },
+      "properties": {
+        "code": "paphos",
+        "name": "Paphos",
+        "type": "Cultural",
+        "country": "Cyprus",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

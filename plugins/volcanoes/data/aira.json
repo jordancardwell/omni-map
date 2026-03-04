@@ -1,0 +1,21 @@
+{
+  "code": "aira",
+  "name": "Aira Caldera",
+  "volcanoType": "Caldera",
+  "status": "Erupting/Recent",
+  "elevation": 1117,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "The massive caldera hosts Sakurajima volcano. A catastrophic eruption 22,000 years ago ejected over 150 km³ of material.",
+  "description": "Aira is a massive caldera in southern Kyushu that formed ~22,000 years ago. Sakurajima volcano sits within the caldera and is one of Japan's most active volcanoes.",
+  "geojson": "aira.geojson"
+}

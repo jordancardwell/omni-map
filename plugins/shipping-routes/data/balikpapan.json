@@ -1,0 +1,14 @@
+{
+  "code": "balikpapan",
+  "name": "Port of Balikpapan",
+  "country": "Indonesia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 25,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Southeast Asian Straits"
+  ],
+  "description": "Port of Balikpapan in Indonesia. Annual cargo throughput: ~25 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "balikpapan.geojson"
+}

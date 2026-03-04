@@ -1,0 +1,15 @@
+{
+  "code": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+  "name": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+  "type": "Cultural",
+  "country": "Egypt",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "The capital of the Old Kingdom of Egypt has some extraordinary funerary monuments, including rock tombs, ornate mastabas, temples and pyramids. In ancient times, the site was considered one of the Seven Wonders of the World.",
+  "danger": false,
+  "geojson": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur.geojson"
+}

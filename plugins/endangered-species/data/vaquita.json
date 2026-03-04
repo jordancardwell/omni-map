@@ -1,0 +1,18 @@
+{
+  "code": "vaquita",
+  "name": "Vaquita",
+  "scientificName": "Phocoena sinus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~10 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Marine (Gulf of California)",
+  "threats": [
+    "Bycatch in gillnets",
+    "Illegal totoaba fishing",
+    "Small population size"
+  ],
+  "conservationEfforts": "Mexico banned gillnet fishing in the vaquita's range. VaquitaCPR attempted emergency capture and breeding but was suspended due to stress on captured animals.",
+  "description": "The world's most endangered marine mammal, the vaquita is a tiny porpoise found only in the northern Gulf of California, Mexico. Its population has declined catastrophically due to entanglement in illegal gillnets.",
+  "geojson": "vaquita.geojson"
+}

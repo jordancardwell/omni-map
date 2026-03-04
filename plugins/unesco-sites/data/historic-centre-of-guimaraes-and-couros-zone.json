@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-guimaraes-and-couros-zone",
+  "name": "Historic Centre of Guimarães and Couros Zone",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The historic town of Guimarães is associated with the emergence of the Portuguese national identity in the 12th century. An exceptionally well-preserved and authentic example of the evolution of a medieval settlement into a modern town, its rich building typology exemplifies the specific development of Portuguese architecture from the 15th to 19th century through the consistent use of traditional building materials and techniques. The property includes two monastic complexes and an industrial area, the Couros Zone, which, like the local river, was named after the traditional craft of leather tanning. Evidence of the craft, though no longer practiced, persists in the form of tanneries, workers' houses and urban spaces from the 19th and early 20th centuries. The property bears witness to a thousand years of Portuguese urban, architectural and societal developments.",
+  "danger": false,
+  "geojson": "historic-centre-of-guimaraes-and-couros-zone.geojson"
+}

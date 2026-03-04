@@ -1,0 +1,21 @@
+{
+  "code": "nancay",
+  "name": "Nançay Radio Observatory",
+  "country": "France",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 150,
+  "aperture": "Equivalent 94 m (decimetric array)",
+  "telescopes": [
+    "Nançay Decimetric Radio Telescope",
+    "NenuFAR"
+  ],
+  "keyDiscoveries": [
+    "Pulsar timing",
+    "Cometary observations",
+    "Exoplanet radio emission searches"
+  ],
+  "location": "Nançay Radio Observatory, France",
+  "description": "Paris Observatory station in Sologne. The decimetric telescope and new NenuFAR low-frequency array study pulsars, exoplanets, and the Sun.",
+  "geojson": "nancay.geojson"
+}

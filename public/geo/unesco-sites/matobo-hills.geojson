@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          -20.5
+        ]
+      },
+      "properties": {
+        "code": "matobo-hills",
+        "name": "Matobo Hills",
+        "type": "Cultural",
+        "country": "Zimbabwe",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

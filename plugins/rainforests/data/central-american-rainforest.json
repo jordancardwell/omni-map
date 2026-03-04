@@ -1,0 +1,21 @@
+{
+  "code": "central-american-rainforest",
+  "name": "Central American Rainforest",
+  "country": "Guatemala, Belize, Honduras, Nicaragua, Costa Rica, Panama",
+  "forestType": "Tropical",
+  "areaKm2": 195000,
+  "intactness": "Moderately Degraded",
+  "changeSince2000": "-12.1% (approximately 23,600 km² lost)",
+  "annualLossRate": "0.5–0.6% per year",
+  "threats": [
+    "Cattle ranching",
+    "Palm oil plantations",
+    "Narco-trafficking (land clearing)",
+    "Agricultural expansion",
+    "Illegal logging",
+    "Fire"
+  ],
+  "conservationStatus": "Mesoamerican Biological Corridor aims to connect protected areas. Maya Biosphere Reserve (Guatemala) is the largest protected area. Costa Rica has achieved ~52% forest cover through reforestation. REDD+ programs active in several countries. However, Guatemala and Honduras face high deforestation rates driven by cattle and narco-land clearing.",
+  "description": "The **Central American Rainforest** spans the tropical moist forests from southern Mexico through Panama, forming a critical biological bridge between North and South America. The region contains exceptional biodiversity and the largest remaining tropical forests north of the Amazon.\n\n### Key Statistics\n- **Biodiversity**: ~17,000 plant species, 1,120+ bird species, 440+ mammal species\n- **Mesoamerican Corridor**: Biological bridge enabling species migration between continents\n- **Key forests**: Petén (Guatemala), Mosquito Coast (Honduras/Nicaragua), Darién (Panama)\n- **Cloud forests**: High-altitude forests with exceptional epiphyte diversity\n\n### Deforestation Trends\nThe IFL 2020 data shows mixed trends: Costa Rica has increased forest cover, while Guatemala, Honduras, and Nicaragua continue to lose forests rapidly. Narco-trafficking has emerged as a significant deforestation driver, with drug organizations clearing forest for cattle ranches to launder money. The Maya Biosphere Reserve has lost significant forest in recent years despite its protected status.",
+  "geojson": "central-american-rainforest.geojson"
+}

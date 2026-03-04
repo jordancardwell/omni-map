@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.17694,
+          -24.15861
+        ]
+      },
+      "properties": {
+        "code": "fossil-hominid-sites-of-south-africa",
+        "name": "Fossil Hominid Sites of South Africa",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

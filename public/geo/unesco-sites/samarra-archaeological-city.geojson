@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8235430555,
+          34.3409894444
+        ]
+      },
+      "properties": {
+        "code": "samarra-archaeological-city",
+        "name": "Samarra Archaeological City",
+        "type": "Cultural",
+        "country": "Iraq",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

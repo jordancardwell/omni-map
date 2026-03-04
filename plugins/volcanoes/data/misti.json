@@ -1,0 +1,21 @@
+{
+  "code": "misti",
+  "name": "El Misti",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 5822,
+  "lastEruption": "1470",
+  "vei": 3,
+  "country": "Peru",
+  "region": "Arequipa",
+  "location": "Arequipa, Peru",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Last erupted around 1470 CE. The city of Arequipa (1 million people) sits at its base, making it one of the most dangerous dormant volcanoes.",
+  "description": "El Misti towers over the city of Arequipa, Peru's second-largest city. Despite dormancy since ~1470, it poses extreme risk due to the large population at its base.",
+  "geojson": "misti.geojson"
+}

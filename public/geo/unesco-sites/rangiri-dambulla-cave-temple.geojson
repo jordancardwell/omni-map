@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64916667,
+          7.856666667
+        ]
+      },
+      "properties": {
+        "code": "rangiri-dambulla-cave-temple",
+        "name": "Rangiri Dambulla Cave Temple",
+        "type": "Cultural",
+        "country": "Sri Lanka",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

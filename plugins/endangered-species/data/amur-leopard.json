@@ -1,0 +1,19 @@
+{
+  "code": "amur-leopard",
+  "name": "Amur Leopard",
+  "scientificName": "Panthera pardus orientalis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~100 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Temperate broadleaf forest",
+  "threats": [
+    "Habitat loss",
+    "Poaching",
+    "Prey depletion",
+    "Inbreeding"
+  ],
+  "conservationEfforts": "Protected in Land of the Leopard National Park in Russia. Breeding programs in zoos worldwide have maintained a captive population of over 200.",
+  "description": "The Amur leopard is one of the rarest big cats on Earth, confined to a small area of temperate forest in the Russian Far East and northeast China. Unlike tropical leopards, it has adapted to harsh winters with a thick fur coat.",
+  "geojson": "amur-leopard.geojson"
+}

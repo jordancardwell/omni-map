@@ -1,0 +1,15 @@
+{
+  "code": "great-mosque-and-hospital-of-divrigi",
+  "name": "Great Mosque and Hospital of Divriği",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This region of Anatolia was conquered by the Turks at the beginning of the 11th century. In 1228–29 Emir Ahmet Shah founded a mosque, with its adjoining hospital, at Divrigi. The mosque has a single prayer room and is crowned by two cupolas. The highly sophisticated technique of vault construction, and a creative, exuberant type of decorative sculpture – particularly on the three doorways, in contrast to the unadorned walls of the interior – are the unique features of this masterpiece of Islamic architecture.",
+  "danger": false,
+  "geojson": "great-mosque-and-hospital-of-divrigi.geojson"
+}

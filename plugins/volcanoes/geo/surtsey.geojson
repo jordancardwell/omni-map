@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-20.605,63.3033]},"properties":{"code":"surtsey","name":"Surtsey","volcanoType":"Submarine volcano","status":"Dormant","elevation":155,"lastEruption":"1967","vei":3}}]}

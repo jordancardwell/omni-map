@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2894444444,
+          39.8897222222
+        ]
+      },
+      "properties": {
+        "code": "badain-jaran-desert-towers-of-sand-and-lakes",
+        "name": "Badain Jaran Desert - Towers of Sand and Lakes",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

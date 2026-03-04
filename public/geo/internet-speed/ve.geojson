@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ve","name":"Venezuela","country":"VE","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-73.3,0.6],[-73.3,12.2],[-59.8,12.2],[-59.8,0.6],[-73.3,0.6]]]}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.98667,
+          31.63139
+        ]
+      },
+      "properties": {
+        "code": "medina-of-marrakesh",
+        "name": "Medina of Marrakesh",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

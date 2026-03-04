@@ -1,0 +1,18 @@
+{
+  "code": "ua",
+  "name": "Ukraine",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "F"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Same as Germany. Standard European plugs.",
+  "geojson": "ua.geojson"
+}

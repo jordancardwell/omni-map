@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.815,
+          43.3373055556
+        ]
+      },
+      "properties": {
+        "code": "old-bridge-area-of-the-old-city-of-mostar",
+        "name": "Old Bridge Area of the Old City of Mostar",
+        "type": "Cultural",
+        "country": "Bosnia and Herzegovina",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

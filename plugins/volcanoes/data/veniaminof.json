@@ -1,0 +1,21 @@
+{
+  "code": "veniaminof",
+  "name": "Mount Veniaminof",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2507,
+  "lastEruption": "2021",
+  "vei": 3,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "One of the largest and most active volcanoes in the Aleutian arc. Contains an 8 km caldera with an ice-filled cone.",
+  "description": "Mount Veniaminof is one of the largest volcanoes on the Alaska Peninsula, with a massive ice-filled caldera. Eruptions melt through the glacier producing steam and ash.",
+  "geojson": "veniaminof.geojson"
+}

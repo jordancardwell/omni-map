@@ -1,0 +1,16 @@
+{
+  "code": "the-cathedral-of-st-james-in-sibenik",
+  "name": "The Cathedral of St James in Šibenik",
+  "type": "Cultural",
+  "country": "Croatia",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Cathedral of St James in Šibenik (1431-1535), on the Dalmatian coast, bears witness to the considerable exchanges in the field of monumental arts between Northern Italy, Dalmatia and Tuscany in the 15th and 16th centuries. The three architects who succeeded one another in the construction of the Cathedral - Francesco di Giacomo, Georgius Mathei Dalmaticus and Niccolò di Giovanni Fiorentino - developed a structure built entirely from stone and using unique construction techniques for the vaulting and the dome of the Cathedral. The form and the decorative elements of the Cathedral, such as a remarkable frieze decorated with 71 sculptured faces of men, women, and children, also illustrate the successful fusion of Gothic and Renaissance art.",
+  "danger": false,
+  "geojson": "the-cathedral-of-st-james-in-sibenik.geojson"
+}

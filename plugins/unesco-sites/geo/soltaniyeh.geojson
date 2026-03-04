@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.79667,
+          36.43528
+        ]
+      },
+      "properties": {
+        "code": "soltaniyeh",
+        "name": "Soltaniyeh",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

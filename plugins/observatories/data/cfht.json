@@ -1,0 +1,22 @@
+{
+  "code": "cfht",
+  "name": "Canada-France-Hawaii Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4204,
+  "aperture": "3.6 m",
+  "telescopes": [
+    "CFHT",
+    "MegaCam",
+    "SPIRou"
+  ],
+  "keyDiscoveries": [
+    "CFHT Legacy Survey",
+    "Kuiper Belt discoveries",
+    "Stellar magnetism"
+  ],
+  "location": "Canada-France-Hawaii Telescope, United States",
+  "description": "A 3.6m telescope on Mauna Kea operated by Canada, France, and Hawaii. Known for wide-field imaging surveys and the MegaCam instrument.",
+  "geojson": "cfht.geojson"
+}

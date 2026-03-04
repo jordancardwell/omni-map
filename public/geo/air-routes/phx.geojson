@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"phx","name":"Phoenix Sky Harbor International","featureType":"airport","iataCode":"PHX","annualPassengers":43000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[-112.0078,33.4373]}}]}

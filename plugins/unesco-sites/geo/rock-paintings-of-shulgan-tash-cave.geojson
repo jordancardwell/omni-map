@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0720277778,
+          53.0494444444
+        ]
+      },
+      "properties": {
+        "code": "rock-paintings-of-shulgan-tash-cave",
+        "name": "Rock Paintings of Shulgan-Tash Cave",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

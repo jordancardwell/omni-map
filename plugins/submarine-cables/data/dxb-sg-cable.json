@@ -1,0 +1,16 @@
+{
+  "code": "dxb-sg-cable",
+  "name": "DXB-SG Cable",
+  "capacityTbps": 35,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4633,
+  "yearLaid": 2022,
+  "rfsDate": "2022-06",
+  "owner": "Du",
+  "landingPoints": [
+    "Dubai, UAE",
+    "Singapore"
+  ],
+  "description": "DXB-SG Cable connecting Dubai to Singapore.",
+  "geojson": "dxb-sg-cable.geojson"
+}

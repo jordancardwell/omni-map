@@ -1,0 +1,17 @@
+{
+  "code": "ps",
+  "name": "Palestine",
+  "avgDownloadMbps": 14.6,
+  "avgUploadMbps": 4.2,
+  "avgLatencyMs": 42,
+  "mobileDownloadMbps": 12.8,
+  "mobileUploadMbps": 3,
+  "fixedDownloadMbps": 14.6,
+  "fixedUploadMbps": 4.2,
+  "rank": 126,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Infrastructure constraints limit speeds. ~8% year-over-year growth.",
+  "geojson": "ps.geojson"
+}

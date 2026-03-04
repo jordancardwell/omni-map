@@ -1,0 +1,14 @@
+{
+  "code": "hay-point",
+  "name": "Hay Point / Dalrymple Bay",
+  "country": "Australia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Japan–Australia Route"
+  ],
+  "description": "Hay Point / Dalrymple Bay in Australia. Annual cargo throughput: ~100 million tons. Type: Bulk Port.",
+  "geojson": "hay-point.geojson"
+}

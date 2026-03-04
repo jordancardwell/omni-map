@@ -1,0 +1,16 @@
+{
+  "code": "in-ke-cable",
+  "name": "IN-KE Cable",
+  "capacityTbps": 25,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13969,
+  "yearLaid": 2015,
+  "rfsDate": "2012-06",
+  "owner": "Bharti",
+  "landingPoints": [
+    "Mumbai, India",
+    "Mombasa, Kenya"
+  ],
+  "description": "IN-KE Cable connecting Mumbai to Mombasa.",
+  "geojson": "in-ke-cable.geojson"
+}

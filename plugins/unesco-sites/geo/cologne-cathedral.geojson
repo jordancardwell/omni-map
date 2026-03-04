@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.957222222,
+          50.94111111
+        ]
+      },
+      "properties": {
+        "code": "cologne-cathedral",
+        "name": "Cologne Cathedral",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

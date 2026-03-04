@@ -1,0 +1,17 @@
+{
+  "code": "vu",
+  "name": "Vanuatu",
+  "avgDownloadMbps": 8.6,
+  "avgUploadMbps": 2.8,
+  "avgLatencyMs": 44,
+  "mobileDownloadMbps": 10.4,
+  "mobileUploadMbps": 2.6,
+  "fixedDownloadMbps": 8.6,
+  "fixedUploadMbps": 2.8,
+  "rank": 147,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Oceania",
+  "dataYear": 2024,
+  "trendDescription": "Pacific island developing connectivity. ~12% year-over-year growth.",
+  "geojson": "vu.geojson"
+}

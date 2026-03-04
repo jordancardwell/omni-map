@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60934,
+          40.03645
+        ]
+      },
+      "properties": {
+        "code": "aranjuez-cultural-landscape",
+        "name": "Aranjuez Cultural Landscape",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

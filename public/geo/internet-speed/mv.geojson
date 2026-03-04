@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mv","name":"Maldives","country":"MV","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[72.7,-0.7],[72.7,7.1],[73.6,7.1],[73.6,-0.7],[72.7,-0.7]]]}}]}

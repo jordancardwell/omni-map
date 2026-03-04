@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.48944,
+          -8.54333
+        ]
+      },
+      "properties": {
+        "code": "komodo-national-park",
+        "name": "Komodo National Park",
+        "type": "Natural",
+        "country": "Indonesia",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

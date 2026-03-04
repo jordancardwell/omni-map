@@ -1,0 +1,14 @@
+{
+  "code": "tyre",
+  "name": "Tyre",
+  "type": "Cultural",
+  "country": "Lebanon",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "According to legend, purple dye was invented in Tyre. This great Phoenician city ruled the seas and founded prosperous colonies such as Cadiz and Carthage, but its historical role declined at the end of the Crusades. There are important archaeological remains, mainly from Roman times.",
+  "danger": false,
+  "geojson": "tyre.geojson"
+}

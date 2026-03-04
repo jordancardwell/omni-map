@@ -1,0 +1,21 @@
+{
+  "code": "indian-deep-space",
+  "name": "Indian Deep Space Network",
+  "country": "India",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 821,
+  "aperture": "32 m + 18 m",
+  "telescopes": [
+    "DSN 32m",
+    "DSN 18m"
+  ],
+  "keyDiscoveries": [
+    "Chandrayaan/Mangalyaan support",
+    "VLBI participation",
+    "Spacecraft tracking"
+  ],
+  "location": "Indian Deep Space Network, India",
+  "description": "ISRO's Deep Space Network at Byalalu near Bangalore. The 32m dish supports India's interplanetary missions and participates in radio astronomy.",
+  "geojson": "indian-deep-space.geojson"
+}

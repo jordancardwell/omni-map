@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.987893,
+          43.694858
+        ]
+      },
+      "properties": {
+        "code": "rock-hewn-churches-of-ivanovo",
+        "name": "Rock-Hewn Churches of Ivanovo",
+        "type": "Cultural",
+        "country": "Bulgaria",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

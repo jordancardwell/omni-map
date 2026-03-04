@@ -1,0 +1,12 @@
+{
+  "code": "ancient-rome",
+  "name": "Ancient Rome",
+  "period": "c. 753 BCE – 476 CE",
+  "region": "Europe",
+  "type": "Civilization",
+  "writingSystem": "Latin alphabet",
+  "majorAchievements": ["Roman law", "Aqueducts", "Road network", "Concrete architecture", "Republican government", "Pax Romana"],
+  "keyCities": ["Rome", "Pompeii", "Carthage", "Constantinople", "Londinium"],
+  "description": "Ancient Rome grew from a small city-state on the Italian peninsula to become the largest empire in the ancient Western world. Roman innovations in law, engineering, architecture, and governance formed the backbone of Western civilization. The Roman road network, aqueducts, and legal system established patterns that persisted for centuries after the empire's fall.",
+  "geojson": "ancient-rome.geojson"
+}

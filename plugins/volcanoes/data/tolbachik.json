@@ -1,0 +1,21 @@
+{
+  "code": "tolbachik",
+  "name": "Tolbachik",
+  "volcanoType": "Shield volcano",
+  "status": "Historically Active",
+  "elevation": 3682,
+  "lastEruption": "2013",
+  "vei": 4,
+  "country": "Russia",
+  "region": "Kamchatka",
+  "location": "Kamchatka, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Tephra"
+  ],
+  "eruptionHistory": "The 2012-2013 flank eruption produced extensive lava flows. The 1975-1976 'Great Tolbachik Fissure Eruption' was one of the largest basaltic eruptions of the 20th century.",
+  "description": "Tolbachik is a large volcanic massif consisting of two overlapping stratovolcanoes. Its effusive eruptions produce spectacular lava flows visible from space.",
+  "geojson": "tolbachik.geojson"
+}

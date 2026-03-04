@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.89038,
+          43.73629
+        ]
+      },
+      "properties": {
+        "code": "the-cathedral-of-st-james-in-sibenik",
+        "name": "The Cathedral of St James in Šibenik",
+        "type": "Cultural",
+        "country": "Croatia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "jfk",
+  "name": "John F. Kennedy International",
+  "iataCode": "JFK",
+  "city": "New York",
+  "country": "United States",
+  "annualPassengers": 60500000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "John F. Kennedy International (JFK) in New York, United States. Annual passengers: ~60.5M. Classification: Major Hub.",
+  "geojson": "jfk.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9675,
+          -13.532
+        ]
+      },
+      "properties": {
+        "code": "inti-raymi",
+        "name": "Inti Raymi",
+        "festivalType": "Cultural",
+        "dateOrSeason": "June 24",
+        "location": "Cusco, Peru"
+      }
+    }
+  ]
+}

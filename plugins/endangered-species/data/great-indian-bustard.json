@@ -1,0 +1,19 @@
+{
+  "code": "great-indian-bustard",
+  "name": "Great Indian Bustard",
+  "scientificName": "Ardeotis nigriceps",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~150 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Dry grassland and scrubland",
+  "threats": [
+    "Power line collisions",
+    "Habitat loss",
+    "Hunting",
+    "Renewable energy development"
+  ],
+  "conservationEfforts": "Supreme Court of India ordered power lines in bustard habitat to be moved underground. Breeding centers established. Desert National Park Sanctuary protects key habitat.",
+  "description": "Once widespread across the Indian subcontinent, this massive bird (one of the heaviest flying birds at 15 kg) has declined by 90% in 50 years, primarily due to collisions with power lines.",
+  "geojson": "great-indian-bustard.geojson"
+}

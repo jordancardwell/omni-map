@@ -1,0 +1,14 @@
+{
+  "code": "powwow-gathering-nations",
+  "name": "Gathering of Nations Powwow",
+  "festivalType": "Cultural",
+  "dateOrSeason": "April",
+  "origin": "Native American tradition",
+  "estimatedAttendance": "100,000+ visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Competitive dancing (fancy, jingle, grass, traditional); drumming and singing; Indian Trader's Market; Miss Indian World pageant.",
+  "historicalBackground": "The Gathering of Nations began in 1983 and has grown into North America's largest powwow, bringing together over 700 tribes.",
+  "description": "North America's largest powwow, uniting over 700 Native American and Indigenous nations in spectacular competitive dance and song.",
+  "location": "Albuquerque, USA",
+  "geojson": "powwow-gathering-nations.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7127777778,
+          47.7783333333
+        ]
+      },
+      "properties": {
+        "code": "churches-of-moldavia",
+        "name": "Churches of Moldavia",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.65583333,
+          9.553888889
+        ]
+      },
+      "properties": {
+        "code": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo",
+        "name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+        "type": "Cultural",
+        "country": "Panama",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

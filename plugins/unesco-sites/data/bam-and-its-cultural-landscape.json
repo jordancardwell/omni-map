@@ -1,0 +1,17 @@
+{
+  "code": "bam-and-its-cultural-landscape",
+  "name": "Bam and its Cultural Landscape",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Bam is situated in a desert environment on the southern edge of the Iranian high plateau. The origins of Bam can be traced back to the Achaemenid period (6th to 4th centuries BC). Its heyday was from the 7th to 11th centuries, being at the crossroads of important trade routes and known for the production of silk and cotton garments. The existence of life in the oasis was based on the underground irrigation canals, the qanāts, of which Bam has preserved some of the earliest evidence in Iran. Arg-e Bam is the most representative example of a fortified medieval town built in vernacular technique using mud layers (Chineh ).",
+  "danger": false,
+  "geojson": "bam-and-its-cultural-landscape.geojson"
+}

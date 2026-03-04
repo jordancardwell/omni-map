@@ -1,0 +1,15 @@
+{
+  "code": "mosi-oa-tunya-victoria-falls",
+  "name": "Mosi-oa-Tunya / Victoria Falls",
+  "type": "Natural",
+  "country": "Zambia, Zimbabwe",
+  "yearInscribed": "1989",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Africa",
+  "description": "These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away.",
+  "danger": false,
+  "geojson": "mosi-oa-tunya-victoria-falls.geojson"
+}

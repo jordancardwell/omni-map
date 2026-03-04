@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.487222222,
+          48.4475
+        ]
+      },
+      "properties": {
+        "code": "chartres-cathedral",
+        "name": "Chartres Cathedral",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

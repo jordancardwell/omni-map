@@ -1,0 +1,20 @@
+{
+  "code": "hnd-icn",
+  "name": "Tokyo — Seoul",
+  "airports": [
+    "HND",
+    "ICN"
+  ],
+  "distanceKm": 1210,
+  "weeklyFlights": 200,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "Korean Air",
+    "Asiana"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "HND–ICN route between Tokyo and Seoul. Distance: 1,210 km. ~200 weekly flights operated by ANA, JAL, Korean Air, Asiana.",
+  "geojson": "hnd-icn.geojson"
+}

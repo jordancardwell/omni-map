@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0168333333,
+          43.323175
+        ]
+      },
+      "properties": {
+        "code": "vizcaya-bridge",
+        "name": "Vizcaya Bridge",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

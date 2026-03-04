@@ -1,0 +1,22 @@
+{
+  "code": "mount-john",
+  "name": "Mount John University Observatory",
+  "country": "New Zealand",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1029,
+  "aperture": "1.8 m (MOA)",
+  "telescopes": [
+    "MOA-II 1.8m",
+    "McLellan 1m",
+    "Boller & Chivens 0.6m"
+  ],
+  "keyDiscoveries": [
+    "Gravitational microlensing events",
+    "Exoplanet discoveries via microlensing",
+    "Variable stars"
+  ],
+  "location": "Mount John University Observatory, New Zealand",
+  "description": "University of Canterbury observatory near Lake Tekapo. The MOA (Microlensing Observations in Astrophysics) project has discovered exoplanets via gravitational microlensing.",
+  "geojson": "mount-john.geojson"
+}

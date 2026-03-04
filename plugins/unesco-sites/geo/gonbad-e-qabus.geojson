@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.169,
+          37.2580277778
+        ]
+      },
+      "properties": {
+        "code": "gonbad-e-qabus",
+        "name": "Gonbad-e Qābus",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

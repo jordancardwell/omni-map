@@ -1,0 +1,16 @@
+{
+  "code": "sea-kr-cable",
+  "name": "SEA-KR Cable",
+  "capacityTbps": 61,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11373,
+  "yearLaid": 2014,
+  "rfsDate": "2022-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Seattle, USA",
+    "Busan, South Korea"
+  ],
+  "description": "SEA-KR Cable connecting Seattle to Busan.",
+  "geojson": "sea-kr-cable.geojson"
+}

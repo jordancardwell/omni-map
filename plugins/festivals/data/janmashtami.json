@@ -1,0 +1,14 @@
+{
+  "code": "janmashtami",
+  "name": "Janmashtami",
+  "festivalType": "Religious",
+  "dateOrSeason": "August–September",
+  "origin": "Hindu tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fasting until midnight; Dahi Handi (human pyramids to break butter pots); devotional singing; theatrical enactments of Krishna's life (Ras Lila).",
+  "historicalBackground": "Janmashtami celebrates the birth of Lord Krishna, the eighth avatar of Vishnu. According to tradition, Krishna was born at midnight in a prison in Mathura.",
+  "description": "The birthday celebration of Lord Krishna, marked by midnight devotions, dramatic human pyramids, and joyous theatrical performances across India.",
+  "location": "Mathura, India",
+  "geojson": "janmashtami.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-atacama",
+        "name": "ALMA Observatory & Atacama Dark Sky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.755,
+          -23.023
+        ]
+      }
+    }
+  ]
+}

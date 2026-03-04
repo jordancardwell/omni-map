@@ -1,0 +1,22 @@
+{
+  "code": "utc+6h30",
+  "name": "Myanmar Time",
+  "nativeName": "UTC+06:30",
+  "utcOffset": "UTC+06:30",
+  "utcOffsetHours": 6.5,
+  "offsetGroup": "6. East (UTC+6 to +7)",
+  "ianaNames": [
+    "Asia/Yangon",
+    "Indian/Cocos"
+  ],
+  "countries": [
+    "Myanmar",
+    "Cocos (Keeling) Islands (Australia)"
+  ],
+  "dstRules": "No DST observed",
+  "description": "Used primarily by Myanmar (Burma), a country of over 54 million people in Southeast Asia. This half-hour offset timezone reflects Myanmar's geographic position between the Indian subcontinent and mainland Southeast Asia.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+6h30.geojson"
+}

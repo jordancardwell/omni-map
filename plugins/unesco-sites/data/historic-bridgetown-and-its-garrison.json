@@ -1,0 +1,16 @@
+{
+  "code": "historic-bridgetown-and-its-garrison",
+  "name": "Historic Bridgetown and its Garrison",
+  "type": "Cultural",
+  "country": "Barbados",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Historic Bridgetown and its Garrison, an outstanding example of British colonial architecture consisting of a well-preserved old town built in the 17th, 18th and 19th centuries, which testifies to the spread of Great Britain's Atlantic colonial empire. The property also includes a nearby military garrison which consists of numerous historic buildings. With its serpentine urban lay-out the property testifies to a different approach to colonial town-planning compared to the Spanish and Dutch colonial cities of the region which were built along a grid plan.",
+  "danger": false,
+  "geojson": "historic-bridgetown-and-its-garrison.geojson"
+}

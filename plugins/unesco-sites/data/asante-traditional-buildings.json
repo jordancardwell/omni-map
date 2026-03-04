@@ -1,0 +1,14 @@
+{
+  "code": "asante-traditional-buildings",
+  "name": "Asante Traditional Buildings",
+  "type": "Cultural",
+  "country": "Ghana",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "To the north-east of Kumasi, these are the last material remains of the great Asante civilization, which reached its high point in the 18th century. Since the dwellings are made of earth, wood and straw, they are vulnerable to the onslaught of time and weather.",
+  "danger": false,
+  "geojson": "asante-traditional-buildings.geojson"
+}

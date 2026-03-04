@@ -1,0 +1,16 @@
+{
+  "code": "kapustin-yar-v2",
+  "name": "Kapustin Yar V-2 Test Stand",
+  "country": "Russia",
+  "operator": "Soviet Ministry of Defense",
+  "coordinates": "48.5780°N, 46.2500°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Captured V-2 tests (1947)",
+    "R-1 missile development"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Kapustin Yar V-2 Test Stand, Russia",
+  "description": "The original V-2 test stand at Kapustin Yar where the Soviet Union first tested captured German V-2 rockets in 1947, beginning the Soviet space program's trajectory to Sputnik and beyond.",
+  "geojson": "kapustin-yar-v2.geojson"
+}

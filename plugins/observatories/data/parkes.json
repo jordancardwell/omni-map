@@ -1,0 +1,20 @@
+{
+  "code": "parkes",
+  "name": "Parkes Observatory (Murriyang)",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 392,
+  "aperture": "64 m",
+  "telescopes": [
+    "Murriyang 64m"
+  ],
+  "keyDiscoveries": [
+    "Thousands of pulsars",
+    "Fast radio bursts",
+    "Apollo 11 signal relay"
+  ],
+  "location": "Parkes Observatory (Murriyang), Australia",
+  "description": "Iconic 64m radio telescope in NSW, recently given the Wiradjuri name Murriyang. Discovered more pulsars than any other telescope and relayed Apollo 11 moonwalk images.",
+  "geojson": "parkes.geojson"
+}

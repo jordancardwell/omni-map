@@ -1,0 +1,14 @@
+{
+  "code": "millenary-benedictine-abbey-of-pannonhalma-and-its-natural-environment",
+  "name": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+  "type": "Cultural",
+  "country": "Hungary",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The first Benedictine monks settled here in 996. They went on to convert the Hungarians, to found the country's first school and, in 1055, to write the first document in Hungarian. From the time of its founding, this monastic community has promoted culture throughout central Europe. Its 1,000-year history can be seen in the succession of architectural styles of the monastic buildings (the oldest dating from 1224), which still today house a school and the monastic community.",
+  "danger": false,
+  "geojson": "millenary-benedictine-abbey-of-pannonhalma-and-its-natural-environment.geojson"
+}

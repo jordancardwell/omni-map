@@ -1,0 +1,21 @@
+{
+  "code": "lokon-empung",
+  "name": "Lokon-Empung",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1580,
+  "lastEruption": "2015",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Sulawesi",
+  "location": "Sulawesi, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in North Sulawesi. The Tompaluan crater between the twin peaks is the center of activity.",
+  "description": "Lokon-Empung is a twin volcano in North Sulawesi. The active crater between the two peaks produces frequent explosive eruptions.",
+  "geojson": "lokon-empung.geojson"
+}

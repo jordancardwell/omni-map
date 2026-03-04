@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.77197222,
+          41.94416667
+        ]
+      },
+      "properties": {
+        "code": "villa-adriana-tivoli",
+        "name": "Villa Adriana (Tivoli)",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

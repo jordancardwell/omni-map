@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.34886111,
+          -23.19986111
+        ]
+      },
+      "properties": {
+        "code": "quebrada-de-humahuaca",
+        "name": "Quebrada de Humahuaca",
+        "type": "Cultural",
+        "country": "Argentina",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

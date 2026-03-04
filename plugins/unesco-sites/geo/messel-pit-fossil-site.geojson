@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757,
+          49.918
+        ]
+      },
+      "properties": {
+        "code": "messel-pit-fossil-site",
+        "name": "Messel Pit Fossil Site",
+        "type": "Natural",
+        "country": "Germany",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

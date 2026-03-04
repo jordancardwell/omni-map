@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1325,
+          10.78305556
+        ]
+      },
+      "properties": {
+        "code": "great-living-chola-temples",
+        "name": "Great Living Chola Temples",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

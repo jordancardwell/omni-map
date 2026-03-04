@@ -1,0 +1,16 @@
+{
+  "code": "thungyai-huai-kha-khaeng-wildlife-sanctuaries",
+  "name": "Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+  "type": "Natural",
+  "country": "Thailand",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Stretching over more than 600,000 ha along the Myanmar border, the sanctuaries, which are relatively intact, contain examples of almost all the forest types of continental South-East Asia. They are home to a very diverse array of animals, including 77% of the large mammals (especially elephants and tigers), 50% of the large birds and 33% of the land vertebrates to be found in this region.",
+  "danger": false,
+  "geojson": "thungyai-huai-kha-khaeng-wildlife-sanctuaries.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "maputaland-pondoland-albany",
+  "name": "Maputaland-Pondoland-Albany",
+  "location": "Southeastern Africa (South Africa, Mozambique, Eswatini)",
+  "areaKm2": 274136,
+  "habitatRemaining": "29.5%",
+  "plantSpecies": 8100,
+  "endemicPlants": 1900,
+  "vertebrateSpecies": 732,
+  "endemicVertebrates": 72,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Coelacanth",
+    "Loggerhead turtle",
+    "Leatherback turtle",
+    "Samango monkey",
+    "Suni antelope"
+  ],
+  "threats": [
+    "Agriculture",
+    "Urban development",
+    "Mining",
+    "Invasive species",
+    "Overexploitation"
+  ],
+  "conservationEfforts": "iSimangaliso Wetland Park is a World Heritage Site. Pondoland Centre of Endemism is under increasing protection. Turtle nesting beach conservation in northern KwaZulu-Natal. Community conservancies established in Maputaland.",
+  "description": "The Maputaland-Pondoland-Albany hotspot stretches along the eastern coast of southern Africa from southern Mozambique through Eswatini and eastern South Africa. It includes subtropical coastal forests, grasslands, and one of Africa's most important marine environments.\n\nThe hotspot is notable for the discovery of the coelacanth — a 'living fossil' fish thought to have been extinct for 65 million years — off the coast of South Africa in 1938. The region's coastal dune forests are among the tallest in the world, and its grasslands support exceptional plant diversity with high endemism.",
+  "geojson": "maputaland-pondoland-albany.geojson"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-5-suburban",
+        "name": "Suburban Sky",
+        "region": "Outer suburbs of medium cities"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79,
+              38
+            ],
+            [
+              -75,
+              38
+            ],
+            [
+              -75,
+              41
+            ],
+            [
+              -79,
+              41
+            ],
+            [
+              -79,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-5-suburban",
+        "name": "Suburban Sky",
+        "region": "Small towns near highways"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              49
+            ],
+            [
+              7,
+              49
+            ],
+            [
+              7,
+              52
+            ],
+            [
+              3,
+              52
+            ],
+            [
+              3,
+              49
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-5-suburban",
+        "name": "Suburban Sky",
+        "region": "Suburban Connecticut, USA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139,
+              35
+            ],
+            [
+              141,
+              35
+            ],
+            [
+              141,
+              37
+            ],
+            [
+              139,
+              37
+            ],
+            [
+              139,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-5-suburban",
+        "name": "Suburban Sky",
+        "region": "Outer suburbs of European cities"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144,
+              -39
+            ],
+            [
+              147,
+              -39
+            ],
+            [
+              147,
+              -37
+            ],
+            [
+              144,
+              -37
+            ],
+            [
+              144,
+              -39
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"zm","name":"Zambia","country":"ZM","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[22,-18.1],[22,-8.2],[33.5,-8.2],[33.5,-18.1],[22,-18.1]]]}}]}

@@ -1,0 +1,22 @@
+{
+  "code": "drao",
+  "name": "Dominion Radio Astrophysical Observatory",
+  "country": "Canada",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 546,
+  "aperture": "26 m + Synthesis Array",
+  "telescopes": [
+    "26m dish",
+    "Synthesis Telescope",
+    "CHIME"
+  ],
+  "keyDiscoveries": [
+    "CHIME fast radio bursts",
+    "Hydrogen Intensity Mapping",
+    "Radio transient catalog"
+  ],
+  "location": "Dominion Radio Astrophysical Observatory, Canada",
+  "description": "NRC facility in Penticton, BC. Home of CHIME, the Canadian Hydrogen Intensity Mapping Experiment, which has detected hundreds of fast radio bursts.",
+  "geojson": "drao.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "msp-jfk",
+  "name": "Minneapolis — New York",
+  "airports": [
+    "MSP",
+    "JFK"
+  ],
+  "distanceKm": 1651,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–JFK route between Minneapolis and New York. Distance: 1,651 km. ~40 weekly flights operated by Delta.",
+  "geojson": "msp-jfk.geojson"
+}

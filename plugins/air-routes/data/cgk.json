@@ -1,0 +1,12 @@
+{
+  "code": "cgk",
+  "name": "Soekarno-Hatta International",
+  "iataCode": "CGK",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "annualPassengers": 37500000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Soekarno-Hatta International (CGK) in Jakarta, Indonesia. Annual passengers: ~37.5M. Classification: Regional Hub.",
+  "geojson": "cgk.geojson"
+}

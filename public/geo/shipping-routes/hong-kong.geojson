@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hong-kong","name":"Port of Hong Kong","featureType":"port","portType":"Container Port","country":"China"},"geometry":{"type":"Point","coordinates":[114.17,22.28]}}]}

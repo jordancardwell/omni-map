@@ -1,0 +1,14 @@
+{
+  "code": "national-day-belgium",
+  "name": "National Day of Belgium",
+  "festivalType": "National",
+  "dateOrSeason": "July 21",
+  "origin": "Belgian national",
+  "estimatedAttendance": "11.5+ million Belgians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military and civilian parade; Te Deum at cathedral; royal palace open house; fireworks; free concerts.",
+  "historicalBackground": "Belgium's National Day marks July 21, 1831, when the first King of the Belgians, Leopold I, took the constitutional oath.",
+  "description": "Belgium's National Day, celebrating the constitutional monarchy with parades, fireworks, and an open house at the Royal Palace.",
+  "location": "Brussels, Belgium",
+  "geojson": "national-day-belgium.geojson"
+}

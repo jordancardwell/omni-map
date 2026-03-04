@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.989888889,
+          50.70555556
+        ]
+      },
+      "properties": {
+        "code": "dorset-and-east-devon-coast",
+        "name": "Dorset and East Devon Coast",
+        "type": "Natural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "siberian-taiga",
+  "name": "Siberian Taiga",
+  "region": "Asia",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "Moderate-High — increasing dramatically due to Arctic warming",
+  "dominantVegetation": "Boreal larch forest, spruce taiga, tundra-taiga transition",
+  "fireSeasonMonths": "May – September",
+  "areaBurnedAnnual": "~5 million ha average; over 17 million ha in 2021",
+  "seasonalPattern": "Lightning-driven fires peak in June–August as boreal summer warmth dries out the vast taiga. Permafrost thaw exposes organic soils that can ignite and burn for months. 'Zombie fires' overwinter underground in peat and reignite in spring. The Arctic is warming 2-4x faster than the global average, dramatically increasing fire frequency.",
+  "historicalFires": ["2021 Yakutia Megafires (17.4M ha)", "2019 Siberian Fires (13.1M ha)", "2020 Arctic Circle Fires (5.8M ha)", "2003 Sakha Fires (12M ha)"],
+  "description": "Siberia's vast taiga is the world's largest land biome and has become a global wildfire hotspot. The 2021 Yakutia fires — the largest in Russia's modern history — burned an area the size of Syria and produced smoke visible from the North Pole. Arctic warming is thawing permafrost, drying forests, and dramatically extending the fire season. These fires release massive amounts of stored carbon from both forest biomass and permafrost soils, creating a dangerous positive feedback loop. Remote location means most fires burn uncontrolled.",
+  "geojson": "siberian-taiga.geojson"
+}

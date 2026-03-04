@@ -1,0 +1,25 @@
+{
+  "code": "british-empire",
+  "name": "British Empire",
+  "era": "Modern",
+  "peakYear": "1920 CE",
+  "areaAtPeakKm2": 35500000,
+  "populationEstimate": "412 million",
+  "capital": "London",
+  "keyAchievements": [
+    "Industrial Revolution",
+    "Parliamentary democracy spread",
+    "English language globalization",
+    "Common law system",
+    "Abolition of slave trade"
+  ],
+  "declineFactors": [
+    "World War I and II costs",
+    "Decolonization movements",
+    "Rise of nationalism",
+    "American ascendancy",
+    "Suez Crisis"
+  ],
+  "description": "The British Empire was the largest empire in history, covering approximately a quarter of the world's land surface at its peak in 1920. It spanned every continent and included territories from Canada to Australia, India to Africa.\n\nThe empire's legacy is complex — it spread the English language, common law, and parliamentary governance globally, while also causing immense suffering through colonialism, exploitation, and the displacement of indigenous peoples. Decolonization accelerated after World War II.",
+  "geojson": "british-empire.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.601,
+          54.9926111111
+        ]
+      },
+      "properties": {
+        "code": "frontiers-of-the-roman-empire",
+        "name": "Frontiers of the Roman Empire",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland, Germany",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

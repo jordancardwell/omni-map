@@ -1,0 +1,16 @@
+{
+  "code": "ng-tg-cable",
+  "name": "NG-TG Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2710,
+  "yearLaid": 2016,
+  "rfsDate": "2015-06",
+  "owner": "Globacom",
+  "landingPoints": [
+    "Lagos, Nigeria",
+    "Lomé, Togo"
+  ],
+  "description": "NG-TG Cable connecting Lagos to Lomé along the African coast.",
+  "geojson": "ng-tg-cable.geojson"
+}

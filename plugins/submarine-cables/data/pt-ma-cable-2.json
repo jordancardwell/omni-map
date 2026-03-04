@@ -1,0 +1,16 @@
+{
+  "code": "pt-ma-cable-2",
+  "name": "PT-MA Cable-2",
+  "capacityTbps": 45,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13686,
+  "yearLaid": 2020,
+  "rfsDate": "2015-06",
+  "owner": "Maroc Telecom",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Casablanca, Morocco"
+  ],
+  "description": "PT-MA Cable-2 connecting Lisbon to Casablanca.",
+  "geojson": "pt-ma-cable-2.geojson"
+}

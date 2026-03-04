@@ -1,0 +1,14 @@
+{
+  "code": "jelling-mounds-runic-stones-and-church",
+  "name": "Jelling Mounds, Runic Stones and Church",
+  "type": "Cultural",
+  "country": "Denmark",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Jelling burial mounds and one of the runic stones are striking examples of pagan Nordic culture, while the other runic stone and the church illustrate the Christianization of the Danish people towards the middle of the 10th century.",
+  "danger": false,
+  "geojson": "jelling-mounds-runic-stones-and-church.geojson"
+}

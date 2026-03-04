@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.1231,34.1378]},"properties":{"code":"ipac","name":"IPAC at Caltech","observatoryType":"Space-based","status":"Operational","country":"United States"}}]}

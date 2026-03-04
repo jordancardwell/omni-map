@@ -1,0 +1,14 @@
+{
+  "code": "gwadar",
+  "name": "Port of Gwadar",
+  "country": "Pakistan",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "India–Persian Gulf Route"
+  ],
+  "description": "Port of Gwadar in Pakistan. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "gwadar.geojson"
+}

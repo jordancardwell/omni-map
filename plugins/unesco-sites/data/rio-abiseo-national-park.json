@@ -1,0 +1,17 @@
+{
+  "code": "rio-abiseo-national-park",
+  "name": "Río Abiseo National Park",
+  "type": "Mixed",
+  "country": "Peru",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(iii)",
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The park was created in 1983 to protect the fauna and flora of the rainforests that are characteristic of this region of the Andes. There is a high level of endemism among the fauna and flora found in the park. The yellow-tailed woolly monkey, previously thought extinct, is found only in this area. Research undertaken since 1985 has already uncovered 36 previously unknown archaeological sites at altitudes of between 2,500 and 4,000 m, which give a good picture of pre-Inca society.",
+  "danger": false,
+  "geojson": "rio-abiseo-national-park.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "pvg-nrt",
+  "name": "Shanghai — Tokyo",
+  "airports": [
+    "PVG",
+    "NRT"
+  ],
+  "distanceKm": 1796,
+  "weeklyFlights": 80,
+  "airlines": [
+    "China Eastern",
+    "ANA"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "PVG–NRT route between Shanghai and Tokyo. Distance: 1,796 km. ~80 weekly flights operated by China Eastern, ANA.",
+  "geojson": "pvg-nrt.geojson"
+}

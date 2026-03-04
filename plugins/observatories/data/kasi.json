@@ -1,0 +1,22 @@
+{
+  "code": "kasi",
+  "name": "Korea Astronomy and Space Science Institute",
+  "country": "South Korea",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 100,
+  "aperture": "1.8 m (BOAO)",
+  "telescopes": [
+    "Bohyunsan 1.8m",
+    "Sobaeksan 0.6m",
+    "KMTNet"
+  ],
+  "keyDiscoveries": [
+    "KMTNet microlensing exoplanets",
+    "Gamma-ray burst follow-up",
+    "Stellar variability"
+  ],
+  "location": "Korea Astronomy and Space Science Institute, South Korea",
+  "description": "South Korea's principal astronomy institute operating multiple observatories. KMTNet network (Chile, Australia, South Africa) monitors for gravitational microlensing events.",
+  "geojson": "kasi.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ny-ln-express",
+  "name": "NY-LN Express",
+  "capacityTbps": 52,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13490,
+  "yearLaid": 2021,
+  "rfsDate": "2021-06",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "New York, USA",
+    "London, UK"
+  ],
+  "description": "NY-LN Express connecting New York to London.",
+  "geojson": "ny-ln-express.geojson"
+}

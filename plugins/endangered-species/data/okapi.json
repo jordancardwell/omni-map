@@ -1,0 +1,19 @@
+{
+  "code": "okapi",
+  "name": "Okapi",
+  "scientificName": "Okapia johnstoni",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~35,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Dense tropical rainforest",
+  "threats": [
+    "Armed conflict",
+    "Illegal mining",
+    "Bushmeat hunting",
+    "Deforestation"
+  ],
+  "conservationEfforts": "Okapi Conservation Project works in the Okapi Wildlife Reserve. Community-based programs provide alternatives to bushmeat. Armed militia presence makes conservation dangerous.",
+  "description": "The only living relative of the giraffe, discovered by western science only in 1901. Its striking striped hindquarters provide camouflage in dense forest. Found only in the Democratic Republic of Congo.",
+  "geojson": "okapi.geojson"
+}

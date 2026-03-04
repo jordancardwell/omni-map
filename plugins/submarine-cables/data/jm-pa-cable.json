@@ -1,0 +1,16 @@
+{
+  "code": "jm-pa-cable",
+  "name": "JM-PA Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2269,
+  "yearLaid": 2015,
+  "rfsDate": "2018-06",
+  "owner": "Cable & Wireless",
+  "landingPoints": [
+    "Kingston, Jamaica",
+    "Panama City, Panama"
+  ],
+  "description": "JM-PA Cable connecting Kingston to Panama City in the Caribbean region.",
+  "geojson": "jm-pa-cable.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "rincon-de-la-vieja",
+  "name": "Rincón de la Vieja",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1916,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Costa Rica",
+  "region": "Guanacaste",
+  "location": "Guanacaste, Costa Rica",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Phreatic eruptions",
+    "Lahars",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Frequent phreatic eruptions from the active crater lake. Has erupted over 15 times since 1851.",
+  "description": "Rincón de la Vieja is one of Costa Rica's most active volcanoes, featuring hot springs, mud pots, and an active crater lake.",
+  "geojson": "rincon-de-la-vieja.geojson"
+}

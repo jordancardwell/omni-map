@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3827777777,
+          -34.0844444444
+        ]
+      },
+      "properties": {
+        "code": "sewell-mining-town",
+        "name": "Sewell Mining Town",
+        "type": "Cultural",
+        "country": "Chile",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

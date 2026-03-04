@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.46411111,
+          21.20438889
+        ]
+      },
+      "properties": {
+        "code": "franciscan-missions-in-the-sierra-gorda-of-queretaro",
+        "name": "Franciscan Missions in the Sierra Gorda of Querétaro",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

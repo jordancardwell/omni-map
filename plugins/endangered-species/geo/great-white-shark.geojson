@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"great-white-shark","name":"Great White Shark"},"geometry":{"type":"Polygon","coordinates":[[[20,-45],[170,-45],[175,0],[170,45],[20,45],[15,0],[20,-45]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[149.0644,-31.2772]},"properties":{"code":"sso-anu","name":"ANU Siding Spring Station","observatoryType":"Optical","status":"Operational","country":"Australia"}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9772222222,
+          24.6688888889
+        ]
+      },
+      "properties": {
+        "code": "chengjiang-fossil-site",
+        "name": "Chengjiang Fossil Site",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

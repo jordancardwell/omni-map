@@ -1,0 +1,16 @@
+{
+  "code": "us-pacific-nw",
+  "name": "US Pacific NW",
+  "capacityTbps": 17,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 279,
+  "yearLaid": 2011,
+  "rfsDate": "2018-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "San Francisco, USA",
+    "Seattle, USA"
+  ],
+  "description": "US Pacific NW connecting San Francisco to Seattle.",
+  "geojson": "us-pacific-nw.geojson"
+}

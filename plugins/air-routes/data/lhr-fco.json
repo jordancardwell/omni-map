@@ -1,0 +1,18 @@
+{
+  "code": "lhr-fco",
+  "name": "London — Rome",
+  "airports": [
+    "LHR",
+    "FCO"
+  ],
+  "distanceKm": 1443,
+  "weeklyFlights": 100,
+  "airlines": [
+    "British Airways",
+    "ITA Airways"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–FCO route between London and Rome. Distance: 1,443 km. ~100 weekly flights operated by British Airways, ITA Airways.",
+  "geojson": "lhr-fco.geojson"
+}

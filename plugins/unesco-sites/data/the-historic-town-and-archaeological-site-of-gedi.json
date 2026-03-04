@@ -1,0 +1,16 @@
+{
+  "code": "the-historic-town-and-archaeological-site-of-gedi",
+  "name": "The Historic Town and Archaeological Site of Gedi",
+  "type": "Cultural",
+  "country": "Kenya",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "Surrounded by a remnant coastal forest, away from the coastline, the abandoned city of Gedi was one of the most important Swahili cities on the East African coast from the 10th to 17th centuries. During this period, it was part of a complex and international network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal centres with Persia and other areas. The opulent settlement is clearly delineated by walls and features remains of domestic, religious, and civic architecture, and a sophisticated water management system. It strongly represents the characteristics of Swahili architecture and town planning, utilising materials such as coral rag, coral and earth mortar and wood.",
+  "danger": false,
+  "geojson": "the-historic-town-and-archaeological-site-of-gedi.geojson"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "flooded-grasslands",
+  "name": "Flooded Grasslands & Savannas",
+  "biomeType": "Grassland",
+  "areaKm2": 1100000,
+  "keyCharacteristics": "Seasonally or permanently flooded grasslands with high water tables. Extreme productivity during wet seasons supports dense wildlife populations.",
+  "typicalFlora": ["Papyrus", "Water hyacinth", "Sawgrass", "Bulrush", "Floating meadow grasses", "Aquatic sedges"],
+  "typicalFauna": ["Hippopotamus", "Capybara", "Jabiru stork", "Marsh deer", "Sitatunga", "Shoebill"],
+  "threatLevel": "High",
+  "conservationStatus": "Threatened by dam construction, water diversion, drainage for agriculture, and pollution. Climate change alters flood cycles critical to ecosystem function.",
+  "description": "Flooded grasslands and savannas are wetland ecosystems characterized by seasonal or permanent inundation. They occur in tropical and subtropical regions where flat terrain and high rainfall create extensive flooded areas.\n\nProminent examples include the Pantanal in South America (the world's largest tropical wetland), the Sudd in South Sudan, the Okavango Delta in Botswana, and the Everglades in Florida. These ecosystems are among the most productive on Earth.\n\nThe seasonal flood pulse drives ecological cycles, with dramatic changes in water levels creating diverse habitats. Fish populations surge during floods, supporting dense congregations of waterbirds and other predators.",
+  "geojson": "flooded-grasslands.geojson"
+}

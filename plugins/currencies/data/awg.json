@@ -1,0 +1,16 @@
+{
+  "code": "awg",
+  "name": "Aruban Florin",
+  "isoCode": "AWG",
+  "symbol": "Afl.",
+  "region": "Americas",
+  "centralBank": "Central Bank of Aruba",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Aruba"
+  ],
+  "countryCount": 1,
+  "description": "The Aruban Florin is the currency of Aruba, a constituent country of the Kingdom of the Netherlands in the Caribbean.",
+  "historicalNotes": "Introduced in 1986 when Aruba separated from the Netherlands Antilles, replacing the Netherlands Antillean guilder.",
+  "geojson": "awg.geojson"
+}

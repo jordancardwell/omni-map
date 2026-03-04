@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.853,
+          54.879
+        ]
+      },
+      "properties": {
+        "code": "kernave-archaeological-site-cultural-reserve-of-kernave",
+        "name": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+        "type": "Cultural",
+        "country": "Lithuania",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

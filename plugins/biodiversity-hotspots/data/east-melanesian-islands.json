@@ -1,0 +1,29 @@
+{
+  "code": "east-melanesian-islands",
+  "name": "East Melanesian Islands",
+  "location": "Southwest Pacific (Solomon Islands, Vanuatu, Bismarck Archipelago)",
+  "areaKm2": 99384,
+  "habitatRemaining": "29.8%",
+  "plantSpecies": 8000,
+  "endemicPlants": 3000,
+  "vertebrateSpecies": 522,
+  "endemicVertebrates": 174,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Solomon Islands skink",
+    "Bougainville monkey-faced bat",
+    "Fearful owl",
+    "Coconut crab",
+    "Woodford's rail"
+  ],
+  "threats": [
+    "Logging",
+    "Mining",
+    "Subsistence agriculture",
+    "Invasive species",
+    "Climate change"
+  ],
+  "conservationEfforts": "Community-based resource management programs established. Protected areas include Kolombangara and Arnavon Islands. NGOs work with local communities on sustainable forestry. Climate adaptation planning underway.",
+  "description": "The East Melanesian Islands hotspot encompasses the Solomon Islands, Vanuatu, and the Bismarck Archipelago (part of Papua New Guinea). These oceanic and near-continental islands support a mix of lowland and montane tropical forests.\n\nIsland isolation has driven high rates of speciation, particularly among birds, reptiles, and plants. The region contains some of the largest remaining tracts of tropical forest in the Pacific. Many species are restricted to single islands, making them extremely vulnerable to habitat loss.",
+  "geojson": "east-melanesian-islands.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "mdl",
+  "name": "Moldovan Leu",
+  "isoCode": "MDL",
+  "symbol": "L",
+  "region": "Europe",
+  "centralBank": "National Bank of Moldova",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Moldova"
+  ],
+  "countryCount": 1,
+  "description": "The Moldovan Leu shares its name ('lion') with the Romanian leu, reflecting the countries' shared linguistic and cultural heritage.",
+  "historicalNotes": "Introduced in 1993 after Moldova gained independence from the Soviet Union. Moldova is the poorest country in Europe by GDP per capita.",
+  "geojson": "mdl.geojson"
+}

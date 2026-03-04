@@ -1,0 +1,19 @@
+{
+  "code": "sin-kul",
+  "name": "Singapore — Kuala Lumpur",
+  "airports": [
+    "SIN",
+    "KUL"
+  ],
+  "distanceKm": 297,
+  "weeklyFlights": 350,
+  "airlines": [
+    "Singapore Airlines",
+    "AirAsia",
+    "Malaysia Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "SIN–KUL route between Singapore and Kuala Lumpur. Distance: 297 km. ~350 weekly flights operated by Singapore Airlines, AirAsia, Malaysia Airlines.",
+  "geojson": "sin-kul.geojson"
+}

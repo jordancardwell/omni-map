@@ -1,0 +1,17 @@
+{
+  "code": "ppc-2",
+  "name": "PPC-2",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10000,
+  "yearLaid": 2022,
+  "rfsDate": "2024-01",
+  "owner": "Google, AARNet, Indosat",
+  "landingPoints": [
+    "Guam",
+    "Sydney, Australia",
+    "Singapore"
+  ],
+  "description": "Second Pacific cable from Australia to Guam.",
+  "geojson": "ppc-2.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9,
+          31.6011111111
+        ]
+      },
+      "properties": {
+        "code": "caves-of-maresha-and-bet-guvrin-in-the-judean-lowlands-as-a-microcosm-of-the-lan",
+        "name": "Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

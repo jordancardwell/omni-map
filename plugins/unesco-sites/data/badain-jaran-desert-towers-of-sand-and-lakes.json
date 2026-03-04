@@ -1,0 +1,15 @@
+{
+  "code": "badain-jaran-desert-towers-of-sand-and-lakes",
+  "name": "Badain Jaran Desert - Towers of Sand and Lakes",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the Alashan Plateau in the hyper-arid and temperate desert region of northwestern China, the Badain Jaran Desert is a meeting point for three sandy regions of China and is the country’s third largest desert and second largest drifting desert. The property stands out with its high density of mega-dunes, intersected with inter-dunal lakes. It displays spectacular ongoing geological and geomorphic features of desert landscapes and landforms which may well be unparalleled. Noteworthy features, among others, include the world’s tallest, stabilized sand mega-dune (relative relief of 460 m); the highest concentration of inter-dunal lakes; and the largest expanse of so-called singing sands (describing the resonance caused for example by wind moving dry and loose sand) and wind-eroded landforms. The varied landscape also results in a high level of habitat diversity, and hence of biodiversity.",
+  "danger": false,
+  "geojson": "badain-jaran-desert-towers-of-sand-and-lakes.geojson"
+}

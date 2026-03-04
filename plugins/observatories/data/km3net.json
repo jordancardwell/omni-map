@@ -1,0 +1,21 @@
+{
+  "code": "km3net",
+  "name": "KM3NeT",
+  "country": "France",
+  "observatoryType": "Multi-messenger",
+  "status": "Under Construction",
+  "elevation": -2475,
+  "aperture": "Multiple km³ (planned)",
+  "telescopes": [
+    "ARCA",
+    "ORCA"
+  ],
+  "keyDiscoveries": [
+    "Expected: Cosmic neutrino sources",
+    "Neutrino mass hierarchy",
+    "Mediterranean neutrino astronomy"
+  ],
+  "location": "KM3NeT, France",
+  "description": "Next-generation undersea neutrino telescope in the Mediterranean. ARCA (Italy) for cosmic neutrinos and ORCA (France) for neutrino properties.",
+  "geojson": "km3net.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "sfo-sin",
+  "name": "San Francisco — Singapore",
+  "airports": [
+    "SFO",
+    "SIN"
+  ],
+  "distanceKm": 13580,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Singapore Airlines",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SFO–SIN route between San Francisco and Singapore. Distance: 13,580 km. ~30 weekly flights operated by Singapore Airlines, United.",
+  "geojson": "sfo-sin.geojson"
+}

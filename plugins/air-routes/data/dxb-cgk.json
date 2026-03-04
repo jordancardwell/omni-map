@@ -1,0 +1,18 @@
+{
+  "code": "dxb-cgk",
+  "name": "Dubai — Jakarta",
+  "airports": [
+    "DXB",
+    "CGK"
+  ],
+  "distanceKm": 6547,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Emirates",
+    "Garuda Indonesia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–CGK route between Dubai and Jakarta. Distance: 6,547 km. ~40 weekly flights operated by Emirates, Garuda Indonesia.",
+  "geojson": "dxb-cgk.geojson"
+}

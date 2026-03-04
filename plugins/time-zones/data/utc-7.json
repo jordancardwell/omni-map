@@ -1,0 +1,24 @@
+{
+  "code": "utc-7",
+  "name": "Mountain Standard Time",
+  "nativeName": "UTC-07:00",
+  "utcOffset": "UTC-07:00",
+  "utcOffsetHours": -7,
+  "offsetGroup": "2. West (UTC-8 to -5)",
+  "ianaNames": [
+    "America/Denver",
+    "America/Edmonton",
+    "America/Phoenix"
+  ],
+  "countries": [
+    "US (Mountain states)",
+    "Canada (Alberta)",
+    "Mexico (Chihuahua)"
+  ],
+  "dstRules": "Most areas observe DST (UTC-6 in summer); Arizona does not observe DST",
+  "description": "Covers the Rocky Mountain region of North America. Arizona famously does not observe daylight saving time (except the Navajo Nation), creating a unique patchwork of time-keeping in the US Southwest.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-7.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "ctu-szx",
+  "name": "Chengdu — Shenzhen",
+  "airports": [
+    "CTU",
+    "SZX"
+  ],
+  "distanceKm": 1296,
+  "weeklyFlights": 200,
+  "airlines": [
+    "Sichuan Airlines",
+    "Shenzhen Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "CTU–SZX route between Chengdu and Shenzhen. Distance: 1,296 km. ~200 weekly flights operated by Sichuan Airlines, Shenzhen Airlines.",
+  "geojson": "ctu-szx.geojson"
+}

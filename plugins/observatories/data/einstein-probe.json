@@ -1,0 +1,20 @@
+{
+  "code": "einstein-probe",
+  "name": "Einstein Probe Operations",
+  "country": "China",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 960,
+  "aperture": "Lobster-eye X-ray optics",
+  "telescopes": [
+    "Einstein Probe"
+  ],
+  "keyDiscoveries": [
+    "X-ray transient discoveries",
+    "Tidal disruption events",
+    "Electromagnetic counterparts to gravitational waves"
+  ],
+  "location": "Einstein Probe Operations, China",
+  "description": "Chinese Academy of Sciences X-ray satellite launched in 2024, monitoring the sky for X-ray transients with novel lobster-eye optics. Discovering previously unseen X-ray phenomena.",
+  "geojson": "einstein-probe.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "rangiri-dambulla-cave-temple",
+  "name": "Rangiri Dambulla Cave Temple",
+  "type": "Cultural",
+  "country": "Sri Lanka",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(i)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m2 ) are of particular importance, as are the 157 statues.",
+  "danger": false,
+  "geojson": "rangiri-dambulla-cave-temple.geojson"
+}

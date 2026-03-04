@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3647777778,
+          -7.8013888889
+        ]
+      },
+      "properties": {
+        "code": "the-cosmological-axis-of-yogyakarta-and-its-historic-landmarks",
+        "name": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
+        "type": "Cultural",
+        "country": "Indonesia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

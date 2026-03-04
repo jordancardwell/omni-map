@@ -1,0 +1,22 @@
+{
+  "code": "flwo",
+  "name": "Fred Lawrence Whipple Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2606,
+  "aperture": "1.5 m",
+  "telescopes": [
+    "Tillinghast 1.5m",
+    "MEarth",
+    "VERITAS"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet transit detections",
+    "M-dwarf planet searches",
+    "Very-high-energy gamma rays"
+  ],
+  "location": "Fred Lawrence Whipple Observatory, United States",
+  "description": "Smithsonian Astrophysical Observatory facility on Mount Hopkins, Arizona. VERITAS array detects very-high-energy gamma rays from cosmic sources.",
+  "geojson": "flwo.geojson"
+}

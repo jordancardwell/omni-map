@@ -1,0 +1,19 @@
+{
+  "code": "hawksbill-turtle",
+  "name": "Hawksbill Sea Turtle",
+  "scientificName": "Eretmochelys imbricata",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~20,000 nesting females",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coral reef and coastal",
+  "threats": [
+    "Shell trade",
+    "Egg collection",
+    "Habitat loss",
+    "Bycatch"
+  ],
+  "conservationEfforts": "CITES ban on international trade. Beach patrol programs protect nesting sites. Artificial reefs provide alternative habitat. Hatchery programs in many countries.",
+  "description": "Critically important for coral reef health, hawksbills eat sponges that would otherwise overgrow coral. Their beautiful shell has made them a target for the tortoiseshell trade for centuries.",
+  "geojson": "hawksbill-turtle.geojson"
+}

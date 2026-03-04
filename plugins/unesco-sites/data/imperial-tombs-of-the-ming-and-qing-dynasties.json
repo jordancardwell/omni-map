@@ -1,0 +1,17 @@
+{
+  "code": "imperial-tombs-of-the-ming-and-qing-dynasties",
+  "name": "Imperial Tombs of the Ming and Qing Dynasties",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "It represents the addition of three Imperial Tombs of the Qing Dynasty in Liaoning to the Ming tombs inscribed in 2000 and 2003. The Three Imperial Tombs of the Qing Dynasty in Liaoning Province include the Yongling Tomb, the Fuling Tomb, and the Zhaoling Tomb, all built in the 17th century. Constructed for the founding emperors of the Qing Dynasty and their ancestors, the tombs follow the precepts of traditional Chinese geomancy and fengshui theory. They feature rich decoration of stone statues and carvings and tiles with dragon motifs, illustrating the development of the funerary architecture of the Qing Dynasty. The three tomb complexes, and their numerous edifices, combine traditions inherited from previous dynasties and new features of Manchu civilization.",
+  "danger": false,
+  "geojson": "imperial-tombs-of-the-ming-and-qing-dynasties.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "carolingian-westwork-and-civitas-corvey",
+  "name": "Carolingian Westwork and Civitas Corvey",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The site is located along the Weser River on the outskirts of Höxter where the Carolingian Westwork and Civitas Corvey were erected between AD 822 and 885 in a largely preserved rural setting. The Westwork is the only standing structure that dates back to the Carolingian era, while the original imperial abbey complex is preserved as archaeological remains that are only partially excavated. The Westwork of Corvey uniquely illustrates one of the most important Carolingian architectural expressions. It is a genuine creation of this period, and its architectural articulation and decoration clearly illustrate the role played within the Frankish empire by imperial monasteries in securing territorial control and administration, as well as the propagation of Christianity and the Carolingian cultural and political order throughout Europe.",
+  "danger": false,
+  "geojson": "carolingian-westwork-and-civitas-corvey.geojson"
+}

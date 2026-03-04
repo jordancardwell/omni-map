@@ -1,0 +1,19 @@
+{
+  "code": "gelada",
+  "name": "Gelada",
+  "scientificName": "Theropithecus gelada",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~200,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Montane grassland cliff edge",
+  "threats": [
+    "Habitat loss",
+    "Agricultural expansion",
+    "Shooting",
+    "Climate change"
+  ],
+  "conservationEfforts": "Simien Mountains National Park (World Heritage Site) protects key populations. Community conservation programs. Tourism revenue supports local protection efforts.",
+  "description": "The only grass-eating primate, found only in the Ethiopian highlands. They live in the largest primate societies with herds of over 1,000 individuals. Males have a distinctive red hourglass-shaped chest patch.",
+  "geojson": "gelada.geojson"
+}

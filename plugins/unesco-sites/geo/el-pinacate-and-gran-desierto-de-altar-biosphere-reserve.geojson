@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9166666667,
+          32.0
+        ]
+      },
+      "properties": {
+        "code": "el-pinacate-and-gran-desierto-de-altar-biosphere-reserve",
+        "name": "El Pinacate and Gran Desierto de Altar Biosphere Reserve",
+        "type": "Natural",
+        "country": "Mexico",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77305556,
+          46.13583333
+        ]
+      },
+      "properties": {
+        "code": "villages-with-fortified-churches-in-transylvania",
+        "name": "Villages with Fortified Churches in Transylvania",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

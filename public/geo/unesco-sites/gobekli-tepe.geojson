@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9223638889,
+          37.2232419444
+        ]
+      },
+      "properties": {
+        "code": "gobekli-tepe",
+        "name": "Göbekli Tepe",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

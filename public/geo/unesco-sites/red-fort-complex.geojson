@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2408333333,
+          28.6555555556
+        ]
+      },
+      "properties": {
+        "code": "red-fort-complex",
+        "name": "Red Fort Complex",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

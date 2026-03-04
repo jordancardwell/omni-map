@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3983333333,
+          35.6583055556
+        ]
+      },
+      "properties": {
+        "code": "trans-iranian-railway",
+        "name": "Trans-Iranian Railway",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

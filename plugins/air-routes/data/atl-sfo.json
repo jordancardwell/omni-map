@@ -1,0 +1,18 @@
+{
+  "code": "atl-sfo",
+  "name": "Atlanta — San Francisco",
+  "airports": [
+    "ATL",
+    "SFO"
+  ],
+  "distanceKm": 3435,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Delta",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–SFO route between Atlanta and San Francisco. Distance: 3,435 km. ~70 weekly flights operated by Delta, United.",
+  "geojson": "atl-sfo.geojson"
+}

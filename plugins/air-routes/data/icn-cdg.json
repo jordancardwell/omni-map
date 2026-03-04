@@ -1,0 +1,18 @@
+{
+  "code": "icn-cdg",
+  "name": "Seoul — Paris",
+  "airports": [
+    "ICN",
+    "CDG"
+  ],
+  "distanceKm": 8927,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Korean Air",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ICN–CDG route between Seoul and Paris. Distance: 8,927 km. ~25 weekly flights operated by Korean Air, Air France.",
+  "geojson": "icn-cdg.geojson"
+}

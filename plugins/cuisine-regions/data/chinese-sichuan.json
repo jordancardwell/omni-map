@@ -1,0 +1,35 @@
+{
+  "code": "chinese-sichuan",
+  "name": "Sichuan Cuisine (Chuan)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Sichuan cuisine is famous worldwide for its bold, pungent flavors and liberal use of Sichuan peppercorn, which produces the distinctive numbing sensation called 'málà'. This cuisine features complex layering of flavors including spicy, sweet, sour, and savory in single dishes.",
+  "signatureDishes": [
+    "Mapo Tofu",
+    "Kung Pao Chicken",
+    "Twice-Cooked Pork",
+    "Dan Dan Noodles",
+    "Hot Pot"
+  ],
+  "keyIngredients": [
+    "Sichuan Peppercorn",
+    "Chili Peppers",
+    "Doubanjiang",
+    "Garlic",
+    "Ginger",
+    "Fermented Black Beans"
+  ],
+  "cookingTechniques": [
+    "Dry-frying",
+    "Smoking",
+    "Pickling",
+    "Braising in chili oil",
+    "Wok hei"
+  ],
+  "unescoRecognition": "Chengdu designated UNESCO City of Gastronomy (2010)",
+  "keyRegions": [
+    "Sichuan Province",
+    "Chengdu",
+    "Chongqing"
+  ],
+  "geojson": "chinese-sichuan.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4161111111,
+          44.3875
+        ]
+      },
+      "properties": {
+        "code": "decorated-cave-of-pont-darc-known-as-grotte-chauvet-pont-darc-ardeche",
+        "name": "Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

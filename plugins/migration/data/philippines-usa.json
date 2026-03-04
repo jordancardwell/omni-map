@@ -1,0 +1,18 @@
+{
+  "code": "philippines-usa",
+  "name": "Philippines \u2192 United States",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Philippines \u2192 United States",
+  "badgeValue": "~2.0 million",
+  "origin": "Philippines",
+  "destination": "United States",
+  "estimatedMigrants": "~2.0 million",
+  "drivers": [
+    "Colonial ties",
+    "Nursing demand",
+    "Family reunification",
+    "Military connections"
+  ],
+  "description": "Filipino migration to the US has deep historical roots in the colonial period and military base agreements. Filipino Americans are the third-largest Asian American group. Healthcare workers, especially nurses, form a disproportionate share of migrants \u2014 Filipino nurses comprise roughly 4% of the US nursing workforce. Family reunification provisions drive continued migration.",
+  "geojson": "philippines-usa.geojson"
+}

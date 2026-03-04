@@ -1,0 +1,17 @@
+{
+  "code": "yyz-msp",
+  "name": "Toronto — Minneapolis",
+  "airports": [
+    "YYZ",
+    "MSP"
+  ],
+  "distanceKm": 1089,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Air Canada"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–MSP route between Toronto and Minneapolis. Distance: 1,089 km. ~15 weekly flights operated by Air Canada.",
+  "geojson": "yyz-msp.geojson"
+}

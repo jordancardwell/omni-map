@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5462,
+          52.27
+        ]
+      },
+      "properties": {
+        "code": "tulip-festival",
+        "name": "Tulip Festival (Keukenhof)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Mid-March–Mid-May",
+        "location": "Lisse, Netherlands"
+      }
+    }
+  ]
+}

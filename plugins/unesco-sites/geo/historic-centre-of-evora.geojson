@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.90778,
+          38.57306
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-evora",
+        "name": "Historic Centre of Évora",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

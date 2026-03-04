@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hr","name":"Croatia","country":"HR","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[13.5,42.4],[13.5,46.5],[19.4,46.5],[19.4,42.4],[13.5,42.4]]]}}]}

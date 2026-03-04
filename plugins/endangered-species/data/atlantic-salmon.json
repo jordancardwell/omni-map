@@ -1,0 +1,20 @@
+{
+  "code": "atlantic-salmon",
+  "name": "Atlantic Salmon",
+  "scientificName": "Salmo salar",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Declining in many rivers",
+  "populationTrend": "Decreasing",
+  "habitatType": "River and ocean",
+  "threats": [
+    "Salmon farming impacts",
+    "Overfishing",
+    "Dam barriers",
+    "Disease",
+    "Climate change"
+  ],
+  "conservationEfforts": "Dam removal projects restore river connectivity. Salmon farming regulations reduce disease spillover. International cooperation through NASCO. Habitat restoration in rivers.",
+  "description": "Once abundant in every river flowing into the North Atlantic, Atlantic salmon have disappeared from many rivers. They make extraordinary migrations from river to ocean and back to spawn.",
+  "geojson": "atlantic-salmon.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "observatorio-pico-dos-dias",
+  "name": "Pico dos Dias Observatory",
+  "country": "Brazil",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1864,
+  "aperture": "1.6 m",
+  "telescopes": [
+    "Perkin-Elmer 1.6m",
+    "IAG 0.6m",
+    "Zeiss 0.6m"
+  ],
+  "keyDiscoveries": [
+    "Stellar astrophysics",
+    "Extragalactic surveys",
+    "Photometric monitoring"
+  ],
+  "location": "Pico dos Dias Observatory, Brazil",
+  "description": "Laboratório Nacional de Astrofísica observatory in Minas Gerais. Brazil's premier ground-based optical facility with the 1.6m Perkin-Elmer telescope.",
+  "geojson": "observatorio-pico-dos-dias.geojson"
+}

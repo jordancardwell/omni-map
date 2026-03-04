@@ -1,0 +1,49 @@
+{
+  "id": "desertification",
+  "name": "Desertification & Arid Zones",
+  "description": "Global desertification and aridity zones based on UNCCD/CGIAR aridity index data and the UN Environment World Atlas of Desertification — colored by aridity classification from hyper-arid to dry sub-humid",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#C8A86E",
+  "categories": ["environment", "climate", "land-degradation"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#C8A86E",
+  "schema": "DesertificationMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "region", "aridityClassification", "affectedCountries", "degradationTrend", "description"],
+    "groupBy": "aridityGroup",
+    "titleField": "name",
+    "subtitleField": "region",
+    "badgeField": "populationAffected",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "region"
+  },
+  "detailFields": [
+    { "key": "aridityClassification", "label": "Aridity Classification", "type": "status-badge", "statusColors": {
+      "Hyper-Arid": "#6B3A2A",
+      "Arid": "#C8A86E",
+      "Semi-Arid": "#E8D44D",
+      "Dry Sub-Humid": "#8FBC8F"
+    }},
+    { "key": "aridityIndex", "label": "Aridity Index (P/PET)", "type": "text" },
+    { "key": "area", "label": "Area", "type": "text" },
+    { "key": "degradationTrend", "label": "Degradation Trend", "type": "status-badge", "statusColors": {
+      "Severe — Expanding": "#DC2626",
+      "Worsening": "#F97316",
+      "Stable": "#EAB308",
+      "Improving": "#10B981"
+    }},
+    { "key": "populationAffected", "label": "Population Affected", "type": "formatted-number" },
+    { "key": "affectedCountries", "label": "Affected Countries", "type": "tags" },
+    { "key": "desertificationDrivers", "label": "Desertification Drivers", "type": "tags" },
+    { "key": "desertFrontier", "label": "Desert Frontier", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

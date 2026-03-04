@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.533443,
+          -13.184934
+        ]
+      },
+      "properties": {
+        "code": "historic-sanctuary-of-machu-picchu",
+        "name": "Historic Sanctuary of Machu Picchu",
+        "type": "Mixed",
+        "country": "Peru",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

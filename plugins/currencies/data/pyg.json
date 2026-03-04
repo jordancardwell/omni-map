@@ -1,0 +1,16 @@
+{
+  "code": "pyg",
+  "name": "Paraguayan Guaraní",
+  "isoCode": "PYG",
+  "symbol": "₲",
+  "region": "Americas",
+  "centralBank": "Central Bank of Paraguay",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Paraguay"
+  ],
+  "countryCount": 1,
+  "description": "The Guaraní is named after the indigenous Guaraní people and is one of the lower-valued currencies in the Americas.",
+  "historicalNotes": "Introduced in 1943, replacing the peso at par. Paraguay has maintained this currency longer than most South American nations, though it has experienced significant inflation.",
+  "geojson": "pyg.geojson"
+}

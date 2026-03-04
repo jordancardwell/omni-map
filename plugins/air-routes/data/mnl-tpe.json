@@ -1,0 +1,18 @@
+{
+  "code": "mnl-tpe",
+  "name": "Manila — Taipei",
+  "airports": [
+    "MNL",
+    "TPE"
+  ],
+  "distanceKm": 1175,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Philippine Airlines",
+    "China Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MNL–TPE route between Manila and Taipei. Distance: 1,175 km. ~60 weekly flights operated by Philippine Airlines, China Airlines.",
+  "geojson": "mnl-tpe.geojson"
+}

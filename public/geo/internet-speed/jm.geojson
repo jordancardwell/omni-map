@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"jm","name":"Jamaica","country":"JM","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-78.4,17.7],[-78.4,18.5],[-76.2,18.5],[-76.2,17.7],[-78.4,17.7]]]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "idr",
+  "name": "Indonesian Rupiah",
+  "isoCode": "IDR",
+  "symbol": "Rp",
+  "region": "Asia",
+  "centralBank": "Bank Indonesia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Indonesia"
+  ],
+  "countryCount": 1,
+  "description": "The Indonesian Rupiah is the currency of the world's largest archipelago nation and Southeast Asia's largest economy.",
+  "historicalNotes": "Introduced in 1946 during Indonesia's independence struggle. The rupiah lost about 80% of its value during the 1997 Asian Financial Crisis.",
+  "geojson": "idr.geojson"
+}

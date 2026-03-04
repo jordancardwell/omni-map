@@ -1,0 +1,18 @@
+{
+  "code": "aw",
+  "name": "Tropical Savanna",
+  "group": "A - Tropical",
+  "temperatureRange": "≥18°C all months (avg 24-30°C)",
+  "precipitationPattern": "Distinct wet and dry seasons; driest month <60mm",
+  "vegetation": "Grassland with scattered trees, savanna woodland, gallery forest along rivers",
+  "exampleCities": [
+    "Havana",
+    "Bangkok",
+    "Darwin",
+    "Brasília",
+    "Nairobi"
+  ],
+  "description": "Tropical savanna climate (Aw/As) is defined by warm temperatures throughout the year with a pronounced dry season. The landscape alternates between lush green during wet months and golden-brown during the dry season. This climate supports vast savannas across Africa, South America, and parts of Asia and Australia.",
+  "typicalWeather": "Warm to hot year-round. The wet season brings daily thunderstorms and heavy rain. The dry season features clear skies, lower humidity, and sometimes strong winds. Annual rainfall typically ranges from 800-1600mm, concentrated in 5-8 months.",
+  "geojson": "aw.geojson"
+}

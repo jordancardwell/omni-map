@@ -1,0 +1,17 @@
+{
+  "code": "ua",
+  "name": "Ukraine",
+  "avgDownloadMbps": 32.8,
+  "avgUploadMbps": 22.6,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 24.2,
+  "mobileUploadMbps": 5.8,
+  "fixedDownloadMbps": 32.8,
+  "fixedUploadMbps": 22.6,
+  "rank": 90,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Infrastructure under pressure but resilient. ~4% year-over-year growth.",
+  "geojson": "ua.geojson"
+}

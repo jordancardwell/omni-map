@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63333,
+          39.71667
+        ]
+      },
+      "properties": {
+        "code": "meteora",
+        "name": "Meteora",
+        "type": "Mixed",
+        "country": "Greece",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

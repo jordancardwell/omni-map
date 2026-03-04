@@ -1,0 +1,19 @@
+{
+  "code": "polar-bear",
+  "name": "Polar Bear",
+  "scientificName": "Ursus maritimus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~22,000-31,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Arctic sea ice",
+  "threats": [
+    "Climate change",
+    "Sea ice loss",
+    "Pollution",
+    "Oil exploration"
+  ],
+  "conservationEfforts": "International Agreement on Conservation of Polar Bears coordinates 5 Arctic nations. Marine protected areas established. Indigenous communities manage traditional harvesting.",
+  "description": "The world's largest land carnivore, entirely dependent on Arctic sea ice for hunting seals. Climate change is reducing their hunting platform, threatening long-term survival.",
+  "geojson": "polar-bear.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "msp-nrt",
+  "name": "Minneapolis — Tokyo",
+  "airports": [
+    "MSP",
+    "NRT"
+  ],
+  "distanceKm": 9552,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–NRT route between Minneapolis and Tokyo. Distance: 9,552 km. ~15 weekly flights operated by Delta.",
+  "geojson": "msp-nrt.geojson"
+}

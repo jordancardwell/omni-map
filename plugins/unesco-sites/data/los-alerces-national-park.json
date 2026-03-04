@@ -1,0 +1,15 @@
+{
+  "code": "los-alerces-national-park",
+  "name": "Los Alerces National Park",
+  "type": "Natural",
+  "country": "Argentina",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Los Alerces National Park is located in the Andes of northern Patagonia and its western boundary coincides with the Chilean border. Successive glaciations have moulded the landscape in the region creating spectacular features such as moraines, glacial cirques and clear-water lakes. The vegetation is dominated by dense temperate forests, which give way to alpine meadows higher up under the rocky Andean peaks. A highly distinctive and emblematic feature is its alerce forest; the globally threatened Alerce tree is the second longest living tree species in the world (>3,600 years). The Alerce forest in the property is in an excellent state of conservation. The property is vital for the protection of some of the last portions of continuous Patagonian Forest in an almost pristine state and is the habitat for a number of endemic and threatened species of flora and fauna.",
+  "danger": false,
+  "geojson": "los-alerces-national-park.geojson"
+}

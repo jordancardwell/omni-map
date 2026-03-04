@@ -1,0 +1,15 @@
+{
+  "code": "old-city-of-jerusalem-and-its-walls",
+  "name": "Old City of Jerusalem and its Walls",
+  "type": "Cultural",
+  "country": "Jerusalem (Site proposed by Jordan)",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "As a holy city for Judaism, Christianity and Islam, Jerusalem has always been of great symbolic importance. Among its 220 historic monuments, the Dome of the Rock stands out: built in the 7th century, it is decorated with beautiful geometric and floral motifs. It is recognized by all three religions as the site of Abraham's sacrifice. The Wailing Wall delimits the quarters of the different religious communities, while the Resurrection rotunda in the Church of the Holy Sepulchre houses Christ's tomb.",
+  "danger": true,
+  "geojson": "old-city-of-jerusalem-and-its-walls.geojson"
+}

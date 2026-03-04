@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.0,
+          32.76666667
+        ]
+      },
+      "properties": {
+        "code": "laurisilva-of-madeira",
+        "name": "Laurisilva of Madeira",
+        "type": "Natural",
+        "country": "Portugal",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

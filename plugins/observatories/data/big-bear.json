@@ -1,0 +1,21 @@
+{
+  "code": "big-bear",
+  "name": "Big Bear Solar Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2060,
+  "aperture": "1.6 m (Goode Solar)",
+  "telescopes": [
+    "Goode Solar Telescope",
+    "Full-disk instruments"
+  ],
+  "keyDiscoveries": [
+    "Solar surface dynamics",
+    "Magnetic field evolution",
+    "Highest-resolution solar images"
+  ],
+  "location": "Big Bear Solar Observatory, United States",
+  "description": "Located on an island in Big Bear Lake to reduce atmospheric turbulence. The Goode Solar Telescope produces the highest-resolution images of the solar surface.",
+  "geojson": "big-bear.geojson"
+}

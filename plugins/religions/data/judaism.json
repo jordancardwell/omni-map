@@ -1,0 +1,25 @@
+{
+  "code": "judaism",
+  "name": "Judaism",
+  "family": "Abrahamic",
+  "foundingPeriod": "c. 2000–1500 BCE",
+  "adherents": {
+    "estimated": 15700000,
+    "percentWorld": "0.2%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["Israel", "United States", "France", "Canada", "United Kingdom", "Argentina"],
+  "denominations": [
+    "Orthodox",
+    "Conservative",
+    "Reform",
+    "Reconstructionist",
+    "Hasidic",
+    "Haredi",
+    "Modern Orthodox",
+    "Karaite"
+  ],
+  "description": "Judaism is one of the oldest monotheistic religions, originating in the ancient Near East. It is based on the covenant between God and the Jewish people as recorded in the Torah (the first five books of the Hebrew Bible). Key practices include observing the Sabbath, keeping kosher dietary laws, and celebrating holidays such as Passover, Yom Kippur, and Rosh Hashanah.",
+  "historicalNotes": "Judaism traces its origins to the patriarchs Abraham, Isaac, and Jacob around 2000–1500 BCE. The Exodus from Egypt and the receiving of the Torah at Mount Sinai are foundational events. The destruction of the First Temple (586 BCE) and Second Temple (70 CE) by the Babylonians and Romans led to the Jewish diaspora. Rabbinic Judaism developed after 70 CE, producing the Mishnah and Talmud. The Holocaust (1933–1945) devastated European Jewry. The establishment of the State of Israel in 1948 marked a pivotal moment in Jewish history.",
+  "geojson": "judaism.geojson"
+}

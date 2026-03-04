@@ -1,0 +1,18 @@
+{
+  "code": "mex-lax",
+  "name": "Mexico City — Los Angeles",
+  "airports": [
+    "MEX",
+    "LAX"
+  ],
+  "distanceKm": 2500,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Aeromexico",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MEX–LAX route between Mexico City and Los Angeles. Distance: 2,500 km. ~50 weekly flights operated by Aeromexico, Delta.",
+  "geojson": "mex-lax.geojson"
+}

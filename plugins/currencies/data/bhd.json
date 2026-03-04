@@ -1,0 +1,16 @@
+{
+  "code": "bhd",
+  "name": "Bahraini Dinar",
+  "isoCode": "BHD",
+  "symbol": ".د.ب",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Bahrain",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Bahrain"
+  ],
+  "countryCount": 1,
+  "description": "The Bahraini Dinar is one of the world's highest-valued currencies. Bahrain is a major financial center in the Gulf region.",
+  "historicalNotes": "Introduced in 1965, replacing the Gulf rupee. Bahrain was the first Gulf state to discover oil (1932) and the first to diversify into financial services.",
+  "geojson": "bhd.geojson"
+}

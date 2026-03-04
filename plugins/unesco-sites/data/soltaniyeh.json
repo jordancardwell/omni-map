@@ -1,0 +1,16 @@
+{
+  "code": "soltaniyeh",
+  "name": "Soltaniyeh",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2005",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The mausoleum of Oljaytu was constructed in 1302–12 in the city of Soltaniyeh, the capital of the Ilkhanid dynasty, which was founded by the Mongols. Situated in the province of Zanjan, Soltaniyeh is one of the outstanding examples of the achievements of Persian architecture and a key monument in the development of its Islamic architecture. The octagonal building is crowned with a 50 m tall dome covered in turquoise-blue faience and surrounded by eight slender minarets. It is the earliest existing example of the double-shelled dome in Iran. The mausoleum’s interior decoration is also outstanding and scholars such as A.U. Pope have described the building as ‘anticipating the Taj Mahal’.",
+  "danger": false,
+  "geojson": "soltaniyeh.geojson"
+}

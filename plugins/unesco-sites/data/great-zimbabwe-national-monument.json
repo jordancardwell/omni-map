@@ -1,0 +1,15 @@
+{
+  "code": "great-zimbabwe-national-monument",
+  "name": "Great Zimbabwe National Monument",
+  "type": "Cultural",
+  "country": "Zimbabwe",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards.",
+  "danger": false,
+  "geojson": "great-zimbabwe-national-monument.geojson"
+}

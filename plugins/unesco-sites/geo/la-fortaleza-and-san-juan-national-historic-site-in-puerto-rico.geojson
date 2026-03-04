@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.125,
+          18.46666667
+        ]
+      },
+      "properties": {
+        "code": "la-fortaleza-and-san-juan-national-historic-site-in-puerto-rico",
+        "name": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

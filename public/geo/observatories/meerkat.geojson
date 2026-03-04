@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[21.4439,-30.7131]},"properties":{"code":"meerkat","name":"MeerKAT","observatoryType":"Radio","status":"Operational","country":"South Africa"}}]}

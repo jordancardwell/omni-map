@@ -1,0 +1,16 @@
+{
+  "code": "dkk",
+  "name": "Danish Krone",
+  "isoCode": "DKK",
+  "symbol": "kr",
+  "region": "Europe",
+  "centralBank": "Danmarks Nationalbank",
+  "exchangeRateEra": "Pegged to EUR (ERM II)",
+  "countries": [
+    "Denmark"
+  ],
+  "countryCount": 1,
+  "description": "The Danish Krone is pegged to the Euro through the ERM II mechanism. Denmark rejected Euro adoption in a 2000 referendum.",
+  "historicalNotes": "The krone was introduced in 1873 as part of the Scandinavian Monetary Union. Denmark has maintained a fixed exchange rate policy, first to the Deutsche Mark and now to the Euro.",
+  "geojson": "dkk.geojson"
+}

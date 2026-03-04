@@ -1,0 +1,18 @@
+{
+  "code": "yyz-lax",
+  "name": "Toronto — Los Angeles",
+  "airports": [
+    "YYZ",
+    "LAX"
+  ],
+  "distanceKm": 3495,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Air Canada",
+    "WestJet"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–LAX route between Toronto and Los Angeles. Distance: 3,495 km. ~30 weekly flights operated by Air Canada, WestJet.",
+  "geojson": "yyz-lax.geojson"
+}

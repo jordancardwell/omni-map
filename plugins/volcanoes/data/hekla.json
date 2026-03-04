@@ -1,0 +1,22 @@
+{
+  "code": "hekla",
+  "name": "Hekla",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 1491,
+  "lastEruption": "2000",
+  "vei": 3,
+  "country": "Iceland",
+  "region": "South Iceland",
+  "location": "South Iceland, Iceland",
+  "tectonicSetting": "Divergent boundary",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Pyroclastic flows",
+    "Fluorine poisoning"
+  ],
+  "eruptionHistory": "Has erupted over 20 times since 874 CE. Medieval Europeans called it the 'Gateway to Hell.' Last erupted in 2000.",
+  "description": "Hekla was known as the 'Gateway to Hell' in medieval times. It is one of Iceland's most active volcanoes and has erupted frequently throughout the island's settlement history.",
+  "geojson": "hekla.geojson"
+}

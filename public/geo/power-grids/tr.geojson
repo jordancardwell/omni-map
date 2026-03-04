@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tr","name":"Turkey","country":"TR","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[26,36],[26,42.1],[44.8,42.1],[44.8,36],[26,36]]]}}]}

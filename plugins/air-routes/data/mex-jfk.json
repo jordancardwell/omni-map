@@ -1,0 +1,18 @@
+{
+  "code": "mex-jfk",
+  "name": "Mexico City — New York",
+  "airports": [
+    "MEX",
+    "JFK"
+  ],
+  "distanceKm": 3365,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Aeromexico",
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–JFK route between Mexico City and New York. Distance: 3,365 km. ~40 weekly flights operated by Aeromexico, Delta.",
+  "geojson": "mex-jfk.geojson"
+}

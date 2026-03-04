@@ -1,0 +1,14 @@
+{
+  "code": "south-louisiana",
+  "name": "Port of South Louisiana",
+  "country": "United States",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 280,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of South Louisiana in United States. Annual cargo throughput: ~280 million tons. Type: Bulk Port.",
+  "geojson": "south-louisiana.geojson"
+}

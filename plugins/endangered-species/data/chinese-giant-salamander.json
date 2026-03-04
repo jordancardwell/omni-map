@@ -1,0 +1,19 @@
+{
+  "code": "chinese-giant-salamander",
+  "name": "Chinese Giant Salamander",
+  "scientificName": "Andrias davidianus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Cold mountain streams",
+  "threats": [
+    "Overexploitation for food",
+    "Habitat degradation",
+    "Dam construction",
+    "Pollution"
+  ],
+  "conservationEfforts": "Chinese government banned wild harvest. National nature reserves protect key habitats. However, farming operations have released non-native genetic lineages into the wild.",
+  "description": "The world's largest amphibian, reaching 1.8 meters long. Once widespread in Chinese rivers, it has declined by over 80% due to hunting for luxury food consumption.",
+  "geojson": "chinese-giant-salamander.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.152972,
+          41.41338
+        ]
+      },
+      "properties": {
+        "code": "works-of-antoni-gaudi",
+        "name": "Works of Antoni Gaudí",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

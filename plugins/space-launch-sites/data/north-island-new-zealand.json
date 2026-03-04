@@ -1,0 +1,15 @@
+{
+  "code": "north-island-new-zealand",
+  "name": "Kaitorete Spit Launch Site",
+  "country": "New Zealand",
+  "operator": "Planned",
+  "coordinates": "43.8300°S, 172.4100°E",
+  "status": "Planned",
+  "notableLaunches": [
+    "Planned future launches"
+  ],
+  "orbitalInclinationRange": "44°–98°",
+  "location": "Kaitorete Spit Launch Site, New Zealand",
+  "description": "Proposed launch site on New Zealand's South Island near Christchurch. Would complement existing Mahia Peninsula facilities for different orbital inclinations.",
+  "geojson": "north-island-new-zealand.geojson"
+}

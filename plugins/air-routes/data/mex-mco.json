@@ -1,0 +1,17 @@
+{
+  "code": "mex-mco",
+  "name": "Mexico City — Orlando",
+  "airports": [
+    "MEX",
+    "MCO"
+  ],
+  "distanceKm": 2060,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Aeromexico"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–MCO route between Mexico City and Orlando. Distance: 2,060 km. ~20 weekly flights operated by Aeromexico.",
+  "geojson": "mex-mco.geojson"
+}

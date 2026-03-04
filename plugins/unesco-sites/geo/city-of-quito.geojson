@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5120833333,
+          -0.22
+        ]
+      },
+      "properties": {
+        "code": "city-of-quito",
+        "name": "City of Quito",
+        "type": "Cultural",
+        "country": "Ecuador",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

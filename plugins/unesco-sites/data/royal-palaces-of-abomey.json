@@ -1,0 +1,15 @@
+{
+  "code": "royal-palaces-of-abomey",
+  "name": "Royal Palaces of Abomey",
+  "type": "Cultural",
+  "country": "Benin",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "From 1625 to 1900, 12 kings succeeded one another at the head of the powerful Kingdom of Abomey. With the exception of King Akaba, who had his own separate enclosure, they all had their palaces built within the same cob-wall area, in keeping with previous palaces as regards the use of space and materials. The royal palaces of Abomey are a unique reminder of this vanished kingdom.",
+  "danger": false,
+  "geojson": "royal-palaces-of-abomey.geojson"
+}

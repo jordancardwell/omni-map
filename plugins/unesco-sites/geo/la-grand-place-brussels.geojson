@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35242,
+          50.84668
+        ]
+      },
+      "properties": {
+        "code": "la-grand-place-brussels",
+        "name": "La Grand-Place, Brussels",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

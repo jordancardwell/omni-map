@@ -1,0 +1,14 @@
+{
+  "code": "dsd",
+  "name": "Extremely Cold Continental (Dry Summer)",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month <22°C; coldest month <-38°C",
+  "precipitationPattern": "Dry summers, minimal precipitation year-round",
+  "vegetation": "Sparse taiga, permafrost-adapted species",
+  "exampleCities": [
+    "Theoretical only - no verified stations"
+  ],
+  "description": "Extremely cold continental climate with dry summers (Dsd) is the rarest of all Köppen climate types. No reliably verified weather station consistently records this type, though some locations in extreme northeastern Siberia may occasionally qualify. It represents the theoretical extreme of continental dry-summer climates.",
+  "typicalWeather": "Extreme cold dominates. Winters are among the coldest on Earth (below -40°C). Summers are cool and brief. Precipitation is minimal due to persistent high-pressure systems in winter and the short warm season.",
+  "geojson": "dsd.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "lk-sg-cable",
+  "name": "LK-SG Cable",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4366,
+  "yearLaid": 2016,
+  "rfsDate": "2021-06",
+  "owner": "Dialog",
+  "landingPoints": [
+    "Colombo, Sri Lanka",
+    "Singapore"
+  ],
+  "description": "LK-SG Cable connecting Colombo to Singapore.",
+  "geojson": "lk-sg-cable.geojson"
+}

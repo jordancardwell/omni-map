@@ -1,0 +1,16 @@
+{
+  "code": "cm-gq-cable",
+  "name": "CM-GQ Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1538,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "CETEL",
+  "landingPoints": [
+    "Douala, Cameroon",
+    "Malabo, Equatorial Guinea"
+  ],
+  "description": "CM-GQ Cable connecting Douala to Malabo along the African coast.",
+  "geojson": "cm-gq-cable.geojson"
+}

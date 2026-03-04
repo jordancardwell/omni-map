@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88888889,
+          49.89166667
+        ]
+      },
+      "properties": {
+        "code": "town-of-bamberg",
+        "name": "Town of Bamberg",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

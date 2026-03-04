@@ -1,0 +1,15 @@
+{
+  "code": "skogskyrkogarden",
+  "name": "Skogskyrkogården",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This Stockholm cemetery was created between 1917 and 1920 by two young architects, Asplund and Lewerentz, on the site of former gravel pits overgrown with pine trees. The design blends vegetation and architectural elements, taking advantage of irregularities in the site to create a landscape that is finely adapted to its function. It has had a profound influence in many countries of the world.",
+  "danger": false,
+  "geojson": "skogskyrkogarden.geojson"
+}

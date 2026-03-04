@@ -1,0 +1,14 @@
+{
+  "code": "luther-memorials-in-eisleben-and-wittenberg",
+  "name": "Luther Memorials in Eisleben and Wittenberg",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These places in Saxony-Anhalt are all associated with the lives of Martin Luther and his fellow-reformer Melanchthon. They include Melanchthon's house in Wittenberg, the houses in Eisleben where Luther was born in 1483 and died in 1546, his room in Wittenberg, the local church and the castle church where, on 31 October 1517, Luther posted his famous '95 Theses', which launched the Reformation and a new era in the religious and political history of the Western world.",
+  "danger": false,
+  "geojson": "luther-memorials-in-eisleben-and-wittenberg.geojson"
+}

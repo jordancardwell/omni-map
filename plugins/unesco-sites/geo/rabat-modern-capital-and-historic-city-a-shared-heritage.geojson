@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8227777778,
+          34.0241666667
+        ]
+      },
+      "properties": {
+        "code": "rabat-modern-capital-and-historic-city-a-shared-heritage",
+        "name": "Rabat, Modern Capital and Historic City: a Shared Heritage",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "constanta",
+  "name": "Port of Constanta",
+  "country": "Romania",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 70,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Black Sea Shipping Route"
+  ],
+  "description": "Port of Constanta in Romania. Annual cargo throughput: ~70 million tons. Type: Multi-Purpose Port.",
+  "geojson": "constanta.geojson"
+}

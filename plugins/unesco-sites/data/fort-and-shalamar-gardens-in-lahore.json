@@ -1,0 +1,16 @@
+{
+  "code": "fort-and-shalamar-gardens-in-lahore",
+  "name": "Fort and Shalamar Gardens in Lahore",
+  "type": "Cultural",
+  "country": "Pakistan",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "These are two masterpieces from the time of the brilliant Mughal civilization, which reached its height during the reign of the Emperor Shah Jahan. The fort contains marble palaces and mosques decorated with mosaics and gilt. The elegance of these splendid gardens, built near the city of Lahore on three terraces with lodges, waterfalls and large ornamental ponds, is unequalled.",
+  "danger": false,
+  "geojson": "fort-and-shalamar-gardens-in-lahore.geojson"
+}

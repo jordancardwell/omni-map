@@ -1,0 +1,24 @@
+{
+  "code": "buddhism",
+  "name": "Buddhism",
+  "family": "Dharmic",
+  "foundingPeriod": "6th–5th century BCE",
+  "adherents": {
+    "estimated": 520000000,
+    "percentWorld": "6.6%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["East Asia", "Southeast Asia", "South Asia", "Central Asia"],
+  "denominations": [
+    "Theravada",
+    "Mahayana",
+    "Vajrayana",
+    "Zen",
+    "Pure Land",
+    "Tibetan",
+    "Nichiren"
+  ],
+  "description": "Buddhism was founded by Siddhartha Gautama (the Buddha) in ancient India. It teaches the Four Noble Truths about the nature of suffering and the Eightfold Path as the way to liberation (nirvana). Buddhism emphasizes meditation, mindfulness, ethical conduct, and wisdom. It does not center on the worship of a creator god but focuses on personal spiritual development.",
+  "historicalNotes": "Buddhism originated in northeastern India around the 5th century BCE. Emperor Ashoka's patronage in the 3rd century BCE spread Buddhism across the Indian subcontinent and into Sri Lanka. It reached Central Asia via the Silk Road, China by the 1st century CE, Korea and Japan by the 6th century, and Southeast Asia through maritime trade. Theravada became dominant in Sri Lanka and mainland Southeast Asia, while Mahayana spread through East Asia. Vajrayana developed in Tibet and Mongolia.",
+  "geojson": "buddhism.geojson"
+}

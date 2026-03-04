@@ -1,0 +1,16 @@
+{
+  "code": "sa-eg-cable",
+  "name": "SA-EG Cable",
+  "capacityTbps": 28,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6834,
+  "yearLaid": 2021,
+  "rfsDate": "2021-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Jeddah, Saudi Arabia",
+    "Suez, Egypt"
+  ],
+  "description": "SA-EG Cable connecting Jeddah to Suez.",
+  "geojson": "sa-eg-cable.geojson"
+}

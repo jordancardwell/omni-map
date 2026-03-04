@@ -1,0 +1,16 @@
+{
+  "code": "old-city-of-salamanca",
+  "name": "Old City of Salamanca",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This ancient university town north-west of Madrid was first conquered by the Carthaginians in the 3rd century B.C. It then became a Roman settlement before being ruled by the Moors until the 11th century. The university, one of the oldest in Europe, reached its high point during Salamanca's golden age. The city's historic centre has important Romanesque, Gothic, Moorish, Renaissance and Baroque monuments. The Plaza Mayor, with its galleries and arcades, is particularly impressive.",
+  "danger": false,
+  "geojson": "old-city-of-salamanca.geojson"
+}

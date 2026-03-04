@@ -1,0 +1,15 @@
+{
+  "code": "konso-cultural-landscape",
+  "name": "Konso Cultural Landscape",
+  "type": "Cultural",
+  "country": "Ethiopia",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "Konso Cultural Landscape is an arid property of stone walled terraces and fortified settlements in the Konso highlands of Ethiopia. It constitutes a spectacular example of a living cultural tradition stretching back 21 generations (more than 400 years) adapted to its dry hostile environment. The landscape demonstrates the shared values, social cohesion and engineering knowledge of its communities. The site also features anthropomorphic wooden statues - grouped to represent respected members of their communities and particularly heroic events - which are an exceptional living testimony to funerary traditions that are on the verge of disappearing. Stone steles in the towns express a complex system of marking the passing of generations of leaders.",
+  "danger": false,
+  "geojson": "konso-cultural-landscape.geojson"
+}

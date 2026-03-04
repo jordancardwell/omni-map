@@ -1,0 +1,15 @@
+{
+  "code": "saryarka-steppe-and-lakes-of-northern-kazakhstan",
+  "name": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+  "type": "Natural",
+  "country": "Kazakhstan",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin.",
+  "danger": false,
+  "geojson": "saryarka-steppe-and-lakes-of-northern-kazakhstan.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "jp-ru-cable",
+  "name": "JP-RU Cable",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1163,
+  "yearLaid": 2011,
+  "rfsDate": "2014-06",
+  "owner": "Rostelecom",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Vladivostok, Russia"
+  ],
+  "description": "JP-RU Cable connecting Tokyo to Vladivostok in East Asia.",
+  "geojson": "jp-ru-cable.geojson"
+}

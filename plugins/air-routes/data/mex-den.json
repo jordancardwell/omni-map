@@ -1,0 +1,17 @@
+{
+  "code": "mex-den",
+  "name": "Mexico City — Denver",
+  "airports": [
+    "MEX",
+    "DEN"
+  ],
+  "distanceKm": 2333,
+  "weeklyFlights": 20,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–DEN route between Mexico City and Denver. Distance: 2,333 km. ~20 weekly flights operated by United.",
+  "geojson": "mex-den.geojson"
+}

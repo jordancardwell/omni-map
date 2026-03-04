@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.56667,
+          -2.33333
+        ]
+      },
+      "properties": {
+        "code": "serengeti-national-park",
+        "name": "Serengeti National Park",
+        "type": "Natural",
+        "country": "United Republic of Tanzania",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

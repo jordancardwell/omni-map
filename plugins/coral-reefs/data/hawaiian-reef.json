@@ -1,0 +1,20 @@
+{
+  "code": "hawaiian-reef",
+  "name": "Hawaiian Reef System",
+  "location": "Hawaii, United States",
+  "areaKm2": 3610,
+  "reefType": "Fringing",
+  "healthStatus": "Endangered",
+  "coralSpecies": 80,
+  "marineSpecies": 7000,
+  "threats": [
+    "Coral bleaching",
+    "Invasive algae",
+    "Sunscreen chemicals",
+    "Sedimentation",
+    "Overfishing"
+  ],
+  "conservationStatus": "Papahānaumokuākea Marine National Monument protects Northwestern Hawaiian Islands. Hawaii banned reef-harmful sunscreens in 2021. Multiple state marine life conservation districts.",
+  "description": "Hawaii's coral reefs are the most isolated reef system in the world, located over 3,800 km from the nearest continent. This isolation has produced exceptional endemism — roughly 25% of reef species are found nowhere else on Earth.\n\nThe Northwestern Hawaiian Islands within Papahānaumokuākea contain some of the most pristine reefs in US waters, while the populated Main Hawaiian Islands face significant pressure. Hawaii became the first US state to ban oxybenzone and octinoxate sunscreens to protect reef health. Recent bleaching events have affected both the main and northwestern islands.",
+  "geojson": "hawaiian-reef.geojson"
+}

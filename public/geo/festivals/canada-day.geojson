@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6972,
+          45.4215
+        ]
+      },
+      "properties": {
+        "code": "canada-day",
+        "name": "Canada Day",
+        "festivalType": "National",
+        "dateOrSeason": "July 1",
+        "location": "Ottawa, Canada"
+      }
+    }
+  ]
+}

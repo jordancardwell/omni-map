@@ -1,0 +1,14 @@
+{
+  "code": "robben-island",
+  "name": "Robben Island",
+  "type": "Cultural",
+  "country": "South Africa",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "Robben Island was used at various times between the 17th and 20th centuries as a prison, a hospital for socially unacceptable groups and a military base. Its buildings, particularly those of the late 20th century such as the maximum security prison for political prisoners, witness the triumph of democracy and freedom over oppression and racism.",
+  "danger": false,
+  "geojson": "robben-island.geojson"
+}

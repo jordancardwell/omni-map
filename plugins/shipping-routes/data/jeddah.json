@@ -1,0 +1,15 @@
+{
+  "code": "jeddah",
+  "name": "Jeddah Islamic Port",
+  "country": "Saudi Arabia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 75,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Red Sea Route",
+    "Suez Canal Route"
+  ],
+  "description": "Jeddah Islamic Port in Saudi Arabia. Annual cargo throughput: ~75 million tons. Type: Container Port.",
+  "geojson": "jeddah.geojson"
+}

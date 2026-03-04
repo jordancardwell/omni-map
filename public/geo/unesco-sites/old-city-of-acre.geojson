@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0688888889,
+          32.9216666667
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-acre",
+        "name": "Old City of Acre",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

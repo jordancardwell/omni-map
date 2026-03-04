@@ -1,0 +1,21 @@
+{
+  "code": "dukono",
+  "name": "Dukono",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1229,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Halmahera",
+  "location": "Halmahera, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Has been in near-continuous eruption since 1933. One of Indonesia's most persistently active volcanoes.",
+  "description": "Dukono has been in almost continuous eruption since 1933, making it one of the most persistently active volcanoes in Indonesia.",
+  "geojson": "dukono.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8572222222,
+          34.3044444444
+        ]
+      },
+      "properties": {
+        "code": "silk-roads-the-routes-network-of-chang-an-tianshan-corridor",
+        "name": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+        "type": "Cultural",
+        "country": "China, Kyrgyzstan, Kazakhstan",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

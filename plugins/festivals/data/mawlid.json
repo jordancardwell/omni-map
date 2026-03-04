@@ -1,0 +1,14 @@
+{
+  "code": "mawlid",
+  "name": "Mawlid al-Nabi",
+  "festivalType": "Religious",
+  "dateOrSeason": "12th Rabi al-Awwal (varies)",
+  "origin": "Islamic tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Recitation of the Quran and poetry; processions; decorating mosques and homes; distributing food and sweets; singing nasheeds (hymns).",
+  "historicalBackground": "Mawlid celebrates the birthday of Prophet Muhammad. The practice began in the 12th century in Egypt under the Fatimid Caliphate, though observance varies.",
+  "description": "The celebration of the birthday of Prophet Muhammad, observed with gatherings, recitations, and communal feasts across the Muslim world.",
+  "location": "Medina, Saudi Arabia",
+  "geojson": "mawlid.geojson"
+}

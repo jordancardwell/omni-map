@@ -1,0 +1,40 @@
+{
+  "code": "utc+1",
+  "name": "Central European Time",
+  "nativeName": "UTC+01:00",
+  "utcOffset": "UTC+01:00",
+  "utcOffsetHours": 1,
+  "offsetGroup": "4. Central (UTC±0 to +2)",
+  "ianaNames": [
+    "Europe/Paris",
+    "Europe/Berlin",
+    "Europe/Rome",
+    "Africa/Lagos"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "Italy",
+    "Spain",
+    "Netherlands",
+    "Belgium",
+    "Switzerland",
+    "Austria",
+    "Poland",
+    "Czech Republic",
+    "Sweden",
+    "Norway",
+    "Denmark",
+    "Nigeria",
+    "Cameroon",
+    "Algeria",
+    "Tunisia",
+    "Angola"
+  ],
+  "dstRules": "European countries observe DST as CEST (UTC+2 in summer, Mar–Oct); African countries do not",
+  "description": "The most populous time zone in Europe, covering the EU's economic heartland. Major cities include Paris, Berlin, Rome, Madrid, Amsterdam, and Lagos. The EU has debated abolishing seasonal clock changes since 2019.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+1.geojson"
+}

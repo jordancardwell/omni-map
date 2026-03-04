@@ -1,0 +1,25 @@
+{
+  "code": "khmer-empire",
+  "name": "Khmer Empire",
+  "era": "Medieval",
+  "peakYear": "1150 CE",
+  "areaAtPeakKm2": 1000000,
+  "populationEstimate": "2 million",
+  "capital": "Angkor",
+  "keyAchievements": [
+    "Angkor Wat",
+    "Hydraulic engineering",
+    "Hindu-Buddhist synthesis",
+    "Monumental temple architecture",
+    "Rice paddy innovation"
+  ],
+  "declineFactors": [
+    "Thai expansion",
+    "Hydraulic system failure",
+    "Climate change",
+    "Overbuilding strain",
+    "Ayutthaya sack of Angkor"
+  ],
+  "description": "The Khmer Empire (802–1431 CE) was the dominant power in Southeast Asia, centered on the monumental city of Angkor in present-day Cambodia. At its peak, Angkor was the largest pre-industrial city in the world, with an urban sprawl covering over 1,000 square kilometers.\n\nThe empire's most enduring legacy is Angkor Wat, the world's largest religious monument, along with hundreds of other temples. The Khmer developed sophisticated hydraulic engineering to manage monsoon waters, enabling intensive rice cultivation that supported their massive population.",
+  "geojson": "khmer-empire.geojson"
+}

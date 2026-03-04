@@ -1,0 +1,14 @@
+{
+  "code": "yom-kippur",
+  "name": "Yom Kippur",
+  "festivalType": "Religious",
+  "dateOrSeason": "September–October (Tishrei 10)",
+  "origin": "Jewish tradition",
+  "estimatedAttendance": "14+ million Jews worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "25-hour fast; intensive synagogue prayers; Kol Nidre evening service; wearing white; abstaining from work, leather shoes, and bathing.",
+  "historicalBackground": "Yom Kippur is the holiest day in Judaism, established in the Torah. It is the Day of Atonement when Jews seek forgiveness from God for sins of the past year.",
+  "description": "The Day of Atonement, the holiest day in the Jewish calendar dedicated to fasting, prayer, and spiritual reflection.",
+  "location": "Tel Aviv, Israel",
+  "geojson": "yom-kippur.geojson"
+}

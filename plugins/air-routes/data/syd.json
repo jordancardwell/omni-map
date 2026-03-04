@@ -1,0 +1,12 @@
+{
+  "code": "syd",
+  "name": "Sydney Kingsford Smith",
+  "iataCode": "SYD",
+  "city": "Sydney",
+  "country": "Australia",
+  "annualPassengers": 38000000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Sydney Kingsford Smith (SYD) in Sydney, Australia. Annual passengers: ~38M. Classification: Regional Hub.",
+  "geojson": "syd.geojson"
+}

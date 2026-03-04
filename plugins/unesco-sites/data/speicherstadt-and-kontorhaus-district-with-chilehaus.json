@@ -1,0 +1,14 @@
+{
+  "code": "speicherstadt-and-kontorhaus-district-with-chilehaus",
+  "name": "Speicherstadt and Kontorhaus District with Chilehaus",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Speicherstadt and the adjacent Kontorhaus district are two densely built urban areas in the centre of the port city of Hamburg. Speicherstadt, originally developed on a group of narrow islands in the Elbe River between 1885 and 1927, was partly rebuilt from 1949 to 1967. It is one of the largest coherent historic ensembles of port warehouses in the world (300,000 m2). It includes 15 very large warehouse blocks as well as six ancillary buildings and a connecting network of short canals. Adjacent to the modernist Chilehaus office building, the Kontorhaus district is an area of over five hectares featuring six very large office complexes built from the 1920s to the 1940s to house port-related businesses. The complex exemplifies the effects of the rapid growth in international trade in the late 19th and early 20th centuries.",
+  "danger": false,
+  "geojson": "speicherstadt-and-kontorhaus-district-with-chilehaus.geojson"
+}

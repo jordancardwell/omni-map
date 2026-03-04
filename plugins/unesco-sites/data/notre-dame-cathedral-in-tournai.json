@@ -1,0 +1,15 @@
+{
+  "code": "notre-dame-cathedral-in-tournai",
+  "name": "Notre-Dame Cathedral in Tournai",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Cathedral of Notre-Dame in Tournai was built in the first half of the 12th century. It is especially distinguished by a Romanesque nave of extraordinary dimensions, a wealth of sculpture on its capitals and a transept topped by five towers, all precursors of the Gothic style. The choir, rebuilt in the 13th century, is in the pure Gothic style.",
+  "danger": false,
+  "geojson": "notre-dame-cathedral-in-tournai.geojson"
+}

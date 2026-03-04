@@ -1,0 +1,15 @@
+{
+  "code": "mississippi-basin",
+  "name": "Mississippi Basin",
+  "region": "North America",
+  "stressGroup": "2. Low-Medium (10-20%)",
+  "waterStressLevel": "Low-Medium",
+  "waterStressRatio": "~15% — withdrawal-to-availability",
+  "depletionRate": "Low — Ogallala Aquifer drawdown in western tributaries",
+  "droughtRisk": "Moderate",
+  "seasonalVariability": "Moderate",
+  "affectedPopulation": 90000000,
+  "riskFactors": ["Agricultural runoff", "Aquifer depletion", "Gulf hypoxia", "Flood-drought cycles"],
+  "description": "The Mississippi-Missouri system drains 40% of the contiguous United States. Overall stress is low-medium, but western sub-basins overlying the Ogallala Aquifer face accelerating groundwater depletion. Nutrient loading from corn-belt agriculture drives a seasonal dead zone in the Gulf of Mexico exceeding 15,000 km².",
+  "geojson": "mississippi-basin.geojson"
+}

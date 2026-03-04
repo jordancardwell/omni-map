@@ -1,0 +1,20 @@
+{
+  "code": "west-australian",
+  "name": "West Australian Current",
+  "currentType": "Cold",
+  "speedRange": "0.1–0.2 m/s",
+  "origin": "Southern Ocean",
+  "destination": "South Equatorial Current (Indian Ocean)",
+  "climateEffects": [
+    "Mildly cools Western Australia",
+    "Weak compared to Leeuwin Current",
+    "Seasonal variation in strength"
+  ],
+  "connectedEcosystems": [
+    "Western Australian shelf",
+    "Abrolhos Islands marine habitats"
+  ],
+  "itemCategory": "Cold",
+  "description": "The West Australian Current is a weak, cold, northward-flowing current off the west coast of Australia. Unusually for an eastern boundary current, it is often overpowered by the warm southward-flowing Leeuwin Current.",
+  "geojson": "west-australian.geojson"
+}

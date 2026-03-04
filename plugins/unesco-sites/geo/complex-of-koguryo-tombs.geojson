@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.415,
+          38.86305556
+        ]
+      },
+      "properties": {
+        "code": "complex-of-koguryo-tombs",
+        "name": "Complex of Koguryo Tombs",
+        "type": "Cultural",
+        "country": "Democratic People's Republic of Korea",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

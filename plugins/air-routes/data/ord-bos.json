@@ -1,0 +1,19 @@
+{
+  "code": "ord-bos",
+  "name": "Chicago — Boston",
+  "airports": [
+    "ORD",
+    "BOS"
+  ],
+  "distanceKm": 1391,
+  "weeklyFlights": 70,
+  "airlines": [
+    "United",
+    "American",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–BOS route between Chicago and Boston. Distance: 1,391 km. ~70 weekly flights operated by United, American, JetBlue.",
+  "geojson": "ord-bos.geojson"
+}

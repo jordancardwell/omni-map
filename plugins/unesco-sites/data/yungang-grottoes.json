@@ -1,0 +1,17 @@
+{
+  "code": "yungang-grottoes",
+  "name": "Yungang Grottoes",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Yungang Grottoes, in Datong city, Shanxi Province, with their 252 caves and 51,000 statues, represent the outstanding achievement of Buddhist cave art in China in the 5th and 6th centuries. The Five Caves created by Tan Yao, with their strict unity of layout and design, constitute a classical masterpiece of the first peak of Chinese Buddhist art.",
+  "danger": false,
+  "geojson": "yungang-grottoes.geojson"
+}

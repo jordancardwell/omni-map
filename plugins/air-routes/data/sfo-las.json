@@ -1,0 +1,18 @@
+{
+  "code": "sfo-las",
+  "name": "San Francisco — Las Vegas",
+  "airports": [
+    "SFO",
+    "LAS"
+  ],
+  "distanceKm": 665,
+  "weeklyFlights": 70,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SFO–LAS route between San Francisco and Las Vegas. Distance: 665 km. ~70 weekly flights operated by United, Southwest.",
+  "geojson": "sfo-las.geojson"
+}

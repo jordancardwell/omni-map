@@ -1,0 +1,14 @@
+{
+  "code": "cape-town",
+  "name": "Port of Cape Town",
+  "country": "South Africa",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Cape of Good Hope Route"
+  ],
+  "description": "Port of Cape Town in South Africa. Annual cargo throughput: ~5 million tons. Type: Container Port.",
+  "geojson": "cape-town.geojson"
+}

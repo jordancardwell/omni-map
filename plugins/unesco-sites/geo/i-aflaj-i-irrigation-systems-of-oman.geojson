@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5360555555,
+          22.9988888889
+        ]
+      },
+      "properties": {
+        "code": "i-aflaj-i-irrigation-systems-of-oman",
+        "name": "Aflaj Irrigation Systems of Oman",
+        "type": "Cultural",
+        "country": "Oman",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

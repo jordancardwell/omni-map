@@ -1,0 +1,25 @@
+{
+  "code": "thar-desert",
+  "name": "Thar Desert (Great Indian Desert)",
+  "region": "South Asia",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.05–0.20 — subtropical desert",
+  "area": "200,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 28000000,
+  "affectedCountries": [
+    "India",
+    "Pakistan"
+  ],
+  "desertificationDrivers": [
+    "Overgrazing",
+    "Deforestation",
+    "Groundwater depletion",
+    "Wind erosion",
+    "Population pressure"
+  ],
+  "desertFrontier": "Eastern margin advancing into Rajasthan and Gujarat farmlands",
+  "description": "The Thar is the world's most densely populated desert, home to 28 million people. It is expanding eastward into agricultural Rajasthan. The Indira Gandhi Canal has brought irrigation to parts of the western Thar but has also raised water tables, causing waterlogging and salinization in some areas. Groundwater depletion from tube wells threatens long-term sustainability.",
+  "geojson": "thar-desert.geojson"
+}

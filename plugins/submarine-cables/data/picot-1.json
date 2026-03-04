@@ -1,0 +1,16 @@
+{
+  "code": "picot-1",
+  "name": "Picot-1",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 762,
+  "yearLaid": 2014,
+  "rfsDate": "2017-06",
+  "owner": "Alcatel",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Noumea, New Caledonia"
+  ],
+  "description": "Picot-1 connecting Sydney to Noumea in the Pacific.",
+  "geojson": "picot-1.geojson"
+}

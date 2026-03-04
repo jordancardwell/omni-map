@@ -1,0 +1,17 @@
+{
+  "code": "bt",
+  "name": "Bhutan",
+  "avgDownloadMbps": 12.8,
+  "avgUploadMbps": 4.6,
+  "avgLatencyMs": 38,
+  "mobileDownloadMbps": 10.4,
+  "mobileUploadMbps": 2.6,
+  "fixedDownloadMbps": 12.8,
+  "fixedUploadMbps": 4.6,
+  "rank": 131,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "South Asia",
+  "dataYear": 2024,
+  "trendDescription": "Mountainous terrain limits coverage. ~14% year-over-year growth.",
+  "geojson": "bt.geojson"
+}

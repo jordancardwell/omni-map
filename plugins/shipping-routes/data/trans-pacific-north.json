@@ -1,0 +1,8 @@
+{
+  "code": "trans-pacific-north",
+  "name": "Trans-Pacific Northern Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Primary shipping corridor connecting East Asian manufacturing hubs (Shanghai, Busan, Tokyo) with US West Coast ports (Los Angeles, Long Beach, Seattle). Handles ~25% of global container trade by value.",
+  "geojson": "trans-pacific-north.geojson"
+}

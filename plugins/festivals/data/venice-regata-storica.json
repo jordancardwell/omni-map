@@ -1,0 +1,14 @@
+{
+  "code": "venice-regata-storica",
+  "name": "Regata Storica",
+  "festivalType": "Cultural",
+  "dateOrSeason": "First Sunday of September",
+  "origin": "Venetian tradition",
+  "estimatedAttendance": "100,000+ spectators",
+  "unescoICH": "Not inscribed",
+  "traditions": "Historical boat procession on Grand Canal; gondola and multi-oar boat races; 16th-century costumes; Bucintoro replica.",
+  "historicalBackground": "The Regata Storica dates to 1315 and is Venice's most important traditional event, celebrating the city's maritime heritage and gondolier skill.",
+  "description": "Venice's spectacular historic regatta, a pageant of Renaissance-costumed boats and fierce gondola races on the Grand Canal.",
+  "location": "Venice, Italy",
+  "geojson": "venice-regata-storica.geojson"
+}

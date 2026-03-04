@@ -1,0 +1,15 @@
+{
+  "code": "gujarati",
+  "name": "Gujarati",
+  "scriptType": "Abugida",
+  "characters": 47,
+  "direction": "LTR",
+  "originDate": "~16th century CE",
+  "sampleText": "ગુજરાતી ભાષા અને લિપિ",
+  "relatedScripts": [
+    "devanagari"
+  ],
+  "description": "The Gujarati script is an abugida closely related to Devanagari but distinguished by the absence of the horizontal headline (shirorekha). It has 47 primary characters — 14 vowels and 33 consonants. The script is used for the Gujarati language spoken in Gujarat, India.",
+  "historicalNotes": "Gujarati script evolved from Devanagari around the 16th century. Merchants and traders favored a faster writing style that dropped the headline, leading to the distinct Gujarati form. The first known Gujarati text dates to 1592. Mahatma Gandhi wrote his autobiography in Gujarati. The script was standardized in the 19th century during the efforts of Gujarati scholars and publishers.",
+  "geojson": "gujarati.geojson"
+}

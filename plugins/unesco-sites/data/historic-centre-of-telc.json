@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-telc",
+  "name": "Historic Centre of Telč",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The houses in Telc, which stands on a hilltop, were originally built of wood. After a fire in the late 14th century, the town was rebuilt in stone, surrounded by walls and further strengthened by a network of artificial ponds. The town's Gothic castle was reconstructed in High Gothic style in the late 15th century.",
+  "danger": false,
+  "geojson": "historic-centre-of-telc.geojson"
+}

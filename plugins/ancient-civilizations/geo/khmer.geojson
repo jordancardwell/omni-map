@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "khmer", "name": "Khmer Empire" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[102.0,11.0],[103.0,12.0],[104.5,13.5],[106.0,14.5],[107.5,14.0],[108.0,12.5],[107.5,11.0],[106.0,10.0],[104.5,10.0],[103.0,10.5],[102.0,11.0]]]
+    }
+  }]
+}

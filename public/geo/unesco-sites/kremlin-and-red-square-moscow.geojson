@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6204166667,
+          55.7540277778
+        ]
+      },
+      "properties": {
+        "code": "kremlin-and-red-square-moscow",
+        "name": "Kremlin and Red Square, Moscow",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

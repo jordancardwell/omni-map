@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06666667,
+          5.533333333
+        ]
+      },
+      "properties": {
+        "code": "cocos-island-national-park",
+        "name": "Cocos Island National Park",
+        "type": "Natural",
+        "country": "Costa Rica",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

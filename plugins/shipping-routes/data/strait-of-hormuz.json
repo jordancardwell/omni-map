@@ -1,0 +1,8 @@
+{
+  "code": "strait-of-hormuz",
+  "name": "Strait of Hormuz Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "The world's most important oil chokepoint. Approximately 20% of global petroleum passes through this narrow strait between Iran and Oman/UAE daily.",
+  "geojson": "strait-of-hormuz.geojson"
+}

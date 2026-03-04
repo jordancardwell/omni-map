@@ -1,0 +1,20 @@
+{
+  "code": "bosque-alegre",
+  "name": "Bosque Alegre Astrophysical Station",
+  "country": "Argentina",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1250,
+  "aperture": "1.54 m",
+  "telescopes": [
+    "1.54m reflector"
+  ],
+  "keyDiscoveries": [
+    "Southern sky surveys",
+    "Supernovae observations",
+    "Galactic structure"
+  ],
+  "location": "Bosque Alegre Astrophysical Station, Argentina",
+  "description": "The observing station of Córdoba Observatory in the Sierras de Córdoba mountains. Argentina's main optical facility for decades.",
+  "geojson": "bosque-alegre.geojson"
+}

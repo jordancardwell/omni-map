@@ -1,0 +1,15 @@
+{
+  "code": "rajasthan-basin",
+  "name": "Rajasthan Basin",
+  "region": "South Asia",
+  "stressGroup": "5. Extremely High (>80%)",
+  "waterStressLevel": "Extremely High",
+  "waterStressRatio": "> 80% — Thar Desert and irrigated agriculture",
+  "depletionRate": "Critical — tube well depths increasing by 2-5 m/year",
+  "droughtRisk": "Extreme",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 80000000,
+  "riskFactors": ["Tube well proliferation", "Monsoon failure", "Fluoride contamination", "Thar Desert expansion", "Indira Gandhi Canal dependence"],
+  "description": "Rajasthan is India's driest state, with the Thar Desert covering its western half. Groundwater extraction via millions of unregulated tube wells has caused water tables to plummet. Many districts now drill beyond 150 m depth, encountering fluoride-contaminated water causing skeletal fluorosis. The Indira Gandhi Canal brings Himalayan water 650 km into the desert but serves only a fraction of demand. Monsoon failure years trigger acute agricultural and drinking-water crises.",
+  "geojson": "rajasthan-basin.geojson"
+}

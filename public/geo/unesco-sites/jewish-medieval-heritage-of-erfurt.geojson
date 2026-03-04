@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0292333333,
+          50.9786638889
+        ]
+      },
+      "properties": {
+        "code": "jewish-medieval-heritage-of-erfurt",
+        "name": "Jewish-Medieval Heritage of Erfurt",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

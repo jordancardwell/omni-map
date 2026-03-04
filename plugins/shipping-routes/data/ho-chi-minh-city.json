@@ -1,0 +1,15 @@
+{
+  "code": "ho-chi-minh-city",
+  "name": "Ho Chi Minh City Port",
+  "country": "Vietnam",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 170,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network",
+    "South China Sea Route"
+  ],
+  "description": "Ho Chi Minh City Port in Vietnam. Annual cargo throughput: ~170 million tons. Type: Container Port.",
+  "geojson": "ho-chi-minh-city.geojson"
+}

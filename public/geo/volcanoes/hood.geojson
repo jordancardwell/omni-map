@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.6959,45.3735]},"properties":{"code":"hood","name":"Mount Hood","volcanoType":"Stratovolcano","status":"Dormant","elevation":3429,"lastEruption":"1866","vei":2}}]}

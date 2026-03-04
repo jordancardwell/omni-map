@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5031666666,
+          -20.1586388889
+        ]
+      },
+      "properties": {
+        "code": "aapravasi-ghat",
+        "name": "Aapravasi Ghat",
+        "type": "Cultural",
+        "country": "Mauritius",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

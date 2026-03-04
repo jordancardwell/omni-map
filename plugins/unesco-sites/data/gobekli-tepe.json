@@ -1,0 +1,16 @@
+{
+  "code": "gobekli-tepe",
+  "name": "Göbekli Tepe",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the Germuş mountains of south-eastern Anatolia, this property presents monumental round-oval and rectangular megalithic structures erected by hunter-gatherers in the Pre-Pottery Neolithic age between 9,600 and 8,200 BCE. These monuments were probably used in connection with rituals, most likely of a funerary nature. Distinctive T-shaped pillars are carved with images of wild animals, providing insight into the way of life and beliefs of people living in Upper Mesopotamia about 11,500 years ago.",
+  "danger": false,
+  "geojson": "gobekli-tepe.geojson"
+}

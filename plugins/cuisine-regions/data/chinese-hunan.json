@@ -1,0 +1,34 @@
+{
+  "code": "chinese-hunan",
+  "name": "Hunan Cuisine (Xiang)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Hunan cuisine is characterized by its pure, intense heat from fresh chili peppers, distinguishing it from the numbing spice of Sichuan cooking. The cuisine also features smoked and cured meats, reflecting the province's humid climate and preservation traditions.",
+  "signatureDishes": [
+    "Chairman Mao's Red-Braised Pork",
+    "Steamed Fish Head with Chopped Chili",
+    "Orange Beef",
+    "Smoked Pork with Dried Vegetables"
+  ],
+  "keyIngredients": [
+    "Fresh Chili Peppers",
+    "Smoked Meats",
+    "Pickled Vegetables",
+    "Shallots",
+    "Garlic",
+    "Fermented Black Beans"
+  ],
+  "cookingTechniques": [
+    "Smoking",
+    "Curing",
+    "Stir-frying",
+    "Steaming",
+    "Pot-roasting"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Hunan Province",
+    "Changsha",
+    "Dongting Lake region"
+  ],
+  "geojson": "chinese-hunan.geojson"
+}

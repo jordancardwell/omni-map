@@ -1,0 +1,16 @@
+{
+  "code": "za-in-cable",
+  "name": "ZA-IN Cable",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2917,
+  "yearLaid": 2010,
+  "rfsDate": "2012-06",
+  "owner": "Tata Communications",
+  "landingPoints": [
+    "Cape Town, South Africa",
+    "Mumbai, India"
+  ],
+  "description": "ZA-IN Cable connecting Cape Town to Mumbai.",
+  "geojson": "za-in-cable.geojson"
+}

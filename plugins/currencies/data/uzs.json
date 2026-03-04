@@ -1,0 +1,16 @@
+{
+  "code": "uzs",
+  "name": "Uzbekistani Sum",
+  "isoCode": "UZS",
+  "symbol": "сўм",
+  "region": "Asia",
+  "centralBank": "Central Bank of Uzbekistan",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Uzbekistan"
+  ],
+  "countryCount": 1,
+  "description": "The Uzbekistani Sum is the currency of Central Asia's most populous country, located along the ancient Silk Road.",
+  "historicalNotes": "Introduced in 1994, replacing the Soviet ruble. Uzbekistan unified its official and black market exchange rates in 2017 as part of economic reforms.",
+  "geojson": "uzs.geojson"
+}

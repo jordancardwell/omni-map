@@ -1,0 +1,16 @@
+{
+  "code": "dj-so-cable",
+  "name": "DJ-SO Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 766,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "Djibouti Telecom",
+  "landingPoints": [
+    "Djibouti, Djibouti",
+    "Mogadishu, Somalia"
+  ],
+  "description": "DJ-SO Cable connecting Djibouti to Mogadishu along the African coast.",
+  "geojson": "dj-so-cable.geojson"
+}

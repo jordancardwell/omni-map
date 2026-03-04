@@ -1,0 +1,12 @@
+{
+  "code": "sin",
+  "name": "Singapore Changi",
+  "iataCode": "SIN",
+  "city": "Singapore",
+  "country": "Singapore",
+  "annualPassengers": 62500000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Singapore Changi (SIN) in Singapore, Singapore. Annual passengers: ~62.5M. Classification: Major Hub.",
+  "geojson": "sin.geojson"
+}

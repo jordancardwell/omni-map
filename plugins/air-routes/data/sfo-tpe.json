@@ -1,0 +1,19 @@
+{
+  "code": "sfo-tpe",
+  "name": "San Francisco — Taipei",
+  "airports": [
+    "SFO",
+    "TPE"
+  ],
+  "distanceKm": 10391,
+  "weeklyFlights": 35,
+  "airlines": [
+    "China Airlines",
+    "EVA Air",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SFO–TPE route between San Francisco and Taipei. Distance: 10,391 km. ~35 weekly flights operated by China Airlines, EVA Air, United.",
+  "geojson": "sfo-tpe.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "malayalam",
+  "name": "Malayalam",
+  "scriptType": "Abugida",
+  "characters": 52,
+  "direction": "LTR",
+  "originDate": "~9th century CE",
+  "sampleText": "മലയാളം എന്റെ മാതൃഭാഷ",
+  "relatedScripts": [
+    "tamil",
+    "sinhala"
+  ],
+  "description": "The Malayalam script is an abugida with 52 letters — 16 vowels and 36 consonants. It is known for its elaborate and highly rounded letterforms, considered among the most visually distinctive in India. The script is used for the Malayalam language of Kerala, India.",
+  "historicalNotes": "Malayalam script evolved from the Grantha script, which was used to write Sanskrit in South India. It diverged from the Tamil script around the 9th century CE. The modern rounded forms developed from writing on palm leaves. A significant orthographic reform in 1971 simplified many complex ligatures for use in printing and typewriting.",
+  "geojson": "malayalam.geojson"
+}

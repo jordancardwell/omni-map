@@ -1,0 +1,17 @@
+{
+  "code": "three-parallel-rivers-of-yunnan-protected-areas",
+  "name": "Three Parallel Rivers of Yunnan Protected Areas",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Consisting of eight geographical clusters of protected areas within the boundaries of the Three Parallel Rivers National Park, in the mountainous north-west of Yunnan Province, the 1.7 million hectare site features sections of the upper reaches of three of the great rivers of Asia: the Yangtze (Jinsha), Mekong and Salween run roughly parallel, north to south, through steep gorges which, in places, are 3,000 m deep and are bordered by glaciated peaks more than 6,000 m high. The site is an epicentre of Chinese biodiversity. It is also one of the richest temperate regions of the world in terms of biodiversity.",
+  "danger": false,
+  "geojson": "three-parallel-rivers-of-yunnan-protected-areas.geojson"
+}

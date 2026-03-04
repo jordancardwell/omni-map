@@ -1,0 +1,22 @@
+{
+  "code": "kilauea",
+  "name": "Kīlauea",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1247,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "United States",
+  "region": "Hawaii",
+  "location": "Hawaii, United States",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Volcanic gases",
+    "Lava ocean entries",
+    "Volcanic smog"
+  ],
+  "eruptionHistory": "One of the most active volcanoes on Earth. Erupted nearly continuously from 1983 to 2018. The 2018 eruption destroyed over 700 homes in Leilani Estates.",
+  "description": "Kīlauea is one of the world's most active volcanoes and a shield volcano on the southeastern side of the Big Island of Hawaii. Its 2018 eruption was the most destructive in its modern history.",
+  "geojson": "kilauea.geojson"
+}

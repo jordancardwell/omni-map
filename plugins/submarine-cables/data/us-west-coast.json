@@ -1,0 +1,16 @@
+{
+  "code": "us-west-coast",
+  "name": "US West Coast",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1771,
+  "yearLaid": 2011,
+  "rfsDate": "2012-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "San Francisco, USA"
+  ],
+  "description": "US West Coast connecting Los Angeles to San Francisco.",
+  "geojson": "us-west-coast.geojson"
+}

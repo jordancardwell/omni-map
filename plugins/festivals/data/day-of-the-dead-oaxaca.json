@@ -1,0 +1,14 @@
+{
+  "code": "day-of-the-dead-oaxaca",
+  "name": "Día de los Muertos (Oaxaca)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "October 31–November 2",
+  "origin": "Zapotec/Mixtec tradition",
+  "estimatedAttendance": "Hundreds of thousands",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "Comparsa parades with giant puppets (mojigangas); mezcal toasts; mole negro feasts; elaborate sand tapestries; comparsas through streets.",
+  "historicalBackground": "Oaxaca's celebrations draw from Zapotec and Mixtec indigenous traditions predating Spanish colonization, making them among the most authentic Day of the Dead observances.",
+  "description": "Oaxaca's deeply authentic Day of the Dead celebrations, blending indigenous Zapotec traditions with spectacular parades and communal feasting.",
+  "location": "Oaxaca, Mexico",
+  "geojson": "day-of-the-dead-oaxaca.geojson"
+}

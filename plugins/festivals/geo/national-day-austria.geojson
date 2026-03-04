@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "code": "national-day-austria",
+        "name": "Austrian National Day",
+        "festivalType": "National",
+        "dateOrSeason": "October 26",
+        "location": "Vienna, Austria"
+      }
+    }
+  ]
+}

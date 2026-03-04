@@ -1,0 +1,18 @@
+{
+  "code": "kr",
+  "name": "South Korea",
+  "voltage": "220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "C",
+    "F"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European-style plugs at 60 Hz. Some older buildings may have 110V outlets.",
+  "geojson": "kr.geojson"
+}

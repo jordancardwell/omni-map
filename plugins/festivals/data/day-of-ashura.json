@@ -1,0 +1,14 @@
+{
+  "code": "day-of-ashura",
+  "name": "Day of Ashura",
+  "festivalType": "Religious",
+  "dateOrSeason": "10th Muharram (varies)",
+  "origin": "Islamic tradition",
+  "estimatedAttendance": "Millions worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Shia: mourning processions, passion plays (ta'ziyeh), self-flagellation; Sunni: fasting; all: reflection and remembrance.",
+  "historicalBackground": "Ashura commemorates the martyrdom of Imam Hussein at the Battle of Karbala (680 CE) for Shia Muslims, and Moses' crossing of the Red Sea for Sunni Muslims.",
+  "description": "A major Islamic observance commemorating the martyrdom of Imam Hussein, marked with mourning processions and religious reflection.",
+  "location": "Karbala, Iraq",
+  "geojson": "day-of-ashura.geojson"
+}

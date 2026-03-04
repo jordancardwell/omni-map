@@ -1,0 +1,15 @@
+{
+  "code": "chiba",
+  "name": "Port of Chiba",
+  "country": "Japan",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 160,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Port of Chiba in Japan. Annual cargo throughput: ~160 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "chiba.geojson"
+}

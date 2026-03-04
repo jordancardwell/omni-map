@@ -1,0 +1,15 @@
+{
+  "code": "canadian-boreal-forest",
+  "name": "Canadian Boreal Forest",
+  "region": "North America",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "High — record-breaking seasons in 2023",
+  "dominantVegetation": "Spruce-fir boreal forest, jack pine, muskeg",
+  "fireSeasonMonths": "May – September",
+  "areaBurnedAnnual": "~2.5 million ha average; 18.5 million ha in 2023",
+  "seasonalPattern": "Lightning is the primary ignition source, with fire activity peaking in June–August. Dry springs following low-snowpack winters set the stage for explosive fire seasons. Black spruce forests burn with extreme crown-fire behavior. The 2023 season was unprecedented — fires burned simultaneously from coast to coast, affecting air quality across North America.",
+  "historicalFires": ["2023 Canadian Wildfires (18.5M ha)", "2016 Fort McMurray Fire (590K ha)", "2014 Northwest Territories (3.4M ha)", "2017 British Columbia (1.2M ha)"],
+  "description": "Canada's boreal forest — the world's largest intact forest — experienced its worst fire season in recorded history in 2023. Over 18.5 million hectares burned, more than doubling the previous record. Smoke from these fires blanketed much of North America and drifted across the Atlantic to Europe. The boreal zone stores roughly twice as much carbon as the atmosphere, and increasing fire frequency threatens to turn this carbon sink into a net source. Fire seasons are starting earlier and lasting longer, with burned area expected to double by 2100.",
+  "geojson": "canadian-boreal-forest.geojson"
+}

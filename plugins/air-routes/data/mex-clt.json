@@ -1,0 +1,17 @@
+{
+  "code": "mex-clt",
+  "name": "Mexico City — Charlotte",
+  "airports": [
+    "MEX",
+    "CLT"
+  ],
+  "distanceKm": 2499,
+  "weeklyFlights": 15,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–CLT route between Mexico City and Charlotte. Distance: 2,499 km. ~15 weekly flights operated by American.",
+  "geojson": "mex-clt.geojson"
+}

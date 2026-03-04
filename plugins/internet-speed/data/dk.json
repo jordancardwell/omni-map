@@ -1,0 +1,17 @@
+{
+  "code": "dk",
+  "name": "Denmark",
+  "avgDownloadMbps": 231.5,
+  "avgUploadMbps": 118.2,
+  "avgLatencyMs": 9,
+  "mobileDownloadMbps": 105.4,
+  "mobileUploadMbps": 18.6,
+  "fixedDownloadMbps": 231.5,
+  "fixedUploadMbps": 118.2,
+  "rank": 7,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Strong fiber penetration and 5G expansion. ~11% year-over-year improvement.",
+  "geojson": "dk.geojson"
+}

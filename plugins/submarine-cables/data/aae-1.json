@@ -1,0 +1,21 @@
+{
+  "code": "aae-1",
+  "name": "AAE-1",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 25000,
+  "yearLaid": 2016,
+  "rfsDate": "2017-07",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Marseille, France",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Djibouti, Djibouti",
+    "Mumbai, India",
+    "Singapore",
+    "Hong Kong, China"
+  ],
+  "description": "Asia Africa Europe-1, connecting Europe to Asia via the Middle East and India.",
+  "geojson": "aae-1.geojson"
+}

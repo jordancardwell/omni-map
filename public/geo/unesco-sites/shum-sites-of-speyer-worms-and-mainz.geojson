@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4395388889,
+          49.3162111111
+        ]
+      },
+      "properties": {
+        "code": "shum-sites-of-speyer-worms-and-mainz",
+        "name": "ShUM Sites of Speyer, Worms and Mainz",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

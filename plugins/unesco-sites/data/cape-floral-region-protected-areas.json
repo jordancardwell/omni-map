@@ -1,0 +1,15 @@
+{
+  "code": "cape-floral-region-protected-areas",
+  "name": "Cape Floral Region Protected Areas",
+  "type": "Natural",
+  "country": "South Africa",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region.",
+  "danger": false,
+  "geojson": "cape-floral-region-protected-areas.geojson"
+}

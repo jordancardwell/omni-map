@@ -1,0 +1,16 @@
+{
+  "code": "oman-dj-cable",
+  "name": "Oman-DJ Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3529,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "Omantel",
+  "landingPoints": [
+    "Muscat, Oman",
+    "Djibouti, Djibouti"
+  ],
+  "description": "Oman-DJ Cable connecting Muscat to Djibouti.",
+  "geojson": "oman-dj-cable.geojson"
+}

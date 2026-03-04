@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1949,41.4092]},"properties":{"code":"shasta","name":"Mount Shasta","volcanoType":"Stratovolcano","status":"Dormant","elevation":4322,"lastEruption":"1250","vei":4}}]}

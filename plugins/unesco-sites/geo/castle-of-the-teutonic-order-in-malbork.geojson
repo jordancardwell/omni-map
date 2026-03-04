@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0297222222,
+          54.041
+        ]
+      },
+      "properties": {
+        "code": "castle-of-the-teutonic-order-in-malbork",
+        "name": "Castle of the Teutonic Order in Malbork",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

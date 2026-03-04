@@ -1,0 +1,17 @@
+{
+  "code": "mh",
+  "name": "Marshall Islands",
+  "avgDownloadMbps": 5.2,
+  "avgUploadMbps": 1.6,
+  "avgLatencyMs": 52,
+  "mobileDownloadMbps": 6.4,
+  "mobileUploadMbps": 1.6,
+  "fixedDownloadMbps": 5.2,
+  "fixedUploadMbps": 1.6,
+  "rank": 179,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Oceania",
+  "dataYear": 2024,
+  "trendDescription": "Remote Pacific nation. ~6% year-over-year growth.",
+  "geojson": "mh.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "keltra",
+  "name": "Keltra",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 558,
+  "yearLaid": 2017,
+  "rfsDate": "2023-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Mazara del Vallo, Italy",
+    "Kelibia, Tunisia"
+  ],
+  "description": "Keltra cable connecting Mazara del Vallo to Kelibia across the Mediterranean.",
+  "geojson": "keltra.geojson"
+}

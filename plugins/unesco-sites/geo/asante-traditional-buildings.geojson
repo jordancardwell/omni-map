@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6258333333,
+          6.4011111111
+        ]
+      },
+      "properties": {
+        "code": "asante-traditional-buildings",
+        "name": "Asante Traditional Buildings",
+        "type": "Cultural",
+        "country": "Ghana",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

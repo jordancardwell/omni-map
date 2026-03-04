@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7488888889,
+          48.5844444444
+        ]
+      },
+      "properties": {
+        "code": "strasbourg-grande-ile-and-em-neustadt-em",
+        "name": "Strasbourg, Grande-Île and Neustadt",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

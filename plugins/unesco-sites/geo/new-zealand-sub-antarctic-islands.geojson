@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.1044444,
+          -50.75
+        ]
+      },
+      "properties": {
+        "code": "new-zealand-sub-antarctic-islands",
+        "name": "New Zealand Sub-Antarctic Islands",
+        "type": "Natural",
+        "country": "New Zealand",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

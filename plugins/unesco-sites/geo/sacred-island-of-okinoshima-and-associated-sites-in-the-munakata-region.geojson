@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1055555556,
+          34.245
+        ]
+      },
+      "properties": {
+        "code": "sacred-island-of-okinoshima-and-associated-sites-in-the-munakata-region",
+        "name": "Sacred Island of Okinoshima and Associated Sites in the Munakata Region",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

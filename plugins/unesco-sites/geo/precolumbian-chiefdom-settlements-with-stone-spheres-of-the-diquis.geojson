@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.502539,
+          8.938453
+        ]
+      },
+      "properties": {
+        "code": "precolumbian-chiefdom-settlements-with-stone-spheres-of-the-diquis",
+        "name": "Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
+        "type": "Cultural",
+        "country": "Costa Rica",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

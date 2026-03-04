@@ -1,0 +1,19 @@
+{
+  "code": "atl-ord",
+  "name": "Atlanta — Chicago",
+  "airports": [
+    "ATL",
+    "ORD"
+  ],
+  "distanceKm": 976,
+  "weeklyFlights": 150,
+  "airlines": [
+    "Delta",
+    "United",
+    "American"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–ORD route between Atlanta and Chicago. Distance: 976 km. ~150 weekly flights operated by Delta, United, American.",
+  "geojson": "atl-ord.geojson"
+}

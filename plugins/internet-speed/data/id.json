@@ -1,0 +1,17 @@
+{
+  "code": "id",
+  "name": "Indonesia",
+  "avgDownloadMbps": 37.8,
+  "avgUploadMbps": 18.6,
+  "avgLatencyMs": 22,
+  "mobileDownloadMbps": 24.6,
+  "mobileUploadMbps": 5.2,
+  "fixedDownloadMbps": 37.8,
+  "fixedUploadMbps": 18.6,
+  "rank": 83,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Archipelago challenges, urban areas improving. ~16% year-over-year growth.",
+  "geojson": "id.geojson"
+}

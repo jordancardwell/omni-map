@@ -1,0 +1,28 @@
+{
+  "code": "gnawa",
+  "name": "Gnawa Music",
+  "region": "Morocco",
+  "traditionFamily": "North African",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Guembri",
+    "Qraqeb (Metal Castanets)",
+    "Drums",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Maalem Mahmoud Guinia",
+    "Hassan Hakmoun",
+    "Maalem Hamid El Kasri",
+    "Gnawa Diffusion",
+    "Majid Bekkas"
+  ],
+  "description": "Gnawa music is a body of Moroccan religious songs and rituals rooted in sub-Saharan African spiritual practices combined with Sufi Islam. Performances (called lilas or derdebas) use the guembri (bass lute), iron castanets (qraqeb), and chanting to induce trance states for spiritual healing. Gnawa was inscribed on the UNESCO ICH list in 2019.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Gnawa",
+      "url": "https://ich.unesco.org/en/RL/gnawa-01170"
+    }
+  ],
+  "geojson": "gnawa.geojson"
+}

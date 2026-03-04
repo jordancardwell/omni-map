@@ -1,0 +1,22 @@
+{
+  "code": "reventador",
+  "name": "Reventador",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3562,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Ecuador",
+  "region": "Napo",
+  "location": "Napo, Ecuador",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "Major eruption in 2002 sent ash to Quito. Has been in near-continuous eruption since 2002.",
+  "description": "El Reventador is Ecuador's most active volcano, located in the Amazon foothills east of the Andes. Its 2002 eruption deposited ash on the capital city of Quito.",
+  "geojson": "reventador.geojson"
+}

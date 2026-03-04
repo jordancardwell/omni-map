@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"szx","name":"Shenzhen Bao'an International","featureType":"airport","iataCode":"SZX","annualPassengers":42500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[113.8107,22.6393]}}]}

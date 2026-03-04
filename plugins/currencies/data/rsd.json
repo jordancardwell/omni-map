@@ -1,0 +1,16 @@
+{
+  "code": "rsd",
+  "name": "Serbian Dinar",
+  "isoCode": "RSD",
+  "symbol": "din.",
+  "region": "Europe",
+  "centralBank": "National Bank of Serbia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Serbia"
+  ],
+  "countryCount": 1,
+  "description": "The Serbian Dinar is the currency of Serbia, the largest economy in the Western Balkans.",
+  "historicalNotes": "The modern dinar was introduced in 2003, following Serbia and Montenegro's restructuring. Serbia is a candidate for EU membership.",
+  "geojson": "rsd.geojson"
+}

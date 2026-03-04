@@ -1,0 +1,14 @@
+{
+  "code": "hyrcanian-forests",
+  "name": "Hyrcanian Forests",
+  "type": "Natural",
+  "country": "Azerbaijan, Iran (Islamic Republic of)",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Hyrcanian Forests form a unique forested massif that stretches along the Caspian Sea in Azerbaijan and Iran. The history of these broad-leaved forests dates back 25 to 50 million years, when they covered most of this Northern Temperate region. Their floristic biodiversity is remarkable with over 3,200 vascular plant species documented. To date, 180 species of birds typical of broad-leaved temperate forests and 58 mammal species have been recorded. Elements of the property comprise full ecosystems including top predators such as leopard, wolf and brown bear, and the forest has a high degree of rare and endemic tree species. The oldest trees seen here are 300-400 years old, with some possibly up to 500 years old.",
+  "danger": false,
+  "geojson": "hyrcanian-forests.geojson"
+}

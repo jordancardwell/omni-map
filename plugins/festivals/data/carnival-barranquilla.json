@@ -1,0 +1,14 @@
+{
+  "code": "carnival-barranquilla",
+  "name": "Carnival of Barranquilla",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Colombian tradition",
+  "estimatedAttendance": "1.5+ million participants",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "Battle of Flowers parade; cumbia and mapalé dancing; animal-themed costumes; joselito burial ceremony; comparsas (dance groups).",
+  "historicalBackground": "Barranquilla's Carnival blends indigenous, African, and European traditions from Colombia's Caribbean coast. It became a formal celebration in the 19th century.",
+  "description": "Colombia's greatest cultural festival, a UNESCO-recognized celebration of Caribbean music, dance, and folklore in Barranquilla.",
+  "location": "Barranquilla, Colombia",
+  "geojson": "carnival-barranquilla.geojson"
+}

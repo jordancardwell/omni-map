@@ -1,0 +1,15 @@
+{
+  "code": "chennai",
+  "name": "Port of Chennai",
+  "country": "India",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 60,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "China–India Shipping Route",
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Chennai in India. Annual cargo throughput: ~60 million tons. Type: Container Port.",
+  "geojson": "chennai.geojson"
+}

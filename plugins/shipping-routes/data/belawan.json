@@ -1,0 +1,14 @@
+{
+  "code": "belawan",
+  "name": "Port of Belawan",
+  "country": "Indonesia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Strait of Malacca Route"
+  ],
+  "description": "Port of Belawan in Indonesia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "belawan.geojson"
+}

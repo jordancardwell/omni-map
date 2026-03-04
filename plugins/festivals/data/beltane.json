@@ -1,0 +1,14 @@
+{
+  "code": "beltane",
+  "name": "Beltane Fire Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "April 30",
+  "origin": "Celtic/Neo-pagan tradition",
+  "estimatedAttendance": "10,000+ participants",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fire procession on Calton Hill; May Queen and Green Man performances; drumming; acrobatic fire dancing; body paint.",
+  "historicalBackground": "Beltane marks the beginning of summer in the Celtic calendar. The modern festival was revived in Edinburgh in 1988 based on ancient Gaelic traditions.",
+  "description": "Edinburgh's spectacular revival of the ancient Celtic fire festival, with dramatic processions and fire performances atop Calton Hill.",
+  "location": "Edinburgh, UK",
+  "geojson": "beltane.geojson"
+}

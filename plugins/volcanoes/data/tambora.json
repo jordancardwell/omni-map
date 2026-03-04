@@ -1,0 +1,22 @@
+{
+  "code": "tambora",
+  "name": "Mount Tambora",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 2850,
+  "lastEruption": "1967",
+  "vei": 7,
+  "country": "Indonesia",
+  "region": "Sumbawa",
+  "location": "Sumbawa, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Tsunami",
+    "Ashfall",
+    "Tephra"
+  ],
+  "eruptionHistory": "The 1815 eruption was the largest in recorded history (VEI 7). It killed over 71,000 people and caused the 'Year Without a Summer' in 1816 with global crop failures.",
+  "description": "Mount Tambora's 1815 eruption was the most powerful volcanic eruption in recorded human history. It reduced the mountain's height from ~4,300m to 2,850m and created a 6km-wide caldera.",
+  "geojson": "tambora.geojson"
+}

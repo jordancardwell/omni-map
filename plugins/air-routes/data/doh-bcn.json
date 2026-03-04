@@ -1,0 +1,17 @@
+{
+  "code": "doh-bcn",
+  "name": "Doha — Barcelona",
+  "airports": [
+    "DOH",
+    "BCN"
+  ],
+  "distanceKm": 4861,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–BCN route between Doha and Barcelona. Distance: 4,861 km. ~20 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-bcn.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2137,
+          31.7683
+        ]
+      },
+      "properties": {
+        "code": "christmas",
+        "name": "Christmas",
+        "festivalType": "Religious",
+        "dateOrSeason": "December 25",
+        "location": "Bethlehem, Palestine"
+      }
+    }
+  ]
+}

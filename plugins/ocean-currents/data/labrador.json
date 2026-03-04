@@ -1,0 +1,21 @@
+{
+  "code": "labrador",
+  "name": "Labrador Current",
+  "currentType": "Cold",
+  "speedRange": "0.3–0.5 m/s",
+  "origin": "Arctic Ocean / Baffin Bay",
+  "destination": "Grand Banks / Northwest Atlantic",
+  "climateEffects": [
+    "Cools Northeastern North America",
+    "Brings icebergs south",
+    "Creates fog on Grand Banks"
+  ],
+  "connectedEcosystems": [
+    "Grand Banks fisheries",
+    "Arctic marine species range",
+    "Newfoundland coastal habitats"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Labrador Current carries cold, low-salinity Arctic water southward along the coast of Labrador and Newfoundland. It is responsible for bringing icebergs into North Atlantic shipping lanes and creating the Grand Banks' famous fog banks.",
+  "geojson": "labrador.geojson"
+}

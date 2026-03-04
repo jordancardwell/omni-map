@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "amu-darya-basin", "name": "Amu Darya Basin" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[58,43],[60,42],[62,40],[64,38],[66,37],[68,37],[70,38],[72,39],[73,38],[72,37],[70,36],[68,35],[66,36],[64,37],[62,38],[60,39],[58,40],[57,42],[58,43]]]
+    }
+  }]
+}

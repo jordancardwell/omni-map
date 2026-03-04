@@ -1,0 +1,17 @@
+{
+  "code": "el-arenosillo",
+  "name": "El Arenosillo Test Centre",
+  "country": "Spain",
+  "operator": "INTA",
+  "coordinates": "37.1014°N, 6.7339°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Sounding rockets since 1966",
+    "DART microgravity rockets",
+    "Atmospheric research"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "El Arenosillo Test Centre, Spain",
+  "description": "Spain's sounding rocket launch facility near Huelva. Operated by INTA since 1966 for atmospheric research, microgravity experiments, and military testing.",
+  "geojson": "el-arenosillo.geojson"
+}

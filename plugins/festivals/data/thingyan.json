@@ -1,0 +1,14 @@
+{
+  "code": "thingyan",
+  "name": "Thingyan (Water Festival)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "April 13–16",
+  "origin": "Myanmar Buddhist tradition",
+  "estimatedAttendance": "Millions across Myanmar",
+  "unescoICH": "Not inscribed",
+  "traditions": "Water dousing and water fights; mandats (water-throwing stages); religious observances; washing Buddha images; hair washing of elders.",
+  "historicalBackground": "Thingyan marks the Myanmar New Year and has Buddhist origins. Water symbolizes the cleansing of sins from the old year.",
+  "description": "Myanmar's exuberant water festival celebrating the Buddhist New Year, where cities transform into massive water-soaked celebrations.",
+  "location": "Yangon, Myanmar",
+  "geojson": "thingyan.geojson"
+}

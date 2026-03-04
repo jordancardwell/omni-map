@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2611111111,
+          35.4566666667
+        ]
+      },
+      "properties": {
+        "code": "ashur-qal-at-sherqat",
+        "name": "Ashur (Qal'at Sherqat)",
+        "type": "Cultural",
+        "country": "Iraq",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

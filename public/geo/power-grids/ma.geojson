@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ma","name":"Morocco","country":"MA","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-13.2,27.7],[-13.2,35.9],[-1,35.9],[-1,27.7],[-13.2,27.7]]]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "mz-za-cable",
+  "name": "MZ-ZA Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2228,
+  "yearLaid": 2014,
+  "rfsDate": "2017-06",
+  "owner": "Liquid Telecom",
+  "landingPoints": [
+    "Maputo, Mozambique",
+    "Durban, South Africa"
+  ],
+  "description": "MZ-ZA Cable connecting Maputo to Durban along the African coast.",
+  "geojson": "mz-za-cable.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"si","name":"Slovenia","country":"SI","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[13.4,45.4],[13.4,46.9],[16.6,46.9],[16.6,45.4],[13.4,45.4]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"lhr","name":"London Heathrow","featureType":"airport","iataCode":"LHR","annualPassengers":79200000,"classification":"Mega Hub"},"geometry":{"type":"Point","coordinates":[-0.4543,51.47]}}]}

@@ -1,0 +1,21 @@
+{
+  "code": "mcdonald",
+  "name": "McDonald Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2070,
+  "aperture": "2.7 m",
+  "telescopes": [
+    "Harlan J. Smith 2.7m",
+    "Otto Struve 2.1m"
+  ],
+  "keyDiscoveries": [
+    "Lunar laser ranging",
+    "Asteroid studies",
+    "Stellar variability"
+  ],
+  "location": "McDonald Observatory, United States",
+  "description": "University of Texas observatory in the Davis Mountains. Known for excellent dark skies and public outreach programs.",
+  "geojson": "mcdonald.geojson"
+}

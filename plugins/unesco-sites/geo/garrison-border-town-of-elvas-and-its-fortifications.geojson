@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1633222222,
+          38.8806194444
+        ]
+      },
+      "properties": {
+        "code": "garrison-border-town-of-elvas-and-its-fortifications",
+        "name": "Garrison Border Town of Elvas and its Fortifications",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

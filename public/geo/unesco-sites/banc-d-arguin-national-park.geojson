@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.10889,
+          20.23472
+        ]
+      },
+      "properties": {
+        "code": "banc-d-arguin-national-park",
+        "name": "Banc d'Arguin National Park",
+        "type": "Natural",
+        "country": "Mauritania",
+        "yearInscribed": "1989"
+      }
+    }
+  ]
+}

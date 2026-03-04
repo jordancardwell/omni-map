@@ -1,0 +1,14 @@
+{
+  "code": "winter-solstice-dongzhi",
+  "name": "Dongzhi Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "December 21–22",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Eating tangyuan (glutinous rice balls) in southern China; jiaozi (dumplings) in northern China; family reunions; ancestral worship.",
+  "historicalBackground": "Dongzhi has been celebrated since the Han Dynasty as one of the most important solar terms. It marks the return of longer daylight hours.",
+  "description": "China's Winter Solstice festival, where families gather to eat warming tangyuan and dumplings, celebrating the return of longer days.",
+  "location": "Shanghai, China",
+  "geojson": "winter-solstice-dongzhi.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "olmec",
+  "name": "Olmec Civilization",
+  "period": "c. 1500–400 BCE",
+  "region": "Mesoamerica",
+  "type": "Civilization",
+  "writingSystem": "Olmec hieroglyphs (proto-writing)",
+  "majorAchievements": ["Colossal stone heads", "Mesoamerican ballgame", "Long Count calendar origins", "Jade carving", "Urban ceremonial centers", "Rubber processing"],
+  "keyCities": ["San Lorenzo", "La Venta", "Tres Zapotes", "Laguna de los Cerros"],
+  "description": "The Olmec are often regarded as the 'mother culture' of Mesoamerica, establishing many cultural patterns adopted by later civilizations. They are best known for their massive basalt head sculptures, some weighing over 20 tons. The Olmec developed early forms of writing, a complex calendar, and the ceremonial ballgame that would become central to Mesoamerican cultures for millennia.",
+  "geojson": "olmec.geojson"
+}

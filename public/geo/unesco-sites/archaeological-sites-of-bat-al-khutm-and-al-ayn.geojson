@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.745,
+          23.26986
+        ]
+      },
+      "properties": {
+        "code": "archaeological-sites-of-bat-al-khutm-and-al-ayn",
+        "name": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+        "type": "Cultural",
+        "country": "Oman",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

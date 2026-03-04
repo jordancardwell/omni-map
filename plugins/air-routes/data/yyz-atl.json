@@ -1,0 +1,18 @@
+{
+  "code": "yyz-atl",
+  "name": "Toronto — Atlanta",
+  "airports": [
+    "YYZ",
+    "ATL"
+  ],
+  "distanceKm": 1191,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Delta",
+    "WestJet"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–ATL route between Toronto and Atlanta. Distance: 1,191 km. ~30 weekly flights operated by Delta, WestJet.",
+  "geojson": "yyz-atl.geojson"
+}

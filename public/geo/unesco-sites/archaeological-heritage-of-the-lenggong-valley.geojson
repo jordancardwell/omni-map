@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9723277778,
+          5.0679083333
+        ]
+      },
+      "properties": {
+        "code": "archaeological-heritage-of-the-lenggong-valley",
+        "name": "Archaeological Heritage of the Lenggong Valley",
+        "type": "Cultural",
+        "country": "Malaysia",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

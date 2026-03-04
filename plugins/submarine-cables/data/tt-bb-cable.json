@@ -1,0 +1,16 @@
+{
+  "code": "tt-bb-cable",
+  "name": "TT-BB Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1774,
+  "yearLaid": 2014,
+  "rfsDate": "2012-06",
+  "owner": "Digicel",
+  "landingPoints": [
+    "Port of Spain, Trinidad",
+    "Bridgetown, Barbados"
+  ],
+  "description": "TT-BB Cable connecting Port of Spain to Bridgetown in the Caribbean region.",
+  "geojson": "tt-bb-cable.geojson"
+}

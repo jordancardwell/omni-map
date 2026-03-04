@@ -1,0 +1,14 @@
+{
+  "code": "aqaba",
+  "name": "Port of Aqaba",
+  "country": "Jordan",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Red Sea Route"
+  ],
+  "description": "Port of Aqaba in Jordan. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "aqaba.geojson"
+}

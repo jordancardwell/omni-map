@@ -1,0 +1,16 @@
+{
+  "code": "ar-uy-cable",
+  "name": "AR-UY Cable",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3438,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "Antel",
+  "landingPoints": [
+    "Buenos Aires, Argentina",
+    "Montevideo, Uruguay"
+  ],
+  "description": "AR-UY Cable connecting Buenos Aires to Montevideo in South America.",
+  "geojson": "ar-uy-cable.geojson"
+}

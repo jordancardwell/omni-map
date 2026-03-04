@@ -1,0 +1,21 @@
+{
+  "code": "act",
+  "name": "Atacama Cosmology Telescope",
+  "country": "Chile",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 5190,
+  "aperture": "6 m",
+  "telescopes": [
+    "ACT",
+    "AdvACT"
+  ],
+  "keyDiscoveries": [
+    "CMB power spectrum",
+    "Galaxy cluster discovery",
+    "Gravitational lensing of CMB"
+  ],
+  "location": "Atacama Cosmology Telescope, Chile",
+  "description": "A 6m telescope in the Atacama Desert designed to measure the cosmic microwave background at fine angular scales. Key data for cosmological parameters.",
+  "geojson": "act.geojson"
+}

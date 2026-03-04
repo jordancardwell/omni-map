@@ -1,0 +1,14 @@
+{
+  "code": "national-day-india-independence",
+  "name": "Independence Day (India)",
+  "festivalType": "National",
+  "dateOrSeason": "August 15",
+  "origin": "Indian national",
+  "estimatedAttendance": "1.4+ billion Indians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Flag hoisting at Red Fort by Prime Minister; patriotic speeches; kite flying; cultural programs; military displays.",
+  "historicalBackground": "Independence Day marks August 15, 1947, when India gained independence from British colonial rule after nearly 200 years, through the efforts of Gandhi and others.",
+  "description": "India's Independence Day, when the Prime Minister unfurls the flag at the Red Fort and a billion citizens celebrate freedom.",
+  "location": "New Delhi, India",
+  "geojson": "national-day-india-independence.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3663611111,
+          31.4473055556
+        ]
+      },
+      "properties": {
+        "code": "saint-hilarion-monastery-tell-umm-amer",
+        "name": "Saint Hilarion Monastery/ Tell Umm Amer",
+        "type": "Cultural",
+        "country": "State of Palestine",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4922222,
+          50.76777778
+        ]
+      },
+      "properties": {
+        "code": "dinosaur-provincial-park",
+        "name": "Dinosaur Provincial Park",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

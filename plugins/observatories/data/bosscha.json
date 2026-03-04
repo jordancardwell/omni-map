@@ -1,0 +1,21 @@
+{
+  "code": "bosscha",
+  "name": "Bosscha Observatory",
+  "country": "Indonesia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1310,
+  "aperture": "0.6 m (Zeiss)",
+  "telescopes": [
+    "Zeiss double refractor",
+    "Bima Sakti Schmidt"
+  ],
+  "keyDiscoveries": [
+    "Southern stellar surveys",
+    "Double star catalogs",
+    "Solar eclipses"
+  ],
+  "location": "Bosscha Observatory, Indonesia",
+  "description": "Indonesia's oldest modern observatory, founded in 1923 in Lembang. Operated by the Bandung Institute of Technology for research and education.",
+  "geojson": "bosscha.geojson"
+}

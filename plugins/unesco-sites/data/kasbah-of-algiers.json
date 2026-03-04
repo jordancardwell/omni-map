@@ -1,0 +1,15 @@
+{
+  "code": "kasbah-of-algiers",
+  "name": "Kasbah of Algiers",
+  "type": "Cultural",
+  "country": "Algeria",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(ii)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "The Kasbah is a unique kind of medina, or Islamic city. It stands in one of the finest coastal sites on the Mediterranean, overlooking the islands where a Carthaginian trading-post was established in the 4th century BC. There are the remains of the citadel, old mosques and Ottoman-style palaces as well as the remains of a traditional urban structure associated with a deep-rooted sense of community.",
+  "danger": false,
+  "geojson": "kasbah-of-algiers.geojson"
+}

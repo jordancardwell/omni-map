@@ -1,0 +1,15 @@
+{
+  "code": "agricultural-landscape-of-southern-oland",
+  "name": "Agricultural Landscape of Southern Öland",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau. Human beings have lived here for some five thousand years and adapted their way of life to the physical constraints of the island. As a consequence, the landscape is unique, with abundant evidence of continuous human settlement from prehistoric times to the present day.",
+  "danger": false,
+  "geojson": "agricultural-landscape-of-southern-oland.geojson"
+}

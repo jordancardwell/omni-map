@@ -1,0 +1,19 @@
+{
+  "code": "table-mountain-ghost-frog",
+  "name": "Table Mountain Ghost Frog",
+  "scientificName": "Heleophryne rosei",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~500 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Mountain fynbos streams",
+  "threats": [
+    "Water extraction",
+    "Invasive plants",
+    "Climate change",
+    "Pollution"
+  ],
+  "conservationEfforts": "Table Mountain National Park protects habitat. Alien vegetation removal programs. Stream water quality monitoring.",
+  "description": "Found only on Table Mountain in Cape Town, South Africa, this frog's entire range covers just 7-8 km². It lives in crystal-clear mountain streams and has translucent skin on its belly.",
+  "geojson": "table-mountain-ghost-frog.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3636562,
+          43.2070631
+        ]
+      },
+      "properties": {
+        "code": "historic-fortified-city-of-carcassonne",
+        "name": "Historic Fortified City of Carcassonne",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

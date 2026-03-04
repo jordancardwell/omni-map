@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.4001666667,
+          12.8656666667
+        ]
+      },
+      "properties": {
+        "code": "kaeng-krachan-forest-complex",
+        "name": "Kaeng Krachan Forest Complex",
+        "type": "Natural",
+        "country": "Thailand",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.3805555556,
+          11.6
+        ]
+      },
+      "properties": {
+        "code": "bikini-atoll-nuclear-test-site",
+        "name": "Bikini Atoll Nuclear Test Site",
+        "type": "Cultural",
+        "country": "Marshall Islands",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

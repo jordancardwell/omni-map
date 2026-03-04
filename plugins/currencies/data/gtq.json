@@ -1,0 +1,16 @@
+{
+  "code": "gtq",
+  "name": "Guatemalan Quetzal",
+  "isoCode": "GTQ",
+  "symbol": "Q",
+  "region": "Americas",
+  "centralBank": "Bank of Guatemala",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Guatemala"
+  ],
+  "countryCount": 1,
+  "description": "The Quetzal is named after the national bird of Guatemala, the resplendent quetzal, which was sacred to the ancient Maya.",
+  "historicalNotes": "Introduced in 1925, replacing the peso. In Mayan civilization, quetzal feathers were used as currency, making this one of the few modern currencies with pre-Columbian monetary roots.",
+  "geojson": "gtq.geojson"
+}

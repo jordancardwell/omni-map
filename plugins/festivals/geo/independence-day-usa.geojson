@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365,
+          38.8977
+        ]
+      },
+      "properties": {
+        "code": "independence-day-usa",
+        "name": "Independence Day (USA)",
+        "festivalType": "National",
+        "dateOrSeason": "July 4",
+        "location": "Washington D.C., USA"
+      }
+    }
+  ]
+}

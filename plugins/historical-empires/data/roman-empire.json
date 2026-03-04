@@ -1,0 +1,25 @@
+{
+  "code": "roman-empire",
+  "name": "Roman Empire",
+  "era": "Ancient",
+  "peakYear": "117 CE",
+  "areaAtPeakKm2": 5000000,
+  "populationEstimate": "70 million",
+  "capital": "Rome",
+  "keyAchievements": [
+    "Roman law",
+    "Road networks",
+    "Aqueducts",
+    "Latin language spread",
+    "Republican government"
+  ],
+  "declineFactors": [
+    "Barbarian invasions",
+    "Economic instability",
+    "Political corruption",
+    "Military overextension",
+    "Division into East and West"
+  ],
+  "description": "The Roman Empire was one of the largest and most influential civilizations in world history. At its peak under Emperor Trajan in 117 CE, it controlled the entire Mediterranean basin, much of Western Europe, North Africa, and the Near East.\n\nRome's legacy includes its legal system, engineering marvels like roads and aqueducts, Latin (the ancestor of Romance languages), and the spread of Christianity. The empire's fall in 476 CE marked the beginning of the Middle Ages in Europe.",
+  "geojson": "roman-empire.geojson"
+}

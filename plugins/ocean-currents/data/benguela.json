@@ -1,0 +1,21 @@
+{
+  "code": "benguela",
+  "name": "Benguela Current",
+  "currentType": "Cold",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "Southern Ocean / Antarctic Circumpolar",
+  "destination": "South Equatorial Current (Atlantic)",
+  "climateEffects": [
+    "Cools Southwest African coast",
+    "Creates Namib Desert conditions",
+    "Drives major upwelling system"
+  ],
+  "connectedEcosystems": [
+    "Benguela upwelling ecosystem",
+    "Namibian fisheries",
+    "South African marine habitats"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Benguela Current flows northward along the southwest coast of Africa. Its associated upwelling system is one of the most productive marine ecosystems on Earth, supporting massive fisheries and seabird colonies.",
+  "geojson": "benguela.geojson"
+}

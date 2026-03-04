@@ -1,0 +1,16 @@
+{
+  "code": "br-northeast",
+  "name": "BR Northeast",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1938,
+  "yearLaid": 2013,
+  "rfsDate": "2017-06",
+  "owner": "Algar",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Recife, Brazil"
+  ],
+  "description": "BR Northeast connecting Fortaleza to Recife in South America.",
+  "geojson": "br-northeast.geojson"
+}

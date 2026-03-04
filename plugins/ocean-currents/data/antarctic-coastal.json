@@ -1,0 +1,21 @@
+{
+  "code": "antarctic-coastal",
+  "name": "Antarctic Coastal Current (East Wind Drift)",
+  "currentType": "Deep",
+  "speedRange": "0.05–0.15 m/s",
+  "origin": "Antarctic coast",
+  "destination": "Antarctic coast (westward loop)",
+  "climateEffects": [
+    "Drives coastal ice formation",
+    "Creates Antarctic polynyas",
+    "Contributes to bottom water formation"
+  ],
+  "connectedEcosystems": [
+    "Antarctic ice shelf ecosystem",
+    "Ross Sea marine habitats",
+    "Weddell Sea biodiversity"
+  ],
+  "itemCategory": "Deep",
+  "description": "The Antarctic Coastal Current (East Wind Drift) flows westward close to the Antarctic continent, driven by polar easterly winds. It is the counterpart to the eastward Antarctic Circumpolar Current and plays a role in Antarctic Bottom Water formation.",
+  "geojson": "antarctic-coastal.geojson"
+}

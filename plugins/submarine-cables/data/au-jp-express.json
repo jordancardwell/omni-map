@@ -1,0 +1,16 @@
+{
+  "code": "au-jp-express",
+  "name": "AU-JP Express",
+  "capacityTbps": 31,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7649,
+  "yearLaid": 2017,
+  "rfsDate": "2012-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Tokyo, Japan"
+  ],
+  "description": "AU-JP Express connecting Sydney to Tokyo.",
+  "geojson": "au-jp-express.geojson"
+}

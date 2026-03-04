@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4664755556,
+          39.9055708333
+        ]
+      },
+      "properties": {
+        "code": "the-20th-century-architecture-of-frank-lloyd-wright",
+        "name": "The 20th-Century Architecture of Frank Lloyd Wright",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

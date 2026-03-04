@@ -1,0 +1,12 @@
+{
+  "code": "mnl",
+  "name": "Ninoy Aquino International",
+  "iataCode": "MNL",
+  "city": "Manila",
+  "country": "Philippines",
+  "annualPassengers": 39000000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Ninoy Aquino International (MNL) in Manila, Philippines. Annual passengers: ~39M. Classification: Regional Hub.",
+  "geojson": "mnl.geojson"
+}

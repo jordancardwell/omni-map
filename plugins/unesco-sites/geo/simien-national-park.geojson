@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0666666667,
+          13.1833333333
+        ]
+      },
+      "properties": {
+        "code": "simien-national-park",
+        "name": "Simien National Park",
+        "type": "Natural",
+        "country": "Ethiopia",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

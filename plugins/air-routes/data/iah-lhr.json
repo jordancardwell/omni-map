@@ -1,0 +1,18 @@
+{
+  "code": "iah-lhr",
+  "name": "Houston — London",
+  "airports": [
+    "IAH",
+    "LHR"
+  ],
+  "distanceKm": 7763,
+  "weeklyFlights": 35,
+  "airlines": [
+    "British Airways",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–LHR route between Houston and London. Distance: 7,763 km. ~35 weekly flights operated by British Airways, United.",
+  "geojson": "iah-lhr.geojson"
+}

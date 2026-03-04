@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1633888889,
+          19.7649166667
+        ]
+      },
+      "properties": {
+        "code": "the-cultural-landscape-of-al-faw-archaeological-area",
+        "name": "The Cultural Landscape of Al-Faw Archaeological Area",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

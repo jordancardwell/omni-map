@@ -1,0 +1,16 @@
+{
+  "code": "us-uk-express",
+  "name": "US-UK Express",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9294,
+  "yearLaid": 2022,
+  "rfsDate": "2021-06",
+  "owner": "GTT",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "London, UK"
+  ],
+  "description": "US-UK Express connecting Virginia Beach to London.",
+  "geojson": "us-uk-express.geojson"
+}

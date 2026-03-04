@@ -1,0 +1,22 @@
+{
+  "code": "tongariro",
+  "name": "Tongariro",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1978,
+  "lastEruption": "2012",
+  "vei": 2,
+  "country": "New Zealand",
+  "region": "North Island",
+  "location": "North Island, New Zealand",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic surges",
+    "Lahars",
+    "Ballistic projectiles"
+  ],
+  "eruptionHistory": "The 2012 eruption from Te Maari crater was the first in over a century. Historical eruptions include 1896 and earlier.",
+  "description": "Tongariro is a complex volcanic massif with multiple craters. It is a UNESCO World Heritage Site and home to the famous Tongariro Alpine Crossing track.",
+  "geojson": "tongariro.geojson"
+}

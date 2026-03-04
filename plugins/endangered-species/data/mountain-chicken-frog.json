@@ -1,0 +1,19 @@
+{
+  "code": "mountain-chicken-frog",
+  "name": "Mountain Chicken Frog",
+  "scientificName": "Leptodactylus fallax",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~130 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical forest and ravines",
+  "threats": [
+    "Chytrid fungus",
+    "Volcanic eruption",
+    "Hunting",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "Durrell Wildlife Conservation Trust leads recovery on Dominica and Montserrat. Captive breeding in UK zoos. Anti-chytrid treatment trials in the field.",
+  "description": "One of the world's largest frogs (up to 21 cm), named because locals say it tastes like chicken. Chytrid fungus has reduced populations by 80% on its remaining Caribbean islands.",
+  "geojson": "mountain-chicken-frog.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ars",
+  "name": "Argentine Peso",
+  "isoCode": "ARS",
+  "symbol": "AR$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Argentina",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Argentina"
+  ],
+  "countryCount": 1,
+  "description": "The Argentine Peso has experienced significant volatility and multiple devaluations throughout its history, reflecting Argentina's complex economic challenges.",
+  "historicalNotes": "Argentina has changed its currency multiple times. The current peso was introduced in 1992, replacing the austral at a rate of 10,000:1. It was pegged to the US dollar until the 2001 economic crisis.",
+  "geojson": "ars.geojson"
+}

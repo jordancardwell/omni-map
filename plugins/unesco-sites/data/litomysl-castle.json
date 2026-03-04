@@ -1,0 +1,15 @@
+{
+  "code": "litomysl-castle",
+  "name": "Litomyšl Castle",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Litomyšl Castle was originally a Renaissance arcade-castle of the type first developed in Italy and then adopted and greatly developed in central Europe in the 16th century. Its design and decoration are particularly fine, including the later High-Baroque features added in the 18th century. It preserves intact the range of ancillary buildings associated with an aristocratic residence of this type.",
+  "danger": false,
+  "geojson": "litomysl-castle.geojson"
+}

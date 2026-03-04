@@ -1,0 +1,18 @@
+{
+  "code": "sfo-phx",
+  "name": "San Francisco — Phoenix",
+  "airports": [
+    "SFO",
+    "PHX"
+  ],
+  "distanceKm": 1047,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SFO–PHX route between San Francisco and Phoenix. Distance: 1,047 km. ~60 weekly flights operated by United, American.",
+  "geojson": "sfo-phx.geojson"
+}

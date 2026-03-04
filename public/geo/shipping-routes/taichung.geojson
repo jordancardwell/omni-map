@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"taichung","name":"Port of Taichung","featureType":"port","portType":"Multi-Purpose Port","country":"Taiwan"},"geometry":{"type":"Point","coordinates":[120.51,24.28]}}]}

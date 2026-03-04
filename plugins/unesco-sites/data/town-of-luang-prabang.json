@@ -1,0 +1,16 @@
+{
+  "code": "town-of-luang-prabang",
+  "name": "Town of Luang Prabang",
+  "type": "Cultural",
+  "country": "Lao People's Democratic Republic",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Luang Prabang is an outstanding example of the fusion of traditional architecture and Lao urban structures with those built by the European colonial authorities in the 19th and 20th centuries. Its unique, remarkably well-preserved townscape illustrates a key stage in the blending of these two distinct cultural traditions.",
+  "danger": false,
+  "geojson": "town-of-luang-prabang.geojson"
+}

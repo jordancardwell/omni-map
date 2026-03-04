@@ -1,0 +1,16 @@
+{
+  "code": "thai",
+  "name": "Thai",
+  "scriptType": "Abugida",
+  "characters": 44,
+  "direction": "LTR",
+  "originDate": "1283 CE",
+  "sampleText": "สวัสดีครับ ยินดีต้อนรับ",
+  "relatedScripts": [
+    "lao",
+    "khmer"
+  ],
+  "description": "The Thai script is an abugida with 44 consonant letters, 15 vowel symbols, and 4 tone marks. Unlike many scripts, Thai does not use spaces between words — spaces indicate the end of a clause or sentence. Vowel marks can appear above, below, before, or after consonants.",
+  "historicalNotes": "The Thai script was created in 1283 CE by King Ramkhamhaeng the Great, based on the Khmer script which itself derived from South Indian Pallava script via the Brahmi tradition. The inscription known as the Ramkhamhaeng Stele is considered the earliest example of Thai writing. The script has remained largely unchanged since its creation.",
+  "geojson": "thai.geojson"
+}

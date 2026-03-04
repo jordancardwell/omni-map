@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.90222,
+          12.10194
+        ]
+      },
+      "properties": {
+        "code": "historic-area-of-willemstad-inner-city-and-harbour-curacao",
+        "name": "Historic Area of Willemstad, Inner City and Harbour, Curaçao",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

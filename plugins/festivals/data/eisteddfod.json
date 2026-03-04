@@ -1,0 +1,14 @@
+{
+  "code": "eisteddfod",
+  "name": "National Eisteddfod of Wales",
+  "festivalType": "Cultural",
+  "dateOrSeason": "First week of August",
+  "origin": "Welsh tradition",
+  "estimatedAttendance": "150,000+ visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bardic ceremonies; chairing of the bard; poetry and music competitions; Welsh language immersion; art and craft exhibitions.",
+  "historicalBackground": "Eisteddfodau date to 1176, when Lord Rhys held a contest at Cardigan Castle. The modern National Eisteddfod was established in 1861 to promote Welsh culture.",
+  "description": "Wales's premier cultural festival, a centuries-old celebration of Welsh poetry, music, and language with the dramatic chairing of the bard.",
+  "location": "Cardiff, Wales",
+  "geojson": "eisteddfod.geojson"
+}

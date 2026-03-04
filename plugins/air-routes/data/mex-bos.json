@@ -1,0 +1,17 @@
+{
+  "code": "mex-bos",
+  "name": "Mexico City — Boston",
+  "airports": [
+    "MEX",
+    "BOS"
+  ],
+  "distanceKm": 3665,
+  "weeklyFlights": 15,
+  "airlines": [
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–BOS route between Mexico City and Boston. Distance: 3,665 km. ~15 weekly flights operated by JetBlue.",
+  "geojson": "mex-bos.geojson"
+}

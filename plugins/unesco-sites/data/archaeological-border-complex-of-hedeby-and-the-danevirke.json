@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-border-complex-of-hedeby-and-the-danevirke",
+  "name": "Archaeological Border complex of Hedeby and the Danevirke",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The archaeological site of Hedeby consists of the remains of an emporium – or trading town – containing traces of roads, buildings, cemeteries and a harbour dating back to the 1st and early 2nd millennia CE. It is enclosed by part of the Danevirke, a line of fortification crossing the Schleswig isthmus, which separates the Jutland Peninsula from the rest of the European mainland. Because of its unique situation between the Frankish Empire in the South and the Danish Kingdom in the North, Hedeby became a trading hub between continental Europe and Scandinavia and between the North Sea and the Baltic Sea. Because of its rich and well preserved archaeological material, it has become a key site for the interpretation of economic, social and historical developments in Europe during the Viking age.",
+  "danger": false,
+  "geojson": "archaeological-border-complex-of-hedeby-and-the-danevirke.geojson"
+}

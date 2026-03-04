@@ -1,0 +1,14 @@
+{
+  "code": "la-guaira",
+  "name": "Puerto de La Guaira",
+  "country": "Venezuela",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "South America–Caribbean Route"
+  ],
+  "description": "Puerto de La Guaira in Venezuela. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "la-guaira.geojson"
+}

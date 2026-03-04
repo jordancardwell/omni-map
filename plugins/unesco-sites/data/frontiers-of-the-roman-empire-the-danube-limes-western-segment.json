@@ -1,0 +1,16 @@
+{
+  "code": "frontiers-of-the-roman-empire-the-danube-limes-western-segment",
+  "name": "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
+  "type": "Cultural",
+  "country": "Austria, Slovakia, Germany",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "It covers almost 600km of the whole Roman Empire’s Danube frontier. The property formed part of the much large frontier of the Roman Empire that encircled the Mediterranean Sea. The Danube Limes (Western Segment) reflects the specificities of this part of the Roman Frontier through the selection of sites that represent key elements from roads, legionary fortresses and their associated settlements to small forts and temporary camps, and the way these structures relate to local topography.",
+  "danger": false,
+  "geojson": "frontiers-of-the-roman-empire-the-danube-limes-western-segment.geojson"
+}

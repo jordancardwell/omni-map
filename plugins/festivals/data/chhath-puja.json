@@ -1,0 +1,14 @@
+{
+  "code": "chhath-puja",
+  "name": "Chhath Puja",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "October–November",
+  "origin": "Bihari Hindu tradition",
+  "estimatedAttendance": "Tens of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Standing in rivers at dawn and dusk offering prayers to the Sun God; fasting for 36 hours; making offerings of fruit and thekua.",
+  "historicalBackground": "Chhath Puja is among the oldest Hindu festivals, dedicated to Surya (Sun God) and Chhathi Maiya. It is unique to Bihar, Jharkhand, and eastern UP.",
+  "description": "Bihar's ancient sun worship festival, where millions stand in rivers at dawn to offer prayers in one of Hinduism's most austere rituals.",
+  "location": "Patna, India",
+  "geojson": "chhath-puja.geojson"
+}

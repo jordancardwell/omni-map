@@ -1,0 +1,16 @@
+{
+  "code": "ye-dj-cable",
+  "name": "YE-DJ Cable",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 839,
+  "yearLaid": 2020,
+  "rfsDate": "2014-06",
+  "owner": "TeleYemen",
+  "landingPoints": [
+    "Aden, Yemen",
+    "Djibouti, Djibouti"
+  ],
+  "description": "YE-DJ Cable connecting Aden to Djibouti in the Middle East.",
+  "geojson": "ye-dj-cable.geojson"
+}

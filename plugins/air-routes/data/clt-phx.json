@@ -1,0 +1,17 @@
+{
+  "code": "clt-phx",
+  "name": "Charlotte — Phoenix",
+  "airports": [
+    "CLT",
+    "PHX"
+  ],
+  "distanceKm": 2848,
+  "weeklyFlights": 30,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CLT–PHX route between Charlotte and Phoenix. Distance: 2,848 km. ~30 weekly flights operated by American.",
+  "geojson": "clt-phx.geojson"
+}

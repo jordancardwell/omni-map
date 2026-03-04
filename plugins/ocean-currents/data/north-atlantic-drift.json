@@ -1,0 +1,21 @@
+{
+  "code": "north-atlantic-drift",
+  "name": "North Atlantic Drift",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.5 m/s",
+  "origin": "Mid-Atlantic (Gulf Stream extension)",
+  "destination": "Norwegian Sea / Arctic",
+  "climateEffects": [
+    "Keeps Norwegian ports ice-free",
+    "Moderates Northern European winters",
+    "Influences Arctic sea ice extent"
+  ],
+  "connectedEcosystems": [
+    "Norwegian Sea fisheries",
+    "Barents Sea ecosystem",
+    "Iceland marine habitats"
+  ],
+  "itemCategory": "Warm",
+  "description": "The North Atlantic Drift is the northeastern extension of the Gulf Stream, carrying warm subtropical water toward Northern Europe and the Arctic. It is a key component of the Atlantic thermohaline circulation.",
+  "geojson": "north-atlantic-drift.geojson"
+}

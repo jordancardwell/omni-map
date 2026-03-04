@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 
 test.describe("mobile layout", () => {
   test("map fills the full viewport", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("/map");
 
     const mapContainer = page.locator(".leaflet-container");
     await expect(mapContainer).toBeVisible({ timeout: 10000 });
@@ -15,7 +15,7 @@ test.describe("mobile layout", () => {
   });
 
   test("no horizontal scroll on mobile viewport", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("/map");
     await page.locator(".leaflet-container").waitFor({ timeout: 10000 });
 
     const scrollWidth = await page.evaluate(
@@ -30,7 +30,7 @@ test.describe("mobile layout", () => {
   test("sidebar starts hidden with hamburger menu visible", async ({
     page,
   }) => {
-    await page.goto("/");
+    await page.goto("/map");
     await page.locator(".leaflet-container").waitFor({ timeout: 10000 });
 
     // Hamburger toggle should be visible
@@ -45,14 +45,14 @@ test.describe("mobile layout", () => {
   });
 
   test("hamburger opens sidebar and close dismisses it", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("/map");
     await page.locator(".leaflet-container").waitFor({ timeout: 10000 });
 
     // Open sidebar via hamburger
     await page.locator('[data-testid="sidebar-toggle"]').click();
 
     // Sidebar should slide in
-    const sidebar = page.locator('[data-testid="language-sidebar"]');
+    const sidebar = page.locator('[data-testid="generic-sidebar"]');
     await expect(sidebar).toBeVisible();
 
     // Close button should be visible on mobile
@@ -73,50 +73,50 @@ test.describe("mobile layout", () => {
   });
 
   test("sidebar search and toggle work on mobile", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("/map");
     await page.locator(".leaflet-container").waitFor({ timeout: 10000 });
 
     // Open sidebar
     await page.locator('[data-testid="sidebar-toggle"]').click();
     await expect(
-      page.locator('[data-testid="language-sidebar"]')
+      page.locator('[data-testid="generic-sidebar"]')
     ).toBeVisible();
 
     // Search for English
-    const searchInput = page.locator('[data-testid="language-search"]');
+    const searchInput = page.locator('[data-testid="sidebar-search"]');
     await searchInput.fill("English");
     await page.waitForTimeout(500);
 
     // English should be visible, Mandarin should not
     await expect(
-      page.locator('[data-testid="language-item-en"]')
+      page.locator('[data-testid="sidebar-item-en"]')
     ).toBeVisible();
     await expect(
-      page.locator('[data-testid="language-item-zh"]')
+      page.locator('[data-testid="sidebar-item-zh"]')
     ).not.toBeVisible();
 
     // Toggle English on
-    await page.locator('[data-testid="language-toggle-en"]').click();
+    await page.locator('[data-testid="sidebar-toggle-en"]').click();
     await expect(
-      page.locator('[data-testid="language-active-en"]')
+      page.locator('[data-testid="sidebar-active-en"]')
     ).toBeVisible();
   });
 
   test("detail panel renders as full-screen overlay on mobile", async ({
     page,
   }) => {
-    await page.goto("/");
+    await page.goto("/map");
     await page.locator(".leaflet-container").waitFor({ timeout: 10000 });
 
     // Open sidebar and trigger detail panel
     await page.locator('[data-testid="sidebar-toggle"]').click();
     await expect(
-      page.locator('[data-testid="language-sidebar"]')
+      page.locator('[data-testid="generic-sidebar"]')
     ).toBeVisible();
-    await page.locator('[data-testid="language-info-en"]').click();
+    await page.locator('[data-testid="sidebar-info-en"]').click();
 
     // Detail panel should appear
-    const panel = page.locator('[data-testid="language-detail-panel"]');
+    const panel = page.locator('[data-testid="detail-panel"]');
     await expect(panel).toBeVisible({ timeout: 3000 });
 
     // Panel should cover the full viewport on mobile
@@ -133,24 +133,24 @@ test.describe("mobile layout", () => {
 
     // Content should be present
     await expect(
-      page.locator('[data-testid="detail-panel-name"]')
+      page.locator('[data-testid="detail-panel-title"]')
     ).toHaveText("English");
   });
 
   test("detail panel back button dismisses panel on mobile", async ({
     page,
   }) => {
-    await page.goto("/");
+    await page.goto("/map");
     await page.locator(".leaflet-container").waitFor({ timeout: 10000 });
 
     // Open sidebar and detail panel
     await page.locator('[data-testid="sidebar-toggle"]').click();
     await expect(
-      page.locator('[data-testid="language-sidebar"]')
+      page.locator('[data-testid="generic-sidebar"]')
     ).toBeVisible();
-    await page.locator('[data-testid="language-info-en"]').click();
+    await page.locator('[data-testid="sidebar-info-en"]').click();
     await expect(
-      page.locator('[data-testid="language-detail-panel"]')
+      page.locator('[data-testid="detail-panel"]')
     ).toBeVisible({ timeout: 3000 });
 
     // Use back button to close
@@ -158,7 +158,7 @@ test.describe("mobile layout", () => {
 
     // Panel should be gone
     await expect(
-      page.locator('[data-testid="language-detail-panel"]')
+      page.locator('[data-testid="detail-panel"]')
     ).not.toBeVisible();
   });
 });

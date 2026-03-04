@@ -1,0 +1,14 @@
+{
+  "code": "nyungwe-national-park",
+  "name": "Nyungwe National Park",
+  "type": "Natural",
+  "country": "Rwanda",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This serial property represents an important area for rainforest conservation in Central Africa. The property is home to intact forests and peat bogs, moors, thickets and grasslands, providing habitats to a highly diverse flora and fauna. The Park also contains the most significant natural habitats for a number of species found nowhere else in the world, including the globally threatened Eastern Chimpanzee (Pan troglodytes schweinfurthii), Golden Monkey (Cercopithecus mitis ssp. kandti) and the Critically Endangered Hills Horseshoe Bat (Rhinolophus hillorum). There are also 12 mammal and seven bird species that are globally threatened, and with 317 species of birds recorded, Nyungwe National Park is one of the most important sites for bird conservation in Africa.",
+  "danger": false,
+  "geojson": "nyungwe-national-park.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7703055556,
+          31.5141111111
+        ]
+      },
+      "properties": {
+        "code": "medina-of-essaouira-formerly-mogador",
+        "name": "Medina of Essaouira (formerly Mogador)",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

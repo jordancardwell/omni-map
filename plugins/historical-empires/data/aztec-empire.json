@@ -1,0 +1,25 @@
+{
+  "code": "aztec-empire",
+  "name": "Aztec Empire",
+  "era": "Early Modern",
+  "peakYear": "1519 CE",
+  "areaAtPeakKm2": 220000,
+  "populationEstimate": "6 million",
+  "capital": "Tenochtitlan",
+  "keyAchievements": [
+    "Tenochtitlan city engineering",
+    "Chinampas floating gardens",
+    "Calendar system",
+    "Tribute trade network",
+    "Monumental architecture"
+  ],
+  "declineFactors": [
+    "Spanish conquest",
+    "Smallpox epidemic",
+    "Alliance of conquered peoples with Spanish",
+    "Technological disadvantage",
+    "Moctezuma's hesitation"
+  ],
+  "description": "The Aztec Empire (1428–1521 CE) dominated central Mexico from its island capital of Tenochtitlan, one of the largest cities in the world at the time with a population of over 200,000. The city was built on an island in Lake Texcoco, connected to the mainland by causeways.\n\nThe Aztecs developed sophisticated agricultural techniques (chinampas), a complex calendar system, monumental architecture, and an extensive tribute network. The empire fell to Hernán Cortés and his indigenous allies in 1521, accelerated by devastating smallpox epidemics.",
+  "geojson": "aztec-empire.geojson"
+}

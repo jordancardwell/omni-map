@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-17.33,64.42]},"properties":{"code":"grimsvotn","name":"Grímsvötn","volcanoType":"Subglacial volcano","status":"Historically Active","elevation":1725,"lastEruption":"2011","vei":4}}]}

@@ -1,0 +1,15 @@
+{
+  "code": "braille",
+  "name": "Braille",
+  "scriptType": "Tactile",
+  "characters": 63,
+  "direction": "LTR",
+  "originDate": "1824 CE",
+  "sampleText": "⠃⠗⠁⠊⠇⠇⠑ ⠊⠎ ⠁ ⠞⠁⠉⠞⠊⠇⠑ ⠺⠗⠊⠞⠊⠝⠛ ⠎⠽⠎⠞⠑⠍",
+  "relatedScripts": [
+    "latin"
+  ],
+  "description": "Braille is a tactile writing system using raised dots arranged in cells of up to six dots. It was invented for use by visually impaired people and has been adapted for virtually every language. Each cell can represent a letter, number, punctuation mark, or special symbol. Braille is used worldwide and is recognized as an official writing system in most countries.",
+  "historicalNotes": "Braille was invented in 1824 by Louis Braille, a French educator who was blind. He based it on a military communication system called 'night writing' developed by Charles Barbier. The system was gradually adopted in France and spread internationally. The World Braille Council standardized the system. January 4 (Louis Braille's birthday) is celebrated as World Braille Day.",
+  "geojson": "braille.geojson"
+}

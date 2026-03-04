@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gru","name":"São Paulo-Guarulhos International","featureType":"airport","iataCode":"GRU","annualPassengers":38500000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[-46.4731,-23.4356]}}]}

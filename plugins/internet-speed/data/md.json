@@ -1,0 +1,17 @@
+{
+  "code": "md",
+  "name": "Moldova",
+  "avgDownloadMbps": 88.6,
+  "avgUploadMbps": 62.3,
+  "avgLatencyMs": 13,
+  "mobileDownloadMbps": 28.4,
+  "mobileUploadMbps": 6.8,
+  "fixedDownloadMbps": 88.6,
+  "fixedUploadMbps": 62.3,
+  "rank": 51,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Surprisingly fast for the region. ~8% year-over-year growth.",
+  "geojson": "md.geojson"
+}

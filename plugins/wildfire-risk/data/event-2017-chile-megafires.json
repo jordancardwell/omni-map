@@ -1,0 +1,12 @@
+{
+  "code": "event-2017-chile-megafires",
+  "name": "2017 Chile Megafires",
+  "region": "Maule & Biobío, Chile",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2017",
+  "areaBurned": 614000,
+  "cause": "Decade-long megadrought, heatwave, eucalyptus plantations",
+  "description": "Chile's 2017 fire season was the worst in the nation's history, with fires burning 614,000 hectares across central Chile — ten times the annual average. The fires killed 11 people, displaced thousands, and destroyed the town of Santa Olga entirely. Eucalyptus and pine plantations — which burn with extreme intensity — fueled the fires' rapid spread. Chile's decade-long megadrought, the worst in 1,000 years, had left forests and plantations critically dry. The disaster prompted a national rethinking of Chile's forestry model and emergency management systems.",
+  "geojson": "event-2017-chile-megafires.geojson"
+}

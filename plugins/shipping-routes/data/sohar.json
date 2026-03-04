@@ -1,0 +1,14 @@
+{
+  "code": "sohar",
+  "name": "Port of Sohar",
+  "country": "Oman",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 60,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Port of Sohar in Oman. Annual cargo throughput: ~60 million tons. Type: Multi-Purpose Port.",
+  "geojson": "sohar.geojson"
+}

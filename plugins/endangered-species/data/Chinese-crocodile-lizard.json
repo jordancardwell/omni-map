@@ -1,0 +1,19 @@
+{
+  "code": "Chinese-crocodile-lizard",
+  "name": "Chinese Crocodile Lizard",
+  "scientificName": "Shinisaurus crocodilurus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~1,000 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Mountain streams in subtropical forest",
+  "threats": [
+    "Collection for pet trade",
+    "Habitat degradation",
+    "Pollution",
+    "Mining"
+  ],
+  "conservationEfforts": "Protected under Chinese law. Nature reserves established in Guangxi. International captive breeding program. Vietnam populations also receive protection.",
+  "description": "A semi-aquatic lizard that resembles a miniature crocodile. When threatened, it plays dead (thanatosis), remaining motionless for up to 30 minutes. One of the most sought-after reptiles in the pet trade.",
+  "geojson": "Chinese-crocodile-lizard.geojson"
+}

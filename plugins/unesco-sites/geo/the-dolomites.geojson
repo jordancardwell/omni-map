@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1630555556,
+          46.6130555556
+        ]
+      },
+      "properties": {
+        "code": "the-dolomites",
+        "name": "The Dolomites",
+        "type": "Natural",
+        "country": "Italy",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

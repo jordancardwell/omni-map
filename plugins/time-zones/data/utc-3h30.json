@@ -1,0 +1,20 @@
+{
+  "code": "utc-3h30",
+  "name": "Newfoundland Standard Time",
+  "nativeName": "UTC-03:30",
+  "utcOffset": "UTC-03:30",
+  "utcOffsetHours": -3.5,
+  "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+  "ianaNames": [
+    "America/St_Johns"
+  ],
+  "countries": [
+    "Canada (Newfoundland and Labrador)"
+  ],
+  "dstRules": "Observes DST (UTC-2:30 in summer, Mar–Nov)",
+  "description": "One of the few half-hour offset zones, used by Newfoundland and Labrador in eastern Canada. St. John's, the provincial capital, is the oldest and most easterly city in North America. The half-hour offset dates back to 1884.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-3h30.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "yyz-sfo",
+  "name": "Toronto — San Francisco",
+  "airports": [
+    "YYZ",
+    "SFO"
+  ],
+  "distanceKm": 3628,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air Canada"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–SFO route between Toronto and San Francisco. Distance: 3,628 km. ~25 weekly flights operated by Air Canada.",
+  "geojson": "yyz-sfo.geojson"
+}

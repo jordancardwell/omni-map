@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4366666666,
+          34.3883333333
+        ]
+      },
+      "properties": {
+        "code": "bisotun",
+        "name": "Bisotun",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

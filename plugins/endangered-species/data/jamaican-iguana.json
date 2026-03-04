@@ -1,0 +1,19 @@
+{
+  "code": "jamaican-iguana",
+  "name": "Jamaican Iguana",
+  "scientificName": "Cyclura collei",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~200 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Dry limestone forest",
+  "threats": [
+    "Predation by mongoose",
+    "Habitat loss",
+    "Charcoal production",
+    "Feral pigs"
+  ],
+  "conservationEfforts": "Rediscovered in 1990 after being thought extinct since 1948. Hellshire Hills recovery program includes head-starting and mongoose control. Jamaica's Hope Zoo breeds captive iguanas.",
+  "description": "Rediscovered in Jamaica's Hellshire Hills after 44 years of presumed extinction. The introduced Indian mongoose is its primary predator, and control programs have been essential for recovery.",
+  "geojson": "jamaican-iguana.geojson"
+}

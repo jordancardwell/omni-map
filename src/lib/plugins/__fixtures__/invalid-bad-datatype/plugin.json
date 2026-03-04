@@ -1,0 +1,14 @@
+{
+  "id": "bad-datatype",
+  "name": "Bad DataType",
+  "description": "Plugin with invalid dataType",
+  "type": "unknown",
+  "version": "1.0.0",
+  "icon": "x",
+  "defaultColor": "#000",
+  "categories": ["test"],
+  "dataType": "polygons",
+  "dataSource": "static",
+  "category": "test",
+  "thumbnail": "#000"
+}

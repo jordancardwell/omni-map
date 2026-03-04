@@ -1,0 +1,19 @@
+{
+  "code": "california-red-legged-frog",
+  "name": "California Red-legged Frog",
+  "scientificName": "Rana draytonii",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal streams and wetlands",
+  "threats": [
+    "Habitat loss",
+    "Invasive bullfrogs",
+    "Urbanization",
+    "Pesticides"
+  ],
+  "conservationEfforts": "Listed under US Endangered Species Act. Critical habitat designated. Invasive bullfrog removal programs. Habitat restoration projects.",
+  "description": "The largest native frog in the western United States and likely the species described in Mark Twain's famous short story 'The Celebrated Jumping Frog of Calaveras County'.",
+  "geojson": "california-red-legged-frog.geojson"
+}

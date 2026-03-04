@@ -1,0 +1,15 @@
+{
+  "code": "virgin-komi-forests",
+  "name": "Virgin Komi Forests",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Virgin Komi Forests cover 3.28 million ha of tundra and mountain tundra in the Urals, as well as one of the most extensive areas of virgin boreal forest remaining in Europe. This vast area of conifers, aspens, birches, peat bogs, rivers and natural lakes has been monitored and studied for over 50 years. It provides valuable evidence of the natural processes affecting biodiversity in the taiga.",
+  "danger": false,
+  "geojson": "virgin-komi-forests.geojson"
+}

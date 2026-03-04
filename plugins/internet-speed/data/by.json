@@ -1,0 +1,17 @@
+{
+  "code": "by",
+  "name": "Belarus",
+  "avgDownloadMbps": 34.2,
+  "avgUploadMbps": 24.8,
+  "avgLatencyMs": 14,
+  "mobileDownloadMbps": 18.4,
+  "mobileUploadMbps": 4.6,
+  "fixedDownloadMbps": 34.2,
+  "fixedUploadMbps": 24.8,
+  "rank": 88,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "State-controlled broadband market. ~6% year-over-year growth.",
+  "geojson": "by.geojson"
+}

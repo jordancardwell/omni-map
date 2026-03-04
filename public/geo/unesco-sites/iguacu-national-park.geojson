@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8001444444,
+          -25.4481472222
+        ]
+      },
+      "properties": {
+        "code": "iguacu-national-park",
+        "name": "Iguaçu National Park",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

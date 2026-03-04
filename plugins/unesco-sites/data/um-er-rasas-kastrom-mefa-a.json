@@ -1,0 +1,15 @@
+{
+  "code": "um-er-rasas-kastrom-mefa-a",
+  "name": "Um er-Rasas (Kastrom Mefa'a)",
+  "type": "Cultural",
+  "country": "Jordan",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Most of this archaeological site, which started as a Roman military camp and grew to become a town from the 5th century, has not been excavated. It contains remains from the Roman, Byzantine and Early Muslim periods (end of 3rd to 9th centuries AD) and a fortified Roman military camp. The site also has 16 churches, some with well-preserved mosaic floors. Particularly noteworthy is the mosaic floor of the Church of Saint Stephen with its representation of towns in the region. Two square towers are probably the only remains of the practice, well known in this part of the world, of the stylites (ascetic monks who spent time in isolation atop a column or tower). Um er-Rasas is surrounded by, and dotted with, remains of ancient agricultural cultivation in an arid area.",
+  "danger": false,
+  "geojson": "um-er-rasas-kastrom-mefa-a.geojson"
+}

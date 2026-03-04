@@ -1,0 +1,12 @@
+{
+  "code": "norte-chico",
+  "name": "Norte Chico (Caral-Supe)",
+  "period": "c. 3000–1800 BCE",
+  "region": "South America",
+  "type": "Civilization",
+  "writingSystem": "Quipu (knotted string records)",
+  "majorAchievements": ["Monumental architecture", "Irrigation agriculture", "Quipu record keeping", "Complex society without ceramics", "Textile production", "Earliest urban centers in the Americas"],
+  "keyCities": ["Caral", "Áspero", "Bandurria", "Huaricanga"],
+  "description": "Norte Chico (also known as Caral-Supe) is the oldest known civilization in the Americas, predating the Olmec by nearly two millennia. Located along the arid coast of central Peru, it developed monumental platform mounds, sunken circular plazas, and complex irrigation systems. Remarkably, this civilization flourished without pottery or writing in the conventional sense, instead using quipu for record keeping.",
+  "geojson": "norte-chico.geojson"
+}

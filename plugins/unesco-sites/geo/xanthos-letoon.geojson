@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32028,
+          36.335
+        ]
+      },
+      "properties": {
+        "code": "xanthos-letoon",
+        "name": "Xanthos-Letoon",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "ye",
+  "name": "Yemen",
+  "avgDownloadMbps": 3.6,
+  "avgUploadMbps": 1,
+  "avgLatencyMs": 62,
+  "mobileDownloadMbps": 5.2,
+  "mobileUploadMbps": 1.4,
+  "fixedDownloadMbps": 3.6,
+  "fixedUploadMbps": 1,
+  "rank": 190,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Conflict has severely impacted connectivity. ~2% year-over-year growth.",
+  "geojson": "ye.geojson"
+}

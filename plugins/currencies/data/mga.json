@@ -1,0 +1,16 @@
+{
+  "code": "mga",
+  "name": "Malagasy Ariary",
+  "isoCode": "MGA",
+  "symbol": "Ar",
+  "region": "Africa",
+  "centralBank": "Central Bank of Madagascar",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Madagascar"
+  ],
+  "countryCount": 1,
+  "description": "The Malagasy Ariary is one of only two circulating currencies not subdivided into hundredths — it is subdivided into five iraimbilanja.",
+  "historicalNotes": "The ariary replaced the Malagasy franc in 2005. Madagascar is the world's fourth-largest island and home to unique biodiversity.",
+  "geojson": "mga.geojson"
+}

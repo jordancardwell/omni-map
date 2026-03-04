@@ -1,0 +1,29 @@
+{
+  "code": "afrobeat",
+  "name": "Afrobeat",
+  "region": "Lagos, Nigeria",
+  "traditionFamily": "West African",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Drums",
+    "Bass Guitar",
+    "Horns",
+    "Guitar",
+    "Keyboards"
+  ],
+  "keyArtists": [
+    "Fela Kuti",
+    "Tony Allen",
+    "Seun Kuti",
+    "Antibalas",
+    "Burna Boy"
+  ],
+  "description": "Afrobeat is a genre that combines West African musical styles such as highlife and Yoruba music with American funk, jazz, and soul. Pioneered by Fela Kuti and drummer Tony Allen in 1970s Lagos, Afrobeat features extended compositions with complex, interlocking rhythms, call-and-response vocals, and politically charged lyrics. It has experienced a global revival in the 21st century.",
+  "resources": [
+    {
+      "title": "Fela Kuti Archive",
+      "url": "https://www.felakuti.com/"
+    }
+  ],
+  "geojson": "afrobeat.geojson"
+}

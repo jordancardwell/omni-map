@@ -1,0 +1,18 @@
+{
+  "code": "radiated-tortoise",
+  "name": "Radiated Tortoise",
+  "scientificName": "Astrochelys radiata",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~6 million (rapidly declining)",
+  "populationTrend": "Decreasing",
+  "habitatType": "Dry spiny forest",
+  "threats": [
+    "Illegal pet trade",
+    "Bushmeat consumption",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "Madagascar government crackdowns on tortoise trafficking. Tortoise Village rehabilitation center cares for confiscated animals. Community-based management programs.",
+  "description": "One of the most beautiful tortoises with striking star-burst shell patterns. Despite still numbering in the millions, the rate of harvest for food and the pet trade is unsustainable.",
+  "geojson": "radiated-tortoise.geojson"
+}

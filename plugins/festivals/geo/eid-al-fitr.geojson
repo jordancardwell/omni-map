@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8262,
+          21.4225
+        ]
+      },
+      "properties": {
+        "code": "eid-al-fitr",
+        "name": "Eid al-Fitr",
+        "festivalType": "Religious",
+        "dateOrSeason": "End of Ramadan (varies)",
+        "location": "Mecca, Saudi Arabia"
+      }
+    }
+  ]
+}

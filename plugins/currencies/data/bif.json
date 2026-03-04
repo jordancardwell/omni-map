@@ -1,0 +1,16 @@
+{
+  "code": "bif",
+  "name": "Burundian Franc",
+  "isoCode": "BIF",
+  "symbol": "FBu",
+  "region": "Africa",
+  "centralBank": "Bank of the Republic of Burundi",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Burundi"
+  ],
+  "countryCount": 1,
+  "description": "The Burundian Franc is the currency of one of the world's smallest and poorest countries.",
+  "historicalNotes": "Introduced in 1964, replacing the Congo-Burundi franc. Burundi is one of the most densely populated countries in Africa.",
+  "geojson": "bif.geojson"
+}

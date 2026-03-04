@@ -1,0 +1,17 @@
+{
+  "code": "mco-iah",
+  "name": "Orlando — Houston",
+  "airports": [
+    "MCO",
+    "IAH"
+  ],
+  "distanceKm": 1372,
+  "weeklyFlights": 35,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MCO–IAH route between Orlando and Houston. Distance: 1,372 km. ~35 weekly flights operated by United.",
+  "geojson": "mco-iah.geojson"
+}

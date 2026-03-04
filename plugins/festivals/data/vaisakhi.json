@@ -1,0 +1,14 @@
+{
+  "code": "vaisakhi",
+  "name": "Vaisakhi",
+  "festivalType": "Religious",
+  "dateOrSeason": "April 13–14",
+  "origin": "Sikh tradition",
+  "estimatedAttendance": "Millions of Sikhs worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Visiting gurdwaras; Nagar Kirtan processions; performing bhangra dance; langar communal meals; reading of scriptures; fairs and markets.",
+  "historicalBackground": "Vaisakhi commemorates the founding of the Khalsa by Guru Gobind Singh in 1699. It also marks the Punjabi New Year and spring harvest festival.",
+  "description": "The Sikh New Year and harvest festival commemorating the founding of the Khalsa, celebrated with processions, music, and communal feasts.",
+  "location": "Amritsar, India",
+  "geojson": "vaisakhi.geojson"
+}

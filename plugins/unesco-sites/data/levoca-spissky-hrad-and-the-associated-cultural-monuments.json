@@ -1,0 +1,14 @@
+{
+  "code": "levoca-spissky-hrad-and-the-associated-cultural-monuments",
+  "name": "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+  "type": "Cultural",
+  "country": "Slovakia",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Spišský Hrad has one of the largest ensembles of 13th and 14th century military, political and religious buildings in eastern Europe, and its Romanesque and Gothic architecture has remained remarkably intact. The extended site features the addition of the historic town-centre of Levoča founded in the 13th and 14th centuries within fortifications. Most of the site has been preserved and it includes the 14th century church of St James with its ten alters of the 15th and 16th centuries, a remarkable collection of polychrome works in the Late Gothic style, including an 18.6 metre high alterpiece by completed around 1510 by Master Paul.",
+  "danger": false,
+  "geojson": "levoca-spissky-hrad-and-the-associated-cultural-monuments.geojson"
+}

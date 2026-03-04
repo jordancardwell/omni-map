@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55222,
+          7.75556
+        ]
+      },
+      "properties": {
+        "code": "osun-osogbo-sacred-grove",
+        "name": "Osun-Osogbo Sacred Grove",
+        "type": "Cultural",
+        "country": "Nigeria",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

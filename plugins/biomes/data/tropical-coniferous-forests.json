@@ -1,0 +1,13 @@
+{
+  "code": "tropical-coniferous-forests",
+  "name": "Tropical & Subtropical Coniferous Forests",
+  "biomeType": "Forest",
+  "areaKm2": 700000,
+  "keyCharacteristics": "Pine and other conifer-dominated forests in tropical latitudes, typically at higher elevations. Fire-adapted ecosystems.",
+  "typicalFlora": ["Caribbean pine", "Montezuma pine", "Benguet pine", "Tropical oak", "Tree ferns", "Epiphytic orchids"],
+  "typicalFauna": ["Resplendent quetzal", "Horned guan", "Pine marten", "Montane rabbit", "Pine siskin", "Cloud forest anole"],
+  "threatLevel": "High",
+  "conservationStatus": "Limited geographic range makes these forests vulnerable. Logging, fire regime changes, and climate change threaten remaining stands. Less than 30% of original extent persists.",
+  "description": "Tropical and subtropical coniferous forests are a relatively rare biome found primarily in Central America, the Caribbean, and parts of Southeast Asia. Unlike most tropical forests, they are dominated by coniferous species, particularly pines.\n\nThese forests typically occur at elevations between 600 and 3000 meters, where cooler temperatures favor conifers over broadleaf species. Many are fire-adapted, with species that require periodic burning for regeneration.\n\nThe Mesoamerican pine-oak forests of Mexico and Central America are the largest extent of this biome, harboring significant endemism.",
+  "geojson": "tropical-coniferous-forests.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.6858333333,
+          25.0230555556
+        ]
+      },
+      "properties": {
+        "code": "fujian-em-tulou-em",
+        "name": "Fujian Tulou",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

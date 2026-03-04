@@ -1,0 +1,15 @@
+{
+  "code": "cidade-velha-historic-centre-of-ribeira-grande",
+  "name": "Cidade Velha, Historic Centre of Ribeira Grande",
+  "type": "Cultural",
+  "country": "Cabo Verde",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The town of Ribeira Grande, renamed Cidade Velha in the late 18th century, was the first European colonial outpost in the tropics. Located in the south of the island of Santiago, the town features some of the original street layout impressive remains including two churches, a royal fortress and Pillory Square with its ornate 16th century marble pillar.",
+  "danger": false,
+  "geojson": "cidade-velha-historic-centre-of-ribeira-grande.geojson"
+}

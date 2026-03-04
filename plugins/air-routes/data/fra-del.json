@@ -1,0 +1,18 @@
+{
+  "code": "fra-del",
+  "name": "Frankfurt — Delhi",
+  "airports": [
+    "FRA",
+    "DEL"
+  ],
+  "distanceKm": 6122,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Lufthansa",
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "FRA–DEL route between Frankfurt and Delhi. Distance: 6,122 km. ~25 weekly flights operated by Lufthansa, Air India.",
+  "geojson": "fra-del.geojson"
+}

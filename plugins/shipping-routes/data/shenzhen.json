@@ -1,0 +1,15 @@
+{
+  "code": "shenzhen",
+  "name": "Port of Shenzhen",
+  "country": "China",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 290,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Strait of Malacca Route",
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Shenzhen in China. Annual cargo throughput: ~290 million tons. Type: Container Port.",
+  "geojson": "shenzhen.geojson"
+}

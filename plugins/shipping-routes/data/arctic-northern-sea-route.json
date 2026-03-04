@@ -1,0 +1,8 @@
+{
+  "code": "arctic-northern-sea-route",
+  "name": "Arctic Northern Sea Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Seasonal shipping route along Russia's Arctic coast connecting Europe to East Asia. Increasingly viable due to climate change, reducing transit time by 40% vs Suez route.",
+  "geojson": "arctic-northern-sea-route.geojson"
+}

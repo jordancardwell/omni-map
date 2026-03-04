@@ -1,0 +1,16 @@
+{
+  "code": "jp-north-link",
+  "name": "JP North Link",
+  "capacityTbps": 30,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1758,
+  "yearLaid": 2016,
+  "rfsDate": "2011-06",
+  "owner": "KDDI",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Kitaibaraki, Japan"
+  ],
+  "description": "JP North Link connecting Tokyo to Kitaibaraki in East Asia.",
+  "geojson": "jp-north-link.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "event-2015-indonesian-peatland",
+  "name": "2015 Indonesian Peatland Crisis",
+  "region": "Sumatra & Kalimantan, Indonesia",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2015",
+  "areaBurned": 2600000,
+  "cause": "El Niño drought, peatland drainage, agricultural burning",
+  "description": "The 2015 Indonesian peatland fires were one of the worst environmental disasters of the 21st century. Burning 2.6 million hectares across Sumatra and Kalimantan, the fires released an estimated 1.6 billion tonnes of CO₂ — more than the annual emissions of Japan. Toxic haze from peat fires blanketed Southeast Asia for months, affecting 43 million people and causing an estimated 100,300 premature deaths. Economic losses reached $16 billion. The fires burned in drained peatlands that had been cleared for oil palm plantations, highlighting the devastating consequences of tropical peat destruction.",
+  "geojson": "event-2015-indonesian-peatland.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "red-sea-coral-reef",
+  "name": "Red Sea Coral Reef",
+  "location": "Egypt, Saudi Arabia, Sudan, Eritrea, Jordan",
+  "areaKm2": 17640,
+  "reefType": "Fringing",
+  "healthStatus": "Vulnerable",
+  "coralSpecies": 300,
+  "marineSpecies": 1200,
+  "threats": [
+    "Oil spills",
+    "Coastal development",
+    "Overfishing",
+    "Tourism pressure",
+    "Shipping traffic"
+  ],
+  "conservationStatus": "Ras Mohammed National Park and several marine protected areas along the coastline. PERSGA (Regional Organization for the Conservation of the Environment of the Red Sea) coordinates regional protection.",
+  "description": "The Red Sea coral reefs are among the most thermally resilient reef systems in the world. Stretching along 2,000 km of coastline, these fringing reefs have evolved to tolerate temperatures that would bleach corals elsewhere, making them a critical refuge as oceans warm globally.\n\nThe northern Red Sea has been identified as a potential coral reef 'refugium' where reefs may survive projected warming. With over 300 coral species (10% endemic), the Red Sea supports unique biodiversity adapted to high salinity and temperature extremes.",
+  "geojson": "red-sea-coral-reef.geojson"
+}

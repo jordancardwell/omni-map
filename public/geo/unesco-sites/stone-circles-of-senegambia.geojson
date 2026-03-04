@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5225,
+          13.6911111111
+        ]
+      },
+      "properties": {
+        "code": "stone-circles-of-senegambia",
+        "name": "Stone Circles of Senegambia",
+        "type": "Cultural",
+        "country": "Gambia, Senegal",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

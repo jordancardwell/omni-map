@@ -1,0 +1,16 @@
+{
+  "code": "rock-carvings-in-tanum",
+  "name": "Rock Carvings in Tanum",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The rock carvings in Tanum, in the north of Bohuslän, are a unique artistic achievement not only for their rich and varied motifs (depictions of humans and animals, weapons, boats and other subjects) but also for their cultural and chronological unity. They reveal the life and beliefs of people in Europe during the Bronze Age and are remarkable for their large numbers and outstanding quality.",
+  "danger": false,
+  "geojson": "rock-carvings-in-tanum.geojson"
+}

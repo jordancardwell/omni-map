@@ -1,0 +1,16 @@
+{
+  "code": "nio",
+  "name": "Nicaraguan Córdoba",
+  "isoCode": "NIO",
+  "symbol": "C$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Nicaragua",
+  "exchangeRateEra": "Crawling peg to USD",
+  "countries": [
+    "Nicaragua"
+  ],
+  "countryCount": 1,
+  "description": "The Córdoba is named after the founder of Nicaragua, Francisco Hernández de Córdoba.",
+  "historicalNotes": "The current córdoba oro was introduced in 1990, replacing the old córdoba at 5,000,000:1 after hyperinflation during the Sandinista era.",
+  "geojson": "nio.geojson"
+}

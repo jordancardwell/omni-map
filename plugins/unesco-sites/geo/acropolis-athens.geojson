@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72618,
+          37.97087
+        ]
+      },
+      "properties": {
+        "code": "acropolis-athens",
+        "name": "Acropolis, Athens",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

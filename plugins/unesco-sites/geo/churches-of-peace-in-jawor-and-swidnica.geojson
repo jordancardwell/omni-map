@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19594444,
+          51.05427778
+        ]
+      },
+      "properties": {
+        "code": "churches-of-peace-in-jawor-and-swidnica",
+        "name": "Churches of Peace in Jawor and Świdnica",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

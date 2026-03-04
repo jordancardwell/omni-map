@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.652436,
+          -8.718634
+        ]
+      },
+      "properties": {
+        "code": "serra-da-capivara-national-park",
+        "name": "Serra da Capivara National Park",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

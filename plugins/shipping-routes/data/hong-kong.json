@@ -1,0 +1,15 @@
+{
+  "code": "hong-kong",
+  "name": "Port of Hong Kong",
+  "country": "China",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 260,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South China Sea Route",
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Hong Kong in China. Annual cargo throughput: ~260 million tons. Type: Container Port.",
+  "geojson": "hong-kong.geojson"
+}

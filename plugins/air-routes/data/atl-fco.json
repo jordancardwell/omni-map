@@ -1,0 +1,17 @@
+{
+  "code": "atl-fco",
+  "name": "Atlanta — Rome",
+  "airports": [
+    "ATL",
+    "FCO"
+  ],
+  "distanceKm": 8085,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–FCO route between Atlanta and Rome. Distance: 8,085 km. ~25 weekly flights operated by Delta.",
+  "geojson": "atl-fco.geojson"
+}

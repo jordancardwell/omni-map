@@ -1,0 +1,14 @@
+{
+  "code": "cinco-de-mayo",
+  "name": "Cinco de Mayo",
+  "festivalType": "National",
+  "dateOrSeason": "May 5",
+  "origin": "Mexican tradition (global)",
+  "estimatedAttendance": "Millions in Mexico and USA",
+  "unescoICH": "Not inscribed",
+  "traditions": "Reenactment of Battle of Puebla; parades; mariachi music; folk dancing; traditional Mexican food; Mexican flag displays.",
+  "historicalBackground": "Cinco de Mayo celebrates the Mexican victory over the French Empire at the Battle of Puebla on May 5, 1862, an unlikely triumph against a superior army.",
+  "description": "The celebration of Mexico's victory at the Battle of Puebla, widely observed with parades, music, and Mexican cultural pride.",
+  "location": "Puebla, Mexico",
+  "geojson": "cinco-de-mayo.geojson"
+}

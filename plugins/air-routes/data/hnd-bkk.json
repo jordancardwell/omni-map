@@ -1,0 +1,18 @@
+{
+  "code": "hnd-bkk",
+  "name": "Tokyo — Bangkok",
+  "airports": [
+    "HND",
+    "BKK"
+  ],
+  "distanceKm": 4588,
+  "weeklyFlights": 30,
+  "airlines": [
+    "ANA",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HND–BKK route between Tokyo and Bangkok. Distance: 4,588 km. ~30 weekly flights operated by ANA, Thai Airways.",
+  "geojson": "hnd-bkk.geojson"
+}

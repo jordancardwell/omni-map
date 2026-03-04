@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.698055556,
+          48.40194444
+        ]
+      },
+      "properties": {
+        "code": "palace-and-park-of-fontainebleau",
+        "name": "Palace and Park of Fontainebleau",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

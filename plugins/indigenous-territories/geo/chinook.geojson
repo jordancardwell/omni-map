@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"chinook","name":"Chinook","people":"Chinook","region":"North America"},"geometry":{"type":"Polygon","coordinates":[[[-123.2,46.2],[-123.2,46.5],[-123.8,46.8],[-124.5,46.6],[-124.6,46.2],[-124.4,45.8],[-123.8,45.8],[-123.2,45.8],[-123.2,46.2]]]}}]}

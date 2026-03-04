@@ -1,0 +1,15 @@
+{
+  "code": "china-danxia",
+  "name": "China Danxia",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "China Danxia is the name given in China to landscapes developed on continental red terrigenous sedimentary beds influenced by endogenous forces (including uplift) and exogenous forces (including weathering and erosion). The inscribed site comprises six areas found in the sub-tropical zone of south-west China. They are characterized by spectacular red cliffs and a range of erosional landforms, including dramatic natural pillars, towers, ravines, valleys and waterfalls. These rugged landscapes have helped to conserve sub-tropical broad-leaved evergreen forests, and host many species of flora and fauna, about 400 of which are considered rare or threatened.",
+  "danger": false,
+  "geojson": "china-danxia.geojson"
+}

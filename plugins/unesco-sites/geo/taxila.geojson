@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8875,
+          33.77916667
+        ]
+      },
+      "properties": {
+        "code": "taxila",
+        "name": "Taxila",
+        "type": "Cultural",
+        "country": "Pakistan",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

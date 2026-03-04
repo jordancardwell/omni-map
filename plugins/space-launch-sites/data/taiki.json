@@ -1,0 +1,16 @@
+{
+  "code": "taiki",
+  "name": "Taiki Aerospace Research Field",
+  "country": "Japan",
+  "operator": "JAXA / Interstellar Technologies",
+  "coordinates": "42.5016°N, 143.4380°E",
+  "status": "Active",
+  "notableLaunches": [
+    "MOMO sounding rockets",
+    "Interstellar Technologies ZERO (planned orbital)"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital, orbital planned)",
+  "location": "Taiki Aerospace Research Field, Japan",
+  "description": "Japanese commercial launch site in Hokkaido. Home to Interstellar Technologies' MOMO sounding rocket program. The company plans orbital launches of its ZERO rocket from this location.",
+  "geojson": "taiki.geojson"
+}

@@ -1,0 +1,24 @@
+{
+  "code": "la",
+  "name": "Laos",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "C",
+    "E",
+    "F"
+  ],
+  "plugTypeCount": 5,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types at 230V. Bring a universal adapter.",
+  "geojson": "la.geojson"
+}

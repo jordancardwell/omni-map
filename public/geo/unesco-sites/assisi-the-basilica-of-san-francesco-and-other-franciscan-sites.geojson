@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62244444,
+          43.06616667
+        ]
+      },
+      "properties": {
+        "code": "assisi-the-basilica-of-san-francesco-and-other-franciscan-sites",
+        "name": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

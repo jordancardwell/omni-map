@@ -1,0 +1,14 @@
+{
+  "code": "historic-centre-of-oporto-luiz-i-bridge-and-monastery-of-serra-do-pilar",
+  "name": "Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The city of Oporto, built along the hillsides overlooking the mouth of the Douro river, is an outstanding urban landscape with a 2,000-year history. Its continuous growth, linked to the sea (the Romans gave it the name Portus, or port), can be seen in the many and varied monuments, from the cathedral with its Romanesque choir, to the neoclassical Stock Exchange and the typically Portuguese Manueline-style Church of Santa Clara.",
+  "danger": false,
+  "geojson": "historic-centre-of-oporto-luiz-i-bridge-and-monastery-of-serra-do-pilar.geojson"
+}

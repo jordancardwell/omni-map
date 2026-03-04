@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.07806,
+          44.11444
+        ]
+      },
+      "properties": {
+        "code": "srebarna-nature-reserve",
+        "name": "Srebarna Nature Reserve",
+        "type": "Natural",
+        "country": "Bulgaria",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

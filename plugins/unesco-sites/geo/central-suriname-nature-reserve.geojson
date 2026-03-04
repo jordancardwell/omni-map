@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5,
+          4.0
+        ]
+      },
+      "properties": {
+        "code": "central-suriname-nature-reserve",
+        "name": "Central Suriname Nature Reserve",
+        "type": "Natural",
+        "country": "Suriname",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

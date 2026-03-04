@@ -1,0 +1,15 @@
+{
+  "code": "wachau-cultural-landscape",
+  "name": "Wachau Cultural Landscape",
+  "type": "Cultural",
+  "country": "Austria",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Wachau is a stretch of the Danube Valley between Melk and Krems, a landscape of high visual quality. It preserves in an intact and visible form many traces - in terms of architecture, (monasteries, castles, ruins), urban design, (towns and villages), and agricultural use, principally for the cultivation of vines - of its evolution since prehistoric times.",
+  "danger": false,
+  "geojson": "wachau-cultural-landscape.geojson"
+}

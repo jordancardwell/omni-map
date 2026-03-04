@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0172638889,
+          -3.3102638889
+        ]
+      },
+      "properties": {
+        "code": "the-historic-town-and-archaeological-site-of-gedi",
+        "name": "The Historic Town and Archaeological Site of Gedi",
+        "type": "Cultural",
+        "country": "Kenya",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

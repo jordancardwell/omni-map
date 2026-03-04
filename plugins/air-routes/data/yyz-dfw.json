@@ -1,0 +1,17 @@
+{
+  "code": "yyz-dfw",
+  "name": "Toronto — Dallas",
+  "airports": [
+    "YYZ",
+    "DFW"
+  ],
+  "distanceKm": 1929,
+  "weeklyFlights": 25,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–DFW route between Toronto and Dallas. Distance: 1,929 km. ~25 weekly flights operated by American.",
+  "geojson": "yyz-dfw.geojson"
+}

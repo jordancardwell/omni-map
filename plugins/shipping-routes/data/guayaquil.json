@@ -1,0 +1,14 @@
+{
+  "code": "guayaquil",
+  "name": "Port of Guayaquil",
+  "country": "Ecuador",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West Coast Americas Route"
+  ],
+  "description": "Port of Guayaquil in Ecuador. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+  "geojson": "guayaquil.geojson"
+}

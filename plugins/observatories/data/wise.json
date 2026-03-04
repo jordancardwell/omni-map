@@ -1,0 +1,21 @@
+{
+  "code": "wise",
+  "name": "Wise Observatory",
+  "country": "Israel",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 875,
+  "aperture": "1 m",
+  "telescopes": [
+    "1m Ritchey-Chrétien",
+    "Jay Baum Rich 0.71m"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet transits",
+    "Cataclysmic variable stars",
+    "Near-Earth asteroids"
+  ],
+  "location": "Wise Observatory, Israel",
+  "description": "Tel Aviv University observatory in the Negev Desert. Israel's largest optical telescope, active in exoplanet transit observations and asteroid studies.",
+  "geojson": "wise.geojson"
+}

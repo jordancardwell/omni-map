@@ -1,0 +1,15 @@
+{
+  "code": "temple-zone-of-sambor-prei-kuk-archaeological-site-of-ancient-ishanapura",
+  "name": "Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",
+  "type": "Cultural",
+  "country": "Cambodia",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The archaeological site of Sambor Prei Kuk, “the temple in the richness of the forest” in the Khmer language, has been identified as Ishanapura, the capital of the Chenla Empire that flourished in the late 6th and early 7th centuries AD. The property comprises more than a hundred temples, ten of which are octagonal, unique specimens of their genre in South-East Asia. Decorated sandstone elements in the site are characteristic of the pre-Angkor decorative idiom, known as the Sambor Prei Kuk Style. Some of these elements, including lintels, pediments and colonnades, are true masterpieces. The art and architecture developed here became models for other parts of the region and lay the ground for the unique Khmer style of the Angkor period.",
+  "danger": false,
+  "geojson": "temple-zone-of-sambor-prei-kuk-archaeological-site-of-ancient-ishanapura.geojson"
+}

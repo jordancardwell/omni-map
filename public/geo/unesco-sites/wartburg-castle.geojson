@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.307,
+          50.96677778
+        ]
+      },
+      "properties": {
+        "code": "wartburg-castle",
+        "name": "Wartburg Castle",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

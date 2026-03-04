@@ -1,0 +1,30 @@
+{
+  "code": "bortle-1-excellent-dark",
+  "name": "Excellent Dark Sky Sites",
+  "bortleGroup": "1. Pristine (Class 1-2)",
+  "bortleClass": "Class 1 — Excellent Dark Sky",
+  "skyBrightness": "21.99–22.0 mag/arcsec²",
+  "limitingMagnitude": "7.6–8.0",
+  "milkyWayVisibility": "Spectacular — zodiacal light, gegenschein, and zodiacal band clearly visible; M33 direct-vision naked-eye object",
+  "visibleObjects": [
+    "Zodiacal light",
+    "Gegenschein",
+    "Zodiacal band",
+    "M33 (Triangulum Galaxy)",
+    "Scorpius & Sagittarius star clouds",
+    "Faint Milky Way detail to horizon",
+    "Jupiter & Venus cast shadows"
+  ],
+  "exampleLocations": [
+    "Atacama Desert, Chile",
+    "NamibRand Nature Reserve, Namibia",
+    "Aoraki Mackenzie, New Zealand",
+    "Cherry Springs State Park, USA"
+  ],
+  "nearestDarkSkyReserves": [
+    "Aoraki Mackenzie International Dark Sky Reserve",
+    "NamibRand International Dark Sky Reserve"
+  ],
+  "description": "The darkest skies on Earth, found only in remote areas far from any human settlement. The Milky Way casts visible shadows, and the zodiacal light is bright enough to illuminate the landscape. The sky appears 'busy' with stars — faint stars are visible down to the very horizon. These pristine conditions are increasingly rare, found primarily in high-altitude deserts, remote oceanic islands, and designated dark sky reserves. Only about 1% of the world's population has regular access to Class 1 skies.",
+  "geojson": "bortle-1-excellent-dark.geojson"
+}

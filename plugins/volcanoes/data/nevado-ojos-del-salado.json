@@ -1,0 +1,20 @@
+{
+  "code": "nevado-ojos-del-salado",
+  "name": "Ojos del Salado",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 6893,
+  "lastEruption": "1000",
+  "vei": 0,
+  "country": "Chile/Argentina",
+  "region": "Andes",
+  "location": "Andes, Chile/Argentina",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Fumaroles",
+    "Ashfall"
+  ],
+  "eruptionHistory": "The world's highest active volcano. Evidence of eruption about 1,000-1,500 years ago. Active fumaroles near the summit.",
+  "description": "Ojos del Salado is the highest active volcano in the world at 6,893 meters. Its summit hosts the world's highest lake and active sulfur fumaroles.",
+  "geojson": "nevado-ojos-del-salado.geojson"
+}

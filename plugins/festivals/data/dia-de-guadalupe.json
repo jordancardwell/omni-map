@@ -1,0 +1,14 @@
+{
+  "code": "dia-de-guadalupe",
+  "name": "Day of Our Lady of Guadalupe",
+  "festivalType": "Religious",
+  "dateOrSeason": "December 12",
+  "origin": "Mexican Catholic tradition",
+  "estimatedAttendance": "10+ million pilgrims",
+  "unescoICH": "Not inscribed",
+  "traditions": "Pilgrimages to Basilica of Guadalupe; mañanitas (birthday serenades); indigenous dance performances; carrying flower offerings; all-night vigils.",
+  "historicalBackground": "The apparition of the Virgin of Guadalupe to Juan Diego in 1531 is the foundational story of Mexican Catholicism, blending indigenous and Spanish religious traditions.",
+  "description": "Mexico's most sacred pilgrimage, when millions journey to the Basilica of Guadalupe to honor the patron saint of the Americas.",
+  "location": "Mexico City, Mexico",
+  "geojson": "dia-de-guadalupe.geojson"
+}

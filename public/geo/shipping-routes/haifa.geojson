@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"haifa","name":"Port of Haifa","featureType":"port","portType":"Container Port","country":"Israel"},"geometry":{"type":"Point","coordinates":[35,32.82]}}]}

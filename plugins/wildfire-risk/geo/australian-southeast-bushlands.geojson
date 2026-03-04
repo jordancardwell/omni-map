@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "australian-southeast-bushlands", "name": "Australian Southeast Bushlands" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[149,-28],[152,-29],[153,-31],[153,-34],[151,-36],[150,-37],[148,-38],[146,-39],[144,-38],[143,-37],[144,-35],[146,-33],[147,-31],[148,-29],[149,-28]]]
+    }
+  }]
+}

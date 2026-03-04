@@ -1,0 +1,15 @@
+{
+  "code": "nile-basin",
+  "name": "Nile Basin",
+  "region": "East Africa",
+  "stressGroup": "4. High (40-80%)",
+  "waterStressLevel": "High",
+  "waterStressRatio": "~65% — withdrawal-to-availability",
+  "depletionRate": "High — Egypt uses 97% of its Nile allocation",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "High",
+  "affectedPopulation": 250000000,
+  "riskFactors": ["GERD dam dispute", "Population growth", "Desert encroachment", "Transboundary conflict"],
+  "description": "The Nile sustains 250 million people across 11 countries in the world's longest river basin. Egypt depends on the Nile for 97% of its water supply. Ethiopia's Grand Ethiopian Renaissance Dam (GERD) — Africa's largest hydropower project — has reshaped basin geopolitics. With Egypt's population projected to reach 160 million by 2050, per-capita water availability is dropping below the UN scarcity threshold of 1,000 m³/year.",
+  "geojson": "nile-basin.geojson"
+}

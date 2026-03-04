@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9420583333,
+          49.5802
+        ]
+      },
+      "properties": {
+        "code": "pilgrimage-church-of-st-john-of-nepomuk-at-zelena-hora",
+        "name": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

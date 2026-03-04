@@ -1,0 +1,18 @@
+{
+  "code": "fra-ist",
+  "name": "Frankfurt — Istanbul",
+  "airports": [
+    "FRA",
+    "IST"
+  ],
+  "distanceKm": 1838,
+  "weeklyFlights": 90,
+  "airlines": [
+    "Lufthansa",
+    "Turkish Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "FRA–IST route between Frankfurt and Istanbul. Distance: 1,838 km. ~90 weekly flights operated by Lufthansa, Turkish Airlines.",
+  "geojson": "fra-ist.geojson"
+}

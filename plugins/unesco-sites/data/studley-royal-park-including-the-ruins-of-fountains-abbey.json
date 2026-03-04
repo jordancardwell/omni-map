@@ -1,0 +1,15 @@
+{
+  "code": "studley-royal-park-including-the-ruins-of-fountains-abbey",
+  "name": "Studley Royal Park including the Ruins of Fountains Abbey",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the 18th century a designed landscape of exceptional beauty was created around the ruins of the Cistercian Fountains Abbey, in Yorkshire. The spectacular ruins of the 12th century abbey and water mill, the Jacobean mansion of Fountains Hall, the Victorian masterpiece St Mary’s Church and one of the most magnificent Georgian water gardens ever created, make this a landscape of outstanding merit.",
+  "danger": false,
+  "geojson": "studley-royal-park-including-the-ruins-of-fountains-abbey.geojson"
+}

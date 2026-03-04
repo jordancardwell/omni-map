@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.36916667,
+          13.8275
+        ]
+      },
+      "properties": {
+        "code": "joya-de-ceren-archaeological-site",
+        "name": "Joya de Cerén Archaeological Site",
+        "type": "Cultural",
+        "country": "El Salvador",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

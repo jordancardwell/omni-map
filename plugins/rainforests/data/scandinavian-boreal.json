@@ -1,0 +1,20 @@
+{
+  "code": "scandinavian-boreal",
+  "name": "Scandinavian Boreal Forest",
+  "country": "Sweden, Finland, Norway, Russia (Kola Peninsula)",
+  "forestType": "Boreal",
+  "areaKm2": 580000,
+  "intactness": "Severely Degraded",
+  "changeSince2000": "-2.8% (approximately 16,000 km² of old-growth lost)",
+  "annualLossRate": "0.1% per year (old-growth loss continues)",
+  "threats": [
+    "Industrial forestry",
+    "Clear-cutting",
+    "Monoculture plantations",
+    "Climate change",
+    "Mining"
+  ],
+  "conservationStatus": "Only ~5% of productive forest is protected in Sweden and Finland. Norway has stronger old-growth protections. EU Biodiversity Strategy targets 30% protection by 2030. Sami indigenous rights complicate land-use decisions. Most forests are managed plantations rather than natural forest.",
+  "description": "The **Scandinavian Boreal Forest** once covered the entire Scandinavian Peninsula and Finland but has been heavily managed for centuries. Very little old-growth forest remains, making it one of the most transformed boreal regions.\n\n### Key Statistics\n- **Biodiversity**: Scots pine, Norway spruce, birch; brown bear, wolverine, lynx, wolf\n- **Old growth**: Less than 5% of original old-growth remains in Sweden and Finland\n- **Managed area**: ~95% of forests have been logged at least once\n- **Reindeer herding**: Critical habitat for Sami reindeer husbandry\n\n### Deforestation Trends\nThe IFL 2020 data shows very few intact forest landscapes remain in Scandinavia, primarily in remote areas of northern Sweden and Finland. The region's forests are largely production forests managed on 60–80 year rotation cycles. While total forest cover appears stable, biodiversity-rich old-growth continues to decline.",
+  "geojson": "scandinavian-boreal.geojson"
+}

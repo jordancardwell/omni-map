@@ -1,0 +1,16 @@
+{
+  "code": "fiji-samoa",
+  "name": "Fiji-Samoa",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1402,
+  "yearLaid": 2010,
+  "rfsDate": "2012-06",
+  "owner": "Fiji International",
+  "landingPoints": [
+    "Suva, Fiji",
+    "Apia, Samoa"
+  ],
+  "description": "Fiji-Samoa connecting Suva to Apia in the Pacific.",
+  "geojson": "fiji-samoa.geojson"
+}

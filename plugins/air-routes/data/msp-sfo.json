@@ -1,0 +1,18 @@
+{
+  "code": "msp-sfo",
+  "name": "Minneapolis — San Francisco",
+  "airports": [
+    "MSP",
+    "SFO"
+  ],
+  "distanceKm": 2552,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–SFO route between Minneapolis and San Francisco. Distance: 2,552 km. ~30 weekly flights operated by Delta, Sun Country.",
+  "geojson": "msp-sfo.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ulawun",
+  "name": "Ulawun",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2334,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Papua New Guinea",
+  "region": "New Britain",
+  "location": "New Britain, Papua New Guinea",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "One of the most active and dangerous volcanoes in Papua New Guinea. A Decade Volcano due to its explosive potential and proximity to populated areas.",
+  "description": "Ulawun is the highest volcano in the Bismarck Archipelago and one of the most dangerous in Papua New Guinea. It is designated a Decade Volcano due to its history of large eruptions.",
+  "geojson": "ulawun.geojson"
+}

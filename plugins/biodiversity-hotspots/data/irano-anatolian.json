@@ -1,0 +1,29 @@
+{
+  "code": "irano-anatolian",
+  "name": "Irano-Anatolian",
+  "location": "Western Asia (Turkey, Iran, Iraq, Armenia, Georgia, Azerbaijan, Turkmenistan)",
+  "areaKm2": 899773,
+  "habitatRemaining": "14.9%",
+  "plantSpecies": 6000,
+  "endemicPlants": 2500,
+  "vertebrateSpecies": 550,
+  "endemicVertebrates": 48,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Persian leopard",
+    "Anatolian wild sheep",
+    "Persian fallow deer",
+    "Imperial eagle",
+    "Wild goat"
+  ],
+  "threats": [
+    "Overgrazing",
+    "Agriculture",
+    "Dam construction",
+    "Urbanization",
+    "Desertification"
+  ],
+  "conservationEfforts": "Iran's Department of Environment manages extensive protected areas. Turkey's national parks protect key habitats. Persian fallow deer reintroduction programs. WWF-Turkey promotes sustainable agriculture practices.",
+  "description": "The Irano-Anatolian hotspot covers the mountain ranges and plateaus of Turkey, Iran, and surrounding countries. The region includes the Zagros and Alborz mountains, the Anatolian plateau, and parts of the South Caspian lowlands.\n\nThis hotspot is a major center of origin for food crops — wheat, barley, rye, and many fruit trees were first domesticated here. The region's wild relatives of crop plants represent an irreplaceable genetic resource. Despite its seemingly harsh landscapes, the hotspot supports rich oak and juniper forests, alpine meadows, and wetlands.",
+  "geojson": "irano-anatolian.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57194,
+          10.74056
+        ]
+      },
+      "properties": {
+        "code": "sukur-cultural-landscape",
+        "name": "Sukur Cultural Landscape",
+        "type": "Cultural",
+        "country": "Nigeria",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

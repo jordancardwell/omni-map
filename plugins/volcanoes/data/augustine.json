@@ -1,0 +1,22 @@
+{
+  "code": "augustine",
+  "name": "Augustine Volcano",
+  "volcanoType": "Lava dome",
+  "status": "Historically Active",
+  "elevation": 1252,
+  "lastEruption": "2006",
+  "vei": 3,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars",
+    "Tsunami"
+  ],
+  "eruptionHistory": "Erupts roughly every 10-20 years. Major eruptions in 1883, 1935, 1964, 1976, 1986, and 2006.",
+  "description": "Augustine is an island stratovolcano in Cook Inlet, Alaska. Its eruptions can generate volcanic tsunamis and disrupt aviation across the North Pacific.",
+  "geojson": "augustine.geojson"
+}

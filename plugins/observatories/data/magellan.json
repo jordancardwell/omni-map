@@ -1,0 +1,21 @@
+{
+  "code": "magellan",
+  "name": "Magellan Telescopes",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2516,
+  "aperture": "2 × 6.5 m",
+  "telescopes": [
+    "Baade",
+    "Clay"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet radial velocities",
+    "Dark energy studies",
+    "Gravitational lensing"
+  ],
+  "location": "Magellan Telescopes, Chile",
+  "description": "Twin 6.5m telescopes at Las Campanas Observatory. Known for excellent image quality and instruments like the Planet Finder Spectrograph.",
+  "geojson": "magellan.geojson"
+}

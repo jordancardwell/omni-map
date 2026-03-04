@@ -1,0 +1,14 @@
+{
+  "code": "the-maison-carree-of-nimes",
+  "name": "The Maison Carrée of Nîmes",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built in the 1st century AD in the Roman colony of Nemausus – today’s city of Nîmes in the Occitanie region– the Maison Carrée is one of the earliest examples of a Roman temple which can be connected to the imperial worship in the provinces of Rome. Dedicated to the presumptive heirs of Augustus, the princes of Youth, prematurely deceased, this building confirmed the control of Rome on the conquered territory while expressing in a symbolic way the allegiance and attachment of the people from the city of Nemausus to Augustus’ dynasty. The architecture of the Maison Carrée and its sophisticated decoration took part, symbolically, in the dissemination of Augustus ideologic program which turned the Ancient Rome from republic to empire, thus opening a new golden age bearer of promises of peace, prosperity and stability known by the name of Pax Romana.",
+  "danger": false,
+  "geojson": "the-maison-carree-of-nimes.geojson"
+}

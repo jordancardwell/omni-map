@@ -1,0 +1,16 @@
+{
+  "code": "in-uae-link",
+  "name": "IN-UAE Link",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1722,
+  "yearLaid": 2016,
+  "rfsDate": "2015-06",
+  "owner": "Etisalat",
+  "landingPoints": [
+    "Mumbai, India",
+    "Fujairah, UAE"
+  ],
+  "description": "IN-UAE Link connecting Mumbai to Fujairah.",
+  "geojson": "in-uae-link.geojson"
+}

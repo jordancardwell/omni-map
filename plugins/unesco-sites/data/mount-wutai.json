@@ -1,0 +1,16 @@
+{
+  "code": "mount-wutai",
+  "name": "Mount Wutai",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "With its five flat peaks, Mount Wutai is a sacred Buddhist mountain. The cultural landscape is home to forty-one monasteries and includes the East Main Hall of Foguang Temple, the highest surviving timber building of the Tang dynasty, with life-size clay sculptures. It also features the Ming dynasty Shuxiang Temple with a huge complex of 500 statues representing Buddhist stories woven into three-dimensional pictures of mountains and water. Overall, the buildings on the site catalogue the way in which Buddhist architecture developed and influenced palace building in China for over a millennium. Mount Wutai, literally, 'the five terrace mountain', is the highest in Northern China and is remarkable for its morphology of precipitous slopes with five open treeless peaks. Temples have been built on this site from the 1st century AD to the early 20th century.",
+  "danger": false,
+  "geojson": "mount-wutai.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "muskauer-park-park-muzakowski",
+  "name": "Muskauer Park / Park Mużakowski",
+  "type": "Cultural",
+  "country": "Poland, Germany",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "A landscaped park of 559.9 ha astride the Neisse River and the border between Poland and Germany, it was created by Prince Hermann von Puckler-Muskau from 1815 to 1844. Blending seamlessly with the surrounding farmed landscape, the park pioneered new approaches to landscape design and influenced the development of landscape architecture in Europe and America. Designed as a ‘painting with plants’, it did not seek to evoke classical landscapes, paradise, or some lost perfection, instead using local plants to enhance the inherent qualities of the existing landscape. This integrated landscape extends into the town of Muskau with green passages that formed urban parks framing areas for development. The town thus became a design component in a utopian landscape. The site also features a reconstructed castle, bridges and an arboretum.",
+  "danger": false,
+  "geojson": "muskauer-park-park-muzakowski.geojson"
+}

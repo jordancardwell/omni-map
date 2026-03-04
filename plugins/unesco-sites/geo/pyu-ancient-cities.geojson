@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8186111111,
+          22.47
+        ]
+      },
+      "properties": {
+        "code": "pyu-ancient-cities",
+        "name": "Pyu Ancient Cities",
+        "type": "Cultural",
+        "country": "Myanmar",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

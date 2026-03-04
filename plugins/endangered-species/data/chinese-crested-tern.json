@@ -1,0 +1,19 @@
+{
+  "code": "chinese-crested-tern",
+  "name": "Chinese Crested Tern",
+  "scientificName": "Thalasseus bernsteini",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~100 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Coastal islands",
+  "threats": [
+    "Egg collection",
+    "Typhoons",
+    "Habitat disturbance",
+    "Small population size"
+  ],
+  "conservationEfforts": "Artificial decoys attracted terns to protected nesting sites. Social attraction techniques increased colony size. Joint China-Taiwan conservation program.",
+  "description": "One of the world's rarest seabirds, rediscovered in 2000 after being thought extinct for 63 years. It nests among larger tern colonies on small offshore islands.",
+  "geojson": "chinese-crested-tern.geojson"
+}

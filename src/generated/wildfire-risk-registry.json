@@ -1,0 +1,463 @@
+[
+  {
+    "code": "alaskan-boreal",
+    "name": "Alaskan Boreal Interior",
+    "region": "North America",
+    "riskGroup": "4. Low",
+    "riskLevel": "Low",
+    "fireFrequency": "Low-Moderate — but rapidly increasing with Arctic warming",
+    "dominantVegetation": "Black spruce boreal forest, tundra transition, permafrost terrain",
+    "fireSeasonMonths": "May – August",
+    "areaBurnedAnnual": "~400,000 ha average; highly variable year to year",
+    "seasonalPattern": "Fire season is concentrated in the short boreal summer (May–August) when extended daylight and warm temperatures dry out black spruce forests. Lightning is the primary ignition source. Fire years are highly variable — some years see minimal burning while others experience millions of hectares burned. The frequency and northward extent of fires are increasing as permafrost thaws and the tundra dries.",
+    "historicalFires": [
+      "2015 Alaska Fire Season (2.1M ha)",
+      "2019 Swan Lake Fire (70K ha)",
+      "2004 Interior Alaska Fires (2.7M ha)",
+      "2022 Tundra Fires (expanding northward)"
+    ],
+    "description": "Alaska's interior boreal forest — dominated by black spruce over permafrost — has historically experienced infrequent but large fire events. However, Arctic warming is fundamentally changing fire dynamics. The 2015 season burned over 2 million hectares, and fires are increasingly burning into tundra regions where they haven't occurred in thousands of years. Permafrost fires release ancient carbon stored in frozen soils, and 'zombie fires' can smolder underground through winter to reignite in spring. While currently lower risk than lower-latitude fire zones, Alaska represents the fastest-changing fire regime on Earth.",
+    "geojson": "alaskan-boreal.geojson"
+  },
+  {
+    "code": "amazon-arc-of-deforestation",
+    "name": "Amazon Arc of Deforestation",
+    "region": "South America",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "High — annual agricultural burning with increasing forest fires",
+    "dominantVegetation": "Tropical rainforest, savanna transition zone",
+    "fireSeasonMonths": "July – October",
+    "areaBurnedAnnual": "~400,000 ha average; 906,000 ha in 2019",
+    "seasonalPattern": "Fire season coincides with the dry season (July–October) and peak deforestation activity. Most fires are set intentionally to clear land for cattle ranching and agriculture, but increasingly escape into standing forest. Drought years — especially during El Niño — see dramatic increases in uncontrolled forest fires.",
+    "historicalFires": [
+      "2019 Amazon Crisis (906K ha)",
+      "2020 Pantanal-Amazon Fires (850K ha)",
+      "2010 Drought Fires (600K ha)",
+      "2005 Record Drought (500K ha)"
+    ],
+    "description": "The 'Arc of Deforestation' stretches along the southern and eastern edges of the Amazon rainforest, from Maranhão through Mato Grosso to Rondônia and Acre. This 2,500 km frontier zone sees the highest rates of forest clearing and burning in the Amazon. Fire is used as a cheap tool for land conversion, but climate change and deforestation are creating a dangerous feedback loop — drier forests burn more easily, releasing carbon that drives further warming. Scientists warn that continued burning could push the Amazon past a tipping point into savanna-like conditions.",
+    "geojson": "amazon-arc-of-deforestation.geojson"
+  },
+  {
+    "code": "australian-southeast-bushlands",
+    "name": "Australian Southeast Bushlands",
+    "region": "Oceania",
+    "riskGroup": "1. Extreme",
+    "riskLevel": "Extreme",
+    "fireFrequency": "Very High — major fires every 3-5 years",
+    "dominantVegetation": "Eucalyptus forest, dry sclerophyll woodland",
+    "fireSeasonMonths": "October – March",
+    "areaBurnedAnnual": "~500,000 ha average; 18.6 million ha in 2019-2020",
+    "seasonalPattern": "Fire season peaks during the austral summer (December–February) when hot, dry northwesterly winds combine with drought conditions. Climate change has extended the fire season by 2–3 months since the 1970s. El Niño years dramatically increase fire risk.",
+    "historicalFires": [
+      "2019-2020 Black Summer (18.6M ha)",
+      "2009 Black Saturday (450K ha)",
+      "2003 Alpine Fires (1.7M ha)",
+      "1983 Ash Wednesday (520K ha)"
+    ],
+    "description": "The southeast Australian bushlands — spanning New South Wales, Victoria, and the ACT — represent one of the world's most fire-prone landscapes. Eucalyptus forests are uniquely adapted to fire, with oil-rich leaves that burn explosively. The 2019-2020 Black Summer fires were unprecedented in scale, burning over 18.6 million hectares and killing an estimated 3 billion animals. Climate projections indicate fire weather days will increase 15-70% by 2050.",
+    "geojson": "australian-southeast-bushlands.geojson"
+  },
+  {
+    "code": "california-chaparral",
+    "name": "California Chaparral & Forests",
+    "region": "North America",
+    "riskGroup": "1. Extreme",
+    "riskLevel": "Extreme",
+    "fireFrequency": "Very High — significant fires annually",
+    "dominantVegetation": "Chaparral shrubland, mixed conifer forest, coastal sage scrub",
+    "fireSeasonMonths": "June – November",
+    "areaBurnedAnnual": "~300,000 ha average; over 1.7 million ha in 2020",
+    "seasonalPattern": "Peak fire danger occurs during autumn Santa Ana and Diablo wind events — hot, dry offshore winds that can drive fires at extreme rates. Summer lightning fires in mountain forests are also common. The fire season has lengthened by 75 days since the 1970s due to warming and earlier snowmelt.",
+    "historicalFires": [
+      "2020 August Complex (417K ha)",
+      "2021 Dixie Fire (390K ha)",
+      "2018 Camp Fire (62K ha)",
+      "2017 Thomas Fire (114K ha)",
+      "2003 Cedar Fire (113K ha)"
+    ],
+    "description": "California's chaparral and mixed conifer ecosystems experience some of the most destructive wildfire conditions on Earth. The combination of Mediterranean climate, prolonged drought, Santa Ana winds, and expanding wildland-urban interface creates extreme fire risk. Over 11,000 structures were destroyed in the 2018 Camp Fire alone. California now experiences year-round fire risk in many areas, with climate models projecting a 50-100% increase in burned area by 2050.",
+    "geojson": "california-chaparral.geojson"
+  },
+  {
+    "code": "canadian-boreal-forest",
+    "name": "Canadian Boreal Forest",
+    "region": "North America",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "High — record-breaking seasons in 2023",
+    "dominantVegetation": "Spruce-fir boreal forest, jack pine, muskeg",
+    "fireSeasonMonths": "May – September",
+    "areaBurnedAnnual": "~2.5 million ha average; 18.5 million ha in 2023",
+    "seasonalPattern": "Lightning is the primary ignition source, with fire activity peaking in June–August. Dry springs following low-snowpack winters set the stage for explosive fire seasons. Black spruce forests burn with extreme crown-fire behavior. The 2023 season was unprecedented — fires burned simultaneously from coast to coast, affecting air quality across North America.",
+    "historicalFires": [
+      "2023 Canadian Wildfires (18.5M ha)",
+      "2016 Fort McMurray Fire (590K ha)",
+      "2014 Northwest Territories (3.4M ha)",
+      "2017 British Columbia (1.2M ha)"
+    ],
+    "description": "Canada's boreal forest — the world's largest intact forest — experienced its worst fire season in recorded history in 2023. Over 18.5 million hectares burned, more than doubling the previous record. Smoke from these fires blanketed much of North America and drifted across the Atlantic to Europe. The boreal zone stores roughly twice as much carbon as the atmosphere, and increasing fire frequency threatens to turn this carbon sink into a net source. Fire seasons are starting earlier and lasting longer, with burned area expected to double by 2100.",
+    "geojson": "canadian-boreal-forest.geojson"
+  },
+  {
+    "code": "central-african-savanna",
+    "name": "Central African Miombo Savanna",
+    "region": "Africa",
+    "riskGroup": "3. Moderate",
+    "riskLevel": "Moderate",
+    "fireFrequency": "Very High — one of the most frequently burned regions globally",
+    "dominantVegetation": "Miombo woodland, dambo grassland, Brachystegia forest",
+    "fireSeasonMonths": "May – October",
+    "areaBurnedAnnual": "~30 million ha across the Miombo belt",
+    "seasonalPattern": "The extended dry season (May–October) desiccates the miombo woodlands and grasslands. Fire is the dominant ecological process in this landscape — most fires are set for agriculture, charcoal production, and hunting. The late dry season burns are most intense and damaging to woodland structure. Fire season timing and intensity are shifting with changing rainfall patterns.",
+    "historicalFires": [
+      "Annual widespread burning (30M+ ha/year)",
+      "Fire is integral to land management across DRC, Tanzania, Zambia, Mozambique",
+      "2019 Central Africa fire season detected by satellite exceeded Amazon coverage"
+    ],
+    "description": "The Miombo woodland belt — stretching from the Democratic Republic of Congo through Tanzania, Zambia, Malawi, Mozambique, and Zimbabwe — is one of the most actively burned landscapes on Earth. In 2019, satellite data showed more active fires in Central Africa than in the Amazon, though this received little media attention. Fire has shaped the miombo ecosystem for millennia and many species depend on regular burning. However, increasing population pressure is shortening the intervals between fires, preventing woodland recovery and driving a gradual transition from forest to grassland in many areas.",
+    "geojson": "central-african-savanna.geojson"
+  },
+  {
+    "code": "cerrado-savanna",
+    "name": "Cerrado Tropical Savanna",
+    "region": "South America",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "Very High — fire is natural but increasing with land conversion",
+    "dominantVegetation": "Tropical savanna, cerrado grassland, gallery forest",
+    "fireSeasonMonths": "June – October",
+    "areaBurnedAnnual": "~800,000 ha average",
+    "seasonalPattern": "The dry season (June–October) brings near-zero rainfall and humidity below 20%, creating ideal fire conditions. The Cerrado is fire-adapted — many plant species require fire for germination — but agricultural expansion has altered natural fire regimes. Over half the Cerrado has been converted to cropland and pasture, increasing fire intensity and frequency in remaining fragments.",
+    "historicalFires": [
+      "2020 Cerrado Fires (1.2M ha)",
+      "2017 Chapada dos Veadeiros (66K ha)",
+      "2010 Cerrado Drought Fires (950K ha)",
+      "2019 Widespread Fires (800K ha)"
+    ],
+    "description": "The Cerrado — Brazil's tropical savanna — is the world's most biodiverse savanna and one of the most fire-prone ecosystems on Earth. While fire has shaped the Cerrado for millions of years, the rapid conversion of over 50% of the biome to soy and cattle farming has dramatically altered fire dynamics. Agricultural fires escape into remaining natural areas, burning hotter and more frequently than the ecosystem can sustain. The Cerrado is often overshadowed by Amazon fires in media coverage, but is actually losing native vegetation faster than the Amazon.",
+    "geojson": "cerrado-savanna.geojson"
+  },
+  {
+    "code": "chilean-central-valley",
+    "name": "Chilean Central Valley",
+    "region": "South America",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "High — exacerbated by eucalyptus and pine plantations",
+    "dominantVegetation": "Mediterranean scrub, eucalyptus plantations, pine plantations",
+    "fireSeasonMonths": "December – March",
+    "areaBurnedAnnual": "~100,000 ha average; 614,000 ha in 2017",
+    "seasonalPattern": "Austral summer (December–March) brings hot, dry conditions to central Chile. A megadrought since 2010 — the worst in 1,000 years — has dramatically increased fire risk. Exotic timber plantations (eucalyptus and pine) burn with extreme intensity and have replaced much of the native matorral shrubland, creating a more fire-prone landscape.",
+    "historicalFires": [
+      "2017 Chile Megafires (614K ha)",
+      "2023 Central Chile Fires (430K ha)",
+      "2014 Valparaíso Fire (1K ha, 2,900 homes)",
+      "2012 Bio-Bio Fires (70K ha)"
+    ],
+    "description": "Central Chile faces a growing wildfire crisis driven by the convergence of a decade-long megadrought, vast industrial timber plantations, and a rapidly warming Mediterranean climate. The 2017 fire season was Chile's worst in modern history, burning 614,000 hectares and killing 11 people. Eucalyptus and pine plantations — which cover over 3 million hectares — burn with extreme intensity and are rapidly replacing native vegetation. Chile has lost more native forest to fire in the last decade than in the previous century.",
+    "geojson": "chilean-central-valley.geojson"
+  },
+  {
+    "code": "event-2015-indonesian-peatland",
+    "name": "2015 Indonesian Peatland Crisis",
+    "region": "Sumatra & Kalimantan, Indonesia",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2015",
+    "areaBurned": 2600000,
+    "cause": "El Niño drought, peatland drainage, agricultural burning",
+    "description": "The 2015 Indonesian peatland fires were one of the worst environmental disasters of the 21st century. Burning 2.6 million hectares across Sumatra and Kalimantan, the fires released an estimated 1.6 billion tonnes of CO₂ — more than the annual emissions of Japan. Toxic haze from peat fires blanketed Southeast Asia for months, affecting 43 million people and causing an estimated 100,300 premature deaths. Economic losses reached $16 billion. The fires burned in drained peatlands that had been cleared for oil palm plantations, highlighting the devastating consequences of tropical peat destruction.",
+    "geojson": "event-2015-indonesian-peatland.geojson"
+  },
+  {
+    "code": "event-2017-chile-megafires",
+    "name": "2017 Chile Megafires",
+    "region": "Maule & Biobío, Chile",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2017",
+    "areaBurned": 614000,
+    "cause": "Decade-long megadrought, heatwave, eucalyptus plantations",
+    "description": "Chile's 2017 fire season was the worst in the nation's history, with fires burning 614,000 hectares across central Chile — ten times the annual average. The fires killed 11 people, displaced thousands, and destroyed the town of Santa Olga entirely. Eucalyptus and pine plantations — which burn with extreme intensity — fueled the fires' rapid spread. Chile's decade-long megadrought, the worst in 1,000 years, had left forests and plantations critically dry. The disaster prompted a national rethinking of Chile's forestry model and emergency management systems.",
+    "geojson": "event-2017-chile-megafires.geojson"
+  },
+  {
+    "code": "event-2019-amazon-fires",
+    "name": "2019 Amazon Fire Crisis",
+    "region": "Rondônia & Mato Grosso, Brazil",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "High",
+    "yearOfEvent": "2019",
+    "areaBurned": 906000,
+    "cause": "Agricultural land clearing, deforestation burning, drought",
+    "description": "The 2019 Amazon fires became a global crisis when satellite imagery revealed massive burning across the Brazilian Amazon. Over 906,000 hectares burned, with INPE detecting an 84% increase in fire activity compared to 2018. Most fires were deliberately set to clear land for cattle ranching and soy farming. The crisis drew international condemnation and threats to the EU-Mercosur trade deal. São Paulo was plunged into darkness at midday as smoke from fires 2,700 km away blocked the sun. The fires became a symbol of the conflict between development and environmental protection in the Amazon.",
+    "geojson": "event-2019-amazon-fires.geojson"
+  },
+  {
+    "code": "event-2019-australian-black-summer",
+    "name": "2019-2020 Australian Black Summer",
+    "region": "New South Wales & Victoria, Australia",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2019-2020",
+    "areaBurned": 18600000,
+    "cause": "Prolonged drought, extreme heat, lightning ignition",
+    "description": "Australia's Black Summer was one of the worst wildfire disasters in recorded history. From September 2019 to March 2020, fires burned 18.6 million hectares across southeast Australia — an area larger than Syria. The fires killed 34 people, destroyed over 5,900 buildings, and killed an estimated 3 billion animals. Smoke circled the globe and reached the stratosphere, temporarily cooling Southern Hemisphere temperatures. The disaster was driven by record-breaking drought and temperatures exceeding 49°C.",
+    "geojson": "event-2019-australian-black-summer.geojson"
+  },
+  {
+    "code": "event-2020-pantanal-fires",
+    "name": "2020 Pantanal Fires",
+    "region": "Mato Grosso do Sul, Brazil",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2020",
+    "areaBurned": 4200000,
+    "cause": "Severe drought, agricultural burning, record low water levels",
+    "description": "The 2020 Pantanal fires were the worst environmental disaster in the wetland's history. Approximately 30% of the world's largest tropical wetland burned — 4.2 million hectares — as the worst drought in 50 years left the normally flooded landscape bone-dry. The fires killed millions of animals, including significant populations of jaguars, giant anteaters, and hyacinth macaws. Most fires were started by ranchers clearing land, but spread uncontrollably due to extreme drought conditions. The Pantanal had never experienced fire on this scale.",
+    "geojson": "event-2020-pantanal-fires.geojson"
+  },
+  {
+    "code": "event-2021-dixie-fire",
+    "name": "2021 Dixie Fire",
+    "region": "Butte & Plumas Counties, California",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2021",
+    "areaBurned": 389837,
+    "cause": "Pacific Gas & Electric equipment failure, drought",
+    "description": "The Dixie Fire became the largest single fire (non-complex) in California history, burning 389,837 hectares across Butte, Plumas, Lassen, Shasta, and Tehama counties. The fire burned for over 100 days from July to October 2021, destroying the historic town of Greenville. It was caused by a tree falling on a PG&E power line during extreme drought — the same utility responsible for the 2018 Camp Fire. The Dixie Fire burned across the Sierra Nevada crest, an extremely rare event, demonstrating the escalating severity of California wildfires.",
+    "geojson": "event-2021-dixie-fire.geojson"
+  },
+  {
+    "code": "event-2021-siberian-yakutia",
+    "name": "2021 Yakutia Megafires",
+    "region": "Sakha Republic, Russia",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2021",
+    "areaBurned": 17400000,
+    "cause": "Extreme Arctic heatwave, drought, lightning",
+    "description": "In the summer of 2021, the Sakha Republic (Yakutia) in eastern Siberia experienced its worst wildfire season in recorded history. Fires burned 17.4 million hectares — an area the size of Uruguay — as temperatures reached 39°C in a region that typically averages 20°C in summer. Smoke from the fires was detected at the North Pole for the first time in recorded history. The fires burned through boreal forests, releasing vast amounts of carbon from both trees and thawing permafrost soils, estimated at 800 million tonnes of CO₂ equivalent.",
+    "geojson": "event-2021-siberian-yakutia.geojson"
+  },
+  {
+    "code": "event-2023-canadian-wildfires",
+    "name": "2023 Canadian Wildfires",
+    "region": "Alberta & British Columbia, Canada",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2023",
+    "areaBurned": 18500000,
+    "cause": "Record drought, early season heat, lightning ignitions",
+    "description": "The 2023 Canadian wildfire season shattered all records, burning over 18.5 million hectares — more than double the previous record. Fires burned simultaneously from coast to coast, with every province and territory affected. Smoke from these fires turned skies orange across the northeastern United States and caused the worst air quality ever recorded in New York City. Over 200,000 people were evacuated. The unprecedented season was attributed to record-breaking spring temperatures, low snowpack, and severe drought.",
+    "geojson": "event-2023-canadian-wildfires.geojson"
+  },
+  {
+    "code": "event-2023-greece-evros",
+    "name": "2023 Evros Wildfire (Greece)",
+    "region": "Evros Prefecture, Greece",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2023",
+    "areaBurned": 93000,
+    "cause": "Extreme heatwave (46°C), arson, dry conditions",
+    "description": "The 2023 Evros wildfire in northeastern Greece was the largest single wildfire ever recorded in the European Union. Burning 93,000 hectares over 17 days in August 2023, the fire devastated Dadia National Park — one of Europe's most important raptor habitats. Temperatures reached 46°C during Greece's worst heatwave in decades. Twenty people, mostly migrants sheltering in the forest, lost their lives. The fire's extreme size — larger than all of Berlin — highlighted the escalating wildfire threat in the Mediterranean under climate change. It was one of several simultaneous fires across Greece that summer.",
+    "geojson": "event-2023-greece-evros.geojson"
+  },
+  {
+    "code": "event-2023-maui-wildfire",
+    "name": "2023 Maui Wildfire (Lahaina)",
+    "region": "Maui, Hawaii",
+    "riskGroup": "5. Recent Major Fires",
+    "riskLevel": "Extreme",
+    "yearOfEvent": "2023",
+    "areaBurned": 7000,
+    "cause": "Downed power lines, hurricane-force winds from Hurricane Dora",
+    "description": "The Lahaina wildfire on August 8, 2023 was the deadliest US wildfire in over a century, killing 101 people and destroying the historic town of Lahaina on Maui's west coast. Despite burning only 7,000 hectares, the fire caused over $5.5 billion in damage. Hurricane Dora's distant winds drove the fire through the town at extraordinary speed, giving residents minutes to evacuate. The disaster exposed failures in emergency warning systems — outdoor sirens were never activated. Invasive fire-prone grasses that replaced former sugar cane fields fueled the rapid fire spread.",
+    "geojson": "event-2023-maui-wildfire.geojson"
+  },
+  {
+    "code": "greek-turkish-mediterranean",
+    "name": "Greek-Turkish Mediterranean",
+    "region": "Europe",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "High — increasing with heatwave frequency",
+    "dominantVegetation": "Maquis shrubland, Aleppo pine forests, olive groves",
+    "fireSeasonMonths": "June – September",
+    "areaBurnedAnnual": "~120,000 ha average across Greece and Turkey",
+    "seasonalPattern": "Extreme heatwaves — increasingly common and intense — drive fire seasons. Meltemi winds in the Aegean can spread fires rapidly across island and coastal landscapes. Greece and Turkey have experienced their worst fire seasons in the 2020s, with temperatures regularly exceeding 45°C. Urban-wildland interface fires threaten historical sites and coastal communities.",
+    "historicalFires": [
+      "2023 Evros Fire Greece (93K ha)",
+      "2021 Turkey Megafires (200K ha)",
+      "2021 Evia Fire Greece (51K ha)",
+      "2018 Attica Fire (25 dead)",
+      "2007 Peloponnese Fires (270K ha)"
+    ],
+    "description": "The eastern Mediterranean — particularly Greece and Turkey — has become a wildfire crisis zone. The 2023 Evros fire in northeastern Greece was the EU's largest-ever recorded wildfire. Turkey experienced unprecedented fires in 2021 across its southern coast. The combination of intense summer heatwaves, abandonment of traditional land management, pine-dominated forests, and strong winds creates explosive fire conditions. Climate models project the eastern Mediterranean as one of the fastest-warming regions globally.",
+    "geojson": "greek-turkish-mediterranean.geojson"
+  },
+  {
+    "code": "indian-dry-forests",
+    "name": "Indian Dry Deciduous Forests",
+    "region": "Asia",
+    "riskGroup": "3. Moderate",
+    "riskLevel": "Moderate",
+    "fireFrequency": "Moderate — seasonal forest fires in central and southern India",
+    "dominantVegetation": "Dry deciduous forest, teak woodland, scrubland, bamboo forest",
+    "fireSeasonMonths": "February – June",
+    "areaBurnedAnnual": "~100,000 ha average across India",
+    "seasonalPattern": "Fire season peaks in the hot, dry pre-monsoon months (March–May) when deciduous trees have shed their leaves and the forest floor is covered with dry leaf litter. Most fires are set for non-timber forest product collection (tendu leaves), grazing land improvement, and shifting cultivation. Lightning fires are rare; nearly all fires are human-caused.",
+    "historicalFires": [
+      "2024 Uttarakhand Fires (widespread)",
+      "2021 Simlipal Fire Odisha (national park)",
+      "2019 Bandipur Fire Karnataka (heritage site)",
+      "Annual fires across Madhya Pradesh, Chhattisgarh, Odisha"
+    ],
+    "description": "India's dry deciduous forests — found across central and peninsular India — experience annual fire seasons driven by dry pre-monsoon conditions and widespread human ignition. States like Madhya Pradesh, Chhattisgarh, Odisha, and Maharashtra see thousands of forest fires each year. While these forests have some fire tolerance, increasing fire frequency and intensity are degrading biodiversity-rich areas including tiger reserves and national parks. India's Forest Survey reports that over 36% of forest area is fire-prone, with climate change expected to increase both fire frequency and the length of the fire season.",
+    "geojson": "indian-dry-forests.geojson"
+  },
+  {
+    "code": "indonesian-peatlands",
+    "name": "Indonesian Peatlands",
+    "region": "Southeast Asia",
+    "riskGroup": "1. Extreme",
+    "riskLevel": "Extreme",
+    "fireFrequency": "Very High — widespread fires every 2-4 years during El Niño",
+    "dominantVegetation": "Tropical peat swamp forest, oil palm plantation",
+    "fireSeasonMonths": "July – November",
+    "areaBurnedAnnual": "~500,000 ha average; 2.6 million ha in 2015",
+    "seasonalPattern": "Fires peak during the dry season (July–November), with catastrophic events during El Niño years when drought is prolonged. Drained peatlands burn underground for months, making suppression nearly impossible. The 2015 fires released more CO₂ daily than the entire US economy.",
+    "historicalFires": [
+      "2015 Peatland Crisis (2.6M ha)",
+      "2019 Kalimantan Fires (1.6M ha)",
+      "2006 Borneo Fires (890K ha)",
+      "1997-98 El Niño Fires (9.7M ha)"
+    ],
+    "description": "Indonesia's tropical peatlands — primarily in Sumatra and Kalimantan — are among the world's most fire-vulnerable ecosystems. Massive drainage for palm oil plantations has turned waterlogged peat into a tinderbox. When ignited, peat fires burn underground and produce toxic haze affecting 100 million people across Southeast Asia. The 2015 fires caused an estimated $16 billion in economic damage and contributed to over 100,000 premature deaths from air pollution.",
+    "geojson": "indonesian-peatlands.geojson"
+  },
+  {
+    "code": "mediterranean-iberian",
+    "name": "Iberian Peninsula Mediterranean",
+    "region": "Europe",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "High — major fires annually across Portugal and Spain",
+    "dominantVegetation": "Mediterranean pine forests, eucalyptus plantations, maquis shrubland",
+    "fireSeasonMonths": "June – September",
+    "areaBurnedAnnual": "~200,000 ha average across Iberian Peninsula",
+    "seasonalPattern": "Summer heatwaves combined with Atlantic-driven drought create peak fire conditions from June through September. Portugal and Spain account for over 80% of southern Europe's burned area. Eucalyptus plantations, which burn with extreme intensity, have expanded dramatically. Heat records now routinely exceed 45°C, extending fire seasons.",
+    "historicalFires": [
+      "2017 Portugal Fires (540K ha)",
+      "2012 Spain Fires (210K ha)",
+      "2003 Portugal Fires (426K ha)",
+      "2006 Galicia Fires (190K ha)"
+    ],
+    "description": "The Iberian Peninsula is southern Europe's wildfire epicenter. Portugal's 2017 fire season killed 117 people and was the deadliest in European history. The combination of rural depopulation (reducing landscape management), eucalyptus monocultures (which burn with extreme intensity), and rapidly warming summers has created an escalating fire crisis. Portugal now averages 20,000 fires per year. Climate projections suggest fire-prone area in southern Europe will expand 40% by 2100.",
+    "geojson": "mediterranean-iberian.geojson"
+  },
+  {
+    "code": "pacific-northwest",
+    "name": "Pacific Northwest Forests",
+    "region": "North America",
+    "riskGroup": "3. Moderate",
+    "riskLevel": "Moderate",
+    "fireFrequency": "Moderate — increasing rapidly with drought and beetle kill",
+    "dominantVegetation": "Douglas fir, western red cedar, ponderosa pine, subalpine forest",
+    "fireSeasonMonths": "July – October",
+    "areaBurnedAnnual": "~200,000 ha average across Oregon and Washington",
+    "seasonalPattern": "Fire season peaks in late summer (August–September) when dry east winds can drive fires through moisture-stressed forests. The 2020 Labor Day fires demonstrated the catastrophic potential when unprecedented wind events coincide with drought. Mountain pine beetle epidemics have created vast areas of dead, fire-prone timber. Smoke events now regularly affect urban air quality in Portland and Seattle.",
+    "historicalFires": [
+      "2020 Oregon Labor Day Fires (400K ha)",
+      "2017 Eagle Creek Fire (20K ha)",
+      "2015 Okanogan Complex (130K ha)",
+      "2014 Carlton Complex (103K ha)"
+    ],
+    "description": "The Pacific Northwest — historically considered a wet, temperate region — has emerged as a significant wildfire risk zone. The catastrophic 2020 Labor Day fires in Oregon burned over 400,000 hectares in just 72 hours, destroying entire communities and producing hazardous air quality across the region. A century of fire suppression has created dense, overgrown forests vulnerable to catastrophic fire. Mountain pine beetle infestations, driven by warming winters, have killed millions of hectares of forest, creating vast expanses of dead fuel. Climate change is projected to increase fire risk 300-500% in some Pacific Northwest forests by 2080.",
+    "geojson": "pacific-northwest.geojson"
+  },
+  {
+    "code": "pantanal-wetlands",
+    "name": "Pantanal Wetlands",
+    "region": "South America",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "High — dramatically increasing since 2019",
+    "dominantVegetation": "Tropical wetland, gallery forest, cerrado grassland, floodplain",
+    "fireSeasonMonths": "July – October",
+    "areaBurnedAnnual": "~150,000 ha average; 4.2 million ha in 2020",
+    "seasonalPattern": "The dry season (July–October) lowers water levels across the floodplain, exposing vast areas of dry vegetation. In drought years, fires — often set for pasture management — spread uncontrollably across the parched landscape. The 2020 fires burned approximately 30% of the entire Pantanal, the worst disaster in the wetland's recorded history.",
+    "historicalFires": [
+      "2020 Pantanal Megafires (4.2M ha)",
+      "2024 Pantanal Fires (2.1M ha)",
+      "2019 Pantanal Fires (1.4M ha)",
+      "2005 Drought Fires (300K ha)"
+    ],
+    "description": "The Pantanal — the world's largest tropical wetland spanning Brazil, Bolivia, and Paraguay — has experienced catastrophic fires in recent years. The 2020 fire season destroyed approximately 30% of the 150,000 km² biome, killing millions of animals including jaguars, giant otters, and hyacinth macaws. Reduced river flows due to upstream deforestation and drought, combined with agricultural land conversion, have made this once-waterlogged ecosystem increasingly vulnerable to fire. The Pantanal's fire crisis highlights how even wetlands are not immune to climate-driven fire risk.",
+    "geojson": "pantanal-wetlands.geojson"
+  },
+  {
+    "code": "siberian-taiga",
+    "name": "Siberian Taiga",
+    "region": "Asia",
+    "riskGroup": "2. High",
+    "riskLevel": "High",
+    "fireFrequency": "Moderate-High — increasing dramatically due to Arctic warming",
+    "dominantVegetation": "Boreal larch forest, spruce taiga, tundra-taiga transition",
+    "fireSeasonMonths": "May – September",
+    "areaBurnedAnnual": "~5 million ha average; over 17 million ha in 2021",
+    "seasonalPattern": "Lightning-driven fires peak in June–August as boreal summer warmth dries out the vast taiga. Permafrost thaw exposes organic soils that can ignite and burn for months. 'Zombie fires' overwinter underground in peat and reignite in spring. The Arctic is warming 2-4x faster than the global average, dramatically increasing fire frequency.",
+    "historicalFires": [
+      "2021 Yakutia Megafires (17.4M ha)",
+      "2019 Siberian Fires (13.1M ha)",
+      "2020 Arctic Circle Fires (5.8M ha)",
+      "2003 Sakha Fires (12M ha)"
+    ],
+    "description": "Siberia's vast taiga is the world's largest land biome and has become a global wildfire hotspot. The 2021 Yakutia fires — the largest in Russia's modern history — burned an area the size of Syria and produced smoke visible from the North Pole. Arctic warming is thawing permafrost, drying forests, and dramatically extending the fire season. These fires release massive amounts of stored carbon from both forest biomass and permafrost soils, creating a dangerous positive feedback loop. Remote location means most fires burn uncontrolled.",
+    "geojson": "siberian-taiga.geojson"
+  },
+  {
+    "code": "southern-african-bushveld",
+    "name": "Southern African Bushveld",
+    "region": "Africa",
+    "riskGroup": "3. Moderate",
+    "riskLevel": "Moderate",
+    "fireFrequency": "High — regular seasonal burning, increasing with drought",
+    "dominantVegetation": "Bushveld, savanna woodland, fynbos, grassveld",
+    "fireSeasonMonths": "June – October",
+    "areaBurnedAnnual": "~5 million ha across southern Africa",
+    "seasonalPattern": "The dry winter months (June–October) bring peak fire conditions as grasslands and bushveld cure. Berg winds — hot, dry downslope winds — create extreme fire weather along the eastern escarpment. South Africa's fynbos biome is fire-adapted and requires burning for regeneration, but fire frequency is changing with climate shifts.",
+    "historicalFires": [
+      "2023 KwaZulu-Natal Fires (widespread)",
+      "2021 Table Mountain Fire (Cape Town)",
+      "2017 Knysna Fires (15K ha)",
+      "Annual grassland burns across Mpumalanga and KZN"
+    ],
+    "description": "Southern Africa's diverse fire-prone landscapes — from the Highveld grasslands to the Cape fynbos to the Limpopo bushveld — experience regular fire seasons driven by dry winters and Berg winds. The 2017 Knysna fires on the Garden Route were among South Africa's most destructive, destroying over 1,000 structures. While many ecosystems are fire-adapted, changing land use patterns, invasive alien vegetation (which burns more intensely), and increasing drought are altering fire behavior. Fire management is complicated by the mix of fire-dependent ecosystems that need to burn and communities that need protection.",
+    "geojson": "southern-african-bushveld.geojson"
+  },
+  {
+    "code": "sub-saharan-west-african-savanna",
+    "name": "West African Savanna",
+    "region": "Africa",
+    "riskGroup": "3. Moderate",
+    "riskLevel": "Moderate",
+    "fireFrequency": "Very High — most actively burning region on Earth by area",
+    "dominantVegetation": "Guinea savanna, Sudanian woodland, grassland",
+    "fireSeasonMonths": "November – March",
+    "areaBurnedAnnual": "~40 million ha — largest burned area of any region globally",
+    "seasonalPattern": "The dry Harmattan season (November–March) brings hot, dry winds from the Sahara that desiccate vegetation across the savanna belt. Fire is deeply embedded in agricultural and pastoral traditions — used for land clearing, hunting, and pasture renewal. While individual fires are less intense than boreal or eucalyptus fires, the sheer extent of burning makes this the world's most fire-active region.",
+    "historicalFires": [
+      "Annual widespread burning (40M+ ha/year)",
+      "2020 Guinea Fires (record early season)",
+      "2016 Harmattan Fires (extended season)",
+      "Fire is perennial — no single 'event' dominates"
+    ],
+    "description": "Sub-Saharan West Africa — from Senegal to Nigeria — burns more land surface than any other region on Earth. Satellite data shows Africa accounts for over 70% of global burned area annually. Most fires are set deliberately for agriculture, hunting, and land management in a tradition spanning thousands of years. While the savanna ecosystem is broadly resilient to fire, intensifying drought, population pressure, and land-use change are shifting fire regimes. The ecological balance between fire and regrowth is increasingly stressed by shorter recovery periods between burns.",
+    "geojson": "sub-saharan-west-african-savanna.geojson"
+  }
+]

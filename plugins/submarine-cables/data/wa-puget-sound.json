@@ -1,0 +1,16 @@
+{
+  "code": "wa-puget-sound",
+  "name": "WA Puget Sound",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 404,
+  "yearLaid": 2010,
+  "rfsDate": "2022-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "Manchester, USA",
+    "Seattle, USA"
+  ],
+  "description": "WA Puget Sound connecting Manchester to Seattle.",
+  "geojson": "wa-puget-sound.geojson"
+}

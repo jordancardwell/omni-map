@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2913888889,
+          38.2486111111
+        ]
+      },
+      "properties": {
+        "code": "sheikh-safi-al-din-khanegah-and-shrine-ensemble-in-ardabil",
+        "name": "Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

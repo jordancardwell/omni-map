@@ -1,0 +1,17 @@
+{
+  "code": "ph",
+  "name": "Philippines",
+  "avgDownloadMbps": 39.4,
+  "avgUploadMbps": 22.8,
+  "avgLatencyMs": 20,
+  "mobileDownloadMbps": 26.8,
+  "mobileUploadMbps": 5.6,
+  "fixedDownloadMbps": 39.4,
+  "fixedUploadMbps": 22.8,
+  "rank": 81,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Improving connectivity with new towers. ~20% year-over-year growth.",
+  "geojson": "ph.geojson"
+}

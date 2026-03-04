@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.25,
+          4.0
+        ]
+      },
+      "properties": {
+        "code": "garamba-national-park",
+        "name": "Garamba National Park",
+        "type": "Natural",
+        "country": "Democratic Republic of the Congo",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

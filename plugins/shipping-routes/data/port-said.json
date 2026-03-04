@@ -1,0 +1,15 @@
+{
+  "code": "port-said",
+  "name": "Port Said",
+  "country": "Egypt",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Suez Canal Route",
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port Said in Egypt. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "port-said.geojson"
+}

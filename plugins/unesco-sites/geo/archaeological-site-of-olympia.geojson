@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.634,
+          37.64
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-olympia",
+        "name": "Archaeological Site of Olympia",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1989"
+      }
+    }
+  ]
+}

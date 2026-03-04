@@ -1,0 +1,31 @@
+{
+  "code": "utc-4",
+  "name": "Atlantic Standard Time",
+  "nativeName": "UTC-04:00",
+  "utcOffset": "UTC-04:00",
+  "utcOffsetHours": -4,
+  "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+  "ianaNames": [
+    "America/Halifax",
+    "America/Caracas",
+    "America/La_Paz",
+    "America/Santiago"
+  ],
+  "countries": [
+    "Canada (Atlantic provinces)",
+    "Venezuela",
+    "Bolivia",
+    "Chile",
+    "Paraguay",
+    "Bermuda",
+    "Puerto Rico",
+    "Dominican Republic",
+    "Trinidad and Tobago"
+  ],
+  "dstRules": "Canada/Bermuda observe DST (UTC-3 in summer); most South American countries do not",
+  "description": "Spans the Caribbean, Atlantic Canada, and western South America. This zone includes a diverse mix of cultures from the maritime provinces of Canada to the tropical islands of the Caribbean and the Andes mountains.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-4.geojson"
+}

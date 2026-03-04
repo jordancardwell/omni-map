@@ -1,0 +1,17 @@
+{
+  "code": "ag",
+  "name": "Antigua and Barbuda",
+  "avgDownloadMbps": 28.4,
+  "avgUploadMbps": 10.6,
+  "avgLatencyMs": 30,
+  "mobileDownloadMbps": 18.6,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 28.4,
+  "fixedUploadMbps": 10.6,
+  "rank": 97,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Small Caribbean island improving broadband. ~8% year-over-year growth.",
+  "geojson": "ag.geojson"
+}

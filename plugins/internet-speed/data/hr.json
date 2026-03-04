@@ -1,0 +1,17 @@
+{
+  "code": "hr",
+  "name": "Croatia",
+  "avgDownloadMbps": 112.6,
+  "avgUploadMbps": 42.3,
+  "avgLatencyMs": 18,
+  "mobileDownloadMbps": 38.4,
+  "mobileUploadMbps": 8.6,
+  "fixedDownloadMbps": 112.6,
+  "fixedUploadMbps": 42.3,
+  "rank": 41,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "EU funds driving infrastructure upgrades. ~12% year-over-year growth.",
+  "geojson": "hr.geojson"
+}

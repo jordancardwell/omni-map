@@ -1,0 +1,15 @@
+{
+  "code": "qinghai-hoh-xil",
+  "name": "Qinghai Hoh Xil",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Qinghai Hoh Xil, located in the northeastern extremity of the Qinghai-Tibetan Plateau, is the largest and highest plateau in the world. This extensive area of alpine mountains and steppe systems is situated more than 4,500 m above sea level, where sub-zero average temperatures prevail all year-round. The site’s geographical and climatic conditions have nurtured a unique biodiversity. More than one third of the plant species, and all the herbivorous mammals are endemic to the plateau. The property secures the complete migratory route of the Tibetan antelope, one of the endangered large mammals that are endemic to the plateau.",
+  "danger": false,
+  "geojson": "qinghai-hoh-xil.geojson"
+}

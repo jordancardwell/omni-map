@@ -1,0 +1,19 @@
+{
+  "code": "kemp-ridley-turtle",
+  "name": "Kemp's Ridley Sea Turtle",
+  "scientificName": "Lepidochelys kempii",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~7,000-9,000 nesting females",
+  "populationTrend": "Increasing",
+  "habitatType": "Coastal waters and sandy beaches",
+  "threats": [
+    "Bycatch in shrimp trawls",
+    "Egg collection",
+    "Oil spills",
+    "Marine debris"
+  ],
+  "conservationEfforts": "Turtle Excluder Devices (TEDs) mandatory in US shrimp fisheries. Bi-national Mexico-US protection of Rancho Nuevo nesting beach. Head-starting program releases juveniles.",
+  "description": "The smallest and most endangered sea turtle. Nearly all nesting occurs on a single beach — Rancho Nuevo in Mexico, where a famous 1947 film captured an estimated 40,000 nesting in one day (an 'arribada').",
+  "geojson": "kemp-ridley-turtle.geojson"
+}

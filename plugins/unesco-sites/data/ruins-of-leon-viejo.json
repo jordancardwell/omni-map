@@ -1,0 +1,15 @@
+{
+  "code": "ruins-of-leon-viejo",
+  "name": "Ruins of León Viejo",
+  "type": "Cultural",
+  "country": "Nicaragua",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "León Viejo is one of the oldest Spanish colonial settlements in the Americas. It did not develop and so its ruins are outstanding testimony to the social and economic structures of the Spanish Empire in the 16th century. Moreover, the site has immense archaeological potential.",
+  "danger": false,
+  "geojson": "ruins-of-leon-viejo.geojson"
+}

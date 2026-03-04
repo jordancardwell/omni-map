@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5080555556,
+          37.9816666667
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-and-sites-in-kaesong",
+        "name": "Historic Monuments and Sites in Kaesong",
+        "type": "Cultural",
+        "country": "Democratic People's Republic of Korea",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

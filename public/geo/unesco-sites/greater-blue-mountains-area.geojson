@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0,
+          -33.7
+        ]
+      },
+      "properties": {
+        "code": "greater-blue-mountains-area",
+        "name": "Greater Blue Mountains Area",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "dutch-colonial-empire",
+  "name": "Dutch Colonial Empire",
+  "era": "Early Modern",
+  "peakYear": "1670 CE",
+  "areaAtPeakKm2": 3700000,
+  "populationEstimate": "36 million",
+  "capital": "Amsterdam",
+  "keyAchievements": [
+    "Dutch East India Company (VOC)",
+    "Global trade network",
+    "Financial innovation (stock exchange)",
+    "Cartography advances",
+    "Religious tolerance"
+  ],
+  "declineFactors": [
+    "Anglo-Dutch Wars",
+    "French invasion",
+    "British competition",
+    "Napoleonic occupation",
+    "Indonesian independence"
+  ],
+  "description": "The Dutch Colonial Empire was built during the Dutch Golden Age of the 17th century, when the Netherlands became the world's foremost maritime and economic power. The Dutch East India Company (VOC) was the world's first multinational corporation and first company to issue stock.\n\nThe Dutch established colonies and trading posts across Southeast Asia (Indonesia), South Africa, the Caribbean, and briefly controlled parts of Brazil and North America (New Amsterdam, now New York). Their innovations in finance, including the Amsterdam Stock Exchange, laid the foundations of modern capitalism.",
+  "geojson": "dutch-colonial-empire.geojson"
+}

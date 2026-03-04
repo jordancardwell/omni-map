@@ -1,0 +1,12 @@
+{
+  "code": "jed",
+  "name": "King Abdulaziz International",
+  "iataCode": "JED",
+  "city": "Jeddah",
+  "country": "Saudi Arabia",
+  "annualPassengers": 40000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "King Abdulaziz International (JED) in Jeddah, Saudi Arabia. Annual passengers: ~40M. Classification: International Hub.",
+  "geojson": "jed.geojson"
+}

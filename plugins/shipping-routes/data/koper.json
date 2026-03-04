@@ -1,0 +1,14 @@
+{
+  "code": "koper",
+  "name": "Port of Koper",
+  "country": "Slovenia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Adriatic Sea Route"
+  ],
+  "description": "Port of Koper in Slovenia. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+  "geojson": "koper.geojson"
+}

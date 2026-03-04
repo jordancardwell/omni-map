@@ -1,0 +1,14 @@
+{
+  "code": "gwangyang",
+  "name": "Port of Gwangyang",
+  "country": "South Korea",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 290,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Gwangyang in South Korea. Annual cargo throughput: ~290 million tons. Type: Bulk Port.",
+  "geojson": "gwangyang.geojson"
+}

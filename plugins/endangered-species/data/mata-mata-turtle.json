@@ -1,0 +1,18 @@
+{
+  "code": "mata-mata-turtle",
+  "name": "Mata Mata Turtle",
+  "scientificName": "Chelus fimbriata",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Slow-moving freshwater",
+  "threats": [
+    "Habitat degradation",
+    "Collection for pet trade",
+    "Water pollution"
+  ],
+  "conservationEfforts": "CITES Appendix II listing in 2022 regulates international trade. Protected in several South American countries. Aquatic habitat conservation programs.",
+  "description": "One of the most bizarre-looking turtles, with a flattened triangular head covered in tubercles and flaps that act as camouflage. It captures fish by creating a vacuum with its large mouth.",
+  "geojson": "mata-mata-turtle.geojson"
+}

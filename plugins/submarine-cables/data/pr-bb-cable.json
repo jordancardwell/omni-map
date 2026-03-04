@@ -1,0 +1,16 @@
+{
+  "code": "pr-bb-cable",
+  "name": "PR-BB Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1305,
+  "yearLaid": 2008,
+  "rfsDate": "2012-06",
+  "owner": "ECFS",
+  "landingPoints": [
+    "San Juan, Puerto Rico",
+    "Bridgetown, Barbados"
+  ],
+  "description": "PR-BB Cable connecting San Juan to Bridgetown in the Caribbean region.",
+  "geojson": "pr-bb-cable.geojson"
+}

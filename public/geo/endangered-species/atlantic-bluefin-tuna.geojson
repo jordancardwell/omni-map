@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"atlantic-bluefin-tuna","name":"Atlantic Bluefin Tuna"},"geometry":{"type":"Polygon","coordinates":[[[80,20],[10,20],[5,35],[0,50],[10,60],[30,65],[40,60],[30,50],[80,20]]]}}]}

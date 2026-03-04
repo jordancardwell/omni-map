@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"aqaba","name":"Port of Aqaba","featureType":"port","portType":"Multi-Purpose Port","country":"Jordan"},"geometry":{"type":"Point","coordinates":[35.01,29.53]}}]}

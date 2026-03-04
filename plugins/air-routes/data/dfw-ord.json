@@ -1,0 +1,18 @@
+{
+  "code": "dfw-ord",
+  "name": "Dallas — Chicago",
+  "airports": [
+    "DFW",
+    "ORD"
+  ],
+  "distanceKm": 1290,
+  "weeklyFlights": 120,
+  "airlines": [
+    "American",
+    "United"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DFW–ORD route between Dallas and Chicago. Distance: 1,290 km. ~120 weekly flights operated by American, United.",
+  "geojson": "dfw-ord.geojson"
+}

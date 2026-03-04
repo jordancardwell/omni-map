@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"dalian","name":"Port of Dalian","featureType":"port","portType":"Multi-Purpose Port","country":"China"},"geometry":{"type":"Point","coordinates":[121.6,38.91]}}]}

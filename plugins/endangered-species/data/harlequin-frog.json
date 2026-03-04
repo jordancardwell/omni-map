@@ -1,0 +1,18 @@
+{
+  "code": "harlequin-frog",
+  "name": "Limosa Harlequin Frog",
+  "scientificName": "Atelopus limosus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical moist forest streams",
+  "threats": [
+    "Chytrid fungus",
+    "Habitat loss",
+    "Climate change"
+  ],
+  "conservationEfforts": "Panama Amphibian Rescue and Conservation Project maintains assurance colonies. Research into chytrid-resistant populations. Community-based watershed protection.",
+  "description": "One of many harlequin frog species devastated by chytrid fungus across the Neotropics. Some populations show signs of developing resistance to the disease.",
+  "geojson": "harlequin-frog.geojson"
+}

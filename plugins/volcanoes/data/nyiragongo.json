@@ -1,0 +1,22 @@
+{
+  "code": "nyiragongo",
+  "name": "Mount Nyiragongo",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3470,
+  "lastEruption": "2021",
+  "vei": 1,
+  "country": "Democratic Republic of Congo",
+  "region": "East Africa",
+  "location": "East Africa, Democratic Republic of Congo",
+  "tectonicSetting": "Continental rift",
+  "hazards": [
+    "Lava flows",
+    "Lava lake overflow",
+    "Volcanic gases",
+    "Limnic eruption"
+  ],
+  "eruptionHistory": "Contains one of the world's rare persistent lava lakes. The 2002 eruption destroyed much of the city of Goma. Erupted again in 2021 killing 32 people.",
+  "description": "Nyiragongo contains the world's largest lava lake in its summit crater. Its extremely fluid lava can flow at speeds up to 100 km/h, making it one of the most dangerous volcanoes in Africa.",
+  "geojson": "nyiragongo.geojson"
+}

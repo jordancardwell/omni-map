@@ -1,0 +1,15 @@
+{
+  "code": "santos",
+  "name": "Port of Santos",
+  "country": "Brazil",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 145,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Atlantic Southern Route",
+    "Brazil–Europe Route"
+  ],
+  "description": "Port of Santos in Brazil. Annual cargo throughput: ~145 million tons. Type: Multi-Purpose Port.",
+  "geojson": "santos.geojson"
+}

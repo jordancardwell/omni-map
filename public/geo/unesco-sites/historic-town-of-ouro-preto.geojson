@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.50555556,
+          -20.38888889
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-ouro-preto",
+        "name": "Historic Town of Ouro Preto",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

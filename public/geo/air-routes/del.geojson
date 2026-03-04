@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"del","name":"Indira Gandhi International","featureType":"airport","iataCode":"DEL","annualPassengers":46500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[77.1,28.5562]}}]}

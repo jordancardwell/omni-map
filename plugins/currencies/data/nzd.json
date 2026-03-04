@@ -1,0 +1,19 @@
+{
+  "code": "nzd",
+  "name": "New Zealand Dollar",
+  "isoCode": "NZD",
+  "symbol": "NZ$",
+  "region": "Oceania",
+  "centralBank": "Reserve Bank of New Zealand",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "New Zealand",
+    "Cook Islands",
+    "Niue",
+    "Tokelau"
+  ],
+  "countryCount": 4,
+  "description": "The New Zealand Dollar, nicknamed the 'Kiwi', is the currency of New Zealand. The country pioneered inflation targeting, now adopted by dozens of central banks.",
+  "historicalNotes": "Introduced in 1967, replacing the New Zealand pound. New Zealand was the first country to adopt formal inflation targeting in 1990.",
+  "geojson": "nzd.geojson"
+}

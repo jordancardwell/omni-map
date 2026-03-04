@@ -1,0 +1,16 @@
+{
+  "code": "pre-hispanic-town-of-uxmal",
+  "name": "Pre-Hispanic Town of Uxmal",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Mayan town of Uxmal, in Yucatán, was founded c. A.D. 700 and had some 25,000 inhabitants. The layout of the buildings, which date from between 700 and 1000, reveals a knowledge of astronomy. The Pyramid of the Soothsayer, as the Spaniards called it, dominates the ceremonial centre, which has well-designed buildings decorated with a profusion of symbolic motifs and sculptures depicting Chaac, the god of rain. The ceremonial sites of Uxmal, Kabah, Labna and Sayil are considered the high points of Mayan art and architecture.",
+  "danger": false,
+  "geojson": "pre-hispanic-town-of-uxmal.geojson"
+}

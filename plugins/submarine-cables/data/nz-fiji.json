@@ -1,0 +1,16 @@
+{
+  "code": "nz-fiji",
+  "name": "NZ-Fiji",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3011,
+  "yearLaid": 2017,
+  "rfsDate": "2014-06",
+  "owner": "Southern Cross",
+  "landingPoints": [
+    "Auckland, New Zealand",
+    "Suva, Fiji"
+  ],
+  "description": "NZ-Fiji connecting Auckland to Suva in the Pacific.",
+  "geojson": "nz-fiji.geojson"
+}

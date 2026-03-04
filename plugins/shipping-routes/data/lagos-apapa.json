@@ -1,0 +1,15 @@
+{
+  "code": "lagos-apapa",
+  "name": "Apapa Port (Lagos)",
+  "country": "Nigeria",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 75,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West African Coastal Route",
+    "Trans-Atlantic Southern Route"
+  ],
+  "description": "Apapa Port (Lagos) in Nigeria. Annual cargo throughput: ~75 million tons. Type: Container Port.",
+  "geojson": "lagos-apapa.geojson"
+}

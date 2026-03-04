@@ -1,0 +1,18 @@
+{
+  "code": "den-lhr",
+  "name": "Denver — London",
+  "airports": [
+    "DEN",
+    "LHR"
+  ],
+  "distanceKm": 7497,
+  "weeklyFlights": 35,
+  "airlines": [
+    "British Airways",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DEN–LHR route between Denver and London. Distance: 7,497 km. ~35 weekly flights operated by British Airways, United.",
+  "geojson": "den-lhr.geojson"
+}

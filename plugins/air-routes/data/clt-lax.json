@@ -1,0 +1,17 @@
+{
+  "code": "clt-lax",
+  "name": "Charlotte — Los Angeles",
+  "airports": [
+    "CLT",
+    "LAX"
+  ],
+  "distanceKm": 3413,
+  "weeklyFlights": 30,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CLT–LAX route between Charlotte and Los Angeles. Distance: 3,413 km. ~30 weekly flights operated by American.",
+  "geojson": "clt-lax.geojson"
+}

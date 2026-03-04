@@ -1,0 +1,19 @@
+{
+  "code": "bengal-florican",
+  "name": "Bengal Florican",
+  "scientificName": "Houbaropsis bengalensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tall grassland and floodplain",
+  "threats": [
+    "Grassland conversion to agriculture",
+    "Dry-season burning",
+    "Grazing",
+    "Hunting"
+  ],
+  "conservationEfforts": "Integrated Farming and Biodiversity Areas in Cambodia combine agriculture with conservation. Protected areas in India and Nepal safeguard breeding grasslands.",
+  "description": "A small bustard found in the grasslands of South and Southeast Asia. Males perform spectacular aerial displays, leaping high into the air during the breeding season.",
+  "geojson": "bengal-florican.geojson"
+}

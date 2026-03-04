@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4469444,
+          41.79416667
+        ]
+      },
+      "properties": {
+        "code": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+        "name": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

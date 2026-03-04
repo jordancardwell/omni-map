@@ -1,0 +1,18 @@
+{
+  "code": "ist-del",
+  "name": "Istanbul — Delhi",
+  "airports": [
+    "IST",
+    "DEL"
+  ],
+  "distanceKm": 4565,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Turkish Airlines",
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IST–DEL route between Istanbul and Delhi. Distance: 4,565 km. ~30 weekly flights operated by Turkish Airlines, Air India.",
+  "geojson": "ist-del.geojson"
+}

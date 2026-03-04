@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7655555556,
+          48.3877777778
+        ]
+      },
+      "properties": {
+        "code": "caves-and-ice-age-art-in-the-swabian-jura",
+        "name": "Caves and Ice Age Art in the Swabian Jura",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

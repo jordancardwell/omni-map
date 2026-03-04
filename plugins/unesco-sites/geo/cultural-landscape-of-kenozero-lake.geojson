@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1726111111,
+          61.928
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-kenozero-lake",
+        "name": "Cultural Landscape of Kenozero Lake",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "vinales-valley",
+  "name": "Viñales Valley",
+  "type": "Cultural",
+  "country": "Cuba",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Viñales valley is encircled by mountains and its landscape is interspersed with dramatic rocky outcrops. Traditional techniques are still in use for agricultural production, particularly of tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-ethnic society survives, illustrating the cultural development of the islands of the Caribbean, and of Cuba.",
+  "danger": false,
+  "geojson": "vinales-valley.geojson"
+}

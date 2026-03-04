@@ -1,0 +1,16 @@
+{
+  "code": "sn-mr-link",
+  "name": "SN-MR Link",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 561,
+  "yearLaid": 2012,
+  "rfsDate": "2023-06",
+  "owner": "Sonatel",
+  "landingPoints": [
+    "Dakar, Senegal",
+    "Nouakchott, Mauritania"
+  ],
+  "description": "SN-MR Link connecting Dakar to Nouakchott along the African coast.",
+  "geojson": "sn-mr-link.geojson"
+}

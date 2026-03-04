@@ -1,0 +1,16 @@
+{
+  "code": "ie-ca-west",
+  "name": "IE-CA West",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1746,
+  "yearLaid": 2021,
+  "rfsDate": "2016-06",
+  "owner": "AquaComms",
+  "landingPoints": [
+    "Galway, Ireland",
+    "Halifax, Canada"
+  ],
+  "description": "IE-CA West connecting Galway to Halifax in Europe.",
+  "geojson": "ie-ca-west.geojson"
+}

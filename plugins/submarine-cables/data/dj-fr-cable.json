@@ -1,0 +1,16 @@
+{
+  "code": "dj-fr-cable",
+  "name": "DJ-FR Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 7210,
+  "yearLaid": 2014,
+  "rfsDate": "2014-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Djibouti, Djibouti",
+    "Marseille, France"
+  ],
+  "description": "DJ-FR Cable connecting Djibouti to Marseille.",
+  "geojson": "dj-fr-cable.geojson"
+}

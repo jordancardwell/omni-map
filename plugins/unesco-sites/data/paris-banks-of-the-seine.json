@@ -1,0 +1,16 @@
+{
+  "code": "paris-banks-of-the-seine",
+  "name": "Paris, Banks of the Seine",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "From the Louvre to the Eiffel Tower, from the Place de la Concorde to the Grand and Petit Palais, the evolution of Paris and its history can be seen from the River Seine. The Cathedral of Notre-Dame and the Sainte Chapelle are architectural masterpieces while Haussmann's wide squares and boulevards influenced late 19th- and 20th-century town planning the world over.",
+  "danger": false,
+  "geojson": "paris-banks-of-the-seine.geojson"
+}

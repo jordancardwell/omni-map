@@ -1,0 +1,16 @@
+{
+  "code": "canary-islands",
+  "name": "Canary Islands",
+  "capacityTbps": 21,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1695,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Telefonica",
+  "landingPoints": [
+    "Santa Cruz, Spain",
+    "Las Palmas, Spain"
+  ],
+  "description": "Canary Islands connecting Santa Cruz to Las Palmas in Europe.",
+  "geojson": "canary-islands.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"helsinki","name":"Port of Helsinki","featureType":"port","portType":"Multi-Purpose Port","country":"Finland"},"geometry":{"type":"Point","coordinates":[24.96,60.16]}}]}

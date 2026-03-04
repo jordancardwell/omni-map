@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48,
+          -21.0994444444
+        ]
+      },
+      "properties": {
+        "code": "pitons-cirques-and-remparts-of-reunion-island",
+        "name": "Pitons, cirques and remparts of Reunion Island",
+        "type": "Natural",
+        "country": "France",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

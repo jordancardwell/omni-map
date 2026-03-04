@@ -1,0 +1,16 @@
+{
+  "code": "jp-domestic-2",
+  "name": "JP Domestic-2",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3325,
+  "yearLaid": 2017,
+  "rfsDate": "2013-06",
+  "owner": "KDDI",
+  "landingPoints": [
+    "Osaka, Japan",
+    "Tokyo, Japan"
+  ],
+  "description": "JP Domestic-2 connecting Osaka to Tokyo.",
+  "geojson": "jp-domestic-2.geojson"
+}

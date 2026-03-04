@@ -1,0 +1,17 @@
+{
+  "code": "cap-1",
+  "name": "CAP-1",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5000,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "FPT Telecom",
+  "landingPoints": [
+    "Da Nang, Vietnam",
+    "Hong Kong, China",
+    "Singapore"
+  ],
+  "description": "Cable connecting Vietnam to regional hubs.",
+  "geojson": "cap-1.geojson"
+}

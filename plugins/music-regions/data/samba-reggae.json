@@ -1,0 +1,29 @@
+{
+  "code": "samba-reggae",
+  "name": "Samba-Reggae",
+  "region": "Salvador, Bahia, Brazil",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Surdo",
+    "Repinique",
+    "Timbau",
+    "Shekere",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Olodum",
+    "Ilê Aiyê",
+    "Timbalada",
+    "Daniela Mercury",
+    "Carlinhos Brown"
+  ],
+  "description": "Samba-reggae is a percussive music genre that emerged in the Afro-Brazilian blocos afro (carnival groups) of Salvador, Bahia in the 1980s. Combining samba's polyrhythmic drumming with reggae's offbeat feel, it became a powerful expression of Black Brazilian identity and Afro-Brazilian cultural pride. The genre brought international attention through groups like Olodum, famously featured in Paul Simon's recordings.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Bahia Music",
+      "url": "https://folkways.si.edu/search?query=bahia+brazil"
+    }
+  ],
+  "geojson": "samba-reggae.geojson"
+}

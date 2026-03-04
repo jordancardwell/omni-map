@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.00833,
+          37.27222
+        ]
+      },
+      "properties": {
+        "code": "hwaseong-fortress",
+        "name": "Hwaseong Fortress",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

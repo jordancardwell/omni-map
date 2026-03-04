@@ -1,0 +1,21 @@
+{
+  "code": "byurakan",
+  "name": "Byurakan Astrophysical Observatory",
+  "country": "Armenia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1490,
+  "aperture": "2.6 m",
+  "telescopes": [
+    "2.6m telescope",
+    "1m Schmidt"
+  ],
+  "keyDiscoveries": [
+    "Markarian galaxies",
+    "Flare star surveys",
+    "UV-excess galaxy survey"
+  ],
+  "location": "Byurakan Astrophysical Observatory, Armenia",
+  "description": "Founded by Viktor Ambartsumian. The Markarian Survey discovered UV-excess galaxies, fundamentally advancing understanding of active galactic nuclei.",
+  "geojson": "byurakan.geojson"
+}

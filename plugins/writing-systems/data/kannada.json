@@ -1,0 +1,16 @@
+{
+  "code": "kannada",
+  "name": "Kannada",
+  "scriptType": "Abugida",
+  "characters": 49,
+  "direction": "LTR",
+  "originDate": "~5th century CE",
+  "sampleText": "ಕನ್ನಡ ಲಿಪಿ ಬಹಳ ಸುಂದರ",
+  "relatedScripts": [
+    "telugu",
+    "tamil"
+  ],
+  "description": "The Kannada script is an abugida with 49 phonemic letters — 15 vowels and 34 consonants. It shares a common ancestor with the Telugu script and has a distinctively rounded appearance. Kannada is used for the Kannada language, predominantly in Karnataka, India.",
+  "historicalNotes": "Kannada script evolved from the Kadamba script and Chalukya script, derived from ancient Brahmi. The earliest Kannada inscriptions (Halmidi inscription) date to approximately 450 CE. The script was patronized by the Western Chalukya, Rashtrakuta, and Hoysala dynasties. It reached its modern form by the 15th century.",
+  "geojson": "kannada.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "da-nang",
+  "name": "Port of Da Nang",
+  "country": "Vietnam",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "South China Sea Route"
+  ],
+  "description": "Port of Da Nang in Vietnam. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+  "geojson": "da-nang.geojson"
+}

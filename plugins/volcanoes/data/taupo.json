@@ -1,0 +1,21 @@
+{
+  "code": "taupo",
+  "name": "Taupō",
+  "volcanoType": "Caldera",
+  "status": "Dormant",
+  "elevation": 760,
+  "lastEruption": "232",
+  "vei": 7,
+  "country": "New Zealand",
+  "region": "North Island",
+  "location": "North Island, New Zealand",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Tsunami (lake)"
+  ],
+  "eruptionHistory": "The 232 CE Hatepe eruption was one of the most violent eruptions in the last 5,000 years. A supereruption ~26,500 years ago (Oruanui) ejected 1,170 km³ of material.",
+  "description": "Lake Taupō fills a massive volcanic caldera. The Oruanui supereruption ~26,500 years ago was one of the largest on Earth in the last 70,000 years.",
+  "geojson": "taupo.geojson"
+}

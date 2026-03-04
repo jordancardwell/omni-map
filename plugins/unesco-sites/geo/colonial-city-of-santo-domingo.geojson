@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.885841,
+          18.472394
+        ]
+      },
+      "properties": {
+        "code": "colonial-city-of-santo-domingo",
+        "name": "Colonial City of Santo Domingo",
+        "type": "Cultural",
+        "country": "Dominican Republic",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

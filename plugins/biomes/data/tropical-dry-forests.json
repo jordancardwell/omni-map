@@ -1,0 +1,13 @@
+{
+  "code": "tropical-dry-forests",
+  "name": "Tropical & Subtropical Dry Broadleaf Forests",
+  "biomeType": "Forest",
+  "areaKm2": 4200000,
+  "keyCharacteristics": "Deciduous forests with distinct wet and dry seasons. Trees shed leaves during drought to conserve water.",
+  "typicalFlora": ["Teak", "Sal tree", "Baobab", "Acacia", "Bamboo", "Dry-season deciduous trees"],
+  "typicalFauna": ["Tiger", "Indian elephant", "Langur", "Komodo dragon", "Spotted deer", "Wild boar"],
+  "threatLevel": "Critical",
+  "conservationStatus": "One of the most threatened biomes globally, with less than 10% of original extent remaining intact. Conversion to agriculture is the primary driver of loss.",
+  "description": "Tropical and subtropical dry broadleaf forests experience pronounced seasonal drought, with 5-8 months receiving less than 100mm of rainfall. Trees respond by shedding their leaves, creating a dramatic seasonal transformation.\n\nThese forests are found in regions with warm temperatures but irregular rainfall, including parts of India, Southeast Asia, Mexico, Madagascar, and eastern Africa. Despite lower biodiversity than their moist counterparts, they harbor numerous endemic species.\n\nDry forests are among the most endangered ecosystems worldwide, heavily impacted by conversion to agriculture, fire, and cattle ranching.",
+  "geojson": "tropical-dry-forests.geojson"
+}

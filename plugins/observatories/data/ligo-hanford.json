@@ -1,0 +1,20 @@
+{
+  "code": "ligo-hanford",
+  "name": "LIGO Hanford",
+  "country": "United States",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 142,
+  "aperture": "4 km arms",
+  "telescopes": [
+    "Advanced LIGO"
+  ],
+  "keyDiscoveries": [
+    "First gravitational wave detection (GW150914)",
+    "Binary neutron star merger",
+    "Nobel Prize 2017"
+  ],
+  "location": "LIGO Hanford, United States",
+  "description": "One of two LIGO detectors, in Washington state. Made the first direct detection of gravitational waves in 2015, confirming Einstein's prediction.",
+  "geojson": "ligo-hanford.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "india-kuwait",
+  "name": "India \u2192 Kuwait",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "India \u2192 Kuwait",
+  "badgeValue": "~1.0 million",
+  "origin": "India",
+  "destination": "Kuwait",
+  "estimatedMigrants": "~1.0 million",
+  "drivers": [
+    "Oil economy",
+    "Construction",
+    "Domestic services",
+    "Established networks"
+  ],
+  "description": "Indian workers are the largest expatriate group in Kuwait, working in oil, construction, retail, and domestic services. Migration flows have been sustained since the 1970s oil boom. Remittances support families across Kerala, Tamil Nadu, and Andhra Pradesh. Kuwait's demographic imbalance \u2014 with expatriates outnumbering citizens \u2014 has led to periodic Kuwaitization policies.",
+  "geojson": "india-kuwait.geojson"
+}

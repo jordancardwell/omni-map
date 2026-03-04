@@ -1,0 +1,15 @@
+{
+  "code": "felixstowe",
+  "name": "Port of Felixstowe",
+  "country": "United Kingdom",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "English Channel Route"
+  ],
+  "description": "Port of Felixstowe in United Kingdom. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "felixstowe.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "belize-barrier-reef",
+  "name": "Belize Barrier Reef",
+  "location": "Belize",
+  "areaKm2": 960,
+  "reefType": "Barrier",
+  "healthStatus": "Endangered",
+  "coralSpecies": 70,
+  "marineSpecies": 500,
+  "threats": [
+    "Coral bleaching",
+    "Mangrove clearing",
+    "Cruise ship damage",
+    "Overfishing",
+    "Coastal development"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site since 1996. Removed from UNESCO Danger List in 2018 after Belize placed a moratorium on oil exploration. Seven marine reserves within the system.",
+  "description": "The Belize Barrier Reef Reserve System is a serial UNESCO site encompassing seven marine protected areas that showcase the reef's diversity. It includes the famous Great Blue Hole, a giant marine sinkhole visible from space.\n\nBelize's reef is part of the larger Mesoamerican Barrier Reef but stands out for its cayes (islands), three distinct atolls, and the Great Blue Hole. Conservation victories — including banning offshore oil drilling and gill net fishing — have improved the reef's outlook, though bleaching events continue to threaten recovery.",
+  "geojson": "belize-barrier-reef.geojson"
+}

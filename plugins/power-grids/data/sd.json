@@ -1,0 +1,18 @@
+{
+  "code": "sd",
+  "name": "Sudan",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "D"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type D — Three large round pins in triangle (India/South Asia)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of European and Indian-style plugs.",
+  "geojson": "sd.geojson"
+}

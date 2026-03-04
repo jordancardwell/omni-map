@@ -1,0 +1,17 @@
+{
+  "code": "gebel-barkal-and-the-sites-of-the-napatan-region",
+  "name": "Gebel Barkal and the Sites of the Napatan Region",
+  "type": "Cultural",
+  "country": "Sudan",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places.",
+  "danger": false,
+  "geojson": "gebel-barkal-and-the-sites-of-the-napatan-region.geojson"
+}

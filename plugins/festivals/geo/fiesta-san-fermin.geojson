@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6458,
+          42.8125
+        ]
+      },
+      "properties": {
+        "code": "fiesta-san-fermin",
+        "name": "Running of the Bulls (San Fermín)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "July 6–14",
+        "location": "Pamplona, Spain"
+      }
+    }
+  ]
+}

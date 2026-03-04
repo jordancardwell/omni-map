@@ -1,0 +1,17 @@
+{
+  "code": "hkg-lax",
+  "name": "Hong Kong — Los Angeles",
+  "airports": [
+    "HKG",
+    "LAX"
+  ],
+  "distanceKm": 11664,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Cathay Pacific"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HKG–LAX route between Hong Kong and Los Angeles. Distance: 11,664 km. ~30 weekly flights operated by Cathay Pacific.",
+  "geojson": "hkg-lax.geojson"
+}

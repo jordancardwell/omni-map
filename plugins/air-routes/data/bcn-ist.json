@@ -1,0 +1,18 @@
+{
+  "code": "bcn-ist",
+  "name": "Barcelona — Istanbul",
+  "airports": [
+    "BCN",
+    "IST"
+  ],
+  "distanceKm": 2219,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Turkish Airlines",
+    "Vueling"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "BCN–IST route between Barcelona and Istanbul. Distance: 2,219 km. ~50 weekly flights operated by Turkish Airlines, Vueling.",
+  "geojson": "bcn-ist.geojson"
+}

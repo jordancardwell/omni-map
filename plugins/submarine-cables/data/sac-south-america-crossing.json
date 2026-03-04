@@ -1,0 +1,21 @@
+{
+  "code": "sac-south-america-crossing",
+  "name": "SAC (South America Crossing)",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 25000,
+  "yearLaid": 2000,
+  "rfsDate": "2001-01",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Miami, USA",
+    "San Juan, Puerto Rico",
+    "Fortaleza, Brazil",
+    "Salvador, Brazil",
+    "Rio de Janeiro, Brazil",
+    "Santos, Brazil",
+    "Buenos Aires, Argentina"
+  ],
+  "description": "South America Crossing cable connecting the US to major South American cities.",
+  "geojson": "sac-south-america-crossing.geojson"
+}

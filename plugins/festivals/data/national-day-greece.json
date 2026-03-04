@@ -1,0 +1,14 @@
+{
+  "code": "national-day-greece",
+  "name": "Oxi Day",
+  "festivalType": "National",
+  "dateOrSeason": "October 28",
+  "origin": "Greek national",
+  "estimatedAttendance": "10.7+ million Greeks",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military and student parades; wreath-laying at war memorials; flag displays; patriotic speeches; school celebrations.",
+  "historicalBackground": "Oxi Day commemorates October 28, 1940, when Greek PM Metaxas rejected Mussolini's ultimatum, leading Greece into WWII against the Axis powers.",
+  "description": "Greece's defiant national day, commemorating the historic 'No!' to fascism with parades and patriotic ceremonies.",
+  "location": "Athens, Greece",
+  "geojson": "national-day-greece.geojson"
+}

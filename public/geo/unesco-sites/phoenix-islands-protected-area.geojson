@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.650203,
+          -3.864454
+        ]
+      },
+      "properties": {
+        "code": "phoenix-islands-protected-area",
+        "name": "Phoenix Islands Protected Area",
+        "type": "Natural",
+        "country": "Kiribati",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

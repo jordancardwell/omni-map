@@ -1,0 +1,21 @@
+{
+  "code": "mount-cameroon",
+  "name": "Mount Cameroon",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 4095,
+  "lastEruption": "2012",
+  "vei": 2,
+  "country": "Cameroon",
+  "region": "West Africa",
+  "location": "West Africa, Cameroon",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "The most active volcano in West Africa. Has erupted 7 times in the last century with lava flows reaching near sea level.",
+  "description": "Mount Cameroon is the highest peak in West Africa and the most active volcano on the African continent outside the East African Rift.",
+  "geojson": "mount-cameroon.geojson"
+}

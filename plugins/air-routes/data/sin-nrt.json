@@ -1,0 +1,18 @@
+{
+  "code": "sin-nrt",
+  "name": "Singapore — Tokyo",
+  "airports": [
+    "SIN",
+    "NRT"
+  ],
+  "distanceKm": 5358,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Singapore Airlines",
+    "ANA"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SIN–NRT route between Singapore and Tokyo. Distance: 5,358 km. ~50 weekly flights operated by Singapore Airlines, ANA.",
+  "geojson": "sin-nrt.geojson"
+}

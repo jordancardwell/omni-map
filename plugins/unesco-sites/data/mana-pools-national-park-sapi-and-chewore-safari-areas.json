@@ -1,0 +1,16 @@
+{
+  "code": "mana-pools-national-park-sapi-and-chewore-safari-areas",
+  "name": "Mana Pools National Park, Sapi and Chewore Safari Areas",
+  "type": "Natural",
+  "country": "Zimbabwe",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area.",
+  "danger": false,
+  "geojson": "mana-pools-national-park-sapi-and-chewore-safari-areas.geojson"
+}

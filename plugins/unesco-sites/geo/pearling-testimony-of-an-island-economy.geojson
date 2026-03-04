@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61351,
+          26.24128
+        ]
+      },
+      "properties": {
+        "code": "pearling-testimony-of-an-island-economy",
+        "name": "Pearling, Testimony of an Island Economy",
+        "type": "Cultural",
+        "country": "Bahrain",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

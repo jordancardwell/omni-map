@@ -1,0 +1,15 @@
+{
+  "code": "historic-walled-town-of-cuenca",
+  "name": "Historic Walled Town of Cuenca",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(ii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built by the Moors in a defensive position at the heart of the Caliphate of Cordoba, Cuenca is an unusually well-preserved medieval fortified city. Conquered by the Castilians in the 12th century, it became a royal town and bishopric endowed with important buildings, such as Spain's first Gothic cathedral, and the famous casas colgadas (hanging houses), suspended from sheer cliffs overlooking the Huécar river. Taking full advantage of its location, the city towers above the magnificent countryside.",
+  "danger": false,
+  "geojson": "historic-walled-town-of-cuenca.geojson"
+}

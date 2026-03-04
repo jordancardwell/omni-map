@@ -1,0 +1,18 @@
+{
+  "code": "poland-uk",
+  "name": "Poland \u2192 United Kingdom",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Poland \u2192 United Kingdom",
+  "badgeValue": "~900,000",
+  "origin": "Poland",
+  "destination": "United Kingdom",
+  "estimatedMigrants": "~900,000",
+  "drivers": [
+    "EU accession 2004",
+    "Labor demand",
+    "Wage differential",
+    "English proficiency"
+  ],
+  "description": "Polish migration to the UK surged after Poland's EU accession in 2004, when the UK was one of three countries to immediately open labor markets. Poles became the largest foreign-born group in the UK by 2015. Workers filled critical gaps in construction, food processing, healthcare, and hospitality. Brexit caused some return migration, but a large established community remains.",
+  "geojson": "poland-uk.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ke-tz-link",
+  "name": "KE-TZ Link",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2198,
+  "yearLaid": 2012,
+  "rfsDate": "2021-06",
+  "owner": "Liquid Telecom",
+  "landingPoints": [
+    "Mombasa, Kenya",
+    "Dar es Salaam, Tanzania"
+  ],
+  "description": "KE-TZ Link connecting Mombasa to Dar es Salaam along the African coast.",
+  "geojson": "ke-tz-link.geojson"
+}

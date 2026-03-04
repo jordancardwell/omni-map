@@ -1,0 +1,18 @@
+{
+  "code": "firmina",
+  "name": "Firmina",
+  "capacityTbps": 144,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 14000,
+  "yearLaid": 2022,
+  "rfsDate": "2023-12",
+  "owner": "Google",
+  "landingPoints": [
+    "Myrtle Beach, USA",
+    "Fortaleza, Brazil",
+    "Buenos Aires, Argentina",
+    "Lurín, Peru"
+  ],
+  "description": "Google's private cable connecting the US to South America with innovative power feeding.",
+  "geojson": "firmina.geojson"
+}

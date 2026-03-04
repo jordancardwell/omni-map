@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0005,
+          42.68542
+        ]
+      },
+      "properties": {
+        "code": "pyrenees-mont-perdu",
+        "name": "Pyrénées - Mont Perdu",
+        "type": "Mixed",
+        "country": "Spain, France",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

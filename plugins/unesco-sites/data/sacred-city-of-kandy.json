@@ -1,0 +1,14 @@
+{
+  "code": "sacred-city-of-kandy",
+  "name": "Sacred City of Kandy",
+  "type": "Cultural",
+  "country": "Sri Lanka",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site.",
+  "danger": false,
+  "geojson": "sacred-city-of-kandy.geojson"
+}

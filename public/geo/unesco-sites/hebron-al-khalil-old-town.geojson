@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1083333333,
+          31.5244444444
+        ]
+      },
+      "properties": {
+        "code": "hebron-al-khalil-old-town",
+        "name": "Hebron/Al-Khalil Old Town",
+        "type": "Cultural",
+        "country": "State of Palestine",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

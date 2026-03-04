@@ -1,0 +1,16 @@
+{
+  "code": "es-sn-cable",
+  "name": "ES-SN Cable",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1224,
+  "yearLaid": 2022,
+  "rfsDate": "2021-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Las Palmas, Spain",
+    "Dakar, Senegal"
+  ],
+  "description": "ES-SN Cable connecting Las Palmas to Dakar along the West African coast.",
+  "geojson": "es-sn-cable.geojson"
+}

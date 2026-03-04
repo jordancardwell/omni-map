@@ -1,0 +1,16 @@
+{
+  "code": "junior",
+  "name": "Junior",
+  "capacityTbps": 90,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10000,
+  "yearLaid": 2021,
+  "rfsDate": "2024-06",
+  "owner": "Google",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Rio de Janeiro, Brazil"
+  ],
+  "description": "High-capacity cable connecting the US East Coast directly to Rio de Janeiro.",
+  "geojson": "junior.geojson"
+}

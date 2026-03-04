@@ -1,0 +1,15 @@
+{
+  "code": "indian-dry-forests",
+  "name": "Indian Dry Deciduous Forests",
+  "region": "Asia",
+  "riskGroup": "3. Moderate",
+  "riskLevel": "Moderate",
+  "fireFrequency": "Moderate — seasonal forest fires in central and southern India",
+  "dominantVegetation": "Dry deciduous forest, teak woodland, scrubland, bamboo forest",
+  "fireSeasonMonths": "February – June",
+  "areaBurnedAnnual": "~100,000 ha average across India",
+  "seasonalPattern": "Fire season peaks in the hot, dry pre-monsoon months (March–May) when deciduous trees have shed their leaves and the forest floor is covered with dry leaf litter. Most fires are set for non-timber forest product collection (tendu leaves), grazing land improvement, and shifting cultivation. Lightning fires are rare; nearly all fires are human-caused.",
+  "historicalFires": ["2024 Uttarakhand Fires (widespread)", "2021 Simlipal Fire Odisha (national park)", "2019 Bandipur Fire Karnataka (heritage site)", "Annual fires across Madhya Pradesh, Chhattisgarh, Odisha"],
+  "description": "India's dry deciduous forests — found across central and peninsular India — experience annual fire seasons driven by dry pre-monsoon conditions and widespread human ignition. States like Madhya Pradesh, Chhattisgarh, Odisha, and Maharashtra see thousands of forest fires each year. While these forests have some fire tolerance, increasing fire frequency and intensity are degrading biodiversity-rich areas including tiger reserves and national parks. India's Forest Survey reports that over 36% of forest area is fire-prone, with climate change expected to increase both fire frequency and the length of the fire season.",
+  "geojson": "indian-dry-forests.geojson"
+}

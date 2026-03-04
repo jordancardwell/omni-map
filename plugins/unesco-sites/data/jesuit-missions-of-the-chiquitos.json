@@ -1,0 +1,15 @@
+{
+  "code": "jesuit-missions-of-the-chiquitos",
+  "name": "Jesuit Missions of the Chiquitos",
+  "type": "Cultural",
+  "country": "Bolivia (Plurinational State of)",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Between 1696 and 1760, six ensembles of reducciones (settlements of Christianized Indians) inspired by the ‘ideal cities’ of the 16th-century philosophers were founded by the Jesuits in a style that married Catholic architecture with local traditions. The six that remain – San Francisco Javier, Concepción, Santa Ana, San Miguel, San Rafael and San José – make up a living heritage on the former territory of the Chiquitos.",
+  "danger": false,
+  "geojson": "jesuit-missions-of-the-chiquitos.geojson"
+}

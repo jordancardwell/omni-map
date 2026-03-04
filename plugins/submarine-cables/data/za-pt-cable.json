@@ -1,0 +1,16 @@
+{
+  "code": "za-pt-cable",
+  "name": "ZA-PT Cable",
+  "capacityTbps": 33,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6003,
+  "yearLaid": 2019,
+  "rfsDate": "2016-06",
+  "owner": "Telkom SA",
+  "landingPoints": [
+    "Cape Town, South Africa",
+    "Lisbon, Portugal"
+  ],
+  "description": "ZA-PT Cable connecting Cape Town to Lisbon.",
+  "geojson": "za-pt-cable.geojson"
+}

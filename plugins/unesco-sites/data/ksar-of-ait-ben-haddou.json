@@ -1,0 +1,15 @@
+{
+  "code": "ksar-of-ait-ben-haddou",
+  "name": "Ksar of Ait-Ben-Haddou",
+  "type": "Cultural",
+  "country": "Morocco",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "The ksar, a group of earthen buildings surrounded by high walls, is a traditional pre-Saharan habitat. The houses crowd together within the defensive walls, which are reinforced by corner towers. Ait-Ben-Haddou, in Ouarzazate province, is a striking example of the architecture of southern Morocco.",
+  "danger": false,
+  "geojson": "ksar-of-ait-ben-haddou.geojson"
+}

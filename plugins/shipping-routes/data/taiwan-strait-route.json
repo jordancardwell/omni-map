@@ -1,0 +1,8 @@
+{
+  "code": "taiwan-strait-route",
+  "name": "Taiwan Strait Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Strategic waterway between mainland China and Taiwan. One of the most heavily trafficked shipping lanes in Asia, connecting ports in Southeast China to East China Sea destinations.",
+  "geojson": "taiwan-strait-route.geojson"
+}

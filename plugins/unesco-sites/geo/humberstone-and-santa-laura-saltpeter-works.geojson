@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79406,
+          -20.20582
+        ]
+      },
+      "properties": {
+        "code": "humberstone-and-santa-laura-saltpeter-works",
+        "name": "Humberstone and Santa Laura Saltpeter Works",
+        "type": "Cultural",
+        "country": "Chile",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

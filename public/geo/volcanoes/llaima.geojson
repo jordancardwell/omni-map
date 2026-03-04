@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.729,-38.692]},"properties":{"code":"llaima","name":"Llaima","volcanoType":"Stratovolcano","status":"Historically Active","elevation":3125,"lastEruption":"2009","vei":3}}]}

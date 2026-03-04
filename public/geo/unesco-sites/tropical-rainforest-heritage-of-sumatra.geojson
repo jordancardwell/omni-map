@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5,
+          -2.5
+        ]
+      },
+      "properties": {
+        "code": "tropical-rainforest-heritage-of-sumatra",
+        "name": "Tropical Rainforest Heritage of Sumatra",
+        "type": "Natural",
+        "country": "Indonesia",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

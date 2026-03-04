@@ -1,0 +1,21 @@
+{
+  "code": "ibu",
+  "name": "Ibu",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1325,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Halmahera",
+  "location": "Halmahera, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava domes"
+  ],
+  "eruptionHistory": "Has been erupting frequently since 1998. Produces regular vulcanian explosions and lava dome growth.",
+  "description": "Mount Ibu has become one of Indonesia's most active volcanoes since its reawakening in 1998, with frequent explosive eruptions and ongoing dome growth.",
+  "geojson": "ibu.geojson"
+}

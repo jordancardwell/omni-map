@@ -1,0 +1,18 @@
+{
+  "code": "pek-nrt",
+  "name": "Beijing — Tokyo",
+  "airports": [
+    "PEK",
+    "NRT"
+  ],
+  "distanceKm": 2134,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Air China",
+    "ANA"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "PEK–NRT route between Beijing and Tokyo. Distance: 2,134 km. ~80 weekly flights operated by Air China, ANA.",
+  "geojson": "pek-nrt.geojson"
+}

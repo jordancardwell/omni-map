@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hk","name":"Hong Kong","country":"HK","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[113.8,22.2],[113.8,22.6],[114.4,22.6],[114.4,22.2],[113.8,22.2]]]}}]}

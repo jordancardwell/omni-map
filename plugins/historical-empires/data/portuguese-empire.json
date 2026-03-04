@@ -1,0 +1,25 @@
+{
+  "code": "portuguese-empire",
+  "name": "Portuguese Empire",
+  "era": "Early Modern",
+  "peakYear": "1820 CE",
+  "areaAtPeakKm2": 10400000,
+  "populationEstimate": "36 million",
+  "capital": "Lisbon",
+  "keyAchievements": [
+    "Maritime exploration pioneering",
+    "Global trade network",
+    "Navigation technology",
+    "Portuguese language spread",
+    "Cartography advances"
+  ],
+  "declineFactors": [
+    "Union with Spain",
+    "Dutch competition",
+    "Brazilian independence",
+    "Colonial wars",
+    "Economic decline"
+  ],
+  "description": "The Portuguese Empire was the first and longest-lived European colonial empire, spanning nearly six centuries (1415–1999). Portugal pioneered the Age of Exploration under Prince Henry the Navigator, establishing trade routes to Africa, India, Southeast Asia, and Brazil.\n\nPortuguese explorers like Vasco da Gama and Ferdinand Magellan transformed global trade and navigation. The empire's legacy includes the Portuguese language (spoken by 260+ million people), Lusophone cultures across four continents, and the foundation of global maritime commerce.",
+  "geojson": "portuguese-empire.geojson"
+}

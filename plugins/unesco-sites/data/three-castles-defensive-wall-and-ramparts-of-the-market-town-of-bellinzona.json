@@ -1,0 +1,14 @@
+{
+  "code": "three-castles-defensive-wall-and-ramparts-of-the-market-town-of-bellinzona",
+  "name": "Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",
+  "type": "Cultural",
+  "country": "Switzerland",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Bellinzona site consists of a group of fortifications grouped around the castle of Castelgrande, which stands on a rocky peak looking out over the entire Ticino valley. Running from the castle, a series of fortified walls protect the ancient town and block the passage through the valley. A second castle (Montebello) forms an integral part of the fortifications, while a third but separate castle (Sasso Corbaro) was built on an isolated rocky promontory south-east of the other fortifications.",
+  "danger": false,
+  "geojson": "three-castles-defensive-wall-and-ramparts-of-the-market-town-of-bellinzona.geojson"
+}

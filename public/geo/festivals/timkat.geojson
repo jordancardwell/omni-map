@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74,
+          9.03
+        ]
+      },
+      "properties": {
+        "code": "timkat",
+        "name": "Timkat",
+        "festivalType": "Religious",
+        "dateOrSeason": "January 19–20",
+        "location": "Addis Ababa, Ethiopia"
+      }
+    }
+  ]
+}

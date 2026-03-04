@@ -1,0 +1,19 @@
+{
+  "code": "pek-can",
+  "name": "Beijing — Guangzhou",
+  "airports": [
+    "PEK",
+    "CAN"
+  ],
+  "distanceKm": 1881,
+  "weeklyFlights": 310,
+  "airlines": [
+    "Air China",
+    "China Southern",
+    "Hainan Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PEK–CAN route between Beijing and Guangzhou. Distance: 1,881 km. ~310 weekly flights operated by Air China, China Southern, Hainan Airlines.",
+  "geojson": "pek-can.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "lazaro-cardenas",
+  "name": "Lázaro Cárdenas",
+  "country": "Mexico",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Lázaro Cárdenas in Mexico. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "lazaro-cardenas.geojson"
+}

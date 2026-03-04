@@ -1,0 +1,14 @@
+{
+  "code": "massawa",
+  "name": "Port of Massawa",
+  "country": "Eritrea",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 3,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Red Sea Route"
+  ],
+  "description": "Port of Massawa in Eritrea. Annual cargo throughput: ~3 million tons. Type: Multi-Purpose Port.",
+  "geojson": "massawa.geojson"
+}

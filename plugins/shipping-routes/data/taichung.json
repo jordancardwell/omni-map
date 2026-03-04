@@ -1,0 +1,14 @@
+{
+  "code": "taichung",
+  "name": "Port of Taichung",
+  "country": "Taiwan",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 130,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "South China Sea Route"
+  ],
+  "description": "Port of Taichung in Taiwan. Annual cargo throughput: ~130 million tons. Type: Multi-Purpose Port.",
+  "geojson": "taichung.geojson"
+}

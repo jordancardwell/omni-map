@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7202777777,
+          33.4688888889
+        ]
+      },
+      "properties": {
+        "code": "jeju-volcanic-island-and-lava-tubes",
+        "name": "Jeju Volcanic Island and Lava Tubes",
+        "type": "Natural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

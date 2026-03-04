@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.595555556,
+          42.49472222
+        ]
+      },
+      "properties": {
+        "code": "madriu-perafita-claror-valley",
+        "name": "Madriu-Perafita-Claror Valley",
+        "type": "Cultural",
+        "country": "Andorra",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

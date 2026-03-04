@@ -1,0 +1,14 @@
+{
+  "code": "al-saflieni-hypogeum",
+  "name": "Ħal Saflieni Hypogeum",
+  "type": "Cultural",
+  "country": "Malta",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times.",
+  "danger": false,
+  "geojson": "al-saflieni-hypogeum.geojson"
+}

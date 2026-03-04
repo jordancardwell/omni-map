@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-san-gimignano",
+  "name": "Historic Centre of San Gimignano",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "'San Gimignano delle belle Torri' is in Tuscany, 56 km south of Florence. It served as an important relay point for pilgrims travelling to or from Rome on the Via Francigena. The patrician families who controlled the town built around 72 tower-houses (some as high as 50 m) as symbols of their wealth and power. Although only 14 have survived, San Gimignano has retained its feudal atmosphere and appearance. The town also has several masterpieces of 14th- and 15th-century Italian art.",
+  "danger": false,
+  "geojson": "historic-centre-of-san-gimignano.geojson"
+}

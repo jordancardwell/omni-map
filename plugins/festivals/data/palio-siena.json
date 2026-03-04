@@ -1,0 +1,14 @@
+{
+  "code": "palio-siena",
+  "name": "Palio di Siena",
+  "festivalType": "Cultural",
+  "dateOrSeason": "July 2 and August 16",
+  "origin": "Sienese tradition",
+  "estimatedAttendance": "50,000+ spectators",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bareback horse race around Piazza del Campo; contrada (neighborhood) rivalries; flag-throwing; historical pageant; blessing of horses.",
+  "historicalBackground": "The Palio dates to at least 1239 and is the lifeblood of Sienese identity. Siena's 17 contrade (neighborhoods) compete fiercely for the painted silk banner.",
+  "description": "Siena's legendary bareback horse race, a centuries-old contest of neighborhood pride thundering around the medieval Piazza del Campo.",
+  "location": "Siena, Italy",
+  "geojson": "palio-siena.geojson"
+}

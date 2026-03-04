@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.649444444,
+          51.8825
+        ]
+      },
+      "properties": {
+        "code": "mill-network-at-kinderdijk-elshout",
+        "name": "Mill Network at Kinderdijk-Elshout",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

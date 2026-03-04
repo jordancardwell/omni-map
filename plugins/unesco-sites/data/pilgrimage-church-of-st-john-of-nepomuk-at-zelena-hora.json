@@ -1,0 +1,14 @@
+{
+  "code": "pilgrimage-church-of-st-john-of-nepomuk-at-zelena-hora",
+  "name": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This pilgrimage church, built in honour of St John of Nepomuk, stands at Zelená Hora, not far from Ždár nad Sázavou in Moravia. Constructed at the beginning of the 18th century on a star-shaped plan, it is the most unusual work by the great architect Jan Blazej Santini, whose highly original style falls between neo-Gothic and Baroque.",
+  "danger": false,
+  "geojson": "pilgrimage-church-of-st-john-of-nepomuk-at-zelena-hora.geojson"
+}

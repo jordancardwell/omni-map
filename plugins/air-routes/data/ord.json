@@ -1,0 +1,12 @@
+{
+  "code": "ord",
+  "name": "Chicago O'Hare International",
+  "iataCode": "ORD",
+  "city": "Chicago",
+  "country": "United States",
+  "annualPassengers": 68300000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Chicago O'Hare International (ORD) in Chicago, United States. Annual passengers: ~68.3M. Classification: Major Hub.",
+  "geojson": "ord.geojson"
+}

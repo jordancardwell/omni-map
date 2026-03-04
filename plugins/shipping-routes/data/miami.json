@@ -1,0 +1,15 @@
+{
+  "code": "miami",
+  "name": "PortMiami",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route",
+    "East Coast Americas Route"
+  ],
+  "description": "PortMiami in United States. Annual cargo throughput: ~12 million tons. Type: Container Port.",
+  "geojson": "miami.geojson"
+}

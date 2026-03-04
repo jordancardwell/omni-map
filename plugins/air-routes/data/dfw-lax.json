@@ -1,0 +1,19 @@
+{
+  "code": "dfw-lax",
+  "name": "Dallas — Los Angeles",
+  "airports": [
+    "DFW",
+    "LAX"
+  ],
+  "distanceKm": 1983,
+  "weeklyFlights": 120,
+  "airlines": [
+    "American",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DFW–LAX route between Dallas and Los Angeles. Distance: 1,983 km. ~120 weekly flights operated by American, Southwest, Spirit.",
+  "geojson": "dfw-lax.geojson"
+}

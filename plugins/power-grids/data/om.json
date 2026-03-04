@@ -1,0 +1,18 @@
+{
+  "code": "om",
+  "name": "Oman",
+  "voltage": "240V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "G"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Primarily British-style plugs.",
+  "geojson": "om.geojson"
+}

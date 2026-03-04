@@ -1,0 +1,18 @@
+{
+  "code": "plesetsk",
+  "name": "Plesetsk Cosmodrome",
+  "country": "Russia",
+  "operator": "Russian Aerospace Forces",
+  "coordinates": "62.9271°N, 40.5777°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Cosmos series",
+    "GLONASS satellites",
+    "Angara A5 maiden flight",
+    "Military reconnaissance satellites"
+  ],
+  "orbitalInclinationRange": "63°–83° (high-inclination/polar)",
+  "location": "Plesetsk Cosmodrome, Russia",
+  "description": "Russia's northern military cosmodrome and the most active launch site by total launches. Primarily used for military and polar orbit missions. Home to the new Angara launch vehicle family.",
+  "geojson": "plesetsk.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "sub-saharan-west-african-savanna",
+  "name": "West African Savanna",
+  "region": "Africa",
+  "riskGroup": "3. Moderate",
+  "riskLevel": "Moderate",
+  "fireFrequency": "Very High — most actively burning region on Earth by area",
+  "dominantVegetation": "Guinea savanna, Sudanian woodland, grassland",
+  "fireSeasonMonths": "November – March",
+  "areaBurnedAnnual": "~40 million ha — largest burned area of any region globally",
+  "seasonalPattern": "The dry Harmattan season (November–March) brings hot, dry winds from the Sahara that desiccate vegetation across the savanna belt. Fire is deeply embedded in agricultural and pastoral traditions — used for land clearing, hunting, and pasture renewal. While individual fires are less intense than boreal or eucalyptus fires, the sheer extent of burning makes this the world's most fire-active region.",
+  "historicalFires": ["Annual widespread burning (40M+ ha/year)", "2020 Guinea Fires (record early season)", "2016 Harmattan Fires (extended season)", "Fire is perennial — no single 'event' dominates"],
+  "description": "Sub-Saharan West Africa — from Senegal to Nigeria — burns more land surface than any other region on Earth. Satellite data shows Africa accounts for over 70% of global burned area annually. Most fires are set deliberately for agriculture, hunting, and land management in a tradition spanning thousands of years. While the savanna ecosystem is broadly resilient to fire, intensifying drought, population pressure, and land-use change are shifting fire regimes. The ecological balance between fire and regrowth is increasingly stressed by shorter recovery periods between burns.",
+  "geojson": "sub-saharan-west-african-savanna.geojson"
+}

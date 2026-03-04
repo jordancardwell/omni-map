@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.8145,48.7768]},"properties":{"code":"baker","name":"Mount Baker","volcanoType":"Stratovolcano","status":"Dormant","elevation":3286,"lastEruption":"1880","vei":2}}]}

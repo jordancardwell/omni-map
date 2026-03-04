@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.29306,
+          32.63833
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-leptis-magna",
+        "name": "Archaeological Site of Leptis Magna",
+        "type": "Cultural",
+        "country": "Libya",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

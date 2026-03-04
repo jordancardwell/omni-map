@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53333333,
+          10.41666667
+        ]
+      },
+      "properties": {
+        "code": "port-fortresses-and-group-of-monuments-cartagena",
+        "name": "Port, Fortresses and Group of Monuments, Cartagena",
+        "type": "Cultural",
+        "country": "Colombia",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "historical-centre-of-the-city-of-arequipa",
+  "name": "Historical Centre of the City of Arequipa",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The historic centre of Arequipa, built in volcanic sillar rock, represents an integration of European and native building techniques and characteristics, expressed in the admirable work of colonial masters and Criollo and Indian masons. This combination of influences is illustrated by the city's robust walls, archways and vaults, courtyards and open spaces, and the intricate Baroque decoration of its facades.",
+  "danger": false,
+  "geojson": "historical-centre-of-the-city-of-arequipa.geojson"
+}

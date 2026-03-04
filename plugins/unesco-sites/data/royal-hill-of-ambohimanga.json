@@ -1,0 +1,15 @@
+{
+  "code": "royal-hill-of-ambohimanga",
+  "name": "Royal Hill of Ambohimanga",
+  "type": "Cultural",
+  "country": "Madagascar",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere.",
+  "danger": false,
+  "geojson": "royal-hill-of-ambohimanga.geojson"
+}

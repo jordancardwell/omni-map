@@ -1,0 +1,18 @@
+{
+  "code": "mco-msp",
+  "name": "Orlando — Minneapolis",
+  "airports": [
+    "MCO",
+    "MSP"
+  ],
+  "distanceKm": 2111,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MCO–MSP route between Orlando and Minneapolis. Distance: 2,111 km. ~25 weekly flights operated by Delta, Sun Country.",
+  "geojson": "mco-msp.geojson"
+}

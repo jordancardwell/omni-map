@@ -1,0 +1,12 @@
+{
+  "code": "fra",
+  "name": "Frankfurt Airport",
+  "iataCode": "FRA",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "annualPassengers": 56500000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Frankfurt Airport (FRA) in Frankfurt, Germany. Annual passengers: ~56.5M. Classification: Major Hub.",
+  "geojson": "fra.geojson"
+}

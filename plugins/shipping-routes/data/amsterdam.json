@@ -1,0 +1,14 @@
+{
+  "code": "amsterdam",
+  "name": "Port of Amsterdam",
+  "country": "Netherlands",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Amsterdam in Netherlands. Annual cargo throughput: ~100 million tons. Type: Bulk Port.",
+  "geojson": "amsterdam.geojson"
+}

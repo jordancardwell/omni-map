@@ -1,0 +1,12 @@
+{
+  "code": "aapravasi-ghat",
+  "name": "Aapravasi Ghat",
+  "type": "Cultural",
+  "country": "Mauritius",
+  "yearInscribed": "2006",
+  "criteria": [],
+  "region": "Africa",
+  "description": "In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.",
+  "danger": false,
+  "geojson": "aapravasi-ghat.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.765125,
+          44.9943861111
+        ]
+      },
+      "properties": {
+        "code": "rideau-canal",
+        "name": "Rideau Canal",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

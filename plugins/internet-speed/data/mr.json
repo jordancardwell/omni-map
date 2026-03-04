@@ -1,0 +1,17 @@
+{
+  "code": "mr",
+  "name": "Mauritania",
+  "avgDownloadMbps": 5.8,
+  "avgUploadMbps": 1.8,
+  "avgLatencyMs": 48,
+  "mobileDownloadMbps": 7.4,
+  "mobileUploadMbps": 1.8,
+  "fixedDownloadMbps": 5.8,
+  "fixedUploadMbps": 1.8,
+  "rank": 172,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Saharan nation with limited broadband. ~10% year-over-year growth.",
+  "geojson": "mr.geojson"
+}

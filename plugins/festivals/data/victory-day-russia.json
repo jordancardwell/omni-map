@@ -1,0 +1,14 @@
+{
+  "code": "victory-day-russia",
+  "name": "Victory Day",
+  "festivalType": "National",
+  "dateOrSeason": "May 9",
+  "origin": "Russian national",
+  "estimatedAttendance": "Millions across Russia",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military parade on Red Square; Immortal Regiment march carrying portraits of WWII veterans; laying wreaths; concerts; fireworks.",
+  "historicalBackground": "Victory Day celebrates the Soviet Union's defeat of Nazi Germany on May 9, 1945. It is one of Russia's most important holidays.",
+  "description": "Russia's solemn and triumphant commemoration of victory in WWII, centered on the grand military parade through Red Square.",
+  "location": "Moscow, Russia",
+  "geojson": "victory-day-russia.geojson"
+}

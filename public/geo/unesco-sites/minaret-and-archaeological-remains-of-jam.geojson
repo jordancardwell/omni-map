@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5158888889,
+          34.3964166667
+        ]
+      },
+      "properties": {
+        "code": "minaret-and-archaeological-remains-of-jam",
+        "name": "Minaret and Archaeological Remains of Jam",
+        "type": "Cultural",
+        "country": "Afghanistan",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

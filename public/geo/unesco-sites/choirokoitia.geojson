@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3439431453,
+          34.7967406661
+        ]
+      },
+      "properties": {
+        "code": "choirokoitia",
+        "name": "Choirokoitia",
+        "type": "Cultural",
+        "country": "Cyprus",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

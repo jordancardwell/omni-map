@@ -1,0 +1,17 @@
+{
+  "code": "wuzhai",
+  "name": "Wuzhai Satellite Launch Center (Kelan)",
+  "country": "China",
+  "operator": "PLA / CASC",
+  "coordinates": "38.8700°N, 111.5700°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Kuaizhou launches",
+    "Commercial smallsat launches",
+    "Military tests"
+  ],
+  "orbitalInclinationRange": "83°–98°",
+  "location": "Wuzhai Satellite Launch Center (Kelan), China",
+  "description": "Chinese launch facility near Taiyuan used for Kuaizhou solid-fuel rockets. Supports rapid-response commercial and military launches.",
+  "geojson": "wuzhai.geojson"
+}

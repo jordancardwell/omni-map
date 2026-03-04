@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4205111111,
+          35.6803666667
+        ]
+      },
+      "properties": {
+        "code": "golestan-palace",
+        "name": "Golestan Palace",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

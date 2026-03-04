@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2152777777,
+          -33.8566666667
+        ]
+      },
+      "properties": {
+        "code": "sydney-opera-house",
+        "name": "Sydney Opera House",
+        "type": "Cultural",
+        "country": "Australia",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

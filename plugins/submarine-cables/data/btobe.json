@@ -1,0 +1,17 @@
+{
+  "code": "btobe",
+  "name": "BtoBe",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 700,
+  "yearLaid": 2019,
+  "rfsDate": "2019-12",
+  "owner": "Telin",
+  "landingPoints": [
+    "Singapore",
+    "Batam, Indonesia",
+    "Jakarta, Indonesia"
+  ],
+  "description": "Short regional cable connecting Singapore to Indonesia.",
+  "geojson": "btobe.geojson"
+}

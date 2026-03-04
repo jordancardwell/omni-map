@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.16729,
+          30.19383
+        ]
+      },
+      "properties": {
+        "code": "pasargadae",
+        "name": "Pasargadae",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

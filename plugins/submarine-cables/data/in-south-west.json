@@ -1,0 +1,16 @@
+{
+  "code": "in-south-west",
+  "name": "IN South West",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3225,
+  "yearLaid": 2021,
+  "rfsDate": "2020-06",
+  "owner": "Tata",
+  "landingPoints": [
+    "Mumbai, India",
+    "Chennai, India"
+  ],
+  "description": "IN South West connecting Mumbai to Chennai.",
+  "geojson": "in-south-west.geojson"
+}

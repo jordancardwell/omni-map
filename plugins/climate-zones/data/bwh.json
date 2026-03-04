@@ -1,0 +1,17 @@
+{
+  "code": "bwh",
+  "name": "Hot Desert",
+  "group": "B - Arid",
+  "temperatureRange": "Annual mean ≥18°C; summers often >40°C",
+  "precipitationPattern": "Extremely low; <250mm/year, often <100mm",
+  "vegetation": "Sparse xerophytes, cacti, minimal ground cover, largely barren",
+  "exampleCities": [
+    "Cairo",
+    "Riyadh",
+    "Phoenix",
+    "Las Vegas"
+  ],
+  "description": "Hot desert climate (BWh) is Earth's driest climate type, characterized by extremely low precipitation and high daytime temperatures. These regions include the Sahara, Arabian, and Sonoran deserts. Daily temperature swings can be extreme—scorching days followed by cool nights due to lack of cloud cover and humidity.",
+  "typicalWeather": "Blazing sun with clear skies dominating most days. Summer temperatures frequently exceed 40°C (104°F). Winter days are warm but nights can be cool. Sandstorms and dust devils occur. Rain is rare and may come as brief, intense downpours.",
+  "geojson": "bwh.geojson"
+}

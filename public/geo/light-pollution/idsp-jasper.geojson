@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-jasper",
+        "name": "Jasper Dark Sky Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.85,
+          52.873
+        ]
+      }
+    }
+  ]
+}

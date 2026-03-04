@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"banteng","name":"Banteng"},"geometry":{"type":"Polygon","coordinates":[[[100,8],[112,8],[115,0],[112,-8],[106,-8],[100,-5],[98,2],[100,8]]]}}]}

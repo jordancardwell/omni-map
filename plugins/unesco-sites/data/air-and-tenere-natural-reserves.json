@@ -1,0 +1,16 @@
+{
+  "code": "air-and-tenere-natural-reserves",
+  "name": "Air and Ténéré Natural Reserves",
+  "type": "Natural",
+  "country": "Niger",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.",
+  "danger": true,
+  "geojson": "air-and-tenere-natural-reserves.geojson"
+}

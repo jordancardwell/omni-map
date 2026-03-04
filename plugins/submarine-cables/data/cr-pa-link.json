@@ -1,0 +1,16 @@
+{
+  "code": "cr-pa-link",
+  "name": "CR-PA Link",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2467,
+  "yearLaid": 2016,
+  "rfsDate": "2021-06",
+  "owner": "Cable & Wireless",
+  "landingPoints": [
+    "San José, Costa Rica",
+    "Panama City, Panama"
+  ],
+  "description": "CR-PA Link connecting San José to Panama City in the Caribbean region.",
+  "geojson": "cr-pa-link.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "dfw-nrt",
+  "name": "Dallas — Tokyo",
+  "airports": [
+    "DFW",
+    "NRT"
+  ],
+  "distanceKm": 10321,
+  "weeklyFlights": 30,
+  "airlines": [
+    "American",
+    "JAL"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DFW–NRT route between Dallas and Tokyo. Distance: 10,321 km. ~30 weekly flights operated by American, JAL.",
+  "geojson": "dfw-nrt.geojson"
+}

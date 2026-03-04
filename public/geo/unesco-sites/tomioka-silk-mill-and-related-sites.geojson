@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8877777778,
+          36.2552777778
+        ]
+      },
+      "properties": {
+        "code": "tomioka-silk-mill-and-related-sites",
+        "name": "Tomioka Silk Mill and Related Sites",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

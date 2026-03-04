@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2261111111,
+          45.9530277778
+        ]
+      },
+      "properties": {
+        "code": "le-colline-del-prosecco-di-conegliano-e-valdobbiadene",
+        "name": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

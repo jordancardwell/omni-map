@@ -1,0 +1,20 @@
+{
+  "code": "meerkat",
+  "name": "MeerKAT",
+  "country": "South Africa",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1038,
+  "aperture": "64 × 13.5 m dishes",
+  "telescopes": [
+    "MeerKAT"
+  ],
+  "keyDiscoveries": [
+    "Massive radio galaxies",
+    "Center of Milky Way imaging",
+    "Pulsar discoveries"
+  ],
+  "location": "MeerKAT, South Africa",
+  "description": "South African precursor to the Square Kilometre Array with 64 dishes in the Karoo. Has produced stunning radio images of the Galactic center.",
+  "geojson": "meerkat.geojson"
+}

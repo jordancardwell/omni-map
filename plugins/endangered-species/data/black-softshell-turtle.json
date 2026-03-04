@@ -1,0 +1,18 @@
+{
+  "code": "black-softshell-turtle",
+  "name": "Black Softshell Turtle",
+  "scientificName": "Nilssonia nigricans",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~150 in temple ponds; possibly extinct in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater river and pond",
+  "threats": [
+    "Habitat loss",
+    "Harvesting",
+    "Pollution"
+  ],
+  "conservationEfforts": "Bayazid Bostami shrine in Bangladesh maintains a temple pond population. Turtle Survival Alliance coordinates conservation. Wild populations in the Brahmaputra system may still exist.",
+  "description": "Considered sacred in Bangladesh where hundreds live in a shrine pond. Its conservation depends partly on religious protection — the only surviving populations are in temple ponds.",
+  "geojson": "black-softshell-turtle.geojson"
+}

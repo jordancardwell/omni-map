@@ -1,0 +1,16 @@
+{
+  "code": "co-pa-link",
+  "name": "CO-PA Link",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 721,
+  "yearLaid": 2021,
+  "rfsDate": "2022-06",
+  "owner": "Azteca",
+  "landingPoints": [
+    "Cartagena, Colombia",
+    "Panama City, Panama"
+  ],
+  "description": "CO-PA Link connecting Cartagena to Panama City in the Caribbean region.",
+  "geojson": "co-pa-link.geojson"
+}

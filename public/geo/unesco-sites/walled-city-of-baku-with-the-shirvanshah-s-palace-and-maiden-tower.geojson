@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83333333,
+          40.36666667
+        ]
+      },
+      "properties": {
+        "code": "walled-city-of-baku-with-the-shirvanshah-s-palace-and-maiden-tower",
+        "name": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower",
+        "type": "Cultural",
+        "country": "Azerbaijan",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

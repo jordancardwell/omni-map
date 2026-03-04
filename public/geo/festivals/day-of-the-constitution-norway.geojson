@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "code": "day-of-the-constitution-norway",
+        "name": "Constitution Day (Norway)",
+        "festivalType": "National",
+        "dateOrSeason": "May 17",
+        "location": "Oslo, Norway"
+      }
+    }
+  ]
+}

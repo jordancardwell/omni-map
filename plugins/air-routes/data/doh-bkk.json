@@ -1,0 +1,17 @@
+{
+  "code": "doh-bkk",
+  "name": "Doha — Bangkok",
+  "airports": [
+    "DOH",
+    "BKK"
+  ],
+  "distanceKm": 5280,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–BKK route between Doha and Bangkok. Distance: 5,280 km. ~35 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-bkk.geojson"
+}

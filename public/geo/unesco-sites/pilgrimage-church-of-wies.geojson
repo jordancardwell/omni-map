@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.90013889,
+          47.68127778
+        ]
+      },
+      "properties": {
+        "code": "pilgrimage-church-of-wies",
+        "name": "Pilgrimage Church of Wies",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

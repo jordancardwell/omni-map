@@ -1,0 +1,18 @@
+{
+  "code": "bom-hkg",
+  "name": "Mumbai — Hong Kong",
+  "airports": [
+    "BOM",
+    "HKG"
+  ],
+  "distanceKm": 4272,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Cathay Pacific",
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "BOM–HKG route between Mumbai and Hong Kong. Distance: 4,272 km. ~30 weekly flights operated by Cathay Pacific, Air India.",
+  "geojson": "bom-hkg.geojson"
+}

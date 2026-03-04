@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-turkey",
+  "name": "Republic Day (Turkey)",
+  "festivalType": "National",
+  "dateOrSeason": "October 29",
+  "origin": "Turkish national",
+  "estimatedAttendance": "85+ million Turks",
+  "unescoICH": "Not inscribed",
+  "traditions": "Torchlit youth processions; military flyovers; fireworks; flag decorations; civic ceremonies; concerts.",
+  "historicalBackground": "Republic Day marks October 29, 1923, when Mustafa Kemal Atatürk proclaimed the Republic of Turkey, ending the Ottoman Empire.",
+  "description": "Turkey's celebration of the founding of the Republic, with torchlit processions and fireworks honoring Atatürk's legacy.",
+  "location": "Ankara, Turkey",
+  "geojson": "independence-day-turkey.geojson"
+}

@@ -1,0 +1,30 @@
+{
+  "code": "utc-6",
+  "name": "Central Standard Time",
+  "nativeName": "UTC-06:00",
+  "utcOffset": "UTC-06:00",
+  "utcOffsetHours": -6,
+  "offsetGroup": "2. West (UTC-8 to -5)",
+  "ianaNames": [
+    "America/Chicago",
+    "America/Mexico_City",
+    "America/Guatemala"
+  ],
+  "countries": [
+    "US (Central states)",
+    "Canada (Manitoba, Saskatchewan)",
+    "Mexico",
+    "Guatemala",
+    "Honduras",
+    "El Salvador",
+    "Nicaragua",
+    "Costa Rica",
+    "Belize"
+  ],
+  "dstRules": "US/Canada/Mexico observe DST (UTC-5 in summer); Central American countries do not",
+  "description": "The most populous North American time zone, covering the heartland of the United States, most of Mexico, and Central America. Major cities include Chicago, Houston, Dallas, Mexico City, and San Antonio.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-6.geojson"
+}

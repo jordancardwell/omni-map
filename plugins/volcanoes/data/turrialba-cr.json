@@ -1,0 +1,21 @@
+{
+  "code": "turrialba-cr",
+  "name": "Irazú",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3432,
+  "lastEruption": "1994",
+  "vei": 3,
+  "country": "Costa Rica",
+  "region": "Cartago",
+  "location": "Cartago, Costa Rica",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lahars",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "The 1963-1965 eruption coincided with President Kennedy's visit to Costa Rica. Ashfall reached San José and destroyed crops.",
+  "description": "Irazú is the highest active volcano in Costa Rica. Its summit crater lake and lunar-like landscape are popular tourist attractions.",
+  "geojson": "turrialba-cr.geojson"
+}

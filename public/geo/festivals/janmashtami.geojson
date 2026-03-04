@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6737,
+          27.4924
+        ]
+      },
+      "properties": {
+        "code": "janmashtami",
+        "name": "Janmashtami",
+        "festivalType": "Religious",
+        "dateOrSeason": "August–September",
+        "location": "Mathura, India"
+      }
+    }
+  ]
+}

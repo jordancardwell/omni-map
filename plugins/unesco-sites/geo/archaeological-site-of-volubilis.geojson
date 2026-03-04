@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.55694,
+          34.07389
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-volubilis",
+        "name": "Archaeological Site of Volubilis",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

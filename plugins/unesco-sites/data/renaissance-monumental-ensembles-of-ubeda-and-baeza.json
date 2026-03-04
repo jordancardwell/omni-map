@@ -1,0 +1,15 @@
+{
+  "code": "renaissance-monumental-ensembles-of-ubeda-and-baeza",
+  "name": "Renaissance Monumental Ensembles of Úbeda and Baeza",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The urban morphology of the two small cities of Úbeda and Baeza in southern Spain dates back to the Moorish 9th century and to the Reconquista in the 13th century. An important development took place in the 16th century, when the cities were subject to renovation along the lines of the emerging Renaissance. This planning intervention was part of the introduction into Spain of new humanistic ideas from Italy, which went on to have a great influence on the architecture of Latin America.",
+  "danger": false,
+  "geojson": "renaissance-monumental-ensembles-of-ubeda-and-baeza.geojson"
+}

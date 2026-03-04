@@ -1,0 +1,18 @@
+{
+  "code": "cdg-ist",
+  "name": "Paris — Istanbul",
+  "airports": [
+    "CDG",
+    "IST"
+  ],
+  "distanceKm": 2214,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Air France",
+    "Turkish Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CDG–IST route between Paris and Istanbul. Distance: 2,214 km. ~80 weekly flights operated by Air France, Turkish Airlines.",
+  "geojson": "cdg-ist.geojson"
+}

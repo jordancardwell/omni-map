@@ -1,0 +1,27 @@
+{
+  "code": "overtone-singing-mongolia",
+  "name": "Mongolian Overtone Singing",
+  "region": "Western Mongolia",
+  "traditionFamily": "Central Asian",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Morin Khuur",
+    "Vocals",
+    "Tobshuur"
+  ],
+  "keyArtists": [
+    "Batzorig Vaanchig",
+    "Hosoo",
+    "Khusugtun",
+    "Anda Union",
+    "Epi"
+  ],
+  "description": "Mongolian Khöömii (overtone singing) is a vocal technique where a single singer simultaneously produces two distinct pitches—a fundamental drone and a high-pitched melody of harmonics. Practiced primarily by herders of western Mongolia, the technique imitates the sounds of wind, water, and animals on the steppe. UNESCO inscribed Mongolian Khöömii in 2010, distinct from Tuvan khoomei.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Mongolian Khöömii",
+      "url": "https://ich.unesco.org/en/RL/mongolian-art-of-singing-khoomei-00396"
+    }
+  ],
+  "geojson": "overtone-singing-mongolia.geojson"
+}

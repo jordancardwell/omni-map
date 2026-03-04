@@ -1,0 +1,20 @@
+{
+  "code": "lbt",
+  "name": "Large Binocular Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3221,
+  "aperture": "2 × 8.4 m",
+  "telescopes": [
+    "LBT"
+  ],
+  "keyDiscoveries": [
+    "LBTI exoplanet imaging",
+    "Adaptive optics breakthroughs",
+    "High-resolution imaging"
+  ],
+  "location": "Large Binocular Telescope, United States",
+  "description": "Twin 8.4m mirrors on a single mount at Mount Graham, Arizona. When combined, equivalent to an 11.8m telescope, the largest in the world.",
+  "geojson": "lbt.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "white-island-nz",
+  "name": "Whakaari",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 321,
+  "lastEruption": "2019",
+  "vei": 2,
+  "country": "New Zealand",
+  "region": "Bay of Plenty",
+  "location": "Bay of Plenty, New Zealand",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Phreatic explosions",
+    "Volcanic gases",
+    "Ballistic projectiles"
+  ],
+  "eruptionHistory": "Frequent phreatic eruptions. December 2019 eruption killed 22 tourists on the island.",
+  "description": "New Zealand's most active cone volcano. The 2019 disaster led to changes in volcanic tourism safety regulations worldwide.",
+  "geojson": "white-island-nz.geojson"
+}

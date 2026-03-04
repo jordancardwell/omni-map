@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55,
+          37.3
+        ]
+      },
+      "properties": {
+        "code": "the-historic-centre-chora-with-the-monastery-of-saint-john-the-theologian-and-th",
+        "name": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

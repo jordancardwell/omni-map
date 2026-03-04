@@ -1,0 +1,19 @@
+{
+  "code": "majorcan-midwife-toad",
+  "name": "Majorcan Midwife Toad",
+  "scientificName": "Alytes muletensis",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~500 adults",
+  "populationTrend": "Increasing",
+  "habitatType": "Limestone gorge pools",
+  "threats": [
+    "Habitat disturbance",
+    "Water pollution",
+    "Introduced snakes",
+    "Disease"
+  ],
+  "conservationEfforts": "Discovered from fossil records in 1977, then found alive in 1980. Durrell Wildlife Conservation Trust captive breeding. Reintroduced to multiple gorge sites. Snake removal programs.",
+  "description": "Known only from fossils until living populations were discovered in limestone gorges of Mallorca in 1980. Males carry strings of eggs wrapped around their hind legs until they hatch.",
+  "geojson": "majorcan-midwife-toad.geojson"
+}

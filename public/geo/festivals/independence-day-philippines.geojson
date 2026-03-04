@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      },
+      "properties": {
+        "code": "independence-day-philippines",
+        "name": "Independence Day (Philippines)",
+        "festivalType": "National",
+        "dateOrSeason": "June 12",
+        "location": "Manila, Philippines"
+      }
+    }
+  ]
+}

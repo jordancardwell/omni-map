@@ -1,0 +1,14 @@
+{
+  "code": "roman-walls-of-lugo",
+  "name": "Roman Walls of Lugo",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The walls of Lugo were built in the later part of the 3rd century to defend the Roman town of Lucus. The entire circuit survives intact and is the finest example of late Roman fortifications in western Europe.",
+  "danger": false,
+  "geojson": "roman-walls-of-lugo.geojson"
+}

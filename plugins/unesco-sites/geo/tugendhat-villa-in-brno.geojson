@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6160555556,
+          49.2071833333
+        ]
+      },
+      "properties": {
+        "code": "tugendhat-villa-in-brno",
+        "name": "Tugendhat Villa in Brno",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

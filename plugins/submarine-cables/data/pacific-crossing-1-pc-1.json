@@ -1,0 +1,16 @@
+{
+  "code": "pacific-crossing-1-pc-1",
+  "name": "Pacific Crossing-1 (PC-1)",
+  "capacityTbps": 6.4,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 21000,
+  "yearLaid": 1999,
+  "rfsDate": "2000-04",
+  "owner": "NTT Communications",
+  "landingPoints": [
+    "Harbour Pointe, USA",
+    "Shima, Japan"
+  ],
+  "description": "Trans-Pacific cable connecting the US Pacific Northwest to Japan.",
+  "geojson": "pacific-crossing-1-pc-1.geojson"
+}

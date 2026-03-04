@@ -1,0 +1,16 @@
+{
+  "code": "hammaguir",
+  "name": "Hammaguir Launch Site",
+  "country": "Algeria (French-operated)",
+  "operator": "CNES (France)",
+  "coordinates": "31.6150°N, 3.0700°W",
+  "status": "Historical",
+  "notableLaunches": [
+    "Diamant A (first French orbital)",
+    "Asterix satellite (1965)"
+  ],
+  "orbitalInclinationRange": "34°–45°",
+  "location": "Hammaguir Launch Site, Algeria (French-operated)",
+  "description": "France's original space launch facility in the Sahara Desert, Algeria. Site of the first French satellite launch (Asterix, 1965). Closed in 1967 when France withdrew from Algeria and moved to Kourou.",
+  "geojson": "hammaguir.geojson"
+}

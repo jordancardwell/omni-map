@@ -1,0 +1,15 @@
+{
+  "code": "madara-rider",
+  "name": "Madara Rider",
+  "type": "Cultural",
+  "country": "Bulgaria",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801.",
+  "danger": false,
+  "geojson": "madara-rider.geojson"
+}

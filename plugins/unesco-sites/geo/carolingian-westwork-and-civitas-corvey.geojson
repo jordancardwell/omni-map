@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41025,
+          51.7782777778
+        ]
+      },
+      "properties": {
+        "code": "carolingian-westwork-and-civitas-corvey",
+        "name": "Carolingian Westwork and Civitas Corvey",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

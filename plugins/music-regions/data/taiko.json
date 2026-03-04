@@ -1,0 +1,29 @@
+{
+  "code": "taiko",
+  "name": "Taiko Drumming",
+  "region": "Japan",
+  "traditionFamily": "East Asian Classical",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Nagado-daiko",
+    "Shime-daiko",
+    "Ō-daiko",
+    "Kane (Gong)",
+    "Fue (Flute)"
+  ],
+  "keyArtists": [
+    "Kodo",
+    "Ondekoza",
+    "Oedo Taiko",
+    "TAO",
+    "Leonard Eto"
+  ],
+  "description": "Taiko (literally 'great drum') encompasses the tradition of ensemble drumming in Japan. While individual drums have been used in Japanese music for over 1,500 years in shrine festivals, court music, and theater, the modern kumidaiko (ensemble) tradition was developed in the 1950s by Daihachi Oguchi. Taiko performances combine powerful drumming with choreographed movement and theatrical presentation.",
+  "resources": [
+    {
+      "title": "Kodo – Taiko",
+      "url": "https://www.kodo.or.jp/en/"
+    }
+  ],
+  "geojson": "taiko.geojson"
+}

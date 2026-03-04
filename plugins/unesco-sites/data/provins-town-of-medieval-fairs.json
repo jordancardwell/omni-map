@@ -1,0 +1,15 @@
+{
+  "code": "provins-town-of-medieval-fairs",
+  "name": "Provins, Town of Medieval Fairs",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The fortified medieval town of Provins is situated in the former territory of the powerful Counts of Champagne. It bears witness to early developments in the organization of international trading fairs and the wool industry. The urban structure of Provins, which was built specifically to host the fairs and related activities, has been well preserved.",
+  "danger": false,
+  "geojson": "provins-town-of-medieval-fairs.geojson"
+}

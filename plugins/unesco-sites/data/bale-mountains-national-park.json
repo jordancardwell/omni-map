@@ -1,0 +1,15 @@
+{
+  "code": "bale-mountains-national-park",
+  "name": "Bale Mountains National Park",
+  "type": "Natural",
+  "country": "Ethiopia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This property protects a landscape mosaic of extraordinary beauty that is shaped by the combined forces of ancient lava outpourings, glaciation and the dissection by the Great Rift Valley. It features volcanic peaks and ridges, dramatic escarpments, sweeping valleys, glacial lakes, lush forests, deep gorges and numerous waterfalls, creating exceptional natural beauty. The property harbours diverse and unique biodiversity at ecosystem, species and genetic levels, and five major rivers originate within the Park, estimated to supply water and support the livelihoods of millions of people in and beyond Ethiopia.",
+  "danger": false,
+  "geojson": "bale-mountains-national-park.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "hannibal",
+  "name": "HANNIBAL",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1349,
+  "yearLaid": 2016,
+  "rfsDate": "2012-06",
+  "owner": "Tunisie Telecom",
+  "landingPoints": [
+    "Marseille, France",
+    "Tunis, Tunisia"
+  ],
+  "description": "HANNIBAL cable connecting Marseille to Tunis across the Mediterranean.",
+  "geojson": "hannibal.geojson"
+}

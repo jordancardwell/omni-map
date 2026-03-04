@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          20.45
+        ]
+      },
+      "properties": {
+        "code": "alejandro-de-humboldt-national-park",
+        "name": "Alejandro de Humboldt National Park",
+        "type": "Natural",
+        "country": "Cuba",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2357,
+          30.0444
+        ]
+      },
+      "properties": {
+        "code": "independence-day-egypt",
+        "name": "Revolution Day (Egypt)",
+        "festivalType": "National",
+        "dateOrSeason": "July 23",
+        "location": "Cairo, Egypt"
+      }
+    }
+  ]
+}

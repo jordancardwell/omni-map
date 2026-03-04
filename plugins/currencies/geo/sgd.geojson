@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sgd","name":"Singapore Dollar","country":"SG","region":"Asia"},"geometry":{"type":"Polygon","coordinates":[[[103.6,1.2],[103.6,1.5],[104,1.5],[104,1.2],[103.6,1.2]]]}}]}

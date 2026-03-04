@@ -1,0 +1,22 @@
+{
+  "code": "tubitak",
+  "name": "TUBITAK National Observatory",
+  "country": "Turkey",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2500,
+  "aperture": "1.5 m (RTT150)",
+  "telescopes": [
+    "RTT150",
+    "T100",
+    "T60"
+  ],
+  "keyDiscoveries": [
+    "Gamma-ray burst follow-up",
+    "Exoplanet transits",
+    "Asteroid photometry"
+  ],
+  "location": "TUBITAK National Observatory, Turkey",
+  "description": "Turkey's national observatory at Bakırlıtepe, operating the Russian-Turkish RTT150 telescope for rapid transient follow-up observations.",
+  "geojson": "tubitak.geojson"
+}

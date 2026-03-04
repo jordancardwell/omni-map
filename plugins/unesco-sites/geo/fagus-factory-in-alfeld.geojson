@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8122222222,
+          51.9838888889
+        ]
+      },
+      "properties": {
+        "code": "fagus-factory-in-alfeld",
+        "name": "Fagus Factory in Alfeld",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

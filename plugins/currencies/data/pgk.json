@@ -1,0 +1,16 @@
+{
+  "code": "pgk",
+  "name": "Papua New Guinean Kina",
+  "isoCode": "PGK",
+  "symbol": "K",
+  "region": "Oceania",
+  "centralBank": "Bank of Papua New Guinea",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Papua New Guinea"
+  ],
+  "countryCount": 1,
+  "description": "The Kina is named after a type of shell traditionally used as currency in Papua New Guinea, the world's most linguistically diverse country.",
+  "historicalNotes": "Introduced in 1975 when Papua New Guinea gained independence from Australia. The country has over 800 languages.",
+  "geojson": "pgk.geojson"
+}

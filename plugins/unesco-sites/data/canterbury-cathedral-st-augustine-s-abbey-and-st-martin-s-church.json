@@ -1,0 +1,15 @@
+{
+  "code": "canterbury-cathedral-st-augustine-s-abbey-and-st-martin-s-church",
+  "name": "Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Canterbury, in Kent, has been the seat of the spiritual head of the Church of England for nearly five centuries. Canterbury's other important monuments are the modest Church of St Martin, the oldest church in England; the ruins of the Abbey of St Augustine, a reminder of the saint's evangelizing role in the Heptarchy from 597; and Christ Church Cathedral, a breathtaking mixture of Romanesque and Perpendicular Gothic, where Archbishop Thomas Becket was murdered in 1170.",
+  "danger": false,
+  "geojson": "canterbury-cathedral-st-augustine-s-abbey-and-st-martin-s-church.geojson"
+}

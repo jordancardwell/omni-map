@@ -1,0 +1,23 @@
+{
+  "code": "idsp-galloway-forest",
+  "name": "Galloway Forest Dark Sky Park",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "Dark Sky Park",
+  "designationYear": "2009",
+  "areaSqKm": 780,
+  "visibleObjects": [
+    "Milky Way",
+    "Andromeda Galaxy",
+    "Star clusters",
+    "Bright nebulae"
+  ],
+  "exampleLocations": [
+    "Galloway Forest Park, Scotland"
+  ],
+  "nearestDarkSkyReserves": [
+    "Galloway Forest (this site)"
+  ],
+  "description": "The UK's first Dark Sky Park, located in the forested hills of southwest Scotland. Galloway Forest demonstrates that exceptional dark skies can persist even in a relatively densely populated island nation. The park's distance from Glasgow, Edinburgh, and other Scottish cities, combined with the low population density of Dumfries and Galloway, preserves Class 2-3 conditions in the core areas. The park has catalyzed the UK's dark sky movement, inspiring numerous subsequent designations across Britain and Ireland.",
+  "geojson": "idsp-galloway-forest.geojson"
+}

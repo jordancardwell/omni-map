@@ -1,0 +1,15 @@
+{
+  "code": "ombilin-coal-mining-heritage-of-sawahlunto",
+  "name": "Ombilin Coal Mining Heritage of Sawahlunto",
+  "type": "Cultural",
+  "country": "Indonesia",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Built for the extraction, processing and transport of high-quality coal in an inaccessible region of Sumatra, this industrial site was developed by the Netherlands East Indies’ government in the globally important period of industrialisation from the late 19th to the beginning of the 20th century. The workforce was recruited from the local Minangkabau people and supplemented by Javanese and Chinese contract workers, and convict labourers from Dutch-controlled areas. It comprises the mining site and company town, coal storage facilities at the port of Emmahaven and the railway network linking the mines to the coastal facilities. The Ombilin Coal Mining Heritage was built as an integrated system that enabled the efficient deep-bore extraction, processing, transport and shipment of coal. It is also an outstanding testimony of exchange and fusion between local knowledge and practices and European technology.",
+  "danger": false,
+  "geojson": "ombilin-coal-mining-heritage-of-sawahlunto.geojson"
+}

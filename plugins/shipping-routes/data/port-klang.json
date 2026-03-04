@@ -1,0 +1,14 @@
+{
+  "code": "port-klang",
+  "name": "Port Klang",
+  "country": "Malaysia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 260,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Strait of Malacca Route"
+  ],
+  "description": "Port Klang in Malaysia. Annual cargo throughput: ~260 million tons. Type: Container Port.",
+  "geojson": "port-klang.geojson"
+}

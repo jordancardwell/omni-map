@@ -1,0 +1,20 @@
+{
+  "code": "tianma",
+  "name": "Tianma Radio Telescope",
+  "country": "China",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 20,
+  "aperture": "65 m",
+  "telescopes": [
+    "Tianma 65m"
+  ],
+  "keyDiscoveries": [
+    "Lunar and planetary missions support",
+    "VLBI imaging",
+    "Molecular spectroscopy"
+  ],
+  "location": "Tianma Radio Telescope, China",
+  "description": "Shanghai Astronomical Observatory's 65m telescope at Sheshan. The largest fully steerable radio telescope in Asia.",
+  "geojson": "tianma.geojson"
+}

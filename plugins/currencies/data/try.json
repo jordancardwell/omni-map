@@ -1,0 +1,16 @@
+{
+  "code": "try",
+  "name": "Turkish Lira",
+  "isoCode": "TRY",
+  "symbol": "₺",
+  "region": "Europe",
+  "centralBank": "Central Bank of the Republic of Türkiye",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Turkey"
+  ],
+  "countryCount": 1,
+  "description": "The Turkish Lira is the currency of a G20 nation that bridges Europe and Asia. Turkey has one of the world's largest economies.",
+  "historicalNotes": "The 'new Turkish lira' was introduced in 2005, removing six zeros from the old lira. It was renamed back to 'Turkish lira' in 2009. The currency has experienced significant depreciation since 2018.",
+  "geojson": "try.geojson"
+}

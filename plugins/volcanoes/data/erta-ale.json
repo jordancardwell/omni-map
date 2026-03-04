@@ -1,0 +1,21 @@
+{
+  "code": "erta-ale",
+  "name": "Erta Ale",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 613,
+  "lastEruption": "2023",
+  "vei": 0,
+  "country": "Ethiopia",
+  "region": "Afar",
+  "location": "Afar, Ethiopia",
+  "tectonicSetting": "Continental rift",
+  "hazards": [
+    "Lava flows",
+    "Lava lake overflow",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Contains one of the world's few persistent lava lakes. The lava lake has been active since at least 1967 and possibly much longer.",
+  "description": "Erta Ale is a continuously active shield volcano in the remote Danakil Depression. It hosts one of the world's few persistent lava lakes, accessible only by multi-day camel trek.",
+  "geojson": "erta-ale.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9,
+          -19.2833333333
+        ]
+      },
+      "properties": {
+        "code": "okavango-delta",
+        "name": "Okavango Delta",
+        "type": "Natural",
+        "country": "Botswana",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

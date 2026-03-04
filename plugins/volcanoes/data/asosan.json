@@ -1,0 +1,21 @@
+{
+  "code": "asosan",
+  "name": "Aso Caldera",
+  "volcanoType": "Caldera",
+  "status": "Erupting/Recent",
+  "elevation": 1592,
+  "lastEruption": "2021",
+  "vei": 2,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic gases",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "Contains one of the world's largest calderas (25x18 km). Multiple large caldera-forming eruptions, the largest ~90,000 years ago.",
+  "description": "Aso Caldera is one of the largest calderas in the world. The active Naka-dake crater within it is a popular tourist destination despite ongoing volcanic activity.",
+  "geojson": "asosan.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "taxila",
+  "name": "Taxila",
+  "type": "Cultural",
+  "country": "Pakistan",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "From the ancient Neolithic tumulus of Saraikala to the ramparts of Sirkap (2nd century B.C.) and the city of Sirsukh (1st century A.D.), Taxila illustrates the different stages in the development of a city on the Indus that was alternately influenced by Persia, Greece and Central Asia and which, from the 5th century B.C. to the 2nd century A.D., was an important Buddhist centre of learning.",
+  "danger": false,
+  "geojson": "taxila.geojson"
+}

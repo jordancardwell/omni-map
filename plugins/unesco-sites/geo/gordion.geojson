@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9861111111,
+          39.6433333333
+        ]
+      },
+      "properties": {
+        "code": "gordion",
+        "name": "Gordion",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

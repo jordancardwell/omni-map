@@ -1,0 +1,16 @@
+{
+  "code": "lorentz-national-park",
+  "name": "Lorentz National Park",
+  "type": "Natural",
+  "country": "Indonesia",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Lorentz National Park (2.35 million ha) is the largest protected area in South-East Asia. It is the only protected area in the world to incorporate a continuous, intact transect from snowcap to tropical marine environment, including extensive lowland wetlands. Located at the meeting-point of two colliding continental plates, the area has a complex geology with ongoing mountain formation as well as major sculpting by glaciation. The area also contains fossil sites which provide evidence of the evolution of life on New Guinea, a high level of endemism and the highest level of biodiversity in the region.",
+  "danger": false,
+  "geojson": "lorentz-national-park.geojson"
+}

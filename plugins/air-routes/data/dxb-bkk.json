@@ -1,0 +1,18 @@
+{
+  "code": "dxb-bkk",
+  "name": "Dubai — Bangkok",
+  "airports": [
+    "DXB",
+    "BKK"
+  ],
+  "distanceKm": 4904,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Emirates",
+    "Thai Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DXB–BKK route between Dubai and Bangkok. Distance: 4,904 km. ~60 weekly flights operated by Emirates, Thai Airways.",
+  "geojson": "dxb-bkk.geojson"
+}

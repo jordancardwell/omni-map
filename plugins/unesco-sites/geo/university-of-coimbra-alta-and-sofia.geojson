@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.425775,
+          40.2078111111
+        ]
+      },
+      "properties": {
+        "code": "university-of-coimbra-alta-and-sofia",
+        "name": "University of Coimbra – Alta and Sofia",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

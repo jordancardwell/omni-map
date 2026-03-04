@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2827777778,
+          42.0558333333
+        ]
+      },
+      "properties": {
+        "code": "citadel-ancient-city-and-fortress-buildings-of-derbent",
+        "name": "Citadel, Ancient City and Fortress Buildings of Derbent",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "br-southeast",
+  "name": "BR Southeast",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1260,
+  "yearLaid": 2021,
+  "rfsDate": "2022-06",
+  "owner": "Oi",
+  "landingPoints": [
+    "Rio de Janeiro, Brazil",
+    "Santos, Brazil"
+  ],
+  "description": "BR Southeast connecting Rio de Janeiro to Santos in South America.",
+  "geojson": "br-southeast.geojson"
+}

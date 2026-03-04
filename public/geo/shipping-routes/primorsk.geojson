@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"primorsk","name":"Port of Primorsk","featureType":"port","portType":"Oil/Gas Terminal","country":"Russia"},"geometry":{"type":"Point","coordinates":[28.67,60.35]}}]}

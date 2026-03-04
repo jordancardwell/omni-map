@@ -1,0 +1,14 @@
+{
+  "code": "valparaiso",
+  "name": "Port of Valparaíso",
+  "country": "Chile",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West Coast Americas Route"
+  ],
+  "description": "Port of Valparaíso in Chile. Annual cargo throughput: ~12 million tons. Type: Container Port.",
+  "geojson": "valparaiso.geojson"
+}

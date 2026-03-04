@@ -1,0 +1,14 @@
+{
+  "code": "rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea",
+  "name": "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The site consists of an exceptional urban setting encompassing the key natural elements that have shaped and inspired the development of the city: from the highest points of the Tijuca National Park’s mountains down to the sea. They also include the Botanical Gardens, established in 1808, Corcovado Mountain with its celebrated statue of Christ, and the hills around Guanabara Bay, including the extensive designed landscapes along Copacabana Bay which have contributed to the outdoor living culture of this spectacular city. Rio de Janeiro is also recognized for the artistic inspiration it has provided to musicians, landscapers and urbanists.",
+  "danger": false,
+  "geojson": "rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea.geojson"
+}

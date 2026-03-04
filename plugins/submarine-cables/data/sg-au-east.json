@@ -1,0 +1,16 @@
+{
+  "code": "sg-au-east",
+  "name": "SG-AU East",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3997,
+  "yearLaid": 2013,
+  "rfsDate": "2020-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Singapore",
+    "Sydney, Australia"
+  ],
+  "description": "SG-AU East connecting Singapore to Sydney.",
+  "geojson": "sg-au-east.geojson"
+}

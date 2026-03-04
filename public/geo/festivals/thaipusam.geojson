@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      },
+      "properties": {
+        "code": "thaipusam",
+        "name": "Thaipusam",
+        "festivalType": "Religious",
+        "dateOrSeason": "January–February (full moon)",
+        "location": "Kuala Lumpur, Malaysia"
+      }
+    }
+  ]
+}

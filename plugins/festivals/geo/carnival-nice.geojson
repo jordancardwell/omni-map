@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.262,
+          43.7102
+        ]
+      },
+      "properties": {
+        "code": "carnival-nice",
+        "name": "Carnival of Nice",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February",
+        "location": "Nice, France"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2723055556,
+          43.7016944444
+        ]
+      },
+      "properties": {
+        "code": "nice-winter-resort-town-of-the-riviera",
+        "name": "Nice, Winter Resort Town of the Riviera",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7673861111,
+          -18.6615777778
+        ]
+      },
+      "properties": {
+        "code": "andrefana-dry-forests",
+        "name": "Andrefana Dry Forests",
+        "type": "Natural",
+        "country": "Madagascar",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

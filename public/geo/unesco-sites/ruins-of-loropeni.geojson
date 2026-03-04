@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5833384934,
+          10.2500229431
+        ]
+      },
+      "properties": {
+        "code": "ruins-of-loropeni",
+        "name": "Ruins of Loropéni",
+        "type": "Cultural",
+        "country": "Burkina Faso",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

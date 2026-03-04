@@ -1,0 +1,36 @@
+{
+  "code": "korean",
+  "name": "Korean Cuisine",
+  "cuisineFamily": "East Asian",
+  "description": "Korean cuisine is built around fermentation, balance, and communal banchan (side dishes). Kimchi, the iconic fermented vegetable dish, is central to every meal. Korean cooking emphasizes the harmony of colors, textures, and the five flavors, with a strong tradition of preserving and fermenting foods.",
+  "signatureDishes": [
+    "Kimchi",
+    "Bibimbap",
+    "Bulgogi",
+    "Korean BBQ",
+    "Japchae",
+    "Tteokbokki"
+  ],
+  "keyIngredients": [
+    "Gochujang",
+    "Gochugaru",
+    "Sesame Oil",
+    "Doenjang",
+    "Garlic",
+    "Napa Cabbage"
+  ],
+  "cookingTechniques": [
+    "Fermentation (kimchi)",
+    "Tabletop grilling",
+    "Braising (jjigae)",
+    "Pickling"
+  ],
+  "unescoRecognition": "Kimjang (kimchi-making) inscribed on UNESCO Intangible Cultural Heritage list (2013)",
+  "keyRegions": [
+    "Seoul",
+    "Jeolla Province",
+    "Gyeongsang",
+    "Jeju Island"
+  ],
+  "geojson": "korean.geojson"
+}

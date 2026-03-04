@@ -1,0 +1,16 @@
+{
+  "code": "norsea-com-2",
+  "name": "NorSea Com-2",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 238,
+  "yearLaid": 2019,
+  "rfsDate": "2019-06",
+  "owner": "NorSea Group",
+  "landingPoints": [
+    "Stavanger, Norway",
+    "Katwijk, Netherlands"
+  ],
+  "description": "NorSea Com-2 submarine cable connecting Stavanger to Katwijk.",
+  "geojson": "norsea-com-2.geojson"
+}

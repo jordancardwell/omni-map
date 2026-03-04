@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.26666667,
+          40.28333333
+        ]
+      },
+      "properties": {
+        "code": "cilento-and-vallo-di-diano-national-park-with-the-archeological-sites-of-paestum",
+        "name": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

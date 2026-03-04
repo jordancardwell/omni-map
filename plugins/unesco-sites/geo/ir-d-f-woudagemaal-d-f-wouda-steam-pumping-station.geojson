@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67889,
+          52.84583
+        ]
+      },
+      "properties": {
+        "code": "ir-d-f-woudagemaal-d-f-wouda-steam-pumping-station",
+        "name": "Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

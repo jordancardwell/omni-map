@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gdansk","name":"Port of Gdansk","featureType":"port","portType":"Container Port","country":"Poland"},"geometry":{"type":"Point","coordinates":[18.66,54.36]}}]}

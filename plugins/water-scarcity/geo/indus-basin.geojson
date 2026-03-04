@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "indus-basin", "name": "Indus Basin" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[66,24],[67,25],[68,27],[69,29],[70,31],[71,33],[73,35],[75,36],[77,35],[77,33],[76,31],[75,29],[74,27],[72,26],[70,25],[68,24],[66,24]]]
+    }
+  }]
+}

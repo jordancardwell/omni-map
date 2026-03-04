@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[123.132,10.4122]},"properties":{"code":"kanlaon","name":"Kanlaon","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2435,"lastEruption":"2024","vei":3}}]}

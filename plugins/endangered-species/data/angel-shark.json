@@ -1,0 +1,18 @@
+{
+  "code": "angel-shark",
+  "name": "Angel Shark",
+  "scientificName": "Squatina squatina",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely depleted",
+  "populationTrend": "Decreasing",
+  "habitatType": "Sandy seabed in coastal waters",
+  "threats": [
+    "Trawl bycatch",
+    "Habitat degradation",
+    "Coastal development"
+  ],
+  "conservationEfforts": "Angel Shark Project in the Canary Islands (last stronghold). Protected under EU legislation. Marine protected areas in key habitats. Fishermen trained in safe release.",
+  "description": "Once common across European coasts, the angel shark has been eliminated from most of its former range by bottom trawling. The Canary Islands now hold the most important population.",
+  "geojson": "angel-shark.geojson"
+}

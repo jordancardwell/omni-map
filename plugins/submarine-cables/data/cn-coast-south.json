@@ -1,0 +1,16 @@
+{
+  "code": "cn-coast-south",
+  "name": "CN Coast South",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1734,
+  "yearLaid": 2013,
+  "rfsDate": "2016-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Fuzhou, China",
+    "Shantou, China"
+  ],
+  "description": "CN Coast South connecting Fuzhou to Shantou in East Asia.",
+  "geojson": "cn-coast-south.geojson"
+}

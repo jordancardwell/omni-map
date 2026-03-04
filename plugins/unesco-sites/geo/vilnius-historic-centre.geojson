@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29306,
+          54.68667
+        ]
+      },
+      "properties": {
+        "code": "vilnius-historic-centre",
+        "name": "Vilnius Historic Centre",
+        "type": "Cultural",
+        "country": "Lithuania",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

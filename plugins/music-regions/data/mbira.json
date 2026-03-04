@@ -1,0 +1,28 @@
+{
+  "code": "mbira",
+  "name": "Mbira Music",
+  "region": "Zimbabwe",
+  "traditionFamily": "Southern African",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Mbira Dzavadzimu",
+    "Hosho (Shakers)",
+    "Vocals",
+    "Drums"
+  ],
+  "keyArtists": [
+    "Stella Chiweshe",
+    "Ephat Mujuru",
+    "Thomas Mapfumo",
+    "Chiwoniso Maraire",
+    "Beauler Dyoko"
+  ],
+  "description": "Mbira music is a sacred tradition of the Shona people of Zimbabwe centered on the mbira dzavadzimu (thumb piano of the ancestors). Used in bira ceremonies to communicate with ancestral spirits, the mbira produces interlocking melodic patterns with rich overtones. The art of crafting and playing the mbira was inscribed on the UNESCO ICH list in 2020.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Mbira/Sansi",
+      "url": "https://ich.unesco.org/en/RL/art-of-crafting-and-playing-mbira-sansi-01541"
+    }
+  ],
+  "geojson": "mbira.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ke-dj-cable",
+  "name": "KE-DJ Cable",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2722,
+  "yearLaid": 2023,
+  "rfsDate": "2022-06",
+  "owner": "Liquid",
+  "landingPoints": [
+    "Mombasa, Kenya",
+    "Djibouti, Djibouti"
+  ],
+  "description": "KE-DJ Cable connecting Mombasa to Djibouti.",
+  "geojson": "ke-dj-cable.geojson"
+}

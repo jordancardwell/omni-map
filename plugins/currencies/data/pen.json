@@ -1,0 +1,16 @@
+{
+  "code": "pen",
+  "name": "Peruvian Sol",
+  "isoCode": "PEN",
+  "symbol": "S/",
+  "region": "Americas",
+  "centralBank": "Central Reserve Bank of Peru",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Peru"
+  ],
+  "countryCount": 1,
+  "description": "The Peruvian Sol is named after the Latin word for sun. Peru's economy is one of the fastest-growing in Latin America.",
+  "historicalNotes": "The 'nuevo sol' was introduced in 1991 to replace the inti, which had suffered hyperinflation. It was renamed simply 'sol' in 2015.",
+  "geojson": "pen.geojson"
+}

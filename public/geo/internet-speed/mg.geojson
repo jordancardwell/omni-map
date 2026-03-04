@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mg","name":"Madagascar","country":"MG","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[43.2,-25.6],[43.2,-12],[50.5,-12],[50.5,-25.6],[43.2,-25.6]]]}}]}

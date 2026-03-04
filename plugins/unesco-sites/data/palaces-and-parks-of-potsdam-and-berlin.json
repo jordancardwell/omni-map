@@ -1,0 +1,16 @@
+{
+  "code": "palaces-and-parks-of-potsdam-and-berlin",
+  "name": "Palaces and Parks of Potsdam and Berlin",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "With 500 ha of parks and 150 buildings constructed between 1730 and 1916, Potsdam's complex of palaces and parks forms an artistic whole, whose eclectic nature reinforces its sense of uniqueness. It extends into the district of Berlin-Zehlendorf, with the palaces and parks lining the banks of the River Havel and Lake Glienicke. Voltaire stayed at the Sans-Souci Palace, built under Frederick II between 1745 and 1747.",
+  "danger": false,
+  "geojson": "palaces-and-parks-of-potsdam-and-berlin.geojson"
+}

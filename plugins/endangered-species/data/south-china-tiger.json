@@ -1,0 +1,18 @@
+{
+  "code": "south-china-tiger",
+  "name": "South China Tiger",
+  "scientificName": "Panthera tigris amoyensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Functionally extinct in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Subtropical forest",
+  "threats": [
+    "Habitat loss",
+    "Historical persecution",
+    "Prey depletion"
+  ],
+  "conservationEfforts": "Save China's Tigers program attempted rewilding in South Africa. Chinese zoos maintain a captive population of about 200 individuals for potential future reintroduction.",
+  "description": "Considered functionally extinct in the wild, the South China tiger was once widespread across southern China. The last confirmed wild sighting was in the 1990s.",
+  "geojson": "south-china-tiger.geojson"
+}

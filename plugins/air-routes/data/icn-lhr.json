@@ -1,0 +1,18 @@
+{
+  "code": "icn-lhr",
+  "name": "Seoul — London",
+  "airports": [
+    "ICN",
+    "LHR"
+  ],
+  "distanceKm": 8861,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Korean Air",
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ICN–LHR route between Seoul and London. Distance: 8,861 km. ~30 weekly flights operated by Korean Air, British Airways.",
+  "geojson": "icn-lhr.geojson"
+}

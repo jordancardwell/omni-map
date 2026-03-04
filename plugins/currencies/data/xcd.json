@@ -1,0 +1,21 @@
+{
+  "code": "xcd",
+  "name": "East Caribbean Dollar",
+  "isoCode": "XCD",
+  "symbol": "EC$",
+  "region": "Americas",
+  "centralBank": "Eastern Caribbean Central Bank",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Antigua and Barbuda",
+    "Dominica",
+    "Grenada",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines"
+  ],
+  "countryCount": 6,
+  "description": "The East Caribbean Dollar is a shared currency used by six independent nations and two British territories in the Eastern Caribbean. It has been pegged to the US Dollar at 2.70:1 since 1976.",
+  "historicalNotes": "Established in 1965, replacing the British West Indies dollar. The Eastern Caribbean Central Bank, based in Saint Kitts, manages monetary policy for all member states.",
+  "geojson": "xcd.geojson"
+}

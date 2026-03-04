@@ -1,0 +1,16 @@
+{
+  "code": "tonghae",
+  "name": "Tonghae Satellite Launching Ground (Musudan-ri)",
+  "country": "North Korea",
+  "operator": "NADA",
+  "coordinates": "40.8560°N, 129.6660°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Paektusan (Unha prototype)",
+    "Early DPRK missile tests"
+  ],
+  "orbitalInclinationRange": "40°–88°",
+  "location": "Tonghae Satellite Launching Ground (Musudan-ri), North Korea",
+  "description": "North Korea's original east-coast launch site. Used for early long-range missile and space launch attempts. Largely superseded by Sohae for orbital launches.",
+  "geojson": "tonghae.geojson"
+}

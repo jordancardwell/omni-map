@@ -1,0 +1,21 @@
+{
+  "code": "lascar",
+  "name": "Láscar",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 5592,
+  "lastEruption": "2007",
+  "vei": 4,
+  "country": "Chile",
+  "region": "Antofagasta",
+  "location": "Antofagasta, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "The most active volcano in the northern Chilean Andes. Major eruption in 1993 produced pyroclastic flows extending 8.5 km from the summit.",
+  "description": "Láscar is the most active volcano in the northern Chilean Andes, sitting in the extremely arid Atacama Desert at over 5,500 meters elevation.",
+  "geojson": "lascar.geojson"
+}

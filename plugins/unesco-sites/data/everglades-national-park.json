@@ -1,0 +1,16 @@
+{
+  "code": "everglades-national-park",
+  "name": "Everglades National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "This site at the southern tip of Florida has been called 'a river of grass flowing imperceptibly from the hinterland into the sea'. The exceptional variety of its water habitats has made it a sanctuary for a large number of birds and reptiles, as well as for threatened species such as the manatee.",
+  "danger": true,
+  "geojson": "everglades-national-park.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "pkr",
+  "name": "Pakistani Rupee",
+  "isoCode": "PKR",
+  "symbol": "₨",
+  "region": "Asia",
+  "centralBank": "State Bank of Pakistan",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Pakistan"
+  ],
+  "countryCount": 1,
+  "description": "The Pakistani Rupee is the currency of the world's fifth most populous country.",
+  "historicalNotes": "Introduced in 1948 after Pakistan's independence from British India. The rupee has experienced significant devaluation over the decades.",
+  "geojson": "pkr.geojson"
+}

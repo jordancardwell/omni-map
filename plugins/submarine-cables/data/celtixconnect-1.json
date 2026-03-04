@@ -1,0 +1,16 @@
+{
+  "code": "celtixconnect-1",
+  "name": "CeltixConnect-1",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 260,
+  "yearLaid": 2002,
+  "rfsDate": "2002-10",
+  "owner": "GTT Communications",
+  "landingPoints": [
+    "Dublin, Ireland",
+    "Southport, UK"
+  ],
+  "description": "Irish Sea cable connecting Dublin to the UK.",
+  "geojson": "celtixconnect-1.geojson"
+}

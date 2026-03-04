@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.074737,
+          -8.107836
+        ]
+      },
+      "properties": {
+        "code": "chan-chan-archaeological-zone",
+        "name": "Chan Chan Archaeological Zone",
+        "type": "Cultural",
+        "country": "Peru",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

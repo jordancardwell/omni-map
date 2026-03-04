@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6870555556,
+          40.4153333333
+        ]
+      },
+      "properties": {
+        "code": "paseo-del-prado-and-buen-retiro-a-landscape-of-arts-and-sciences",
+        "name": "Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

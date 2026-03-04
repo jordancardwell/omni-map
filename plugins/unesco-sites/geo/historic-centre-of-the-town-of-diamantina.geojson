@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.59768,
+          -18.244776
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-the-town-of-diamantina",
+        "name": "Historic Centre of the Town of Diamantina",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

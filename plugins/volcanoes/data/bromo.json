@@ -1,0 +1,21 @@
+{
+  "code": "bromo",
+  "name": "Mount Bromo",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2329,
+  "lastEruption": "2019",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Java",
+  "location": "Java, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic gases",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "One of Java's most active volcanoes. Located within the Tengger caldera. Regular small eruptions with occasional larger events.",
+  "description": "Mount Bromo sits within the massive Tengger caldera and is one of Indonesia's most visited volcanoes. The surrounding Sea of Sand creates an otherworldly landscape.",
+  "geojson": "bromo.geojson"
+}

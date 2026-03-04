@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1923533395,
+          19.4111978833
+        ]
+      },
+      "properties": {
+        "code": "luis-barragan-house-and-studio",
+        "name": "Luis Barragán House and Studio",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

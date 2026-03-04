@@ -1,0 +1,16 @@
+{
+  "code": "omr",
+  "name": "Omani Rial",
+  "isoCode": "OMR",
+  "symbol": "﷼",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Oman",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Oman"
+  ],
+  "countryCount": 1,
+  "description": "The Omani Rial is the third-highest valued currency in the world. Oman is diversifying its economy through its Vision 2040 plan.",
+  "historicalNotes": "Introduced in 1970, replacing the Gulf rupee and Saudi riyal that had circulated previously.",
+  "geojson": "omr.geojson"
+}

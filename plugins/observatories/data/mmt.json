@@ -1,0 +1,20 @@
+{
+  "code": "mmt",
+  "name": "MMT Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2616,
+  "aperture": "6.5 m",
+  "telescopes": [
+    "MMT"
+  ],
+  "keyDiscoveries": [
+    "Galaxy redshift surveys",
+    "Quasar studies",
+    "Adaptive optics imaging"
+  ],
+  "location": "MMT Observatory, United States",
+  "description": "A 6.5m telescope on Mount Hopkins, Arizona, jointly operated by the Smithsonian and the University of Arizona. Originally the Multiple Mirror Telescope.",
+  "geojson": "mmt.geojson"
+}

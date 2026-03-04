@@ -1,0 +1,19 @@
+{
+  "code": "plains-wanderer",
+  "name": "Plains-wanderer",
+  "scientificName": "Pedionomus torquatus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~250-1,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Native grassland",
+  "threats": [
+    "Grassland conversion",
+    "Overgrazing",
+    "Fox predation",
+    "Drought"
+  ],
+  "conservationEfforts": "Captive breeding at Werribee Open Range Zoo. National recovery plan for native grasslands. Threat abatement plan for fox predation.",
+  "description": "An unusual quail-like bird that is actually more closely related to shorebirds. The colorful female is larger and more brightly marked than the male, who incubates the eggs alone.",
+  "geojson": "plains-wanderer.geojson"
+}

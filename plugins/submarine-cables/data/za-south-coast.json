@@ -1,0 +1,16 @@
+{
+  "code": "za-south-coast",
+  "name": "ZA South Coast",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2459,
+  "yearLaid": 2017,
+  "rfsDate": "2016-06",
+  "owner": "Telkom SA",
+  "landingPoints": [
+    "Port Elizabeth, South Africa",
+    "Cape Town, South Africa"
+  ],
+  "description": "ZA South Coast connecting Port Elizabeth to Cape Town in East Africa/Indian Ocean.",
+  "geojson": "za-south-coast.geojson"
+}

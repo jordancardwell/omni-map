@@ -1,0 +1,16 @@
+{
+  "code": "bj-ng-link",
+  "name": "BJ-NG Link",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 944,
+  "yearLaid": 2021,
+  "rfsDate": "2014-06",
+  "owner": "Glo",
+  "landingPoints": [
+    "Cotonou, Benin",
+    "Lagos, Nigeria"
+  ],
+  "description": "BJ-NG Link connecting Cotonou to Lagos along the West African coast.",
+  "geojson": "bj-ng-link.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "lofar",
+  "name": "Low-Frequency Array",
+  "country": "Netherlands",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 25,
+  "aperture": "Distributed (52 stations)",
+  "telescopes": [
+    "LOFAR"
+  ],
+  "keyDiscoveries": [
+    "Low-frequency radio sky maps",
+    "Exoplanet magnetic fields",
+    "Cosmic magnetism"
+  ],
+  "location": "Low-Frequency Array, Netherlands",
+  "description": "A distributed radio telescope with stations across Europe, centered in the Netherlands. Observes at the lowest radio frequencies accessible from Earth.",
+  "geojson": "lofar.geojson"
+}

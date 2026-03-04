@@ -1,0 +1,21 @@
+{
+  "code": "helwan",
+  "name": "Helwan Observatory",
+  "country": "Egypt",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 116,
+  "aperture": "1.88 m (Kottamia)",
+  "telescopes": [
+    "Kottamia 1.88m",
+    "Helwan reflector"
+  ],
+  "keyDiscoveries": [
+    "Variable star observations",
+    "Asteroid astrometry",
+    "Stellar spectroscopy"
+  ],
+  "location": "Helwan Observatory, Egypt",
+  "description": "Egypt's national observatory, now centered at the Kottamia Astronomical Observatory. The 1.88m telescope is the largest in the Middle East and North Africa.",
+  "geojson": "helwan.geojson"
+}

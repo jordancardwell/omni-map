@@ -1,0 +1,17 @@
+{
+  "code": "cwa",
+  "name": "Humid Subtropical (Dry Winter)",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month ≥22°C; coldest month 0-18°C",
+  "precipitationPattern": "Dry winters, wet hot summers; monsoon influence",
+  "vegetation": "Subtropical forest, bamboo groves, rice paddies",
+  "exampleCities": [
+    "Hong Kong",
+    "Hanoi",
+    "New Delhi",
+    "Lusaka"
+  ],
+  "description": "Humid subtropical climate with dry winters (Cwa) combines warm, wet summers with mild, dry winters. Monsoon circulation drives the seasonal precipitation pattern. Found in parts of South and East Asia, highland East Africa, and southern Brazil.",
+  "typicalWeather": "Hot, humid summers (28-35°C) with heavy monsoon rains. Winters are mild and dry (5-18°C) with clear skies. The transition from dry to wet season is often dramatic. Annual rainfall 1000-1500mm, mostly in summer months.",
+  "geojson": "cwa.geojson"
+}

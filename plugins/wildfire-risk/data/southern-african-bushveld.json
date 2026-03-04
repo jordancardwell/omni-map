@@ -1,0 +1,15 @@
+{
+  "code": "southern-african-bushveld",
+  "name": "Southern African Bushveld",
+  "region": "Africa",
+  "riskGroup": "3. Moderate",
+  "riskLevel": "Moderate",
+  "fireFrequency": "High — regular seasonal burning, increasing with drought",
+  "dominantVegetation": "Bushveld, savanna woodland, fynbos, grassveld",
+  "fireSeasonMonths": "June – October",
+  "areaBurnedAnnual": "~5 million ha across southern Africa",
+  "seasonalPattern": "The dry winter months (June–October) bring peak fire conditions as grasslands and bushveld cure. Berg winds — hot, dry downslope winds — create extreme fire weather along the eastern escarpment. South Africa's fynbos biome is fire-adapted and requires burning for regeneration, but fire frequency is changing with climate shifts.",
+  "historicalFires": ["2023 KwaZulu-Natal Fires (widespread)", "2021 Table Mountain Fire (Cape Town)", "2017 Knysna Fires (15K ha)", "Annual grassland burns across Mpumalanga and KZN"],
+  "description": "Southern Africa's diverse fire-prone landscapes — from the Highveld grasslands to the Cape fynbos to the Limpopo bushveld — experience regular fire seasons driven by dry winters and Berg winds. The 2017 Knysna fires on the Garden Route were among South Africa's most destructive, destroying over 1,000 structures. While many ecosystems are fire-adapted, changing land use patterns, invasive alien vegetation (which burns more intensely), and increasing drought are altering fire behavior. Fire management is complicated by the mix of fire-dependent ecosystems that need to burn and communities that need protection.",
+  "geojson": "southern-african-bushveld.geojson"
+}

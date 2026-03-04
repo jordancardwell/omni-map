@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.183333333,
+          48.69361111
+        ]
+      },
+      "properties": {
+        "code": "place-stanislas-place-de-la-carriere-and-place-d-alliance-in-nancy",
+        "name": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

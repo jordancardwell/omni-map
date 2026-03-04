@@ -1,0 +1,18 @@
+{
+  "code": "doh-jed",
+  "name": "Doha — Jeddah",
+  "airports": [
+    "DOH",
+    "JED"
+  ],
+  "distanceKm": 1331,
+  "weeklyFlights": 90,
+  "airlines": [
+    "Qatar Airways",
+    "Saudia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DOH–JED route between Doha and Jeddah. Distance: 1,331 km. ~90 weekly flights operated by Qatar Airways, Saudia.",
+  "geojson": "doh-jed.geojson"
+}

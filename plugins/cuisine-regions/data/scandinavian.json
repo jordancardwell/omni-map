@@ -1,0 +1,38 @@
+{
+  "code": "scandinavian",
+  "name": "Scandinavian Cuisine",
+  "cuisineFamily": "Northern European",
+  "description": "Scandinavian cuisine emphasizes simplicity, purity, and sustainability, drawing from the region's cold-water fish, foraged ingredients, and preserved foods. The New Nordic movement has revitalized ancient techniques like smoking, curing, and fermenting. The cuisine celebrates seasonality and the concept of 'hygge' (coziness) in dining.",
+  "signatureDishes": [
+    "Smørrebrød",
+    "Gravlax",
+    "Swedish Meatballs",
+    "Smörgåsbord",
+    "Æbleskiver",
+    "Pickled Herring"
+  ],
+  "keyIngredients": [
+    "Salmon",
+    "Dill",
+    "Rye Bread",
+    "Lingonberries",
+    "Cream",
+    "Root Vegetables"
+  ],
+  "cookingTechniques": [
+    "Curing (gravlax)",
+    "Smoking",
+    "Pickling",
+    "Fermenting",
+    "Foraging"
+  ],
+  "unescoRecognition": "None specific; New Nordic Cuisine movement internationally recognized",
+  "keyRegions": [
+    "Denmark",
+    "Sweden",
+    "Norway",
+    "Finland",
+    "Iceland"
+  ],
+  "geojson": "scandinavian.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "colorado-river-basin",
+  "name": "Colorado River Basin",
+  "region": "North America",
+  "stressGroup": "3. Medium-High (20-40%)",
+  "waterStressLevel": "Medium-High",
+  "waterStressRatio": "~37% — withdrawal-to-availability",
+  "depletionRate": "High — Lake Mead at historic lows since 2020",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "High",
+  "affectedPopulation": 40000000,
+  "riskFactors": ["Over-allocation", "Megadrought", "Reservoir depletion", "Agricultural demand", "Urban growth"],
+  "description": "The Colorado River is allocated to 40 million people and 2.2 million hectares of farmland across seven US states and Mexico — but the river is over-allocated by roughly 20%. A 23-year megadrought (the worst in 1,200 years) drove Lake Mead to 25% capacity by 2022. Emergency conservation agreements and mandatory cuts have stabilized levels, but long-term supply-demand imbalance persists.",
+  "geojson": "colorado-river-basin.geojson"
+}

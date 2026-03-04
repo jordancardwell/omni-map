@@ -1,0 +1,16 @@
+{
+  "code": "nj-ny-cable",
+  "name": "NJ-NY Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1347,
+  "yearLaid": 2012,
+  "rfsDate": "2022-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "Wall Township, USA",
+    "New York, USA"
+  ],
+  "description": "NJ-NY Cable connecting Wall Township to New York.",
+  "geojson": "nj-ny-cable.geojson"
+}

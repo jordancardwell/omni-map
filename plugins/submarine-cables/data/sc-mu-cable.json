@@ -1,0 +1,16 @@
+{
+  "code": "sc-mu-cable",
+  "name": "SC-MU Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3023,
+  "yearLaid": 2017,
+  "rfsDate": "2016-06",
+  "owner": "Airtel",
+  "landingPoints": [
+    "Victoria, Seychelles",
+    "Port Louis, Mauritius"
+  ],
+  "description": "SC-MU Cable connecting Victoria to Port Louis.",
+  "geojson": "sc-mu-cable.geojson"
+}

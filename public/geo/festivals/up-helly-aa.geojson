@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1449,
+          60.1551
+        ]
+      },
+      "properties": {
+        "code": "up-helly-aa",
+        "name": "Up Helly Aa",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Last Tuesday of January",
+        "location": "Lerwick, UK"
+      }
+    }
+  ]
+}

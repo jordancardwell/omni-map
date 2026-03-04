@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-2-typical-dark",
+        "name": "Typical Dark Sky Sites",
+        "region": "Big Bend National Park, USA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112,
+              44
+            ],
+            [
+              -107,
+              44
+            ],
+            [
+              -107,
+              47
+            ],
+            [
+              -112,
+              47
+            ],
+            [
+              -112,
+              44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-2-typical-dark",
+        "name": "Typical Dark Sky Sites",
+        "region": "Pic du Midi, France"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72,
+              -48
+            ],
+            [
+              -68,
+              -48
+            ],
+            [
+              -68,
+              -45
+            ],
+            [
+              -72,
+              -45
+            ],
+            [
+              -72,
+              -48
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-2-typical-dark",
+        "name": "Typical Dark Sky Sites",
+        "region": "Galloway Forest, Scotland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6,
+              56
+            ],
+            [
+              -4,
+              56
+            ],
+            [
+              -4,
+              58
+            ],
+            [
+              -6,
+              58
+            ],
+            [
+              -6,
+              56
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-2-typical-dark",
+        "name": "Typical Dark Sky Sites",
+        "region": "Jasper National Park, Canada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -21,
+              64
+            ],
+            [
+              -17,
+              64
+            ],
+            [
+              -17,
+              66
+            ],
+            [
+              -21,
+              66
+            ],
+            [
+              -21,
+              64
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

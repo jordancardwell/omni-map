@@ -1,0 +1,15 @@
+{
+  "code": "danube-delta",
+  "name": "Danube Delta",
+  "type": "Natural",
+  "country": "Romania",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The waters of the Danube, which flow into the Black Sea, form the largest and best preserved of Europe's deltas. The Danube delta hosts over 300 species of birds as well as 45 freshwater fish species in its numerous lakes and marshes.",
+  "danger": false,
+  "geojson": "danube-delta.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.365683,
+          -27.074403
+        ]
+      },
+      "properties": {
+        "code": "rapa-nui-national-park",
+        "name": "Rapa Nui National Park",
+        "type": "Cultural",
+        "country": "Chile",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

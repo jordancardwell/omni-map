@@ -1,0 +1,18 @@
+{
+  "code": "kw",
+  "name": "Kuwait",
+  "voltage": "240V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "G"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Primarily British-style plugs. Adapter needed for US/European devices.",
+  "geojson": "kw.geojson"
+}

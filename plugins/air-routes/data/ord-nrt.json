@@ -1,0 +1,19 @@
+{
+  "code": "ord-nrt",
+  "name": "Chicago — Tokyo",
+  "airports": [
+    "ORD",
+    "NRT"
+  ],
+  "distanceKm": 10073,
+  "weeklyFlights": 45,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ORD–NRT route between Chicago and Tokyo. Distance: 10,073 km. ~45 weekly flights operated by ANA, JAL, United.",
+  "geojson": "ord-nrt.geojson"
+}

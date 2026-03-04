@@ -1,0 +1,16 @@
+{
+  "code": "greek",
+  "name": "Greek",
+  "scriptType": "Alphabet",
+  "characters": 24,
+  "direction": "LTR",
+  "originDate": "~800 BCE",
+  "sampleText": "Ελληνική Δημοκρατία",
+  "relatedScripts": [
+    "latin",
+    "cyrillic"
+  ],
+  "description": "The Greek alphabet was the first true alphabet to include separate symbols for both consonants and vowels. With 24 letters, it is used for the Greek language and is widely employed in mathematics, science, and fraternity/sorority naming. Greek letters like α, β, π, and Σ are universally recognized in technical fields.",
+  "historicalNotes": "The Greek alphabet was developed around 800 BCE from the Phoenician abjad, with the key innovation of adding vowel letters. It was the first alphabet in the narrow sense. Greek script gave rise to the Latin alphabet (via Etruscan), Cyrillic alphabet, Coptic alphabet, and Gothic alphabet. The distinction between uppercase and lowercase forms developed during the medieval period.",
+  "geojson": "greek.geojson"
+}

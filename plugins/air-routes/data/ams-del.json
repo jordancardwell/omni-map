@@ -1,0 +1,18 @@
+{
+  "code": "ams-del",
+  "name": "Amsterdam — Delhi",
+  "airports": [
+    "AMS",
+    "DEL"
+  ],
+  "distanceKm": 6364,
+  "weeklyFlights": 25,
+  "airlines": [
+    "KLM",
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "AMS–DEL route between Amsterdam and Delhi. Distance: 6,364 km. ~25 weekly flights operated by KLM, Air India.",
+  "geojson": "ams-del.geojson"
+}

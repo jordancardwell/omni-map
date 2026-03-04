@@ -1,0 +1,19 @@
+{
+  "code": "den-sea",
+  "name": "Denver — Seattle",
+  "airports": [
+    "DEN",
+    "SEA"
+  ],
+  "distanceKm": 1645,
+  "weeklyFlights": 70,
+  "airlines": [
+    "United",
+    "Alaska",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–SEA route between Denver and Seattle. Distance: 1,645 km. ~70 weekly flights operated by United, Alaska, Southwest.",
+  "geojson": "den-sea.geojson"
+}

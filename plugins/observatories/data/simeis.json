@@ -1,0 +1,22 @@
+{
+  "code": "simeis",
+  "name": "Crimean Astrophysical Observatory",
+  "country": "Ukraine",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 600,
+  "aperture": "2.6 m (Shajn)",
+  "telescopes": [
+    "Shajn 2.6m",
+    "Solar tower",
+    "Gamma telescope"
+  ],
+  "keyDiscoveries": [
+    "Minor planet discoveries",
+    "Solar physics",
+    "Stellar spectroscopy"
+  ],
+  "location": "Crimean Astrophysical Observatory, Ukraine",
+  "description": "One of the largest observatories of the former Soviet Union. The Shajn 2.6m reflector has contributed to stellar and solar physics for decades.",
+  "geojson": "simeis.geojson"
+}

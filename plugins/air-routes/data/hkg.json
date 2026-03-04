@@ -1,0 +1,12 @@
+{
+  "code": "hkg",
+  "name": "Hong Kong International",
+  "iataCode": "HKG",
+  "city": "Hong Kong",
+  "country": "China",
+  "annualPassengers": 41000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Hong Kong International (HKG) in Hong Kong, China. Annual passengers: ~41M. Classification: International Hub.",
+  "geojson": "hkg.geojson"
+}

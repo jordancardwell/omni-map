@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ls","name":"Lesotho","country":"LS","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[27,-30.7],[27,-28.6],[29.5,-28.6],[29.5,-30.7],[27,-30.7]]]}}]}

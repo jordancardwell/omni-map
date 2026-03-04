@@ -1,0 +1,18 @@
+{
+  "code": "mia-ewr",
+  "name": "Miami — Newark",
+  "airports": [
+    "MIA",
+    "EWR"
+  ],
+  "distanceKm": 1750,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MIA–EWR route between Miami and Newark. Distance: 1,750 km. ~60 weekly flights operated by United, Spirit.",
+  "geojson": "mia-ewr.geojson"
+}

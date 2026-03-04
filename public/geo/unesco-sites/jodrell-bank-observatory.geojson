@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3038611111,
+          53.2339166667
+        ]
+      },
+      "properties": {
+        "code": "jodrell-bank-observatory",
+        "name": "Jodrell Bank Observatory",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

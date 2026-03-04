@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.8599,40.7982]},"properties":{"code":"swift-psu","name":"Penn State (Swift Observatory)","observatoryType":"Space-based","status":"Operational","country":"United States"}}]}

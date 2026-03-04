@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-the-town-of-goias",
+  "name": "Historic Centre of the Town of Goiás",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Goiás testifies to the occupation and colonization of the lands of central Brazil in the 18th and 19th centuries. The urban layout is an example of the organic development of a mining town, adapted to the conditions of the site. Although modest, both public and private architecture form a harmonious whole, thanks to the coherent use of local materials and vernacular techniques.",
+  "danger": false,
+  "geojson": "historic-centre-of-the-town-of-goias.geojson"
+}

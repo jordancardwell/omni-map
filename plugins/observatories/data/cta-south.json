@@ -1,0 +1,20 @@
+{
+  "code": "cta-south",
+  "name": "Cherenkov Telescope Array South",
+  "country": "Chile",
+  "observatoryType": "Multi-messenger",
+  "status": "Under Construction",
+  "elevation": 2100,
+  "aperture": "14 MSTs + 37 SSTs",
+  "telescopes": [
+    "CTA-South"
+  ],
+  "keyDiscoveries": [
+    "Expected: Pevatron identification",
+    "Gamma-ray transients",
+    "Particle acceleration mechanisms"
+  ],
+  "location": "Cherenkov Telescope Array South, Chile",
+  "description": "The Southern Hemisphere CTA site near Paranal, Chile. Will have over 50 telescopes spanning three sizes for comprehensive gamma-ray sky coverage.",
+  "geojson": "cta-south.geojson"
+}

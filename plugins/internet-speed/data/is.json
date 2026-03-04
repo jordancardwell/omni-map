@@ -1,0 +1,17 @@
+{
+  "code": "is",
+  "name": "Iceland",
+  "avgDownloadMbps": 178.4,
+  "avgUploadMbps": 98.6,
+  "avgLatencyMs": 8,
+  "mobileDownloadMbps": 82.4,
+  "mobileUploadMbps": 16.8,
+  "fixedDownloadMbps": 178.4,
+  "fixedUploadMbps": 98.6,
+  "rank": 19,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Small population with excellent fiber coverage. ~6% year-over-year growth.",
+  "geojson": "is.geojson"
+}

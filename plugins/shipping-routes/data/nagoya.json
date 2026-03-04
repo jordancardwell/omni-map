@@ -1,0 +1,14 @@
+{
+  "code": "nagoya",
+  "name": "Port of Nagoya",
+  "country": "Japan",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 200,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Nagoya in Japan. Annual cargo throughput: ~200 million tons. Type: Multi-Purpose Port.",
+  "geojson": "nagoya.geojson"
+}

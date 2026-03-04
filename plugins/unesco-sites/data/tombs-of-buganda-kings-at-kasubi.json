@@ -1,0 +1,16 @@
+{
+  "code": "tombs-of-buganda-kings-at-kasubi",
+  "name": "Tombs of Buganda Kings at Kasubi",
+  "type": "Cultural",
+  "country": "Uganda",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "The Tombs of Buganda Kings at Kasubi constitute a site embracing almost 30 ha of hillside within Kampala district. Most of the site is agricultural, farmed by traditional methods. At its core on the hilltop is the former palace of the Kabakas of Buganda, built in 1882 and converted into the royal burial ground in 1884. Four royal tombs now lie within the Muzibu Azaala Mpanga, the main building, which is circular and surmounted by a dome. It is a major example of an architectural achievement in organic materials, principally wood, thatch, reed, wattle and daub. The site's main significance lies, however, in its intangible values of belief, spirituality, continuity and identity.",
+  "danger": false,
+  "geojson": "tombs-of-buganda-kings-at-kasubi.geojson"
+}

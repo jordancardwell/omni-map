@@ -1,0 +1,16 @@
+{
+  "code": "palau-de-la-musica-catalana-and-hospital-de-sant-pau-barcelona",
+  "name": "Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These are two of the finest contributions to Barcelona's architecture by the Catalan art nouveau architect Lluís Domènech i Montaner. The Palau de la Música Catalana is an exuberant steel-framed structure full of light and space, and decorated by many of the leading designers of the day. The Hospital de Sant Pau is equally bold in its design and decoration, while at the same time perfectly adapted to the needs of the sick.",
+  "danger": false,
+  "geojson": "palau-de-la-musica-catalana-and-hospital-de-sant-pau-barcelona.geojson"
+}

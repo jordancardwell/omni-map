@@ -1,0 +1,17 @@
+{
+  "code": "sjc-jus-japan-us",
+  "name": "SJC-JUS (Japan-US)",
+  "capacityTbps": 100,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9000,
+  "yearLaid": 2023,
+  "rfsDate": "2025-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Kitaibaraki, Japan",
+    "Los Angeles, USA"
+  ],
+  "description": "Japan-US cable extension of the SJC system.",
+  "geojson": "sjc-jus-japan-us.geojson"
+}

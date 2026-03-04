@@ -1,0 +1,19 @@
+{
+  "code": "waved-albatross",
+  "name": "Waved Albatross",
+  "scientificName": "Phoebastria irrorata",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~50,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Open ocean and island nesting",
+  "threats": [
+    "Bycatch in longline fisheries",
+    "Introduced predators",
+    "Avian pox",
+    "Climate change"
+  ],
+  "conservationEfforts": "Galápagos National Park protects Española Island breeding colony. Bycatch mitigation measures promoted in fishing fleets.",
+  "description": "The only tropical albatross species, breeding almost exclusively on Española Island in the Galápagos. They perform an elaborate bill-clacking courtship dance and mate for life.",
+  "geojson": "waved-albatross.geojson"
+}

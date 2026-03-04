@@ -1,0 +1,12 @@
+{
+  "code": "yyz",
+  "name": "Toronto Pearson International",
+  "iataCode": "YYZ",
+  "city": "Toronto",
+  "country": "Canada",
+  "annualPassengers": 37000000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Toronto Pearson International (YYZ) in Toronto, Canada. Annual passengers: ~37M. Classification: Regional Hub.",
+  "geojson": "yyz.geojson"
+}

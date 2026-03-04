@@ -1,0 +1,18 @@
+{
+  "code": "kul-nrt",
+  "name": "Kuala Lumpur — Tokyo",
+  "airports": [
+    "KUL",
+    "NRT"
+  ],
+  "distanceKm": 5410,
+  "weeklyFlights": 30,
+  "airlines": [
+    "AirAsia X",
+    "Malaysia Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "KUL–NRT route between Kuala Lumpur and Tokyo. Distance: 5,410 km. ~30 weekly flights operated by AirAsia X, Malaysia Airlines.",
+  "geojson": "kul-nrt.geojson"
+}

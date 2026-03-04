@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6636111111,
+          45.7033333333
+        ]
+      },
+      "properties": {
+        "code": "venetian-works-of-defence-between-the-16th-and-17th-centuries-em-stato-da-terra",
+        "name": "Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar",
+        "type": "Cultural",
+        "country": "Italy, Croatia, Montenegro",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

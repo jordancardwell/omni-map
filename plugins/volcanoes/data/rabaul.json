@@ -1,0 +1,22 @@
+{
+  "code": "rabaul",
+  "name": "Rabaul (Tavurvur)",
+  "volcanoType": "Caldera",
+  "status": "Historically Active",
+  "elevation": 688,
+  "lastEruption": "2014",
+  "vei": 4,
+  "country": "Papua New Guinea",
+  "region": "New Britain",
+  "location": "New Britain, Papua New Guinea",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Tsunami",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "Twin eruptions of Tavurvur and Vulcan in 1994 destroyed much of Rabaul town. The caldera has hosted several major eruptions including a devastating 1937 event.",
+  "description": "Rabaul caldera contains some of the most active volcanoes in Papua New Guinea. The simultaneous 1994 eruptions of Tavurvur and Vulcan destroyed the town of Rabaul.",
+  "geojson": "rabaul.geojson"
+}

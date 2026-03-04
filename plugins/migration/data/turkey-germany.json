@@ -1,0 +1,18 @@
+{
+  "code": "turkey-germany",
+  "name": "Turkey \u2192 Germany",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Turkey \u2192 Germany",
+  "badgeValue": "~2.8 million",
+  "origin": "Turkey",
+  "destination": "Germany",
+  "estimatedMigrants": "~2.8 million",
+  "drivers": [
+    "Guest worker program legacy",
+    "Family reunification",
+    "Established community",
+    "EU proximity"
+  ],
+  "description": "The Turkish community in Germany traces to the 1961 Gastarbeiter (guest worker) agreement. What began as temporary labor migration became permanent settlement across generations. Turkish Germans are Germany's largest minority group, with profound cultural influence on cuisine, music, and urban life. Berlin alone has the largest Turkish population outside Turkey.",
+  "geojson": "turkey-germany.geojson"
+}

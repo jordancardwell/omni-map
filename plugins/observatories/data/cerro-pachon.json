@@ -1,0 +1,21 @@
+{
+  "code": "cerro-pachon",
+  "name": "Cerro Pachón",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2722,
+  "aperture": "8.1 m (Gemini South)",
+  "telescopes": [
+    "Gemini South",
+    "SOAR 4.1m"
+  ],
+  "keyDiscoveries": [
+    "Southern sky surveys",
+    "Compact object studies",
+    "Adaptive optics imaging"
+  ],
+  "location": "Cerro Pachón, Chile",
+  "description": "Mountain-top observatory in the Chilean Andes hosting Gemini South and SOAR telescopes. Future site of the Vera C. Rubin Observatory.",
+  "geojson": "cerro-pachon.geojson"
+}

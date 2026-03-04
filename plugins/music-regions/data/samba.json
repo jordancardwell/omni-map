@@ -1,0 +1,29 @@
+{
+  "code": "samba",
+  "name": "Samba",
+  "region": "Rio de Janeiro, Brazil",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Surdo",
+    "Tamborim",
+    "Pandeiro",
+    "Cavaquinho",
+    "Agogô"
+  ],
+  "keyArtists": [
+    "Cartola",
+    "Beth Carvalho",
+    "Zeca Pagodinho",
+    "Clara Nunes",
+    "Martinho da Vila"
+  ],
+  "description": "Samba is a Brazilian music genre and dance style rooted in African rhythmic traditions brought by enslaved peoples. Originating in the Afro-Brazilian communities of Rio de Janeiro's favelas, it became the heartbeat of Carnival. Samba de Roda of the Recôncavo of Bahia was inscribed on the UNESCO Intangible Cultural Heritage list in 2008.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Samba de Roda",
+      "url": "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+    }
+  ],
+  "geojson": "samba.geojson"
+}

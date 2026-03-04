@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2627222222,
+          41.2927222222
+        ]
+      },
+      "properties": {
+        "code": "via-appia-em-regina-viarum-em",
+        "name": "Via Appia. Regina Viarum",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

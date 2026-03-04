@@ -1,0 +1,15 @@
+{
+  "code": "the-forth-bridge",
+  "name": "The Forth Bridge",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This railway bridge, crossing the Forth estuary in Scotland, had the world’s longest spans (541 m) when it opened in 1890. It remains one of the greatest cantilever trussed bridges and continues to carry passengers and freight. Its distinctive industrial aesthetic is the result of a forthright and unadorned display of its structural components. Innovative in style, materials and scale, the Forth Bridge marks an important milestone in bridge design and construction during the period when railways came to dominate long-distance land travel.",
+  "danger": false,
+  "geojson": "the-forth-bridge.geojson"
+}

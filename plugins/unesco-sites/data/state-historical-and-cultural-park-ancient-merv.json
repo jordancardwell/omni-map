@@ -1,0 +1,15 @@
+{
+  "code": "state-historical-and-cultural-park-ancient-merv",
+  "name": "State Historical and Cultural Park “Ancient Merv”",
+  "type": "Cultural",
+  "country": "Turkmenistan",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Merv is the oldest and best-preserved of the oasis-cities along the Silk Route in Central Asia. The remains in this vast oasis span 4,000 years of human history. A number of monuments are still visible, particularly from the last two millennia.",
+  "danger": false,
+  "geojson": "state-historical-and-cultural-park-ancient-merv.geojson"
+}

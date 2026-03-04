@@ -1,0 +1,18 @@
+{
+  "code": "somalia-kenya",
+  "name": "Somalia \u2192 Kenya",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Somalia \u2192 Kenya",
+  "badgeValue": "~780,000",
+  "origin": "Somalia",
+  "destination": "Kenya",
+  "estimatedMigrants": "~780,000",
+  "drivers": [
+    "Conflict displacement",
+    "Al-Shabaab violence",
+    "Drought and famine",
+    "Clan conflicts"
+  ],
+  "description": "Kenya hosts a large Somali refugee population, concentrated in the Dadaab refugee complex \u2014 one of the world's largest, established in 1991. Ongoing conflict with Al-Shabaab, combined with recurring droughts and famine, sustains displacement. Nairobi's Eastleigh neighborhood is known as 'Little Mogadishu' for its large Somali business community. Kenya has periodically threatened to close Dadaab but refugee repatriation remains limited.",
+  "geojson": "somalia-kenya.geojson"
+}

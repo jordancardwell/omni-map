@@ -1,0 +1,15 @@
+{
+  "code": "rwenzori-mountains-national-park",
+  "name": "Rwenzori Mountains National Park",
+  "type": "Natural",
+  "country": "Uganda",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The Rwenzori Mountains National Park covers nearly 100,000 ha in western Uganda and comprises the main part of the Rwenzori mountain chain, which includes Africa's third highest peak (Mount Margherita: 5,109 m). The region's glaciers, waterfalls and lakes make it one of Africa's most beautiful alpine areas. The park has many natural habitats of endangered species and a rich and unusual flora comprising, among other species, the giant heather.",
+  "danger": false,
+  "geojson": "rwenzori-mountains-national-park.geojson"
+}

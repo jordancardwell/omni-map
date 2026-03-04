@@ -1,0 +1,14 @@
+{
+  "code": "onam",
+  "name": "Onam",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "August–September (Chingam 1)",
+  "origin": "Keralite tradition",
+  "estimatedAttendance": "35+ million in Kerala",
+  "unescoICH": "Not inscribed",
+  "traditions": "Pookalam (flower carpet designs); Onam Sadya (feast on banana leaf); Vallam Kali (snake boat races); Pulikali (tiger dance).",
+  "historicalBackground": "Onam celebrates the homecoming of the mythical King Mahabali, whose virtuous rule created a golden age in Kerala. The festival marks the harvest season.",
+  "description": "Kerala's grand harvest festival celebrating the mythical King Mahabali's homecoming with flower carpets, boat races, and lavish feasts.",
+  "location": "Kochi, India",
+  "geojson": "onam.geojson"
+}

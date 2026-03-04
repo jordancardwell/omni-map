@@ -1,0 +1,19 @@
+{
+  "code": "california-condor",
+  "name": "California Condor",
+  "scientificName": "Gymnogyps californianus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~500 total (300+ wild)",
+  "populationTrend": "Increasing",
+  "habitatType": "Rugged mountainous terrain and coast",
+  "threats": [
+    "Lead poisoning",
+    "Power line collisions",
+    "Microtrash ingestion",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "Rescued from extinction when all 22 remaining wild birds were captured in 1987 for breeding. Reintroduced populations now thrive in California, Arizona, and Baja California.",
+  "description": "The largest flying bird in North America with a wingspan of nearly 3 meters. Its recovery from just 22 individuals to over 500 is one of conservation's most dramatic success stories.",
+  "geojson": "california-condor.geojson"
+}

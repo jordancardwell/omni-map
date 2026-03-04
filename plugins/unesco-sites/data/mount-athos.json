@@ -1,0 +1,18 @@
+{
+  "code": "mount-athos",
+  "name": "Mount Athos",
+  "type": "Mixed",
+  "country": "Greece",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)",
+    "(v)",
+    "(vii)"
+  ],
+  "region": "Europe and North America",
+  "description": "An Orthodox spiritual centre since 1054, Mount Athos has enjoyed an autonomous statute since Byzantine times. The 'Holy Mountain', which is forbidden to women and children, is also a recognized artistic site. The layout of the monasteries (about 20 of which are presently inhabited by some 1,400 monks) had an influence as far afield as Russia, and its school of painting influenced the history of Orthodox art.",
+  "danger": false,
+  "geojson": "mount-athos.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7763889,
+          33.83694444
+        ]
+      },
+      "properties": {
+        "code": "sacred-sites-and-pilgrimage-routes-in-the-kii-mountain-range",
+        "name": "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

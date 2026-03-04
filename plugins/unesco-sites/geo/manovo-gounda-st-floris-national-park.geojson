@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5,
+          9.0
+        ]
+      },
+      "properties": {
+        "code": "manovo-gounda-st-floris-national-park",
+        "name": "Manovo-Gounda St Floris National Park",
+        "type": "Natural",
+        "country": "Central African Republic",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

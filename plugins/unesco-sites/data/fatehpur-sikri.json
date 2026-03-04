@@ -1,0 +1,16 @@
+{
+  "code": "fatehpur-sikri",
+  "name": "Fatehpur Sikri",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Built during the second half of the 16th century by the Emperor Akbar, Fatehpur Sikri (the City of Victory) was the capital of the Mughal Empire for only some 10 years. The complex of monuments and temples, all in a uniform architectural style, includes one of the largest mosques in India, the Jama Masjid.",
+  "danger": false,
+  "geojson": "fatehpur-sikri.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "fr-sn-cable",
+  "name": "FR-SN Cable",
+  "capacityTbps": 56,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2962,
+  "yearLaid": 2023,
+  "rfsDate": "2016-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Marseille, France",
+    "Dakar, Senegal"
+  ],
+  "description": "FR-SN Cable connecting Marseille to Dakar.",
+  "geojson": "fr-sn-cable.geojson"
+}

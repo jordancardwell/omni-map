@@ -1,0 +1,16 @@
+{
+  "code": "frontiers-of-the-roman-empire-dacia",
+  "name": "Frontiers of the Roman Empire – Dacia",
+  "type": "Cultural",
+  "country": "Romania",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "From 500 BCE on, the Roman Empire extended its territory across parts of Europe and North Africa until its frontier totaled some 7,500 kilometres by the 2nd century. The Romanian segment, the Dacian Limes, was operational from 106 to 271 CE. The property comprises 277 component parts and represents the longest, most complex land border of a former Roman province in Europe. Traversing diverse landscapes, it is defined by a network of individual sites that include legionary fortresses, auxiliary forts, earthen ramparts, watch towers, temporary camps and secular buildings. Dacia was the only Roman province entirely north of the Danube River. Its frontier protected it from ‘barbarian’ populations and controlled access to valuable gold and salt resources.",
+  "danger": false,
+  "geojson": "frontiers-of-the-roman-empire-dacia.geojson"
+}

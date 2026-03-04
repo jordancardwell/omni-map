@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5873055556,
+          31.8018055556
+        ]
+      },
+      "properties": {
+        "code": "quseir-amra",
+        "name": "Quseir Amra",
+        "type": "Cultural",
+        "country": "Jordan",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

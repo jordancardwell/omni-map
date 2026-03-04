@@ -1,0 +1,16 @@
+{
+  "code": "fibralink",
+  "name": "Fibralink",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1400,
+  "yearLaid": 2000,
+  "rfsDate": "2001-01",
+  "owner": "Fibralink",
+  "landingPoints": [
+    "Miami, USA",
+    "Kingston, Jamaica"
+  ],
+  "description": "Direct Jamaica-US cable.",
+  "geojson": "fibralink.geojson"
+}

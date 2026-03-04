@@ -1,0 +1,16 @@
+{
+  "code": "bj-tg-link",
+  "name": "BJ-TG Link",
+  "capacityTbps": 21,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5763,
+  "yearLaid": 2022,
+  "rfsDate": "2013-06",
+  "owner": "Benin Telecom",
+  "landingPoints": [
+    "Cotonou, Benin",
+    "Lomé, Togo"
+  ],
+  "description": "BJ-TG Link connecting Cotonou to Lomé.",
+  "geojson": "bj-tg-link.geojson"
+}

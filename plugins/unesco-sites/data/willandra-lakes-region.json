@@ -1,0 +1,15 @@
+{
+  "code": "willandra-lakes-region",
+  "name": "Willandra Lakes Region",
+  "type": "Mixed",
+  "country": "Australia",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(iii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The fossil remains of a series of lakes and sand formations that date from the Pleistocene can be found in this region, together with archaeological evidence of human occupation dating from 45–60,000 years ago. It is a unique landmark in the study of human evolution on the Australian continent. Several well-preserved fossils of giant marsupials have also been found here.",
+  "danger": false,
+  "geojson": "willandra-lakes-region.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "szx-kul",
+  "name": "Shenzhen — Kuala Lumpur",
+  "airports": [
+    "SZX",
+    "KUL"
+  ],
+  "distanceKm": 2568,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Shenzhen Airlines",
+    "AirAsia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SZX–KUL route between Shenzhen and Kuala Lumpur. Distance: 2,568 km. ~25 weekly flights operated by Shenzhen Airlines, AirAsia.",
+  "geojson": "szx-kul.geojson"
+}

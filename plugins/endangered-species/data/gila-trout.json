@@ -1,0 +1,19 @@
+{
+  "code": "gila-trout",
+  "name": "Gila Trout",
+  "scientificName": "Oncorhynchus gilae",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~3,000-5,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Cold mountain streams",
+  "threats": [
+    "Hybridization with rainbow trout",
+    "Wildfire",
+    "Habitat degradation",
+    "Drought"
+  ],
+  "conservationEfforts": "Recovered enough to be reclassified from Endangered to Vulnerable. Barrier installation prevents non-native trout invasion. Multiple population reintroductions in historic streams.",
+  "description": "A beautiful golden trout native to the Gila River headwaters in New Mexico and Arizona. It was nearly eliminated by hybridization with introduced rainbow and brown trout.",
+  "geojson": "gila-trout.geojson"
+}

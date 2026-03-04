@@ -1,0 +1,16 @@
+{
+  "code": "donana-national-park",
+  "name": "Doñana National Park",
+  "type": "Natural",
+  "country": "Spain",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Doñana National Park in Andalusia occupies the right bank of the Guadalquivir river at its estuary on the Atlantic Ocean. It is notable for the great diversity of its biotopes, especially lagoons, marshlands, fixed and mobile dunes, scrub woodland and maquis. It is home to five threatened bird species. It is one of the largest heronries in the Mediterranean region and is the wintering site for more than 500,000 water fowl each year.",
+  "danger": false,
+  "geojson": "donana-national-park.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2726111111,
+          48.9696388889
+        ]
+      },
+      "properties": {
+        "code": "holasovice-historic-village",
+        "name": "Holašovice Historic Village",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

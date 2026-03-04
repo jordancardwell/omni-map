@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.535277778,
+          43.94722222
+        ]
+      },
+      "properties": {
+        "code": "pont-du-gard-roman-aqueduct",
+        "name": "Pont du Gard (Roman Aqueduct)",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

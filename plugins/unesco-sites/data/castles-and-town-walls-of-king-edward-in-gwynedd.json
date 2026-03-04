@@ -1,0 +1,16 @@
+{
+  "code": "castles-and-town-walls-of-king-edward-in-gwynedd",
+  "name": "Castles and Town Walls of King Edward in Gwynedd",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The castles of Beaumaris and Harlech (largely the work of the greatest military engineer of the time, James of St George) and the fortified complexes of Caernarfon and Conwy are located in the former principality of Gwynedd, in north Wales. These extremely well-preserved monuments are examples of the colonization and defence works carried out throughout the reign of Edward I (1272–1307) and the military architecture of the time.",
+  "danger": false,
+  "geojson": "castles-and-town-walls-of-king-edward-in-gwynedd.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[6.8697,52.9153]},"properties":{"code":"lofar","name":"Low-Frequency Array","observatoryType":"Radio","status":"Operational","country":"Netherlands"}}]}

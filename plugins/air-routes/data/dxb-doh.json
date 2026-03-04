@@ -1,0 +1,18 @@
+{
+  "code": "dxb-doh",
+  "name": "Dubai — Doha",
+  "airports": [
+    "DXB",
+    "DOH"
+  ],
+  "distanceKm": 378,
+  "weeklyFlights": 140,
+  "airlines": [
+    "Emirates",
+    "Qatar Airways"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DXB–DOH route between Dubai and Doha. Distance: 378 km. ~140 weekly flights operated by Emirates, Qatar Airways.",
+  "geojson": "dxb-doh.geojson"
+}

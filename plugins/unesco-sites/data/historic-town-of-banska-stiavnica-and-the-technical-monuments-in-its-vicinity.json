@@ -1,0 +1,15 @@
+{
+  "code": "historic-town-of-banska-stiavnica-and-the-technical-monuments-in-its-vicinity",
+  "name": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+  "type": "Cultural",
+  "country": "Slovakia",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Over the centuries, the town of Banská Štiavnica was visited by many outstanding engineers and scientists who contributed to its fame. The old medieval mining centre grew into a town with Renaissance palaces, 16th-century churches, elegant squares and castles. The urban centre blends into the surrounding landscape, which contains vital relics of the mining and metallurgical activities of the past.",
+  "danger": false,
+  "geojson": "historic-town-of-banska-stiavnica-and-the-technical-monuments-in-its-vicinity.geojson"
+}

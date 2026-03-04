@@ -1,0 +1,14 @@
+{
+  "code": "dorset-and-east-devon-coast",
+  "name": "Dorset and East Devon Coast",
+  "type": "Natural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The cliff exposures along the Dorset and East Devon coast provide an almost continuous sequence of rock formations spanning the Mesozoic Era, or some 185 million years of the earth's history. The area's important fossil sites and classic coastal geomorphologic features have contributed to the study of earth sciences for over 300 years.",
+  "danger": false,
+  "geojson": "dorset-and-east-devon-coast.geojson"
+}

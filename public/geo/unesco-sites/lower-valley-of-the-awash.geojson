@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.57939,
+          11.10006
+        ]
+      },
+      "properties": {
+        "code": "lower-valley-of-the-awash",
+        "name": "Lower Valley of the Awash",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

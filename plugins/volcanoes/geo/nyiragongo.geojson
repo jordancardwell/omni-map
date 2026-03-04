@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[29.25,-1.52]},"properties":{"code":"nyiragongo","name":"Mount Nyiragongo","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3470,"lastEruption":"2021","vei":1}}]}

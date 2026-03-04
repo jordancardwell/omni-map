@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.13041,
+          29.97604
+        ]
+      },
+      "properties": {
+        "code": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+        "name": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+        "type": "Cultural",
+        "country": "Egypt",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

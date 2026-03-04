@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7416138889,
+          46.48645
+        ]
+      },
+      "properties": {
+        "code": "the-historic-centre-of-odesa",
+        "name": "The Historic Centre of Odesa",
+        "type": "Cultural",
+        "country": "Ukraine",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

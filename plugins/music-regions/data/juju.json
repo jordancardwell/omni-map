@@ -1,0 +1,29 @@
+{
+  "code": "juju",
+  "name": "Jùjú Music",
+  "region": "Yorubaland, Nigeria",
+  "traditionFamily": "West African",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Talking Drum",
+    "Guitar",
+    "Keyboards",
+    "Shekere",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "King Sunny Adé",
+    "Ebenezer Obey",
+    "I.K. Dairo",
+    "Shina Peters",
+    "Dele Ojo"
+  ],
+  "description": "Jùjú is a popular music genre from the Yoruba-speaking regions of Nigeria. Emerging in the 1920s from a fusion of Yoruba percussion with Western instruments, it features the dùndún (talking drum), layered guitars, call-and-response vocals, and praise singing. King Sunny Adé brought jùjú to international audiences in the 1980s with his innovative use of the pedal steel guitar.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Jùjú",
+      "url": "https://folkways.si.edu/search?query=juju+nigeria"
+    }
+  ],
+  "geojson": "juju.geojson"
+}

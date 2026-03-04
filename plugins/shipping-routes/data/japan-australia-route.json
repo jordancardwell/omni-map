@@ -1,0 +1,8 @@
+{
+  "code": "japan-australia-route",
+  "name": "Japan–Australia Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Connects Australian iron ore and coal ports with Japanese steel mills. One of the world's highest-volume bulk shipping corridors.",
+  "geojson": "japan-australia-route.geojson"
+}

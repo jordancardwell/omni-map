@@ -1,0 +1,18 @@
+{
+  "code": "scs-south-china-sea",
+  "name": "SCS (South China Sea)",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3400,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "PLDT, others",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Manila, Philippines",
+    "Brunei"
+  ],
+  "description": "South China Sea submarine cable system.",
+  "geojson": "scs-south-china-sea.geojson"
+}

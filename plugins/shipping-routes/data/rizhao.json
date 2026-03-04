@@ -1,0 +1,14 @@
+{
+  "code": "rizhao",
+  "name": "Port of Rizhao",
+  "country": "China",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 390,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Rizhao in China. Annual cargo throughput: ~390 million tons. Type: Bulk Port.",
+  "geojson": "rizhao.geojson"
+}

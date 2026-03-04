@@ -1,0 +1,20 @@
+{
+  "code": "solomon-islands-reef",
+  "name": "Solomon Islands Reef",
+  "location": "Solomon Islands, South Pacific",
+  "areaKm2": 5750,
+  "reefType": "Fringing",
+  "healthStatus": "Near Threatened",
+  "coralSpecies": 494,
+  "marineSpecies": 1019,
+  "threats": [
+    "Logging-related sedimentation",
+    "Subsistence overfishing",
+    "Climate change",
+    "Crown-of-thorns starfish",
+    "Sea level rise"
+  ],
+  "conservationStatus": "Part of the Coral Triangle. Arnavon Community Marine Conservation Area is the largest in the Pacific. Community-based resource management expanding across provinces.",
+  "description": "The Solomon Islands sit at the eastern edge of the Coral Triangle and harbor extraordinary reef biodiversity. The archipelago's 900+ islands create a complex mosaic of reef habitats, from coastal fringing reefs to oceanic atolls and isolated seamounts.\n\nThe Solomon Islands hold the distinction of having more coral species than any similarly sized area outside of Raja Ampat. Traditional marine tenure systems (tambu areas) have been practiced for centuries and are increasingly recognized as effective conservation tools. The combination of high biodiversity and low population density makes the Solomon Islands one of the most promising areas for reef conservation in the Pacific.",
+  "geojson": "solomon-islands-reef.geojson"
+}

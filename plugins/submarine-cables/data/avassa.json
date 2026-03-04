@@ -1,0 +1,17 @@
+{
+  "code": "avassa",
+  "name": "Avassa",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2500,
+  "yearLaid": 2022,
+  "rfsDate": "2024-06",
+  "owner": "Avassa",
+  "landingPoints": [
+    "Nacala, Mozambique",
+    "Moroni, Comoros",
+    "Toamasina, Madagascar"
+  ],
+  "description": "New cable connecting Mozambique to Madagascar and Comoros.",
+  "geojson": "avassa.geojson"
+}

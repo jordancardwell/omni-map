@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-61.17,14.81]},"properties":{"code":"pelee","name":"Mount Pelée","volcanoType":"Stratovolcano","status":"Dormant","elevation":1397,"lastEruption":"1932","vei":4}}]}

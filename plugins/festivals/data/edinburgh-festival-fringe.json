@@ -1,0 +1,14 @@
+{
+  "code": "edinburgh-festival-fringe",
+  "name": "Edinburgh Festival Fringe",
+  "festivalType": "Cultural",
+  "dateOrSeason": "August",
+  "origin": "Scottish/international tradition",
+  "estimatedAttendance": "3+ million tickets sold",
+  "unescoICH": "Not inscribed",
+  "traditions": "Thousands of performances (comedy, theater, music, dance); street performers on Royal Mile; pop-up venues; late-night shows.",
+  "historicalBackground": "The Fringe began in 1947 when eight theater groups showed up uninvited to the Edinburgh International Festival. It has grown into the world's largest arts festival.",
+  "description": "The world's largest arts festival, transforming Edinburgh into a month-long celebration of theater, comedy, music, and performance.",
+  "location": "Edinburgh, UK",
+  "geojson": "edinburgh-festival-fringe.geojson"
+}

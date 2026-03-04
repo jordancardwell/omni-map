@@ -1,0 +1,26 @@
+{
+  "code": "juan-de-fuca",
+  "name": "Juan de Fuca Plate",
+  "plateClass": "Microplate",
+  "crustType": "Oceanic",
+  "area": 0.25,
+  "movementDirection": "East-Northeast",
+  "movementRate": "40–50",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent"
+  ],
+  "adjacentPlates": [
+    "pacific",
+    "north-american"
+  ],
+  "notableFeatures": [
+    "Cascadia Subduction Zone",
+    "Juan de Fuca Ridge",
+    "Mount St. Helens",
+    "Cascade Volcanic Arc"
+  ],
+  "description": "The Juan de Fuca Plate is a small oceanic plate off the Pacific Northwest coast of North America. Despite its small size, it is critically important because its subduction beneath the North American Plate drives the Cascade Volcanic Arc (including Mount St. Helens, Mount Rainier, and Mount Hood) and is capable of generating magnitude 9+ megathrust earthquakes.",
+  "geologicalHistory": "The Juan de Fuca Plate is a remnant of the once-vast Farallon Plate that has been almost entirely consumed by subduction beneath North America over the past 200 million years. The last great Cascadia earthquake occurred on January 26, 1700, producing a magnitude ~9.0 earthquake and a tsunami that reached Japan. The plate is expected to produce another such earthquake in the future.",
+  "geojson": "juan-de-fuca.geojson"
+}

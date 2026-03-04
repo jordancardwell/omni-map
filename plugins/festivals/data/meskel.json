@@ -1,0 +1,14 @@
+{
+  "code": "meskel",
+  "name": "Meskel",
+  "festivalType": "Religious",
+  "dateOrSeason": "September 27",
+  "origin": "Ethiopian Orthodox Christian",
+  "estimatedAttendance": "Millions across Ethiopia",
+  "unescoICH": "Inscribed 2013",
+  "traditions": "Building and burning massive bonfires (Demera); processions with crosses and flowers; singing and dancing; predicting the coming year from ash patterns.",
+  "historicalBackground": "Meskel commemorates the discovery of the True Cross by Empress Helena in the 4th century. Ethiopian Orthodox tradition holds that a piece was brought to Ethiopia.",
+  "description": "An Ethiopian Orthodox festival commemorating the Finding of the True Cross, celebrated with towering bonfires and colorful processions.",
+  "location": "Addis Ababa, Ethiopia",
+  "geojson": "meskel.geojson"
+}

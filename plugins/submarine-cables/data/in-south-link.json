@@ -1,0 +1,16 @@
+{
+  "code": "in-south-link",
+  "name": "IN South Link",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1145,
+  "yearLaid": 2012,
+  "rfsDate": "2016-06",
+  "owner": "BSNL",
+  "landingPoints": [
+    "Chennai, India",
+    "Cochin, India"
+  ],
+  "description": "IN South Link connecting Chennai to Cochin.",
+  "geojson": "in-south-link.geojson"
+}

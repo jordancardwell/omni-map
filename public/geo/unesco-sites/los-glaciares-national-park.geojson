@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24944,
+          -50.0
+        ]
+      },
+      "properties": {
+        "code": "los-glaciares-national-park",
+        "name": "Los Glaciares National Park",
+        "type": "Natural",
+        "country": "Argentina",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

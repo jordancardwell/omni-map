@@ -1,0 +1,21 @@
+{
+  "code": "alaska",
+  "name": "Alaska Current",
+  "currentType": "Warm",
+  "speedRange": "0.1–0.3 m/s",
+  "origin": "North Pacific Current",
+  "destination": "Gulf of Alaska / Aleutian Islands",
+  "climateEffects": [
+    "Moderates Alaskan coastal climate",
+    "Keeps ports ice-free",
+    "Supports productive fisheries"
+  ],
+  "connectedEcosystems": [
+    "Gulf of Alaska fisheries",
+    "Alaskan kelp forests",
+    "Aleutian marine ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Alaska Current is the northward branch of the North Pacific Current, flowing counterclockwise around the Gulf of Alaska. It carries relatively warm water that keeps southern Alaskan waters productive.",
+  "geojson": "alaska.geojson"
+}

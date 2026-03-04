@@ -1,0 +1,21 @@
+{
+  "code": "abastumani",
+  "name": "Abastumani Astrophysical Observatory",
+  "country": "Georgia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1650,
+  "aperture": "1.25 m",
+  "telescopes": [
+    "1.25m reflector",
+    "70cm meniscus"
+  ],
+  "keyDiscoveries": [
+    "Atmospheric physics",
+    "Polarimetry of stars",
+    "Solar chromosphere studies"
+  ],
+  "location": "Abastumani Astrophysical Observatory, Georgia",
+  "description": "Georgian national observatory in the Lesser Caucasus mountains, founded in 1932. Known for atmospheric physics and stellar polarimetry research.",
+  "geojson": "abastumani.geojson"
+}

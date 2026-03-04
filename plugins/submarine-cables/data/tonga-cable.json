@@ -1,0 +1,16 @@
+{
+  "code": "tonga-cable",
+  "name": "Tonga Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 827,
+  "yearLaid": 2013,
+  "rfsDate": "2013-08",
+  "owner": "Tonga Cable Limited",
+  "landingPoints": [
+    "Suva, Fiji",
+    "Nuku'alofa, Tonga"
+  ],
+  "description": "Tonga's first submarine cable connection.",
+  "geojson": "tonga-cable.geojson"
+}

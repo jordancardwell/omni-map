@@ -1,0 +1,16 @@
+{
+  "code": "fo-no-cable",
+  "name": "FO-NO Cable",
+  "capacityTbps": 25,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15145,
+  "yearLaid": 2019,
+  "rfsDate": "2018-06",
+  "owner": "Faroese Telecom",
+  "landingPoints": [
+    "Tórshavn, Faroe Islands",
+    "Kristiansand, Norway"
+  ],
+  "description": "FO-NO Cable connecting Tórshavn to Kristiansand.",
+  "geojson": "fo-no-cable.geojson"
+}

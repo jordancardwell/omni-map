@@ -1,0 +1,24 @@
+{
+  "code": "idsp-aoraki-mackenzie",
+  "name": "Aoraki Mackenzie Dark Sky Reserve",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Reserve (Gold Tier)",
+  "designationYear": "2012",
+  "areaSqKm": 4367,
+  "visibleObjects": [
+    "Southern Milky Way",
+    "Magellanic Clouds",
+    "Zodiacal light",
+    "Airglow"
+  ],
+  "exampleLocations": [
+    "Lake Tekapo, New Zealand",
+    "Mount John Observatory"
+  ],
+  "nearestDarkSkyReserves": [
+    "Aoraki Mackenzie (this site)"
+  ],
+  "description": "The world's largest International Dark Sky Reserve, located in New Zealand's South Island. The reserve encompasses the Aoraki/Mount Cook National Park and the Mackenzie Basin. Home to the Mount John University Observatory, the reserve achieved Gold Tier status — the highest IDA rating. The Southern Hemisphere skies offer views of the Magellanic Clouds, Southern Cross, and the galactic center at its highest altitude.",
+  "geojson": "idsp-aoraki-mackenzie.geojson"
+}

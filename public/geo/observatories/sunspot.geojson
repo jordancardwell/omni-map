@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8203,32.7872]},"properties":{"code":"sunspot","name":"Sunspot Solar Observatory","observatoryType":"Optical","status":"Operational","country":"United States"}}]}

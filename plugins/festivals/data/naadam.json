@@ -1,0 +1,14 @@
+{
+  "code": "naadam",
+  "name": "Naadam Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "July 11–13",
+  "origin": "Mongolian tradition",
+  "estimatedAttendance": "500,000+ spectators",
+  "unescoICH": "Inscribed 2010",
+  "traditions": "Three manly games: horse racing (children jockeys), wrestling, and archery; ankle-bone shooting; traditional music; airag (fermented mare's milk).",
+  "historicalBackground": "Naadam originated from military exercises of Genghis Khan's warriors. It has been celebrated for centuries as a test of strength and skill on the Mongolian steppe.",
+  "description": "Mongolia's ancient Festival of the Three Manly Games, featuring horse racing, wrestling, and archery in a celebration of nomadic warrior culture.",
+  "location": "Ulaanbaatar, Mongolia",
+  "geojson": "naadam.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "bos-cdg",
+  "name": "Boston — Paris",
+  "airports": [
+    "BOS",
+    "CDG"
+  ],
+  "distanceKm": 5534,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "BOS–CDG route between Boston and Paris. Distance: 5,534 km. ~40 weekly flights operated by Delta.",
+  "geojson": "bos-cdg.geojson"
+}

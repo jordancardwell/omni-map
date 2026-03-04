@@ -1,0 +1,21 @@
+{
+  "code": "mozambique",
+  "name": "Mozambique Current",
+  "currentType": "Warm",
+  "speedRange": "0.5–1.5 m/s",
+  "origin": "South Equatorial Current (Indian Ocean)",
+  "destination": "Agulhas Current",
+  "climateEffects": [
+    "Transports warm water southward",
+    "Influences East African rainfall",
+    "Feeds the Agulhas system"
+  ],
+  "connectedEcosystems": [
+    "Mozambique Channel reefs",
+    "Madagascar marine habitats",
+    "East African mangroves"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Mozambique Current flows southward through the Mozambique Channel between Madagascar and mainland Africa, carrying warm tropical water that feeds into the Agulhas Current.",
+  "geojson": "mozambique.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ancient-building-complex-in-the-wudang-mountains",
+  "name": "Ancient Building Complex in the Wudang Mountains",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The palaces and temples which form the nucleus of this group of secular and religious buildings exemplify the architectural and artistic achievements of China's Yuan, Ming and Qing dynasties. Situated in the scenic valleys and on the slopes of the Wudang mountains in Hubei Province, the site, which was built as an organized complex during the Ming dynasty (14th–17th centuries), contains Taoist buildings from as early as the 7th century. It represents the highest standards of Chinese art and architecture over a period of nearly 1,000 years.",
+  "danger": false,
+  "geojson": "ancient-building-complex-in-the-wudang-mountains.geojson"
+}

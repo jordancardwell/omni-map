@@ -1,0 +1,16 @@
+{
+  "code": "sf-hk-direct",
+  "name": "SF-HK Direct",
+  "capacityTbps": 60,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 12684,
+  "yearLaid": 2015,
+  "rfsDate": "2023-06",
+  "owner": "Google",
+  "landingPoints": [
+    "San Francisco, USA",
+    "Hong Kong, China"
+  ],
+  "description": "SF-HK Direct connecting San Francisco to Hong Kong.",
+  "geojson": "sf-hk-direct.geojson"
+}

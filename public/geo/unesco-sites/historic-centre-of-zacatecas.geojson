@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.573531,
+          22.775484
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-zacatecas",
+        "name": "Historic Centre of Zacatecas",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "forest-owlet",
+  "name": "Forest Owlet",
+  "scientificName": "Athene blewitti",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~250 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Dry deciduous forest",
+  "threats": [
+    "Deforestation",
+    "Habitat fragmentation",
+    "Logging"
+  ],
+  "conservationEfforts": "Rediscovered in 1997 after being considered extinct for 113 years. Protected under Indian Wildlife Act. Research and monitoring of key populations in the Satpura Range.",
+  "description": "Lost to science from 1884 to 1997, this small owl was dramatically rediscovered in Maharashtra, India. It inhabits teak-dominated deciduous forests in central India.",
+  "geojson": "forest-owlet.geojson"
+}

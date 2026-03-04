@@ -1,0 +1,15 @@
+{
+  "code": "arabian-peninsula-basin",
+  "name": "Arabian Peninsula Basin",
+  "region": "Middle East",
+  "stressGroup": "5. Extremely High (>80%)",
+  "waterStressLevel": "Extremely High",
+  "waterStressRatio": "> 95% — near-total dependence on non-renewable sources",
+  "depletionRate": "Critical — fossil aquifers depleting with no recharge",
+  "droughtRisk": "Extreme",
+  "seasonalVariability": "Low",
+  "affectedPopulation": 60000000,
+  "riskFactors": ["Fossil aquifer depletion", "Desalination dependence", "Extreme heat", "Agricultural groundwater mining", "Energy-water nexus"],
+  "description": "The Arabian Peninsula is the most water-stressed large landmass on Earth. Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, Oman, and Yemen rely almost entirely on desalination and non-renewable fossil groundwater. Saudi Arabia exhausted its wheat-irrigation aquifer reserves after depleting an estimated 80% of the Saq-Ram aquifer system. Yemen's capital Sana'a may become the first capital city to run out of water.",
+  "geojson": "arabian-peninsula-basin.geojson"
+}

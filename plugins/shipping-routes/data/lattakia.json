@@ -1,0 +1,14 @@
+{
+  "code": "lattakia",
+  "name": "Port of Lattakia",
+  "country": "Syria",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Lattakia in Syria. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "lattakia.geojson"
+}

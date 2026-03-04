@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9618611111,
+          11.0892222222
+        ]
+      },
+      "properties": {
+        "code": "royal-court-of-tiebele",
+        "name": "Royal Court of Tiébélé",
+        "type": "Cultural",
+        "country": "Burkina Faso",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

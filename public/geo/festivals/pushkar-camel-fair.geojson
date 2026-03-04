@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5511,
+          26.4897
+        ]
+      },
+      "properties": {
+        "code": "pushkar-camel-fair",
+        "name": "Pushkar Camel Fair",
+        "festivalType": "Cultural",
+        "dateOrSeason": "October–November",
+        "location": "Pushkar, India"
+      }
+    }
+  ]
+}

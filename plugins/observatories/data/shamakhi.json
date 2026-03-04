@@ -1,0 +1,21 @@
+{
+  "code": "shamakhi",
+  "name": "Shamakhi Astrophysical Observatory",
+  "country": "Azerbaijan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1435,
+  "aperture": "2 m",
+  "telescopes": [
+    "2m Zeiss",
+    "AZT-8"
+  ],
+  "keyDiscoveries": [
+    "Stellar photometry",
+    "Solar physics",
+    "Lunar occultations"
+  ],
+  "location": "Shamakhi Astrophysical Observatory, Azerbaijan",
+  "description": "The main astronomical observatory of Azerbaijan, located in the Greater Caucasus mountains. Conducts stellar photometry and solar physics research.",
+  "geojson": "shamakhi.geojson"
+}

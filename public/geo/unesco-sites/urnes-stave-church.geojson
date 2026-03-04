@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.322678289,
+          61.2982594908
+        ]
+      },
+      "properties": {
+        "code": "urnes-stave-church",
+        "name": "Urnes Stave Church",
+        "type": "Cultural",
+        "country": "Norway",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

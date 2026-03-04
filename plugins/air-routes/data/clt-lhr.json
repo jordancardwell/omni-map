@@ -1,0 +1,18 @@
+{
+  "code": "clt-lhr",
+  "name": "Charlotte — London",
+  "airports": [
+    "CLT",
+    "LHR"
+  ],
+  "distanceKm": 6410,
+  "weeklyFlights": 30,
+  "airlines": [
+    "American",
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CLT–LHR route between Charlotte and London. Distance: 6,410 km. ~30 weekly flights operated by American, British Airways.",
+  "geojson": "clt-lhr.geojson"
+}

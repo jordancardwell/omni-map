@@ -1,0 +1,19 @@
+{
+  "code": "javan-rhino",
+  "name": "Javan Rhinoceros",
+  "scientificName": "Rhinoceros sondaicus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~76 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Tropical lowland rainforest",
+  "threats": [
+    "Habitat loss",
+    "Disease",
+    "Natural disasters",
+    "Small population size"
+  ],
+  "conservationEfforts": "Confined to Ujung Kulon National Park in Java, Indonesia. Camera traps monitor the population. Plans to establish a second population are underway.",
+  "description": "Once ranging from India to Southeast Asia, the Javan rhino is now restricted to a single national park on the western tip of Java. It is the rarest of the five rhinoceros species.",
+  "geojson": "javan-rhino.geojson"
+}

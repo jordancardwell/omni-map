@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tz","name":"Tanzania","country":"TZ","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[29.3,-11.7],[29.3,-1],[40.4,-1],[40.4,-11.7],[29.3,-11.7]]]}}]}

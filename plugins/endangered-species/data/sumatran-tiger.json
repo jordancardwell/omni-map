@@ -1,0 +1,18 @@
+{
+  "code": "sumatran-tiger",
+  "name": "Sumatran Tiger",
+  "scientificName": "Panthera tigris sumatrae",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~400 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest",
+  "threats": [
+    "Deforestation",
+    "Poaching",
+    "Human-wildlife conflict"
+  ],
+  "conservationEfforts": "Indonesian government expanded protected areas. Anti-poaching patrols in key habitats. TRAFFIC monitors illegal wildlife trade networks.",
+  "description": "The smallest surviving tiger subspecies, found only on the Indonesian island of Sumatra. They have the darkest fur of all tiger subspecies with closely spaced stripes.",
+  "geojson": "sumatran-tiger.geojson"
+}

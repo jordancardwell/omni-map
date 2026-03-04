@@ -1,0 +1,16 @@
+{
+  "code": "minaret-and-archaeological-remains-of-jam",
+  "name": "Minaret and Archaeological Remains of Jam",
+  "type": "Cultural",
+  "country": "Afghanistan",
+  "yearInscribed": "2002",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province.",
+  "danger": true,
+  "geojson": "minaret-and-archaeological-remains-of-jam.geojson"
+}

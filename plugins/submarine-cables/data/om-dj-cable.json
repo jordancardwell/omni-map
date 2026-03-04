@@ -1,0 +1,16 @@
+{
+  "code": "om-dj-cable",
+  "name": "OM-DJ Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 852,
+  "yearLaid": 2012,
+  "rfsDate": "2016-06",
+  "owner": "Omantel",
+  "landingPoints": [
+    "Salalah, Oman",
+    "Djibouti, Djibouti"
+  ],
+  "description": "OM-DJ Cable connecting Salalah to Djibouti in the Middle East.",
+  "geojson": "om-dj-cable.geojson"
+}

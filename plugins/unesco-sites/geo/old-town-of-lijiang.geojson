@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.23333,
+          26.86667
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-lijiang",
+        "name": "Old Town of Lijiang",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

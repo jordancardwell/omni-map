@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681,
+          35.0116
+        ]
+      },
+      "properties": {
+        "code": "gion-matsuri",
+        "name": "Gion Matsuri",
+        "festivalType": "Cultural",
+        "dateOrSeason": "July (entire month)",
+        "location": "Kyoto, Japan"
+      }
+    }
+  ]
+}

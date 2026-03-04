@@ -1,0 +1,16 @@
+{
+  "code": "saex2-south-atlantic-express-2",
+  "name": "SAEx2 (South Atlantic Express 2)",
+  "capacityTbps": 60,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6200,
+  "yearLaid": 2022,
+  "rfsDate": "2024-06",
+  "owner": "SAEx",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Cape Town, South Africa"
+  ],
+  "description": "Second South Atlantic cable connecting Brazil to South Africa.",
+  "geojson": "saex2-south-atlantic-express-2.geojson"
+}

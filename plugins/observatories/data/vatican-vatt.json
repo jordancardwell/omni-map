@@ -1,0 +1,20 @@
+{
+  "code": "vatican-vatt",
+  "name": "Vatican Advanced Technology Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3178,
+  "aperture": "1.83 m",
+  "telescopes": [
+    "VATT"
+  ],
+  "keyDiscoveries": [
+    "Near-Earth asteroids",
+    "Star formation",
+    "Extragalactic studies"
+  ],
+  "location": "Vatican Advanced Technology Telescope, United States",
+  "description": "The Vatican Observatory's research telescope on Mount Graham, Arizona. Operated by the Vatican Observatory Research Group with advanced CCD imaging capabilities.",
+  "geojson": "vatican-vatt.geojson"
+}

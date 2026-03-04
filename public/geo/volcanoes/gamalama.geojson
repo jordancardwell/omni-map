@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[127.325,0.8]},"properties":{"code":"gamalama","name":"Gamalama","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1715,"lastEruption":"2018","vei":2}}]}

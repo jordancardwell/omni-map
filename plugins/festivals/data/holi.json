@@ -1,0 +1,14 @@
+{
+  "code": "holi",
+  "name": "Holi",
+  "festivalType": "Religious",
+  "dateOrSeason": "March (full moon)",
+  "origin": "Hindu tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Throwing colored powders (gulal) and water; bonfires (Holika Dahan) the night before; drinking bhang; singing and dancing; community feasts.",
+  "historicalBackground": "Holi celebrates the triumph of good over evil, particularly Prahlad's devotion over the demoness Holika. It also marks the divine love of Radha and Krishna.",
+  "description": "The Festival of Colors, a joyous Hindu spring celebration where people throw vibrant colored powders and water in exuberant community gatherings.",
+  "location": "Agra, India",
+  "geojson": "holi.geojson"
+}

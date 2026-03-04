@@ -1,0 +1,17 @@
+{
+  "code": "can-nrt",
+  "name": "Guangzhou — Tokyo",
+  "airports": [
+    "CAN",
+    "NRT"
+  ],
+  "distanceKm": 2944,
+  "weeklyFlights": 30,
+  "airlines": [
+    "China Southern"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CAN–NRT route between Guangzhou and Tokyo. Distance: 2,944 km. ~30 weekly flights operated by China Southern.",
+  "geojson": "can-nrt.geojson"
+}

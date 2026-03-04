@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1784535027,
+          -9.5927725444
+        ]
+      },
+      "properties": {
+        "code": "chavin-archaeological-site",
+        "name": "Chavin (Archaeological Site)",
+        "type": "Cultural",
+        "country": "Peru",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

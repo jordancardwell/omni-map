@@ -1,0 +1,16 @@
+{
+  "code": "sz",
+  "name": "Eswatini",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "M"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type M — Three large round pins (South African style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "South African-style plugs.",
+  "geojson": "sz.geojson"
+}

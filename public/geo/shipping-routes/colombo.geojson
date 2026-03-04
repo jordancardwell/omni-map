@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"colombo","name":"Port of Colombo","featureType":"port","portType":"Container Port","country":"Sri Lanka"},"geometry":{"type":"Point","coordinates":[79.85,6.95]}}]}

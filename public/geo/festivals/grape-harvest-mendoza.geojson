@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8458,
+          -32.8895
+        ]
+      },
+      "properties": {
+        "code": "grape-harvest-mendoza",
+        "name": "Fiesta de la Vendimia",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Late February–March",
+        "location": "Mendoza, Argentina"
+      }
+    }
+  ]
+}

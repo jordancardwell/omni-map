@@ -1,0 +1,15 @@
+{
+  "code": "jeju-volcanic-island-and-lava-tubes",
+  "name": "Jeju Volcanic Island and Lava Tubes",
+  "type": "Natural",
+  "country": "Republic of Korea",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Jeju Volcanic Island and Lava Tubes together comprise three sites that make up 18,846 ha. It includes Geomunoreum, regarded as the finest lava tube system of caves anywhere, with its multicoloured carbonate roofs and floors, and dark-coloured lava walls; the fortress-like Seongsan Ilchulbong tuff cone, rising out of the ocean, a dramatic landscape; and Mount Halla, the highest in Korea, with its waterfalls, multi-shaped rock formations, and lake-filled crater. The site, of outstanding aesthetic beauty, also bears testimony to the history of the planet, its features and processes.",
+  "danger": false,
+  "geojson": "jeju-volcanic-island-and-lava-tubes.geojson"
+}

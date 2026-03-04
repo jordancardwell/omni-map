@@ -1,0 +1,17 @@
+{
+  "code": "wallops",
+  "name": "Wallops Flight Facility",
+  "country": "United States",
+  "operator": "NASA / Northrop Grumman",
+  "coordinates": "37.8402°N, 75.4788°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Antares/Cygnus ISS resupply",
+    "Rocket Lab Electron (MARS pad)",
+    "Sounding rockets"
+  ],
+  "orbitalInclinationRange": "38°–60°",
+  "location": "Wallops Flight Facility, United States",
+  "description": "NASA's launch facility on Wallops Island, Virginia. Supports Northrop Grumman Antares ISS resupply missions and various sounding rocket campaigns. Rocket Lab also launches Electron from here.",
+  "geojson": "wallops.geojson"
+}

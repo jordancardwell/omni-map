@@ -1,0 +1,17 @@
+{
+  "code": "tz",
+  "name": "Tanzania",
+  "avgDownloadMbps": 9.4,
+  "avgUploadMbps": 3.4,
+  "avgLatencyMs": 38,
+  "mobileDownloadMbps": 10.8,
+  "mobileUploadMbps": 2.6,
+  "fixedDownloadMbps": 9.4,
+  "fixedUploadMbps": 3.4,
+  "rank": 143,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "East African market developing. ~16% year-over-year growth.",
+  "geojson": "tz.geojson"
+}

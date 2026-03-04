@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.03331,
+          39.78995
+        ]
+      },
+      "properties": {
+        "code": "rock-art-of-the-mediterranean-basin-on-the-iberian-peninsula",
+        "name": "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

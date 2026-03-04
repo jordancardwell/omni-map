@@ -1,0 +1,22 @@
+{
+  "code": "cumbre-vieja",
+  "name": "Cumbre Vieja",
+  "volcanoType": "Fissure vent",
+  "status": "Historically Active",
+  "elevation": 1949,
+  "lastEruption": "2021",
+  "vei": 3,
+  "country": "Spain",
+  "region": "Canary Islands",
+  "location": "Canary Islands, Spain",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Volcanic gases",
+    "Property destruction"
+  ],
+  "eruptionHistory": "The 2021 eruption on La Palma lasted 85 days and destroyed over 2,900 buildings. Lava flows reached the sea creating new land. Previous eruptions in 1971 and 1949.",
+  "description": "The 2021 eruption of Cumbre Vieja on La Palma was the most destructive volcanic eruption in the Canary Islands' history, displacing thousands and burying homes, farms, and infrastructure under lava.",
+  "geojson": "cumbre-vieja.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "murmansk",
+  "name": "Port of Murmansk",
+  "country": "Russia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 55,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Arctic Northern Sea Route"
+  ],
+  "description": "Port of Murmansk in Russia. Annual cargo throughput: ~55 million tons. Type: Multi-Purpose Port.",
+  "geojson": "murmansk.geojson"
+}

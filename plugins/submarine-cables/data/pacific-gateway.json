@@ -1,0 +1,16 @@
+{
+  "code": "pacific-gateway",
+  "name": "Pacific-Gateway",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1075,
+  "yearLaid": 2010,
+  "rfsDate": "2016-06",
+  "owner": "TPG",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Guam"
+  ],
+  "description": "Pacific-Gateway connecting Sydney to Guam in the Pacific.",
+  "geojson": "pacific-gateway.geojson"
+}

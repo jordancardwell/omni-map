@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2225,
+          10.6918
+        ]
+      },
+      "properties": {
+        "code": "carnival-trinidad",
+        "name": "Carnival (Trinidad)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Port of Spain, Trinidad"
+      }
+    }
+  ]
+}

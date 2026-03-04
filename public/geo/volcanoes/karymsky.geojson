@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[159.45,54.05]},"properties":{"code":"karymsky","name":"Karymsky","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":1536,"lastEruption":"2023","vei":3}}]}

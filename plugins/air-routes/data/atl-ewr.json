@@ -1,0 +1,18 @@
+{
+  "code": "atl-ewr",
+  "name": "Atlanta — Newark",
+  "airports": [
+    "ATL",
+    "EWR"
+  ],
+  "distanceKm": 1198,
+  "weeklyFlights": 90,
+  "airlines": [
+    "Delta",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–EWR route between Atlanta and Newark. Distance: 1,198 km. ~90 weekly flights operated by Delta, United.",
+  "geojson": "atl-ewr.geojson"
+}

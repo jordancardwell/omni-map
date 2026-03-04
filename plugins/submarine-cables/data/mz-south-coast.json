@@ -1,0 +1,16 @@
+{
+  "code": "mz-south-coast",
+  "name": "MZ South Coast",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1853,
+  "yearLaid": 2015,
+  "rfsDate": "2015-06",
+  "owner": "TDM",
+  "landingPoints": [
+    "Beira, Mozambique",
+    "Maputo, Mozambique"
+  ],
+  "description": "MZ South Coast connecting Beira to Maputo in East Africa/Indian Ocean.",
+  "geojson": "mz-south-coast.geojson"
+}

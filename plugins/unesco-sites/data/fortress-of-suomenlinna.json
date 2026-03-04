@@ -1,0 +1,14 @@
+{
+  "code": "fortress-of-suomenlinna",
+  "name": "Fortress of Suomenlinna",
+  "type": "Cultural",
+  "country": "Finland",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built in the second half of the 18th century by Sweden on a group of islands located at the entrance of Helsinki's harbour, this fortress is an especially interesting example of European military architecture of the time.",
+  "danger": false,
+  "geojson": "fortress-of-suomenlinna.geojson"
+}

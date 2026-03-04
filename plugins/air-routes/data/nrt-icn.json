@@ -1,0 +1,19 @@
+{
+  "code": "nrt-icn",
+  "name": "Tokyo — Seoul",
+  "airports": [
+    "NRT",
+    "ICN"
+  ],
+  "distanceKm": 1258,
+  "weeklyFlights": 180,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "Korean Air"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "NRT–ICN route between Tokyo and Seoul. Distance: 1,258 km. ~180 weekly flights operated by ANA, JAL, Korean Air.",
+  "geojson": "nrt-icn.geojson"
+}

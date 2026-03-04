@@ -1,0 +1,18 @@
+{
+  "code": "muc-dxb",
+  "name": "Munich — Dubai",
+  "airports": [
+    "MUC",
+    "DXB"
+  ],
+  "distanceKm": 4564,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Lufthansa",
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MUC–DXB route between Munich and Dubai. Distance: 4,564 km. ~35 weekly flights operated by Lufthansa, Emirates.",
+  "geojson": "muc-dxb.geojson"
+}

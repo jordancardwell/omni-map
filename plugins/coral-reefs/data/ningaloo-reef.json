@@ -1,0 +1,20 @@
+{
+  "code": "ningaloo-reef",
+  "name": "Ningaloo Reef",
+  "location": "Western Australia, Australia",
+  "areaKm2": 6045,
+  "reefType": "Fringing",
+  "healthStatus": "Good",
+  "coralSpecies": 300,
+  "marineSpecies": 740,
+  "threats": [
+    "Climate change",
+    "Oil and gas exploration",
+    "Tourism pressure",
+    "Cyclones",
+    "Coral bleaching"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site since 2011. Ningaloo Marine Park protects the reef under both state and commonwealth legislation. Strict zoning with sanctuary zones.",
+  "description": "Ningaloo Reef is one of the longest fringing reefs in the world, stretching 260 km along the remote coast of Western Australia. Unlike most large reef systems, Ningaloo is accessible directly from shore, with coral gardens beginning just meters from the beach.\n\nThe reef is famous for annual aggregations of whale sharks (the world's largest fish), humpback whales, and manta rays. Its relatively pristine condition is attributed to its remote location and low coastal population. Ningaloo is considered one of the healthiest reef systems globally.",
+  "geojson": "ningaloo-reef.geojson"
+}

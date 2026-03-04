@@ -1,0 +1,19 @@
+{
+  "code": "mandarin-duck-scaly",
+  "name": "Scaly-sided Merganser",
+  "scientificName": "Mergus squamatus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~2,500 pairs",
+  "populationTrend": "Decreasing",
+  "habitatType": "Forested river valley",
+  "threats": [
+    "Deforestation",
+    "River disturbance",
+    "Nest site loss",
+    "Bycatch in fishing nets"
+  ],
+  "conservationEfforts": "Russian Far East protected areas. China established nature reserves for breeding populations. Nest box programs supplement natural tree holes. International action plan coordinates conservation.",
+  "description": "One of the world's most endangered ducks, breeding in pristine forested rivers of the Russian Far East and northeastern China. The male has a striking scaled pattern on its flanks.",
+  "geojson": "mandarin-duck-scaly.geojson"
+}

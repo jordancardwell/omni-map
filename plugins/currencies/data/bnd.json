@@ -1,0 +1,16 @@
+{
+  "code": "bnd",
+  "name": "Brunei Dollar",
+  "isoCode": "BND",
+  "symbol": "B$",
+  "region": "Asia",
+  "centralBank": "Autoriti Monetari Brunei Darussalam",
+  "exchangeRateEra": "Pegged to SGD at par",
+  "countries": [
+    "Brunei"
+  ],
+  "countryCount": 1,
+  "description": "The Brunei Dollar is interchangeable with the Singapore Dollar at par. Brunei is one of the world's wealthiest nations per capita due to oil and gas.",
+  "historicalNotes": "Introduced in 1967. The Currency Interchangeability Agreement with Singapore has been in place since 1967.",
+  "geojson": "bnd.geojson"
+}

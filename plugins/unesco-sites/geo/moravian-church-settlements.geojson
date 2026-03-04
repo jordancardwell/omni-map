@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4813888889,
+          55.3555555556
+        ]
+      },
+      "properties": {
+        "code": "moravian-church-settlements",
+        "name": "Moravian Church Settlements",
+        "type": "Cultural",
+        "country": "Denmark, United States of America, United Kingdom of Great Britain and Northern Ireland, Germany",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

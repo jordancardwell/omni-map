@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.865,33.3564]},"properties":{"code":"palomar","name":"Palomar Observatory","observatoryType":"Optical","status":"Operational","country":"United States"}}]}

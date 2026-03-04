@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[131.104,32.8842]},"properties":{"code":"aso","name":"Mount Aso","volcanoType":"Caldera","status":"Erupting/Recent","elevation":1592,"lastEruption":"2021","vei":2}}]}

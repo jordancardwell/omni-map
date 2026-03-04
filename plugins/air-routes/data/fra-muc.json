@@ -1,0 +1,17 @@
+{
+  "code": "fra-muc",
+  "name": "Frankfurt — Munich",
+  "airports": [
+    "FRA",
+    "MUC"
+  ],
+  "distanceKm": 300,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Lufthansa"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "FRA–MUC route between Frankfurt and Munich. Distance: 300 km. ~100 weekly flights operated by Lufthansa.",
+  "geojson": "fra-muc.geojson"
+}

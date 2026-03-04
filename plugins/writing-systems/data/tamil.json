@@ -1,0 +1,18 @@
+{
+  "code": "tamil",
+  "name": "Tamil",
+  "scriptType": "Abugida",
+  "characters": 31,
+  "direction": "LTR",
+  "originDate": "~3rd century BCE",
+  "sampleText": "தமிழ் மொழி இனிமையானது",
+  "relatedScripts": [
+    "telugu",
+    "kannada",
+    "malayalam",
+    "sinhala"
+  ],
+  "description": "The Tamil script is an abugida used for the Tamil language, one of the longest-surviving classical languages. It has 12 vowels, 18 consonants, and a special character (āytam), giving 247 combinations. Tamil script is notable for its rounded letterforms and is one of the oldest scripts still in modern use.",
+  "historicalNotes": "Tamil script descended from the Tamil-Brahmi script (3rd century BCE) through Vatteluttu and Pallava Grantha. The modern form stabilized around the 7th century CE. Tamil has the oldest literature of any Dravidian language, with the Sangam literature dating to 300 BCE – 300 CE. The script was further standardized during the colonial period and in the 20th century for print and digital use.",
+  "geojson": "tamil.geojson"
+}

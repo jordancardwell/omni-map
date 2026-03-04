@@ -1,0 +1,17 @@
+{
+  "code": "archaeological-sites-of-the-island-of-meroe",
+  "name": "Archaeological Sites of the Island of Meroe",
+  "type": "Cultural",
+  "country": "Sudan",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "The Archaeological Sites of the Island of Meroe, a semi-desert landscape between the Nile and Atbara rivers, was the heartland of the Kingdom of Kush, a major power from the 8th century B.C. to the 4th century A.D. The property consists of the royal city of the Kushite kings at Meroe, near the River Nile, the nearby religious site of Naqa and Musawwarat es Sufra. It was the seat of the rulers who occupied Egypt for close to a century and features, among other vestiges, pyramids, temples and domestic buildings as well as major installations connected to water management. Their vast empire extended from the Mediterranean to the heart of Africa, and the property testifies to the exchange between the art, architectures, religions and languages of both regions.",
+  "danger": false,
+  "geojson": "archaeological-sites-of-the-island-of-meroe.geojson"
+}

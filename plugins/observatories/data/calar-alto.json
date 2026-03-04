@@ -1,0 +1,23 @@
+{
+  "code": "calar-alto",
+  "name": "Calar Alto Observatory",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2168,
+  "aperture": "3.5 m",
+  "telescopes": [
+    "3.5m",
+    "2.2m",
+    "1.23m",
+    "CARMENES"
+  ],
+  "keyDiscoveries": [
+    "Exoplanets around M dwarfs (CARMENES)",
+    "Galaxy surveys",
+    "Asteroid tracking"
+  ],
+  "location": "Calar Alto Observatory, Spain",
+  "description": "The largest astronomical observatory in continental Europe, located in Andalusia. The CARMENES spectrograph surveys nearby red dwarfs for exoplanets.",
+  "geojson": "calar-alto.geojson"
+}

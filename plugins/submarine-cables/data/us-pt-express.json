@@ -1,0 +1,16 @@
+{
+  "code": "us-pt-express",
+  "name": "US-PT Express",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11149,
+  "yearLaid": 2020,
+  "rfsDate": "2021-06",
+  "owner": "EllaLink",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Sines, Portugal"
+  ],
+  "description": "US-PT Express connecting Virginia Beach to Sines.",
+  "geojson": "us-pt-express.geojson"
+}

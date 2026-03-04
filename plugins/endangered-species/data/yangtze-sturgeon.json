@@ -1,0 +1,19 @@
+{
+  "code": "yangtze-sturgeon",
+  "name": "Yangtze Sturgeon",
+  "scientificName": "Acipenser dabryanus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Extinct in wild since 2022",
+  "populationTrend": "Decreasing",
+  "habitatType": "Large river (Yangtze)",
+  "threats": [
+    "Dam construction",
+    "Overfishing",
+    "Pollution",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "Declared extinct in the wild in 2022. Captive breeding maintains thousands of individuals. Artificial propagation and release programs continue. Yangtze fishing ban may help if reintroduced.",
+  "description": "Once endemic to the upper and middle Yangtze River, this sturgeon was declared extinct in the wild in 2022 — the same year as the Chinese paddlefish. Dam construction destroyed its spawning habitat.",
+  "geojson": "yangtze-sturgeon.geojson"
+}

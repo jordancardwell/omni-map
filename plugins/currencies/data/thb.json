@@ -1,0 +1,16 @@
+{
+  "code": "thb",
+  "name": "Thai Baht",
+  "isoCode": "THB",
+  "symbol": "฿",
+  "region": "Asia",
+  "centralBank": "Bank of Thailand",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Thailand"
+  ],
+  "countryCount": 1,
+  "description": "The Thai Baht is the currency of Southeast Asia's second-largest economy. Thailand is a major tourism destination and auto manufacturing hub.",
+  "historicalNotes": "The baht has been used since the Sukhothai Kingdom (13th century). Thailand was the epicenter of the 1997 Asian Financial Crisis when it was forced to float the baht, triggering a regional economic meltdown.",
+  "geojson": "thb.geojson"
+}

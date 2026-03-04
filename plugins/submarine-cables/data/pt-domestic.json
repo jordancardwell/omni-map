@@ -1,0 +1,16 @@
+{
+  "code": "pt-domestic",
+  "name": "PT Domestic",
+  "capacityTbps": 17,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2936,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "NOS",
+  "landingPoints": [
+    "Porto, Portugal",
+    "Lisbon, Portugal"
+  ],
+  "description": "PT Domestic connecting Porto to Lisbon in Europe.",
+  "geojson": "pt-domestic.geojson"
+}

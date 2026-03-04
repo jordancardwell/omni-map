@@ -1,0 +1,17 @@
+{
+  "code": "residences-of-the-royal-house-of-savoy",
+  "name": "Residences of the Royal House of Savoy",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "When Emmanuel-Philibert, Duke of Savoy, moved his capital to Turin in 1562, he began a vast series of building projects (continued by his successors) to demonstrate the power of the ruling house. This outstanding complex of buildings, designed and embellished by the leading architects and artists of the time, radiates out into the surrounding countryside from the Royal Palace in the 'Command Area' of Turin to include many country residences and hunting lodges.",
+  "danger": false,
+  "geojson": "residences-of-the-royal-house-of-savoy.geojson"
+}

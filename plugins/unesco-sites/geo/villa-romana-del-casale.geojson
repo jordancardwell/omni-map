@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33417,
+          37.36611
+        ]
+      },
+      "properties": {
+        "code": "villa-romana-del-casale",
+        "name": "Villa Romana del Casale",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

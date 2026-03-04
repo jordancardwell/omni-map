@@ -1,0 +1,488 @@
+[
+  {
+    "code": "bortle-1-excellent-dark",
+    "name": "Excellent Dark Sky Sites",
+    "bortleGroup": "1. Pristine (Class 1-2)",
+    "bortleClass": "Class 1 — Excellent Dark Sky",
+    "skyBrightness": "21.99–22.0 mag/arcsec²",
+    "limitingMagnitude": "7.6–8.0",
+    "milkyWayVisibility": "Spectacular — zodiacal light, gegenschein, and zodiacal band clearly visible; M33 direct-vision naked-eye object",
+    "visibleObjects": [
+      "Zodiacal light",
+      "Gegenschein",
+      "Zodiacal band",
+      "M33 (Triangulum Galaxy)",
+      "Scorpius & Sagittarius star clouds",
+      "Faint Milky Way detail to horizon",
+      "Jupiter & Venus cast shadows"
+    ],
+    "exampleLocations": [
+      "Atacama Desert, Chile",
+      "NamibRand Nature Reserve, Namibia",
+      "Aoraki Mackenzie, New Zealand",
+      "Cherry Springs State Park, USA"
+    ],
+    "nearestDarkSkyReserves": [
+      "Aoraki Mackenzie International Dark Sky Reserve",
+      "NamibRand International Dark Sky Reserve"
+    ],
+    "description": "The darkest skies on Earth, found only in remote areas far from any human settlement. The Milky Way casts visible shadows, and the zodiacal light is bright enough to illuminate the landscape. The sky appears 'busy' with stars — faint stars are visible down to the very horizon. These pristine conditions are increasingly rare, found primarily in high-altitude deserts, remote oceanic islands, and designated dark sky reserves. Only about 1% of the world's population has regular access to Class 1 skies.",
+    "geojson": "bortle-1-excellent-dark.geojson"
+  },
+  {
+    "code": "bortle-2-typical-dark",
+    "name": "Typical Dark Sky Sites",
+    "bortleGroup": "1. Pristine (Class 1-2)",
+    "bortleClass": "Class 2 — Typical Dark Sky",
+    "skyBrightness": "21.89–21.99 mag/arcsec²",
+    "limitingMagnitude": "7.1–7.5",
+    "milkyWayVisibility": "Excellent — Milky Way highly structured with dark lanes; zodiacal light bright and obvious",
+    "visibleObjects": [
+      "Zodiacal light (easily visible)",
+      "M31 obvious naked-eye",
+      "Summer Milky Way dark lanes",
+      "Faintest stars to horizon",
+      "Airglow may be visible"
+    ],
+    "exampleLocations": [
+      "Big Bend National Park, USA",
+      "Pic du Midi, France",
+      "Galloway Forest, Scotland",
+      "Jasper National Park, Canada"
+    ],
+    "nearestDarkSkyReserves": [
+      "Mont-Mégantic International Dark Sky Reserve",
+      "Galloway Forest Dark Sky Park"
+    ],
+    "description": "Excellent dark skies found in rural areas at significant distance from any towns. The zodiacal light is clearly visible and quite bright. The Milky Way shows extensive structure with dark lanes and bright star clouds. Airglow (a faint natural glow of the upper atmosphere) may be visible as gentle undulations. These skies are typically found 50-100 km from the nearest significant population center. Many national parks and designated dark sky areas offer Class 2 conditions on clear moonless nights.",
+    "geojson": "bortle-2-typical-dark.geojson"
+  },
+  {
+    "code": "bortle-3-rural",
+    "name": "Rural Sky",
+    "bortleGroup": "2. Rural (Class 3-4)",
+    "bortleClass": "Class 3 — Rural Sky",
+    "skyBrightness": "21.69–21.89 mag/arcsec²",
+    "limitingMagnitude": "6.6–7.0",
+    "milkyWayVisibility": "Very good — Milky Way still appears complex and structured; some light domes visible on horizon",
+    "visibleObjects": [
+      "M15, M4 globulars (naked eye)",
+      "Milky Way structure",
+      "Light domes on horizon",
+      "M31 conspicuous",
+      "Zodiacal light in spring/autumn"
+    ],
+    "exampleLocations": [
+      "Rural Midwest USA",
+      "Central Spain",
+      "Rural Norway",
+      "Outback Queensland, Australia"
+    ],
+    "nearestDarkSkyReserves": [
+      "Kerry International Dark Sky Reserve",
+      "Brecon Beacons Dark Sky Reserve"
+    ],
+    "description": "Good quality rural skies where some light pollution is evident low on the horizon as light domes over distant towns. The Milky Way appears broad and complex overhead but may fade near the horizon in the direction of population centers. Globular clusters and bright Messier objects are accessible with the naked eye. These conditions are found across much of rural Earth — agricultural areas, small-town surroundings, and large undeveloped regions. About 10-15% of the global population lives under Class 3 skies.",
+    "geojson": "bortle-3-rural.geojson"
+  },
+  {
+    "code": "bortle-4-rural-suburban",
+    "name": "Rural/Suburban Transition",
+    "bortleGroup": "2. Rural (Class 3-4)",
+    "bortleClass": "Class 4 — Rural/Suburban Transition",
+    "skyBrightness": "21.25–21.69 mag/arcsec²",
+    "limitingMagnitude": "6.1–6.5",
+    "milkyWayVisibility": "Good — Milky Way still obvious but losing detail; light domes prominent in several directions",
+    "visibleObjects": [
+      "Milky Way visible but muted",
+      "M31 visible",
+      "Zodiacal light faint",
+      "Light pollution domes in multiple directions"
+    ],
+    "exampleLocations": [
+      "Exurban USA",
+      "Rural UK villages",
+      "Southern France countryside",
+      "Rural Japan"
+    ],
+    "nearestDarkSkyReserves": [
+      "Exmoor National Park Dark Sky Reserve",
+      "Zselic Starry Sky Park"
+    ],
+    "description": "Transitional skies between rural and suburban environments. The Milky Way is visible overhead but is losing fine detail and is notably degraded near the horizon. Light pollution domes from nearby towns and cities are visible in multiple directions. The zodiacal light is barely detectable. This is the threshold where untrained observers begin to notice the night sky is not fully dark. Common in exurban areas, large villages, and the outskirts of small cities. These skies represent the best conditions available to many amateur astronomers.",
+    "geojson": "bortle-4-rural-suburban.geojson"
+  },
+  {
+    "code": "bortle-5-suburban",
+    "name": "Suburban Sky",
+    "bortleGroup": "3. Suburban (Class 5-6)",
+    "bortleClass": "Class 5 — Suburban Sky",
+    "skyBrightness": "20.49–21.25 mag/arcsec²",
+    "limitingMagnitude": "5.6–6.0",
+    "milkyWayVisibility": "Marginal — Milky Way visible overhead only on best nights; washed out near horizon",
+    "visibleObjects": [
+      "Milky Way (overhead only, faint)",
+      "Bright Messier objects",
+      "Bright planets obvious",
+      "Only brightest stars near horizon"
+    ],
+    "exampleLocations": [
+      "Outer suburbs of medium cities",
+      "Small towns near highways",
+      "Suburban Connecticut, USA",
+      "Outer suburbs of European cities"
+    ],
+    "nearestDarkSkyReserves": [
+      "South Downs National Park Dark Sky Reserve",
+      "Cranborne Chase Dark Sky"
+    ],
+    "description": "Typical suburban skies. The Milky Way is only marginally visible overhead on the clearest nights and is invisible near the horizon. Only the brightest deep-sky objects can be detected with the naked eye. Light pollution creates a noticeable overall sky glow, and clouds are noticeably brighter than the sky background. This is the most common sky quality for suburban residents in developed countries. About 30% of the global population lives under Class 5 skies. The naked-eye star count drops from thousands in dark skies to roughly 500-1000 visible stars.",
+    "geojson": "bortle-5-suburban.geojson"
+  },
+  {
+    "code": "bortle-6-bright-suburban",
+    "name": "Bright Suburban Sky",
+    "bortleGroup": "3. Suburban (Class 5-6)",
+    "bortleClass": "Class 6 — Bright Suburban Sky",
+    "skyBrightness": "19.50–20.49 mag/arcsec²",
+    "limitingMagnitude": "5.1–5.5",
+    "milkyWayVisibility": "Very faint — only brightest section above Sagittarius/Scorpius may be glimpsed on best nights",
+    "visibleObjects": [
+      "Bright planets",
+      "Brightest stars only",
+      "M45 (Pleiades) barely visible",
+      "Moon shadows obvious"
+    ],
+    "exampleLocations": [
+      "Inner suburbs of major cities",
+      "Medium-sized cities",
+      "Suburban Tokyo fringe",
+      "Suburban London fringe"
+    ],
+    "nearestDarkSkyReserves": [
+      "Northumberland International Dark Sky Park",
+      "Snowdonia Dark Sky Reserve"
+    ],
+    "description": "Typical inner suburban skies where the Milky Way is essentially invisible except for the very brightest section on the clearest nights. The sky glow is obvious in all directions, and the sky background near the zenith has a distinctly grayish or washed-out tone compared to true dark skies. Naked-eye star counts are reduced to a few hundred. Most deep-sky observing requires binoculars or telescopes. This is a very common environment for residents of large metropolitan areas worldwide.",
+    "geojson": "bortle-6-bright-suburban.geojson"
+  },
+  {
+    "code": "bortle-7-suburban-urban",
+    "name": "Suburban/Urban Transition",
+    "bortleGroup": "4. Urban (Class 7-8)",
+    "bortleClass": "Class 7 — Suburban/Urban Transition",
+    "skyBrightness": "18.94–19.50 mag/arcsec²",
+    "limitingMagnitude": "4.6–5.0",
+    "milkyWayVisibility": "Invisible — Milky Way completely invisible to naked eye",
+    "visibleObjects": [
+      "Bright planets only",
+      "Brightest constellations recognizable",
+      "M45 invisible to most",
+      "Orion's Belt visible"
+    ],
+    "exampleLocations": [
+      "Medium city centers",
+      "Dense suburbs of major metros",
+      "Suburban Seoul",
+      "Birmingham, UK suburbs"
+    ],
+    "nearestDarkSkyReserves": [
+      "Brecon Beacons International Dark Sky Reserve",
+      "Eifel National Park Dark Sky"
+    ],
+    "description": "Skies typical of the transition zone between suburbs and urban areas. The Milky Way is completely invisible. The sky background is a uniform grayish-white glow. Only the brightest constellations are recognizable, and fainter stars in familiar patterns are missing. Clouds are brilliantly lit from below and are brighter than the sky background. The night sky never appears truly dark. This represents the experience of roughly 25% of humanity, particularly in the dense suburbs and exurbs of major metropolitan areas.",
+    "geojson": "bortle-7-suburban-urban.geojson"
+  },
+  {
+    "code": "bortle-8-city",
+    "name": "City Sky",
+    "bortleGroup": "4. Urban (Class 7-8)",
+    "bortleClass": "Class 8 — City Sky",
+    "skyBrightness": "18.38–18.94 mag/arcsec²",
+    "limitingMagnitude": "4.1–4.5",
+    "milkyWayVisibility": "None — entire sky is brightly lit; only bright planets and a few dozen stars visible",
+    "visibleObjects": [
+      "Bright planets (Venus, Jupiter, Mars)",
+      "Orion, Ursa Major recognizable",
+      "Moon always obvious",
+      "~50 stars visible"
+    ],
+    "exampleLocations": [
+      "City centers of large cities",
+      "Central Los Angeles",
+      "Central Delhi",
+      "Downtown Chicago"
+    ],
+    "nearestDarkSkyReserves": [
+      "Cherry Springs State Park (300km)",
+      "Big Bend National Park (1000km)"
+    ],
+    "description": "Typical city skies. The sky glows white or orange-white. Only the brightest stars — perhaps 50 — are visible even on clear nights. Familiar constellations like Orion are recognizable but incomplete, missing fainter component stars. The sky is bright enough to read by in many areas. Deep-sky astronomy is essentially impossible without electronic aids. This is the normal experience for most urban dwellers worldwide. Over 2 billion people live under Class 8 or worse skies. Artificial lighting from street lamps, buildings, and signage completely dominates the natural sky.",
+    "geojson": "bortle-8-city.geojson"
+  },
+  {
+    "code": "bortle-9-inner-city",
+    "name": "Inner-City Sky",
+    "bortleGroup": "5. Inner City (Class 9)",
+    "bortleClass": "Class 9 — Inner-City Sky",
+    "skyBrightness": "< 18.38 mag/arcsec²",
+    "limitingMagnitude": "3.0–4.0",
+    "milkyWayVisibility": "None — sky glows bright enough that many people have never seen the Milky Way",
+    "visibleObjects": [
+      "Moon",
+      "Venus, Jupiter, Mars when bright",
+      "Sirius",
+      "~20 brightest stars"
+    ],
+    "exampleLocations": [
+      "Manhattan, New York",
+      "Central London",
+      "Central Tokyo",
+      "Hong Kong Central",
+      "Singapore"
+    ],
+    "nearestDarkSkyReserves": [
+      "Cherry Springs State Park (400km from NYC)",
+      "Brecon Beacons (250km from London)"
+    ],
+    "description": "The most light-polluted skies on Earth, found in the centers of major cities. Only the Moon, bright planets, and a handful of first-magnitude stars (Sirius, Vega, Arcturus) are visible. The entire sky is uniformly bright — orange, white, or bluish depending on local lighting technology. Many urban residents have never seen the Milky Way and may never have seen more than a dozen stars. The night sky provides virtually no astronomical information to the unaided observer. Over 1 billion people live under Class 9 conditions. LED lighting conversion in many cities is actually worsening blue-light sky glow despite energy savings.",
+    "geojson": "bortle-9-inner-city.geojson"
+  },
+  {
+    "code": "idsp-aoraki-mackenzie",
+    "name": "Aoraki Mackenzie Dark Sky Reserve",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Reserve (Gold Tier)",
+    "designationYear": "2012",
+    "areaSqKm": 4367,
+    "visibleObjects": [
+      "Southern Milky Way",
+      "Magellanic Clouds",
+      "Zodiacal light",
+      "Airglow"
+    ],
+    "exampleLocations": [
+      "Lake Tekapo, New Zealand",
+      "Mount John Observatory"
+    ],
+    "nearestDarkSkyReserves": [
+      "Aoraki Mackenzie (this site)"
+    ],
+    "description": "The world's largest International Dark Sky Reserve, located in New Zealand's South Island. The reserve encompasses the Aoraki/Mount Cook National Park and the Mackenzie Basin. Home to the Mount John University Observatory, the reserve achieved Gold Tier status — the highest IDA rating. The Southern Hemisphere skies offer views of the Magellanic Clouds, Southern Cross, and the galactic center at its highest altitude.",
+    "geojson": "idsp-aoraki-mackenzie.geojson"
+  },
+  {
+    "code": "idsp-atacama",
+    "name": "ALMA Observatory & Atacama Dark Sky",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "Protected Astronomical Zone",
+    "designationYear": "1998",
+    "areaSqKm": 45000,
+    "visibleObjects": [
+      "Milky Way (exceptional)",
+      "Magellanic Clouds",
+      "Zodiacal light",
+      "Gegenschein",
+      "Canopus at zenith"
+    ],
+    "exampleLocations": [
+      "Atacama Desert, Chile",
+      "ALMA Observatory",
+      "Paranal Observatory"
+    ],
+    "nearestDarkSkyReserves": [
+      "Atacama Protected Zone (this site)"
+    ],
+    "description": "Chile's Atacama Desert hosts the highest concentration of professional observatories on Earth, including ALMA, Paranal (VLT), and La Silla. Chilean law protects an enormous zone from light pollution — the Norma Lumínica regulates outdoor lighting across northern Chile. At 5,000 meters altitude, ALMA operates in some of the driest and darkest conditions achievable from Earth's surface. The Atacama is arguably the single best astronomical observing site on the planet, combining dark skies, stable atmosphere, extreme aridity, and high altitude.",
+    "geojson": "idsp-atacama.geojson"
+  },
+  {
+    "code": "idsp-big-bend",
+    "name": "Big Bend National Park",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Park",
+    "designationYear": "2012",
+    "areaSqKm": 3242,
+    "visibleObjects": [
+      "Milky Way",
+      "Zodiacal light",
+      "Bright nebulae",
+      "Omega Centauri (low horizon)"
+    ],
+    "exampleLocations": [
+      "Big Bend National Park, Texas, USA"
+    ],
+    "nearestDarkSkyReserves": [
+      "Big Bend (this site)",
+      "McDonald Observatory"
+    ],
+    "description": "Located in a remote corner of West Texas along the Mexican border, Big Bend is one of the least light-polluted national parks in the contiguous United States. The park's remoteness — the nearest significant city is over 300 km away — produces consistently dark skies. Its southern latitude allows views of celestial objects rarely seen from northern locations, including Omega Centauri and the Southern Cross (briefly visible on the southern horizon). The park records some of the lowest measured sky brightness readings in North America.",
+    "geojson": "idsp-big-bend.geojson"
+  },
+  {
+    "code": "idsp-brecon-beacons",
+    "name": "Brecon Beacons Dark Sky Reserve",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Reserve",
+    "designationYear": "2013",
+    "areaSqKm": 1347,
+    "visibleObjects": [
+      "Milky Way",
+      "Andromeda Galaxy",
+      "Bright nebulae",
+      "Star clusters"
+    ],
+    "exampleLocations": [
+      "Brecon Beacons National Park, Wales"
+    ],
+    "nearestDarkSkyReserves": [
+      "Brecon Beacons (this site)",
+      "Snowdonia Dark Sky Reserve"
+    ],
+    "description": "Wales's Brecon Beacons National Park became the first International Dark Sky Reserve in Wales and one of only a handful worldwide. Despite being relatively close to Cardiff and Swansea, the park's mountainous terrain and active light-management programs maintain dark conditions in the core zones. The reserve has become a model for balancing dark sky preservation with proximity to urban populations, demonstrating that meaningful dark sky access can be preserved even in densely populated regions.",
+    "geojson": "idsp-brecon-beacons.geojson"
+  },
+  {
+    "code": "idsp-cherry-springs",
+    "name": "Cherry Springs State Park",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Park (Gold Tier)",
+    "designationYear": "2008",
+    "areaSqKm": 19,
+    "visibleObjects": [
+      "Milky Way",
+      "Andromeda Galaxy",
+      "Triangulum Galaxy (naked eye)",
+      "Zodiacal light"
+    ],
+    "exampleLocations": [
+      "Potter County, Pennsylvania, USA"
+    ],
+    "nearestDarkSkyReserves": [
+      "Cherry Springs (this site)"
+    ],
+    "description": "One of the darkest locations in the eastern United States, located on a mountaintop in Pennsylvania's Susquehannock State Forest. Despite being within a day's drive of 60 million people, the park's 2,300-foot elevation and surrounding forestland create surprisingly dark skies. It is a major destination for amateur astronomers from the US East Coast and hosts star parties drawing thousands of participants throughout the summer months.",
+    "geojson": "idsp-cherry-springs.geojson"
+  },
+  {
+    "code": "idsp-galloway-forest",
+    "name": "Galloway Forest Dark Sky Park",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "Dark Sky Park",
+    "designationYear": "2009",
+    "areaSqKm": 780,
+    "visibleObjects": [
+      "Milky Way",
+      "Andromeda Galaxy",
+      "Star clusters",
+      "Bright nebulae"
+    ],
+    "exampleLocations": [
+      "Galloway Forest Park, Scotland"
+    ],
+    "nearestDarkSkyReserves": [
+      "Galloway Forest (this site)"
+    ],
+    "description": "The UK's first Dark Sky Park, located in the forested hills of southwest Scotland. Galloway Forest demonstrates that exceptional dark skies can persist even in a relatively densely populated island nation. The park's distance from Glasgow, Edinburgh, and other Scottish cities, combined with the low population density of Dumfries and Galloway, preserves Class 2-3 conditions in the core areas. The park has catalyzed the UK's dark sky movement, inspiring numerous subsequent designations across Britain and Ireland.",
+    "geojson": "idsp-galloway-forest.geojson"
+  },
+  {
+    "code": "idsp-jasper",
+    "name": "Jasper Dark Sky Preserve",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "Dark Sky Preserve",
+    "designationYear": "2011",
+    "areaSqKm": 11228,
+    "visibleObjects": [
+      "Milky Way",
+      "Northern lights (aurora)",
+      "Andromeda Galaxy",
+      "Deep-sky objects"
+    ],
+    "exampleLocations": [
+      "Jasper National Park, Alberta, Canada"
+    ],
+    "nearestDarkSkyReserves": [
+      "Jasper (this site)"
+    ],
+    "description": "The largest accessible dark sky preserve in the world, encompassing the entirety of Jasper National Park in the Canadian Rockies. The preserve hosts the annual Jasper Dark Sky Festival, one of the largest astronomical events in Canada. Its high latitude also makes it a premier aurora viewing location. The combination of mountain scenery, dark skies, and northern lights draws visitors from around the world and has become a significant contributor to the local tourism economy.",
+    "geojson": "idsp-jasper.geojson"
+  },
+  {
+    "code": "idsp-kerry",
+    "name": "Kerry International Dark Sky Reserve",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Reserve (Gold Tier)",
+    "designationYear": "2014",
+    "areaSqKm": 700,
+    "visibleObjects": [
+      "Milky Way",
+      "Andromeda Galaxy",
+      "Star clusters",
+      "Bright nebulae"
+    ],
+    "exampleLocations": [
+      "Iveragh Peninsula, County Kerry, Ireland"
+    ],
+    "nearestDarkSkyReserves": [
+      "Kerry (this site)"
+    ],
+    "description": "Located on the Iveragh Peninsula in southwest Ireland, this Gold Tier reserve benefits from its position on the Atlantic coast — with nothing but ocean to the west and south, there are zero artificial light sources in those directions. The reserve was the first Gold Tier designation outside North America. The combination of Atlantic air clarity and remote coastal position creates surprisingly pristine skies for such a northerly, oceanic location. The Dark Sky Reserve has become a major tourism draw for the Wild Atlantic Way.",
+    "geojson": "idsp-kerry.geojson"
+  },
+  {
+    "code": "idsp-namib-rand",
+    "name": "NamibRand Nature Reserve",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Reserve (Gold Tier)",
+    "designationYear": "2012",
+    "areaSqKm": 2023,
+    "visibleObjects": [
+      "Milky Way core",
+      "Zodiacal light",
+      "Magellanic Clouds",
+      "Gegenschein"
+    ],
+    "exampleLocations": [
+      "NamibRand, Namibia",
+      "Sossusvlei region"
+    ],
+    "nearestDarkSkyReserves": [
+      "NamibRand (this site)"
+    ],
+    "description": "Africa's first International Dark Sky Reserve, located in the southern Namib Desert. The reserve is surrounded by vast uninhabited desert, providing some of the darkest measured skies on Earth. The combination of low humidity, high altitude, and extreme remoteness produces Class 1 Bortle conditions. The reserve is a model for combining conservation and astrotourism, welcoming thousands of visitors annually who come to experience pristine southern-hemisphere skies.",
+    "geojson": "idsp-namib-rand.geojson"
+  },
+  {
+    "code": "idsp-pic-du-midi",
+    "name": "Pic du Midi Dark Sky Reserve",
+    "bortleGroup": "6. Dark Sky Places",
+    "bortleClass": "International Dark Sky Place",
+    "designation": "International Dark Sky Reserve",
+    "designationYear": "2013",
+    "areaSqKm": 3112,
+    "visibleObjects": [
+      "Milky Way",
+      "Andromeda Galaxy",
+      "Deep-sky objects",
+      "Alpine airglow"
+    ],
+    "exampleLocations": [
+      "Pic du Midi Observatory, French Pyrenees"
+    ],
+    "nearestDarkSkyReserves": [
+      "Pic du Midi (this site)"
+    ],
+    "description": "Located in the French Pyrenees at 2,877 meters altitude, this reserve surrounds the historic Pic du Midi de Bigorre Observatory. The high altitude, clean mountain air, and distance from major light sources produce exceptional astronomical seeing and dark skies. The observatory has been in operation since 1878 and was used to create detailed lunar maps for the Apollo program. Today it serves both professional astronomy and public outreach as a premier dark sky destination in Europe.",
+    "geojson": "idsp-pic-du-midi.geojson"
+  }
+]

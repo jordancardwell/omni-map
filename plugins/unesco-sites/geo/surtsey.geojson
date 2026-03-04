@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6022222222,
+          63.3030555556
+        ]
+      },
+      "properties": {
+        "code": "surtsey",
+        "name": "Surtsey",
+        "type": "Natural",
+        "country": "Iceland",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

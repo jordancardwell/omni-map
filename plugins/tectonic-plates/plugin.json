@@ -1,0 +1,40 @@
+{
+  "id": "tectonic-plates",
+  "name": "Tectonic Plates",
+  "description": "Major and minor tectonic plate boundaries and geological features",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#D97706",
+  "categories": ["geology", "earth-science"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Geology & Earth Science",
+  "thumbnail": "#D97706",
+  "schema": "TectonicPlateMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "plateClass", "crustType", "notableFeatures"],
+    "groupBy": "plateClass",
+    "titleField": "name",
+    "subtitleField": "crustType",
+    "badgeField": "area",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "plateClass"
+  },
+  "detailFields": [
+    { "key": "plateClass", "label": "Classification", "type": "text" },
+    { "key": "crustType", "label": "Crust Type", "type": "text" },
+    { "key": "area", "label": "Area (million km²)", "type": "number" },
+    { "key": "movementDirection", "label": "Movement Direction", "type": "text" },
+    { "key": "movementRate", "label": "Movement Rate (mm/year)", "type": "text" },
+    { "key": "boundaryTypes", "label": "Boundary Types", "type": "tags" },
+    { "key": "adjacentPlates", "label": "Adjacent Plates", "type": "tags", "referenceItems": true },
+    { "key": "notableFeatures", "label": "Notable Features", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "geologicalHistory", "label": "Geological History", "type": "markdown" }
+  ]
+}

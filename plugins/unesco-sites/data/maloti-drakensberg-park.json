@@ -1,0 +1,17 @@
+{
+  "code": "maloti-drakensberg-park",
+  "name": "Maloti-Drakensberg Park",
+  "type": "Mixed",
+  "country": "Lesotho, South Africa",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The Maloti-Drakensberg Park is a transnational property composed of the uKhahlamba Drakensberg National Park in South Africa and the Sehlathebe National Park in Lesotho. The site has exceptional natural beauty in its soaring basaltic buttresses, incisive dramatic cutbacks, and golden sandstone ramparts as well as visually spectacular sculptured arches, caves, cliffs, pillars and rock pools. The site's diversity of habitats protects a high level of endemic and globally important plants. The site harbors endangered species such as the Cape vulture (Gyps coprotheres) and the bearded vulture (Gypaetus barbatus). Lesotho’s Sehlabathebe National Park also harbors the Maloti minnow (Pseudobarbus quathlambae), a critically endangered fish species only found in this park. This spectacular natural site contains many caves and rock-shelters with the largest and most concentrated group of paintings in Africa south of the Sahara. They represent the spiritual life of the San people, who lived in this area over a period of 4,000 years.",
+  "danger": false,
+  "geojson": "maloti-drakensberg-park.geojson"
+}

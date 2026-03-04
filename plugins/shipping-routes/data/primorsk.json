@@ -1,0 +1,14 @@
+{
+  "code": "primorsk",
+  "name": "Port of Primorsk",
+  "country": "Russia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 60,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Primorsk in Russia. Annual cargo throughput: ~60 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "primorsk.geojson"
+}

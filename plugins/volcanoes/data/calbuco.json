@@ -1,0 +1,21 @@
+{
+  "code": "calbuco",
+  "name": "Calbuco",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 2003,
+  "lastEruption": "2015",
+  "vei": 4,
+  "country": "Chile",
+  "region": "Los Lagos",
+  "location": "Los Lagos, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Erupted dramatically in April 2015 after 43 years of quiet. The explosive eruption produced spectacular lightning-filled ash plumes.",
+  "description": "Calbuco's stunning 2015 eruption was captured in dramatic photographs showing volcanic lightning. The eruption forced evacuation of thousands in the Los Lagos region.",
+  "geojson": "calbuco.geojson"
+}

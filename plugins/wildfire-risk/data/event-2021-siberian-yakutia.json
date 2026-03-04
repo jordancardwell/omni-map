@@ -1,0 +1,12 @@
+{
+  "code": "event-2021-siberian-yakutia",
+  "name": "2021 Yakutia Megafires",
+  "region": "Sakha Republic, Russia",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2021",
+  "areaBurned": 17400000,
+  "cause": "Extreme Arctic heatwave, drought, lightning",
+  "description": "In the summer of 2021, the Sakha Republic (Yakutia) in eastern Siberia experienced its worst wildfire season in recorded history. Fires burned 17.4 million hectares — an area the size of Uruguay — as temperatures reached 39°C in a region that typically averages 20°C in summer. Smoke from the fires was detected at the North Pole for the first time in recorded history. The fires burned through boreal forests, releasing vast amounts of carbon from both trees and thawing permafrost soils, estimated at 800 million tonnes of CO₂ equivalent.",
+  "geojson": "event-2021-siberian-yakutia.geojson"
+}

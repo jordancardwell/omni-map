@@ -1,0 +1,29 @@
+{
+  "code": "christianity",
+  "name": "Christianity",
+  "family": "Abrahamic",
+  "foundingPeriod": "1st century CE",
+  "adherents": {
+    "estimated": 2400000000,
+    "percentWorld": "31.1%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["Europe", "Americas", "Sub-Saharan Africa", "Oceania", "Philippines"],
+  "denominations": [
+    "Roman Catholic",
+    "Eastern Orthodox",
+    "Protestant",
+    "Anglican",
+    "Oriental Orthodox",
+    "Pentecostal",
+    "Evangelical",
+    "Methodist",
+    "Baptist",
+    "Lutheran",
+    "Presbyterian",
+    "Coptic"
+  ],
+  "description": "Christianity is the world's largest religion, based on the teachings of Jesus of Nazareth. Central tenets include the belief in one God, the divinity of Jesus Christ, his crucifixion and resurrection, and salvation through faith. The Bible, comprising the Old and New Testaments, serves as the primary sacred text.",
+  "historicalNotes": "Christianity emerged in the 1st century CE in Roman-era Judea. It spread through the Roman Empire, becoming the state religion under Emperor Theodosius I in 380 CE. The Great Schism of 1054 split the church into Roman Catholic and Eastern Orthodox branches. The Protestant Reformation, initiated by Martin Luther in 1517, further diversified the faith. European colonialism from the 15th century onward spread Christianity globally, particularly to the Americas, Africa, and Asia.",
+  "geojson": "christianity.geojson"
+}

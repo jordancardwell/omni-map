@@ -1,0 +1,14 @@
+{
+  "code": "cherry-blossom-japan",
+  "name": "Hanami (Cherry Blossom Viewing)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Late March–April",
+  "origin": "Japanese tradition",
+  "estimatedAttendance": "Tens of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Picnics under cherry trees; sake drinking; nighttime illumination (yozakura); sakura forecasts; temporary food stalls.",
+  "historicalBackground": "Hanami dates to the Nara period (710–794 CE) when plum blossoms were favored. Cherry blossoms (sakura) became dominant during the Heian period.",
+  "description": "Japan's beloved spring tradition of gathering beneath cherry blossom trees for picnics, poetry, and the fleeting beauty of sakura.",
+  "location": "Tokyo, Japan",
+  "geojson": "cherry-blossom-japan.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sf-tk-express",
+  "name": "SF-TK Express",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 11448,
+  "yearLaid": 2010,
+  "rfsDate": "2022-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "San Francisco, USA",
+    "Tokyo, Japan"
+  ],
+  "description": "SF-TK Express connecting San Francisco to Tokyo.",
+  "geojson": "sf-tk-express.geojson"
+}

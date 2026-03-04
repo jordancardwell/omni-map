@@ -1,0 +1,16 @@
+{
+  "code": "no-dk-cable",
+  "name": "NO-DK Cable",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2376,
+  "yearLaid": 2022,
+  "rfsDate": "2023-06",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Kristiansand, Norway",
+    "Copenhagen, Denmark"
+  ],
+  "description": "NO-DK Cable connecting Kristiansand to Copenhagen in Europe.",
+  "geojson": "no-dk-cable.geojson"
+}

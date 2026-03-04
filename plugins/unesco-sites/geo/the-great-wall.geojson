@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.08333,
+          40.41667
+        ]
+      },
+      "properties": {
+        "code": "the-great-wall",
+        "name": "The Great Wall",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "selimiye-mosque-and-its-social-complex",
+  "name": "Selimiye Mosque and its Social Complex",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The square Mosque with its single great dome and four slender minarets, dominates the skyline of the former Ottoman capital of Edirne. Sinan, the most famous of Ottoman architects in the 16th century, considered the complex, which includes madrasas (Islamic schools), a covered market, clock house, outer courtyard and library, to be his best work. The interior decoration using Iznik tiles from the peak period of their production testifies to an art form that remains unsurpassed in this material. The complex is considered to be the most harmonious expression ever achieved of the Ottoman külliye, a group of buildings constructed around a mosque and managed as a single institution.",
+  "danger": false,
+  "geojson": "selimiye-mosque-and-its-social-complex.geojson"
+}

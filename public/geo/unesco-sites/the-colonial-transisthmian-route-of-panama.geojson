@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.999775,
+          9.3231722222
+        ]
+      },
+      "properties": {
+        "code": "the-colonial-transisthmian-route-of-panama",
+        "name": "The Colonial Transisthmian Route of Panamá",
+        "type": "Cultural",
+        "country": "Panama",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

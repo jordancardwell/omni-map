@@ -1,0 +1,20 @@
+{
+  "code": "gemini-south",
+  "name": "Gemini South",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2722,
+  "aperture": "8.1 m",
+  "telescopes": [
+    "Gemini South"
+  ],
+  "keyDiscoveries": [
+    "Planetary system architectures",
+    "Galactic center observations",
+    "Supernovae studies"
+  ],
+  "location": "Gemini South, Chile",
+  "description": "The southern twin of Gemini North at Cerro Pachón, Chile. Together they provide full-sky coverage for the international Gemini partnership.",
+  "geojson": "gemini-south.geojson"
+}

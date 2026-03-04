@@ -1,0 +1,14 @@
+{
+  "code": "bangkok",
+  "name": "Bangkok Port",
+  "country": "Thailand",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Bangkok Port in Thailand. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "bangkok.geojson"
+}

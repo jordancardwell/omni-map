@@ -1,0 +1,14 @@
+{
+  "code": "old-town-of-ghadames",
+  "name": "Old Town of Ghadamès",
+  "type": "Cultural",
+  "country": "Libya",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women.",
+  "danger": false,
+  "geojson": "old-town-of-ghadames.geojson"
+}

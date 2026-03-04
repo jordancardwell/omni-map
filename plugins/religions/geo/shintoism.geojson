@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"shintoism","name":"Shintoism","region":"Japan","country":"JP","percentage":70},"geometry":{"type":"Polygon","coordinates":[[[129.4,30],[129.4,45.5],[145.8,45.5],[145.8,30],[129.4,30]]]}}]}

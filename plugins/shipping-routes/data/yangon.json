@@ -1,0 +1,14 @@
+{
+  "code": "yangon",
+  "name": "Port of Yangon",
+  "country": "Myanmar",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Yangon in Myanmar. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+  "geojson": "yangon.geojson"
+}

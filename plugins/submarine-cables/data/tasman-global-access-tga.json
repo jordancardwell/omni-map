@@ -1,0 +1,16 @@
+{
+  "code": "tasman-global-access-tga",
+  "name": "Tasman Global Access (TGA)",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2300,
+  "yearLaid": 2017,
+  "rfsDate": "2017-06",
+  "owner": "Spark NZ, Telstra",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Auckland, New Zealand"
+  ],
+  "description": "Trans-Tasman cable between Australia and New Zealand.",
+  "geojson": "tasman-global-access-tga.geojson"
+}

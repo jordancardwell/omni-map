@@ -1,0 +1,16 @@
+{
+  "code": "historical-complex-of-split-with-the-palace-of-diocletian",
+  "name": "Historical Complex of Split with the Palace of Diocletian",
+  "type": "Cultural",
+  "country": "Croatia",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area.",
+  "danger": false,
+  "geojson": "historical-complex-of-split-with-the-palace-of-diocletian.geojson"
+}

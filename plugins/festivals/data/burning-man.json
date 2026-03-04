@@ -1,0 +1,14 @@
+{
+  "code": "burning-man",
+  "name": "Burning Man",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Late August–early September",
+  "origin": "American counterculture",
+  "estimatedAttendance": "80,000 participants",
+  "unescoICH": "Not inscribed",
+  "traditions": "Building and burning a massive wooden effigy; art installations; mutant vehicles; theme camps; gift economy; radical self-expression.",
+  "historicalBackground": "Burning Man began on Baker Beach, San Francisco in 1986 when Larry Harvey and Jerry James burned a wooden figure. It moved to Nevada's Black Rock Desert in 1990.",
+  "description": "A week-long experiment in community, art, and self-expression in Nevada's Black Rock Desert, culminating in the burning of a massive wooden effigy.",
+  "location": "Black Rock Desert, USA",
+  "geojson": "burning-man.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "base-aerienne-biscarrosse",
+  "name": "Centre d'Essais des Landes (Biscarrosse)",
+  "country": "France",
+  "operator": "DGA / French MOD",
+  "coordinates": "44.3655°N, 1.2286°W",
+  "status": "Active",
+  "notableLaunches": [
+    "M51 SLBM tests",
+    "Exoatmospheric missile tests",
+    "Various military sounding rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital/ICBM tests)",
+  "location": "Centre d'Essais des Landes (Biscarrosse), France",
+  "description": "French military missile test center on the Atlantic coast near Biscarrosse. Used for submarine-launched ballistic missile testing and defense system validation, not orbital launches.",
+  "geojson": "base-aerienne-biscarrosse.geojson"
+}

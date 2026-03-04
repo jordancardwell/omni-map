@@ -1,0 +1,21 @@
+{
+  "code": "teide",
+  "name": "Mount Teide",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 3718,
+  "lastEruption": "1909",
+  "vei": 2,
+  "country": "Spain",
+  "region": "Canary Islands",
+  "location": "Canary Islands, Spain",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Pyroclastic flows",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Last eruption in 1909 was from a vent on the northwest flank. Historical eruptions in 1798 and 1706. A Decade Volcano due to proximity to populated areas.",
+  "description": "Mount Teide is the highest peak in Spain and the third-tallest volcanic structure in the world from its base. It is a UNESCO World Heritage Site and Spain's most visited natural attraction.",
+  "geojson": "teide.geojson"
+}

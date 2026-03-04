@@ -1,0 +1,17 @@
+{
+  "code": "dxb-pek",
+  "name": "Dubai — Beijing",
+  "airports": [
+    "DXB",
+    "PEK"
+  ],
+  "distanceKm": 5846,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–PEK route between Dubai and Beijing. Distance: 5,846 km. ~30 weekly flights operated by Emirates.",
+  "geojson": "dxb-pek.geojson"
+}

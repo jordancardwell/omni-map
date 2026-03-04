@@ -1,0 +1,20 @@
+{
+  "code": "ska-low",
+  "name": "SKA-Low",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Under Construction",
+  "elevation": 377,
+  "aperture": "131,072 antennas",
+  "telescopes": [
+    "SKA-Low"
+  ],
+  "keyDiscoveries": [
+    "Expected: Cosmic dawn",
+    "Epoch of Reionization",
+    "Pulsar surveys"
+  ],
+  "location": "SKA-Low, Australia",
+  "description": "The low-frequency component of the Square Kilometre Array in Western Australia. Over 131,000 log-periodic dipole antennas will observe 50-350 MHz.",
+  "geojson": "ska-low.geojson"
+}

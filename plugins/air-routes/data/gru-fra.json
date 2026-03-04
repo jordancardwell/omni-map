@@ -1,0 +1,17 @@
+{
+  "code": "gru-fra",
+  "name": "São Paulo — Frankfurt",
+  "airports": [
+    "GRU",
+    "FRA"
+  ],
+  "distanceKm": 9798,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–FRA route between São Paulo and Frankfurt. Distance: 9,798 km. ~20 weekly flights operated by Lufthansa.",
+  "geojson": "gru-fra.geojson"
+}

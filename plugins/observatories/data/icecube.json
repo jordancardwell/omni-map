@@ -1,0 +1,21 @@
+{
+  "code": "icecube",
+  "name": "IceCube Neutrino Observatory",
+  "country": "Antarctica",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 2835,
+  "aperture": "1 km³ ice volume",
+  "telescopes": [
+    "IceCube",
+    "DeepCore"
+  ],
+  "keyDiscoveries": [
+    "Cosmic neutrino detection",
+    "Neutrino source identification (TXS 0506+056)",
+    "Neutrino oscillations"
+  ],
+  "location": "IceCube Neutrino Observatory, Antarctica",
+  "description": "A cubic-kilometer neutrino detector embedded in Antarctic ice at the South Pole. Detected the first identified source of high-energy cosmic neutrinos.",
+  "geojson": "icecube.geojson"
+}

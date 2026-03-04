@@ -1,0 +1,15 @@
+{
+  "code": "cocos-island-national-park",
+  "name": "Cocos Island National Park",
+  "type": "Natural",
+  "country": "Costa Rica",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Cocos Island National Park, located 550 km off the Pacific coast of Costa Rica, is the only island in the tropical eastern Pacific with a tropical rainforest. Its position as the first point of contact with the northern equatorial counter-current, and the myriad interactions between the island and the surrounding marine ecosystem, make the area an ideal laboratory for the study of biological processes. The underwater world of the national park has become famous due to the attraction it holds for divers, who rate it as one of the best places in the world to view large pelagic species such as sharks, rays, tuna and dolphins.",
+  "danger": false,
+  "geojson": "cocos-island-national-park.geojson"
+}

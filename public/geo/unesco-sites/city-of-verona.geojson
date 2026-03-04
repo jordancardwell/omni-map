@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99388889,
+          45.43861111
+        ]
+      },
+      "properties": {
+        "code": "city-of-verona",
+        "name": "City of Verona",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

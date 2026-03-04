@@ -1,0 +1,14 @@
+{
+  "code": "canada-day",
+  "name": "Canada Day",
+  "festivalType": "National",
+  "dateOrSeason": "July 1",
+  "origin": "Canadian national",
+  "estimatedAttendance": "38+ million Canadians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fireworks; outdoor concerts; barbecues; flag-waving; Canadian Forces Snowbirds flyovers; community celebrations.",
+  "historicalBackground": "Canada Day celebrates the joining of three colonies into one Dominion of Canada on July 1, 1867, through the British North America Act.",
+  "description": "Canada's national birthday celebration with fireworks, concerts, and community gatherings across the country.",
+  "location": "Ottawa, Canada",
+  "geojson": "canada-day.geojson"
+}

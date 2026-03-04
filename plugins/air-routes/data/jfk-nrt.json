@@ -1,0 +1,19 @@
+{
+  "code": "jfk-nrt",
+  "name": "New York — Tokyo",
+  "airports": [
+    "JFK",
+    "NRT"
+  ],
+  "distanceKm": 10829,
+  "weeklyFlights": 50,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–NRT route between New York and Tokyo. Distance: 10,829 km. ~50 weekly flights operated by ANA, JAL, United.",
+  "geojson": "jfk-nrt.geojson"
+}

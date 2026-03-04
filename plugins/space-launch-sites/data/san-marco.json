@@ -1,0 +1,17 @@
+{
+  "code": "san-marco",
+  "name": "San Marco Platform",
+  "country": "Kenya (Italian-operated)",
+  "operator": "ASI / University of Rome",
+  "coordinates": "2.9383°S, 40.2130°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "San Marco satellites",
+    "Scout rocket launches",
+    "Uhuru X-ray satellite"
+  ],
+  "orbitalInclinationRange": "2°–38°",
+  "location": "San Marco Platform, Kenya (Italian-operated)",
+  "description": "A sea-based equatorial launch platform off the coast of Kenya near Malindi. Operated by Italy from 1964–1988, it was the only sea-launch platform used by a non-maritime power. Now decommissioned.",
+  "geojson": "san-marco.geojson"
+}

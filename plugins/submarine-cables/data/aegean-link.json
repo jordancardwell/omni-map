@@ -1,0 +1,16 @@
+{
+  "code": "aegean-link",
+  "name": "Aegean Link",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2039,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "Turk Telekom",
+  "landingPoints": [
+    "Istanbul, Turkey",
+    "Athens, Greece"
+  ],
+  "description": "Aegean Link cable connecting Istanbul to Athens across the Mediterranean.",
+  "geojson": "aegean-link.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "florida-reef-tract",
+  "name": "Florida Reef Tract",
+  "location": "Florida, United States",
+  "areaKm2": 1430,
+  "reefType": "Fringing",
+  "healthStatus": "Critical",
+  "coralSpecies": 45,
+  "marineSpecies": 600,
+  "threats": [
+    "Stony coral tissue loss disease",
+    "Ocean warming",
+    "Nutrient pollution",
+    "Coastal development",
+    "Recreational damage"
+  ],
+  "conservationStatus": "Florida Keys National Marine Sanctuary provides federal protection. Mission: Iconic Reefs restoration initiative by NOAA targets seven reef sites for active intervention.",
+  "description": "The Florida Reef Tract is the only extensive reef system in the continental United States, extending 580 km from the Dry Tortugas to St. Lucie Inlet. It is the third-largest barrier reef system in the world.\n\nSince 2014, Stony Coral Tissue Loss Disease has devastated the reef, affecting over 20 coral species and killing tissue at an alarming rate. Combined with chronic nutrient pollution from the Everglades and urban runoff, the Florida Reef has lost over 90% of its living coral cover since the 1970s. Active restoration efforts are underway but face significant challenges.",
+  "geojson": "florida-reef-tract.geojson"
+}

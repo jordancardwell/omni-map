@@ -1,0 +1,15 @@
+{
+  "code": "canadian-rocky-mountain-parks",
+  "name": "Canadian Rocky Mountain Parks",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The contiguous national parks of Banff, Jasper, Kootenay and Yoho, as well as the Mount Robson, Mount Assiniboine and Hamber provincial parks, studded with mountain peaks, glaciers, lakes, waterfalls, canyons and limestone caves, form a striking mountain landscape. The Burgess Shale fossil site, well known for its fossil remains of soft-bodied marine animals, is also found there.",
+  "danger": false,
+  "geojson": "canadian-rocky-mountain-parks.geojson"
+}

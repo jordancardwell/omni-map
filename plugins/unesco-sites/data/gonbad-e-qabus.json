@@ -1,0 +1,17 @@
+{
+  "code": "gonbad-e-qabus",
+  "name": "Gonbad-e Qābus",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 53 m high tomb built in ad 1006 for Qābus Ibn Voshmgir, Ziyarid ruler and literati, near the ruins of the ancient city of Jorjan in north-east Iran, bears testimony to the cultural exchange between Central Asian nomads and the ancient civilization of Iran. The tower is the only remaining evidence of Jorjan, a former centre of arts and science that was destroyed during the Mongols’ invasion in the 14th and 15th centuries. It is an outstanding and technologically innovative example of Islamic architecture that influenced sacral building in Iran, Anatolia and Central Asia. Built of unglazed fired bricks, the monument’s intricate geometric forms constitute a tapering cylinder with a diameter of 17–15.5 m, topped by a conical brick roof. It illustrates the development of mathematics and science in the Muslim world at the turn of the first millennium AD.",
+  "danger": false,
+  "geojson": "gonbad-e-qabus.geojson"
+}

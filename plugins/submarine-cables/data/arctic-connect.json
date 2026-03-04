@@ -1,0 +1,16 @@
+{
+  "code": "arctic-connect",
+  "name": "Arctic Connect",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 8290,
+  "yearLaid": 2013,
+  "rfsDate": "2015-06",
+  "owner": "MegaFon",
+  "landingPoints": [
+    "Murmansk, Russia",
+    "Kristiansand, Norway"
+  ],
+  "description": "Arctic Connect connecting Murmansk to Kristiansand.",
+  "geojson": "arctic-connect.geojson"
+}

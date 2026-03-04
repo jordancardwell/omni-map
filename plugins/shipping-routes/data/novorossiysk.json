@@ -1,0 +1,14 @@
+{
+  "code": "novorossiysk",
+  "name": "Port of Novorossiysk",
+  "country": "Russia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 160,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Black Sea Shipping Route"
+  ],
+  "description": "Port of Novorossiysk in Russia. Annual cargo throughput: ~160 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "novorossiysk.geojson"
+}

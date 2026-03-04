@@ -1,0 +1,15 @@
+{
+  "code": "jesuit-block-and-estancias-of-cordoba",
+  "name": "Jesuit Block and Estancias of Córdoba",
+  "type": "Cultural",
+  "country": "Argentina",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Jesuit Block in Córdoba, heart of the former Jesuit Province of Paraguay, contains the core buildings of the Jesuit system: the university, the church and residence of the Society of Jesus, and the college. Along with the five estancias, or farming estates, they contain religious and secular buildings, which illustrate the unique religious, social, and economic experiment carried out in the world for a period of over 150 years in the 17th and 18th centuries.",
+  "danger": false,
+  "geojson": "jesuit-block-and-estancias-of-cordoba.geojson"
+}

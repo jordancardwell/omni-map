@@ -1,0 +1,29 @@
+{
+  "code": "caucasus",
+  "name": "Caucasus",
+  "location": "Between Black Sea and Caspian Sea (Georgia, Armenia, Azerbaijan, Russia, Turkey, Iran)",
+  "areaKm2": 532658,
+  "habitatRemaining": "21.4%",
+  "plantSpecies": 6400,
+  "endemicPlants": 1600,
+  "vertebrateSpecies": 632,
+  "endemicVertebrates": 59,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Caucasian leopard",
+    "West Caucasian tur",
+    "Caucasian grouse",
+    "Persian leopard",
+    "Brown bear"
+  ],
+  "threats": [
+    "Overgrazing",
+    "Logging",
+    "Poaching",
+    "Mining",
+    "Infrastructure development"
+  ],
+  "conservationEfforts": "Caucasus Nature Fund supports protected areas in Georgia, Armenia, and Azerbaijan. WWF Caucasus Programme works on habitat corridors. Several UNESCO biosphere reserves and national parks established. Leopard reintroduction programs underway.",
+  "description": "The Caucasus hotspot straddles the border between Europe and Asia, encompassing the Greater and Lesser Caucasus mountain ranges and surrounding lowlands. This geographically complex region serves as a crossroads between temperate European and subtropical Asian flora and fauna.\n\nThe region supports diverse habitats from subtropical lowland forests to alpine meadows above 3,500 meters. With 6,400 plant species including 1,600 endemics, the Caucasus is the most floristically rich mountain region in the western Palearctic. It is also a critical corridor for large mammal migrations.",
+  "geojson": "caucasus.geojson"
+}

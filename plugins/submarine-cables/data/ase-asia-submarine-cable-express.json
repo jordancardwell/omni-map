@@ -1,0 +1,18 @@
+{
+  "code": "ase-asia-submarine-cable-express",
+  "name": "ASE (Asia Submarine-cable Express)",
+  "capacityTbps": 4.8,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 7800,
+  "yearLaid": 2012,
+  "rfsDate": "2012-08",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Manila, Philippines",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "Asia Submarine-cable Express connecting Southeast Asian capitals.",
+  "geojson": "ase-asia-submarine-cable-express.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1333,
+          -26.3167
+        ]
+      },
+      "properties": {
+        "code": "reed-dance",
+        "name": "Umhlanga (Reed Dance)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "August–September",
+        "location": "Lobamba, Eswatini"
+      }
+    }
+  ]
+}

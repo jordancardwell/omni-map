@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5055555556,
+          19.055
+        ]
+      },
+      "properties": {
+        "code": "lakes-of-ounianga",
+        "name": "Lakes of Ounianga",
+        "type": "Natural",
+        "country": "Chad",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

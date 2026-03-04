@@ -1,0 +1,3732 @@
+[
+  {
+    "code": "Chinese-crocodile-lizard",
+    "name": "Chinese Crocodile Lizard",
+    "scientificName": "Shinisaurus crocodilurus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~1,000 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Mountain streams in subtropical forest",
+    "threats": [
+      "Collection for pet trade",
+      "Habitat degradation",
+      "Pollution",
+      "Mining"
+    ],
+    "conservationEfforts": "Protected under Chinese law. Nature reserves established in Guangxi. International captive breeding program. Vietnam populations also receive protection.",
+    "description": "A semi-aquatic lizard that resembles a miniature crocodile. When threatened, it plays dead (thanatosis), remaining motionless for up to 30 minutes. One of the most sought-after reptiles in the pet trade.",
+    "geojson": "Chinese-crocodile-lizard.geojson"
+  },
+  {
+    "code": "abingdon-tortoise",
+    "name": "Fernandina Giant Tortoise",
+    "scientificName": "Chelonoidis phantasticus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~1 confirmed individual",
+    "populationTrend": "Unknown",
+    "habitatType": "Volcanic island forest",
+    "threats": [
+      "Volcanic eruptions",
+      "Invasive species",
+      "Extremely small population"
+    ],
+    "conservationEfforts": "A single female was found alive on Fernandina Island in 2019, over 100 years after the only other known specimen. Galápagos National Park is searching for additional individuals.",
+    "description": "Thought extinct for over 100 years until a lone female was found in 2019 on Fernandina, one of the most volcanically active islands in the Galápagos. Expeditions continue searching for more individuals.",
+    "geojson": "abingdon-tortoise.geojson"
+  },
+  {
+    "code": "addax",
+    "name": "Addax",
+    "scientificName": "Addax nasomaculatus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~30-90 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Sandy desert",
+    "threats": [
+      "Hunting",
+      "Habitat disturbance",
+      "Oil exploration",
+      "Military activity"
+    ],
+    "conservationEfforts": "Reintroduction programs in Tunisia, Morocco, and Chad. Large captive population (thousands in zoos and ranches) provides insurance for the species.",
+    "description": "Once widespread across the Sahara, the addax is now one of the rarest mammals in the world. Its broad, flat hooves act like snowshoes on sand, and it can survive without drinking water, obtaining moisture from food.",
+    "geojson": "addax.geojson"
+  },
+  {
+    "code": "african-elephant-forest",
+    "name": "African Forest Elephant",
+    "scientificName": "Loxodonta cyclotis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~100,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest",
+    "threats": [
+      "Poaching for ivory",
+      "Habitat loss",
+      "Bushmeat hunting"
+    ],
+    "conservationEfforts": "CITES ivory trade ban. Central African Forest Initiative funds habitat protection. Anti-poaching patrols deployed in key forest areas.",
+    "description": "Smaller than savanna elephants with straighter, thinner tusks and rounder ears. They play a crucial role as forest gardeners, dispersing seeds through their dung and creating clearings.",
+    "geojson": "african-elephant-forest.geojson"
+  },
+  {
+    "code": "african-wild-dog",
+    "name": "African Wild Dog",
+    "scientificName": "Lycaon pictus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~6,600 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Savanna and woodland",
+    "threats": [
+      "Habitat fragmentation",
+      "Human-wildlife conflict",
+      "Disease",
+      "Snaring"
+    ],
+    "conservationEfforts": "Painted Dog Conservation works in Zimbabwe. Reintroduction programs in fenced reserves. Livestock guarding programs reduce conflict with farmers.",
+    "description": "Africa's most efficient predator with an 80% hunt success rate. They live in tight-knit packs with complex social bonds and unique vocal communication.",
+    "geojson": "african-wild-dog.geojson"
+  },
+  {
+    "code": "amur-leopard",
+    "name": "Amur Leopard",
+    "scientificName": "Panthera pardus orientalis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~100 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Temperate broadleaf forest",
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Prey depletion",
+      "Inbreeding"
+    ],
+    "conservationEfforts": "Protected in Land of the Leopard National Park in Russia. Breeding programs in zoos worldwide have maintained a captive population of over 200.",
+    "description": "The Amur leopard is one of the rarest big cats on Earth, confined to a small area of temperate forest in the Russian Far East and northeast China. Unlike tropical leopards, it has adapted to harsh winters with a thick fur coat.",
+    "geojson": "amur-leopard.geojson"
+  },
+  {
+    "code": "andean-condor",
+    "name": "Andean Condor",
+    "scientificName": "Vultur gryphus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~6,700 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Mountain and coastal cliff",
+    "threats": [
+      "Poisoning",
+      "Lead contamination",
+      "Habitat loss",
+      "Persecution"
+    ],
+    "conservationEfforts": "Reintroduction programs in Venezuela, Colombia, and Argentina. Lead-free ammunition campaigns. Cultural significance as a national symbol of multiple South American nations.",
+    "description": "The largest flying bird by combined weight and wingspan, reaching 3.3 meters. It soars on thermal currents above the Andes with almost no wing flapping. Sacred to Andean cultures for millennia.",
+    "geojson": "andean-condor.geojson"
+  },
+  {
+    "code": "angel-shark",
+    "name": "Angel Shark",
+    "scientificName": "Squatina squatina",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely depleted",
+    "populationTrend": "Decreasing",
+    "habitatType": "Sandy seabed in coastal waters",
+    "threats": [
+      "Trawl bycatch",
+      "Habitat degradation",
+      "Coastal development"
+    ],
+    "conservationEfforts": "Angel Shark Project in the Canary Islands (last stronghold). Protected under EU legislation. Marine protected areas in key habitats. Fishermen trained in safe release.",
+    "description": "Once common across European coasts, the angel shark has been eliminated from most of its former range by bottom trawling. The Canary Islands now hold the most important population.",
+    "geojson": "angel-shark.geojson"
+  },
+  {
+    "code": "antiguan-racer",
+    "name": "Antiguan Racer",
+    "scientificName": "Alsophis antiguae",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~1,100 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Dry coastal scrubland",
+    "threats": [
+      "Invasive mongooses and rats",
+      "Hurricanes",
+      "Small range"
+    ],
+    "conservationEfforts": "Fauna & Flora International eradicated rats from offshore islands. Population increased from 50 to over 1,100. One of the most successful snake conservation programs ever.",
+    "description": "Once considered the world's rarest snake with just 50 individuals on a single tiny island. Rat eradication on nearby islands and translocations have dramatically increased the population.",
+    "geojson": "antiguan-racer.geojson"
+  },
+  {
+    "code": "arabian-oryx",
+    "name": "Arabian Oryx",
+    "scientificName": "Oryx leucoryx",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,200 in wild",
+    "populationTrend": "Increasing",
+    "habitatType": "Desert",
+    "threats": [
+      "Poaching",
+      "Habitat loss",
+      "Hybridization",
+      "Drought"
+    ],
+    "conservationEfforts": "Extinct in the wild by 1972, reintroduced from captive herds starting in 1982. Populations established in Oman, Saudi Arabia, Israel, Jordan, and the UAE. First species to return from EW to VU on the IUCN Red List.",
+    "description": "A stunning white antelope adapted to Arabian deserts. It was the first species to be reclassified from Extinct in the Wild back to Vulnerable — a triumph of captive breeding and reintroduction.",
+    "geojson": "arabian-oryx.geojson"
+  },
+  {
+    "code": "asian-elephant",
+    "name": "Asian Elephant",
+    "scientificName": "Elephas maximus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~40,000-50,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical and subtropical forest",
+    "threats": [
+      "Habitat loss",
+      "Human-elephant conflict",
+      "Poaching",
+      "Fragmentation"
+    ],
+    "conservationEfforts": "Elephant corridors established in India. Community-based conflict mitigation using chili fences and beehives. Sri Lanka's Elephant Transit Home rehabilitates orphaned calves.",
+    "description": "Smaller than African elephants, with smaller ears and a single finger-like projection on the trunk tip. They are deeply embedded in Asian culture and religion, yet face severe habitat pressures.",
+    "geojson": "asian-elephant.geojson"
+  },
+  {
+    "code": "atlantic-bluefin-tuna",
+    "name": "Atlantic Bluefin Tuna",
+    "scientificName": "Thunnus thynnus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, recovering",
+    "populationTrend": "Increasing",
+    "habitatType": "Open ocean (Atlantic and Mediterranean)",
+    "threats": [
+      "Overfishing",
+      "Illegal fishing",
+      "Bycatch"
+    ],
+    "conservationEfforts": "ICCAT quotas dramatically reduced catch. Electronic monitoring of fishing vessels. Eastern Atlantic population recovering strongly under management.",
+    "description": "One of the largest bony fish, reaching 4.6 meters and 680 kg. They can maintain body temperature above surrounding water and cross the Atlantic in under 60 days. A single fish sold for $3.1 million at auction in 2019.",
+    "geojson": "atlantic-bluefin-tuna.geojson"
+  },
+  {
+    "code": "atlantic-salmon",
+    "name": "Atlantic Salmon",
+    "scientificName": "Salmo salar",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Declining in many rivers",
+    "populationTrend": "Decreasing",
+    "habitatType": "River and ocean",
+    "threats": [
+      "Salmon farming impacts",
+      "Overfishing",
+      "Dam barriers",
+      "Disease",
+      "Climate change"
+    ],
+    "conservationEfforts": "Dam removal projects restore river connectivity. Salmon farming regulations reduce disease spillover. International cooperation through NASCO. Habitat restoration in rivers.",
+    "description": "Once abundant in every river flowing into the North Atlantic, Atlantic salmon have disappeared from many rivers. They make extraordinary migrations from river to ocean and back to spawn.",
+    "geojson": "atlantic-salmon.geojson"
+  },
+  {
+    "code": "axolotl",
+    "name": "Axolotl",
+    "scientificName": "Ambystoma mexicanum",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~50-1,000 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater lake and canal",
+    "threats": [
+      "Water pollution",
+      "Invasive species",
+      "Urbanization",
+      "Disease"
+    ],
+    "conservationEfforts": "Xochimilco canal restoration in Mexico City. Captive population of millions worldwide (popular in research and pet trade). Chinampa (floating garden) restoration provides habitat.",
+    "description": "Famous for its ability to regenerate limbs, the axolotl is a permanently aquatic salamander that retains its larval features throughout life. Despite being abundant in captivity, it is nearly extinct in its only wild habitat — Lake Xochimilco.",
+    "geojson": "axolotl.geojson"
+  },
+  {
+    "code": "aye-aye",
+    "name": "Aye-aye",
+    "scientificName": "Daubentonia madagascariensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,000-10,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest and dry deciduous forest",
+    "threats": [
+      "Habitat loss",
+      "Persecution (cultural taboo)",
+      "Hunting"
+    ],
+    "conservationEfforts": "Protected in Madagascar's national parks. Duke Lemur Center maintains captive population. Community education programs combat superstitious killing.",
+    "description": "The world's largest nocturnal primate, with rodent-like teeth and a skeletal middle finger used to extract insect larvae from wood. Many Malagasy people consider it an omen of death and kill it on sight.",
+    "geojson": "aye-aye.geojson"
+  },
+  {
+    "code": "baiji-dolphin",
+    "name": "Amazon River Dolphin",
+    "scientificName": "Inia geoffrensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown, declining rapidly",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater river and floodplain",
+    "threats": [
+      "Mercury pollution",
+      "Dam construction",
+      "Bycatch",
+      "Habitat degradation"
+    ],
+    "conservationEfforts": "Protected under Brazilian law. Research programs track populations. Mercury pollution from gold mining is an increasing threat.",
+    "description": "The largest river dolphin, known as the pink dolphin or boto. They inhabit the Amazon and Orinoco river basins and play an important role in Indigenous folklore.",
+    "geojson": "baiji-dolphin.geojson"
+  },
+  {
+    "code": "bali-myna",
+    "name": "Bali Myna",
+    "scientificName": "Leucopsar rothschildi",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~100 in wild",
+    "populationTrend": "Increasing",
+    "habitatType": "Dry lowland forest and savanna",
+    "threats": [
+      "Illegal trapping for cage bird trade",
+      "Habitat loss",
+      "Small range"
+    ],
+    "conservationEfforts": "West Bali National Park breeding facility. Community-based release programs. Temple release programs have boosted wild numbers. Friend of the National Parks Foundation releases captive-bred birds.",
+    "description": "One of the rarest birds in the world, with brilliant white plumage and a bright blue eye patch. Endemic to Bali, Indonesia, it was nearly driven extinct by the cage bird trade.",
+    "geojson": "bali-myna.geojson"
+  },
+  {
+    "code": "banteng",
+    "name": "Banteng",
+    "scientificName": "Bos javanicus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~5,000-8,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical forest and grassland",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Hybridization with domestic cattle",
+      "Disease"
+    ],
+    "conservationEfforts": "Huai Kha Khaeng Wildlife Sanctuary in Thailand protects a key population. Captive breeding in Australia where feral populations exist. Anti-poaching patrols in Southeast Asian reserves.",
+    "description": "A wild ox of Southeast Asia, the ancestor of domestic Bali cattle. Wild bulls are jet black with white stockings, while cows are reddish-brown. They are active mainly at night to avoid hunters.",
+    "geojson": "banteng.geojson"
+  },
+  {
+    "code": "beluga-sturgeon",
+    "name": "Beluga Sturgeon",
+    "scientificName": "Huso huso",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely depleted",
+    "populationTrend": "Decreasing",
+    "habitatType": "Caspian Sea and rivers",
+    "threats": [
+      "Overfishing for caviar",
+      "Dam construction",
+      "Pollution",
+      "Poaching"
+    ],
+    "conservationEfforts": "CITES regulates international caviar trade. Aquaculture reduces pressure on wild stocks. Caspian Sea countries coordinate conservation. Restocking programs release juveniles.",
+    "description": "The largest freshwater fish in the world by weight, historically reaching 7 meters and 1,500 kg. Prized for its caviar (beluga caviar can cost $10,000/kg), it has been fished to near extinction.",
+    "geojson": "beluga-sturgeon.geojson"
+  },
+  {
+    "code": "bengal-florican",
+    "name": "Bengal Florican",
+    "scientificName": "Houbaropsis bengalensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tall grassland and floodplain",
+    "threats": [
+      "Grassland conversion to agriculture",
+      "Dry-season burning",
+      "Grazing",
+      "Hunting"
+    ],
+    "conservationEfforts": "Integrated Farming and Biodiversity Areas in Cambodia combine agriculture with conservation. Protected areas in India and Nepal safeguard breeding grasslands.",
+    "description": "A small bustard found in the grasslands of South and Southeast Asia. Males perform spectacular aerial displays, leaping high into the air during the breeding season.",
+    "geojson": "bengal-florican.geojson"
+  },
+  {
+    "code": "black-footed-ferret",
+    "name": "Black-footed Ferret",
+    "scientificName": "Mustela nigripes",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~350 in wild",
+    "populationTrend": "Increasing",
+    "habitatType": "Prairie grassland",
+    "threats": [
+      "Sylvatic plague",
+      "Prairie dog decline",
+      "Habitat loss",
+      "Small population size"
+    ],
+    "conservationEfforts": "Reintroduced from a captive population descended from 18 individuals. Plague vaccines developed for both ferrets and prairie dogs. 29 reintroduction sites across the western US.",
+    "description": "North America's most endangered mammal, declared extinct twice before being rediscovered. They depend entirely on prairie dog colonies for food and shelter.",
+    "geojson": "black-footed-ferret.geojson"
+  },
+  {
+    "code": "black-rhino",
+    "name": "Black Rhinoceros",
+    "scientificName": "Diceros bicornis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~6,200 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Savanna and scrubland",
+    "threats": [
+      "Poaching",
+      "Habitat loss",
+      "Political instability"
+    ],
+    "conservationEfforts": "Anti-poaching units with technology like drones and GPS tracking. Rhino horn trade bans enforced internationally. Translocation programs establish new populations.",
+    "description": "The black rhino has a hooked upper lip adapted for browsing on shrubs. Poaching reduced their numbers from 65,000 in 1970 to just 2,400 by 1995, but intensive conservation has enabled a slow recovery.",
+    "geojson": "black-rhino.geojson"
+  },
+  {
+    "code": "black-softshell-turtle",
+    "name": "Black Softshell Turtle",
+    "scientificName": "Nilssonia nigricans",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~150 in temple ponds; possibly extinct in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater river and pond",
+    "threats": [
+      "Habitat loss",
+      "Harvesting",
+      "Pollution"
+    ],
+    "conservationEfforts": "Bayazid Bostami shrine in Bangladesh maintains a temple pond population. Turtle Survival Alliance coordinates conservation. Wild populations in the Brahmaputra system may still exist.",
+    "description": "Considered sacred in Bangladesh where hundreds live in a shrine pond. Its conservation depends partly on religious protection — the only surviving populations are in temple ponds.",
+    "geojson": "black-softshell-turtle.geojson"
+  },
+  {
+    "code": "black-stilt",
+    "name": "Black Stilt",
+    "scientificName": "Himantopus novaezelandiae",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~170 adults",
+    "populationTrend": "Increasing",
+    "habitatType": "Braided river and wetland",
+    "threats": [
+      "Predation by invasive mammals",
+      "Habitat loss",
+      "Hybridization with pied stilts"
+    ],
+    "conservationEfforts": "Department of Conservation captive breeding. Predator control in the Mackenzie Basin. Nest protection from floods. Population slowly increasing from a low of 23 adults in 1981.",
+    "description": "The world's rarest wading bird, found only in the braided rivers of New Zealand's South Island Mackenzie Basin. Its jet-black plumage is unique among stilts.",
+    "geojson": "black-stilt.geojson"
+  },
+  {
+    "code": "blue-iguana",
+    "name": "Grand Cayman Blue Iguana",
+    "scientificName": "Cyclura lewisi",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Dry shrubland and rocky coast",
+    "threats": [
+      "Habitat loss",
+      "Road mortality",
+      "Feral cats and dogs",
+      "Invasive green iguanas"
+    ],
+    "conservationEfforts": "Blue Iguana Recovery Programme increased population from 15 to over 1,000. Queen Elizabeth II Botanic Park and Salina Reserve provide protected habitat. Head-starting program.",
+    "description": "Once down to just 15 individuals in 2002, the blue iguana has been brought back from the brink through one of the most successful reptile conservation programs ever undertaken.",
+    "geojson": "blue-iguana.geojson"
+  },
+  {
+    "code": "blue-throated-hillstar",
+    "name": "Blue-throated Hillstar",
+    "scientificName": "Oreotrochilus cyanolaemus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~250-750 individuals",
+    "populationTrend": "Unknown",
+    "habitatType": "Paramo grassland",
+    "threats": [
+      "Mining",
+      "Habitat loss",
+      "Climate change"
+    ],
+    "conservationEfforts": "Discovered in 2017 in southern Ecuador. Local community declared a protected area. Research ongoing to determine full range and population status.",
+    "description": "A hummingbird described as new to science in 2018, found only on a few mountaintops in southern Ecuador. Males have an iridescent blue throat patch. Mining threatens its extremely limited habitat.",
+    "geojson": "blue-throated-hillstar.geojson"
+  },
+  {
+    "code": "blue-throated-macaw",
+    "name": "Blue-throated Macaw",
+    "scientificName": "Ara glaucogularis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~400 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Palm savanna (Beni region)",
+    "threats": [
+      "Nest poaching for pet trade",
+      "Habitat loss",
+      "Competition for nest sites"
+    ],
+    "conservationEfforts": "Nest box programs dramatically increased breeding success. Barba Azul Nature Reserve protects key habitat. Local community becomes stewards of macaw conservation.",
+    "description": "Found only in a small area of the Beni savanna in Bolivia, this stunning macaw was driven to the brink by the pet trade. Nest boxes have become crucial for its recovery.",
+    "geojson": "blue-throated-macaw.geojson"
+  },
+  {
+    "code": "blue-whale",
+    "name": "Blue Whale",
+    "scientificName": "Balaenoptera musculus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~10,000-25,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Open ocean",
+    "threats": [
+      "Ship strikes",
+      "Ocean noise",
+      "Entanglement",
+      "Climate change"
+    ],
+    "conservationEfforts": "International whaling moratorium since 1986. Critical habitat designations in feeding and breeding areas. Ship speed reductions in whale-rich waters.",
+    "description": "The largest animal ever to have lived on Earth, reaching up to 30 meters long. Blue whale populations were decimated by commercial whaling but have slowly begun to recover since the 1986 moratorium.",
+    "geojson": "blue-whale.geojson"
+  },
+  {
+    "code": "bog-turtle",
+    "name": "Bog Turtle",
+    "scientificName": "Glyptemys muhlenbergii",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~2,500-10,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Calcareous fen and bog",
+    "threats": [
+      "Wetland drainage",
+      "Invasive plants",
+      "Illegal collection",
+      "Development"
+    ],
+    "conservationEfforts": "US Fish and Wildlife Service recovery plan. Habitat restoration removing invasive plants. Law enforcement targeting illegal collection networks.",
+    "description": "The smallest turtle in North America at just 10 cm. It lives in small, specialized wetland habitats (calcareous fens) that have been widely destroyed across the eastern United States.",
+    "geojson": "bog-turtle.geojson"
+  },
+  {
+    "code": "burmese-star-tortoise",
+    "name": "Burmese Star Tortoise",
+    "scientificName": "Geochelone platynota",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "Unknown, severely depleted",
+    "populationTrend": "Increasing",
+    "habitatType": "Dry deciduous forest",
+    "threats": [
+      "Illegal collection for pet trade",
+      "Habitat loss",
+      "Consumption"
+    ],
+    "conservationEfforts": "Wildlife Conservation Society Myanmar program. Captive breeding at Lawkananda Wildlife Sanctuary has produced thousands of tortoises. Community-based anti-poaching.",
+    "description": "Endemic to Myanmar's dry zone, this strikingly beautiful tortoise was nearly extinct in the wild due to collection for food and the exotic pet trade. Captive breeding has been remarkably successful.",
+    "geojson": "burmese-star-tortoise.geojson"
+  },
+  {
+    "code": "california-condor",
+    "name": "California Condor",
+    "scientificName": "Gymnogyps californianus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~500 total (300+ wild)",
+    "populationTrend": "Increasing",
+    "habitatType": "Rugged mountainous terrain and coast",
+    "threats": [
+      "Lead poisoning",
+      "Power line collisions",
+      "Microtrash ingestion",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "Rescued from extinction when all 22 remaining wild birds were captured in 1987 for breeding. Reintroduced populations now thrive in California, Arizona, and Baja California.",
+    "description": "The largest flying bird in North America with a wingspan of nearly 3 meters. Its recovery from just 22 individuals to over 500 is one of conservation's most dramatic success stories.",
+    "geojson": "california-condor.geojson"
+  },
+  {
+    "code": "california-red-legged-frog",
+    "name": "California Red-legged Frog",
+    "scientificName": "Rana draytonii",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal streams and wetlands",
+    "threats": [
+      "Habitat loss",
+      "Invasive bullfrogs",
+      "Urbanization",
+      "Pesticides"
+    ],
+    "conservationEfforts": "Listed under US Endangered Species Act. Critical habitat designated. Invasive bullfrog removal programs. Habitat restoration projects.",
+    "description": "The largest native frog in the western United States and likely the species described in Mark Twain's famous short story 'The Celebrated Jumping Frog of Calaveras County'.",
+    "geojson": "california-red-legged-frog.geojson"
+  },
+  {
+    "code": "cheetah",
+    "name": "Cheetah",
+    "scientificName": "Acinonyx jubatus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~6,500-7,100 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Savanna and open grassland",
+    "threats": [
+      "Habitat loss",
+      "Human-wildlife conflict",
+      "Illegal pet trade",
+      "Prey depletion"
+    ],
+    "conservationEfforts": "Cheetah Conservation Fund in Namibia. Livestock guarding dogs reduce farmer-cheetah conflict. Range-wide conservation strategy coordinates 29 countries.",
+    "description": "The fastest land animal, reaching 112 km/h. Cheetahs have lost 91% of their historical range. Unlike other big cats, they cannot roar but instead chirp and purr.",
+    "geojson": "cheetah.geojson"
+  },
+  {
+    "code": "chinese-alligator",
+    "name": "Chinese Alligator",
+    "scientificName": "Alligator sinensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~150 in wild",
+    "populationTrend": "Stable",
+    "habitatType": "Freshwater wetland and pond",
+    "threats": [
+      "Habitat loss",
+      "Pollution",
+      "Human persecution"
+    ],
+    "conservationEfforts": "National Nature Reserve in Anhui Province. Over 20,000 in captive breeding programs. Small-scale reintroductions to restored wetlands.",
+    "description": "One of the world's most endangered crocodilians, surviving in small ponds and marshes in eastern China. It is the only alligator species found outside the Americas.",
+    "geojson": "chinese-alligator.geojson"
+  },
+  {
+    "code": "chinese-bahaba",
+    "name": "Chinese Bahaba",
+    "scientificName": "Bahaba taipingensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely depleted",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal and estuarine waters",
+    "threats": [
+      "Overfishing for swim bladder",
+      "Habitat degradation",
+      "Pollution"
+    ],
+    "conservationEfforts": "Swim bladders sell for up to $300,000 each. Fishing bans during spawning season. Aquaculture research to reduce pressure on wild stocks. Trade monitoring.",
+    "description": "A large croaker fish whose dried swim bladder (called fish maw) is one of the most expensive seafood items in the world. A single bladder can sell for hundreds of thousands of dollars.",
+    "geojson": "chinese-bahaba.geojson"
+  },
+  {
+    "code": "chinese-crested-tern",
+    "name": "Chinese Crested Tern",
+    "scientificName": "Thalasseus bernsteini",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~100 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Coastal islands",
+    "threats": [
+      "Egg collection",
+      "Typhoons",
+      "Habitat disturbance",
+      "Small population size"
+    ],
+    "conservationEfforts": "Artificial decoys attracted terns to protected nesting sites. Social attraction techniques increased colony size. Joint China-Taiwan conservation program.",
+    "description": "One of the world's rarest seabirds, rediscovered in 2000 after being thought extinct for 63 years. It nests among larger tern colonies on small offshore islands.",
+    "geojson": "chinese-crested-tern.geojson"
+  },
+  {
+    "code": "chinese-giant-salamander",
+    "name": "Chinese Giant Salamander",
+    "scientificName": "Andrias davidianus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Cold mountain streams",
+    "threats": [
+      "Overexploitation for food",
+      "Habitat degradation",
+      "Dam construction",
+      "Pollution"
+    ],
+    "conservationEfforts": "Chinese government banned wild harvest. National nature reserves protect key habitats. However, farming operations have released non-native genetic lineages into the wild.",
+    "description": "The world's largest amphibian, reaching 1.8 meters long. Once widespread in Chinese rivers, it has declined by over 80% due to hunting for luxury food consumption.",
+    "geojson": "chinese-giant-salamander.geojson"
+  },
+  {
+    "code": "chinese-paddlefish",
+    "name": "Chinese Paddlefish",
+    "scientificName": "Psephurus gladius",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Declared extinct in 2020",
+    "populationTrend": "Decreasing",
+    "habitatType": "Large river (Yangtze)",
+    "threats": [
+      "Dam construction",
+      "Overfishing",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "Declared functionally extinct in 2019 and officially extinct in 2022. The Gezhouba Dam blocked migration routes in 1981. Despite decades of conservation attempts, the species could not be saved.",
+    "description": "Once one of the world's largest freshwater fish at 7 meters long, the Chinese paddlefish was declared extinct in 2022. The last confirmed sighting was in 2003. Dam construction on the Yangtze sealed its fate.",
+    "geojson": "chinese-paddlefish.geojson"
+  },
+  {
+    "code": "chinese-sturgeon",
+    "name": "Chinese Sturgeon",
+    "scientificName": "Acipenser sinensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~100 breeding adults",
+    "populationTrend": "Decreasing",
+    "habitatType": "River and coastal waters",
+    "threats": [
+      "Dam construction",
+      "Water pollution",
+      "Overfishing",
+      "Ship traffic"
+    ],
+    "conservationEfforts": "Gezhouba Dam hatchery releases millions of juveniles annually. Yangtze fishing ban since 2021. Research into artificial spawning techniques.",
+    "description": "One of the oldest surviving fish species at 140 million years old. They migrate from the ocean to the Yangtze River to spawn, but the Gezhouba Dam has blocked access to historical spawning grounds since 1981.",
+    "geojson": "chinese-sturgeon.geojson"
+  },
+  {
+    "code": "christmas-frigatebird",
+    "name": "Christmas Island Frigatebird",
+    "scientificName": "Fregata andrewsi",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~2,400 pairs",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical forest and ocean",
+    "threats": [
+      "Habitat loss",
+      "Invasive species",
+      "Marine pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": "Christmas Island National Park protects nesting habitat. Crazy ant control using biological methods. Marine protection around the island.",
+    "description": "A large seabird that breeds only on Christmas Island in the Indian Ocean. Males inflate a brilliant red throat pouch to attract mates. They are kleptoparasites, stealing food from other seabirds in flight.",
+    "geojson": "christmas-frigatebird.geojson"
+  },
+  {
+    "code": "clouded-leopard",
+    "name": "Sunda Clouded Leopard",
+    "scientificName": "Neofelis diardi",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest",
+    "threats": [
+      "Deforestation",
+      "Poaching",
+      "Palm oil plantations"
+    ],
+    "conservationEfforts": "Protected areas on Borneo and Sumatra. Camera trapping surveys monitor populations. Heart of Borneo initiative conserves vast forest areas.",
+    "description": "Separated from mainland clouded leopards as a distinct species in 2006. Found only on Borneo and Sumatra, it has the longest canine teeth relative to body size of any living cat.",
+    "geojson": "clouded-leopard.geojson"
+  },
+  {
+    "code": "coelacanth",
+    "name": "Coelacanth",
+    "scientificName": "Latimeria chalumnae",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Deep sea caves and ledges",
+    "threats": [
+      "Bycatch in deep-sea nets",
+      "Small population size",
+      "Limited habitat"
+    ],
+    "conservationEfforts": "CITES Appendix I listing bans trade. Research using submersibles monitors populations. Fishermen trained to release accidentally caught coelacanths.",
+    "description": "A living fossil unchanged for 400 million years, once thought to have gone extinct with the dinosaurs until a living specimen was caught off South Africa in 1938. They give live birth and have lobed fins that move like legs.",
+    "geojson": "coelacanth.geojson"
+  },
+  {
+    "code": "corroboree-frog",
+    "name": "Southern Corroboree Frog",
+    "scientificName": "Pseudophryne corroboree",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~50 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Subalpine sphagnum bog",
+    "threats": [
+      "Chytrid fungus",
+      "Climate change",
+      "Drought",
+      "Fire"
+    ],
+    "conservationEfforts": "Taronga Zoo and Melbourne Zoo breed captive populations. Field enclosures with treated water protect frogs from chytrid. Fewer than 50 remain in the wild.",
+    "description": "Australia's most iconic frog with striking black and yellow stripes. Found only in a tiny area of the Australian Alps, it is one of the few poisonous frogs outside the tropics, producing its own alkaloid toxins.",
+    "geojson": "corroboree-frog.geojson"
+  },
+  {
+    "code": "cross-river-gorilla",
+    "name": "Cross River Gorilla",
+    "scientificName": "Gorilla gorilla diehli",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~300 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Montane and lowland tropical forest",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Small population size",
+      "Fragmentation"
+    ],
+    "conservationEfforts": "Cross River gorilla action plan coordinates Nigeria and Cameroon conservation. Community-based programs protect habitat corridors between fragmented populations.",
+    "description": "The world's rarest great ape, found only in the border region between Nigeria and Cameroon. They live in rugged, mountainous terrain and are extremely shy of humans.",
+    "geojson": "cross-river-gorilla.geojson"
+  },
+  {
+    "code": "cuban-crocodile",
+    "name": "Cuban Crocodile",
+    "scientificName": "Crocodylus rhombifer",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~3,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Freshwater swamp",
+    "threats": [
+      "Hybridization with American crocs",
+      "Illegal hunting",
+      "Small range"
+    ],
+    "conservationEfforts": "Zapata Swamp National Park protects the main population. Captive breeding program. Genetic studies identify pure Cuban crocodiles for conservation priority.",
+    "description": "Has the smallest natural range of any living crocodilian, restricted primarily to Cuba's Zapata Swamp. Known for their aggression and ability to leap from water to catch prey from overhanging branches.",
+    "geojson": "cuban-crocodile.geojson"
+  },
+  {
+    "code": "darwin-frog",
+    "name": "Darwin's Frog",
+    "scientificName": "Rhinoderma darwinii",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Temperate forest and streams",
+    "threats": [
+      "Chytrid fungus",
+      "Habitat loss",
+      "Logging",
+      "Climate change"
+    ],
+    "conservationEfforts": "Chile and Argentina protect habitat in national parks. Research programs study chytrid disease dynamics. Captive husbandry attempted with limited success.",
+    "description": "Named after Charles Darwin who discovered it, the male Darwin's frog swallows developing tadpoles and broods them in his vocal sac, eventually coughing up fully formed froglets.",
+    "geojson": "darwin-frog.geojson"
+  },
+  {
+    "code": "devils-hole-pupfish",
+    "name": "Devils Hole Pupfish",
+    "scientificName": "Cyprinodon diabolis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~175-263 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Single desert pool",
+    "threats": [
+      "Groundwater depletion",
+      "Climate change",
+      "Flash floods",
+      "Small population size"
+    ],
+    "conservationEfforts": "Devils Hole declared a national monument by President Truman in 1952. Supreme Court case protected water levels. Refuge populations established at Ash Meadows Fish Conservation Facility.",
+    "description": "Lives in a single water-filled cavern in the Nevada desert — the smallest known habitat of any vertebrate. The visible shelf they depend on for spawning is just 3.5 x 5.5 meters.",
+    "geojson": "devils-hole-pupfish.geojson"
+  },
+  {
+    "code": "dhole",
+    "name": "Dhole",
+    "scientificName": "Cuon alpinus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~4,500-10,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Deciduous and evergreen forest",
+    "threats": [
+      "Habitat loss",
+      "Prey depletion",
+      "Disease",
+      "Human persecution"
+    ],
+    "conservationEfforts": "Protected in many Asian countries. Wildlife corridors maintain connectivity between populations. Disease management programs reduce rabies and canine distemper.",
+    "description": "Asia's wild dog, also known as the Asiatic wild dog. They hunt in packs and can take prey ten times their own size. Their whistling calls coordinate pack movements through dense forest.",
+    "geojson": "dhole.geojson"
+  },
+  {
+    "code": "drill",
+    "name": "Drill",
+    "scientificName": "Mandrillus leucophaeus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~3,000-8,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland forest",
+    "threats": [
+      "Habitat loss",
+      "Bushmeat hunting",
+      "Logging"
+    ],
+    "conservationEfforts": "Pandrillus Foundation in Nigeria operates rehabilitation centers. Cross River National Park protects core habitat. Captive breeding programs in several countries.",
+    "description": "One of Africa's most endangered primates, closely related to the mandrill. Males have a bright red lower lip and blue-purple rump. Found only in Nigeria, Cameroon, and Bioko Island.",
+    "geojson": "drill.geojson"
+  },
+  {
+    "code": "dusky-gopher-frog",
+    "name": "Dusky Gopher Frog",
+    "scientificName": "Lithobates sevosus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~135 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Longleaf pine forest and ephemeral ponds",
+    "threats": [
+      "Habitat loss",
+      "Small range",
+      "Fire suppression",
+      "Disease"
+    ],
+    "conservationEfforts": "Captive breeding at multiple US zoos. Prescribed burning maintains pine savanna habitat. Critical habitat designation protects potential reintroduction sites.",
+    "description": "One of the most endangered amphibians in North America, surviving in just a few ponds in Mississippi. It depends on longleaf pine forests maintained by frequent fire.",
+    "geojson": "dusky-gopher-frog.geojson"
+  },
+  {
+    "code": "eastern-indigo-snake",
+    "name": "Eastern Indigo Snake",
+    "scientificName": "Drymarchon couperi",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Pine flatwoods and sandhills",
+    "threats": [
+      "Habitat loss",
+      "Road mortality",
+      "Collection for pet trade",
+      "Gopher tortoise burrow destruction"
+    ],
+    "conservationEfforts": "Protected under US Endangered Species Act. Captive breeding and reintroduction in Alabama and Florida. Habitat restoration of longleaf pine ecosystems.",
+    "description": "The longest native snake in North America, reaching 2.6 meters. It is non-venomous and immune to rattlesnake venom, even preying on venomous snakes.",
+    "geojson": "eastern-indigo-snake.geojson"
+  },
+  {
+    "code": "ethiopian-wolf",
+    "name": "Ethiopian Wolf",
+    "scientificName": "Canis simensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Afroalpine grassland",
+    "threats": [
+      "Habitat loss",
+      "Rabies from domestic dogs",
+      "Hybridization",
+      "Climate change"
+    ],
+    "conservationEfforts": "Ethiopian Wolf Conservation Programme vaccinates domestic dogs and wolves against rabies. Community engagement protects key habitats in the Bale Mountains.",
+    "description": "Africa's most endangered carnivore and the world's rarest canid, found only in the highlands of Ethiopia above 3,000 meters. They specialize in hunting rodents in Afroalpine meadows.",
+    "geojson": "ethiopian-wolf.geojson"
+  },
+  {
+    "code": "european-eel",
+    "name": "European Eel",
+    "scientificName": "Anguilla anguilla",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Rivers, estuaries, and Sargasso Sea",
+    "threats": [
+      "Overfishing",
+      "Habitat loss",
+      "Dam barriers",
+      "Parasites",
+      "Pollution"
+    ],
+    "conservationEfforts": "EU Eel Regulation requires management plans. Fish passage facilities at dams. Glass eel fishery quotas. Restocking programs in rivers.",
+    "description": "Born in the Sargasso Sea, European eels drift across the Atlantic as larvae, enter European rivers where they live for 5-20 years, then mysteriously return to the Sargasso to spawn and die. No one has ever observed them spawning.",
+    "geojson": "european-eel.geojson"
+  },
+  {
+    "code": "european-mink",
+    "name": "European Mink",
+    "scientificName": "Mustela lutreola",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~15,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Riverine and wetland habitat",
+    "threats": [
+      "Competition from American mink",
+      "Habitat loss",
+      "Pollution",
+      "Fragmentation"
+    ],
+    "conservationEfforts": "European Mink Conservation Programme breeds and releases captive-bred animals. American mink eradication on islands. Spanish and Estonian populations are conservation priorities.",
+    "description": "Not to be confused with the American mink, the European mink has declined by over 90% in the past 30 years. Competition with the invasive American mink is its greatest threat.",
+    "geojson": "european-mink.geojson"
+  },
+  {
+    "code": "european-sturgeon",
+    "name": "European Sturgeon",
+    "scientificName": "Acipenser sturio",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~20-750 adults",
+    "populationTrend": "Stable",
+    "habitatType": "River and coastal waters",
+    "threats": [
+      "Historical overfishing",
+      "Dam construction",
+      "Habitat degradation",
+      "Pollution"
+    ],
+    "conservationEfforts": "Last natural population in the Gironde River, France. IRSTEA leads captive breeding. Reintroduction efforts in the Elbe and other historic rivers. International action plan.",
+    "description": "Once found in every major European river, this sturgeon is now confined to the Gironde estuary in France. It is the most endangered fish species in Europe.",
+    "geojson": "european-sturgeon.geojson"
+  },
+  {
+    "code": "fiji-crested-iguana",
+    "name": "Fiji Crested Iguana",
+    "scientificName": "Brachylophus vitiensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~6,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Dry tropical forest",
+    "threats": [
+      "Habitat loss",
+      "Invasive cats and goats",
+      "Fire"
+    ],
+    "conservationEfforts": "National Trust of Fiji protects Yadua Taba island (main population). Goat eradication on key islands. Captive breeding at Kula Eco Park.",
+    "description": "One of the most striking reptiles in the Pacific, with bright emerald-green banding and a tall crest. It was only described by science in 1979. Its island forest habitat is disappearing rapidly.",
+    "geojson": "fiji-crested-iguana.geojson"
+  },
+  {
+    "code": "fin-whale",
+    "name": "Fin Whale",
+    "scientificName": "Balaenoptera physalus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~100,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Open ocean",
+    "threats": [
+      "Ship strikes",
+      "Ocean noise",
+      "Pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": "Protected under the International Whaling Commission moratorium. Critical habitat areas identified in key feeding grounds.",
+    "description": "The second-largest animal on Earth after the blue whale, reaching 27 meters. Unusually, their lower jaw is asymmetrically colored — white on the right and dark on the left.",
+    "geojson": "fin-whale.geojson"
+  },
+  {
+    "code": "fisher",
+    "name": "Pacific Fisher",
+    "scientificName": "Pekania pennanti",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~3,000 individuals (Pacific pop.)",
+    "populationTrend": "Decreasing",
+    "habitatType": "Old-growth coniferous forest",
+    "threats": [
+      "Habitat loss",
+      "Rodenticide poisoning",
+      "Vehicle strikes",
+      "Trapping"
+    ],
+    "conservationEfforts": "Reintroduced to Olympic National Park and North Cascades. Illegal marijuana grow site cleanup removes rodenticide threat. Listed as threatened under California Endangered Species Act.",
+    "description": "A large member of the weasel family found in Pacific Northwest old-growth forests. They are one of the few predators capable of killing porcupines. Rodenticide from illegal cannabis farms is a major emerging threat.",
+    "geojson": "fisher.geojson"
+  },
+  {
+    "code": "flying-fox-livingstone",
+    "name": "Livingstone's Fruit Bat",
+    "scientificName": "Pteropus livingstonii",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,400 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Montane moist forest",
+    "threats": [
+      "Habitat loss",
+      "Cyclones",
+      "Volcanic activity",
+      "Hunting"
+    ],
+    "conservationEfforts": "Durrell Wildlife Conservation Trust captive breeding in Jersey. Forest restoration on Anjouan and Mohéli islands. Community engagement reduces persecution.",
+    "description": "One of the world's largest and rarest fruit bats with a wingspan of 1.4 meters. Found only on two small islands in the Comoros archipelago between Madagascar and Mozambique.",
+    "geojson": "flying-fox-livingstone.geojson"
+  },
+  {
+    "code": "forest-owlet",
+    "name": "Forest Owlet",
+    "scientificName": "Athene blewitti",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~250 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Dry deciduous forest",
+    "threats": [
+      "Deforestation",
+      "Habitat fragmentation",
+      "Logging"
+    ],
+    "conservationEfforts": "Rediscovered in 1997 after being considered extinct for 113 years. Protected under Indian Wildlife Act. Research and monitoring of key populations in the Satpura Range.",
+    "description": "Lost to science from 1884 to 1997, this small owl was dramatically rediscovered in Maharashtra, India. It inhabits teak-dominated deciduous forests in central India.",
+    "geojson": "forest-owlet.geojson"
+  },
+  {
+    "code": "freshwater-sawfish",
+    "name": "Freshwater Sawfish",
+    "scientificName": "Pristis pristis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater river and estuary",
+    "threats": [
+      "Bycatch",
+      "Habitat loss",
+      "Entanglement",
+      "Dam construction"
+    ],
+    "conservationEfforts": "Protected in Australia where the largest populations remain. Indigenous ranger programs monitor populations in northern Australia. International trade banned.",
+    "description": "The largest of the sawfish family, historically reaching 6.5 meters. It was once found globally in tropical rivers but has been lost from over half its historical range.",
+    "geojson": "freshwater-sawfish.geojson"
+  },
+  {
+    "code": "galapagos-marine-iguana",
+    "name": "Galápagos Marine Iguana",
+    "scientificName": "Amblyrhynchus cristatus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~200,000-300,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Rocky volcanic coast",
+    "threats": [
+      "Invasive predators",
+      "Oil spills",
+      "Climate change (El Niño)",
+      "Plastic pollution"
+    ],
+    "conservationEfforts": "Galápagos National Park management. Invasive species control. Marine protection around the islands. Population crashes during severe El Niño events.",
+    "description": "The world's only ocean-going lizard, diving up to 20 meters to graze on algae. They sneeze out concentrated salt through special glands. Each island has a distinct subspecies with different coloring.",
+    "geojson": "galapagos-marine-iguana.geojson"
+  },
+  {
+    "code": "galapagos-tortoise",
+    "name": "Galápagos Giant Tortoise",
+    "scientificName": "Chelonoidis niger",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~20,000-25,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Volcanic island habitats",
+    "threats": [
+      "Invasive species",
+      "Historical hunting",
+      "Habitat degradation"
+    ],
+    "conservationEfforts": "Charles Darwin Research Station breeds tortoises. Giant Tortoise Restoration Initiative restores populations. Invasive species eradication on multiple islands.",
+    "description": "The world's largest tortoise, living over 175 years. Different island populations evolved distinct shell shapes. Lonesome George, the last Pinta Island tortoise, died in 2012.",
+    "geojson": "galapagos-tortoise.geojson"
+  },
+  {
+    "code": "gelada",
+    "name": "Gelada",
+    "scientificName": "Theropithecus gelada",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~200,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Montane grassland cliff edge",
+    "threats": [
+      "Habitat loss",
+      "Agricultural expansion",
+      "Shooting",
+      "Climate change"
+    ],
+    "conservationEfforts": "Simien Mountains National Park (World Heritage Site) protects key populations. Community conservation programs. Tourism revenue supports local protection efforts.",
+    "description": "The only grass-eating primate, found only in the Ethiopian highlands. They live in the largest primate societies with herds of over 1,000 individuals. Males have a distinctive red hourglass-shaped chest patch.",
+    "geojson": "gelada.geojson"
+  },
+  {
+    "code": "geometric-tortoise",
+    "name": "Geometric Tortoise",
+    "scientificName": "Psammobates geometricus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~2,000-3,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Lowland renosterveld",
+    "threats": [
+      "Habitat loss to agriculture",
+      "Fire",
+      "Invasive plants",
+      "Predation"
+    ],
+    "conservationEfforts": "Elandsberg Private Nature Reserve protects key populations. Habitat restoration of renosterveld patches. CapeNature manages protected areas.",
+    "description": "One of the rarest tortoises in the world, found only in lowland renosterveld habitat in the Western Cape of South Africa. Over 97% of its habitat has been lost to wheat farming and urbanization.",
+    "geojson": "geometric-tortoise.geojson"
+  },
+  {
+    "code": "gharial-false",
+    "name": "False Gharial",
+    "scientificName": "Tomistoma schlegelii",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~2,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater swamp and river",
+    "threats": [
+      "Habitat loss",
+      "Peat swamp drainage",
+      "Fishing nets"
+    ],
+    "conservationEfforts": "Protected in Indonesian and Malaysian national parks. Research programs study ecology and distribution. Captive breeding at several facilities.",
+    "description": "A large crocodilian with a slender snout, found in Southeast Asian peat swamps and rivers. Despite its name, recent research suggests it may actually be a true gharial relative.",
+    "geojson": "gharial-false.geojson"
+  },
+  {
+    "code": "gharial-tomistoma",
+    "name": "Tomistoma",
+    "scientificName": "Tomistoma schlegelii",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~2,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater peat swamp",
+    "threats": [
+      "Peat swamp conversion",
+      "Dam construction",
+      "Logging"
+    ],
+    "conservationEfforts": "Mesangat Lake in East Kalimantan serves as key habitat. Protected under Indonesian law. Research into population status and ecology is ongoing.",
+    "description": "A slender-snouted crocodilian of Southeast Asian peat swamps. Adults can reach 5 meters. Despite appearances, molecular studies suggest it may be more closely related to gharials than crocodiles.",
+    "geojson": "gharial-tomistoma.geojson"
+  },
+  {
+    "code": "gharial",
+    "name": "Gharial",
+    "scientificName": "Gavialis gangeticus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~650 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Large rivers with sandbars",
+    "threats": [
+      "Dam construction",
+      "Sand mining",
+      "Fishing nets",
+      "River pollution"
+    ],
+    "conservationEfforts": "National Chambal Sanctuary in India protects the largest population. Captive breeding and head-starting programs release juveniles into the wild.",
+    "description": "One of the longest of all crocodilians with a distinctive narrow snout. Males develop a bulbous growth on the tip of their snout called a ghara, used to produce buzzing vocalizations.",
+    "geojson": "gharial.geojson"
+  },
+  {
+    "code": "giant-freshwater-stingray",
+    "name": "Giant Freshwater Stingray",
+    "scientificName": "Urogymnus polylepis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Large tropical rivers",
+    "threats": [
+      "Bycatch",
+      "Sand mining",
+      "Dam construction",
+      "Pollution"
+    ],
+    "conservationEfforts": "Research expeditions in Thailand, Cambodia, and Borneo. Community-based fisheries management. The largest specimen ever recorded (300 kg) was caught and released in Cambodia in 2022.",
+    "description": "One of the world's largest freshwater fish, with a disc width of up to 2.4 meters. They bury themselves in sandy river bottoms and have a venomous tail barb up to 38 cm long.",
+    "geojson": "giant-freshwater-stingray.geojson"
+  },
+  {
+    "code": "giant-panda",
+    "name": "Giant Panda",
+    "scientificName": "Ailuropoda melanoleuca",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,860 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Temperate bamboo forest",
+    "threats": [
+      "Habitat fragmentation",
+      "Climate change",
+      "Low reproductive rate"
+    ],
+    "conservationEfforts": "China's national reserve system protects 67% of panda habitat. Captive breeding programs have been highly successful. Bamboo corridor restoration connects isolated populations.",
+    "description": "An iconic symbol of conservation, the giant panda lives in bamboo forests of central China. Their classification was downgraded from Endangered to Vulnerable in 2016 thanks to decades of intensive conservation.",
+    "geojson": "giant-panda.geojson"
+  },
+  {
+    "code": "giant-sea-bass",
+    "name": "Giant Sea Bass",
+    "scientificName": "Stereolepis gigas",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, slowly recovering",
+    "populationTrend": "Increasing",
+    "habitatType": "Rocky reef and kelp forest",
+    "threats": [
+      "Historical overfishing",
+      "Gill net bycatch",
+      "Slow growth rate"
+    ],
+    "conservationEfforts": "Protected from fishing since 1982 in California. Population slowly recovering after decades. Research using photo-ID tracks individual fish over many years.",
+    "description": "California's largest nearshore fish, reaching 2.5 meters and 255 kg. Once nearly extirpated by fishing, it has been slowly recovering since gaining protection. They can live over 75 years.",
+    "geojson": "giant-sea-bass.geojson"
+  },
+  {
+    "code": "gila-trout",
+    "name": "Gila Trout",
+    "scientificName": "Oncorhynchus gilae",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~3,000-5,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Cold mountain streams",
+    "threats": [
+      "Hybridization with rainbow trout",
+      "Wildfire",
+      "Habitat degradation",
+      "Drought"
+    ],
+    "conservationEfforts": "Recovered enough to be reclassified from Endangered to Vulnerable. Barrier installation prevents non-native trout invasion. Multiple population reintroductions in historic streams.",
+    "description": "A beautiful golden trout native to the Gila River headwaters in New Mexico and Arizona. It was nearly eliminated by hybridization with introduced rainbow and brown trout.",
+    "geojson": "gila-trout.geojson"
+  },
+  {
+    "code": "glass-frog-fleischmanns",
+    "name": "Fleischmann's Glass Frog",
+    "scientificName": "Hyalinobatrachium fleischmanni",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining in parts",
+    "populationTrend": "Decreasing",
+    "habitatType": "Humid tropical forest near streams",
+    "threats": [
+      "Habitat loss",
+      "Chytrid fungus",
+      "Climate change",
+      "Pollution"
+    ],
+    "conservationEfforts": "Protected within Central American national parks and reserves. Research into glass frog ecology. Stream habitat conservation.",
+    "description": "Named for their translucent bellies through which internal organs, including a beating heart, are visible. They lay eggs on leaves overhanging streams, and tadpoles drop into the water upon hatching.",
+    "geojson": "glass-frog-fleischmanns.geojson"
+  },
+  {
+    "code": "golden-frog",
+    "name": "Panamanian Golden Frog",
+    "scientificName": "Atelopus zeteki",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Possibly extinct in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Cloud forest streams",
+    "threats": [
+      "Chytrid fungus",
+      "Habitat loss",
+      "Collection",
+      "Climate change"
+    ],
+    "conservationEfforts": "Likely extinct in the wild due to chytrid fungus. Project Golden Frog maintains captive populations in over 50 institutions. Panama's national animal and cultural icon.",
+    "description": "A brilliant yellow frog that is Panama's national symbol. Chytrid fungus has devastated wild populations and it may now be extinct in the wild, surviving only in captive breeding programs.",
+    "geojson": "golden-frog.geojson"
+  },
+  {
+    "code": "golden-mantella",
+    "name": "Golden Mantella",
+    "scientificName": "Mantella aurantiaca",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Swamp forest",
+    "threats": [
+      "Habitat loss",
+      "Collection for pet trade",
+      "Chytrid fungus"
+    ],
+    "conservationEfforts": "Mitsinjo Association protects core habitat. Captive breeding in international zoos. Community forest management. CITES Appendix II listing regulates trade.",
+    "description": "A tiny bright-orange frog from a small area of eastern Madagascar. Like poison dart frogs (to which they are not related), they get their toxins from the insects they eat.",
+    "geojson": "golden-mantella.geojson"
+  },
+  {
+    "code": "golden-snub-nosed-monkey",
+    "name": "Golden Snub-nosed Monkey",
+    "scientificName": "Rhinopithecus roxellana",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~15,000-20,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Temperate mountain forest",
+    "threats": [
+      "Habitat loss",
+      "Logging",
+      "Climate change"
+    ],
+    "conservationEfforts": "Protected in Chinese nature reserves including Shennongjia and Wolong. Population stabilized through logging bans and reserve expansion.",
+    "description": "Named for its upturned nose and golden fur, this monkey endures some of the coldest temperatures of any non-human primate, living at elevations up to 4,000 meters in snowy Chinese mountains.",
+    "geojson": "golden-snub-nosed-monkey.geojson"
+  },
+  {
+    "code": "goliath-frog",
+    "name": "Goliath Frog",
+    "scientificName": "Conraua goliath",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Fast-flowing river and waterfall",
+    "threats": [
+      "Bushmeat hunting",
+      "Habitat loss",
+      "Pet trade",
+      "Dam construction"
+    ],
+    "conservationEfforts": "Community-based conservation in Cameroon. Research into population status and ecology. Proposed protected areas along key river systems.",
+    "description": "The world's largest living frog, reaching 32 cm and 3.3 kg. Found only in a small area of Cameroon and Equatorial Guinea. They build large circular nests of rocks to protect their eggs.",
+    "geojson": "goliath-frog.geojson"
+  },
+  {
+    "code": "great-indian-bustard",
+    "name": "Great Indian Bustard",
+    "scientificName": "Ardeotis nigriceps",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~150 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Dry grassland and scrubland",
+    "threats": [
+      "Power line collisions",
+      "Habitat loss",
+      "Hunting",
+      "Renewable energy development"
+    ],
+    "conservationEfforts": "Supreme Court of India ordered power lines in bustard habitat to be moved underground. Breeding centers established. Desert National Park Sanctuary protects key habitat.",
+    "description": "Once widespread across the Indian subcontinent, this massive bird (one of the heaviest flying birds at 15 kg) has declined by 90% in 50 years, primarily due to collisions with power lines.",
+    "geojson": "great-indian-bustard.geojson"
+  },
+  {
+    "code": "great-white-shark",
+    "name": "Great White Shark",
+    "scientificName": "Carcharodon carcharias",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~3,500 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Coastal and open ocean",
+    "threats": [
+      "Bycatch",
+      "Shark finning",
+      "Persecution",
+      "Prey depletion"
+    ],
+    "conservationEfforts": "Protected in South Africa, Australia, USA, and other nations. CITES Appendix II listing. Great white shark cage diving tourism provides economic incentive for conservation.",
+    "description": "Despite their fearsome reputation, great white sharks are more threatened by humans than vice versa. They can detect a single drop of blood in 100 liters of water and sense electrical fields from prey heartbeats.",
+    "geojson": "great-white-shark.geojson"
+  },
+  {
+    "code": "greater-bamboo-lemur",
+    "name": "Greater Bamboo Lemur",
+    "scientificName": "Prolemur simus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~500-1,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Bamboo forest",
+    "threats": [
+      "Slash-and-burn agriculture",
+      "Bamboo harvesting",
+      "Mining",
+      "Hunting"
+    ],
+    "conservationEfforts": "Ranomafana National Park protects key populations. Bamboo planting programs restore habitat. Community engagement reduces slash-and-burn near lemur habitat.",
+    "description": "One of the most endangered primates in the world, dependent on bamboo forests in southeastern Madagascar. They consume bamboo containing enough cyanide to kill most animals.",
+    "geojson": "greater-bamboo-lemur.geojson"
+  },
+  {
+    "code": "green-turtle",
+    "name": "Green Sea Turtle",
+    "scientificName": "Chelonia mydas",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~85,000-90,000 nesting females",
+    "populationTrend": "Decreasing",
+    "habitatType": "Seagrass beds and coral reefs",
+    "threats": [
+      "Bycatch",
+      "Coastal development",
+      "Pollution",
+      "Egg collection"
+    ],
+    "conservationEfforts": "Tortuguero National Park in Costa Rica protects the largest Atlantic nesting colony. Community-based egg collection management. Satellite tracking reveals migration routes.",
+    "description": "Named for the green color of their body fat (from their herbivorous diet of seagrass), green turtles are vital for maintaining healthy seagrass ecosystems through their grazing.",
+    "geojson": "green-turtle.geojson"
+  },
+  {
+    "code": "harlequin-frog",
+    "name": "Limosa Harlequin Frog",
+    "scientificName": "Atelopus limosus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical moist forest streams",
+    "threats": [
+      "Chytrid fungus",
+      "Habitat loss",
+      "Climate change"
+    ],
+    "conservationEfforts": "Panama Amphibian Rescue and Conservation Project maintains assurance colonies. Research into chytrid-resistant populations. Community-based watershed protection.",
+    "description": "One of many harlequin frog species devastated by chytrid fungus across the Neotropics. Some populations show signs of developing resistance to the disease.",
+    "geojson": "harlequin-frog.geojson"
+  },
+  {
+    "code": "harpy-eagle",
+    "name": "Harpy Eagle",
+    "scientificName": "Harpia harpyja",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~50,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland rainforest",
+    "threats": [
+      "Deforestation",
+      "Hunting",
+      "Habitat fragmentation"
+    ],
+    "conservationEfforts": "The Peregrine Fund's Harpy Eagle Restoration Project breeds and releases eagles. National bird of Panama. Protected areas across Central and South America.",
+    "description": "The most powerful eagle in the Americas, with talons as large as a grizzly bear's claws. It hunts sloths and monkeys in the canopy of neotropical rainforests.",
+    "geojson": "harpy-eagle.geojson"
+  },
+  {
+    "code": "hawksbill-turtle",
+    "name": "Hawksbill Sea Turtle",
+    "scientificName": "Eretmochelys imbricata",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~20,000 nesting females",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coral reef and coastal",
+    "threats": [
+      "Shell trade",
+      "Egg collection",
+      "Habitat loss",
+      "Bycatch"
+    ],
+    "conservationEfforts": "CITES ban on international trade. Beach patrol programs protect nesting sites. Artificial reefs provide alternative habitat. Hatchery programs in many countries.",
+    "description": "Critically important for coral reef health, hawksbills eat sponges that would otherwise overgrow coral. Their beautiful shell has made them a target for the tortoiseshell trade for centuries.",
+    "geojson": "hawksbill-turtle.geojson"
+  },
+  {
+    "code": "hellbender",
+    "name": "Hellbender",
+    "scientificName": "Cryptobranchus alleganiensis",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Clear rocky streams",
+    "threats": [
+      "Water pollution",
+      "Sedimentation",
+      "Dam construction",
+      "Disease"
+    ],
+    "conservationEfforts": "State recovery plans in multiple US states. Stream restoration projects. Captive breeding at St. Louis Zoo and other facilities for supplementation releases.",
+    "description": "North America's largest salamander at up to 74 cm. It breathes almost entirely through its wrinkled skin and requires extremely clean, well-oxygenated mountain streams.",
+    "geojson": "hellbender.geojson"
+  },
+  {
+    "code": "helmeted-hornbill",
+    "name": "Helmeted Hornbill",
+    "scientificName": "Rhinoplax vigil",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "Unknown, rapidly declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland forest",
+    "threats": [
+      "Poaching for casque",
+      "Deforestation",
+      "Illegal trade"
+    ],
+    "conservationEfforts": "CITES Appendix I listing since 1975. Helmeted Hornbill Working Group coordinates range-state conservation. Anti-poaching patrols in key habitats. Demand reduction campaigns in consumer countries.",
+    "description": "The only hornbill with a solid casque (hornlike structure on the bill), making it a target for illegal trade as a substitute for ivory. Males engage in dramatic aerial casque-butting contests.",
+    "geojson": "helmeted-hornbill.geojson"
+  },
+  {
+    "code": "hippopotamus",
+    "name": "Pygmy Hippopotamus",
+    "scientificName": "Choeropsis liberiensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~2,000-2,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland forest and swamp",
+    "threats": [
+      "Deforestation",
+      "Bushmeat hunting",
+      "War and instability",
+      "Mining"
+    ],
+    "conservationEfforts": "Sapo National Park in Liberia protects core habitat. ZSL EDGE programme funds research and community conservation. Captive populations in zoos worldwide.",
+    "description": "Much smaller than the common hippo at only 250 kg. They are secretive, nocturnal forest dwellers found in the shrinking forests of West Africa.",
+    "geojson": "hippopotamus.geojson"
+  },
+  {
+    "code": "hirola",
+    "name": "Hirola",
+    "scientificName": "Beatragus hunteri",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Arid grassland and savanna",
+    "threats": [
+      "Habitat loss",
+      "Drought",
+      "Disease",
+      "Competition with livestock"
+    ],
+    "conservationEfforts": "Hirola Conservation Programme in Kenya. Community conservancies provide habitat. Captive breeding program at Tsavo East National Park.",
+    "description": "Known as the four-eyed antelope due to distinctive preorbital glands beneath their eyes. The world's most endangered antelope, found only along the Kenya-Somalia border.",
+    "geojson": "hirola.geojson"
+  },
+  {
+    "code": "hooded-grebe",
+    "name": "Hooded Grebe",
+    "scientificName": "Podiceps gallardoi",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~700 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "High-altitude volcanic lake",
+    "threats": [
+      "Invasive American mink",
+      "Climate change",
+      "Kelp gull predation"
+    ],
+    "conservationEfforts": "Proyecto Macá Tobiano predator control on nesting lakes. Community engagement in Patagonia. Artificial floating platforms provide safe nesting sites.",
+    "description": "Discovered only in 1974 in the remote basalt plateaus of Patagonia, this grebe performs an elaborate synchronized courtship dance. American mink invasion has caused nesting failures.",
+    "geojson": "hooded-grebe.geojson"
+  },
+  {
+    "code": "houston-toad",
+    "name": "Houston Toad",
+    "scientificName": "Anaxyrus houstonensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~3,000-4,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Pine and oak woodland with sandy soil",
+    "threats": [
+      "Habitat loss",
+      "Drought",
+      "Urbanization",
+      "Inbreeding"
+    ],
+    "conservationEfforts": "Houston Zoo captive breeding program. Bastrop County habitat conservation plan. Post-wildfire habitat restoration after 2011 Bastrop Complex fire.",
+    "description": "One of the most endangered amphibians in the US, restricted to sandy soils in central Texas. It was nearly wiped out by a severe drought and devastating wildfire in 2011.",
+    "geojson": "houston-toad.geojson"
+  },
+  {
+    "code": "hula-painted-frog",
+    "name": "Hula Painted Frog",
+    "scientificName": "Latonia nigriventer",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~5-10 individuals",
+    "populationTrend": "Unknown",
+    "habitatType": "Wetland and marsh",
+    "threats": [
+      "Habitat drainage",
+      "Small population size",
+      "Water diversion"
+    ],
+    "conservationEfforts": "Rediscovered in 2011 after 60 years of presumed extinction — the first amphibian to be removed from the IUCN extinct list. Hula Valley Nature Reserve provides protected habitat. Wetland restoration underway.",
+    "description": "A living fossil closely related to frogs that lived 15,000 years ago. Thought extinct since 1955 when its marsh habitat was drained, it was sensationally rediscovered in Israel's Hula Valley in 2011.",
+    "geojson": "hula-painted-frog.geojson"
+  },
+  {
+    "code": "humpback-whale",
+    "name": "Humpback Whale",
+    "scientificName": "Megaptera novaeangliae",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~80,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Open ocean and coastal waters",
+    "threats": [
+      "Ship strikes",
+      "Entanglement",
+      "Ocean noise",
+      "Climate change"
+    ],
+    "conservationEfforts": "International Whaling Commission moratorium protects from commercial whaling. Whale watching industry provides economic incentive for conservation.",
+    "description": "Famous for their complex songs and acrobatic breaching. Humpbacks migrate up to 16,000 km annually between polar feeding grounds and tropical breeding areas — the longest migration of any mammal.",
+    "geojson": "humpback-whale.geojson"
+  },
+  {
+    "code": "hyacinth-macaw",
+    "name": "Hyacinth Macaw",
+    "scientificName": "Anodorhynchus hyacinthinus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~4,300 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Palm savanna and woodland",
+    "threats": [
+      "Illegal pet trade",
+      "Habitat loss",
+      "Fire"
+    ],
+    "conservationEfforts": "Instituto Arara Azul nest box program in the Pantanal. Community engagement protects nesting trees. Population stabilized through anti-poaching enforcement and habitat management.",
+    "description": "The world's largest parrot at 1 meter long, with brilliant cobalt-blue plumage. Their powerful beak can crack palm nuts that no other bird can open. They mate for life.",
+    "geojson": "hyacinth-macaw.geojson"
+  },
+  {
+    "code": "iberian-lynx",
+    "name": "Iberian Lynx",
+    "scientificName": "Lynx pardinus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,700 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Mediterranean scrubland",
+    "threats": [
+      "Habitat loss",
+      "Road mortality",
+      "Rabbit disease",
+      "Genetic bottleneck"
+    ],
+    "conservationEfforts": "One of conservation's greatest successes — population increased from 94 in 2002 to over 1,700. Captive breeding and reintroduction across Spain and Portugal.",
+    "description": "Once the world's most endangered cat species with fewer than 100 individuals in 2002. Intensive conservation including captive breeding and habitat restoration has dramatically increased the population.",
+    "geojson": "iberian-lynx.geojson"
+  },
+  {
+    "code": "indri",
+    "name": "Indri",
+    "scientificName": "Indri indri",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,000-10,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical moist lowland and montane forest",
+    "threats": [
+      "Slash-and-burn agriculture",
+      "Logging",
+      "Hunting",
+      "Mining"
+    ],
+    "conservationEfforts": "Andasibe-Mantadia National Park protects core habitat. Community-based ecotourism provides economic alternatives. Madagascar's national parks expanded in 2003.",
+    "description": "The largest living lemur, famous for its haunting whale-like songs that carry for kilometers through Madagascar's eastern rainforest. They have never survived in captivity.",
+    "geojson": "indri.geojson"
+  },
+  {
+    "code": "jamaican-iguana",
+    "name": "Jamaican Iguana",
+    "scientificName": "Cyclura collei",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~200 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Dry limestone forest",
+    "threats": [
+      "Predation by mongoose",
+      "Habitat loss",
+      "Charcoal production",
+      "Feral pigs"
+    ],
+    "conservationEfforts": "Rediscovered in 1990 after being thought extinct since 1948. Hellshire Hills recovery program includes head-starting and mongoose control. Jamaica's Hope Zoo breeds captive iguanas.",
+    "description": "Rediscovered in Jamaica's Hellshire Hills after 44 years of presumed extinction. The introduced Indian mongoose is its primary predator, and control programs have been essential for recovery.",
+    "geojson": "jamaican-iguana.geojson"
+  },
+  {
+    "code": "javan-rhino",
+    "name": "Javan Rhinoceros",
+    "scientificName": "Rhinoceros sondaicus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~76 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Tropical lowland rainforest",
+    "threats": [
+      "Habitat loss",
+      "Disease",
+      "Natural disasters",
+      "Small population size"
+    ],
+    "conservationEfforts": "Confined to Ujung Kulon National Park in Java, Indonesia. Camera traps monitor the population. Plans to establish a second population are underway.",
+    "description": "Once ranging from India to Southeast Asia, the Javan rhino is now restricted to a single national park on the western tip of Java. It is the rarest of the five rhinoceros species.",
+    "geojson": "javan-rhino.geojson"
+  },
+  {
+    "code": "kagu",
+    "name": "Kagu",
+    "scientificName": "Rhynochetos jubatus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~2,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Montane rainforest",
+    "threats": [
+      "Predation by dogs and cats",
+      "Habitat loss",
+      "Introduced pigs and rats"
+    ],
+    "conservationEfforts": "Rivière Bleue Provincial Park is the stronghold. Dog control and exclusion fencing. Captive breeding for population supplementation. Predator control across range.",
+    "description": "Found only in the forests of New Caledonia, this nearly flightless bird with powder-blue plumage and a dramatic crest has no close living relatives. It stamps its feet to flush prey from leaf litter.",
+    "geojson": "kagu.geojson"
+  },
+  {
+    "code": "kakapo-parrot",
+    "name": "Wombat (Northern Hairy-nosed)",
+    "scientificName": "Lasiorhinus krefftii",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~400 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Semi-arid grassland",
+    "threats": [
+      "Habitat loss",
+      "Drought",
+      "Dingo predation",
+      "Small population size"
+    ],
+    "conservationEfforts": "Epping Forest National Park protects the main colony behind predator-proof fencing. Second population established at Richard Underwood Nature Refuge. Population grown from 35 in 1980s to ~400.",
+    "description": "Australia's rarest large mammal, confined to a tiny reserve in Queensland. Northern hairy-nosed wombats build extensive underground burrow systems and are strictly nocturnal.",
+    "geojson": "kakapo-parrot.geojson"
+  },
+  {
+    "code": "kakapo",
+    "name": "Kakapo",
+    "scientificName": "Strigops habroptilus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~250 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Temperate podocarp forest",
+    "threats": [
+      "Predation by invasive species",
+      "Low reproductive rate",
+      "Disease",
+      "Inbreeding"
+    ],
+    "conservationEfforts": "All kakapo have been moved to predator-free islands. Every bird is individually named and tracked. Supplementary feeding boosts breeding success. Genome sequencing informs genetic management.",
+    "description": "The world's only flightless, nocturnal parrot and the heaviest parrot species. Males produce a deep booming call audible 5 km away. Each bird has a distinct personality known to researchers.",
+    "geojson": "kakapo.geojson"
+  },
+  {
+    "code": "kemp-ridley-turtle",
+    "name": "Kemp's Ridley Sea Turtle",
+    "scientificName": "Lepidochelys kempii",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~7,000-9,000 nesting females",
+    "populationTrend": "Increasing",
+    "habitatType": "Coastal waters and sandy beaches",
+    "threats": [
+      "Bycatch in shrimp trawls",
+      "Egg collection",
+      "Oil spills",
+      "Marine debris"
+    ],
+    "conservationEfforts": "Turtle Excluder Devices (TEDs) mandatory in US shrimp fisheries. Bi-national Mexico-US protection of Rancho Nuevo nesting beach. Head-starting program releases juveniles.",
+    "description": "The smallest and most endangered sea turtle. Nearly all nesting occurs on a single beach — Rancho Nuevo in Mexico, where a famous 1947 film captured an estimated 40,000 nesting in one day (an 'arribada').",
+    "geojson": "kemp-ridley-turtle.geojson"
+  },
+  {
+    "code": "kihansi-spray-toad",
+    "name": "Kihansi Spray Toad",
+    "scientificName": "Nectophrynoides asperginis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Extinct in wild, captive only",
+    "populationTrend": "Decreasing",
+    "habitatType": "Spray zone of waterfall",
+    "threats": [
+      "Dam construction",
+      "Chytrid fungus",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "Declared extinct in the wild in 2009 after a dam reduced waterfall spray. Bronx Zoo and Toledo Zoo maintain captive colonies. Reintroduction attempts underway with artificial spray systems.",
+    "description": "This tiny toad lived only in the spray zone of Kihansi Falls in Tanzania. When a hydroelectric dam reduced the falls by 90%, the toad's micro-habitat was destroyed. It survives only in zoos.",
+    "geojson": "kihansi-spray-toad.geojson"
+  },
+  {
+    "code": "kiwi-brown",
+    "name": "Brown Kiwi",
+    "scientificName": "Apteryx mantelli",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~25,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Temperate and subtropical forest",
+    "threats": [
+      "Predation by stoats and dogs",
+      "Habitat loss",
+      "Vehicle strikes"
+    ],
+    "conservationEfforts": "Predator control programs across New Zealand. Kiwi sanctuaries with predator-proof fencing. Operation Nest Egg hatches eggs in captivity and releases chicks when large enough to avoid stoats.",
+    "description": "New Zealand's iconic flightless bird with hair-like feathers and nostrils at the tip of its long bill. Despite being the national symbol, kiwi populations have declined by 90% in the last century.",
+    "geojson": "kiwi-brown.geojson"
+  },
+  {
+    "code": "kiwi-great-spotted",
+    "name": "Great Spotted Kiwi",
+    "scientificName": "Apteryx haastii",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~14,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Alpine and subalpine forest",
+    "threats": [
+      "Predation by stoats",
+      "Habitat loss",
+      "Mining"
+    ],
+    "conservationEfforts": "Predator control in key habitats. Operation Nest Egg program. Largest of the kiwi species at 3.3 kg.",
+    "description": "The largest kiwi species, found in the mountainous regions of New Zealand's South Island. Unlike other kiwi, they live in pairs rather than alone and fiercely defend their territories.",
+    "geojson": "kiwi-great-spotted.geojson"
+  },
+  {
+    "code": "komodo-dragon",
+    "name": "Komodo Dragon",
+    "scientificName": "Varanus komodoensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~3,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Tropical savanna and forest",
+    "threats": [
+      "Climate change",
+      "Habitat loss",
+      "Volcanic activity",
+      "Prey depletion"
+    ],
+    "conservationEfforts": "Komodo National Park protects the majority of the population. Strict visitor management limits tourism impact. Ranger patrols prevent poaching of deer (the dragon's main prey).",
+    "description": "The world's largest living lizard, reaching 3 meters and 70 kg. They have venomous bites and can detect carrion from 9.5 km away. Found only on a few Indonesian islands.",
+    "geojson": "komodo-dragon.geojson"
+  },
+  {
+    "code": "lake-sturgeon",
+    "name": "Lake Sturgeon",
+    "scientificName": "Acipenser fulvescens",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Depleted in most of range",
+    "populationTrend": "Increasing",
+    "habitatType": "Large freshwater lake and river",
+    "threats": [
+      "Historical overfishing",
+      "Dam construction",
+      "Habitat degradation",
+      "Pollution"
+    ],
+    "conservationEfforts": "Streamside rearing facilities hatch and release juveniles. Fish passage facilities at dams. Commercial fishing bans in most jurisdictions. Populations slowly recovering.",
+    "description": "North America's largest freshwater fish can reach 2.5 meters and live 150 years. Once so abundant they were considered a nuisance, they were nearly eliminated by overfishing in the 19th century.",
+    "geojson": "lake-sturgeon.geojson"
+  },
+  {
+    "code": "largetooth-sawfish",
+    "name": "Largetooth Sawfish",
+    "scientificName": "Pristis pristis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical river and coast",
+    "threats": [
+      "Bycatch",
+      "Habitat loss",
+      "Sawfish product trade"
+    ],
+    "conservationEfforts": "Listed on CITES Appendix I. Protected under Australian legislation. Sawfish conservation networks in West Africa and Central America. Indigenous ranger monitoring in northern Australia.",
+    "description": "Historically one of the most widespread sawfish, now extinct from most of its former range. Its toothed rostrum was once traded as a curiosity, contributing to population decline.",
+    "geojson": "largetooth-sawfish.geojson"
+  },
+  {
+    "code": "leatherback-turtle",
+    "name": "Leatherback Sea Turtle",
+    "scientificName": "Dermochelys coriacea",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~34,000-94,000 nesting females",
+    "populationTrend": "Decreasing",
+    "habitatType": "Open ocean and sandy beaches",
+    "threats": [
+      "Bycatch",
+      "Plastic ingestion",
+      "Egg collection",
+      "Coastal development"
+    ],
+    "conservationEfforts": "Turtle Excluder Devices (TEDs) required in shrimp trawls. Nesting beach protection programs worldwide. Plastic pollution reduction campaigns.",
+    "description": "The largest living turtle, reaching 2 meters and 700 kg. It can dive to 1,200 meters and maintain body temperature in near-freezing water. Their population has declined 40% in 15 years.",
+    "geojson": "leatherback-turtle.geojson"
+  },
+  {
+    "code": "lemur-blue-eyed-black",
+    "name": "Blue-eyed Black Lemur",
+    "scientificName": "Eulemur flavifrons",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~2,780 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical moist forest",
+    "threats": [
+      "Slash-and-burn agriculture",
+      "Logging",
+      "Hunting"
+    ],
+    "conservationEfforts": "Sahamalaza-Iles Radama National Park protects core habitat. Community-based conservation programs. One of the few non-human primates with blue eyes.",
+    "description": "The only non-human primate besides humans to consistently have blue eyes. Males are jet black while females are reddish-brown. Found only in a small area of northwestern Madagascar.",
+    "geojson": "lemur-blue-eyed-black.geojson"
+  },
+  {
+    "code": "lemur-leaf-frog",
+    "name": "Lemur Leaf Frog",
+    "scientificName": "Agalychnis lemur",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Humid premontane and montane forest",
+    "threats": [
+      "Chytrid fungus",
+      "Habitat loss",
+      "Climate change"
+    ],
+    "conservationEfforts": "Manchester Museum leads ex-situ breeding program. Costa Rica's amphibian research and conservation center maintains colonies. Habitat protection in lowland sites.",
+    "description": "A tiny bright green tree frog with huge dark eyes and orange feet. Once common in Costa Rica, it has nearly disappeared from most of its range due to chytrid fungus.",
+    "geojson": "lemur-leaf-frog.geojson"
+  },
+  {
+    "code": "lesser-florican",
+    "name": "Lesser Florican",
+    "scientificName": "Sypheotides indicus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~700 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Grassland and crop fields",
+    "threats": [
+      "Grassland conversion",
+      "Hunting",
+      "Pesticides"
+    ],
+    "conservationEfforts": "Indian government grassland protection programs. Community-based monitoring during breeding season. Research into habitat requirements for conservation management.",
+    "description": "India's smallest bustard, famous for its spectacular breeding display where males leap vertically to heights of 2 meters above the grass. Found only in the Indian subcontinent.",
+    "geojson": "lesser-florican.geojson"
+  },
+  {
+    "code": "majorcan-midwife-toad",
+    "name": "Majorcan Midwife Toad",
+    "scientificName": "Alytes muletensis",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~500 adults",
+    "populationTrend": "Increasing",
+    "habitatType": "Limestone gorge pools",
+    "threats": [
+      "Habitat disturbance",
+      "Water pollution",
+      "Introduced snakes",
+      "Disease"
+    ],
+    "conservationEfforts": "Discovered from fossil records in 1977, then found alive in 1980. Durrell Wildlife Conservation Trust captive breeding. Reintroduced to multiple gorge sites. Snake removal programs.",
+    "description": "Known only from fossils until living populations were discovered in limestone gorges of Mallorca in 1980. Males carry strings of eggs wrapped around their hind legs until they hatch.",
+    "geojson": "majorcan-midwife-toad.geojson"
+  },
+  {
+    "code": "maleo",
+    "name": "Maleo",
+    "scientificName": "Macrocephalon maleo",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~4,000-7,000 pairs",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland forest",
+    "threats": [
+      "Egg collection",
+      "Habitat loss",
+      "Predation by feral animals"
+    ],
+    "conservationEfforts": "Alliance for Tompotika Conservation protects nesting grounds. Community-based egg harvest management. Research into geothermal nesting site ecology.",
+    "description": "Found only on Sulawesi, Indonesia, the maleo buries its enormous eggs in volcanically heated sand or sun-warmed beaches. Its eggs are 5 times the size of a chicken egg relative to body weight.",
+    "geojson": "maleo.geojson"
+  },
+  {
+    "code": "mandarin-duck-scaly",
+    "name": "Scaly-sided Merganser",
+    "scientificName": "Mergus squamatus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~2,500 pairs",
+    "populationTrend": "Decreasing",
+    "habitatType": "Forested river valley",
+    "threats": [
+      "Deforestation",
+      "River disturbance",
+      "Nest site loss",
+      "Bycatch in fishing nets"
+    ],
+    "conservationEfforts": "Russian Far East protected areas. China established nature reserves for breeding populations. Nest box programs supplement natural tree holes. International action plan coordinates conservation.",
+    "description": "One of the world's most endangered ducks, breeding in pristine forested rivers of the Russian Far East and northeastern China. The male has a striking scaled pattern on its flanks.",
+    "geojson": "mandarin-duck-scaly.geojson"
+  },
+  {
+    "code": "mangarahara-cichlid",
+    "name": "Mangarahara Cichlid",
+    "scientificName": "Ptychochromis insolitus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Possibly extinct in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater river",
+    "threats": [
+      "Dam construction",
+      "Water diversion",
+      "Invasive species",
+      "Habitat degradation"
+    ],
+    "conservationEfforts": "Emergency aquarium rescue — only known captive fish were at London Zoo and Berlin Zoo. Successful breeding in 2013 saved the species from total extinction. Reintroduction studies underway.",
+    "description": "Thought to be the world's rarest fish when captive populations dropped to just two males. A desperate search found females in Madagascar in 2013, enabling breeding to save the species.",
+    "geojson": "mangarahara-cichlid.geojson"
+  },
+  {
+    "code": "marbled-murrelet",
+    "name": "Marbled Murrelet",
+    "scientificName": "Brachyramphus marmoratus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~20,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Old-growth coastal forest and ocean",
+    "threats": [
+      "Logging of nesting habitat",
+      "Oil spills",
+      "Gillnet bycatch",
+      "Predation"
+    ],
+    "conservationEfforts": "Listed under US Endangered Species Act. Critical habitat designated in old-growth forests. Oil spill response plans protect marine habitat.",
+    "description": "A small seabird with an unusual nesting strategy — it nests high in old-growth trees up to 60 km from the ocean. Loss of old-growth forest is its primary threat.",
+    "geojson": "marbled-murrelet.geojson"
+  },
+  {
+    "code": "markhor",
+    "name": "Markhor",
+    "scientificName": "Capra falconeri",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~5,700 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Steep mountain terrain",
+    "threats": [
+      "Hunting",
+      "Habitat loss",
+      "Military conflict",
+      "Disease from livestock"
+    ],
+    "conservationEfforts": "Trophy hunting programs in Pakistan generate conservation revenue for communities. Population has recovered significantly. National animal of Pakistan.",
+    "description": "A large wild goat with dramatic corkscrew horns up to 1.6 meters long. Its name is said to mean 'snake eater' in Persian, though it actually eats grasses, leaves, and acorns.",
+    "geojson": "markhor.geojson"
+  },
+  {
+    "code": "mata-mata-turtle",
+    "name": "Mata Mata Turtle",
+    "scientificName": "Chelus fimbriata",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Slow-moving freshwater",
+    "threats": [
+      "Habitat degradation",
+      "Collection for pet trade",
+      "Water pollution"
+    ],
+    "conservationEfforts": "CITES Appendix II listing in 2022 regulates international trade. Protected in several South American countries. Aquatic habitat conservation programs.",
+    "description": "One of the most bizarre-looking turtles, with a flattened triangular head covered in tubercles and flaps that act as camouflage. It captures fish by creating a vacuum with its large mouth.",
+    "geojson": "mata-mata-turtle.geojson"
+  },
+  {
+    "code": "maui-dolphin",
+    "name": "Maui Dolphin",
+    "scientificName": "Cephalorhynchus hectori maui",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~63 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal marine waters",
+    "threats": [
+      "Bycatch in set nets",
+      "Trawl fishing",
+      "Disease",
+      "Toxoplasmosis"
+    ],
+    "conservationEfforts": "Set net and trawl restrictions along the west coast of North Island. Threat Management Plan coordinates government and stakeholder actions. Population remains critically low.",
+    "description": "The world's smallest and rarest marine dolphin subspecies, found only off the west coast of New Zealand's North Island. They are identified by their distinctive rounded dorsal fin.",
+    "geojson": "maui-dolphin.geojson"
+  },
+  {
+    "code": "mekong-giant-catfish",
+    "name": "Mekong Giant Catfish",
+    "scientificName": "Pangasianodon gigas",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Large river (Mekong)",
+    "threats": [
+      "Dam construction",
+      "Overfishing",
+      "Habitat degradation"
+    ],
+    "conservationEfforts": "WWF Mekong program works to maintain river connectivity. Community fishery management in Cambodia and Thailand. Dam mitigation measures proposed for Mekong mainstream dams.",
+    "description": "The world's largest freshwater fish, historically reaching 3 meters and 300 kg. It has declined by over 80% in just 13 years due to overfishing and dam construction on the Mekong River.",
+    "geojson": "mekong-giant-catfish.geojson"
+  },
+  {
+    "code": "mexican-wolf",
+    "name": "Mexican Wolf",
+    "scientificName": "Canis lupus baileyi",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~240 in wild",
+    "populationTrend": "Increasing",
+    "habitatType": "Pine-oak woodland and grassland",
+    "threats": [
+      "Illegal killing",
+      "Small population size",
+      "Genetic bottleneck",
+      "Political opposition"
+    ],
+    "conservationEfforts": "Captive breeding since 1977 from last 7 wild wolves. Reintroduced in Arizona/New Mexico in 1998. Population has grown from 11 to over 240 wild wolves.",
+    "description": "The smallest and most genetically distinct subspecies of gray wolf in North America. All living Mexican wolves descend from just 7 founders captured in the 1970s.",
+    "geojson": "mexican-wolf.geojson"
+  },
+  {
+    "code": "monte-iberia-eleuth",
+    "name": "Monte Iberia Eleuth",
+    "scientificName": "Eleutherodactylus iberia",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, small range",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest floor",
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Small range"
+    ],
+    "conservationEfforts": "Parque Nacional Alejandro de Humboldt protects habitat. Research by Cuban herpetologists. No captive populations exist due to extreme difficulty of husbandry.",
+    "description": "One of the smallest frogs in the world at just 10 mm long. Found only on a single mountain in eastern Cuba. It is toxic, using alkaloids similar to poison dart frogs for defense.",
+    "geojson": "monte-iberia-eleuth.geojson"
+  },
+  {
+    "code": "mountain-chicken-frog",
+    "name": "Mountain Chicken Frog",
+    "scientificName": "Leptodactylus fallax",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~130 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical forest and ravines",
+    "threats": [
+      "Chytrid fungus",
+      "Volcanic eruption",
+      "Hunting",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "Durrell Wildlife Conservation Trust leads recovery on Dominica and Montserrat. Captive breeding in UK zoos. Anti-chytrid treatment trials in the field.",
+    "description": "One of the world's largest frogs (up to 21 cm), named because locals say it tastes like chicken. Chytrid fungus has reduced populations by 80% on its remaining Caribbean islands.",
+    "geojson": "mountain-chicken-frog.geojson"
+  },
+  {
+    "code": "mountain-gorilla",
+    "name": "Mountain Gorilla",
+    "scientificName": "Gorilla beringei beringei",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Montane cloud forest",
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Disease",
+      "Political instability"
+    ],
+    "conservationEfforts": "Dian Fossey Gorilla Fund and Gorilla Doctors provide veterinary care. Tourism revenue funds conservation. Population has grown from 620 in 1989 to over 1,000 today.",
+    "description": "Mountain gorillas live in the volcanic mountains of central Africa at elevations of 2,200-4,300 meters. They are one of conservation's greatest success stories, with populations slowly recovering.",
+    "geojson": "mountain-gorilla.geojson"
+  },
+  {
+    "code": "napoleonfish",
+    "name": "Humphead Wrasse",
+    "scientificName": "Cheilinus undulatus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coral reef",
+    "threats": [
+      "Overfishing",
+      "Live reef fish trade",
+      "Cyanide fishing",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "CITES Appendix II listing regulates trade. Marine protected areas. Indonesia and Malaysia have national protections. Live fish trade monitoring.",
+    "description": "The largest member of the wrasse family at 2 meters, named for the prominent hump on adult males' foreheads. They are a luxury food item in Asia, driving overfishing across their range.",
+    "geojson": "napoleonfish.geojson"
+  },
+  {
+    "code": "night-parrot",
+    "name": "Night Parrot",
+    "scientificName": "Pezoporus occidentalis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~50-250 individuals",
+    "populationTrend": "Unknown",
+    "habitatType": "Arid spinifex grassland",
+    "threats": [
+      "Cat and fox predation",
+      "Fire regime changes",
+      "Overgrazing"
+    ],
+    "conservationEfforts": "Rediscovered in 2013 in Queensland after no confirmed sighting since 1912. Pullen Pullen Reserve protects the known population. Predator exclusion fencing installed.",
+    "description": "Australia's most mysterious bird, the night parrot was considered possibly extinct for over a century before its dramatic rediscovery. It is strictly nocturnal and extremely cryptic.",
+    "geojson": "night-parrot.geojson"
+  },
+  {
+    "code": "north-atlantic-right-whale",
+    "name": "North Atlantic Right Whale",
+    "scientificName": "Eubalaena glacialis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~350 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Temperate ocean",
+    "threats": [
+      "Ship strikes",
+      "Entanglement in fishing gear",
+      "Ocean noise",
+      "Climate change"
+    ],
+    "conservationEfforts": "Seasonal speed restrictions for ships. Ropeless fishing gear development. Dynamic management areas based on whale sightings close areas to fishing temporarily.",
+    "description": "One of the world's most endangered large whales. They migrate along the eastern coast of North America and are particularly vulnerable to ship strikes and entanglement in lobster and crab fishing gear.",
+    "geojson": "north-atlantic-right-whale.geojson"
+  },
+  {
+    "code": "northern-bald-ibis",
+    "name": "Northern Bald Ibis",
+    "scientificName": "Geronticus eremita",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~700 wild individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Rocky semi-arid terrain",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Pesticides",
+      "Power line collisions"
+    ],
+    "conservationEfforts": "Moroccan population stable at about 700 birds. Reintroduction projects in Spain, Austria, and Turkey. Waldrapp team leads migration training with ultralight aircraft for reintroduced birds.",
+    "description": "Once found across southern Europe, North Africa, and the Middle East, this distinctive bald-headed ibis now survives mainly in Morocco. Reintroduction projects aim to restore European populations.",
+    "geojson": "northern-bald-ibis.geojson"
+  },
+  {
+    "code": "numbat",
+    "name": "Numbat",
+    "scientificName": "Myrmecobius fasciatus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Eucalypt woodland",
+    "threats": [
+      "Fox predation",
+      "Cat predation",
+      "Habitat loss",
+      "Fire"
+    ],
+    "conservationEfforts": "Project Numbat fox and cat control programs. Reintroduction to fenced reserves across southern Australia. Population increasing from about 1,000 individuals.",
+    "description": "Australia's only specialized ant and termite eater, consuming up to 20,000 termites per day using its long sticky tongue. Once widespread, it now survives mainly in small pockets of Western Australia.",
+    "geojson": "numbat.geojson"
+  },
+  {
+    "code": "okapi",
+    "name": "Okapi",
+    "scientificName": "Okapia johnstoni",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~35,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Dense tropical rainforest",
+    "threats": [
+      "Armed conflict",
+      "Illegal mining",
+      "Bushmeat hunting",
+      "Deforestation"
+    ],
+    "conservationEfforts": "Okapi Conservation Project works in the Okapi Wildlife Reserve. Community-based programs provide alternatives to bushmeat. Armed militia presence makes conservation dangerous.",
+    "description": "The only living relative of the giraffe, discovered by western science only in 1901. Its striking striped hindquarters provide camouflage in dense forest. Found only in the Democratic Republic of Congo.",
+    "geojson": "okapi.geojson"
+  },
+  {
+    "code": "olinguito",
+    "name": "Olinguito",
+    "scientificName": "Bassaricyon neblina",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown",
+    "populationTrend": "Decreasing",
+    "habitatType": "Cloud forest",
+    "threats": [
+      "Deforestation",
+      "Climate change",
+      "Habitat fragmentation"
+    ],
+    "conservationEfforts": "Discovered in 2013 as a new species — the first new carnivore described in the Americas in 35 years. Cloud forest reserves in Colombia and Ecuador protect habitat.",
+    "description": "The newest carnivore species discovered in the Western Hemisphere, described in 2013. It lives in cloud forests of the Andes and was previously misidentified in museum collections for over a century.",
+    "geojson": "olinguito.geojson"
+  },
+  {
+    "code": "olm",
+    "name": "Olm",
+    "scientificName": "Proteus anguinus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown",
+    "populationTrend": "Stable",
+    "habitatType": "Underground cave rivers",
+    "threats": [
+      "Water pollution",
+      "Habitat disturbance",
+      "Climate change",
+      "Tourism"
+    ],
+    "conservationEfforts": "Protected in Postojna Cave and other karst systems. EU Habitats Directive lists it as a priority species. Water quality monitoring in cave systems.",
+    "description": "Europe's only cave-dwelling vertebrate, the olm is a blind, pink-skinned salamander that lives in total darkness in the karst caves of the Dinaric Alps. It can survive up to 10 years without food.",
+    "geojson": "olm.geojson"
+  },
+  {
+    "code": "orange-bellied-parrot",
+    "name": "Orange-bellied Parrot",
+    "scientificName": "Neophema chrysogaster",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~50 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal saltmarsh and buttongrass moorland",
+    "threats": [
+      "Habitat loss",
+      "Psittacine beak and feather disease",
+      "Small population size",
+      "Climate change"
+    ],
+    "conservationEfforts": "Intensive captive breeding program. Release of captive-bred birds supplements wild population. Habitat management at breeding and wintering sites. Population has stabilized around 50 wild birds.",
+    "description": "One of Australia's rarest birds, breeding only in southwestern Tasmania and wintering on the coast of southeastern Australia. The captive insurance population exceeds the wild one many times over.",
+    "geojson": "orange-bellied-parrot.geojson"
+  },
+  {
+    "code": "orangutan-bornean",
+    "name": "Bornean Orangutan",
+    "scientificName": "Pongo pygmaeus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~104,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical and subtropical moist forest",
+    "threats": [
+      "Deforestation",
+      "Palm oil plantations",
+      "Hunting",
+      "Forest fires"
+    ],
+    "conservationEfforts": "Borneo Orangutan Survival Foundation operates rehabilitation centers. Orangutan Islands provide semi-wild environments for rescued individuals.",
+    "description": "The largest tree-dwelling animal, Bornean orangutans have experienced a 50% population decline in the past 60 years due to massive deforestation for palm oil and timber.",
+    "geojson": "orangutan-bornean.geojson"
+  },
+  {
+    "code": "orangutan-general",
+    "name": "Bornean Pygmy Elephant",
+    "scientificName": "Elephas maximus borneensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland rainforest",
+    "threats": [
+      "Habitat loss",
+      "Plantation expansion",
+      "Human-elephant conflict",
+      "Fragmentation"
+    ],
+    "conservationEfforts": "Kinabatangan Corridor of Life restoration project. Wildlife rescue units in Sabah relocate elephants from plantations. GPS collaring tracks elephant movements.",
+    "description": "The smallest elephant subspecies, found only in northeastern Borneo. They have larger ears, rounder faces, and longer tails than other Asian elephants. Their evolutionary origin remains debated.",
+    "geojson": "orangutan-general.geojson"
+  },
+  {
+    "code": "orangutan-tapanuli",
+    "name": "Sunda Colugo",
+    "scientificName": "Galeopterus variegatus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest",
+    "threats": [
+      "Deforestation",
+      "Hunting",
+      "Habitat fragmentation"
+    ],
+    "conservationEfforts": "Protected within national parks across Southeast Asia. Forest connectivity programs help maintain viable populations.",
+    "description": "Also known as the Malayan flying lemur (though it neither flies nor is a lemur), this mammal glides up to 136 meters between trees using a membrane stretching from face to tail tip.",
+    "geojson": "orangutan-tapanuli.geojson"
+  },
+  {
+    "code": "ozark-hellbender",
+    "name": "Ozark Hellbender",
+    "scientificName": "Cryptobranchus alleganiensis bishopi",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~590 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Clear Ozark mountain streams",
+    "threats": [
+      "Water quality degradation",
+      "Gravel mining",
+      "Disease",
+      "Low recruitment"
+    ],
+    "conservationEfforts": "St. Louis Zoo's Ron Goellner Center for Hellbender Conservation breeds and releases hundreds of juveniles. Stream restoration projects improve water quality.",
+    "description": "A subspecies of hellbender restricted to southern Missouri and northern Arkansas streams. It requires pristine water quality and has declined severely due to gravel mining and sedimentation.",
+    "geojson": "ozark-hellbender.geojson"
+  },
+  {
+    "code": "palila",
+    "name": "Palila",
+    "scientificName": "Loxioides bailleui",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Mamane-naio dry forest",
+    "threats": [
+      "Habitat loss",
+      "Introduced predators",
+      "Disease",
+      "Drought"
+    ],
+    "conservationEfforts": "Critical habitat on Mauna Kea, Hawaii. Feral ungulate removal protects mamane forest. Predator control reduces cat and rat impacts.",
+    "description": "A Hawaiian honeycreeper found only on the slopes of Mauna Kea on the Big Island. It feeds almost exclusively on mamane seed pods, making it one of the most habitat-specialized birds.",
+    "geojson": "palila.geojson"
+  },
+  {
+    "code": "pangolin-chinese",
+    "name": "Chinese Pangolin",
+    "scientificName": "Manis pentadactyla",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Subtropical forest and grassland",
+    "threats": [
+      "Illegal wildlife trade",
+      "Traditional medicine demand",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "CITES banned international commercial trade in 2016. China increased pangolin protection to highest national level in 2020. Rescue centers rehabilitate confiscated pangolins.",
+    "description": "The most trafficked mammal in the world. Chinese pangolins are covered in protective keratin scales and can curl into an impenetrable ball when threatened. They consume up to 70 million insects per year.",
+    "geojson": "pangolin-chinese.geojson"
+  },
+  {
+    "code": "pangolin-sunda",
+    "name": "Sunda Pangolin",
+    "scientificName": "Manis javanica",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical forest",
+    "threats": [
+      "Illegal wildlife trade",
+      "Traditional medicine demand",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "CITES banned international trade. Southeast Asian countries increase enforcement. Rescue centers rehabilitate confiscated pangolins. Demand reduction campaigns in consumer countries.",
+    "description": "The most trafficked animal in Southeast Asia, the Sunda pangolin can climb trees and hang from branches by its prehensile tail. When threatened, it rolls into a tight ball that lions cannot pry open.",
+    "geojson": "pangolin-sunda.geojson"
+  },
+  {
+    "code": "philippine-cockatoo",
+    "name": "Philippine Cockatoo",
+    "scientificName": "Cacatua haematuropygia",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~1,200 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Lowland forest and mangrove",
+    "threats": [
+      "Poaching for pet trade",
+      "Deforestation",
+      "Mining"
+    ],
+    "conservationEfforts": "Katala Foundation's nest warden program hires locals to guard nests. Rasa Island Wildlife Sanctuary success story increased local population from 23 to over 300 birds.",
+    "description": "A small white cockatoo found only in the Philippines. The Rasa Island conservation program is a model for community-based species recovery in the tropics.",
+    "geojson": "philippine-cockatoo.geojson"
+  },
+  {
+    "code": "philippine-crocodile",
+    "name": "Philippine Crocodile",
+    "scientificName": "Crocodylus mindorensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~100 in wild",
+    "populationTrend": "Increasing",
+    "habitatType": "Freshwater rivers and marshes",
+    "threats": [
+      "Habitat loss",
+      "Persecution",
+      "Fishing nets",
+      "Dynamite fishing"
+    ],
+    "conservationEfforts": "Mabuwaya Foundation community-based conservation on Luzon. Crocodile farming reduces pressure on wild populations. Head-starting program releases captive-raised juveniles.",
+    "description": "One of the rarest crocodilians, found only in the Philippines. Community conservation has changed local attitudes from persecution to protection in key areas.",
+    "geojson": "philippine-crocodile.geojson"
+  },
+  {
+    "code": "philippine-eagle",
+    "name": "Philippine Eagle",
+    "scientificName": "Pithecophaga jefferyi",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~500 pairs",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical dipterocarp forest",
+    "threats": [
+      "Deforestation",
+      "Hunting",
+      "Mining",
+      "Fragmentation"
+    ],
+    "conservationEfforts": "Philippine Eagle Foundation breeds captive eagles and monitors wild nests. Eagles are protected by Philippine law with penalties up to 12 years imprisonment. Reintroduction efforts on Mindanao.",
+    "description": "One of the world's largest and most powerful eagles, found only in the Philippines. Also known as the monkey-eating eagle, it is the national bird of the Philippines.",
+    "geojson": "philippine-eagle.geojson"
+  },
+  {
+    "code": "philippine-tarsier",
+    "name": "Philippine Tarsier",
+    "scientificName": "Carlito syrichta",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~5,000-10,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical forest",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Pet trade",
+      "Tourism disturbance"
+    ],
+    "conservationEfforts": "Philippine Tarsier Foundation protects habitat in Bohol. Strict regulations against keeping as pets. Ecotourism managed to reduce disturbance.",
+    "description": "One of the smallest primates with enormous eyes (each as large as its brain). Found only in the Philippines, they are highly sensitive to stress and can die from loud noises or handling.",
+    "geojson": "philippine-tarsier.geojson"
+  },
+  {
+    "code": "plains-wanderer",
+    "name": "Plains-wanderer",
+    "scientificName": "Pedionomus torquatus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~250-1,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Native grassland",
+    "threats": [
+      "Grassland conversion",
+      "Overgrazing",
+      "Fox predation",
+      "Drought"
+    ],
+    "conservationEfforts": "Captive breeding at Werribee Open Range Zoo. National recovery plan for native grasslands. Threat abatement plan for fox predation.",
+    "description": "An unusual quail-like bird that is actually more closely related to shorebirds. The colorful female is larger and more brightly marked than the male, who incubates the eggs alone.",
+    "geojson": "plains-wanderer.geojson"
+  },
+  {
+    "code": "ploughshare-tortoise",
+    "name": "Ploughshare Tortoise",
+    "scientificName": "Astrochelys yniphora",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~400 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Dry deciduous forest and bamboo scrub",
+    "threats": [
+      "Illegal pet trade",
+      "Habitat loss",
+      "Bushfires"
+    ],
+    "conservationEfforts": "Durrell Wildlife Conservation Trust breeds captive tortoises. Engraving shells with identification codes makes them less desirable to collectors. Anti-poaching patrols at Baly Bay.",
+    "description": "Madagascar's rarest tortoise, found only around Baly Bay. It has a distinctive ploughshare-shaped projection on the chest used in male combat. Each tortoise is worth up to $50,000 on the black market.",
+    "geojson": "ploughshare-tortoise.geojson"
+  },
+  {
+    "code": "polar-bear",
+    "name": "Polar Bear",
+    "scientificName": "Ursus maritimus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~22,000-31,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Arctic sea ice",
+    "threats": [
+      "Climate change",
+      "Sea ice loss",
+      "Pollution",
+      "Oil exploration"
+    ],
+    "conservationEfforts": "International Agreement on Conservation of Polar Bears coordinates 5 Arctic nations. Marine protected areas established. Indigenous communities manage traditional harvesting.",
+    "description": "The world's largest land carnivore, entirely dependent on Arctic sea ice for hunting seals. Climate change is reducing their hunting platform, threatening long-term survival.",
+    "geojson": "polar-bear.geojson"
+  },
+  {
+    "code": "proboscis-monkey",
+    "name": "Proboscis Monkey",
+    "scientificName": "Nasalis larvatus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~7,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Mangrove and riverine forest",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Palm oil plantations"
+    ],
+    "conservationEfforts": "Kinabatangan Corridor of Life project. Protected in several reserves in Borneo. Ecotourism provides economic incentive for conservation.",
+    "description": "Found only on Borneo, the male's enormous nose can exceed 10 cm and amplifies vocalizations. They are among the best swimmers of all primates and have been observed swimming across rivers.",
+    "geojson": "proboscis-monkey.geojson"
+  },
+  {
+    "code": "przewalskis-horse",
+    "name": "Przewalski's Horse",
+    "scientificName": "Equus ferus przewalskii",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~2,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Steppe grassland",
+    "threats": [
+      "Small population size",
+      "Habitat loss",
+      "Hybridization",
+      "Climate change"
+    ],
+    "conservationEfforts": "Successfully reintroduced to Mongolia after becoming extinct in the wild. Hustai National Park holds over 400 horses. All living individuals descend from 12 founders.",
+    "description": "The last truly wild horse species, never domesticated. Declared extinct in the wild in 1969, it was reintroduced to Mongolia starting in the 1990s from zoo-bred stock — a landmark conservation success.",
+    "geojson": "przewalskis-horse.geojson"
+  },
+  {
+    "code": "purple-frog",
+    "name": "Purple Frog",
+    "scientificName": "Nasikabatrachus sahyadrensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown",
+    "populationTrend": "Decreasing",
+    "habitatType": "Western Ghats underground",
+    "threats": [
+      "Habitat loss",
+      "Road construction",
+      "Changing land use"
+    ],
+    "conservationEfforts": "Discovered only in 2003. Protected under Indian Wildlife Act. Research programs study ecology. Community awareness campaigns in Kerala.",
+    "description": "One of the most bizarre frogs ever discovered, the bloated purple frog spends most of its life underground and only emerges for about two weeks per year to breed during the monsoon. It diverged from its nearest relatives 100 million years ago.",
+    "geojson": "purple-frog.geojson"
+  },
+  {
+    "code": "pygmy-blue-tongue-lizard",
+    "name": "Pygmy Blue-tongue Lizard",
+    "scientificName": "Tiliqua adelaidensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~5,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Native grassland with spider burrows",
+    "threats": [
+      "Habitat loss",
+      "Overgrazing",
+      "Agricultural chemicals"
+    ],
+    "conservationEfforts": "Rediscovered in 1992 in a dead snake's stomach after 33 years of presumed extinction. Managed under a recovery plan in South Australia. Rock placement programs create habitat.",
+    "description": "This tiny Australian skink was thought extinct until 1992 when one was found in a dead snake's stomach. It lives exclusively in abandoned spider burrows in native grasslands.",
+    "geojson": "pygmy-blue-tongue-lizard.geojson"
+  },
+  {
+    "code": "pygmy-sloth",
+    "name": "Pygmy Three-toed Sloth",
+    "scientificName": "Bradypus pygmaeus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~100 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Red mangrove forest",
+    "threats": [
+      "Habitat degradation",
+      "Poaching",
+      "Small range",
+      "Tourism disturbance"
+    ],
+    "conservationEfforts": "Isla Escudo de Veraguas is uninhabited, providing some natural protection. Conservation research expeditions monitor the population.",
+    "description": "Found only on the tiny Isla Escudo de Veraguas off Panama, this is the smallest and most endangered sloth species. It lives exclusively in red mangrove trees.",
+    "geojson": "pygmy-sloth.geojson"
+  },
+  {
+    "code": "radiated-tortoise",
+    "name": "Radiated Tortoise",
+    "scientificName": "Astrochelys radiata",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~6 million (rapidly declining)",
+    "populationTrend": "Decreasing",
+    "habitatType": "Dry spiny forest",
+    "threats": [
+      "Illegal pet trade",
+      "Bushmeat consumption",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "Madagascar government crackdowns on tortoise trafficking. Tortoise Village rehabilitation center cares for confiscated animals. Community-based management programs.",
+    "description": "One of the most beautiful tortoises with striking star-burst shell patterns. Despite still numbering in the millions, the rate of harvest for food and the pet trade is unsustainable.",
+    "geojson": "radiated-tortoise.geojson"
+  },
+  {
+    "code": "red-eyed-tree-frog",
+    "name": "Isthmian Golden-eyed Treefrog",
+    "scientificName": "Agalychnis annae",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Premontane moist forest",
+    "threats": [
+      "Habitat loss",
+      "Chytrid fungus",
+      "Climate change",
+      "Collection"
+    ],
+    "conservationEfforts": "Costa Rica's national parks protect some habitat. Captive breeding programs maintain insurance populations. Research into disease resistance.",
+    "description": "A striking green and blue tree frog from Costa Rica's Central Valley. Closely related to the iconic red-eyed tree frog, it has been severely impacted by habitat loss and disease.",
+    "geojson": "red-eyed-tree-frog.geojson"
+  },
+  {
+    "code": "red-panda",
+    "name": "Red Panda",
+    "scientificName": "Ailurus fulgens",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~10,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Temperate broadleaf and bamboo forest",
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Inbreeding",
+      "Bamboo die-off"
+    ],
+    "conservationEfforts": "Red Panda Network supports community-based conservation in Nepal. Forest guardians program employs local people to protect habitat. Captive breeding programs in over 80 zoos.",
+    "description": "Despite its name, the red panda is not closely related to the giant panda. This cat-sized mammal is the only living member of its family and spends most of its life in trees eating bamboo.",
+    "geojson": "red-panda.geojson"
+  },
+  {
+    "code": "red-wolf",
+    "name": "Red Wolf",
+    "scientificName": "Canis rufus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~15-20 in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal prairie and marsh",
+    "threats": [
+      "Hybridization with coyotes",
+      "Habitat loss",
+      "Gunshot mortality",
+      "Political opposition"
+    ],
+    "conservationEfforts": "USFWS Alligator River National Wildlife Refuge maintains the only wild population. Captive breeding program holds about 250 wolves in 43 facilities.",
+    "description": "Once found throughout the southeastern United States, the red wolf was declared extinct in the wild in 1980 before being reintroduced to North Carolina in 1987. It remains critically endangered with fewer than 20 wild individuals.",
+    "geojson": "red-wolf.geojson"
+  },
+  {
+    "code": "regent-honeyeater",
+    "name": "Regent Honeyeater",
+    "scientificName": "Anthochaera phrygia",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~350 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Temperate eucalypt woodland",
+    "threats": [
+      "Habitat loss",
+      "Competition from aggressive honeyeaters",
+      "Small population size"
+    ],
+    "conservationEfforts": "Captive breeding and release program at Taronga Zoo. Habitat restoration planting millions of eucalyptus trees. Song tutoring program teaches captive birds wild songs.",
+    "description": "An Australian songbird so rare that many young birds can no longer learn their species' song, instead mimicking other species. This cultural loss of song threatens breeding success.",
+    "geojson": "regent-honeyeater.geojson"
+  },
+  {
+    "code": "river-dolphin-ganges",
+    "name": "Ganges River Dolphin",
+    "scientificName": "Platanista gangetica",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~3,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater river",
+    "threats": [
+      "Water pollution",
+      "Dam construction",
+      "Bycatch",
+      "Habitat degradation"
+    ],
+    "conservationEfforts": "India's National Aquatic Animal. Vikramshila Gangetic Dolphin Sanctuary established. Dolphin Action Plan 2010-2020 coordinates conservation.",
+    "description": "Functionally blind, this freshwater dolphin navigates murky river waters using echolocation. It swims on its side with one flipper trailing along the bottom to find food.",
+    "geojson": "river-dolphin-ganges.geojson"
+  },
+  {
+    "code": "riverine-rabbit",
+    "name": "Riverine Rabbit",
+    "scientificName": "Bunolagus monticularis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~250 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Karoo riparian scrub",
+    "threats": [
+      "Habitat loss",
+      "Agriculture",
+      "Hunting by dogs",
+      "Overgrazing"
+    ],
+    "conservationEfforts": "Endangered Wildlife Trust's Riverine Rabbit Conservation Project. Habitat restoration along Karoo rivers. Farmer engagement programs.",
+    "description": "South Africa's most endangered mammal, found only in the central Karoo. They are nocturnal and build above-ground nests for their young, unlike most other rabbits.",
+    "geojson": "riverine-rabbit.geojson"
+  },
+  {
+    "code": "round-island-boa",
+    "name": "Round Island Boa",
+    "scientificName": "Casarea dussumieri",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Palm savanna on volcanic rock",
+    "threats": [
+      "Invasive rabbits and goats (historic)",
+      "Small range",
+      "Low genetic diversity"
+    ],
+    "conservationEfforts": "Invasive species eradicated from Round Island in the 1980s-90s. Durrell Wildlife Conservation Trust captive breeding. Habitat restoration allowed native palm woodland to recover.",
+    "description": "Found only on Round Island off Mauritius, this boa's jaw structure is unique — the upper jaw can move independently of the skull. Removal of invasive goats and rabbits allowed dramatic habitat recovery.",
+    "geojson": "round-island-boa.geojson"
+  },
+  {
+    "code": "sagalla-caecilian",
+    "name": "Sagalla Caecilian",
+    "scientificName": "Boulengerula niedeni",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Montane forest soil",
+    "threats": [
+      "Habitat loss",
+      "Agriculture",
+      "Eucalyptus plantations"
+    ],
+    "conservationEfforts": "Community reforestation project on Sagalla Hill replaces exotic trees with native species. Research at the National Museums of Kenya studies ecology and threats.",
+    "description": "A limbless amphibian that lives entirely underground in the soil of a single hill in southeastern Kenya. Mothers feed their young by allowing them to eat their own skin.",
+    "geojson": "sagalla-caecilian.geojson"
+  },
+  {
+    "code": "saker-falcon",
+    "name": "Saker Falcon",
+    "scientificName": "Falco cherrug",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~12,000-30,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Steppe, grassland, and desert edge",
+    "threats": [
+      "Electrocution",
+      "Trapping for falconry",
+      "Habitat loss",
+      "Pesticides"
+    ],
+    "conservationEfforts": "SakerLife project retrofits power lines in Central Europe. International Saker Falcon Action Plan. Artificial nest platforms increase breeding success.",
+    "description": "A powerful falcon of the Eurasian steppes, historically prized in falconry. The national bird of several Central Asian countries, it has declined rapidly due to electrocution and trapping.",
+    "geojson": "saker-falcon.geojson"
+  },
+  {
+    "code": "saola",
+    "name": "Saola",
+    "scientificName": "Pseudoryx nghetinhensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Possibly fewer than 100",
+    "populationTrend": "Decreasing",
+    "habitatType": "Evergreen forest",
+    "threats": [
+      "Snare hunting",
+      "Habitat loss",
+      "Small population size"
+    ],
+    "conservationEfforts": "Saola Working Group coordinates conservation. Camera traps and community patrols in Annamite Mountains. Saola breeding program planned but no captive individuals exist.",
+    "description": "Discovered in 1992, the saola is one of the rarest large mammals on Earth. Known as the Asian unicorn, it has only been documented in the wild a handful of times in the forests of Vietnam and Laos.",
+    "geojson": "saola.geojson"
+  },
+  {
+    "code": "sawback-angelshark",
+    "name": "Sawback Angelshark",
+    "scientificName": "Squatina aculeata",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely depleted",
+    "populationTrend": "Decreasing",
+    "habitatType": "Sandy seabed in coastal waters",
+    "threats": [
+      "Trawl bycatch",
+      "Habitat degradation",
+      "Coastal development"
+    ],
+    "conservationEfforts": "Angel Shark Conservation Network coordinates Mediterranean research. Marine protected areas in the Canary Islands. Bycatch mitigation in trawl fisheries.",
+    "description": "A flat-bodied shark that ambushes prey from beneath the sand. Once common across the Mediterranean and eastern Atlantic, it has been devastated by bottom trawling.",
+    "geojson": "sawback-angelshark.geojson"
+  },
+  {
+    "code": "scimitar-horned-oryx",
+    "name": "Scimitar-horned Oryx",
+    "scientificName": "Oryx dammah",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~400 in wild (reintroduced)",
+    "populationTrend": "Increasing",
+    "habitatType": "Sahelo-Saharan grassland and desert",
+    "threats": [
+      "Overhunting",
+      "Desertification",
+      "Competition with livestock"
+    ],
+    "conservationEfforts": "Reintroduced to Chad in 2016 from captive herds. Ouadi Rimé-Ouadi Achim Game Reserve hosts reintroduced population. Thousands exist in captivity.",
+    "description": "Once found across the entire Sahel from Senegal to Egypt, this oryx was declared Extinct in the Wild in 2000. Reintroduction to Chad has re-established a wild population.",
+    "geojson": "scimitar-horned-oryx.geojson"
+  },
+  {
+    "code": "secretarybird",
+    "name": "Secretarybird",
+    "scientificName": "Sagittarius serpentarius",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~6,700-67,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Open grassland and savanna",
+    "threats": [
+      "Habitat loss",
+      "Grassland conversion",
+      "Collision with power lines",
+      "Poisoning"
+    ],
+    "conservationEfforts": "Protected under CITES Appendix II. South Africa's national bird with legal protection. Grassland conservation programs benefit the species.",
+    "description": "A remarkable raptor that hunts snakes on foot, stamping them to death with powerful legs that deliver 5 times its own body weight in force. It stands 1.3 meters tall with distinctive quill-like head feathers.",
+    "geojson": "secretarybird.geojson"
+  },
+  {
+    "code": "sei-whale",
+    "name": "Sei Whale",
+    "scientificName": "Balaenoptera borealis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~50,000 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Open ocean",
+    "threats": [
+      "Ship strikes",
+      "Ocean noise",
+      "Pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": "Protected by IWC moratorium on commercial whaling since 1986. Iceland and Japan have taken sei whales under controversial scientific whaling permits.",
+    "description": "One of the fastest cetaceans, capable of speeds up to 50 km/h. Sei whales were heavily targeted by whalers after blue and fin whale populations collapsed.",
+    "geojson": "sei-whale.geojson"
+  },
+  {
+    "code": "shoebill",
+    "name": "Shoebill",
+    "scientificName": "Balaeniceps rex",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~5,000-8,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater swamp and marsh",
+    "threats": [
+      "Wetland drainage",
+      "Disturbance",
+      "Illegal capture for trade",
+      "Cattle grazing"
+    ],
+    "conservationEfforts": "Bangweulu Wetlands Project in Zambia trains local guides as shoebill guardians. Protected wetland areas in Uganda and South Sudan.",
+    "description": "A prehistoric-looking bird standing 1.5 meters tall with a massive shoe-shaped bill used to catch lungfish. They stand motionless for hours before striking with explosive speed.",
+    "geojson": "shoebill.geojson"
+  },
+  {
+    "code": "siamese-crocodile",
+    "name": "Siamese Crocodile",
+    "scientificName": "Crocodylus siamensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~5,000 in wild",
+    "populationTrend": "Stable",
+    "habitatType": "Freshwater rivers, lakes, and swamps",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Hybridization with saltwater crocs",
+      "Dam construction"
+    ],
+    "conservationEfforts": "Fauna & Flora International Cambodia programme protects nesting sites. Community fish conservation zones benefit crocodiles. Captive breeding with genetically pure stock.",
+    "description": "Once found across Southeast Asia, this critically endangered freshwater crocodile survives in small fragmented populations, mainly in Cambodia. Hybridization with farmed saltwater crocodiles threatens genetic integrity.",
+    "geojson": "siamese-crocodile.geojson"
+  },
+  {
+    "code": "siberian-crane",
+    "name": "Siberian Crane",
+    "scientificName": "Leucogeranus leucogeranus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~3,600-4,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Arctic tundra and wetland",
+    "threats": [
+      "Wetland loss on migration route",
+      "Hunting",
+      "Dam construction",
+      "Drought"
+    ],
+    "conservationEfforts": "International Crane Foundation leads conservation. Poyang Lake in China protects key wintering habitat. Satellite tracking maps migration routes for targeted protection.",
+    "description": "A pure white crane that breeds in Arctic Russia and migrates to China and India. The western population is nearly extinct, while the eastern population depends on Poyang Lake in China.",
+    "geojson": "siberian-crane.geojson"
+  },
+  {
+    "code": "smalltooth-sawfish",
+    "name": "Smalltooth Sawfish",
+    "scientificName": "Pristis pectinata",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal and estuarine waters",
+    "threats": [
+      "Bycatch",
+      "Habitat loss",
+      "Entanglement",
+      "Sawfish product trade"
+    ],
+    "conservationEfforts": "Protected under US Endangered Species Act. Critical habitat designated in Florida. International trade banned under CITES. Community engagement in developing countries.",
+    "description": "Once common throughout the Atlantic, now restricted mainly to southwest Florida. Their saw-shaped snout, used to detect and stun prey, easily becomes entangled in fishing nets.",
+    "geojson": "smalltooth-sawfish.geojson"
+  },
+  {
+    "code": "snow-leopard",
+    "name": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~4,000-6,500 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Alpine and subalpine zones",
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Retaliatory killing",
+      "Climate change"
+    ],
+    "conservationEfforts": "Snow Leopard Trust works with herding communities. GSLEP (Global Snow Leopard and Ecosystem Protection) program coordinates 12 range countries.",
+    "description": "The ghost of the mountains, snow leopards inhabit high-altitude regions across Central Asia. Their thick fur and long tail provide warmth and balance on steep rocky terrain.",
+    "geojson": "snow-leopard.geojson"
+  },
+  {
+    "code": "south-china-tiger",
+    "name": "South China Tiger",
+    "scientificName": "Panthera tigris amoyensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Functionally extinct in wild",
+    "populationTrend": "Decreasing",
+    "habitatType": "Subtropical forest",
+    "threats": [
+      "Habitat loss",
+      "Historical persecution",
+      "Prey depletion"
+    ],
+    "conservationEfforts": "Save China's Tigers program attempted rewilding in South Africa. Chinese zoos maintain a captive population of about 200 individuals for potential future reintroduction.",
+    "description": "Considered functionally extinct in the wild, the South China tiger was once widespread across southern China. The last confirmed wild sighting was in the 1990s.",
+    "geojson": "south-china-tiger.geojson"
+  },
+  {
+    "code": "spoon-billed-sandpiper",
+    "name": "Spoon-billed Sandpiper",
+    "scientificName": "Calidris pygmaea",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~240-456 pairs",
+    "populationTrend": "Decreasing",
+    "habitatType": "Coastal tundra and mudflats",
+    "threats": [
+      "Habitat loss on migration routes",
+      "Hunting",
+      "Climate change",
+      "Land reclamation"
+    ],
+    "conservationEfforts": "Head-starting programme in Chukotka collects eggs for captive rearing. Critical flyway sites protected in Myanmar and Bangladesh. International task force coordinates conservation.",
+    "description": "A tiny shorebird with a distinctive spatula-shaped bill tip. It breeds in northeastern Russia and migrates to Southeast Asia, facing threats along its entire migration route.",
+    "geojson": "spoon-billed-sandpiper.geojson"
+  },
+  {
+    "code": "spotted-handfish",
+    "name": "Spotted Handfish",
+    "scientificName": "Brachionichthys hirsutus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "~2,000-3,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Sandy estuarine seabed",
+    "threats": [
+      "Invasive seastar",
+      "Siltation",
+      "Habitat loss",
+      "Pollution"
+    ],
+    "conservationEfforts": "CSIRO recovery program. Invasive seastar (Asterias amurensis) removal. Captive breeding at CSIRO Marine Laboratories. Artificial spawning habitat deployed.",
+    "description": "One of the world's most unusual fish, the spotted handfish 'walks' on the sea floor using its modified pectoral fins. Found only in the Derwent Estuary, Tasmania.",
+    "geojson": "spotted-handfish.geojson"
+  },
+  {
+    "code": "steppe-eagle",
+    "name": "Steppe Eagle",
+    "scientificName": "Aquila nipalensis",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~50,000-75,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Steppe and semi-desert grassland",
+    "threats": [
+      "Electrocution on power lines",
+      "Habitat loss",
+      "Poisoning",
+      "Wind turbines"
+    ],
+    "conservationEfforts": "RSPB and BirdLife partners retrofit power lines in Central Asian flyway. National action plans in several range countries. Satellite tracking identifies key migration bottlenecks.",
+    "description": "A large eagle that migrates vast distances from Central Asian breeding grounds to wintering areas in Africa and South Asia. They have declined rapidly due to electrocution on power lines.",
+    "geojson": "steppe-eagle.geojson"
+  },
+  {
+    "code": "sumatran-orangutan",
+    "name": "Sumatran Orangutan",
+    "scientificName": "Pongo abelii",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~14,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest",
+    "threats": [
+      "Deforestation",
+      "Palm oil plantations",
+      "Illegal pet trade",
+      "Forest fires"
+    ],
+    "conservationEfforts": "Gunung Leuser National Park protects core habitat. Orangutan rehabilitation centers rescue and release confiscated individuals. RSPO promotes sustainable palm oil.",
+    "description": "Found only on the island of Sumatra, this orangutan species is critically threatened by rapid deforestation for palm oil plantations. They are highly intelligent and spend most of their lives in trees.",
+    "geojson": "sumatran-orangutan.geojson"
+  },
+  {
+    "code": "sumatran-rhino",
+    "name": "Sumatran Rhinoceros",
+    "scientificName": "Dicerorhinus sumatrensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~80 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest",
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Small population size",
+      "Fragmentation"
+    ],
+    "conservationEfforts": "Indonesia's Sumatran Rhino Sanctuary breeds captive individuals. Anti-poaching patrols protect remaining wild populations in Way Kambas and Bukit Barisan.",
+    "description": "The smallest living rhinoceros and the only Asian rhino with two horns. Once widespread across Southeast Asia, it now survives in tiny fragmented populations on Sumatra and Borneo.",
+    "geojson": "sumatran-rhino.geojson"
+  },
+  {
+    "code": "sumatran-tiger",
+    "name": "Sumatran Tiger",
+    "scientificName": "Panthera tigris sumatrae",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~400 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical rainforest",
+    "threats": [
+      "Deforestation",
+      "Poaching",
+      "Human-wildlife conflict"
+    ],
+    "conservationEfforts": "Indonesian government expanded protected areas. Anti-poaching patrols in key habitats. TRAFFIC monitors illegal wildlife trade networks.",
+    "description": "The smallest surviving tiger subspecies, found only on the Indonesian island of Sumatra. They have the darkest fur of all tiger subspecies with closely spaced stripes.",
+    "geojson": "sumatran-tiger.geojson"
+  },
+  {
+    "code": "sun-bear",
+    "name": "Sun Bear",
+    "scientificName": "Helarctos malayanus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland forest",
+    "threats": [
+      "Deforestation",
+      "Bear bile farming",
+      "Pet trade",
+      "Hunting"
+    ],
+    "conservationEfforts": "Bornean Sun Bear Conservation Centre rehabilitates and releases rescued bears. TRAFFIC monitors illegal trade. Protected areas across Southeast Asia.",
+    "description": "The smallest bear species, named for the golden chest patch that legend says represents the rising sun. They have extremely long tongues (25 cm) used to extract honey from bee nests.",
+    "geojson": "sun-bear.geojson"
+  },
+  {
+    "code": "swift-parrot",
+    "name": "Swift Parrot",
+    "scientificName": "Lathamus discolor",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~750 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Temperate eucalypt forest",
+    "threats": [
+      "Predation by sugar gliders",
+      "Logging of nesting habitat",
+      "Habitat loss",
+      "Collision with structures"
+    ],
+    "conservationEfforts": "Tasmania's forestry practices modified to protect nesting areas. Nest boxes reduce sugar glider predation. Research guides conservation management.",
+    "description": "Australia's fastest parrot and one of only two migratory parrot species. It breeds in Tasmania and winters on the Australian mainland, feeding on eucalypt blossoms.",
+    "geojson": "swift-parrot.geojson"
+  },
+  {
+    "code": "table-mountain-ghost-frog",
+    "name": "Table Mountain Ghost Frog",
+    "scientificName": "Heleophryne rosei",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "~500 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Mountain fynbos streams",
+    "threats": [
+      "Water extraction",
+      "Invasive plants",
+      "Climate change",
+      "Pollution"
+    ],
+    "conservationEfforts": "Table Mountain National Park protects habitat. Alien vegetation removal programs. Stream water quality monitoring.",
+    "description": "Found only on Table Mountain in Cape Town, South Africa, this frog's entire range covers just 7-8 km². It lives in crystal-clear mountain streams and has translucent skin on its belly.",
+    "geojson": "table-mountain-ghost-frog.geojson"
+  },
+  {
+    "code": "takahi",
+    "name": "Takahe",
+    "scientificName": "Porphyrio hochstetteri",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~500 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Alpine grassland and tussock",
+    "threats": [
+      "Predation by stoats",
+      "Competition with deer",
+      "Climate change"
+    ],
+    "conservationEfforts": "Rediscovered in 1948 after being thought extinct. Te Anau Bird Sanctuary breeds birds for release. Predator-free island sanctuaries established. Population growing.",
+    "description": "A large, flightless bird with vivid blue-green plumage, found only in New Zealand. Thought extinct for 50 years until dramatically rediscovered in the Murchison Mountains in 1948.",
+    "geojson": "takahi.geojson"
+  },
+  {
+    "code": "tamaraw",
+    "name": "Tamaraw",
+    "scientificName": "Bubalus mindorensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~480 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Mountain grassland and forest edge",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Disease from domestic cattle",
+      "Logging"
+    ],
+    "conservationEfforts": "Mounts Iglit-Baco National Park protects the majority. Tamaraw Conservation Programme conducts regular population surveys. Community ranger programs patrol buffer zones.",
+    "description": "Found only on Mindoro Island in the Philippines, the tamaraw is the country's largest native land animal. Unlike the closely related water buffalo, it is solitary and highly aggressive.",
+    "geojson": "tamaraw.geojson"
+  },
+  {
+    "code": "tapanuli-orangutan",
+    "name": "Tapanuli Orangutan",
+    "scientificName": "Pongo tapanuliensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~800 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical montane forest",
+    "threats": [
+      "Habitat loss",
+      "Hydroelectric dam project",
+      "Hunting",
+      "Isolation"
+    ],
+    "conservationEfforts": "Discovered as a separate species in 2017. Conservation groups oppose the Batang Toru hydroelectric dam that would fragment remaining habitat.",
+    "description": "The most recently described great ape species, known from only about 800 individuals in the Batang Toru forest of North Sumatra. They have distinctive cinnamon-colored fur and smaller skull than other orangutans.",
+    "geojson": "tapanuli-orangutan.geojson"
+  },
+  {
+    "code": "titicaca-water-frog",
+    "name": "Titicaca Water Frog",
+    "scientificName": "Telmatobius culeus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Amphibians",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "High-altitude freshwater lake",
+    "threats": [
+      "Water pollution",
+      "Over-harvesting for food",
+      "Introduced trout",
+      "Chytrid fungus"
+    ],
+    "conservationEfforts": "Bolivia and Peru coordinate conservation. Harvesting bans enacted. Denver Zoo and other institutions maintain captive populations. Water quality improvement programs at Lake Titicaca.",
+    "description": "Known as the 'scrotum frog' due to its excessive folds of baggy skin, which increase surface area for underwater gas exchange. It lives exclusively in Lake Titicaca at 3,810 meters elevation and almost never surfaces to breathe.",
+    "geojson": "titicaca-water-frog.geojson"
+  },
+  {
+    "code": "totoaba",
+    "name": "Totoaba",
+    "scientificName": "Totoaba macdonaldi",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, severely depleted",
+    "populationTrend": "Decreasing",
+    "habitatType": "Gulf of California",
+    "threats": [
+      "Illegal fishing for swim bladder",
+      "Bycatch",
+      "Habitat degradation"
+    ],
+    "conservationEfforts": "Swim bladder trade ban (each can sell for $46,000 in China). Captive breeding for population supplementation. Enforcement patrols in the upper Gulf of California.",
+    "description": "A large croaker fish whose swim bladder is worth more than gold by weight in Chinese traditional medicine markets. Illegal totoaba gillnets also kill the critically endangered vaquita porpoise.",
+    "geojson": "totoaba.geojson"
+  },
+  {
+    "code": "tuatara",
+    "name": "Tuatara",
+    "scientificName": "Sphenodon punctatus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Reptiles",
+    "populationEstimate": "~55,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "Rocky offshore islands",
+    "threats": [
+      "Introduced predators",
+      "Climate change",
+      "Low reproductive rate"
+    ],
+    "conservationEfforts": "Successfully reintroduced to predator-free mainland sanctuaries in New Zealand. Rat eradication on offshore islands. Captive breeding at several facilities.",
+    "description": "The sole survivor of an ancient order of reptiles that thrived alongside dinosaurs. They have a third eye on top of their head, grow slowly, and can live over 100 years.",
+    "geojson": "tuatara.geojson"
+  },
+  {
+    "code": "vaquita",
+    "name": "Vaquita",
+    "scientificName": "Phocoena sinus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~10 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Marine (Gulf of California)",
+    "threats": [
+      "Bycatch in gillnets",
+      "Illegal totoaba fishing",
+      "Small population size"
+    ],
+    "conservationEfforts": "Mexico banned gillnet fishing in the vaquita's range. VaquitaCPR attempted emergency capture and breeding but was suspended due to stress on captured animals.",
+    "description": "The world's most endangered marine mammal, the vaquita is a tiny porpoise found only in the northern Gulf of California, Mexico. Its population has declined catastrophically due to entanglement in illegal gillnets.",
+    "geojson": "vaquita.geojson"
+  },
+  {
+    "code": "vulture-white-rumped",
+    "name": "White-rumped Vulture",
+    "scientificName": "Gyps bengalensis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~6,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Open countryside and forest edge",
+    "threats": [
+      "Diclofenac poisoning",
+      "Habitat loss",
+      "Food scarcity"
+    ],
+    "conservationEfforts": "Ban on veterinary diclofenac in India, Nepal, Pakistan, and Bangladesh. Vulture safe zones established. Captive breeding program by BNHS and RSPB has produced over 700 birds.",
+    "description": "Once the most common large raptor in the world, the white-rumped vulture suffered a 99.9% population crash in South Asia due to the veterinary drug diclofenac, which is lethal to vultures.",
+    "geojson": "vulture-white-rumped.geojson"
+  },
+  {
+    "code": "waved-albatross",
+    "name": "Waved Albatross",
+    "scientificName": "Phoebastria irrorata",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~50,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Open ocean and island nesting",
+    "threats": [
+      "Bycatch in longline fisheries",
+      "Introduced predators",
+      "Avian pox",
+      "Climate change"
+    ],
+    "conservationEfforts": "Galápagos National Park protects Española Island breeding colony. Bycatch mitigation measures promoted in fishing fleets.",
+    "description": "The only tropical albatross species, breeding almost exclusively on Española Island in the Galápagos. They perform an elaborate bill-clacking courtship dance and mate for life.",
+    "geojson": "waved-albatross.geojson"
+  },
+  {
+    "code": "western-lowland-gorilla",
+    "name": "Western Lowland Gorilla",
+    "scientificName": "Gorilla gorilla gorilla",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~360,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical lowland forest and swamp",
+    "threats": [
+      "Ebola virus",
+      "Poaching",
+      "Logging",
+      "Commercial bushmeat trade"
+    ],
+    "conservationEfforts": "Great Apes Survival Partnership coordinates international conservation. Ebola vaccination research for wild apes. Protected areas network across Central Africa.",
+    "description": "The most numerous gorilla subspecies but still critically endangered due to Ebola epidemics that have killed up to 95% of some populations, combined with hunting and habitat loss.",
+    "geojson": "western-lowland-gorilla.geojson"
+  },
+  {
+    "code": "whale-shark",
+    "name": "Whale Shark",
+    "scientificName": "Rhincodon typus",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Unknown, declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Tropical and warm temperate ocean",
+    "threats": [
+      "Bycatch",
+      "Ship strikes",
+      "Fishing",
+      "Plastic ingestion"
+    ],
+    "conservationEfforts": "Protected in many countries' waters. Whale shark tourism provides economic incentive. Satellite tracking identifies migration corridors and aggregation sites.",
+    "description": "The world's largest fish, reaching 18 meters. Despite their enormous size, they are gentle filter feeders that eat plankton. Each whale shark has a unique pattern of spots, like a fingerprint.",
+    "geojson": "whale-shark.geojson"
+  },
+  {
+    "code": "white-bellied-heron",
+    "name": "White-bellied Heron",
+    "scientificName": "Ardea insignis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~50-249 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Subtropical forest river",
+    "threats": [
+      "Habitat loss",
+      "Disturbance",
+      "Hunting",
+      "Hydroelectric dams"
+    ],
+    "conservationEfforts": "Royal Society for Protection of Nature in Bhutan leads conservation. River habitat protection. Community awareness programs. One of the rarest herons in the world.",
+    "description": "One of the 50 rarest bird species globally, this large heron is found along undisturbed rivers in the eastern Himalayan foothills. Bhutan holds the most important remaining population.",
+    "geojson": "white-bellied-heron.geojson"
+  },
+  {
+    "code": "whooping-crane",
+    "name": "Whooping Crane",
+    "scientificName": "Grus americana",
+    "iucnStatus": "Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "~800 individuals",
+    "populationTrend": "Increasing",
+    "habitatType": "Wetland and prairie",
+    "threats": [
+      "Habitat loss",
+      "Power line collisions",
+      "Predation",
+      "Small population size"
+    ],
+    "conservationEfforts": "Intensive management since the 1940s when only 21 remained. Ultralight aircraft-led migrations established a second population. Captive breeding at Patuxent Wildlife Research Center.",
+    "description": "The tallest bird in North America, standing 1.5 meters tall. Their haunting bugling calls carry for miles across marshlands. Population has grown from 21 to over 800 through decades of conservation.",
+    "geojson": "whooping-crane.geojson"
+  },
+  {
+    "code": "wild-bactrian-camel",
+    "name": "Wild Bactrian Camel",
+    "scientificName": "Camelus ferus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Desert and semi-arid steppe",
+    "threats": [
+      "Hybridization with domestic camels",
+      "Mining",
+      "Water source competition",
+      "Hunting"
+    ],
+    "conservationEfforts": "Lop Nur Wild Camel National Nature Reserve in China. Great Gobi Strictly Protected Area in Mongolia. Wild Camel Protection Foundation coordinates conservation.",
+    "description": "Genetically distinct from domestic Bactrian camels, the wild Bactrian camel survives in some of the harshest desert environments on Earth, including former nuclear test sites in China.",
+    "geojson": "wild-bactrian-camel.geojson"
+  },
+  {
+    "code": "wild-yak",
+    "name": "Wild Yak",
+    "scientificName": "Bos mutus",
+    "iucnStatus": "Vulnerable",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~7,500-10,000 individuals",
+    "populationTrend": "Stable",
+    "habitatType": "High altitude grassland and steppe",
+    "threats": [
+      "Hybridization with domestic yak",
+      "Hunting",
+      "Habitat disturbance",
+      "Competition with livestock"
+    ],
+    "conservationEfforts": "Chang Tang Nature Reserve in Tibet protects core habitat. Anti-poaching enforcement improved. Chinese government expanded protected areas on the Tibetan Plateau.",
+    "description": "The wild ancestor of the domestic yak, standing nearly 2 meters tall at the shoulder. They live at elevations of 4,000-6,000 meters on the Tibetan Plateau, where temperatures drop to -40°C.",
+    "geojson": "wild-yak.geojson"
+  },
+  {
+    "code": "yangtze-finless-porpoise",
+    "name": "Yangtze Finless Porpoise",
+    "scientificName": "Neophocaena asiaeorientalis",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Mammals",
+    "populationEstimate": "~1,000 individuals",
+    "populationTrend": "Decreasing",
+    "habitatType": "Freshwater river and lake",
+    "threats": [
+      "Water pollution",
+      "Shipping traffic",
+      "Overfishing",
+      "Dam construction"
+    ],
+    "conservationEfforts": "Semi-natural reserves established in Yangtze oxbow lakes. Fishing bans implemented in key sections of the river. China declared 10-year fishing moratorium on the Yangtze in 2021.",
+    "description": "The only freshwater porpoise remaining since the extinction of the baiji dolphin. Known for its perpetual smile-like expression and high intelligence.",
+    "geojson": "yangtze-finless-porpoise.geojson"
+  },
+  {
+    "code": "yangtze-sturgeon",
+    "name": "Yangtze Sturgeon",
+    "scientificName": "Acipenser dabryanus",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Fish",
+    "populationEstimate": "Extinct in wild since 2022",
+    "populationTrend": "Decreasing",
+    "habitatType": "Large river (Yangtze)",
+    "threats": [
+      "Dam construction",
+      "Overfishing",
+      "Pollution",
+      "Habitat loss"
+    ],
+    "conservationEfforts": "Declared extinct in the wild in 2022. Captive breeding maintains thousands of individuals. Artificial propagation and release programs continue. Yangtze fishing ban may help if reintroduced.",
+    "description": "Once endemic to the upper and middle Yangtze River, this sturgeon was declared extinct in the wild in 2022 — the same year as the Chinese paddlefish. Dam construction destroyed its spawning habitat.",
+    "geojson": "yangtze-sturgeon.geojson"
+  },
+  {
+    "code": "yellow-breasted-bunting",
+    "name": "Yellow-breasted Bunting",
+    "scientificName": "Emberiza aureola",
+    "iucnStatus": "Critically Endangered",
+    "taxonomicGroup": "Birds",
+    "populationEstimate": "Unknown, severely declining",
+    "populationTrend": "Decreasing",
+    "habitatType": "Wetland edge and agricultural fields",
+    "threats": [
+      "Massive trapping for food in China",
+      "Habitat loss",
+      "Pesticides"
+    ],
+    "conservationEfforts": "China banned hunting and trade in 2017. BirdLife International raised awareness of the crisis. Enforcement of hunting bans in key migration stopover sites.",
+    "description": "Once among the most abundant songbirds in Eurasia, numbering in the hundreds of millions. Considered a delicacy in southern China, it has suffered a 90% population crash in just 20 years.",
+    "geojson": "yellow-breasted-bunting.geojson"
+  }
+]

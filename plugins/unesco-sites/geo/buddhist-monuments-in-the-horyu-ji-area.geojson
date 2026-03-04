@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7333333,
+          34.61666667
+        ]
+      },
+      "properties": {
+        "code": "buddhist-monuments-in-the-horyu-ji-area",
+        "name": "Buddhist Monuments in the Horyu-ji Area",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

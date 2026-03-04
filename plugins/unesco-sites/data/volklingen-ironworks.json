@@ -1,0 +1,15 @@
+{
+  "code": "volklingen-ironworks",
+  "name": "Völklingen Ironworks",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The ironworks, which cover some 6 ha, dominate the city of Völklingen. Although they have recently gone out of production, they are the only intact example, in the whole of western Europe and North America, of an integrated ironworks that was built and equipped in the 19th and 20th centuries and has remained intact.",
+  "danger": false,
+  "geojson": "volklingen-ironworks.geojson"
+}

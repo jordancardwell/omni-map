@@ -1,0 +1,18 @@
+{
+  "code": "kiwi-brown",
+  "name": "Brown Kiwi",
+  "scientificName": "Apteryx mantelli",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~25,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Temperate and subtropical forest",
+  "threats": [
+    "Predation by stoats and dogs",
+    "Habitat loss",
+    "Vehicle strikes"
+  ],
+  "conservationEfforts": "Predator control programs across New Zealand. Kiwi sanctuaries with predator-proof fencing. Operation Nest Egg hatches eggs in captivity and releases chicks when large enough to avoid stoats.",
+  "description": "New Zealand's iconic flightless bird with hair-like feathers and nostrils at the tip of its long bill. Despite being the national symbol, kiwi populations have declined by 90% in the last century.",
+  "geojson": "kiwi-brown.geojson"
+}

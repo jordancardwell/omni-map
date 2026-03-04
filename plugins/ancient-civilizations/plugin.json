@@ -1,0 +1,37 @@
+{
+  "id": "ancient-civilizations",
+  "name": "Ancient Civilizations",
+  "description": "Explore where humanity's earliest complex societies flourished, from Mesopotamia to Mesoamerica. Region polygons show territorial extent while point markers highlight major archaeological sites. Data sourced from Pleiades Gazetteer and historical-basemaps.",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#C49A6C",
+  "categories": ["history", "culture", "archaeology", "geography"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "History & Culture",
+  "thumbnail": "#C49A6C",
+  "schema": "AncientCivilizationMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "region", "period", "keyCities", "description"],
+    "groupBy": "region",
+    "titleField": "name",
+    "subtitleField": "period",
+    "badgeField": "type",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "period"
+  },
+  "detailFields": [
+    { "key": "period", "label": "Period", "type": "text" },
+    { "key": "region", "label": "Region", "type": "text" },
+    { "key": "type", "label": "Type", "type": "status-badge", "statusColors": { "Civilization": "#8B6914", "Archaeological Site": "#4A7A3A" } },
+    { "key": "writingSystem", "label": "Writing System", "type": "text" },
+    { "key": "majorAchievements", "label": "Major Achievements", "type": "tags" },
+    { "key": "keyCities", "label": "Key Cities", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

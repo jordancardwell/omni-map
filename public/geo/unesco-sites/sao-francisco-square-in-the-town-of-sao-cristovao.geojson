@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2053747585,
+          -11.0136554428
+        ]
+      },
+      "properties": {
+        "code": "sao-francisco-square-in-the-town-of-sao-cristovao",
+        "name": "São Francisco Square in the Town of São Cristóvão",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

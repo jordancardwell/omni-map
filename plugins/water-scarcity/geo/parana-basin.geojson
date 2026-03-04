@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "parana-basin", "name": "Paraná Basin" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-57,-35],[-58,-33],[-58,-30],[-56,-27],[-54,-24],[-52,-22],[-49,-20],[-47,-19],[-45,-20],[-47,-22],[-48,-24],[-49,-26],[-50,-28],[-51,-30],[-52,-32],[-54,-34],[-57,-35]]]
+    }
+  }]
+}

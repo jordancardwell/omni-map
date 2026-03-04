@@ -1,0 +1,16 @@
+{
+  "code": "vu-nc-cable",
+  "name": "VU-NC Cable",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 4067,
+  "yearLaid": 2015,
+  "rfsDate": "2018-06",
+  "owner": "OPT NC",
+  "landingPoints": [
+    "Port Vila, Vanuatu",
+    "Noumea, New Caledonia"
+  ],
+  "description": "VU-NC Cable connecting Port Vila to Noumea in the Pacific.",
+  "geojson": "vu-nc-cable.geojson"
+}

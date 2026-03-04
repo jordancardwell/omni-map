@@ -1,0 +1,15 @@
+{
+  "code": "ancient-city-of-nessebar",
+  "name": "Ancient City of Nessebar",
+  "type": "Cultural",
+  "country": "Bulgaria",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period.",
+  "danger": false,
+  "geojson": "ancient-city-of-nessebar.geojson"
+}

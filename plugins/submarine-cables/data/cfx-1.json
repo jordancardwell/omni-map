@@ -1,0 +1,17 @@
+{
+  "code": "cfx-1",
+  "name": "CFX-1",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 4100,
+  "yearLaid": 2014,
+  "rfsDate": "2014-12",
+  "owner": "Columbus Networks",
+  "landingPoints": [
+    "Miami, USA",
+    "Kingston, Jamaica",
+    "Cartagena, Colombia"
+  ],
+  "description": "Caribbean-Colombia Fiber Express.",
+  "geojson": "cfx-1.geojson"
+}

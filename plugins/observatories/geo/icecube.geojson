@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-63.453,-89.9911]},"properties":{"code":"icecube","name":"IceCube Neutrino Observatory","observatoryType":"Multi-messenger","status":"Operational","country":"Antarctica"}}]}

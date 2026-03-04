@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2133027778,
+          23.8884083333
+        ]
+      },
+      "properties": {
+        "code": "dholavira-a-harappan-city",
+        "name": "Dholavira: a Harappan City",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

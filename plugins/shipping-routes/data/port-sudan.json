@@ -1,0 +1,14 @@
+{
+  "code": "port-sudan",
+  "name": "Port Sudan",
+  "country": "Sudan",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Red Sea Route"
+  ],
+  "description": "Port Sudan in Sudan. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+  "geojson": "port-sudan.geojson"
+}

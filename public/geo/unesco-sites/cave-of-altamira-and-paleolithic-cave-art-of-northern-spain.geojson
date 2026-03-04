@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116166667,
+          43.38252778
+        ]
+      },
+      "properties": {
+        "code": "cave-of-altamira-and-paleolithic-cave-art-of-northern-spain",
+        "name": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

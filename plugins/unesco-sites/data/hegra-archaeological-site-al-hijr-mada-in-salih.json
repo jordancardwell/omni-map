@@ -1,0 +1,15 @@
+{
+  "code": "hegra-archaeological-site-al-hijr-mada-in-salih",
+  "name": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)",
+  "type": "Cultural",
+  "country": "Saudi Arabia",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first World Heritage property to be inscribed in Saudi Arabia. Formerly known as Hegra it is the largest conserved site of the civilization of the Nabataeans south of Petra in Jordan. It features well-preserved monumental tombs with decorated facades dating from the 1st century BC to the 1st century AD. The site also features some 50 inscriptions of the pre-Nabataean period and some cave drawings. Al-Hijr bears a unique testimony to Nabataean civilization. With its 111 monumental tombs, 94 of which are decorated, and water wells, the site is an outstanding example of the Nabataeans’ architectural accomplishment and hydraulic expertise.",
+  "danger": false,
+  "geojson": "hegra-archaeological-site-al-hijr-mada-in-salih.geojson"
+}

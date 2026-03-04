@@ -1,0 +1,19 @@
+{
+  "code": "riverine-rabbit",
+  "name": "Riverine Rabbit",
+  "scientificName": "Bunolagus monticularis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~250 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Karoo riparian scrub",
+  "threats": [
+    "Habitat loss",
+    "Agriculture",
+    "Hunting by dogs",
+    "Overgrazing"
+  ],
+  "conservationEfforts": "Endangered Wildlife Trust's Riverine Rabbit Conservation Project. Habitat restoration along Karoo rivers. Farmer engagement programs.",
+  "description": "South Africa's most endangered mammal, found only in the central Karoo. They are nocturnal and build above-ground nests for their young, unlike most other rabbits.",
+  "geojson": "riverine-rabbit.geojson"
+}

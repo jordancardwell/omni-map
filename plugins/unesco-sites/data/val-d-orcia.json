@@ -1,0 +1,14 @@
+{
+  "code": "val-d-orcia",
+  "name": "Val d'Orcia",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The landscape of Val d’Orcia is part of the agricultural hinterland of Siena, redrawn and developed when it was integrated in the territory of the city-state in the 14th and 15th centuries to reflect an idealized model of good governance and to create an aesthetically pleasing picture. The landscape’s distinctive aesthetics, flat chalk plains out of which rise almost conical hills with fortified settlements on top, inspired many artists. Their images have come to exemplify the beauty of well-managed Renaissance agricultural landscapes. The inscription covers: an agrarian and pastoral landscape reflecting innovative land-management systems; towns and villages; farmhouses; and the Roman Via Francigena and its associated abbeys, inns, shrines, bridges, etc.",
+  "danger": false,
+  "geojson": "val-d-orcia.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "parana-basin",
+  "name": "Paraná Basin",
+  "region": "South America",
+  "stressGroup": "2. Low-Medium (10-20%)",
+  "waterStressLevel": "Low-Medium",
+  "waterStressRatio": "~14% — withdrawal-to-availability",
+  "depletionRate": "Low — Guarani Aquifer provides deep groundwater buffer",
+  "droughtRisk": "Moderate",
+  "seasonalVariability": "High",
+  "affectedPopulation": 70000000,
+  "riskFactors": ["Agricultural expansion", "Deforestation", "Hydropower regulation", "Soy cultivation"],
+  "description": "The Paraná-La Plata system drains southeastern South America including parts of Brazil, Paraguay, Argentina, and Uruguay. The Guarani Aquifer — one of the world's largest — underlies much of the basin. Soy and cattle expansion are converting cerrado and Atlantic Forest, increasing runoff variability and sediment loads.",
+  "geojson": "parana-basin.geojson"
+}

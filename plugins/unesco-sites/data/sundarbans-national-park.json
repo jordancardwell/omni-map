@@ -1,0 +1,15 @@
+{
+  "code": "sundarbans-national-park",
+  "name": "Sundarbans National Park",
+  "type": "Natural",
+  "country": "India",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Sundarbans covers 10,000 km2 of land and water (more than half of it in India, the rest in Bangladesh) in the Ganges delta. It contains the world's largest area of mangrove forests. A number of rare or endangered species live in the park, including tigers, aquatic mammals, birds and reptiles.",
+  "danger": false,
+  "geojson": "sundarbans-national-park.geojson"
+}

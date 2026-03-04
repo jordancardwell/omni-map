@@ -1,0 +1,18 @@
+{
+  "code": "dxb-jed",
+  "name": "Dubai — Jeddah",
+  "airports": [
+    "DXB",
+    "JED"
+  ],
+  "distanceKm": 1699,
+  "weeklyFlights": 120,
+  "airlines": [
+    "Emirates",
+    "Saudia"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DXB–JED route between Dubai and Jeddah. Distance: 1,699 km. ~120 weekly flights operated by Emirates, Saudia.",
+  "geojson": "dxb-jed.geojson"
+}

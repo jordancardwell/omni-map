@@ -1,0 +1,19 @@
+{
+  "code": "bkk-kul",
+  "name": "Bangkok — Kuala Lumpur",
+  "airports": [
+    "BKK",
+    "KUL"
+  ],
+  "distanceKm": 1221,
+  "weeklyFlights": 220,
+  "airlines": [
+    "Thai Airways",
+    "AirAsia",
+    "Malaysia Airlines"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "BKK–KUL route between Bangkok and Kuala Lumpur. Distance: 1,221 km. ~220 weekly flights operated by Thai Airways, AirAsia, Malaysia Airlines.",
+  "geojson": "bkk-kul.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "tsechu-bhutan",
+  "name": "Tsechu",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Varies by district",
+  "origin": "Bhutanese Buddhist tradition",
+  "estimatedAttendance": "Thousands per district",
+  "unescoICH": "Not inscribed",
+  "traditions": "Masked cham dances; unfurling giant thongdrel (silk appliqué); traditional music; archery; community feasting.",
+  "historicalBackground": "Tsechus are annual Buddhist festivals held in every district of Bhutan, dating to the 17th century under Zhabdrung Ngawang Namgyal.",
+  "description": "Bhutan's spectacular masked dance festivals, where monks perform sacred cham dances in colorful monasteries across the Himalayan kingdom.",
+  "location": "Thimphu, Bhutan",
+  "geojson": "tsechu-bhutan.geojson"
+}

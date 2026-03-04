@@ -1,0 +1,19 @@
+{
+  "code": "cfa",
+  "name": "Humid Subtropical",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month ≥22°C; coldest month 0-18°C",
+  "precipitationPattern": "Year-round precipitation; no distinct dry season",
+  "vegetation": "Temperate broadleaf and mixed forest, abundant undergrowth",
+  "exampleCities": [
+    "Tokyo",
+    "Shanghai",
+    "Sydney",
+    "Buenos Aires",
+    "Atlanta",
+    "New Orleans"
+  ],
+  "description": "Humid subtropical climate (Cfa) is one of the most widespread climate types, characterized by hot, humid summers and mild winters with year-round precipitation. Found on the eastern sides of continents between 25-40° latitude. This climate supports productive agriculture and dense populations across multiple continents.",
+  "typicalWeather": "Hot, humid summers (25-35°C) with frequent thunderstorms. Mild winters (2-12°C) with occasional cold snaps. Autumn is often the driest season. Spring is warm and rainy. Annual precipitation 1000-1500mm, fairly evenly distributed.",
+  "geojson": "cfa.geojson"
+}

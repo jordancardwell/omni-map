@@ -1,0 +1,461 @@
+[
+  {
+    "code": "arabic",
+    "name": "Arabic",
+    "scriptType": "Abjad",
+    "characters": 28,
+    "direction": "RTL",
+    "originDate": "4th century CE",
+    "sampleText": "بسم الله الرحمن الرحيم",
+    "relatedScripts": [
+      "hebrew",
+      "tifinagh"
+    ],
+    "description": "The Arabic script is the second most widely used alphabetic writing system after Latin. It is an abjad, meaning it primarily represents consonants, with optional diacritics for vowels. Arabic script is used for Arabic, Persian, Urdu, Pashto, and several other languages across the Middle East, North Africa, and South/Central Asia.",
+    "historicalNotes": "The Arabic script evolved from the Nabataean alphabet in the 4th century CE. The spread of Islam from the 7th century onward carried Arabic script across a vast region from Spain to Southeast Asia. It developed into several calligraphic styles including Naskh, Thuluth, and Nastaliq. The script was adapted for non-Arabic languages including Persian, Ottoman Turkish, Urdu, and Malay.",
+    "geojson": "arabic.geojson"
+  },
+  {
+    "code": "armenian",
+    "name": "Armenian",
+    "scriptType": "Alphabet",
+    "characters": 38,
+    "direction": "LTR",
+    "originDate": "405 CE",
+    "sampleText": "Հայաստան — մեր հայրենիք",
+    "relatedScripts": [
+      "georgian",
+      "greek"
+    ],
+    "description": "The Armenian alphabet was created in 405 CE by Mesrop Mashtots, consisting of 38 letters (originally 36). It is used exclusively for the Armenian language and features distinctive angular letterforms. Armenian has separate uppercase and lowercase letter forms.",
+    "historicalNotes": "Mesrop Mashtots created the Armenian alphabet in 405 CE to translate the Bible into Armenian, which had previously been written in Greek and Syriac scripts. The alphabet originally had 36 letters; two were added in the 12th century. The creation of the script is considered a pivotal moment in Armenian cultural identity. The first sentence written in Armenian was reportedly 'To know wisdom and instruction; to perceive the words of understanding' (Proverbs 1:2).",
+    "geojson": "armenian.geojson"
+  },
+  {
+    "code": "bengali",
+    "name": "Bengali",
+    "scriptType": "Abugida",
+    "characters": 50,
+    "direction": "LTR",
+    "originDate": "11th century CE",
+    "sampleText": "আমার সোনার বাংলা, আমি তোমায় ভালোবাসি",
+    "relatedScripts": [
+      "devanagari",
+      "odia"
+    ],
+    "description": "The Bengali (Bangla) script is an abugida used for Bengali and Assamese. Like Devanagari, it uses a horizontal head-stroke (matra) connecting letters. It has 11 vowels and 39 consonants, with numerous conjunct forms for consonant clusters. It is the fifth most widely used script in the world.",
+    "historicalNotes": "Bengali script evolved from the Siddham script through the Proto-Bengali script around the 11th century CE. It developed from the eastern variant of the Nagari script. Bengali printing began in the 18th century under British colonial rule. Panchanan Karmakar cut the first Bengali typeface in 1778. The script was standardized during the Bengali Renaissance of the 19th century.",
+    "geojson": "bengali.geojson"
+  },
+  {
+    "code": "braille",
+    "name": "Braille",
+    "scriptType": "Tactile",
+    "characters": 63,
+    "direction": "LTR",
+    "originDate": "1824 CE",
+    "sampleText": "⠃⠗⠁⠊⠇⠇⠑ ⠊⠎ ⠁ ⠞⠁⠉⠞⠊⠇⠑ ⠺⠗⠊⠞⠊⠝⠛ ⠎⠽⠎⠞⠑⠍",
+    "relatedScripts": [
+      "latin"
+    ],
+    "description": "Braille is a tactile writing system using raised dots arranged in cells of up to six dots. It was invented for use by visually impaired people and has been adapted for virtually every language. Each cell can represent a letter, number, punctuation mark, or special symbol. Braille is used worldwide and is recognized as an official writing system in most countries.",
+    "historicalNotes": "Braille was invented in 1824 by Louis Braille, a French educator who was blind. He based it on a military communication system called 'night writing' developed by Charles Barbier. The system was gradually adopted in France and spread internationally. The World Braille Council standardized the system. January 4 (Louis Braille's birthday) is celebrated as World Braille Day.",
+    "geojson": "braille.geojson"
+  },
+  {
+    "code": "chinese",
+    "name": "Chinese (Hanzi)",
+    "scriptType": "Logographic",
+    "characters": 50000,
+    "direction": "LTR / Vertical",
+    "originDate": "~1200 BCE",
+    "sampleText": "天地玄黄，宇宙洪荒。",
+    "relatedScripts": [
+      "japanese",
+      "hangul"
+    ],
+    "description": "Chinese characters (Hanzi) are logographic, where each character represents a morpheme or word. It is one of the oldest continuously used writing systems. Simplified characters are used in mainland China and Singapore, while traditional characters are used in Taiwan, Hong Kong, and Macau. The total number of characters exceeds 50,000, though literacy requires knowledge of 3,000–4,000.",
+    "historicalNotes": "Chinese characters originated during the Shang dynasty (~1200 BCE) as oracle bone inscriptions. They evolved through bronze inscriptions, seal script, clerical script, and regular script. The script was adopted and adapted by neighboring civilizations, forming the basis for Japanese kanji, Korean hanja, and Vietnamese chữ Nôm. The People's Republic of China introduced simplified characters in the 1950s and 1960s.",
+    "geojson": "chinese.geojson"
+  },
+  {
+    "code": "cyrillic",
+    "name": "Cyrillic",
+    "scriptType": "Alphabet",
+    "characters": 33,
+    "direction": "LTR",
+    "originDate": "9th century CE",
+    "sampleText": "Съешь ещё этих мягких французских булок, да выпей чаю",
+    "relatedScripts": [
+      "latin",
+      "greek"
+    ],
+    "description": "The Cyrillic script is used for writing many Slavic languages as well as several non-Slavic languages across Eastern Europe and Central Asia. The Russian alphabet, with 33 letters, is the most widely known variant. Other major users include Ukrainian, Bulgarian, Serbian, Kazakh, and Mongolian.",
+    "historicalNotes": "Cyrillic was developed in the First Bulgarian Empire during the 9th century CE, traditionally attributed to Saints Cyril and Methodius's disciples. It was based on the Greek uncial script with additions for Slavic sounds. The script spread with the adoption of Orthodox Christianity. Peter the Great reformed the Russian variant in 1708, and Soviet-era policies extended Cyrillic to many Central Asian and Siberian languages.",
+    "geojson": "cyrillic.geojson"
+  },
+  {
+    "code": "devanagari",
+    "name": "Devanagari",
+    "scriptType": "Abugida",
+    "characters": 47,
+    "direction": "LTR",
+    "originDate": "7th century CE",
+    "sampleText": "नमस्ते, यह देवनागरी लिपि है।",
+    "relatedScripts": [
+      "bengali",
+      "gujarati",
+      "gurmukhi",
+      "tibetan"
+    ],
+    "description": "Devanagari is an abugida script used for over 120 languages, most prominently Hindi, Marathi, Sanskrit, and Nepali. Each consonant carries an inherent vowel that can be modified with diacritics. The script's characteristic horizontal line (shirorekha) connects letters along the top.",
+    "historicalNotes": "Devanagari evolved from the Brahmi script through the Gupta and Nagari scripts. The name means 'divine city script' in Sanskrit. It became the standard script for Sanskrit by the 12th century and was later adopted for Hindi during the rise of Hindi literature. The Government of India adopted Devanagari as the official script for Hindi in 1950.",
+    "geojson": "devanagari.geojson"
+  },
+  {
+    "code": "geez",
+    "name": "Ge'ez (Ethiopic)",
+    "scriptType": "Abugida",
+    "characters": 231,
+    "direction": "LTR",
+    "originDate": "~5th century BCE",
+    "sampleText": "ኢትዮጵያ ታበጽሕ እደዊሃ ኀበ እግዚአብሔር",
+    "relatedScripts": [
+      "arabic"
+    ],
+    "description": "The Ge'ez script (Ethiopic or Fidel) is an abugida used for Amharic, Tigrinya, and other Ethiopian and Eritrean languages. Each base character has seven forms representing different vowels, producing 231 core syllable characters. It is one of the few indigenous African scripts with ancient roots.",
+    "historicalNotes": "The Ge'ez script originated as an abjad (consonant-only) script around the 5th century BCE, derived from the South Arabian script. It became an abugida (with built-in vowels) around the 4th century CE, coinciding with the adoption of Christianity in the Aksumite Empire. The script has been in continuous use for over 2,000 years. It was originally used for the Ge'ez liturgical language and later adapted for Amharic, Tigrinya, and other languages.",
+    "geojson": "geez.geojson"
+  },
+  {
+    "code": "georgian",
+    "name": "Georgian (Mkhedruli)",
+    "scriptType": "Alphabet",
+    "characters": 33,
+    "direction": "LTR",
+    "originDate": "5th century CE",
+    "sampleText": "საქართველო — სიცოცხლე",
+    "relatedScripts": [
+      "armenian"
+    ],
+    "description": "The Georgian script (Mkhedruli) is the modern alphabet used for the Georgian language. It has 33 letters with a unique rounded, flowing appearance. Georgian is one of only 14 existing scripts that are used for a single language. The script has no distinction between uppercase and lowercase in modern usage.",
+    "historicalNotes": "Georgia has had three distinct scripts: Asomtavruli (5th century), Nuskhuri (9th century), and Mkhedruli (11th century). Mkhedruli, meaning 'warrior's script,' became dominant in secular use. The origin of the Georgian script is debated, with theories linking it to Greek, Aramaic, or independent invention. In 2016, the three Georgian scripts were collectively inscribed on UNESCO's Representative List of Intangible Cultural Heritage.",
+    "geojson": "georgian.geojson"
+  },
+  {
+    "code": "greek",
+    "name": "Greek",
+    "scriptType": "Alphabet",
+    "characters": 24,
+    "direction": "LTR",
+    "originDate": "~800 BCE",
+    "sampleText": "Ελληνική Δημοκρατία",
+    "relatedScripts": [
+      "latin",
+      "cyrillic"
+    ],
+    "description": "The Greek alphabet was the first true alphabet to include separate symbols for both consonants and vowels. With 24 letters, it is used for the Greek language and is widely employed in mathematics, science, and fraternity/sorority naming. Greek letters like α, β, π, and Σ are universally recognized in technical fields.",
+    "historicalNotes": "The Greek alphabet was developed around 800 BCE from the Phoenician abjad, with the key innovation of adding vowel letters. It was the first alphabet in the narrow sense. Greek script gave rise to the Latin alphabet (via Etruscan), Cyrillic alphabet, Coptic alphabet, and Gothic alphabet. The distinction between uppercase and lowercase forms developed during the medieval period.",
+    "geojson": "greek.geojson"
+  },
+  {
+    "code": "gujarati",
+    "name": "Gujarati",
+    "scriptType": "Abugida",
+    "characters": 47,
+    "direction": "LTR",
+    "originDate": "~16th century CE",
+    "sampleText": "ગુજરાતી ભાષા અને લિપિ",
+    "relatedScripts": [
+      "devanagari"
+    ],
+    "description": "The Gujarati script is an abugida closely related to Devanagari but distinguished by the absence of the horizontal headline (shirorekha). It has 47 primary characters — 14 vowels and 33 consonants. The script is used for the Gujarati language spoken in Gujarat, India.",
+    "historicalNotes": "Gujarati script evolved from Devanagari around the 16th century. Merchants and traders favored a faster writing style that dropped the headline, leading to the distinct Gujarati form. The first known Gujarati text dates to 1592. Mahatma Gandhi wrote his autobiography in Gujarati. The script was standardized in the 19th century during the efforts of Gujarati scholars and publishers.",
+    "geojson": "gujarati.geojson"
+  },
+  {
+    "code": "gurmukhi",
+    "name": "Gurmukhi",
+    "scriptType": "Abugida",
+    "characters": 35,
+    "direction": "LTR",
+    "originDate": "16th century CE",
+    "sampleText": "ਗੁਰਮੁਖੀ ਲਿਪੀ ਪੰਜਾਬੀ",
+    "relatedScripts": [
+      "devanagari"
+    ],
+    "description": "The Gurmukhi script is an abugida with 35 letters, used primarily for the Punjabi language in India. The name means 'from the mouth of the Guru.' The script features a headline similar to Devanagari and is closely associated with Sikhism, as it is the script used in the Guru Granth Sahib.",
+    "historicalNotes": "Gurmukhi was standardized by Guru Angad, the second Sikh Guru, in the 16th century CE, building on earlier Landa scripts of the Punjab region. It was created to record the hymns and teachings of the Sikh Gurus. The script gained religious and cultural significance as the sacred script of Sikhism. In Pakistan, Punjabi is typically written in the Shahmukhi script (Arabic-derived) rather than Gurmukhi.",
+    "geojson": "gurmukhi.geojson"
+  },
+  {
+    "code": "hangul",
+    "name": "Hangul",
+    "scriptType": "Alphabet",
+    "characters": 24,
+    "direction": "LTR",
+    "originDate": "1443 CE",
+    "sampleText": "한글은 아름다운 글자입니다",
+    "relatedScripts": [
+      "chinese"
+    ],
+    "description": "Hangul is the Korean alphabet, invented in 1443 by King Sejong the Great and his scholars. It is considered one of the most scientifically designed writing systems. Characters are composed of 14 consonants and 10 vowels arranged into syllabic blocks. The shapes of consonant letters are based on the articulatory phonetics of how sounds are produced.",
+    "historicalNotes": "Before Hangul, Koreans used Classical Chinese characters (hanja), which were inaccessible to commoners. King Sejong created Hangul to increase literacy among the general population. Initially called Hunminjeongeum ('the correct sounds for the instruction of the people'), it faced resistance from the scholarly elite. Hangul gained widespread acceptance in the 20th century and is celebrated annually on Hangul Day (October 9).",
+    "geojson": "hangul.geojson"
+  },
+  {
+    "code": "hebrew",
+    "name": "Hebrew",
+    "scriptType": "Abjad",
+    "characters": 22,
+    "direction": "RTL",
+    "originDate": "~10th century BCE",
+    "sampleText": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
+    "relatedScripts": [
+      "arabic",
+      "tifinagh"
+    ],
+    "description": "The Hebrew script is an abjad of 22 consonant letters, with optional diacritical marks (niqqud) for vowels. It is used for Hebrew and, in a variant form, for Yiddish and Ladino. Five letters have different forms when they appear at the end of a word (final forms).",
+    "historicalNotes": "The Hebrew alphabet evolved from the Phoenician script around the 10th century BCE. After the Babylonian exile, Jews adopted the 'square script' (Ktav Ashuri) based on the Aramaic alphabet, which is the basis of modern Hebrew letters. Hebrew was revived as a spoken language in the late 19th century by Eliezer Ben-Yehuda, and the script was modernized for modern Israeli use.",
+    "geojson": "hebrew.geojson"
+  },
+  {
+    "code": "japanese",
+    "name": "Japanese",
+    "scriptType": "Mixed",
+    "characters": 2136,
+    "direction": "LTR / Vertical",
+    "originDate": "8th century CE",
+    "sampleText": "いろはにほへと ちりぬるを",
+    "relatedScripts": [
+      "chinese"
+    ],
+    "description": "The Japanese writing system uniquely combines three scripts: Kanji (Chinese characters), Hiragana (cursive syllabary for native words and grammar), and Katakana (angular syllabary for foreign words and emphasis). The 2,136 Jōyō kanji are designated for everyday use. This mixed system is one of the most complex in active use.",
+    "historicalNotes": "Japanese borrowed Chinese characters beginning in the 5th century CE. By the 8th century, a system called man'yōgana used Chinese characters for their phonetic values. Hiragana and katakana both evolved from simplified Chinese characters during the 9th century — hiragana from cursive forms used by court women, and katakana from fragments used by Buddhist monks. The modern system was standardized after the Meiji Restoration.",
+    "geojson": "japanese.geojson"
+  },
+  {
+    "code": "kannada",
+    "name": "Kannada",
+    "scriptType": "Abugida",
+    "characters": 49,
+    "direction": "LTR",
+    "originDate": "~5th century CE",
+    "sampleText": "ಕನ್ನಡ ಲಿಪಿ ಬಹಳ ಸುಂದರ",
+    "relatedScripts": [
+      "telugu",
+      "tamil"
+    ],
+    "description": "The Kannada script is an abugida with 49 phonemic letters — 15 vowels and 34 consonants. It shares a common ancestor with the Telugu script and has a distinctively rounded appearance. Kannada is used for the Kannada language, predominantly in Karnataka, India.",
+    "historicalNotes": "Kannada script evolved from the Kadamba script and Chalukya script, derived from ancient Brahmi. The earliest Kannada inscriptions (Halmidi inscription) date to approximately 450 CE. The script was patronized by the Western Chalukya, Rashtrakuta, and Hoysala dynasties. It reached its modern form by the 15th century.",
+    "geojson": "kannada.geojson"
+  },
+  {
+    "code": "khmer",
+    "name": "Khmer",
+    "scriptType": "Abugida",
+    "characters": 33,
+    "direction": "LTR",
+    "originDate": "7th century CE",
+    "sampleText": "ព្រះរាជាណាចក្រកម្ពុជា",
+    "relatedScripts": [
+      "thai",
+      "lao"
+    ],
+    "description": "The Khmer script is an abugida with 33 consonants and a rich system of dependent vowels, subscript consonants, and diacritics. It holds a Guinness World Record for the largest alphabet. Khmer is notable for its elaborate ligatures and stacked subscript forms used for consonant clusters.",
+    "historicalNotes": "The Khmer script descended from the Pallava script of South India through the Brahmi tradition. The earliest known Khmer inscription dates to 611 CE. The script was used extensively in the Angkor Empire (9th–15th centuries) for temple inscriptions, including those at Angkor Wat. The Thai and Lao scripts were derived from Khmer. Modern Khmer underwent reforms in the 20th century.",
+    "geojson": "khmer.geojson"
+  },
+  {
+    "code": "lao",
+    "name": "Lao",
+    "scriptType": "Abugida",
+    "characters": 27,
+    "direction": "LTR",
+    "originDate": "~14th century CE",
+    "sampleText": "ພາສາລາວ ງາມ",
+    "relatedScripts": [
+      "thai",
+      "khmer"
+    ],
+    "description": "The Lao script is an abugida closely related to Thai script, with 27 consonants and a system of vowel signs. Like Thai, Lao does not use spaces between words. Lao script has a more rounded appearance compared to Thai and uses fewer consonant characters due to spelling reforms that simplified the orthography.",
+    "historicalNotes": "The Lao script developed from the Khmer script, sharing a common ancestor with the Thai script. The earliest Lao inscriptions date to the 14th century during the Lan Xang kingdom. Following the Lao revolution in 1975, the script underwent significant simplification: many redundant consonants were eliminated, and spelling was reformed to be more phonetic.",
+    "geojson": "lao.geojson"
+  },
+  {
+    "code": "latin",
+    "name": "Latin",
+    "scriptType": "Alphabet",
+    "characters": 26,
+    "direction": "LTR",
+    "originDate": "~700 BCE",
+    "sampleText": "The quick brown fox jumps over the lazy dog",
+    "relatedScripts": [
+      "cyrillic",
+      "greek"
+    ],
+    "description": "The Latin script is the most widely used alphabetic writing system in the world. Derived from the Greek alphabet via the Etruscan script, it is the standard script for English, Spanish, French, Portuguese, German, and many other languages across every continent.",
+    "historicalNotes": "The Latin alphabet originated in the Italian Peninsula around the 7th century BCE, adapted from the Etruscan alphabet which itself derived from the Greek. The Romans spread it throughout their empire. During the medieval period and the Age of Exploration, Latin script spread to the Americas, Africa, Asia, and Oceania. Today it is used by more languages than any other writing system.",
+    "geojson": "latin.geojson"
+  },
+  {
+    "code": "malayalam",
+    "name": "Malayalam",
+    "scriptType": "Abugida",
+    "characters": 52,
+    "direction": "LTR",
+    "originDate": "~9th century CE",
+    "sampleText": "മലയാളം എന്റെ മാതൃഭാഷ",
+    "relatedScripts": [
+      "tamil",
+      "sinhala"
+    ],
+    "description": "The Malayalam script is an abugida with 52 letters — 16 vowels and 36 consonants. It is known for its elaborate and highly rounded letterforms, considered among the most visually distinctive in India. The script is used for the Malayalam language of Kerala, India.",
+    "historicalNotes": "Malayalam script evolved from the Grantha script, which was used to write Sanskrit in South India. It diverged from the Tamil script around the 9th century CE. The modern rounded forms developed from writing on palm leaves. A significant orthographic reform in 1971 simplified many complex ligatures for use in printing and typewriting.",
+    "geojson": "malayalam.geojson"
+  },
+  {
+    "code": "mongolian",
+    "name": "Mongolian (Traditional)",
+    "scriptType": "Alphabet",
+    "characters": 26,
+    "direction": "Vertical",
+    "originDate": "13th century CE",
+    "sampleText": "ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ",
+    "relatedScripts": [
+      "cyrillic"
+    ],
+    "description": "The traditional Mongolian script is written vertically from top to bottom, with columns running left to right. It has 26 letters with different forms depending on position (initial, medial, final). It is one of the few vertical scripts still in active use. Inner Mongolia in China continues to use this script, while Mongolia uses Cyrillic with ongoing efforts to revive the traditional script.",
+    "historicalNotes": "The traditional Mongolian script was adapted from the Uyghur alphabet in the early 13th century, during the reign of Genghis Khan. The Uyghur script itself derived from Sogdian and ultimately from Aramaic. Mongolia switched to Cyrillic in 1941 under Soviet influence. Since 2020, Mongolia has been working to restore the traditional script alongside Cyrillic. Inner Mongolia has maintained continuous use of the script.",
+    "geojson": "mongolian.geojson"
+  },
+  {
+    "code": "myanmar",
+    "name": "Myanmar (Burmese)",
+    "scriptType": "Abugida",
+    "characters": 33,
+    "direction": "LTR",
+    "originDate": "~11th century CE",
+    "sampleText": "မြန်မာအက္ခရာ",
+    "relatedScripts": [
+      "thai",
+      "khmer"
+    ],
+    "description": "The Myanmar script is an abugida with distinctive circular letterforms, reflecting its historical origin of being inscribed on palm leaves where straight lines would tear the leaf. It has 33 consonants and a complex system of vowel diacritics, tone marks, and medial consonants.",
+    "historicalNotes": "The Myanmar script was adapted from the Mon script, which in turn derived from South Indian Pallava script. The earliest known inscription in Myanmar script dates to 1035 CE from the Bagan period. The circular shapes of the letters are attributed to the use of palm leaves as a writing medium. The script was standardized by the Myanmar Language Commission in the 20th century.",
+    "geojson": "myanmar.geojson"
+  },
+  {
+    "code": "odia",
+    "name": "Odia",
+    "scriptType": "Abugida",
+    "characters": 47,
+    "direction": "LTR",
+    "originDate": "~14th century CE",
+    "sampleText": "ଓଡ଼ିଆ ଲିପି ବହୁତ ସୁନ୍ଦର",
+    "relatedScripts": [
+      "bengali",
+      "devanagari"
+    ],
+    "description": "The Odia script is an abugida with 47 characters, notable for its curved and rounded letterforms that resemble circles and arcs. Unlike Devanagari and Bengali, Odia lacks a headline. The distinctive roundness is attributed to the historical practice of writing on palm leaves, where straight horizontal lines would tear the leaf.",
+    "historicalNotes": "Odia script evolved from the eastern Nagari scripts, with inscriptions dating to the 14th century CE. The script developed its characteristic curved forms over time as scribes wrote on dried palm leaves. The earliest known Odia prose text is the Madala Panji (temple chronicles). Odia was recognized as a classical language of India in 2014.",
+    "geojson": "odia.geojson"
+  },
+  {
+    "code": "sinhala",
+    "name": "Sinhala",
+    "scriptType": "Abugida",
+    "characters": 60,
+    "direction": "LTR",
+    "originDate": "~3rd century BCE",
+    "sampleText": "සිංහල අකුරු ඉතා අලංකාරයි",
+    "relatedScripts": [
+      "tamil",
+      "devanagari"
+    ],
+    "description": "The Sinhala script is an abugida with 60 characters, used for the Sinhala language of Sri Lanka. It features distinctive rounded shapes and is one of the most visually elaborate scripts in South Asia. The script includes 18 vowels and 42 consonants with extensive use of conjunct characters.",
+    "historicalNotes": "Sinhala script evolved from the Brahmi script, with inscriptions dating to the 3rd century BCE during the reign of King Devanampiya Tissa. The script underwent significant changes over the centuries, developing its characteristic rounded forms partly due to writing on palm leaves. Portuguese and Dutch colonial periods brought Latin script influence, but Sinhala script remained the primary writing system.",
+    "geojson": "sinhala.geojson"
+  },
+  {
+    "code": "tamil",
+    "name": "Tamil",
+    "scriptType": "Abugida",
+    "characters": 31,
+    "direction": "LTR",
+    "originDate": "~3rd century BCE",
+    "sampleText": "தமிழ் மொழி இனிமையானது",
+    "relatedScripts": [
+      "telugu",
+      "kannada",
+      "malayalam",
+      "sinhala"
+    ],
+    "description": "The Tamil script is an abugida used for the Tamil language, one of the longest-surviving classical languages. It has 12 vowels, 18 consonants, and a special character (āytam), giving 247 combinations. Tamil script is notable for its rounded letterforms and is one of the oldest scripts still in modern use.",
+    "historicalNotes": "Tamil script descended from the Tamil-Brahmi script (3rd century BCE) through Vatteluttu and Pallava Grantha. The modern form stabilized around the 7th century CE. Tamil has the oldest literature of any Dravidian language, with the Sangam literature dating to 300 BCE – 300 CE. The script was further standardized during the colonial period and in the 20th century for print and digital use.",
+    "geojson": "tamil.geojson"
+  },
+  {
+    "code": "telugu",
+    "name": "Telugu",
+    "scriptType": "Abugida",
+    "characters": 56,
+    "direction": "LTR",
+    "originDate": "~7th century CE",
+    "sampleText": "తెలుగు లిపి అందమైనది",
+    "relatedScripts": [
+      "kannada",
+      "tamil"
+    ],
+    "description": "The Telugu script is an abugida with rounded letterforms, used for the Telugu language spoken in Andhra Pradesh and Telangana. It has 16 vowels, 36 consonants, and 4 additional characters. Telugu is sometimes called 'the Italian of the East' for the musicality of its vowel endings.",
+    "historicalNotes": "Telugu script evolved from the Bhattiprolu script through the Kadamba and Chalukya scripts, reaching its modern form by the 7th century CE. It shares a common ancestor with the Kannada script. Telugu inscriptions date back to the 6th century CE. The script was used extensively in the courts of the Vijayanagara Empire and the Kakatiya dynasty.",
+    "geojson": "telugu.geojson"
+  },
+  {
+    "code": "thai",
+    "name": "Thai",
+    "scriptType": "Abugida",
+    "characters": 44,
+    "direction": "LTR",
+    "originDate": "1283 CE",
+    "sampleText": "สวัสดีครับ ยินดีต้อนรับ",
+    "relatedScripts": [
+      "lao",
+      "khmer"
+    ],
+    "description": "The Thai script is an abugida with 44 consonant letters, 15 vowel symbols, and 4 tone marks. Unlike many scripts, Thai does not use spaces between words — spaces indicate the end of a clause or sentence. Vowel marks can appear above, below, before, or after consonants.",
+    "historicalNotes": "The Thai script was created in 1283 CE by King Ramkhamhaeng the Great, based on the Khmer script which itself derived from South Indian Pallava script via the Brahmi tradition. The inscription known as the Ramkhamhaeng Stele is considered the earliest example of Thai writing. The script has remained largely unchanged since its creation.",
+    "geojson": "thai.geojson"
+  },
+  {
+    "code": "tibetan",
+    "name": "Tibetan",
+    "scriptType": "Abugida",
+    "characters": 30,
+    "direction": "LTR",
+    "originDate": "7th century CE",
+    "sampleText": "བོད་སྐད་ཡིག་གཟུགས་",
+    "relatedScripts": [
+      "devanagari"
+    ],
+    "description": "The Tibetan script is an abugida with 30 consonant letters and 4 vowel diacritics. It features distinctive stacked consonant clusters where characters are placed vertically. The script is used for Tibetan, Dzongkha (Bhutan), and Ladakhi, as well as for Buddhist liturgical texts across Central Asia.",
+    "historicalNotes": "The Tibetan script was created in the 7th century CE by Thonmi Sambhota, a minister of King Songtsen Gampo, based on Indian Brahmi-derived scripts (likely Gupta or Siddham). It was developed specifically to translate Buddhist texts from Sanskrit. The script spread with Tibetan Buddhism to Mongolia, Bhutan, and parts of Nepal and northern India.",
+    "geojson": "tibetan.geojson"
+  },
+  {
+    "code": "tifinagh",
+    "name": "Tifinagh",
+    "scriptType": "Abjad",
+    "characters": 33,
+    "direction": "LTR",
+    "originDate": "~3rd century BCE",
+    "sampleText": "ⵜⵉⴼⵉⵏⴰⵖ ⵏ ⵜⴰⵎⴰⵣⵉⵖⵜ",
+    "relatedScripts": [
+      "arabic",
+      "hebrew"
+    ],
+    "description": "Tifinagh is the script of the Amazigh (Berber) people of North Africa. Historically an abjad (consonant-only), the modern Neo-Tifinagh version includes vowels. It has 33 letters with distinctive geometric shapes. Morocco officially adopted Neo-Tifinagh for the Amazigh language in 2003.",
+    "historicalNotes": "Tifinagh descends from the ancient Libyan script, attested from the 3rd century BCE. The Tuareg people of the Sahara preserved the script through the centuries while most other Berber groups adopted Arabic script. In 2003, the Royal Institute of Amazigh Culture (IRCAM) in Morocco standardized Neo-Tifinagh. It was added to Unicode in 2005. Algeria also uses it alongside Arabic and Latin scripts for Tamazight.",
+    "geojson": "tifinagh.geojson"
+  }
+]

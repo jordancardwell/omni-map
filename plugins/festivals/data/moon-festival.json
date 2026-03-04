@@ -1,0 +1,14 @@
+{
+  "code": "moon-festival",
+  "name": "Mid-Autumn Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "15th of 8th lunar month",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Inscribed 2006 (national heritage)",
+  "traditions": "Eating mooncakes; family reunions; lantern displays; moon gazing; burning incense; lion dances; making offerings to the moon.",
+  "historicalBackground": "The Mid-Autumn Festival dates to the Tang Dynasty (618–907). It celebrates the harvest and the legend of Chang'e, the Moon Goddess of immortality.",
+  "description": "China's harvest moon celebration, where families reunite under the full moon to share mooncakes and celebrate togetherness.",
+  "location": "Beijing, China",
+  "geojson": "moon-festival.geojson"
+}

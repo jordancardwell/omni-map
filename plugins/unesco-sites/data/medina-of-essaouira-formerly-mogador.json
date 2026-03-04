@@ -1,0 +1,15 @@
+{
+  "code": "medina-of-essaouira-formerly-mogador",
+  "name": "Medina of Essaouira (formerly Mogador)",
+  "type": "Cultural",
+  "country": "Morocco",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Essaouira is an exceptional example of a late-18th-century fortified town, built according to the principles of contemporary European military architecture in a North African context. Since its foundation, it has been a major international trading seaport, linking Morocco and its Saharan hinterland with Europe and the rest of the world.",
+  "danger": false,
+  "geojson": "medina-of-essaouira-formerly-mogador.geojson"
+}

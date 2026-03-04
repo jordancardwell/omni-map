@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-kenya",
+  "name": "Jamhuri Day (Kenya)",
+  "festivalType": "National",
+  "dateOrSeason": "December 12",
+  "origin": "Kenyan national",
+  "estimatedAttendance": "55+ million Kenyans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Presidential address; military parades; traditional dance performances; sports events; community celebrations.",
+  "historicalBackground": "Jamhuri Day (Republic Day) marks both Kenya's independence from Britain (1963) and its becoming a republic (1964) on December 12.",
+  "description": "Kenya's Republic Day celebration, marking independence and self-governance with parades and cultural performances across the nation.",
+  "location": "Nairobi, Kenya",
+  "geojson": "independence-day-kenya.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "whooping-crane",
+  "name": "Whooping Crane",
+  "scientificName": "Grus americana",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~800 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Wetland and prairie",
+  "threats": [
+    "Habitat loss",
+    "Power line collisions",
+    "Predation",
+    "Small population size"
+  ],
+  "conservationEfforts": "Intensive management since the 1940s when only 21 remained. Ultralight aircraft-led migrations established a second population. Captive breeding at Patuxent Wildlife Research Center.",
+  "description": "The tallest bird in North America, standing 1.5 meters tall. Their haunting bugling calls carry for miles across marshlands. Population has grown from 21 to over 800 through decades of conservation.",
+  "geojson": "whooping-crane.geojson"
+}

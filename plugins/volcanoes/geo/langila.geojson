@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[148.42,-5.525]},"properties":{"code":"langila","name":"Langila","volcanoType":"Complex volcano","status":"Erupting/Recent","elevation":1330,"lastEruption":"2023","vei":2}}]}

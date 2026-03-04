@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4986111111,
+          13.8352777778
+        ]
+      },
+      "properties": {
+        "code": "saloum-delta",
+        "name": "Saloum Delta",
+        "type": "Cultural",
+        "country": "Senegal",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

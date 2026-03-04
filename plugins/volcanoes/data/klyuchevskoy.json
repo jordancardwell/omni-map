@@ -1,0 +1,22 @@
+{
+  "code": "klyuchevskoy",
+  "name": "Klyuchevskoy",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 4750,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Russia",
+  "region": "Kamchatka",
+  "location": "Kamchatka, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars"
+  ],
+  "eruptionHistory": "The most active volcano in Kamchatka and the highest active volcano in Eurasia. Has erupted over 50 times since 1697.",
+  "description": "Klyuchevskoy is the highest active volcano in Eurasia and one of the most active in the world. It has been in near-continuous eruption throughout its 6,000-year history.",
+  "geojson": "klyuchevskoy.geojson"
+}

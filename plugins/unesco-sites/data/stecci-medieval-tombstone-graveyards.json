@@ -1,0 +1,14 @@
+{
+  "code": "stecci-medieval-tombstone-graveyards",
+  "name": "Stećci Medieval Tombstone Graveyards",
+  "type": "Cultural",
+  "country": "Serbia, Croatia, Montenegro, Bosnia and Herzegovina",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions.",
+  "danger": false,
+  "geojson": "stecci-medieval-tombstone-graveyards.geojson"
+}

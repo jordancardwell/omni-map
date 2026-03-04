@@ -1,0 +1,21 @@
+{
+  "code": "cromwell",
+  "name": "Cromwell Current (Equatorial Undercurrent)",
+  "currentType": "Deep",
+  "speedRange": "0.5–1.5 m/s",
+  "origin": "Western Pacific (subsurface)",
+  "destination": "Galapagos Islands (upwells)",
+  "climateEffects": [
+    "Drives Galapagos upwelling",
+    "Transports cold subsurface water eastward",
+    "Influences equatorial Pacific productivity"
+  ],
+  "connectedEcosystems": [
+    "Galapagos marine ecosystem",
+    "Equatorial Pacific fisheries",
+    "Eastern Pacific pelagic zone"
+  ],
+  "itemCategory": "Deep",
+  "description": "The Cromwell Current (Pacific Equatorial Undercurrent) flows eastward beneath the surface along the equator, opposite to the westward surface current. It upwells cold, nutrient-rich water at the Galapagos Islands, sustaining unique marine ecosystems.",
+  "geojson": "cromwell.geojson"
+}

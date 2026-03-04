@@ -1,0 +1,14 @@
+{
+  "code": "tango-winter",
+  "name": "Winter Tango Festival (Tangomarkkinat)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "July",
+  "origin": "Finnish tradition",
+  "estimatedAttendance": "100,000+ visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Open-air tango dancing; tango singing competitions; crowning of Tango King and Queen; milongas in Seinäjoki.",
+  "historicalBackground": "Finland adopted tango in the early 20th century, developing a uniquely melancholic Finnish style. The festival has been held annually since 1985.",
+  "description": "Finland's beloved summer tango festival, where thousands dance the uniquely Finnish style of tango under northern summer skies.",
+  "location": "Seinäjoki, Finland",
+  "geojson": "tango-winter.geojson"
+}

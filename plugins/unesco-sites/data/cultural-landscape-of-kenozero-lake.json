@@ -1,0 +1,14 @@
+{
+  "code": "cultural-landscape-of-kenozero-lake",
+  "name": "Cultural Landscape of Kenozero Lake",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in Kenozero National Park in the north-western area of the European region of the Russian Federation, the property depicts the local cultural landscape that evolved here from the 12th century, following the gradual spread of the Slavic population. It incorporates a number of traditional rural settlements with vernacular wooden architecture. The cultural landscape of Kenozero reflects the communal management of agriculture and nature that developed through the fusion and interaction of the Finno-Ugric forest culture and the Slavic field culture. Wooden churches and other religious buildings, originally decorated with painted ceilings, or “heavens”, are the key social, cultural, and visual landmarks of the area. Their spatial organization, together with sacred sites and symbols, highlight the residents’ spiritual connection with this environment.",
+  "danger": false,
+  "geojson": "cultural-landscape-of-kenozero-lake.geojson"
+}

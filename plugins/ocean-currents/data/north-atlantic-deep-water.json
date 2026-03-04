@@ -1,0 +1,21 @@
+{
+  "code": "north-atlantic-deep-water",
+  "name": "North Atlantic Deep Water",
+  "currentType": "Deep",
+  "speedRange": "0.01–0.05 m/s",
+  "origin": "Nordic Seas / Labrador Sea",
+  "destination": "Southern Ocean (global deep circulation)",
+  "climateEffects": [
+    "Drives global thermohaline circulation",
+    "Transports carbon to deep ocean",
+    "Key indicator of climate change"
+  ],
+  "connectedEcosystems": [
+    "Deep Atlantic ecosystem",
+    "Abyssal plains biodiversity",
+    "Global deep-sea habitats"
+  ],
+  "itemCategory": "Deep",
+  "description": "North Atlantic Deep Water (NADW) forms when cold, dense water sinks in the Nordic and Labrador seas and flows southward at depth through the Atlantic. It is a critical component of the global thermohaline conveyor belt that redistributes heat worldwide.",
+  "geojson": "north-atlantic-deep-water.geojson"
+}

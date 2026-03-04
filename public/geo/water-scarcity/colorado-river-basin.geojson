@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "colorado-river-basin", "name": "Colorado River Basin" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-114,43],[-112,42],[-110,42],[-108,41],[-107,39],[-106,37],[-107,35],[-108,34],[-109,33],[-111,32],[-113,32],[-115,33],[-115,34],[-114,36],[-114,38],[-113,40],[-114,43]]]
+    }
+  }]
+}

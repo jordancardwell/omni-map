@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"do","name":"Dominican Republic","country":"DO","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-72,17.6],[-72,19.9],[-68.3,19.9],[-68.3,17.6],[-72,17.6]]]}}]}

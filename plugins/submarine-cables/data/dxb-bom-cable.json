@@ -1,0 +1,16 @@
+{
+  "code": "dxb-bom-cable",
+  "name": "DXB-BOM Cable",
+  "capacityTbps": 26,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6663,
+  "yearLaid": 2018,
+  "rfsDate": "2012-06",
+  "owner": "Du",
+  "landingPoints": [
+    "Dubai, UAE",
+    "Mumbai, India"
+  ],
+  "description": "DXB-BOM Cable connecting Dubai to Mumbai.",
+  "geojson": "dxb-bom-cable.geojson"
+}

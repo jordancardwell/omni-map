@@ -1,0 +1,20 @@
+{
+  "code": "european-eel",
+  "name": "European Eel",
+  "scientificName": "Anguilla anguilla",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Rivers, estuaries, and Sargasso Sea",
+  "threats": [
+    "Overfishing",
+    "Habitat loss",
+    "Dam barriers",
+    "Parasites",
+    "Pollution"
+  ],
+  "conservationEfforts": "EU Eel Regulation requires management plans. Fish passage facilities at dams. Glass eel fishery quotas. Restocking programs in rivers.",
+  "description": "Born in the Sargasso Sea, European eels drift across the Atlantic as larvae, enter European rivers where they live for 5-20 years, then mysteriously return to the Sargasso to spawn and die. No one has ever observed them spawning.",
+  "geojson": "european-eel.geojson"
+}

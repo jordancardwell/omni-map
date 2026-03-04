@@ -1,0 +1,18 @@
+{
+  "code": "jfk-mco",
+  "name": "New York — Orlando",
+  "airports": [
+    "JFK",
+    "MCO"
+  ],
+  "distanceKm": 1521,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–MCO route between New York and Orlando. Distance: 1,521 km. ~70 weekly flights operated by Delta, JetBlue.",
+  "geojson": "jfk-mco.geojson"
+}

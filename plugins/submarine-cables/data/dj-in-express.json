@@ -1,0 +1,16 @@
+{
+  "code": "dj-in-express",
+  "name": "DJ-IN Express",
+  "capacityTbps": 57,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 884,
+  "yearLaid": 2013,
+  "rfsDate": "2016-06",
+  "owner": "Airtel",
+  "landingPoints": [
+    "Djibouti, Djibouti",
+    "Mumbai, India"
+  ],
+  "description": "DJ-IN Express connecting Djibouti to Mumbai.",
+  "geojson": "dj-in-express.geojson"
+}

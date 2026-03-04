@@ -1,0 +1,19 @@
+{
+  "code": "sea-me-we-3-europe",
+  "name": "SEA-ME-WE 3 (Europe)",
+  "capacityTbps": 0.96,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 39000,
+  "yearLaid": 1997,
+  "rfsDate": "1999-10",
+  "owner": "Consortium (>70 operators)",
+  "landingPoints": [
+    "Marseille, France",
+    "Genoa, Italy",
+    "Barcelona, Spain",
+    "Lisbon, Portugal",
+    "London, UK"
+  ],
+  "description": "Segment of the longest submarine cable in the world spanning 33 countries from Western Europe to Australia.",
+  "geojson": "sea-me-we-3-europe.geojson"
+}

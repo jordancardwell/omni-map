@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8627777778,
+          17.0416666667
+        ]
+      },
+      "properties": {
+        "code": "ennedi-massif-natural-and-cultural-landscape",
+        "name": "Ennedi Massif: Natural and Cultural Landscape",
+        "type": "Mixed",
+        "country": "Chad",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

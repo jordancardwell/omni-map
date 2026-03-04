@@ -1,0 +1,16 @@
+{
+  "code": "orkhon-valley-cultural-landscape",
+  "name": "Orkhon Valley Cultural Landscape",
+  "type": "Cultural",
+  "country": "Mongolia",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 121,967-ha Orkhon Valley Cultural Landscape encompasses an extensive area of pastureland on both banks of the Orkhon River and includes numerous archaeological remains dating back to the 6th century. The site also includes Kharkhorum, the 13th- and 14th-century capital of Chingis (Genghis) Khan’s vast Empire. Collectively the remains in the site reflect the symbiotic links between nomadic, pastoral societies and their administrative and religious centres, and the importance of the Orkhon valley in the history of central Asia. The grassland is still grazed by Mongolian nomadic pastoralists.",
+  "danger": false,
+  "geojson": "orkhon-valley-cultural-landscape.geojson"
+}

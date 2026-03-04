@@ -1,0 +1,14 @@
+{
+  "code": "national-day-china",
+  "name": "National Day of China",
+  "festivalType": "National",
+  "dateOrSeason": "October 1–7 (Golden Week)",
+  "origin": "Chinese national",
+  "estimatedAttendance": "1.4+ billion Chinese",
+  "unescoICH": "Not inscribed",
+  "traditions": "Tiananmen Square flag ceremony; military parades (major anniversaries); fireworks; travel across China; cultural performances.",
+  "historicalBackground": "National Day marks the founding of the People's Republic of China on October 1, 1949, when Mao Zedong proclaimed the new state in Tiananmen Square.",
+  "description": "China's National Day Golden Week, a seven-day celebration of the founding of the People's Republic with massive festivities.",
+  "location": "Beijing, China",
+  "geojson": "national-day-china.geojson"
+}

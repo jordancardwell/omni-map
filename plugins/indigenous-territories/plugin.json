@@ -1,0 +1,37 @@
+{
+  "id": "indigenous-territories",
+  "name": "Indigenous Territories",
+  "description": "Traditional territorial boundaries of indigenous peoples worldwide, sourced from Native Land Digital",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#D97706",
+  "categories": ["culture", "history"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Culture & Society",
+  "thumbnail": "#D97706",
+  "schema": "IndigenousTerritoryMetadata",
+  "attribution": "Data sourced from Native Land Digital (native-land.ca). Native Land Digital is a Canadian not-for-profit organization.",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "people", "language", "region"],
+    "groupBy": "region",
+    "titleField": "name",
+    "subtitleField": "people",
+    "badgeField": "language",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "people"
+  },
+  "detailFields": [
+    { "key": "people", "label": "People / Nation", "type": "text" },
+    { "key": "language", "label": "Language", "type": "text" },
+    { "key": "region", "label": "Region", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "relatedTreaties", "label": "Related Treaties", "type": "tags" },
+    { "key": "nativeLandUrl", "label": "Learn More", "type": "links" }
+  ]
+}

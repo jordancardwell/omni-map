@@ -1,0 +1,17 @@
+{
+  "code": "bi",
+  "name": "Burundi",
+  "avgDownloadMbps": 3.8,
+  "avgUploadMbps": 1.2,
+  "avgLatencyMs": 56,
+  "mobileDownloadMbps": 5.4,
+  "mobileUploadMbps": 1.4,
+  "fixedDownloadMbps": 3.8,
+  "fixedUploadMbps": 1.2,
+  "rank": 188,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Among the least connected. ~10% year-over-year growth.",
+  "geojson": "bi.geojson"
+}

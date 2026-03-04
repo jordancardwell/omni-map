@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4750321846,
+          -34.3558051153
+        ]
+      },
+      "properties": {
+        "code": "cape-floral-region-protected-areas",
+        "name": "Cape Floral Region Protected Areas",
+        "type": "Natural",
+        "country": "South Africa",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"st","name":"São Tomé and Príncipe","country":"ST","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[6.5,0],[6.5,1.7],[7.5,1.7],[7.5,0],[6.5,0]]]}}]}

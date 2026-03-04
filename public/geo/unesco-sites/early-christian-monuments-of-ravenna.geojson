@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19625,
+          44.42041667
+        ]
+      },
+      "properties": {
+        "code": "early-christian-monuments-of-ravenna",
+        "name": "Early Christian Monuments of Ravenna",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

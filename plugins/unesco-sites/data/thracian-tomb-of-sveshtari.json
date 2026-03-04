@@ -1,0 +1,15 @@
+{
+  "code": "thracian-tomb-of-sveshtari",
+  "name": "Thracian Tomb of Sveshtari",
+  "type": "Cultural",
+  "country": "Bulgaria",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers.",
+  "danger": false,
+  "geojson": "thracian-tomb-of-sveshtari.geojson"
+}

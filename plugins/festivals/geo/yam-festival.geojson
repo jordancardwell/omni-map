@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          5.4889
+        ]
+      },
+      "properties": {
+        "code": "yam-festival",
+        "name": "New Yam Festival (Iri Ji)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "August–October",
+        "location": "Enugu, Nigeria"
+      }
+    }
+  ]
+}

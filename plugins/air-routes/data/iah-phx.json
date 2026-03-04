@@ -1,0 +1,18 @@
+{
+  "code": "iah-phx",
+  "name": "Houston — Phoenix",
+  "airports": [
+    "IAH",
+    "PHX"
+  ],
+  "distanceKm": 1621,
+  "weeklyFlights": 35,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–PHX route between Houston and Phoenix. Distance: 1,621 km. ~35 weekly flights operated by United, Southwest.",
+  "geojson": "iah-phx.geojson"
+}

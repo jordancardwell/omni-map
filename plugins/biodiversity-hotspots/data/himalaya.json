@@ -1,0 +1,29 @@
+{
+  "code": "himalaya",
+  "name": "Himalaya",
+  "location": "South-Central Asia (Nepal, Bhutan, India, Pakistan, China, Myanmar)",
+  "areaKm2": 741706,
+  "habitatRemaining": "25.3%",
+  "plantSpecies": 10000,
+  "endemicPlants": 3160,
+  "vertebrateSpecies": 977,
+  "endemicVertebrates": 112,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Snow leopard",
+    "Red panda",
+    "Himalayan tahr",
+    "Takin",
+    "Black-necked crane"
+  ],
+  "threats": [
+    "Deforestation",
+    "Overgrazing",
+    "Poaching",
+    "Infrastructure development",
+    "Climate change"
+  ],
+  "conservationEfforts": "Snow Leopard Trust protects habitat across range countries. Bhutan maintains 51% forest cover by constitutional mandate. Sacred Himalayan Landscape initiative links protected areas across Nepal, India, and Bhutan. Red panda conservation programs in Nepal.",
+  "description": "The Himalaya hotspot extends along the world's highest mountain range from Pakistan through northern India, Nepal, Bhutan, to northeastern Myanmar. The dramatic elevation gradient from 100 meters to over 8,000 meters creates extraordinary habitat diversity.\n\nThe region transitions from tropical forests in the lowland terai to alpine meadows and permanent snowfields. This elevational diversity supports a correspondingly rich biota. The Himalaya is also one of the most important sources of freshwater in the world, with glaciers feeding rivers that supply water to over a billion people.",
+  "geojson": "himalaya.geojson"
+}

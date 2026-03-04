@@ -1,0 +1,14 @@
+{
+  "code": "harbin-ice",
+  "name": "Harbin Ice and Snow Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "January–February",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "18+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Massive ice sculptures and buildings; snow sculptures; ice lanterns illuminated with LED lights; winter swimming; ice slides.",
+  "historicalBackground": "The festival began in 1963 as a traditional ice lantern show. It was revived in 1985 and has grown into the world's largest ice and snow festival.",
+  "description": "The world's largest ice festival, transforming Harbin into a dazzling wonderland of enormous illuminated ice sculptures and snow creations.",
+  "location": "Harbin, China",
+  "geojson": "harbin-ice.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.576111111,
+          54.77472222
+        ]
+      },
+      "properties": {
+        "code": "durham-castle-and-cathedral",
+        "name": "Durham Castle and Cathedral",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

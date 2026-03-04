@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.512981,
+          -12.972917
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-salvador-de-bahia",
+        "name": "Historic Centre of Salvador de Bahia",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

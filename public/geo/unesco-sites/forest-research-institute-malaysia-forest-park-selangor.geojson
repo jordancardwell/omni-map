@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6272777778,
+          3.22925
+        ]
+      },
+      "properties": {
+        "code": "forest-research-institute-malaysia-forest-park-selangor",
+        "name": "Forest Research Institute Malaysia Forest Park Selangor",
+        "type": "Cultural",
+        "country": "Malaysia",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

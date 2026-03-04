@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36667,
+          35.57083
+        ]
+      },
+      "properties": {
+        "code": "medina-of-tetouan-formerly-known-as-titawin",
+        "name": "Medina of Tétouan (formerly known as Titawin)",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

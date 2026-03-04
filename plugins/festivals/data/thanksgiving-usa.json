@@ -1,0 +1,14 @@
+{
+  "code": "thanksgiving-usa",
+  "name": "Thanksgiving",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Fourth Thursday of November",
+  "origin": "American tradition",
+  "estimatedAttendance": "330+ million Americans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Turkey dinner with stuffing and cranberry sauce; pumpkin pie; Macy's Thanksgiving Day Parade; football games; family gatherings.",
+  "historicalBackground": "Thanksgiving commemorates the 1621 harvest feast shared by Plymouth colonists and Wampanoag people. It became a national holiday in 1863 under Abraham Lincoln.",
+  "description": "America's beloved harvest celebration, bringing families together for turkey dinners, parades, and gratitude on the fourth Thursday of November.",
+  "location": "Plymouth, USA",
+  "geojson": "thanksgiving-usa.geojson"
+}

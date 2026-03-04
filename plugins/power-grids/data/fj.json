@@ -1,0 +1,16 @@
+{
+  "code": "fj",
+  "name": "Fiji",
+  "voltage": "240V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "I"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Australian-style plugs.",
+  "geojson": "fj.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2577777778,
+          38.0408333333
+        ]
+      },
+      "properties": {
+        "code": "sado-island-gold-mines",
+        "name": "Sado Island Gold Mines",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

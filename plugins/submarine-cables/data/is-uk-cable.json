@@ -1,0 +1,16 @@
+{
+  "code": "is-uk-cable",
+  "name": "IS-UK Cable",
+  "capacityTbps": 28,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9159,
+  "yearLaid": 2013,
+  "rfsDate": "2012-06",
+  "owner": "Farice",
+  "landingPoints": [
+    "Reykjavik, Iceland",
+    "Bude, UK"
+  ],
+  "description": "IS-UK Cable connecting Reykjavik to Bude.",
+  "geojson": "is-uk-cable.geojson"
+}

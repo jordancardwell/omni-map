@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5444444444,
+          37.025
+        ]
+      },
+      "properties": {
+        "code": "antequera-dolmens-site",
+        "name": "Antequera Dolmens Site",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

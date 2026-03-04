@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.84167,
+          19.69167
+        ]
+      },
+      "properties": {
+        "code": "pre-hispanic-city-of-teotihuacan",
+        "name": "Pre-Hispanic City of Teotihuacan",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

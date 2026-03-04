@@ -1,0 +1,19 @@
+{
+  "code": "axolotl",
+  "name": "Axolotl",
+  "scientificName": "Ambystoma mexicanum",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~50-1,000 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater lake and canal",
+  "threats": [
+    "Water pollution",
+    "Invasive species",
+    "Urbanization",
+    "Disease"
+  ],
+  "conservationEfforts": "Xochimilco canal restoration in Mexico City. Captive population of millions worldwide (popular in research and pet trade). Chinampa (floating garden) restoration provides habitat.",
+  "description": "Famous for its ability to regenerate limbs, the axolotl is a permanently aquatic salamander that retains its larval features throughout life. Despite being abundant in captivity, it is nearly extinct in its only wild habitat — Lake Xochimilco.",
+  "geojson": "axolotl.geojson"
+}

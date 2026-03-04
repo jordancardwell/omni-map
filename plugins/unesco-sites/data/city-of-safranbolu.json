@@ -1,0 +1,16 @@
+{
+  "code": "city-of-safranbolu",
+  "name": "City of Safranbolu",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "From the 13th century to the advent of the railway in the early 20th century, Safranbolu was an important caravan station on the main East–West trade route. The Old Mosque, Old Bath and Süleyman Pasha Medrese were built in 1322. During its apogee in the 17th century, Safranbolu's architecture influenced urban development throughout much of the Ottoman Empire.",
+  "danger": false,
+  "geojson": "city-of-safranbolu.geojson"
+}

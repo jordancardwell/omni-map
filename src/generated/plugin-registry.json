@@ -1,5 +1,1204 @@
 [
   {
+    "id": "air-routes",
+    "name": "Major Air Routes",
+    "description": "The world's busiest flight corridors and major airports — global air connectivity at a glance",
+    "type": "lines",
+    "version": "1.0.0",
+    "icon": "plane",
+    "defaultColor": "#0EA5E9",
+    "categories": [
+      "infrastructure",
+      "transport",
+      "aviation"
+    ],
+    "dataType": "lines",
+    "dataSource": "static",
+    "category": "Infrastructure & Technology",
+    "thumbnail": "#0EA5E9",
+    "schema": "AirRouteMetadata",
+    "detailFields": [
+      {
+        "key": "classification",
+        "label": "Classification",
+        "type": "status-badge",
+        "statusColors": {
+          "Mega Hub": "#DC2626",
+          "Major Hub": "#F59E0B",
+          "International Hub": "#3B82F6",
+          "Regional Hub": "#10B981",
+          "Ultra High Frequency": "#DC2626",
+          "High Frequency": "#F59E0B",
+          "Medium Frequency": "#3B82F6",
+          "Standard Frequency": "#10B981"
+        }
+      },
+      {
+        "key": "iataCode",
+        "label": "IATA Code",
+        "type": "text"
+      },
+      {
+        "key": "city",
+        "label": "City",
+        "type": "text"
+      },
+      {
+        "key": "country",
+        "label": "Country",
+        "type": "text"
+      },
+      {
+        "key": "annualPassengers",
+        "label": "Annual Passengers",
+        "type": "formatted-number"
+      },
+      {
+        "key": "airports",
+        "label": "Route Airports",
+        "type": "tags"
+      },
+      {
+        "key": "distanceKm",
+        "label": "Distance (km)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "weeklyFlights",
+        "label": "Weekly Flights",
+        "type": "formatted-number"
+      },
+      {
+        "key": "airlines",
+        "label": "Airlines",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "iataCode",
+        "city",
+        "country",
+        "airlines",
+        "description"
+      ],
+      "groupBy": "itemCategory",
+      "titleField": "name",
+      "subtitleField": "description",
+      "badgeField": "classification",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "itemCategory"
+    }
+  },
+  {
+    "id": "ancient-civilizations",
+    "name": "Ancient Civilizations",
+    "description": "Explore where humanity's earliest complex societies flourished, from Mesopotamia to Mesoamerica. Region polygons show territorial extent while point markers highlight major archaeological sites. Data sourced from Pleiades Gazetteer and historical-basemaps.",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#C49A6C",
+    "categories": [
+      "history",
+      "culture",
+      "archaeology",
+      "geography"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "History & Culture",
+    "thumbnail": "#C49A6C",
+    "schema": "AncientCivilizationMetadata",
+    "detailFields": [
+      {
+        "key": "period",
+        "label": "Period",
+        "type": "text"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "type": "text"
+      },
+      {
+        "key": "type",
+        "label": "Type",
+        "type": "status-badge",
+        "statusColors": {
+          "Civilization": "#8B6914",
+          "Archaeological Site": "#4A7A3A"
+        }
+      },
+      {
+        "key": "writingSystem",
+        "label": "Writing System",
+        "type": "text"
+      },
+      {
+        "key": "majorAchievements",
+        "label": "Major Achievements",
+        "type": "tags"
+      },
+      {
+        "key": "keyCities",
+        "label": "Key Cities",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "region",
+        "period",
+        "keyCities",
+        "description"
+      ],
+      "groupBy": "region",
+      "titleField": "name",
+      "subtitleField": "period",
+      "badgeField": "type",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "period"
+    }
+  },
+  {
+    "id": "biodiversity-hotspots",
+    "name": "Biodiversity Hotspots",
+    "description": "Conservation International's 36 global biodiversity hotspots — regions with exceptional concentrations of endemic species facing exceptional habitat loss",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#E63946",
+    "categories": [
+      "ecology",
+      "environment",
+      "conservation"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#E63946",
+    "schema": "BiodiversityHotspotMetadata",
+    "detailFields": [
+      {
+        "key": "threatLevel",
+        "label": "Threat Level",
+        "type": "text"
+      },
+      {
+        "key": "areaKm2",
+        "label": "Original Extent (km²)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "habitatRemaining",
+        "label": "Habitat Remaining",
+        "type": "text"
+      },
+      {
+        "key": "plantSpecies",
+        "label": "Plant Species",
+        "type": "formatted-number"
+      },
+      {
+        "key": "endemicPlants",
+        "label": "Endemic Plants",
+        "type": "formatted-number"
+      },
+      {
+        "key": "vertebrateSpecies",
+        "label": "Vertebrate Species",
+        "type": "formatted-number"
+      },
+      {
+        "key": "endemicVertebrates",
+        "label": "Endemic Vertebrates",
+        "type": "formatted-number"
+      },
+      {
+        "key": "keySpecies",
+        "label": "Key Species",
+        "type": "tags"
+      },
+      {
+        "key": "threats",
+        "label": "Primary Threats",
+        "type": "tags"
+      },
+      {
+        "key": "conservationEfforts",
+        "label": "Conservation Efforts",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "location",
+        "threatLevel",
+        "description"
+      ],
+      "groupBy": "threatLevel",
+      "titleField": "name",
+      "subtitleField": "location",
+      "badgeField": "areaKm2",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "location"
+    }
+  },
+  {
+    "id": "biomes",
+    "name": "Biomes & Ecosystems",
+    "description": "Earth's major biomes and ecoregions based on the WWF classification system",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#1B7A3D",
+    "categories": [
+      "ecology",
+      "environment",
+      "geography"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#1B7A3D",
+    "schema": "BiomeMetadata",
+    "detailFields": [
+      {
+        "key": "biomeType",
+        "label": "Biome Type",
+        "type": "text"
+      },
+      {
+        "key": "areaKm2",
+        "label": "Area (km²)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "keyCharacteristics",
+        "label": "Key Characteristics",
+        "type": "text"
+      },
+      {
+        "key": "typicalFlora",
+        "label": "Typical Flora",
+        "type": "tags"
+      },
+      {
+        "key": "typicalFauna",
+        "label": "Typical Fauna",
+        "type": "tags"
+      },
+      {
+        "key": "threatLevel",
+        "label": "Threat Level",
+        "type": "text"
+      },
+      {
+        "key": "conservationStatus",
+        "label": "Conservation Status",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "biomeType",
+        "typicalFlora",
+        "typicalFauna",
+        "description"
+      ],
+      "groupBy": "biomeType",
+      "titleField": "name",
+      "subtitleField": "biomeType",
+      "badgeField": "areaKm2",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "biomeType"
+    }
+  },
+  {
+    "id": "climate-zones",
+    "name": "Climate Zones (Köppen-Geiger)",
+    "description": "Global climate classification zones based on the Köppen-Geiger system",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#2E86C1",
+    "categories": [
+      "climate",
+      "geography",
+      "environment"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#2E86C1",
+    "schema": "ClimateZoneMetadata",
+    "detailFields": [
+      {
+        "key": "code",
+        "label": "Köppen Code",
+        "type": "text"
+      },
+      {
+        "key": "group",
+        "label": "Climate Group",
+        "type": "text"
+      },
+      {
+        "key": "temperatureRange",
+        "label": "Temperature Range",
+        "type": "text"
+      },
+      {
+        "key": "precipitationPattern",
+        "label": "Precipitation Pattern",
+        "type": "text"
+      },
+      {
+        "key": "vegetation",
+        "label": "Typical Vegetation",
+        "type": "text"
+      },
+      {
+        "key": "exampleCities",
+        "label": "Example Cities",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "typicalWeather",
+        "label": "Typical Weather",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "group",
+        "exampleCities",
+        "description"
+      ],
+      "groupBy": "group",
+      "titleField": "name",
+      "subtitleField": "code",
+      "badgeField": "code",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "code"
+    }
+  },
+  {
+    "id": "coral-reefs",
+    "name": "Coral Reefs",
+    "description": "Global distribution of major coral reef systems — barrier reefs, fringing reefs, and atolls with health status and conservation data sourced from UNEP-WCMC",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#FF7F50",
+    "categories": [
+      "ecology",
+      "environment",
+      "marine",
+      "conservation"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#FF7F50",
+    "schema": "CoralReefMetadata",
+    "detailFields": [
+      {
+        "key": "reefType",
+        "label": "Reef Type",
+        "type": "text"
+      },
+      {
+        "key": "healthStatus",
+        "label": "Health Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Good": "#2DD4BF",
+          "Near Threatened": "#22D3EE",
+          "Vulnerable": "#FBBF24",
+          "Endangered": "#F97316",
+          "Critical": "#EF4444"
+        }
+      },
+      {
+        "key": "areaKm2",
+        "label": "Area (km²)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "threats",
+        "label": "Threats",
+        "type": "tags"
+      },
+      {
+        "key": "conservationStatus",
+        "label": "Conservation Status",
+        "type": "text"
+      },
+      {
+        "key": "marineSpecies",
+        "label": "Marine Species",
+        "type": "formatted-number"
+      },
+      {
+        "key": "coralSpecies",
+        "label": "Coral Species",
+        "type": "formatted-number"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "location",
+        "reefType",
+        "healthStatus",
+        "description"
+      ],
+      "groupBy": "reefType",
+      "titleField": "name",
+      "subtitleField": "location",
+      "badgeField": "areaKm2",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "location"
+    }
+  },
+  {
+    "id": "cuisine-regions",
+    "name": "Cuisine & Food Culture Regions",
+    "description": "Major world culinary regions showcasing how geography shapes food culture",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#E67E22",
+    "categories": [
+      "culture",
+      "food"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Culture & Society",
+    "thumbnail": "#E67E22",
+    "schema": "CuisineMetadata",
+    "detailFields": [
+      {
+        "key": "cuisineFamily",
+        "label": "Cuisine Family",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Overview",
+        "type": "markdown"
+      },
+      {
+        "key": "signatureDishes",
+        "label": "Signature Dishes",
+        "type": "tags"
+      },
+      {
+        "key": "keyIngredients",
+        "label": "Key Ingredients",
+        "type": "tags"
+      },
+      {
+        "key": "cookingTechniques",
+        "label": "Cooking Techniques",
+        "type": "tags"
+      },
+      {
+        "key": "unescoRecognition",
+        "label": "UNESCO Recognition",
+        "type": "text"
+      },
+      {
+        "key": "keyRegions",
+        "label": "Key Regions",
+        "type": "tags"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "cuisineFamily",
+        "keyIngredients",
+        "signatureDishes"
+      ],
+      "groupBy": "cuisineFamily",
+      "titleField": "name",
+      "subtitleField": "cuisineFamily",
+      "badgeField": "signatureDishes",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "cuisineFamily"
+    }
+  },
+  {
+    "id": "currencies",
+    "name": "World Currencies",
+    "description": "Geographic distribution of world currencies and monetary systems",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#16A34A",
+    "categories": [
+      "economics",
+      "finance"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Economics & Finance",
+    "thumbnail": "#16A34A",
+    "schema": "CurrencyMetadata",
+    "detailFields": [
+      {
+        "key": "isoCode",
+        "label": "ISO 4217 Code",
+        "type": "text"
+      },
+      {
+        "key": "symbol",
+        "label": "Symbol",
+        "type": "text"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "type": "text"
+      },
+      {
+        "key": "centralBank",
+        "label": "Central Bank",
+        "type": "text"
+      },
+      {
+        "key": "countries",
+        "label": "Countries",
+        "type": "tags"
+      },
+      {
+        "key": "exchangeRateEra",
+        "label": "Exchange Rate Regime",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalNotes",
+        "label": "Historical Notes",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "symbol",
+        "countries",
+        "centralBank"
+      ],
+      "groupBy": "region",
+      "titleField": "name",
+      "subtitleField": "symbol",
+      "badgeField": "countryCount",
+      "badgeFormat": "number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "symbol"
+    }
+  },
+  {
+    "id": "desertification",
+    "name": "Desertification & Arid Zones",
+    "description": "Global desertification and aridity zones based on UNCCD/CGIAR aridity index data and the UN Environment World Atlas of Desertification — colored by aridity classification from hyper-arid to dry sub-humid",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#C8A86E",
+    "categories": [
+      "environment",
+      "climate",
+      "land-degradation"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#C8A86E",
+    "schema": "DesertificationMetadata",
+    "detailFields": [
+      {
+        "key": "aridityClassification",
+        "label": "Aridity Classification",
+        "type": "status-badge",
+        "statusColors": {
+          "Hyper-Arid": "#6B3A2A",
+          "Arid": "#C8A86E",
+          "Semi-Arid": "#E8D44D",
+          "Dry Sub-Humid": "#8FBC8F"
+        }
+      },
+      {
+        "key": "aridityIndex",
+        "label": "Aridity Index (P/PET)",
+        "type": "text"
+      },
+      {
+        "key": "area",
+        "label": "Area",
+        "type": "text"
+      },
+      {
+        "key": "degradationTrend",
+        "label": "Degradation Trend",
+        "type": "status-badge",
+        "statusColors": {
+          "Severe — Expanding": "#DC2626",
+          "Worsening": "#F97316",
+          "Stable": "#EAB308",
+          "Improving": "#10B981"
+        }
+      },
+      {
+        "key": "populationAffected",
+        "label": "Population Affected",
+        "type": "formatted-number"
+      },
+      {
+        "key": "affectedCountries",
+        "label": "Affected Countries",
+        "type": "tags"
+      },
+      {
+        "key": "desertificationDrivers",
+        "label": "Desertification Drivers",
+        "type": "tags"
+      },
+      {
+        "key": "desertFrontier",
+        "label": "Desert Frontier",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "region",
+        "aridityClassification",
+        "affectedCountries",
+        "degradationTrend",
+        "description"
+      ],
+      "groupBy": "aridityGroup",
+      "titleField": "name",
+      "subtitleField": "region",
+      "badgeField": "populationAffected",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "region"
+    }
+  },
+  {
+    "id": "endangered-species",
+    "name": "Endangered Species Habitats",
+    "description": "Range polygons for ~200 iconic endangered species colored by IUCN Red List status, sourced from IUCN spatial data (curated subset)",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#F97316",
+    "categories": [
+      "ecology",
+      "environment",
+      "conservation",
+      "wildlife"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#F97316",
+    "schema": "EndangeredSpeciesMetadata",
+    "detailFields": [
+      {
+        "key": "iucnStatus",
+        "label": "IUCN Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Vulnerable": "#EAB308",
+          "Endangered": "#F97316",
+          "Critically Endangered": "#EF4444"
+        }
+      },
+      {
+        "key": "taxonomicGroup",
+        "label": "Taxonomic Group",
+        "type": "text"
+      },
+      {
+        "key": "populationEstimate",
+        "label": "Population Estimate",
+        "type": "text"
+      },
+      {
+        "key": "populationTrend",
+        "label": "Population Trend",
+        "type": "text"
+      },
+      {
+        "key": "habitatType",
+        "label": "Habitat Type",
+        "type": "text"
+      },
+      {
+        "key": "threats",
+        "label": "Threats",
+        "type": "tags"
+      },
+      {
+        "key": "conservationEfforts",
+        "label": "Conservation Efforts",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "scientificName",
+        "iucnStatus",
+        "habitatType",
+        "taxonomicGroup",
+        "description"
+      ],
+      "groupBy": "taxonomicGroup",
+      "titleField": "name",
+      "subtitleField": "scientificName",
+      "badgeField": "populationEstimate",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "scientificName"
+    }
+  },
+  {
+    "id": "festivals",
+    "name": "Festivals & Celebrations",
+    "description": "Major cultural festivals and celebrations worldwide — religious, cultural, seasonal, and national celebrations curated from UNESCO Intangible Cultural Heritage list and major world events",
+    "type": "points",
+    "version": "1.0.0",
+    "icon": "party-popper",
+    "defaultColor": "#E91E63",
+    "categories": [
+      "culture",
+      "celebrations",
+      "heritage"
+    ],
+    "dataType": "points",
+    "dataSource": "static",
+    "category": "Culture & Heritage",
+    "thumbnail": "#E91E63",
+    "schema": "FestivalMetadata",
+    "detailFields": [
+      {
+        "key": "festivalType",
+        "label": "Type",
+        "type": "status-badge",
+        "statusColors": {
+          "Religious": "#8B5CF6",
+          "Cultural": "#E91E63",
+          "Seasonal": "#22C55E",
+          "National": "#3B82F6"
+        }
+      },
+      {
+        "key": "dateOrSeason",
+        "label": "Date / Season",
+        "type": "text"
+      },
+      {
+        "key": "origin",
+        "label": "Origin",
+        "type": "text"
+      },
+      {
+        "key": "estimatedAttendance",
+        "label": "Estimated Attendance",
+        "type": "text"
+      },
+      {
+        "key": "unescoICH",
+        "label": "UNESCO ICH Status",
+        "type": "text"
+      },
+      {
+        "key": "traditions",
+        "label": "Traditions",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalBackground",
+        "label": "Historical Background",
+        "type": "markdown"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "festivalType",
+        "location",
+        "dateOrSeason",
+        "origin",
+        "description"
+      ],
+      "groupBy": "festivalType",
+      "titleField": "name",
+      "subtitleField": "location",
+      "badgeField": "dateOrSeason"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "location"
+    }
+  },
+  {
+    "id": "historical-empires",
+    "name": "Historical Empires",
+    "description": "Boundaries of major historical empires at their peak territorial extent, sourced from aourednik/historical-basemaps. Explore how political power has shaped the world across millennia.",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#8B4513",
+    "categories": [
+      "history",
+      "politics",
+      "geography"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "History & Culture",
+    "thumbnail": "#8B4513",
+    "schema": "HistoricalEmpireMetadata",
+    "detailFields": [
+      {
+        "key": "era",
+        "label": "Era",
+        "type": "text"
+      },
+      {
+        "key": "peakYear",
+        "label": "Peak Year",
+        "type": "text"
+      },
+      {
+        "key": "areaAtPeakKm2",
+        "label": "Area at Peak (km²)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "populationEstimate",
+        "label": "Population Estimate",
+        "type": "text"
+      },
+      {
+        "key": "capital",
+        "label": "Capital",
+        "type": "text"
+      },
+      {
+        "key": "keyAchievements",
+        "label": "Key Achievements",
+        "type": "tags"
+      },
+      {
+        "key": "declineFactors",
+        "label": "Decline Factors",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "era",
+        "capital",
+        "peakYear",
+        "description"
+      ],
+      "groupBy": "era",
+      "titleField": "name",
+      "subtitleField": "peakYear",
+      "badgeField": "areaAtPeakKm2",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "peakYear"
+    }
+  },
+  {
+    "id": "indigenous-territories",
+    "name": "Indigenous Territories",
+    "description": "Traditional territorial boundaries of indigenous peoples worldwide, sourced from Native Land Digital",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#D97706",
+    "categories": [
+      "culture",
+      "history"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Culture & Society",
+    "thumbnail": "#D97706",
+    "schema": "IndigenousTerritoryMetadata",
+    "detailFields": [
+      {
+        "key": "people",
+        "label": "People / Nation",
+        "type": "text"
+      },
+      {
+        "key": "language",
+        "label": "Language",
+        "type": "text"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "relatedTreaties",
+        "label": "Related Treaties",
+        "type": "tags"
+      },
+      {
+        "key": "nativeLandUrl",
+        "label": "Learn More",
+        "type": "links"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "people",
+        "language",
+        "region"
+      ],
+      "groupBy": "region",
+      "titleField": "name",
+      "subtitleField": "people",
+      "badgeField": "language",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "people"
+    }
+  },
+  {
+    "id": "internet-speed",
+    "name": "Internet Connectivity Speed",
+    "description": "Global broadband and mobile internet speeds by country",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "wifi",
+    "defaultColor": "#0EA5E9",
+    "categories": [
+      "technology",
+      "infrastructure"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Technology & Infrastructure",
+    "thumbnail": "#0EA5E9",
+    "schema": "InternetSpeedMetadata",
+    "detailFields": [
+      {
+        "key": "rank",
+        "label": "Global Rank",
+        "type": "number"
+      },
+      {
+        "key": "avgDownloadMbps",
+        "label": "Avg Download Speed (Mbps)",
+        "type": "number"
+      },
+      {
+        "key": "avgUploadMbps",
+        "label": "Avg Upload Speed (Mbps)",
+        "type": "number"
+      },
+      {
+        "key": "avgLatencyMs",
+        "label": "Avg Latency (ms)",
+        "type": "number"
+      },
+      {
+        "key": "fixedDownloadMbps",
+        "label": "Fixed Broadband Download (Mbps)",
+        "type": "number"
+      },
+      {
+        "key": "fixedUploadMbps",
+        "label": "Fixed Broadband Upload (Mbps)",
+        "type": "number"
+      },
+      {
+        "key": "mobileDownloadMbps",
+        "label": "Mobile Download (Mbps)",
+        "type": "number"
+      },
+      {
+        "key": "mobileUploadMbps",
+        "label": "Mobile Upload (Mbps)",
+        "type": "number"
+      },
+      {
+        "key": "speedTier",
+        "label": "Speed Tier",
+        "type": "text"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "type": "text"
+      },
+      {
+        "key": "dataYear",
+        "label": "Data Year",
+        "type": "number"
+      },
+      {
+        "key": "trendDescription",
+        "label": "Year-over-Year Trend",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "speedTier",
+        "region"
+      ],
+      "groupBy": "speedTier",
+      "titleField": "name",
+      "subtitleField": "avgDownloadMbps",
+      "badgeField": "rank",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "speedTier"
+    }
+  },
+  {
     "id": "languages",
     "name": "World Languages",
     "description": "Geographic regions of world languages",
@@ -10,6 +1209,1820 @@
     "categories": [
       "linguistics",
       "culture"
-    ]
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "linguistics",
+    "thumbnail": "#4A90D9",
+    "schema": "LanguageMetadata",
+    "detailFields": [
+      {
+        "key": "family",
+        "label": "Language Family",
+        "type": "text"
+      },
+      {
+        "key": "branch",
+        "label": "Branch",
+        "type": "text"
+      },
+      {
+        "key": "speakers.native",
+        "label": "Native Speakers",
+        "type": "formatted-number"
+      },
+      {
+        "key": "speakers.total",
+        "label": "Total Speakers",
+        "type": "formatted-number"
+      },
+      {
+        "key": "speakers.source",
+        "label": "Source",
+        "type": "text"
+      },
+      {
+        "key": "writingSystem",
+        "label": "Writing System",
+        "type": "text"
+      },
+      {
+        "key": "endangermentStatus",
+        "label": "Endangerment Status",
+        "type": "status-badge",
+        "statusColors": {
+          "safe": "#22c55e",
+          "vulnerable": "#eab308",
+          "endangered": "#f97316",
+          "critically endangered": "#ef4444"
+        }
+      },
+      {
+        "key": "dialects",
+        "label": "Dialects",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalNotes",
+        "label": "Historical Notes",
+        "type": "markdown"
+      },
+      {
+        "key": "relatedLanguages",
+        "label": "Related Languages",
+        "type": "tags",
+        "referenceItems": true
+      },
+      {
+        "key": "resources",
+        "label": "Resources",
+        "type": "links"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "nativeName",
+        "family"
+      ],
+      "groupBy": "family",
+      "titleField": "name",
+      "subtitleField": "nativeName",
+      "badgeField": "speakers.total",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "nativeName"
+    }
+  },
+  {
+    "id": "light-pollution",
+    "name": "Light Pollution",
+    "description": "Global light pollution levels based on the New World Atlas of Artificial Night Sky Brightness (Falchi et al.) — zones colored by Bortle scale class from pristine dark skies to urban glow, with International Dark Sky Places shown as point markers",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "moon",
+    "defaultColor": "#1E3A5F",
+    "categories": [
+      "environment",
+      "science",
+      "astronomy",
+      "urbanization"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#1E3A5F",
+    "schema": "LightPollutionMetadata",
+    "detailFields": [
+      {
+        "key": "bortleClass",
+        "label": "Bortle Class",
+        "type": "status-badge",
+        "statusColors": {
+          "Class 1 — Excellent Dark Sky": "#0A0A2E",
+          "Class 2 — Typical Dark Sky": "#0D1B3E",
+          "Class 3 — Rural Sky": "#1A3A5C",
+          "Class 4 — Rural/Suburban Transition": "#2D5A7B",
+          "Class 5 — Suburban Sky": "#4A7A3A",
+          "Class 6 — Bright Suburban Sky": "#8B8B00",
+          "Class 7 — Suburban/Urban Transition": "#CC8800",
+          "Class 8 — City Sky": "#FF6600",
+          "Class 9 — Inner-City Sky": "#FFCC00",
+          "International Dark Sky Place": "#3B82F6"
+        }
+      },
+      {
+        "key": "visibleObjects",
+        "label": "Visible to Naked Eye",
+        "type": "tags"
+      },
+      {
+        "key": "skyBrightness",
+        "label": "Sky Brightness (mag/arcsec²)",
+        "type": "text"
+      },
+      {
+        "key": "limitingMagnitude",
+        "label": "Limiting Magnitude",
+        "type": "text"
+      },
+      {
+        "key": "milkyWayVisibility",
+        "label": "Milky Way Visibility",
+        "type": "text"
+      },
+      {
+        "key": "exampleLocations",
+        "label": "Example Locations",
+        "type": "tags"
+      },
+      {
+        "key": "nearestDarkSkyReserves",
+        "label": "Nearest Dark Sky Reserves",
+        "type": "tags"
+      },
+      {
+        "key": "designation",
+        "label": "IDA Designation",
+        "type": "text"
+      },
+      {
+        "key": "designationYear",
+        "label": "Year Designated",
+        "type": "text"
+      },
+      {
+        "key": "areaSqKm",
+        "label": "Area (km²)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "bortleClass",
+        "description",
+        "visibleObjects",
+        "exampleLocations"
+      ],
+      "groupBy": "bortleGroup",
+      "titleField": "name",
+      "subtitleField": "bortleClass",
+      "badgeField": "bortleClass",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "bortleClass"
+    }
+  },
+  {
+    "id": "migration",
+    "name": "Migration Patterns",
+    "description": "Global migration patterns — bird flyways rendered as wide semi-transparent polygon corridors and top human migration corridors as arc lines with thickness by volume",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "bird",
+    "defaultColor": "#0EA5E9",
+    "categories": [
+      "migration",
+      "ecology",
+      "demographics"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Migration & Movement",
+    "thumbnail": "#0EA5E9",
+    "schema": "MigrationMetadata",
+    "detailFields": [
+      {
+        "key": "layerGroup",
+        "label": "Category",
+        "type": "status-badge",
+        "statusColors": {
+          "Bird Flyways": "#0EA5E9",
+          "Human Migration Corridors": "#F59E0B"
+        }
+      },
+      {
+        "key": "speciesCount",
+        "label": "Migratory Species",
+        "type": "text"
+      },
+      {
+        "key": "keyStopoverSites",
+        "label": "Key Stopover Sites",
+        "type": "tags"
+      },
+      {
+        "key": "threats",
+        "label": "Threats",
+        "type": "tags"
+      },
+      {
+        "key": "origin",
+        "label": "Origin",
+        "type": "text"
+      },
+      {
+        "key": "destination",
+        "label": "Destination",
+        "type": "text"
+      },
+      {
+        "key": "estimatedMigrants",
+        "label": "Estimated Migrants",
+        "type": "text"
+      },
+      {
+        "key": "drivers",
+        "label": "Migration Drivers",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "layerGroup",
+        "description"
+      ],
+      "groupBy": "layerGroup",
+      "titleField": "name",
+      "subtitleField": "subtitle",
+      "badgeField": "badgeValue",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "layerGroup"
+    }
+  },
+  {
+    "id": "music-regions",
+    "name": "Traditional Music Regions",
+    "description": "Explore world music traditions by region, from Blues and Flamenco to Gamelan and Throat Singing. Discover the geography of musical diversity with tradition families, key instruments, notable artists, and UNESCO Intangible Cultural Heritage status. Data curated from Global Jukebox and Alan Lomax Archive research.",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#E91E63",
+    "categories": [
+      "music",
+      "culture",
+      "geography"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Music & Culture",
+    "thumbnail": "#E91E63",
+    "schema": "MusicRegionMetadata",
+    "detailFields": [
+      {
+        "key": "traditionFamily",
+        "label": "Tradition Family",
+        "type": "text"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "type": "text"
+      },
+      {
+        "key": "unescoICHStatus",
+        "label": "UNESCO ICH Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Inscribed": "#22c55e",
+          "Nominated": "#eab308",
+          "Under Review": "#3b82f6",
+          "Not Listed": "#6b7280"
+        }
+      },
+      {
+        "key": "instruments",
+        "label": "Key Instruments",
+        "type": "tags"
+      },
+      {
+        "key": "keyArtists",
+        "label": "Notable Artists",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "resources",
+        "label": "Audio Resources",
+        "type": "links"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "region",
+        "traditionFamily",
+        "instruments",
+        "keyArtists",
+        "description"
+      ],
+      "groupBy": "traditionFamily",
+      "titleField": "name",
+      "subtitleField": "region",
+      "badgeField": "traditionFamily",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "region"
+    }
+  },
+  {
+    "id": "observatories",
+    "name": "Astronomical Observatories",
+    "description": "Major astronomical observatories worldwide — optical, radio, multi-messenger, and space-based facilities exploring the cosmos",
+    "type": "points",
+    "version": "1.0.0",
+    "icon": "telescope",
+    "defaultColor": "#3B82F6",
+    "categories": [
+      "astronomy",
+      "science",
+      "space"
+    ],
+    "dataType": "points",
+    "dataSource": "static",
+    "category": "Space & Technology",
+    "thumbnail": "#3B82F6",
+    "schema": "ObservatoryMetadata",
+    "detailFields": [
+      {
+        "key": "observatoryType",
+        "label": "Type",
+        "type": "status-badge",
+        "statusColors": {
+          "Optical": "#3B82F6",
+          "Radio": "#F97316",
+          "Multi-messenger": "#8B5CF6",
+          "Space-based": "#9CA3AF"
+        }
+      },
+      {
+        "key": "status",
+        "label": "Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Operational": "#22C55E",
+          "Under Construction": "#3B82F6",
+          "Decommissioned": "#9CA3AF",
+          "Planned": "#EAB308"
+        }
+      },
+      {
+        "key": "elevation",
+        "label": "Elevation (m)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "telescopes",
+        "label": "Telescopes / Instruments",
+        "type": "tags"
+      },
+      {
+        "key": "aperture",
+        "label": "Primary Aperture",
+        "type": "text"
+      },
+      {
+        "key": "country",
+        "label": "Country",
+        "type": "text"
+      },
+      {
+        "key": "keyDiscoveries",
+        "label": "Key Discoveries",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "country",
+        "observatoryType",
+        "status",
+        "telescopes",
+        "description"
+      ],
+      "groupBy": "observatoryType",
+      "titleField": "name",
+      "subtitleField": "country",
+      "badgeField": "status"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "location"
+    }
+  },
+  {
+    "id": "ocean-currents",
+    "name": "Ocean Currents",
+    "description": "Major ocean currents showing global water circulation patterns — warm, cold, and deep currents with flow direction indicators",
+    "type": "lines",
+    "version": "1.0.0",
+    "icon": "waves",
+    "defaultColor": "#0EA5E9",
+    "categories": [
+      "climate",
+      "environment",
+      "oceanography"
+    ],
+    "dataType": "lines",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#0EA5E9",
+    "schema": "OceanCurrentMetadata",
+    "detailFields": [
+      {
+        "key": "currentType",
+        "label": "Type",
+        "type": "status-badge",
+        "statusColors": {
+          "Warm": "#EF4444",
+          "Cold": "#3B82F6",
+          "Deep": "#8B5CF6"
+        }
+      },
+      {
+        "key": "speedRange",
+        "label": "Speed Range",
+        "type": "text"
+      },
+      {
+        "key": "origin",
+        "label": "Origin",
+        "type": "text"
+      },
+      {
+        "key": "destination",
+        "label": "Destination",
+        "type": "text"
+      },
+      {
+        "key": "climateEffects",
+        "label": "Climate Effects",
+        "type": "tags"
+      },
+      {
+        "key": "connectedEcosystems",
+        "label": "Connected Ecosystems",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "currentType",
+        "origin",
+        "destination",
+        "climateEffects",
+        "description"
+      ],
+      "groupBy": "currentType",
+      "titleField": "name",
+      "subtitleField": "origin",
+      "badgeField": "currentType",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "currentType"
+    }
+  },
+  {
+    "id": "power-grids",
+    "name": "Power Grid Standards",
+    "description": "Global electrical standards showing voltage, frequency, and plug types by country",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "zap",
+    "defaultColor": "#EAB308",
+    "categories": [
+      "infrastructure",
+      "travel"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Infrastructure & Travel",
+    "thumbnail": "#EAB308",
+    "schema": "PowerGridMetadata",
+    "detailFields": [
+      {
+        "key": "voltage",
+        "label": "Voltage",
+        "type": "text"
+      },
+      {
+        "key": "frequency",
+        "label": "Frequency",
+        "type": "text"
+      },
+      {
+        "key": "plugTypes",
+        "label": "Plug Types",
+        "type": "tags"
+      },
+      {
+        "key": "plugDescriptions",
+        "label": "Plug Type Details",
+        "type": "tags"
+      },
+      {
+        "key": "voltageStandard",
+        "label": "Voltage Standard",
+        "type": "text"
+      },
+      {
+        "key": "adapterNotes",
+        "label": "Travel Adapter Notes",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "voltage",
+        "frequency",
+        "plugTypes",
+        "adapterNotes"
+      ],
+      "groupBy": "voltageStandard",
+      "titleField": "name",
+      "subtitleField": "voltage",
+      "badgeField": "plugTypeCount",
+      "badgeFormat": "number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "voltage"
+    }
+  },
+  {
+    "id": "rainforests",
+    "name": "Rainforests",
+    "description": "Global rainforest coverage showing intact forest landscapes — tropical, temperate, and boreal forests with deforestation trends and conservation data sourced from the Intact Forest Landscapes (IFL) 2020 dataset",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#0D7A3A",
+    "categories": [
+      "ecology",
+      "environment",
+      "conservation",
+      "forests"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#0D7A3A",
+    "schema": "RainforestMetadata",
+    "detailFields": [
+      {
+        "key": "forestType",
+        "label": "Forest Type",
+        "type": "text"
+      },
+      {
+        "key": "intactness",
+        "label": "Intactness Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Pristine": "#064E3B",
+          "Mostly Intact": "#0D7A3A",
+          "Moderately Degraded": "#65A30D",
+          "Severely Degraded": "#D97706",
+          "Critical": "#DC2626"
+        }
+      },
+      {
+        "key": "areaKm2",
+        "label": "Area (km²)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "changeSince2000",
+        "label": "Change Since 2000",
+        "type": "text"
+      },
+      {
+        "key": "annualLossRate",
+        "label": "Annual Loss Rate",
+        "type": "text"
+      },
+      {
+        "key": "threats",
+        "label": "Threats",
+        "type": "tags"
+      },
+      {
+        "key": "conservationStatus",
+        "label": "Conservation Status",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "country",
+        "forestType",
+        "intactness",
+        "threats",
+        "description"
+      ],
+      "groupBy": "forestType",
+      "titleField": "name",
+      "subtitleField": "country",
+      "badgeField": "areaKm2",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "country"
+    }
+  },
+  {
+    "id": "religions",
+    "name": "World Religions",
+    "description": "Geographic distribution of major world religions and faith traditions",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#8B5CF6",
+    "categories": [
+      "culture",
+      "society"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Culture & Society",
+    "thumbnail": "#8B5CF6",
+    "schema": "ReligionMetadata",
+    "detailFields": [
+      {
+        "key": "family",
+        "label": "Religion Family",
+        "type": "text"
+      },
+      {
+        "key": "foundingPeriod",
+        "label": "Founded",
+        "type": "text"
+      },
+      {
+        "key": "adherents.estimated",
+        "label": "Estimated Adherents",
+        "type": "formatted-number"
+      },
+      {
+        "key": "adherents.percentWorld",
+        "label": "% of World Population",
+        "type": "text"
+      },
+      {
+        "key": "adherents.source",
+        "label": "Source",
+        "type": "text"
+      },
+      {
+        "key": "keyRegions",
+        "label": "Key Regions",
+        "type": "tags"
+      },
+      {
+        "key": "denominations",
+        "label": "Denominations / Branches",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalNotes",
+        "label": "Historical Notes",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "family",
+        "denominations"
+      ],
+      "groupBy": "family",
+      "titleField": "name",
+      "subtitleField": "foundingPeriod",
+      "badgeField": "adherents.estimated",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "foundingPeriod"
+    }
+  },
+  {
+    "id": "shipping-routes",
+    "name": "Shipping Routes & Major Ports",
+    "description": "Global shipping lanes and major ports — the arteries of international maritime trade",
+    "type": "lines",
+    "version": "1.0.0",
+    "icon": "ship",
+    "defaultColor": "#0EA5E9",
+    "categories": [
+      "infrastructure",
+      "trade",
+      "maritime"
+    ],
+    "dataType": "lines",
+    "dataSource": "static",
+    "category": "Infrastructure & Technology",
+    "thumbnail": "#0369A1",
+    "schema": "ShippingRouteMetadata",
+    "detailFields": [
+      {
+        "key": "classification",
+        "label": "Classification",
+        "type": "status-badge",
+        "statusColors": {
+          "Major": "#DC2626",
+          "Middle": "#F59E0B",
+          "Minor": "#6B7280",
+          "Container Port": "#2563EB",
+          "Bulk Port": "#059669",
+          "Oil/Gas Terminal": "#D97706",
+          "Multi-Purpose Port": "#7C3AED"
+        }
+      },
+      {
+        "key": "country",
+        "label": "Country",
+        "type": "text"
+      },
+      {
+        "key": "portType",
+        "label": "Port Type",
+        "type": "text"
+      },
+      {
+        "key": "cargoVolumeMTons",
+        "label": "Annual Cargo (M tons)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "keyRoutes",
+        "label": "Connected Routes",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "classification",
+        "country",
+        "portType",
+        "description"
+      ],
+      "groupBy": "itemCategory",
+      "titleField": "name",
+      "subtitleField": "description",
+      "badgeField": "classification",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "itemCategory"
+    }
+  },
+  {
+    "id": "space-launch-sites",
+    "name": "Space Launch Sites",
+    "description": "Space launch facilities worldwide — active, historical, and planned spaceports including government and commercial launch sites",
+    "type": "points",
+    "version": "1.0.0",
+    "icon": "rocket",
+    "defaultColor": "#22C55E",
+    "categories": [
+      "space",
+      "infrastructure",
+      "technology"
+    ],
+    "dataType": "points",
+    "dataSource": "static",
+    "category": "Space & Technology",
+    "thumbnail": "#22C55E",
+    "schema": "LaunchSiteMetadata",
+    "detailFields": [
+      {
+        "key": "status",
+        "label": "Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Active": "#22C55E",
+          "Historical": "#9CA3AF",
+          "Planned": "#3B82F6"
+        }
+      },
+      {
+        "key": "operator",
+        "label": "Operator",
+        "type": "text"
+      },
+      {
+        "key": "country",
+        "label": "Country",
+        "type": "text"
+      },
+      {
+        "key": "orbitalInclinationRange",
+        "label": "Orbital Inclination Range",
+        "type": "text"
+      },
+      {
+        "key": "notableLaunches",
+        "label": "Notable Launches",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "country",
+        "operator",
+        "status",
+        "description"
+      ],
+      "groupBy": "status",
+      "titleField": "name",
+      "subtitleField": "country",
+      "badgeField": "status"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "location"
+    }
+  },
+  {
+    "id": "submarine-cables",
+    "name": "Submarine Internet Cables",
+    "description": "Undersea fiber optic cables connecting continents and islands — the physical backbone of the global internet",
+    "type": "lines",
+    "version": "1.0.0",
+    "icon": "cable",
+    "defaultColor": "#0EA5E9",
+    "categories": [
+      "infrastructure",
+      "technology",
+      "internet"
+    ],
+    "dataType": "lines",
+    "dataSource": "static",
+    "category": "Infrastructure & Technology",
+    "thumbnail": "#0EA5E9",
+    "schema": "SubmarineCableMetadata",
+    "detailFields": [
+      {
+        "key": "capacityTier",
+        "label": "Capacity Tier",
+        "type": "status-badge",
+        "statusColors": {
+          "Ultra-High (>100 Tbps)": "#7C3AED",
+          "High (20–100 Tbps)": "#2563EB",
+          "Medium (5–20 Tbps)": "#0891B2",
+          "Standard (<5 Tbps)": "#6B7280"
+        }
+      },
+      {
+        "key": "capacityTbps",
+        "label": "Design Capacity (Tbps)",
+        "type": "number"
+      },
+      {
+        "key": "lengthKm",
+        "label": "Cable Length (km)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "owner",
+        "label": "Owner / Operator",
+        "type": "text"
+      },
+      {
+        "key": "yearLaid",
+        "label": "Year Laid / Planned",
+        "type": "text"
+      },
+      {
+        "key": "rfsDate",
+        "label": "Ready for Service",
+        "type": "text"
+      },
+      {
+        "key": "landingPoints",
+        "label": "Landing Points",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "owner",
+        "landingPoints",
+        "capacityTier",
+        "description"
+      ],
+      "groupBy": "capacityTier",
+      "titleField": "name",
+      "subtitleField": "owner",
+      "badgeField": "capacityTbps",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "capacityTier"
+    }
+  },
+  {
+    "id": "tectonic-plates",
+    "name": "Tectonic Plates",
+    "description": "Major and minor tectonic plate boundaries and geological features",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#D97706",
+    "categories": [
+      "geology",
+      "earth-science"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Geology & Earth Science",
+    "thumbnail": "#D97706",
+    "schema": "TectonicPlateMetadata",
+    "detailFields": [
+      {
+        "key": "plateClass",
+        "label": "Classification",
+        "type": "text"
+      },
+      {
+        "key": "crustType",
+        "label": "Crust Type",
+        "type": "text"
+      },
+      {
+        "key": "area",
+        "label": "Area (million km²)",
+        "type": "number"
+      },
+      {
+        "key": "movementDirection",
+        "label": "Movement Direction",
+        "type": "text"
+      },
+      {
+        "key": "movementRate",
+        "label": "Movement Rate (mm/year)",
+        "type": "text"
+      },
+      {
+        "key": "boundaryTypes",
+        "label": "Boundary Types",
+        "type": "tags"
+      },
+      {
+        "key": "adjacentPlates",
+        "label": "Adjacent Plates",
+        "type": "tags",
+        "referenceItems": true
+      },
+      {
+        "key": "notableFeatures",
+        "label": "Notable Features",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "geologicalHistory",
+        "label": "Geological History",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "plateClass",
+        "crustType",
+        "notableFeatures"
+      ],
+      "groupBy": "plateClass",
+      "titleField": "name",
+      "subtitleField": "crustType",
+      "badgeField": "area",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "plateClass"
+    }
+  },
+  {
+    "id": "time-zones",
+    "name": "World Time Zones",
+    "description": "Global UTC time zones with current local times and DST information",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#3B82F6",
+    "categories": [
+      "time",
+      "geography",
+      "reference"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Geography & Reference",
+    "thumbnail": "#3B82F6",
+    "schema": "TimeZoneMetadata",
+    "detailFields": [
+      {
+        "key": "utcOffset",
+        "label": "UTC Offset",
+        "type": "text"
+      },
+      {
+        "key": "utcOffsetHours",
+        "label": "Current Local Time",
+        "type": "utc-clock"
+      },
+      {
+        "key": "ianaNames",
+        "label": "IANA Timezone Names",
+        "type": "tags"
+      },
+      {
+        "key": "countries",
+        "label": "Countries & Territories",
+        "type": "tags"
+      },
+      {
+        "key": "dstRules",
+        "label": "DST Rules",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "utcOffset",
+        "countries",
+        "ianaNames",
+        "description"
+      ],
+      "groupBy": "offsetGroup",
+      "titleField": "name",
+      "subtitleField": "utcOffset",
+      "badgeField": "utcOffset",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "utcOffset"
+    }
+  },
+  {
+    "id": "trade-routes",
+    "name": "Historical Trade Routes",
+    "description": "Major historical trade routes that connected civilizations — from the Silk Road to Viking sea lanes, tracing the paths of ancient commerce",
+    "type": "lines",
+    "version": "1.0.0",
+    "icon": "route",
+    "defaultColor": "#D4A574",
+    "categories": [
+      "history",
+      "trade",
+      "culture"
+    ],
+    "dataType": "lines",
+    "dataSource": "static",
+    "category": "History & Culture",
+    "thumbnail": "#D4A574",
+    "schema": "TradeRouteMetadata",
+    "detailFields": [
+      {
+        "key": "routeType",
+        "label": "Route Type",
+        "type": "status-badge",
+        "statusColors": {
+          "Land": "#D97706",
+          "Maritime": "#0891B2",
+          "Mixed": "#7C3AED"
+        }
+      },
+      {
+        "key": "era",
+        "label": "Era",
+        "type": "text"
+      },
+      {
+        "key": "period",
+        "label": "Active Period",
+        "type": "text"
+      },
+      {
+        "key": "commodities",
+        "label": "Key Commodities",
+        "type": "tags"
+      },
+      {
+        "key": "majorStops",
+        "label": "Major Cities & Stops",
+        "type": "tags"
+      },
+      {
+        "key": "significance",
+        "label": "Historical Significance",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "era",
+        "commodities",
+        "majorStops",
+        "description"
+      ],
+      "groupBy": "era",
+      "titleField": "name",
+      "subtitleField": "period",
+      "badgeField": "routeType",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "era"
+    }
+  },
+  {
+    "id": "traditional-medicine",
+    "name": "Traditional Medicine Systems",
+    "description": "Geographic distribution of major traditional and complementary medicine systems worldwide",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#059669",
+    "categories": [
+      "culture",
+      "health"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Culture & Society",
+    "thumbnail": "#059669",
+    "schema": "TraditionalMedicineMetadata",
+    "detailFields": [
+      {
+        "key": "tradition",
+        "label": "Tradition",
+        "type": "text"
+      },
+      {
+        "key": "originRegion",
+        "label": "Origin Region",
+        "type": "text"
+      },
+      {
+        "key": "estimatedPractitioners",
+        "label": "Estimated Practitioners",
+        "type": "formatted-number"
+      },
+      {
+        "key": "whoRecognition",
+        "label": "WHO Recognition Status",
+        "type": "text"
+      },
+      {
+        "key": "keyPractices",
+        "label": "Key Practices",
+        "type": "tags"
+      },
+      {
+        "key": "regionsOfPractice",
+        "label": "Regions of Practice",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalNotes",
+        "label": "Historical Notes",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "tradition",
+        "keyPractices"
+      ],
+      "groupBy": "tradition",
+      "titleField": "name",
+      "subtitleField": "originRegion",
+      "badgeField": "estimatedPractitioners",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "originRegion"
+    }
+  },
+  {
+    "id": "unesco-sites",
+    "name": "UNESCO World Heritage Sites",
+    "description": "UNESCO World Heritage Sites — culturally and naturally significant places recognized for their outstanding universal value.",
+    "type": "points",
+    "version": "1.0.0",
+    "icon": "landmark",
+    "defaultColor": "#3B82F6",
+    "categories": [
+      "culture",
+      "heritage",
+      "geography"
+    ],
+    "dataType": "points",
+    "dataSource": "static",
+    "category": "Culture & Heritage",
+    "thumbnail": "#3B82F6",
+    "schema": "UnescoSiteMetadata",
+    "detailFields": [
+      {
+        "key": "type",
+        "label": "Type",
+        "type": "status-badge",
+        "statusColors": {
+          "Cultural": "#3B82F6",
+          "Natural": "#22C55E",
+          "Mixed": "#A855F7"
+        }
+      },
+      {
+        "key": "country",
+        "label": "Country",
+        "type": "text"
+      },
+      {
+        "key": "yearInscribed",
+        "label": "Year Inscribed",
+        "type": "text"
+      },
+      {
+        "key": "criteria",
+        "label": "Criteria",
+        "type": "tags"
+      },
+      {
+        "key": "region",
+        "label": "UNESCO Region",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "country",
+        "type",
+        "yearInscribed",
+        "criteria",
+        "description"
+      ],
+      "groupBy": "type",
+      "titleField": "name",
+      "subtitleField": "country",
+      "badgeField": "yearInscribed",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "country"
+    }
+  },
+  {
+    "id": "volcanoes",
+    "name": "Volcanoes",
+    "description": "Active volcanoes worldwide from the Smithsonian Global Volcanism Program — Holocene volcanoes including stratovolcanoes, shield volcanoes, calderas, and more",
+    "type": "points",
+    "version": "1.0.0",
+    "icon": "flame",
+    "defaultColor": "#EF4444",
+    "categories": [
+      "geology",
+      "earth-science",
+      "natural-hazards"
+    ],
+    "dataType": "points",
+    "dataSource": "static",
+    "category": "Geology & Earth Science",
+    "thumbnail": "#EF4444",
+    "schema": "VolcanoMetadata",
+    "detailFields": [
+      {
+        "key": "volcanoType",
+        "label": "Volcano Type",
+        "type": "text"
+      },
+      {
+        "key": "status",
+        "label": "Activity Status",
+        "type": "status-badge",
+        "statusColors": {
+          "Erupting/Recent": "#EF4444",
+          "Historically Active": "#F97316",
+          "Dormant": "#EAB308"
+        }
+      },
+      {
+        "key": "elevation",
+        "label": "Elevation (m)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "lastEruption",
+        "label": "Last Eruption",
+        "type": "text"
+      },
+      {
+        "key": "vei",
+        "label": "Max VEI (Volcanic Explosivity Index)",
+        "type": "number"
+      },
+      {
+        "key": "country",
+        "label": "Country",
+        "type": "text"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "type": "text"
+      },
+      {
+        "key": "tectonicSetting",
+        "label": "Tectonic Setting",
+        "type": "text"
+      },
+      {
+        "key": "eruptionHistory",
+        "label": "Eruption History",
+        "type": "markdown"
+      },
+      {
+        "key": "hazards",
+        "label": "Hazards",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "volcanoType",
+        "country",
+        "status",
+        "region",
+        "description"
+      ],
+      "groupBy": "status",
+      "titleField": "name",
+      "subtitleField": "country",
+      "badgeField": "elevation",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "location"
+    }
+  },
+  {
+    "id": "water-scarcity",
+    "name": "Water Scarcity Zones",
+    "description": "Global water stress levels at the sub-basin scale — colored from low to extremely high stress based on WRI Aqueduct 4.0 water risk indicators including depletion rate, drought risk, and seasonal variability",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#3B82F6",
+    "categories": [
+      "environment",
+      "climate",
+      "water",
+      "resources"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#3B82F6",
+    "schema": "WaterScarcityMetadata",
+    "detailFields": [
+      {
+        "key": "waterStressLevel",
+        "label": "Water Stress Level",
+        "type": "status-badge",
+        "statusColors": {
+          "Low": "#3B82F6",
+          "Low-Medium": "#06B6D4",
+          "Medium-High": "#EAB308",
+          "High": "#F97316",
+          "Extremely High": "#EF4444"
+        }
+      },
+      {
+        "key": "waterStressRatio",
+        "label": "Water Stress Ratio",
+        "type": "text"
+      },
+      {
+        "key": "depletionRate",
+        "label": "Depletion Rate",
+        "type": "text"
+      },
+      {
+        "key": "droughtRisk",
+        "label": "Drought Risk",
+        "type": "status-badge",
+        "statusColors": {
+          "Low": "#3B82F6",
+          "Moderate": "#06B6D4",
+          "High": "#EAB308",
+          "Very High": "#F97316",
+          "Extreme": "#EF4444"
+        }
+      },
+      {
+        "key": "seasonalVariability",
+        "label": "Seasonal Variability",
+        "type": "status-badge",
+        "statusColors": {
+          "Low": "#3B82F6",
+          "Moderate": "#06B6D4",
+          "High": "#EAB308",
+          "Very High": "#F97316"
+        }
+      },
+      {
+        "key": "affectedPopulation",
+        "label": "Affected Population",
+        "type": "formatted-number"
+      },
+      {
+        "key": "riskFactors",
+        "label": "Risk Factors",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "region",
+        "waterStressLevel",
+        "droughtRisk",
+        "description"
+      ],
+      "groupBy": "stressGroup",
+      "titleField": "name",
+      "subtitleField": "region",
+      "badgeField": "affectedPopulation",
+      "badgeFormat": "formatted-number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "region"
+    }
+  },
+  {
+    "id": "wildfire-risk",
+    "name": "Wildfire Risk Zones",
+    "description": "Global wildfire risk areas based on GWIS/JRC and NASA FIRMS aggregated data — regions colored by fire risk frequency from low to extreme, with major recent fire events shown as point markers",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "flame",
+    "defaultColor": "#EF4444",
+    "categories": [
+      "environment",
+      "climate",
+      "hazards",
+      "natural-disasters"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Climate & Environment",
+    "thumbnail": "#EF4444",
+    "schema": "WildfireRiskMetadata",
+    "detailFields": [
+      {
+        "key": "riskLevel",
+        "label": "Fire Risk Level",
+        "type": "status-badge",
+        "statusColors": {
+          "Low": "#EAB308",
+          "Moderate": "#F97316",
+          "High": "#EF4444",
+          "Extreme": "#991B1B"
+        }
+      },
+      {
+        "key": "fireFrequency",
+        "label": "Fire Frequency",
+        "type": "text"
+      },
+      {
+        "key": "dominantVegetation",
+        "label": "Dominant Vegetation",
+        "type": "text"
+      },
+      {
+        "key": "fireSeasonMonths",
+        "label": "Fire Season",
+        "type": "text"
+      },
+      {
+        "key": "areaBurnedAnnual",
+        "label": "Avg. Annual Area Burned (ha)",
+        "type": "text"
+      },
+      {
+        "key": "yearOfEvent",
+        "label": "Year",
+        "type": "text"
+      },
+      {
+        "key": "areaBurned",
+        "label": "Area Burned (ha)",
+        "type": "formatted-number"
+      },
+      {
+        "key": "cause",
+        "label": "Primary Cause",
+        "type": "text"
+      },
+      {
+        "key": "seasonalPattern",
+        "label": "Seasonal Pattern",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalFires",
+        "label": "Historical Fire Data",
+        "type": "tags"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "code",
+        "name",
+        "region",
+        "riskLevel",
+        "dominantVegetation",
+        "description"
+      ],
+      "groupBy": "riskGroup",
+      "titleField": "name",
+      "subtitleField": "region",
+      "badgeField": "riskLevel",
+      "badgeFormat": "text"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "region"
+    }
+  },
+  {
+    "id": "writing-systems",
+    "name": "Writing Systems",
+    "description": "Geographic distribution of major writing scripts used around the world",
+    "type": "regions",
+    "version": "1.0.0",
+    "icon": "globe",
+    "defaultColor": "#7C3AED",
+    "categories": [
+      "linguistics",
+      "culture"
+    ],
+    "dataType": "regions",
+    "dataSource": "static",
+    "category": "Linguistics",
+    "thumbnail": "#7C3AED",
+    "schema": "WritingSystemMetadata",
+    "detailFields": [
+      {
+        "key": "scriptType",
+        "label": "Script Type",
+        "type": "text"
+      },
+      {
+        "key": "characters",
+        "label": "Number of Characters",
+        "type": "number"
+      },
+      {
+        "key": "direction",
+        "label": "Writing Direction",
+        "type": "status-badge",
+        "statusColors": {
+          "LTR": "#3B82F6",
+          "RTL": "#F59E0B",
+          "Vertical": "#8B5CF6",
+          "LTR / Vertical": "#6366F1"
+        }
+      },
+      {
+        "key": "originDate",
+        "label": "Approximate Origin",
+        "type": "text"
+      },
+      {
+        "key": "sampleText",
+        "label": "Sample Text",
+        "type": "text"
+      },
+      {
+        "key": "relatedScripts",
+        "label": "Related Scripts",
+        "type": "tags",
+        "referenceItems": true
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "markdown"
+      },
+      {
+        "key": "historicalNotes",
+        "label": "Historical Notes",
+        "type": "markdown"
+      }
+    ],
+    "sidebarConfig": {
+      "idField": "code",
+      "searchFields": [
+        "name",
+        "scriptType",
+        "direction"
+      ],
+      "groupBy": "scriptType",
+      "titleField": "name",
+      "subtitleField": "sampleText",
+      "badgeField": "characters",
+      "badgeFormat": "number"
+    },
+    "detailPanelConfig": {
+      "titleField": "name",
+      "subtitleField": "scriptType"
+    }
   }
 ]

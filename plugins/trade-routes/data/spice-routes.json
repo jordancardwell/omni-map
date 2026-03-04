@@ -1,0 +1,12 @@
+{
+  "code": "spice-routes",
+  "name": "Spice Routes",
+  "routeType": "Maritime",
+  "era": "Ancient & Medieval",
+  "period": "c. 3000 BCE – 1800s CE",
+  "commodities": ["Pepper", "Cinnamon", "Cloves", "Nutmeg", "Cardamom", "Turmeric", "Ginger", "Saffron"],
+  "majorStops": ["Moluccas (Spice Islands)", "Banda Islands", "Malacca", "Calicut", "Goa", "Aden", "Cairo", "Venice", "Lisbon"],
+  "significance": "The spice trade shaped global history, driving European exploration, colonial empires, and the discovery of sea routes to Asia — spices were literally worth their weight in gold",
+  "description": "The Spice Routes were maritime trade paths connecting the Spice Islands (Moluccas) of Southeast Asia with markets in India, the Middle East, and Europe. Spices were among the most valuable commodities in the ancient and medieval world, used for preserving food, medicine, and religious ceremonies.\n\nThe routes evolved over millennia: early Austronesian sailors linked the Spice Islands to India, Arab merchants connected India to the Mediterranean via the Red Sea, and Venetian traders dominated European distribution. When the Ottoman Empire restricted overland access, the Portuguese rounded Africa to reach India directly (1498), followed by the Spanish, Dutch, and British.\n\nThe quest for spices directly led to the Age of Exploration, the colonization of Southeast Asia, and the establishment of the first multinational corporations like the Dutch East India Company (VOC).",
+  "geojson": "spice-routes.geojson"
+}

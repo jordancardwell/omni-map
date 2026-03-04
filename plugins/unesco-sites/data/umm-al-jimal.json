@@ -1,0 +1,14 @@
+{
+  "code": "umm-al-jimal",
+  "name": "Umm Al-Jimāl",
+  "type": "Cultural",
+  "country": "Jordan",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "The property is a rural settlement in northern Jordan that developed organically on the site of an earlier Roman settlement around the 5th century CE and functioned until the end of the 8th century CE. It preserves basaltic structures from the Byzantine and Early Islamic periods that represent the local architecture style of the Hauran region, with some earlier Roman military buildings re-purposed by later inhabitants. The settlement formed part of a broader agricultural landscape that included a complex water catchment system, which sustained agriculture and animal herding. The earliest structures uncovered at Umm Al-Jimāl date back to the 1st century CE, when the area formed part of the Nabataean Kingdom. A rich epigraphic corpus in Greek, Nabataean, Safaitic, Latin and Arabic uncovered on the site and spanning many centuries provides insights into its history, and sheds light on the changes in its inhabitants’ religious beliefs.",
+  "danger": false,
+  "geojson": "umm-al-jimal.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "baker",
+  "name": "Mount Baker",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 3286,
+  "lastEruption": "1880",
+  "vei": 2,
+  "country": "United States",
+  "region": "Cascades",
+  "location": "Cascades, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lahars",
+    "Pyroclastic flows",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Last erupted in 1880. Increased fumarolic activity in 1975 raised concerns but no eruption occurred. Sherman Crater is thermally active.",
+  "description": "Mount Baker is the most heavily glaciated volcano in the Cascades after Mount Rainier. It produces the most thermal energy of any Cascade volcano.",
+  "geojson": "baker.geojson"
+}

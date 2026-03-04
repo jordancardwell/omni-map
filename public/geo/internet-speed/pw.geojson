@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pw","name":"Palau","country":"PW","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[131,3],[131,8],[135,8],[135,3],[131,3]]]}}]}

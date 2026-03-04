@@ -1,0 +1,14 @@
+{
+  "code": "sines",
+  "name": "Port of Sines",
+  "country": "Portugal",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 50,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route"
+  ],
+  "description": "Port of Sines in Portugal. Annual cargo throughput: ~50 million tons. Type: Multi-Purpose Port.",
+  "geojson": "sines.geojson"
+}

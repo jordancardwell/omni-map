@@ -1,0 +1,15 @@
+{
+  "code": "historic-town-of-zabid",
+  "name": "Historic Town of Zabid",
+  "type": "Cultural",
+  "country": "Yemen",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Zabid's domestic and military architecture and its urban plan make it an outstanding archaeological and historical site. Besides being the capital of Yemen from the 13th to the 15th century, the city played an important role in the Arab and Muslim world for many centuries because of its Islamic university.",
+  "danger": true,
+  "geojson": "historic-town-of-zabid.geojson"
+}

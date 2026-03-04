@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5127777778,
+          26.1497222222
+        ]
+      },
+      "properties": {
+        "code": "dilmun-burial-mounds",
+        "name": "Dilmun Burial Mounds",
+        "type": "Cultural",
+        "country": "Bahrain",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

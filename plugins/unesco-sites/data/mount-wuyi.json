@@ -1,0 +1,16 @@
+{
+  "code": "mount-wuyi",
+  "name": "Mount Wuyi",
+  "type": "Mixed",
+  "country": "China",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)",
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Mount Wuyi is the most outstanding area for biodiversity conservation in south-east China and a refuge for a large number of ancient, relict species, many of them endemic to China. The serene beauty of the dramatic gorges of the Nine Bend River, with its numerous temples and monasteries, many now in ruins, provided the setting for the development and spread of neo-Confucianism, which has been influential in the cultures of East Asia since the 11th century. In the 1st century B.C. a large administrative capital was built at nearby Chengcun by the Han dynasty rulers. Its massive walls enclose an archaeological site of great significance.",
+  "danger": false,
+  "geojson": "mount-wuyi.geojson"
+}

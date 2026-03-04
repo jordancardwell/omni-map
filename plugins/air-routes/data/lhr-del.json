@@ -1,0 +1,18 @@
+{
+  "code": "lhr-del",
+  "name": "London — Delhi",
+  "airports": [
+    "LHR",
+    "DEL"
+  ],
+  "distanceKm": 6731,
+  "weeklyFlights": 50,
+  "airlines": [
+    "British Airways",
+    "Air India"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LHR–DEL route between London and Delhi. Distance: 6,731 km. ~50 weekly flights operated by British Airways, Air India.",
+  "geojson": "lhr-del.geojson"
+}

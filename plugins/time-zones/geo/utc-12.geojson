@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-12","name":"Baker Island Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-180,-60],[-172.5,-60],[-172.5,84],[-180,84],[-180,-60]]]}}]}

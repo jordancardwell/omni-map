@@ -1,0 +1,17 @@
+{
+  "code": "dxb-fco",
+  "name": "Dubai — Rome",
+  "airports": [
+    "DXB",
+    "FCO"
+  ],
+  "distanceKm": 4344,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–FCO route between Dubai and Rome. Distance: 4,344 km. ~30 weekly flights operated by Emirates.",
+  "geojson": "dxb-fco.geojson"
+}

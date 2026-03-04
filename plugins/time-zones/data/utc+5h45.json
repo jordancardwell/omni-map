@@ -1,0 +1,20 @@
+{
+  "code": "utc+5h45",
+  "name": "Nepal Time",
+  "nativeName": "UTC+05:45",
+  "utcOffset": "UTC+05:45",
+  "utcOffsetHours": 5.75,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Asia/Kathmandu"
+  ],
+  "countries": [
+    "Nepal"
+  ],
+  "dstRules": "No DST observed",
+  "description": "The only timezone in the world with a 45-minute offset from UTC. Nepal adopted this unique offset in 1986 to distinguish itself from India's UTC+05:30. The offset is based on the meridian of Kathmandu (85°19' E), calculated as 5 hours and 45 minutes ahead of GMT.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+5h45.geojson"
+}

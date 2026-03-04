@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8,
+          22.66667
+        ]
+      },
+      "properties": {
+        "code": "historic-mosque-city-of-bagerhat",
+        "name": "Historic Mosque City of Bagerhat",
+        "type": "Cultural",
+        "country": "Bangladesh",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "hamad",
+  "name": "Hamad Port",
+  "country": "Qatar",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Hamad Port in Qatar. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "hamad.geojson"
+}

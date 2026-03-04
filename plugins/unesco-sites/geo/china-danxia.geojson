@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0425,
+          28.4219444444
+        ]
+      },
+      "properties": {
+        "code": "china-danxia",
+        "name": "China Danxia",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "jod",
+  "name": "Jordanian Dinar",
+  "isoCode": "JOD",
+  "symbol": "د.ا",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Jordan",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Jordan"
+  ],
+  "countryCount": 1,
+  "description": "The Jordanian Dinar is one of the highest-valued currencies in the world, pegged to the US Dollar since 1995.",
+  "historicalNotes": "Introduced in 1950, replacing the Palestinian pound. Jordan's economy relies on services, tourism, and remittances.",
+  "geojson": "jod.geojson"
+}

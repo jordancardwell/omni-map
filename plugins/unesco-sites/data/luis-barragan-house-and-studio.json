@@ -1,0 +1,15 @@
+{
+  "code": "luis-barragan-house-and-studio",
+  "name": "Luis Barragán House and Studio",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Built in 1948, the House and Studio of architect Luis Barragán in the suburbs of Mexico City represents an outstanding example of the architect’s creative work in the post-Second World War period. The concrete building, totalling 1,161 m2, consists of a ground floor and two upper storeys, as well as a small private garden. Barragán’s work integrated modern and traditional artistic and vernacular currents and elements into a new synthesis, which has been greatly influential, especially in the contemporary design of gardens, plazas and landscapes.",
+  "danger": false,
+  "geojson": "luis-barragan-house-and-studio.geojson"
+}

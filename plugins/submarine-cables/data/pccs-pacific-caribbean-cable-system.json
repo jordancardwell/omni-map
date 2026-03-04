@@ -1,0 +1,19 @@
+{
+  "code": "pccs-pacific-caribbean-cable-system",
+  "name": "PCCS (Pacific Caribbean Cable System)",
+  "capacityTbps": 80,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6300,
+  "yearLaid": 2014,
+  "rfsDate": "2015-12",
+  "owner": "Cable & Wireless, Columbus",
+  "landingPoints": [
+    "Miami, USA",
+    "Panama City, Panama",
+    "Colón, Panama",
+    "Barranquilla, Colombia",
+    "Cartagena, Colombia"
+  ],
+  "description": "Major cable connecting the US to Colombia via Panama.",
+  "geojson": "pccs-pacific-caribbean-cable-system.geojson"
+}

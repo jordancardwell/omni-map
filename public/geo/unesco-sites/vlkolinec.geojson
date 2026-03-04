@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2783333333,
+          49.0391666667
+        ]
+      },
+      "properties": {
+        "code": "vlkolinec",
+        "name": "Vlkolínec",
+        "type": "Cultural",
+        "country": "Slovakia",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

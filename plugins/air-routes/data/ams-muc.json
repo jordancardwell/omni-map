@@ -1,0 +1,18 @@
+{
+  "code": "ams-muc",
+  "name": "Amsterdam — Munich",
+  "airports": [
+    "AMS",
+    "MUC"
+  ],
+  "distanceKm": 664,
+  "weeklyFlights": 80,
+  "airlines": [
+    "KLM",
+    "Lufthansa"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "AMS–MUC route between Amsterdam and Munich. Distance: 664 km. ~80 weekly flights operated by KLM, Lufthansa.",
+  "geojson": "ams-muc.geojson"
+}

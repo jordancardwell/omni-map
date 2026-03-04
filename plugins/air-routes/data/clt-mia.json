@@ -1,0 +1,17 @@
+{
+  "code": "clt-mia",
+  "name": "Charlotte — Miami",
+  "airports": [
+    "CLT",
+    "MIA"
+  ],
+  "distanceKm": 1049,
+  "weeklyFlights": 50,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CLT–MIA route between Charlotte and Miami. Distance: 1,049 km. ~50 weekly flights operated by American.",
+  "geojson": "clt-mia.geojson"
+}

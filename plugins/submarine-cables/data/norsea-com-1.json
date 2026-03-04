@@ -1,0 +1,16 @@
+{
+  "code": "norsea-com-1",
+  "name": "NorSea Com-1",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 850,
+  "yearLaid": 2020,
+  "rfsDate": "2020-12",
+  "owner": "NorSea Group",
+  "landingPoints": [
+    "Kristiansand, Norway",
+    "Katwijk, Netherlands"
+  ],
+  "description": "North Sea cable connecting Norway to the Netherlands.",
+  "geojson": "norsea-com-1.geojson"
+}

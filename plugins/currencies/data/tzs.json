@@ -1,0 +1,16 @@
+{
+  "code": "tzs",
+  "name": "Tanzanian Shilling",
+  "isoCode": "TZS",
+  "symbol": "TSh",
+  "region": "Africa",
+  "centralBank": "Bank of Tanzania",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Tanzania"
+  ],
+  "countryCount": 1,
+  "description": "The Tanzanian Shilling is the currency of the United Republic of Tanzania, home to Kilimanjaro and the Serengeti.",
+  "historicalNotes": "Introduced in 1966, replacing the East African shilling. Tanzania was formed from the union of Tanganyika and Zanzibar in 1964.",
+  "geojson": "tzs.geojson"
+}

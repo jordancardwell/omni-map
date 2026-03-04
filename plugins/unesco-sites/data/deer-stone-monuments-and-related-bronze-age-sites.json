@@ -1,0 +1,15 @@
+{
+  "code": "deer-stone-monuments-and-related-bronze-age-sites",
+  "name": "Deer Stone Monuments and Related Bronze Age Sites",
+  "type": "Cultural",
+  "country": "Mongolia",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located on the slopes of the Khangai Ridge in central Mongolia, these deer stones were used for ceremonial and funerary practices. Dating from about 1200 to 600 BCE, they stand up to four metres tall and are set directly in the ground as single standing stones or in groups, and are almost always located in complexes that include large burial mounds called khirgisüürs and sacrificial altars. Covered with highly stylized or representational engravings of stags, deer stones are the most important surviving structures belonging to the culture of Eurasian Bronze Age nomads that evolved and then slowly disappeared between the 2nd and 1st millennia BCE.",
+  "danger": false,
+  "geojson": "deer-stone-monuments-and-related-bronze-age-sites.geojson"
+}

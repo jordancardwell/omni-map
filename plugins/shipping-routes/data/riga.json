@@ -1,0 +1,14 @@
+{
+  "code": "riga",
+  "name": "Port of Riga",
+  "country": "Latvia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Riga in Latvia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "riga.geojson"
+}

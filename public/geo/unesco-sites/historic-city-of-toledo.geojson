@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0244444444,
+          39.8569444444
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-toledo",
+        "name": "Historic City of Toledo",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

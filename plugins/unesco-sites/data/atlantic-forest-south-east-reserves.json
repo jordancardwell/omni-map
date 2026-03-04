@@ -1,0 +1,16 @@
+{
+  "code": "atlantic-forest-south-east-reserves",
+  "name": "Atlantic Forest South-East Reserves",
+  "type": "Natural",
+  "country": "Brazil",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Atlantic Forest South-East Reserves, in the states of Paraná and São Paulo, contain some of the best and most extensive examples of Atlantic forest in Brazil. The 25 protected areas that make up the site (some 470,000 ha in total) display the biological wealth and evolutionary history of the last remaining Atlantic forests. From mountains covered by dense forests, down to wetlands, coastal islands with isolated mountains and dunes, the area comprises a rich natural environment of great scenic beauty.",
+  "danger": false,
+  "geojson": "atlantic-forest-south-east-reserves.geojson"
+}

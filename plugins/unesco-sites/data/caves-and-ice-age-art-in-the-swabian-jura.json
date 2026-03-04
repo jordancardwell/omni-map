@@ -1,0 +1,14 @@
+{
+  "code": "caves-and-ice-age-art-in-the-swabian-jura",
+  "name": "Caves and Ice Age Art in the Swabian Jura",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Modern humans first arrived in Europe 43,000 years ago during the last ice age. One of the areas where they took up residence was the Swabian Jura in southern Germany. Excavated from the 1860s, six caves have revealed items dating from 43,000 to 33,000 years ago. Among them are carved figurines of animals (including cave lions, mammoths, horses and bovids), musical instruments and items of personal adornment. Other figurines depict creatures that are half animal, half human and there is one statuette of a woman. These archaeological sites feature some of the oldest figurative art worldwide and help shed light on the origins of human artistic development.",
+  "danger": false,
+  "geojson": "caves-and-ice-age-art-in-the-swabian-jura.geojson"
+}

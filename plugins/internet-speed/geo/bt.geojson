@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bt","name":"Bhutan","country":"BT","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[88.7,26.7],[88.7,28.3],[92.1,28.3],[92.1,26.7],[88.7,26.7]]]}}]}

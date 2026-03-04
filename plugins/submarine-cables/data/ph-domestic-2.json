@@ -1,0 +1,16 @@
+{
+  "code": "ph-domestic-2",
+  "name": "PH Domestic-2",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2909,
+  "yearLaid": 2013,
+  "rfsDate": "2016-06",
+  "owner": "PLDT",
+  "landingPoints": [
+    "Cebu, Philippines",
+    "Manila, Philippines"
+  ],
+  "description": "PH Domestic-2 connecting Cebu to Manila.",
+  "geojson": "ph-domestic-2.geojson"
+}

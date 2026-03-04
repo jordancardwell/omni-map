@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8833333,
+          36.4
+        ]
+      },
+      "properties": {
+        "code": "historic-villages-of-shirakawa-go-and-gokayama",
+        "name": "Historic Villages of Shirakawa-go and Gokayama",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

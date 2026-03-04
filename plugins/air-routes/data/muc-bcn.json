@@ -1,0 +1,18 @@
+{
+  "code": "muc-bcn",
+  "name": "Munich — Barcelona",
+  "airports": [
+    "MUC",
+    "BCN"
+  ],
+  "distanceKm": 1094,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Lufthansa",
+    "Vueling"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MUC–BCN route between Munich and Barcelona. Distance: 1,094 km. ~70 weekly flights operated by Lufthansa, Vueling.",
+  "geojson": "muc-bcn.geojson"
+}

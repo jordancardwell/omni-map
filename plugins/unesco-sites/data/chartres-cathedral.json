@@ -1,0 +1,16 @@
+{
+  "code": "chartres-cathedral",
+  "name": "Chartres Cathedral",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Partly built starting in 1145, and then reconstructed over a 26-year period after the fire of 1194, Chartres Cathedral marks the high point of French Gothic art. The vast nave, in pure ogival style, the porches adorned with fine sculptures from the middle of the 12th century, and the magnificent 12th- and 13th-century stained-glass windows, all in remarkable condition, combine to make it a masterpiece.",
+  "danger": false,
+  "geojson": "chartres-cathedral.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-santa-cruz-de-mompox",
+  "name": "Historic Centre of Santa Cruz de Mompox",
+  "type": "Cultural",
+  "country": "Colombia",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Founded in 1540 on the banks of the River Magdalena, Mompox played a key role in the Spanish colonization of northern South America. From the 16th to the 19th century the city developed parallel to the river, with the main street acting as a dyke. The historic centre has preserved the harmony and unity of the urban landscape. Most of the buildings are still used for their original purposes, providing an exceptional picture of what a Spanish colonial city was like.",
+  "danger": false,
+  "geojson": "historic-centre-of-santa-cruz-de-mompox.geojson"
+}

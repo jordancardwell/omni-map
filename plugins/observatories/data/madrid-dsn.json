@@ -1,0 +1,21 @@
+{
+  "code": "madrid-dsn",
+  "name": "Madrid Deep Space Communications Complex",
+  "country": "Spain",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 830,
+  "aperture": "70 m (DSS-63)",
+  "telescopes": [
+    "DSS-63 70m",
+    "Various DSN dishes"
+  ],
+  "keyDiscoveries": [
+    "Spacecraft communication",
+    "Radio astronomy",
+    "Planetary missions support"
+  ],
+  "location": "Madrid Deep Space Communications Complex, Spain",
+  "description": "NASA's DSN station at Robledo de Chavela near Madrid. Together with Goldstone and Canberra provides continuous deep-space communication coverage.",
+  "geojson": "madrid-dsn.geojson"
+}

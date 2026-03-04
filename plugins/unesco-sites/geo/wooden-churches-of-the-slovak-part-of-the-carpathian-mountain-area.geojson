@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5583333333,
+          49.3361111111
+        ]
+      },
+      "properties": {
+        "code": "wooden-churches-of-the-slovak-part-of-the-carpathian-mountain-area",
+        "name": "Wooden Churches of the Slovak part of the Carpathian Mountain Area",
+        "type": "Cultural",
+        "country": "Slovakia",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

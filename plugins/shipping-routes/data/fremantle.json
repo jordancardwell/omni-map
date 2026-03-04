@@ -1,0 +1,15 @@
+{
+  "code": "fremantle",
+  "name": "Port of Fremantle",
+  "country": "Australia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Australia–Southeast Asia Route",
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Fremantle in Australia. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+  "geojson": "fremantle.geojson"
+}

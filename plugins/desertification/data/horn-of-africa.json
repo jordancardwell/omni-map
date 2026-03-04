@@ -1,0 +1,27 @@
+{
+  "code": "horn-of-africa",
+  "name": "Horn of Africa Drylands",
+  "region": "East Africa",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — seasonal rainfall zone",
+  "area": "1,882,000 km²",
+  "degradationTrend": "Severe — Expanding",
+  "populationAffected": 70000000,
+  "affectedCountries": [
+    "Ethiopia",
+    "Somalia",
+    "Kenya",
+    "Djibouti"
+  ],
+  "desertificationDrivers": [
+    "Recurrent drought",
+    "Overgrazing",
+    "Deforestation",
+    "Conflict displacement",
+    "Population growth"
+  ],
+  "desertFrontier": "Arid zone expanding southward; 5 consecutive failed rainy seasons (2020–2023)",
+  "description": "The Horn of Africa drylands face recurring devastating droughts with increasing frequency. Between 2020 and 2023, the region experienced five consecutive failed rainy seasons — unprecedented in 40 years of records. Over 20 million people faced acute food insecurity. Pastoral communities are losing rangelands to desertification, forcing migration to urban areas.",
+  "geojson": "horn-of-africa.geojson"
+}

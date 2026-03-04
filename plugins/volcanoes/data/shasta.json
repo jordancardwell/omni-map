@@ -1,0 +1,22 @@
+{
+  "code": "shasta",
+  "name": "Mount Shasta",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 4322,
+  "lastEruption": "1250",
+  "vei": 4,
+  "country": "United States",
+  "region": "Cascades",
+  "location": "Cascades, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Last erupted around 1250 CE. Has averaged one eruption every 600 years over the last 10,000 years. Significant lahar and pyroclastic flow hazard.",
+  "description": "Mount Shasta is one of the largest stratovolcanoes in the Cascades. Its glaciers and massive bulk make it a prominent feature of the northern California landscape.",
+  "geojson": "shasta.geojson"
+}

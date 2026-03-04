@@ -1,0 +1,18 @@
+{
+  "code": "vulture-white-rumped",
+  "name": "White-rumped Vulture",
+  "scientificName": "Gyps bengalensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~6,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Open countryside and forest edge",
+  "threats": [
+    "Diclofenac poisoning",
+    "Habitat loss",
+    "Food scarcity"
+  ],
+  "conservationEfforts": "Ban on veterinary diclofenac in India, Nepal, Pakistan, and Bangladesh. Vulture safe zones established. Captive breeding program by BNHS and RSPB has produced over 700 birds.",
+  "description": "Once the most common large raptor in the world, the white-rumped vulture suffered a 99.9% population crash in South Asia due to the veterinary drug diclofenac, which is lethal to vultures.",
+  "geojson": "vulture-white-rumped.geojson"
+}

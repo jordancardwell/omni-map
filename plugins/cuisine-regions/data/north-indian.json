@@ -1,0 +1,37 @@
+{
+  "code": "north-indian",
+  "name": "North Indian Cuisine",
+  "cuisineFamily": "South Asian",
+  "description": "North Indian cuisine is characterized by its rich, creamy curries, extensive use of dairy, and tandoor-cooked breads and meats. Influenced by Mughal cooking traditions, it features aromatic spice blends (masalas) and slow-cooked dishes. The region's wheat-growing plains make breads like naan and roti staples.",
+  "signatureDishes": [
+    "Butter Chicken",
+    "Biryani",
+    "Naan",
+    "Tandoori Chicken",
+    "Dal Makhani",
+    "Samosa"
+  ],
+  "keyIngredients": [
+    "Ghee",
+    "Garam Masala",
+    "Yogurt",
+    "Paneer",
+    "Basmati Rice",
+    "Cardamom"
+  ],
+  "cookingTechniques": [
+    "Tandoor cooking",
+    "Dum (slow cooking)",
+    "Tempering (tadka)",
+    "Grinding spice pastes"
+  ],
+  "unescoRecognition": "None specific; several Indian food traditions under consideration",
+  "keyRegions": [
+    "Punjab",
+    "Delhi",
+    "Uttar Pradesh",
+    "Rajasthan",
+    "Kashmir"
+  ],
+  "geojson": "north-indian.geojson"
+}

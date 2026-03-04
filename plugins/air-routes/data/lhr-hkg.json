@@ -1,0 +1,18 @@
+{
+  "code": "lhr-hkg",
+  "name": "London — Hong Kong",
+  "airports": [
+    "LHR",
+    "HKG"
+  ],
+  "distanceKm": 9631,
+  "weeklyFlights": 55,
+  "airlines": [
+    "Cathay Pacific",
+    "British Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LHR–HKG route between London and Hong Kong. Distance: 9,631 km. ~55 weekly flights operated by Cathay Pacific, British Airways.",
+  "geojson": "lhr-hkg.geojson"
+}

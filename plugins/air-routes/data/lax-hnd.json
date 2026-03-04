@@ -1,0 +1,21 @@
+{
+  "code": "lax-hnd",
+  "name": "Los Angeles — Tokyo",
+  "airports": [
+    "LAX",
+    "HND"
+  ],
+  "distanceKm": 8813,
+  "weeklyFlights": 70,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "United",
+    "Delta",
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–HND route between Los Angeles and Tokyo. Distance: 8,813 km. ~70 weekly flights operated by ANA, JAL, United, Delta, American.",
+  "geojson": "lax-hnd.geojson"
+}

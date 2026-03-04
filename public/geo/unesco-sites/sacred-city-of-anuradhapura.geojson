@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.38333333,
+          8.333333333
+        ]
+      },
+      "properties": {
+        "code": "sacred-city-of-anuradhapura",
+        "name": "Sacred City of Anuradhapura",
+        "type": "Cultural",
+        "country": "Sri Lanka",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

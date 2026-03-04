@@ -1,0 +1,15 @@
+{
+  "code": "historic-ensemble-of-the-potala-palace-lhasa",
+  "name": "Historic Ensemble of the Potala Palace, Lhasa",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Potala Palace, winter palace of the Dalai Lama since the 7th century, symbolizes Tibetan Buddhism and its central role in the traditional administration of Tibet. The complex, comprising the White and Red Palaces with their ancillary buildings, is built on Red Mountain in the centre of Lhasa Valley, at an altitude of 3,700m. Also founded in the 7th century, the Jokhang Temple Monastery is an exceptional Buddhist religious complex. Norbulingka, the Dalai Lama's former summer palace, constructed in the 18th century, is a masterpiece of Tibetan art. The beauty and originality of the architecture of these three sites, their rich ornamentation and harmonious integration in a striking landscape, add to their historic and religious interest.",
+  "danger": false,
+  "geojson": "historic-ensemble-of-the-potala-palace-lhasa.geojson"
+}

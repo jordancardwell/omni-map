@@ -1,0 +1,16 @@
+{
+  "code": "historic-and-architectural-complex-of-the-kazan-kremlin",
+  "name": "Historic and Architectural Complex of the Kazan Kremlin",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built on an ancient site, the Kazan Kremlin dates from the Muslim period of the Golden Horde and the Kazan Khanate. It was conquered by Ivan the Terrible in 1552 and became the Christian See of the Volga Land. The only surviving Tatar fortress in Russia and an important place of pilgrimage, the Kazan Kremlin consists of an outstanding group of historic buildings dating from the 16th to 19th centuries, integrating remains of earlier structures of the 10th to 16th centuries.",
+  "danger": false,
+  "geojson": "historic-and-architectural-complex-of-the-kazan-kremlin.geojson"
+}

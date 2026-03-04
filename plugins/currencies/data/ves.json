@@ -1,0 +1,16 @@
+{
+  "code": "ves",
+  "name": "Venezuelan Bolívar",
+  "isoCode": "VES",
+  "symbol": "Bs.S",
+  "region": "Americas",
+  "centralBank": "Central Bank of Venezuela",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Venezuela"
+  ],
+  "countryCount": 1,
+  "description": "The Venezuelan Bolívar Soberano is named after independence leader Simón Bolívar. Venezuela holds the world's largest proven oil reserves.",
+  "historicalNotes": "Venezuela has redenominated its currency multiple times due to hyperinflation. The bolívar soberano was introduced in 2018, removing five zeros. A digital bolívar removed six more zeros in 2021.",
+  "geojson": "ves.geojson"
+}

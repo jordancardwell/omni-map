@@ -1,0 +1,16 @@
+{
+  "code": "la-mn-cable",
+  "name": "LA-MN Cable",
+  "capacityTbps": 38,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3972,
+  "yearLaid": 2019,
+  "rfsDate": "2019-06",
+  "owner": "PLDT",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Manila, Philippines"
+  ],
+  "description": "LA-MN Cable connecting Los Angeles to Manila.",
+  "geojson": "la-mn-cable.geojson"
+}

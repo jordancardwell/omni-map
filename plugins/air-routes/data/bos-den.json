@@ -1,0 +1,18 @@
+{
+  "code": "bos-den",
+  "name": "Boston — Denver",
+  "airports": [
+    "BOS",
+    "DEN"
+  ],
+  "distanceKm": 2816,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United",
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "BOS–DEN route between Boston and Denver. Distance: 2,816 km. ~40 weekly flights operated by United, JetBlue.",
+  "geojson": "bos-den.geojson"
+}

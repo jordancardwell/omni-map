@@ -1,0 +1,16 @@
+{
+  "code": "gh-ci-link",
+  "name": "GH-CI Link",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 715,
+  "yearLaid": 2018,
+  "rfsDate": "2018-06",
+  "owner": "Vodafone",
+  "landingPoints": [
+    "Accra, Ghana",
+    "Abidjan, Ivory Coast"
+  ],
+  "description": "GH-CI Link connecting Accra to Abidjan along the African coast.",
+  "geojson": "gh-ci-link.geojson"
+}

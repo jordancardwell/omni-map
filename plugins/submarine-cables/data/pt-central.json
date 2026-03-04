@@ -1,0 +1,16 @@
+{
+  "code": "pt-central",
+  "name": "PT Central",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 624,
+  "yearLaid": 2013,
+  "rfsDate": "2018-06",
+  "owner": "Altice",
+  "landingPoints": [
+    "Figueira da Foz, Portugal",
+    "Lisbon, Portugal"
+  ],
+  "description": "PT Central connecting Figueira da Foz to Lisbon in Europe.",
+  "geojson": "pt-central.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "km-yt-cable",
+  "name": "KM-YT Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1601,
+  "yearLaid": 2014,
+  "rfsDate": "2020-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Moroni, Comoros",
+    "Mamoudzou, Mayotte"
+  ],
+  "description": "KM-YT Cable connecting Moroni to Mamoudzou in East Africa/Indian Ocean.",
+  "geojson": "km-yt-cable.geojson"
+}

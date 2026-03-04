@@ -1,0 +1,12 @@
+{
+  "code": "icn",
+  "name": "Seoul Incheon International",
+  "iataCode": "ICN",
+  "city": "Seoul",
+  "country": "South Korea",
+  "annualPassengers": 61000000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Seoul Incheon International (ICN) in Seoul, South Korea. Annual passengers: ~61M. Classification: Major Hub.",
+  "geojson": "icn.geojson"
+}

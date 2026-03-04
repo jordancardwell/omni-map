@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hkg","name":"Hong Kong International","featureType":"airport","iataCode":"HKG","annualPassengers":41000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[113.9185,22.308]}}]}

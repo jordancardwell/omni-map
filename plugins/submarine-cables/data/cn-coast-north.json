@@ -1,0 +1,16 @@
+{
+  "code": "cn-coast-north",
+  "name": "CN Coast North",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 768,
+  "yearLaid": 2018,
+  "rfsDate": "2014-06",
+  "owner": "China Unicom",
+  "landingPoints": [
+    "Shanghai, China",
+    "Qingdao, China"
+  ],
+  "description": "CN Coast North connecting Shanghai to Qingdao in East Asia.",
+  "geojson": "cn-coast-north.geojson"
+}

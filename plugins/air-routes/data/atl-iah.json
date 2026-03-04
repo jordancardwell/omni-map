@@ -1,0 +1,18 @@
+{
+  "code": "atl-iah",
+  "name": "Atlanta — Houston",
+  "airports": [
+    "ATL",
+    "IAH"
+  ],
+  "distanceKm": 1108,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Delta",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–IAH route between Atlanta and Houston. Distance: 1,108 km. ~70 weekly flights operated by Delta, United.",
+  "geojson": "atl-iah.geojson"
+}

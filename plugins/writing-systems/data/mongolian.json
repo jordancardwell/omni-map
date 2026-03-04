@@ -1,0 +1,15 @@
+{
+  "code": "mongolian",
+  "name": "Mongolian (Traditional)",
+  "scriptType": "Alphabet",
+  "characters": 26,
+  "direction": "Vertical",
+  "originDate": "13th century CE",
+  "sampleText": "ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ",
+  "relatedScripts": [
+    "cyrillic"
+  ],
+  "description": "The traditional Mongolian script is written vertically from top to bottom, with columns running left to right. It has 26 letters with different forms depending on position (initial, medial, final). It is one of the few vertical scripts still in active use. Inner Mongolia in China continues to use this script, while Mongolia uses Cyrillic with ongoing efforts to revive the traditional script.",
+  "historicalNotes": "The traditional Mongolian script was adapted from the Uyghur alphabet in the early 13th century, during the reign of Genghis Khan. The Uyghur script itself derived from Sogdian and ultimately from Aramaic. Mongolia switched to Cyrillic in 1941 under Soviet influence. Since 2020, Mongolia has been working to restore the traditional script alongside Cyrillic. Inner Mongolia has maintained continuous use of the script.",
+  "geojson": "mongolian.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "la-kr-cable",
+  "name": "LA-KR Cable",
+  "capacityTbps": 57,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3140,
+  "yearLaid": 2015,
+  "rfsDate": "2019-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Busan, South Korea"
+  ],
+  "description": "LA-KR Cable connecting Los Angeles to Busan.",
+  "geojson": "la-kr-cable.geojson"
+}

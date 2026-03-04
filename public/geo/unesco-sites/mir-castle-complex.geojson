@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.47272222,
+          53.45108333
+        ]
+      },
+      "properties": {
+        "code": "mir-castle-complex",
+        "name": "Mir Castle Complex",
+        "type": "Cultural",
+        "country": "Belarus",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

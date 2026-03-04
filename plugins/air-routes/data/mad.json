@@ -1,0 +1,12 @@
+{
+  "code": "mad",
+  "name": "Madrid Barajas",
+  "iataCode": "MAD",
+  "city": "Madrid",
+  "country": "Spain",
+  "annualPassengers": 46000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Madrid Barajas (MAD) in Madrid, Spain. Annual passengers: ~46M. Classification: International Hub.",
+  "geojson": "mad.geojson"
+}

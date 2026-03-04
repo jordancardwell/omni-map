@@ -1,0 +1,15 @@
+{
+  "code": "portuguese-city-of-mazagan-el-jadida",
+  "name": "Portuguese City of Mazagan (El Jadida)",
+  "type": "Cultural",
+  "country": "Morocco",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The Portuguese fortification of Mazagan, now part of the city of El Jadida, 90-km southwest of Casablanca, was built as a fortified colony on the Atlantic coast in the early 16th century. It was taken over by the Moroccans in 1769. The fortification with its bastions and ramparts is an early example of Renaissance military design. The surviving Portuguese buildings include the cistern and the Church of the Assumption, built in the Manueline style of late Gothic architecture. The Portuguese City of Mazagan - one of the early settlements of the Portuguese explorers in West Africa on the route to India - is an outstanding example of the interchange of influences between European and Moroccan cultures, well reflected in architecture, technology, and town planning.",
+  "danger": false,
+  "geojson": "portuguese-city-of-mazagan-el-jadida.geojson"
+}

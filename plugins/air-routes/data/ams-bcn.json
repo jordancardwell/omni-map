@@ -1,0 +1,18 @@
+{
+  "code": "ams-bcn",
+  "name": "Amsterdam — Barcelona",
+  "airports": [
+    "AMS",
+    "BCN"
+  ],
+  "distanceKm": 1241,
+  "weeklyFlights": 90,
+  "airlines": [
+    "KLM",
+    "Transavia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "AMS–BCN route between Amsterdam and Barcelona. Distance: 1,241 km. ~90 weekly flights operated by KLM, Transavia.",
+  "geojson": "ams-bcn.geojson"
+}

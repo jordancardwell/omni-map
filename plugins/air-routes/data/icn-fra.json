@@ -1,0 +1,18 @@
+{
+  "code": "icn-fra",
+  "name": "Seoul — Frankfurt",
+  "airports": [
+    "ICN",
+    "FRA"
+  ],
+  "distanceKm": 8544,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Korean Air",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ICN–FRA route between Seoul and Frankfurt. Distance: 8,544 km. ~25 weekly flights operated by Korean Air, Lufthansa.",
+  "geojson": "icn-fra.geojson"
+}

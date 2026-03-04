@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gw","name":"Guinea-Bissau","country":"GW","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-16.7,10.9],[-16.7,12.7],[-13.6,12.7],[-13.6,10.9],[-16.7,10.9]]]}}]}

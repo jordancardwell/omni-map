@@ -1,0 +1,14 @@
+{
+  "code": "hogmanay",
+  "name": "Hogmanay",
+  "festivalType": "Cultural",
+  "dateOrSeason": "December 31–January 1",
+  "origin": "Scottish tradition",
+  "estimatedAttendance": "150,000+ in Edinburgh",
+  "unescoICH": "Not inscribed",
+  "traditions": "Torchlight procession; fireworks over Edinburgh Castle; first-footing (visiting neighbors); ceilidh dancing; singing Auld Lang Syne.",
+  "historicalBackground": "Hogmanay's origins are debated — possibly from Norse Yule celebrations or Gaelic traditions. Scotland has celebrated New Year more intensely than Christmas for centuries.",
+  "description": "Scotland's world-famous New Year celebration, featuring Edinburgh's dramatic torchlight procession, fireworks, and the singing of Auld Lang Syne.",
+  "location": "Edinburgh, UK",
+  "geojson": "hogmanay.geojson"
+}

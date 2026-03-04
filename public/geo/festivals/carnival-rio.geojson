@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "code": "carnival-rio",
+        "name": "Carnival (Rio de Janeiro)",
+        "festivalType": "Religious",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Rio de Janeiro, Brazil"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "manzanillo-panama",
+  "name": "Manzanillo Intl Terminal",
+  "country": "Panama",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Panama Canal Route"
+  ],
+  "description": "Manzanillo Intl Terminal in Panama. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "manzanillo-panama.geojson"
+}

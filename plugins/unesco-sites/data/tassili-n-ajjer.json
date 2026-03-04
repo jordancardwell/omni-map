@@ -1,0 +1,17 @@
+{
+  "code": "tassili-n-ajjer",
+  "name": "Tassili n'Ajjer",
+  "type": "Mixed",
+  "country": "Algeria",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Arab States",
+  "description": "Located in a strange lunar landscape of great geological interest, this site has one of the most important groupings of prehistoric cave art in the world. More than 15,000 drawings and engravings record the climatic changes, the animal migrations and the evolution of human life on the edge of the Sahara from 6000 BC to the first centuries of the present era. The geological formations are of outstanding scenic interest, with eroded sandstones forming ‘forests of rock’.",
+  "danger": false,
+  "geojson": "tassili-n-ajjer.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "losar",
+  "name": "Losar (Tibetan New Year)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (varies)",
+  "origin": "Tibetan Buddhist tradition",
+  "estimatedAttendance": "6+ million Tibetans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Making khapse (fried pastries); hanging prayer flags; visiting monasteries; cham masked dances; offering torma (ritual cakes).",
+  "historicalBackground": "Losar has been celebrated for over 2,000 years, predating Buddhism in Tibet. It originally marked the winter solstice but was adjusted to the lunar calendar.",
+  "description": "The Tibetan New Year celebration, marked with monastery rituals, butter sculptures, and the hanging of fresh prayer flags.",
+  "location": "Lhasa, Tibet",
+  "geojson": "losar.geojson"
+}

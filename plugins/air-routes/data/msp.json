@@ -1,0 +1,12 @@
+{
+  "code": "msp",
+  "name": "Minneapolis-Saint Paul International",
+  "iataCode": "MSP",
+  "city": "Minneapolis",
+  "country": "United States",
+  "annualPassengers": 35500000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Minneapolis-Saint Paul International (MSP) in Minneapolis, United States. Annual passengers: ~35.5M. Classification: Regional Hub.",
+  "geojson": "msp.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "nowruz",
+  "name": "Nowruz",
+  "festivalType": "Religious",
+  "dateOrSeason": "March 20–21 (Spring Equinox)",
+  "origin": "Zoroastrian / Persian tradition",
+  "estimatedAttendance": "300+ million people",
+  "unescoICH": "Inscribed 2009",
+  "traditions": "Setting the Haft-sin table with seven symbolic items; jumping over bonfires (Chaharshanbe Suri); spring cleaning; visiting elders; 13-day celebration.",
+  "historicalBackground": "Nowruz has been celebrated for over 3,000 years, rooted in Zoroastrian traditions. It marks the Persian New Year and the spring equinox.",
+  "description": "The Persian New Year celebrating the spring equinox, observed across Iran, Central Asia, and diaspora communities with ancient Zoroastrian traditions.",
+  "location": "Tehran, Iran",
+  "geojson": "nowruz.geojson"
+}

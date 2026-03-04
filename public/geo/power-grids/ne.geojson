@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ne","name":"Niger","country":"NE","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[0.2,11.7],[0.2,23.5],[16,23.5],[16,11.7],[0.2,11.7]]]}}]}

@@ -1,0 +1,23 @@
+{
+  "code": "sikhism",
+  "name": "Sikhism",
+  "family": "Dharmic",
+  "foundingPeriod": "15th century CE",
+  "adherents": {
+    "estimated": 30000000,
+    "percentWorld": "0.4%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["India (Punjab)", "United Kingdom", "Canada", "United States", "Australia"],
+  "denominations": [
+    "Khalsa",
+    "Nihang",
+    "Namdhari",
+    "Nirankari",
+    "Udasi",
+    "Sahajdhari"
+  ],
+  "description": "Sikhism is a monotheistic religion founded by Guru Nanak in the Punjab region of South Asia. It emphasizes the oneness of God, equality of all people, selfless service, honest livelihood, and devotion through meditation on God's name. The Guru Granth Sahib is the central religious scripture and is regarded as the eternal living Guru.",
+  "historicalNotes": "Sikhism was founded by Guru Nanak (1469–1539) in the Punjab region. A succession of ten human Gurus shaped the tradition, culminating in Guru Gobind Singh, who established the Khalsa in 1699 and declared the Guru Granth Sahib as the eternal Guru. The Sikh Empire under Maharaja Ranjit Singh (1799–1849) controlled much of northwestern India. British colonial rule and the 1947 partition of India profoundly affected Sikh communities. Today, large Sikh diaspora communities exist in Canada, the UK, and the US.",
+  "geojson": "sikhism.geojson"
+}

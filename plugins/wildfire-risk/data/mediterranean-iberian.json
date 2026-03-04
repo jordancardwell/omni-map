@@ -1,0 +1,15 @@
+{
+  "code": "mediterranean-iberian",
+  "name": "Iberian Peninsula Mediterranean",
+  "region": "Europe",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "High — major fires annually across Portugal and Spain",
+  "dominantVegetation": "Mediterranean pine forests, eucalyptus plantations, maquis shrubland",
+  "fireSeasonMonths": "June – September",
+  "areaBurnedAnnual": "~200,000 ha average across Iberian Peninsula",
+  "seasonalPattern": "Summer heatwaves combined with Atlantic-driven drought create peak fire conditions from June through September. Portugal and Spain account for over 80% of southern Europe's burned area. Eucalyptus plantations, which burn with extreme intensity, have expanded dramatically. Heat records now routinely exceed 45°C, extending fire seasons.",
+  "historicalFires": ["2017 Portugal Fires (540K ha)", "2012 Spain Fires (210K ha)", "2003 Portugal Fires (426K ha)", "2006 Galicia Fires (190K ha)"],
+  "description": "The Iberian Peninsula is southern Europe's wildfire epicenter. Portugal's 2017 fire season killed 117 people and was the deadliest in European history. The combination of rural depopulation (reducing landscape management), eucalyptus monocultures (which burn with extreme intensity), and rapidly warming summers has created an escalating fire crisis. Portugal now averages 20,000 fires per year. Climate projections suggest fire-prone area in southern Europe will expand 40% by 2100.",
+  "geojson": "mediterranean-iberian.geojson"
+}

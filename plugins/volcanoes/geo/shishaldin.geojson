@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-163.97,54.7554]},"properties":{"code":"shishaldin","name":"Shishaldin Volcano","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2857,"lastEruption":"2023","vei":4}}]}

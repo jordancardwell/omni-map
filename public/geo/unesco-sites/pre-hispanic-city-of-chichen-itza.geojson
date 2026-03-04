@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.568654,
+          20.682739
+        ]
+      },
+      "properties": {
+        "code": "pre-hispanic-city-of-chichen-itza",
+        "name": "Pre-Hispanic City of Chichen-Itza",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

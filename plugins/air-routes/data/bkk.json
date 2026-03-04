@@ -1,0 +1,12 @@
+{
+  "code": "bkk",
+  "name": "Suvarnabhumi Airport",
+  "iataCode": "BKK",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "annualPassengers": 48000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Suvarnabhumi Airport (BKK) in Bangkok, Thailand. Annual passengers: ~48M. Classification: International Hub.",
+  "geojson": "bkk.geojson"
+}

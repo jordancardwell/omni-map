@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3536111111,
+          31.3155555556
+        ]
+      },
+      "properties": {
+        "code": "masada",
+        "name": "Masada",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

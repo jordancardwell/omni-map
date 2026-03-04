@@ -1,0 +1,14 @@
+{
+  "code": "national-day-mexico-revolution",
+  "name": "Mexican Revolution Day",
+  "festivalType": "National",
+  "dateOrSeason": "November 20",
+  "origin": "Mexican national",
+  "estimatedAttendance": "130+ million Mexicans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Civic parades; sports events (Revolution Race); speeches; school performances; cultural events.",
+  "historicalBackground": "Revolution Day marks November 20, 1910, when Francisco Madero called for armed revolt against dictator Porfirio Díaz, sparking the Mexican Revolution.",
+  "description": "Mexico's commemoration of the 1910 Revolution, honoring the struggle for democracy and social justice.",
+  "location": "Mexico City, Mexico",
+  "geojson": "national-day-mexico-revolution.geojson"
+}

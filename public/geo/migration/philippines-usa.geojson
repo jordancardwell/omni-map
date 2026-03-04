@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "philippines-usa", "name": "Philippines \u2192 United States", "migrantVolume": 4}, "geometry": {"type": "LineString", "coordinates": [[121, 14], [130, 18], [140, 22], [155, 28], [170, 32], [-175, 35], [-160, 37], [-145, 38], [-130, 36], [-118, 34]]}}]}

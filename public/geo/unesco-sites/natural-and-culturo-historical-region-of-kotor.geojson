@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7,
+          42.48333
+        ]
+      },
+      "properties": {
+        "code": "natural-and-culturo-historical-region-of-kotor",
+        "name": "Natural and Culturo-Historical Region of Kotor",
+        "type": "Cultural",
+        "country": "Montenegro",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

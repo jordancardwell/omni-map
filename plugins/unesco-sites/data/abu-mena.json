@@ -1,0 +1,14 @@
+{
+  "code": "abu-mena",
+  "name": "Abu Mena",
+  "type": "Cultural",
+  "country": "Egypt",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
+  "danger": false,
+  "geojson": "abu-mena.geojson"
+}

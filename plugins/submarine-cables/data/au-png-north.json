@@ -1,0 +1,16 @@
+{
+  "code": "au-png-north",
+  "name": "AU-PNG North",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 6844,
+  "yearLaid": 2015,
+  "rfsDate": "2015-06",
+  "owner": "Vocus",
+  "landingPoints": [
+    "Darwin, Australia",
+    "Port Moresby, Papua New Guinea"
+  ],
+  "description": "AU-PNG North connecting Darwin to Port Moresby.",
+  "geojson": "au-png-north.geojson"
+}

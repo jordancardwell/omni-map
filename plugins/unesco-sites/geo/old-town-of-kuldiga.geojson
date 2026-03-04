@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9715277778,
+          56.96775
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-kuldiga",
+        "name": "Old town of Kuldīga",
+        "type": "Cultural",
+        "country": "Latvia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

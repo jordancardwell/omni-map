@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9333333333,
+          33.7319444444
+        ]
+      },
+      "properties": {
+        "code": "anjar",
+        "name": "Anjar",
+        "type": "Cultural",
+        "country": "Lebanon",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

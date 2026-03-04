@@ -1,0 +1,18 @@
+{
+  "code": "mia-mco",
+  "name": "Miami — Orlando",
+  "airports": [
+    "MIA",
+    "MCO"
+  ],
+  "distanceKm": 310,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MIA–MCO route between Miami and Orlando. Distance: 310 km. ~60 weekly flights operated by American, Southwest.",
+  "geojson": "mia-mco.geojson"
+}

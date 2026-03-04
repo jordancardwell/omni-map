@@ -1,0 +1,21 @@
+{
+  "code": "marapi",
+  "name": "Mount Marapi",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 2891,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Sumatra",
+  "location": "Sumatra, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in Sumatra. An eruption in December 2023 killed 23 hikers near the summit.",
+  "description": "Mount Marapi is the most active volcano in Sumatra. Not to be confused with Merapi in Java, it has produced numerous eruptions threatening nearby communities.",
+  "geojson": "marapi.geojson"
+}

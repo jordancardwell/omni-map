@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33333,
+          24.83333
+        ]
+      },
+      "properties": {
+        "code": "rock-art-sites-of-tadrart-acacus",
+        "name": "Rock-Art Sites of Tadrart Acacus",
+        "type": "Cultural",
+        "country": "Libya",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

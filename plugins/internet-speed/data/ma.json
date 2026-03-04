@@ -1,0 +1,17 @@
+{
+  "code": "ma",
+  "name": "Morocco",
+  "avgDownloadMbps": 36.2,
+  "avgUploadMbps": 14.8,
+  "avgLatencyMs": 26,
+  "mobileDownloadMbps": 28.4,
+  "mobileUploadMbps": 6.4,
+  "fixedDownloadMbps": 36.2,
+  "fixedUploadMbps": 14.8,
+  "rank": 84,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "North Africa",
+  "dataYear": 2024,
+  "trendDescription": "North Africa's connectivity leader. ~15% year-over-year growth.",
+  "geojson": "ma.geojson"
+}

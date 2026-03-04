@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"north-indian","name":"North Indian Cuisine","region":"North India","country":"IN"},"geometry":{"type":"Polygon","coordinates":[[[68.7,23],[68.7,37],[88,37],[88,23],[68.7,23]]]}}]}

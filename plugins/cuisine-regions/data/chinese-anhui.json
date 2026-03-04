@@ -1,0 +1,33 @@
+{
+  "code": "chinese-anhui",
+  "name": "Anhui Cuisine (Hui)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Anhui cuisine draws heavily from wild ingredients foraged from the Huangshan mountain region. It features rustic, hearty dishes with a focus on stewing and the use of wild herbs, game, and mountain vegetables, reflecting the province's rugged geography.",
+  "signatureDishes": [
+    "Li Hongzhang Hodgepodge",
+    "Stewed Soft-Shell Turtle",
+    "Bamboo Shoots Cooked in Soy Sauce",
+    "Egg Dumplings"
+  ],
+  "keyIngredients": [
+    "Wild Herbs",
+    "Bamboo Shoots",
+    "Mushrooms",
+    "Ham",
+    "Freshwater Fish",
+    "Tea Leaves"
+  ],
+  "cookingTechniques": [
+    "Stewing",
+    "Braising",
+    "Steaming",
+    "Oil-blanching"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Anhui Province",
+    "Huangshan",
+    "Hefei"
+  ],
+  "geojson": "chinese-anhui.geojson"
+}

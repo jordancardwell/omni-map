@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8728,
+          -42.8528
+        ]
+      },
+      "properties": {
+        "code": "los-alerces-national-park",
+        "name": "Los Alerces National Park",
+        "type": "Natural",
+        "country": "Argentina",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

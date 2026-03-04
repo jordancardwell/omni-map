@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0,
+          -42.5
+        ]
+      },
+      "properties": {
+        "code": "peninsula-valdes",
+        "name": "Península Valdés",
+        "type": "Natural",
+        "country": "Argentina",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

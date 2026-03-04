@@ -1,0 +1,18 @@
+{
+  "code": "ctu-bkk",
+  "name": "Chengdu — Bangkok",
+  "airports": [
+    "CTU",
+    "BKK"
+  ],
+  "distanceKm": 1879,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Sichuan Airlines",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CTU–BKK route between Chengdu and Bangkok. Distance: 1,879 km. ~30 weekly flights operated by Sichuan Airlines, Thai Airways.",
+  "geojson": "ctu-bkk.geojson"
+}

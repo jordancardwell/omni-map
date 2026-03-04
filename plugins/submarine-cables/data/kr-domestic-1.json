@@ -1,0 +1,16 @@
+{
+  "code": "kr-domestic-1",
+  "name": "KR Domestic-1",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1051,
+  "yearLaid": 2009,
+  "rfsDate": "2014-06",
+  "owner": "SK Broadband",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Geoje, South Korea"
+  ],
+  "description": "KR Domestic-1 connecting Busan to Geoje in East Asia.",
+  "geojson": "kr-domestic-1.geojson"
+}

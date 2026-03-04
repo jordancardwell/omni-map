@@ -1,0 +1,17 @@
+{
+  "code": "af",
+  "name": "Tropical Rainforest",
+  "group": "A - Tropical",
+  "temperatureRange": "≥18°C all months (avg 25-28°C)",
+  "precipitationPattern": "No dry season; ≥60mm every month",
+  "vegetation": "Dense tropical rainforest with multiple canopy layers, high biodiversity",
+  "exampleCities": [
+    "Singapore",
+    "Kuala Lumpur",
+    "Manaus",
+    "Kisangani"
+  ],
+  "description": "Tropical rainforest climate (Af) is characterized by consistently high temperatures and heavy rainfall throughout the year. There is no distinct dry season, with every month receiving at least 60mm of precipitation. This climate supports the most biodiverse ecosystems on Earth, including the Amazon, Congo, and Southeast Asian rainforests.",
+  "typicalWeather": "Hot and humid year-round with daily afternoon thunderstorms. Temperatures rarely drop below 18°C or exceed 35°C. Relative humidity stays above 80%. Cloud cover is frequent, and rainfall totals often exceed 2000mm annually.",
+  "geojson": "af.geojson"
+}

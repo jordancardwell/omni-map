@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4697,
+          12.607909
+        ]
+      },
+      "properties": {
+        "code": "fasil-ghebbi-gondar-region",
+        "name": "Fasil Ghebbi, Gondar Region",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

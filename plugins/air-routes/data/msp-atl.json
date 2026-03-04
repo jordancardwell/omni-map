@@ -1,0 +1,17 @@
+{
+  "code": "msp-atl",
+  "name": "Minneapolis — Atlanta",
+  "airports": [
+    "MSP",
+    "ATL"
+  ],
+  "distanceKm": 1460,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MSP–ATL route between Minneapolis and Atlanta. Distance: 1,460 km. ~60 weekly flights operated by Delta.",
+  "geojson": "msp-atl.geojson"
+}

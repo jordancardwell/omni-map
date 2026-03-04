@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.771666667,
+          52.63861111
+        ]
+      },
+      "properties": {
+        "code": "schokland-and-surroundings",
+        "name": "Schokland and Surroundings",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

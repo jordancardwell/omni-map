@@ -1,0 +1,16 @@
+{
+  "code": "gt-mx-cable",
+  "name": "GT-MX Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2643,
+  "yearLaid": 2020,
+  "rfsDate": "2021-06",
+  "owner": "Telmex",
+  "landingPoints": [
+    "Guatemala City, Guatemala",
+    "Cancún, Mexico"
+  ],
+  "description": "GT-MX Cable connecting Guatemala City to Cancún in the Caribbean region.",
+  "geojson": "gt-mx-cable.geojson"
+}

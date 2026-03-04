@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "code": "cherry-blossom-japan",
+        "name": "Hanami (Cherry Blossom Viewing)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Late March–April",
+        "location": "Tokyo, Japan"
+      }
+    }
+  ]
+}

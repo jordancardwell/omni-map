@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.3333333,
+          15.88333333
+        ]
+      },
+      "properties": {
+        "code": "hoi-an-ancient-town",
+        "name": "Hoi An Ancient Town",
+        "type": "Cultural",
+        "country": "Viet Nam",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

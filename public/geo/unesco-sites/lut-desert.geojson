@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8388888889,
+          30.2161111111
+        ]
+      },
+      "properties": {
+        "code": "lut-desert",
+        "name": "Lut Desert",
+        "type": "Natural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

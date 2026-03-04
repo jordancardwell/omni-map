@@ -1,0 +1,38 @@
+{
+  "code": "greek",
+  "name": "Greek Cuisine",
+  "cuisineFamily": "Mediterranean",
+  "description": "Greek cuisine embodies the Mediterranean diet with its emphasis on olive oil, fresh vegetables, grains, fish, and moderate wine consumption. Rooted in ancient traditions, it celebrates simplicity, communal dining, and seasonal ingredients. Mezze culture and outdoor grilling are central to the Greek food experience.",
+  "signatureDishes": [
+    "Moussaka",
+    "Souvlaki",
+    "Spanakopita",
+    "Greek Salad",
+    "Gyros",
+    "Baklava"
+  ],
+  "keyIngredients": [
+    "Olive Oil",
+    "Feta Cheese",
+    "Oregano",
+    "Lemon",
+    "Honey",
+    "Phyllo Dough"
+  ],
+  "cookingTechniques": [
+    "Charcoal grilling",
+    "Phyllo pastry baking",
+    "Slow roasting",
+    "Marinating",
+    "Olive oil poaching"
+  ],
+  "unescoRecognition": "Mediterranean diet inscribed on UNESCO list (2013, shared with other Mediterranean countries)",
+  "keyRegions": [
+    "Athens",
+    "Crete",
+    "Peloponnese",
+    "Thessaloniki",
+    "Greek Islands"
+  ],
+  "geojson": "greek.geojson"
+}

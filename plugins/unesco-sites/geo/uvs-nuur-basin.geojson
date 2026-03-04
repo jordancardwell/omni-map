@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.71972222,
+          50.275
+        ]
+      },
+      "properties": {
+        "code": "uvs-nuur-basin",
+        "name": "Uvs Nuur Basin",
+        "type": "Natural",
+        "country": "Mongolia, Russian Federation",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

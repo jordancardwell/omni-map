@@ -1,0 +1,16 @@
+{
+  "code": "kw-bh-cable",
+  "name": "KW-BH Cable",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 625,
+  "yearLaid": 2019,
+  "rfsDate": "2019-06",
+  "owner": "Zain",
+  "landingPoints": [
+    "Kuwait City, Kuwait",
+    "Manama, Bahrain"
+  ],
+  "description": "KW-BH Cable connecting Kuwait City to Manama.",
+  "geojson": "kw-bh-cable.geojson"
+}

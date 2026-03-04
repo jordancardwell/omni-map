@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"na","name":"Namibia","country":"NA","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[11.7,-29],[11.7,-17],[25.3,-17],[25.3,-29],[11.7,-29]]]}}]}

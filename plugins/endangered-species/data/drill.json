@@ -1,0 +1,18 @@
+{
+  "code": "drill",
+  "name": "Drill",
+  "scientificName": "Mandrillus leucophaeus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~3,000-8,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland forest",
+  "threats": [
+    "Habitat loss",
+    "Bushmeat hunting",
+    "Logging"
+  ],
+  "conservationEfforts": "Pandrillus Foundation in Nigeria operates rehabilitation centers. Cross River National Park protects core habitat. Captive breeding programs in several countries.",
+  "description": "One of Africa's most endangered primates, closely related to the mandrill. Males have a bright red lower lip and blue-purple rump. Found only in Nigeria, Cameroon, and Bioko Island.",
+  "geojson": "drill.geojson"
+}

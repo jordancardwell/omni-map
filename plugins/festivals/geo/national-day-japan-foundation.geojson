@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      },
+      "properties": {
+        "code": "national-day-japan-foundation",
+        "name": "National Foundation Day (Japan)",
+        "festivalType": "National",
+        "dateOrSeason": "February 11",
+        "location": "Osaka, Japan"
+      }
+    }
+  ]
+}

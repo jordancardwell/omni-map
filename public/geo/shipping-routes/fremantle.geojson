@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"fremantle","name":"Port of Fremantle","featureType":"port","portType":"Container Port","country":"Australia"},"geometry":{"type":"Point","coordinates":[115.74,-32.05]}}]}

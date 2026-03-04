@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.337798,
+          20.676888
+        ]
+      },
+      "properties": {
+        "code": "hospicio-cabanas-guadalajara",
+        "name": "Hospicio Cabañas, Guadalajara",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

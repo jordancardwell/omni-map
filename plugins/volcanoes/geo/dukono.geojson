@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[127.894,1.693]},"properties":{"code":"dukono","name":"Dukono","volcanoType":"Complex volcano","status":"Erupting/Recent","elevation":1229,"lastEruption":"2023","vei":2}}]}

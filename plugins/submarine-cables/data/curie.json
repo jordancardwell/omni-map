@@ -1,0 +1,16 @@
+{
+  "code": "curie",
+  "name": "Curie",
+  "capacityTbps": 72,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10500,
+  "yearLaid": 2019,
+  "rfsDate": "2019-12",
+  "owner": "Google",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Valparaíso, Chile"
+  ],
+  "description": "Google's private cable named after Marie Curie, connecting the US West Coast to Chile.",
+  "geojson": "curie.geojson"
+}

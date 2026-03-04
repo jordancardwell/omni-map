@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-the-city-of-pienza",
+  "name": "Historic Centre of the City of Pienza",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "It was in this Tuscan town that Renaissance town-planning concepts were first put into practice after Pope Pius II decided, in 1459, to transform the look of his birthplace. He chose the architect Bernardo Rossellino, who applied the principles of his mentor, Leon Battista Alberti. This new vision of urban space was realized in the superb square known as Piazza Pio II and the buildings around it: the Piccolomini Palace, the Borgia Palace and the cathedral with its pure Renaissance exterior and an interior in the late Gothic style of south German churches.",
+  "danger": false,
+  "geojson": "historic-centre-of-the-city-of-pienza.geojson"
+}

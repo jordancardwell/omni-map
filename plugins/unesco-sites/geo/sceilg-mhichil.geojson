@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.53861,
+          51.77194
+        ]
+      },
+      "properties": {
+        "code": "sceilg-mhichil",
+        "name": "Sceilg Mhichíl",
+        "type": "Cultural",
+        "country": "Ireland",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

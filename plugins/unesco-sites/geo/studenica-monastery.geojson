@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5316666667,
+          43.4865277778
+        ]
+      },
+      "properties": {
+        "code": "studenica-monastery",
+        "name": "Studenica Monastery",
+        "type": "Cultural",
+        "country": "Serbia",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "new-caledonia-barrier-reef",
+  "name": "New Caledonia Barrier Reef",
+  "location": "New Caledonia, France",
+  "areaKm2": 40000,
+  "reefType": "Barrier",
+  "healthStatus": "Near Threatened",
+  "coralSpecies": 350,
+  "marineSpecies": 2300,
+  "threats": [
+    "Nickel mining runoff",
+    "Ocean acidification",
+    "Invasive species",
+    "Cyclones",
+    "Coastal development"
+  ],
+  "conservationStatus": "Lagoons of New Caledonia is a UNESCO World Heritage Site since 2008. Marine protected areas cover significant portions of the lagoon system.",
+  "description": "The New Caledonia Barrier Reef is the world's second-longest double barrier reef at 1,500 km, enclosing one of the world's largest lagoons at 24,000 km². Located in the southwest Pacific Ocean, it is one of the most pristine reef systems remaining.\n\nThe reef's exceptional biodiversity includes dugongs, sea turtles, and endemic species found nowhere else. Its relative isolation has helped protect it from some human impacts, though climate change and mining activities on the main island pose ongoing threats.",
+  "geojson": "new-caledonia-barrier-reef.geojson"
+}

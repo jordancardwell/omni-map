@@ -1,0 +1,12 @@
+{
+  "code": "site-giza",
+  "name": "Pyramids of Giza",
+  "period": "c. 2580–2510 BCE",
+  "region": "Africa",
+  "type": "Archaeological Site",
+  "writingSystem": "Hieroglyphics",
+  "majorAchievements": ["Great Pyramid (one of Seven Wonders)", "Precise astronomical alignment", "Massive limestone construction", "The Great Sphinx"],
+  "keyCities": ["Giza"],
+  "description": "The Pyramids of Giza, located on the outskirts of modern Cairo, are the most iconic monuments of Ancient Egypt and the only surviving wonder of the ancient world. The Great Pyramid of Khufu stood as the tallest human-made structure for nearly 4,000 years. The precision of their construction — aligned to within fractions of a degree to true north — continues to inspire awe and scholarly debate.",
+  "geojson": "site-giza.geojson"
+}

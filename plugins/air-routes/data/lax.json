@@ -1,0 +1,12 @@
+{
+  "code": "lax",
+  "name": "Los Angeles International",
+  "iataCode": "LAX",
+  "city": "Los Angeles",
+  "country": "United States",
+  "annualPassengers": 65900000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Los Angeles International (LAX) in Los Angeles, United States. Annual passengers: ~65.9M. Classification: Major Hub.",
+  "geojson": "lax.geojson"
+}

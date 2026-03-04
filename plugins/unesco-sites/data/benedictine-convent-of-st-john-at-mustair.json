@@ -1,0 +1,14 @@
+{
+  "code": "benedictine-convent-of-st-john-at-mustair",
+  "name": "Benedictine Convent of St John at Müstair",
+  "type": "Cultural",
+  "country": "Switzerland",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Convent of Müstair, which stands in a valley in the Grisons, is a good example of Christian monastic renovation during the Carolingian period. It has Switzerland's greatest series of figurative murals, painted c. A.D. 800, along with Romanesque frescoes and stuccoes.",
+  "danger": false,
+  "geojson": "benedictine-convent-of-st-john-at-mustair.geojson"
+}

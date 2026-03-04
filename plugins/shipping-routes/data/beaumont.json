@@ -1,0 +1,14 @@
+{
+  "code": "beaumont",
+  "name": "Port of Beaumont",
+  "country": "United States",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 100,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Beaumont in United States. Annual cargo throughput: ~100 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "beaumont.geojson"
+}

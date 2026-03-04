@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1958333333,
+          61.7072222222
+        ]
+      },
+      "properties": {
+        "code": "decorated-farmhouses-of-halsingland",
+        "name": "Decorated Farmhouses of Hälsingland",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

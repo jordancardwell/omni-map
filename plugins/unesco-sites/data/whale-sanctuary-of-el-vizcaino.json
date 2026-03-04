@@ -1,0 +1,14 @@
+{
+  "code": "whale-sanctuary-of-el-vizcaino",
+  "name": "Whale Sanctuary of El Vizcaino",
+  "type": "Natural",
+  "country": "Mexico",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Located in the central part of the peninsula of Baja California, the sanctuary contains some exceptionally interesting ecosystems. The coastal lagoons of Ojo de Liebre and San Ignacio are important reproduction and wintering sites for the grey whale, harbour seal, California sea lion, northern elephant-seal and blue whale. The lagoons are also home to four species of the endangered marine turtle.",
+  "danger": false,
+  "geojson": "whale-sanctuary-of-el-vizcaino.geojson"
+}

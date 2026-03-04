@@ -1,0 +1,16 @@
+{
+  "code": "ci-lr-cable",
+  "name": "CI-LR Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 515,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "MTN",
+  "landingPoints": [
+    "Abidjan, Ivory Coast",
+    "Monrovia, Liberia"
+  ],
+  "description": "CI-LR Cable connecting Abidjan to Monrovia along the African coast.",
+  "geojson": "ci-lr-cable.geojson"
+}

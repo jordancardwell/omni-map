@@ -1,0 +1,17 @@
+{
+  "code": "amiti",
+  "name": "Amitié",
+  "capacityTbps": 400,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 6800,
+  "yearLaid": 2021,
+  "rfsDate": "2022-12",
+  "owner": "Microsoft, Meta, Aqua Comms",
+  "landingPoints": [
+    "Lynn, USA",
+    "Bude, UK",
+    "Le Porge, France"
+  ],
+  "description": "Ultra-high-capacity transatlantic cable with 400 Tbps, designed for cloud and content provider traffic.",
+  "geojson": "amiti.geojson"
+}

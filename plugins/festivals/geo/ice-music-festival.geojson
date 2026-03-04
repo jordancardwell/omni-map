@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95,
+          69.7
+        ]
+      },
+      "properties": {
+        "code": "ice-music-festival",
+        "name": "Ice Music Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February",
+        "location": "Tromsø, Norway"
+      }
+    }
+  ]
+}

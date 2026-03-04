@@ -1,0 +1,18 @@
+{
+  "code": "nrt-lhr",
+  "name": "Tokyo — London",
+  "airports": [
+    "NRT",
+    "LHR"
+  ],
+  "distanceKm": 9591,
+  "weeklyFlights": 25,
+  "airlines": [
+    "British Airways",
+    "ANA"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "NRT–LHR route between Tokyo and London. Distance: 9,591 km. ~25 weekly flights operated by British Airways, ANA.",
+  "geojson": "nrt-lhr.geojson"
+}

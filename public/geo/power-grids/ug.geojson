@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ug","name":"Uganda","country":"UG","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[29.6,-1.5],[29.6,4.2],[35,4.2],[35,-1.5],[29.6,-1.5]]]}}]}

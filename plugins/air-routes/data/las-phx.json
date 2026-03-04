@@ -1,0 +1,18 @@
+{
+  "code": "las-phx",
+  "name": "Las Vegas — Phoenix",
+  "airports": [
+    "LAS",
+    "PHX"
+  ],
+  "distanceKm": 411,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAS–PHX route between Las Vegas and Phoenix. Distance: 411 km. ~80 weekly flights operated by Southwest, Spirit.",
+  "geojson": "las-phx.geojson"
+}

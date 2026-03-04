@@ -1,0 +1,18 @@
+{
+  "code": "dfb",
+  "name": "Warm-Summer Humid Continental",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month <22°C; coldest month <0°C",
+  "precipitationPattern": "Year-round precipitation; reliable snowfall in winter",
+  "vegetation": "Mixed deciduous-conifer forest, birch woodland, productive farmland",
+  "exampleCities": [
+    "Moscow",
+    "Helsinki",
+    "Ottawa",
+    "Stockholm",
+    "Warsaw"
+  ],
+  "description": "Warm-summer humid continental climate (Dfb) is widespread across the northern mid-latitudes. Summers are warm but not extreme, and winters are reliably cold with significant snowfall. Found across Scandinavia, Eastern Europe, Russia, and central Canada. Four distinct seasons are well-defined.",
+  "typicalWeather": "Warm summers (18-22°C) with moderate rainfall. Cold winters (-5 to -15°C) with regular snowfall and persistent snow cover. Spring thaw brings mud season. Long autumn with gradual cooling. Annual precipitation 500-900mm.",
+  "geojson": "dfb.geojson"
+}

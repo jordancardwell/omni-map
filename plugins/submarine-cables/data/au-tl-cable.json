@@ -1,0 +1,16 @@
+{
+  "code": "au-tl-cable",
+  "name": "AU-TL Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2395,
+  "yearLaid": 2020,
+  "rfsDate": "2019-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Darwin, Australia",
+    "Dili, Timor-Leste"
+  ],
+  "description": "AU-TL Cable connecting Darwin to Dili in the Pacific.",
+  "geojson": "au-tl-cable.geojson"
+}

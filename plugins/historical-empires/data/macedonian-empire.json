@@ -1,0 +1,25 @@
+{
+  "code": "macedonian-empire",
+  "name": "Macedonian Empire (Alexander)",
+  "era": "Ancient",
+  "peakYear": "323 BCE",
+  "areaAtPeakKm2": 5200000,
+  "populationEstimate": "50 million",
+  "capital": "Babylon",
+  "keyAchievements": [
+    "Hellenistic culture spread",
+    "Alexandria founded",
+    "East-West cultural fusion",
+    "Military innovation",
+    "Scientific patronage"
+  ],
+  "declineFactors": [
+    "Alexander's death",
+    "Wars of the Diadochi",
+    "Empire fragmentation",
+    "No succession plan",
+    "Overextension"
+  ],
+  "description": "Alexander the Great's empire was built in just 13 years (336–323 BCE) through one of history's most remarkable military campaigns. Starting from Macedonia, Alexander conquered the Persian Empire, Egypt, and territories as far east as India.\n\nAlexander's conquests spread Greek culture across a vast area, creating the Hellenistic world that blended Greek, Persian, Egyptian, and Indian traditions. Though the empire fractured immediately after his death, the cultural synthesis he initiated shaped civilization for centuries.",
+  "geojson": "macedonian-empire.geojson"
+}

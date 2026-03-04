@@ -1,0 +1,19 @@
+{
+  "code": "atl-mco",
+  "name": "Atlanta — Orlando",
+  "airports": [
+    "ATL",
+    "MCO"
+  ],
+  "distanceKm": 651,
+  "weeklyFlights": 120,
+  "airlines": [
+    "Delta",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–MCO route between Atlanta and Orlando. Distance: 651 km. ~120 weekly flights operated by Delta, Southwest, Spirit.",
+  "geojson": "atl-mco.geojson"
+}

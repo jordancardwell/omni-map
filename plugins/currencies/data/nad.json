@@ -1,0 +1,16 @@
+{
+  "code": "nad",
+  "name": "Namibian Dollar",
+  "isoCode": "NAD",
+  "symbol": "N$",
+  "region": "Africa",
+  "centralBank": "Bank of Namibia",
+  "exchangeRateEra": "Pegged to ZAR at par",
+  "countries": [
+    "Namibia"
+  ],
+  "countryCount": 1,
+  "description": "The Namibian Dollar is pegged at par with the South African Rand. Both currencies are legal tender in Namibia.",
+  "historicalNotes": "Introduced in 1993, three years after Namibia gained independence from South Africa. The country is known for its diamond mining and tourism.",
+  "geojson": "nad.geojson"
+}

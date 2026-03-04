@@ -1,0 +1,19 @@
+{
+  "code": "beluga-sturgeon",
+  "name": "Beluga Sturgeon",
+  "scientificName": "Huso huso",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely depleted",
+  "populationTrend": "Decreasing",
+  "habitatType": "Caspian Sea and rivers",
+  "threats": [
+    "Overfishing for caviar",
+    "Dam construction",
+    "Pollution",
+    "Poaching"
+  ],
+  "conservationEfforts": "CITES regulates international caviar trade. Aquaculture reduces pressure on wild stocks. Caspian Sea countries coordinate conservation. Restocking programs release juveniles.",
+  "description": "The largest freshwater fish in the world by weight, historically reaching 7 meters and 1,500 kg. Prized for its caviar (beluga caviar can cost $10,000/kg), it has been fished to near extinction.",
+  "geojson": "beluga-sturgeon.geojson"
+}

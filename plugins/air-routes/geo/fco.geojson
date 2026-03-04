@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"fco","name":"Rome Fiumicino","featureType":"airport","iataCode":"FCO","annualPassengers":36500000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[12.2389,41.8003]}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.36667,
+          37.08056
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-mystras",
+        "name": "Archaeological Site of Mystras",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1989"
+      }
+    }
+  ]
+}

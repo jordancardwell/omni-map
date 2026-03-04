@@ -1,0 +1,17 @@
+{
+  "code": "dxb-mad",
+  "name": "Dubai — Madrid",
+  "airports": [
+    "DXB",
+    "MAD"
+  ],
+  "distanceKm": 5649,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–MAD route between Dubai and Madrid. Distance: 5,649 km. ~25 weekly flights operated by Emirates.",
+  "geojson": "dxb-mad.geojson"
+}

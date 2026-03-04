@@ -1,0 +1,18 @@
+{
+  "code": "pakistan-saudi",
+  "name": "Pakistan \u2192 Saudi Arabia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Pakistan \u2192 Saudi Arabia",
+  "badgeValue": "~1.5 million",
+  "origin": "Pakistan",
+  "destination": "Saudi Arabia",
+  "estimatedMigrants": "~1.5 million",
+  "drivers": [
+    "Construction labor",
+    "Religious ties",
+    "Wage premium",
+    "Recruitment networks"
+  ],
+  "description": "Pakistani workers form a large expatriate community in Saudi Arabia, concentrated in construction, transportation, and services. Religious ties and Hajj pilgrimage create additional flows. Recruitment agencies play a significant role in facilitating migration, though reports of exploitative practices persist. Remittances from Saudi Arabia are critical to Pakistan's economy.",
+  "geojson": "pakistan-saudi.geojson"
+}

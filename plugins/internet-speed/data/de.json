@@ -1,0 +1,17 @@
+{
+  "code": "de",
+  "name": "Germany",
+  "avgDownloadMbps": 164.7,
+  "avgUploadMbps": 48.2,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 61.3,
+  "mobileUploadMbps": 12.8,
+  "fixedDownloadMbps": 164.7,
+  "fixedUploadMbps": 48.2,
+  "rank": 24,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Accelerating fiber deployment after lagging behind neighbors. ~17% year-over-year growth.",
+  "geojson": "de.geojson"
+}

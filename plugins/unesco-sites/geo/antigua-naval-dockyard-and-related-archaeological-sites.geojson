@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7616666667,
+          17.0069444444
+        ]
+      },
+      "properties": {
+        "code": "antigua-naval-dockyard-and-related-archaeological-sites",
+        "name": "Antigua Naval Dockyard and Related Archaeological Sites",
+        "type": "Cultural",
+        "country": "Antigua and Barbuda",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.28333,
+          58.53333
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-of-novgorod-and-surroundings",
+        "name": "Historic Monuments of Novgorod and Surroundings",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

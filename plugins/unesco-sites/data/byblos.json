@@ -1,0 +1,15 @@
+{
+  "code": "byblos",
+  "name": "Byblos",
+  "type": "Cultural",
+  "country": "Lebanon",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The ruins of many successive civilizations are found at Byblos, one of the oldest Phoenician cities. Inhabited since Neolithic times, it has been closely linked to the legends and history of the Mediterranean region for thousands of years. Byblos is also directly associated with the history and diffusion of the Phoenician alphabet.",
+  "danger": false,
+  "geojson": "byblos.geojson"
+}

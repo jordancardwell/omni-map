@@ -1,0 +1,19 @@
+{
+  "code": "north-atlantic-right-whale",
+  "name": "North Atlantic Right Whale",
+  "scientificName": "Eubalaena glacialis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~350 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Temperate ocean",
+  "threats": [
+    "Ship strikes",
+    "Entanglement in fishing gear",
+    "Ocean noise",
+    "Climate change"
+  ],
+  "conservationEfforts": "Seasonal speed restrictions for ships. Ropeless fishing gear development. Dynamic management areas based on whale sightings close areas to fishing temporarily.",
+  "description": "One of the world's most endangered large whales. They migrate along the eastern coast of North America and are particularly vulnerable to ship strikes and entanglement in lobster and crab fishing gear.",
+  "geojson": "north-atlantic-right-whale.geojson"
+}

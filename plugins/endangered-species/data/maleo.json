@@ -1,0 +1,18 @@
+{
+  "code": "maleo",
+  "name": "Maleo",
+  "scientificName": "Macrocephalon maleo",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~4,000-7,000 pairs",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland forest",
+  "threats": [
+    "Egg collection",
+    "Habitat loss",
+    "Predation by feral animals"
+  ],
+  "conservationEfforts": "Alliance for Tompotika Conservation protects nesting grounds. Community-based egg harvest management. Research into geothermal nesting site ecology.",
+  "description": "Found only on Sulawesi, Indonesia, the maleo buries its enormous eggs in volcanically heated sand or sun-warmed beaches. Its eggs are 5 times the size of a chicken egg relative to body weight.",
+  "geojson": "maleo.geojson"
+}

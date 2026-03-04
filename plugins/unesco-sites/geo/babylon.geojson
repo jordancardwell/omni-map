@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4208333333,
+          32.5419694444
+        ]
+      },
+      "properties": {
+        "code": "babylon",
+        "name": "Babylon",
+        "type": "Cultural",
+        "country": "Iraq",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

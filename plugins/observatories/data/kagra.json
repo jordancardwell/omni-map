@@ -1,0 +1,20 @@
+{
+  "code": "kagra",
+  "name": "KAGRA",
+  "country": "Japan",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 414,
+  "aperture": "3 km arms",
+  "telescopes": [
+    "KAGRA"
+  ],
+  "keyDiscoveries": [
+    "Underground GW detector technology",
+    "Cryogenic mirror operations",
+    "Joining LIGO-Virgo network"
+  ],
+  "location": "KAGRA, Japan",
+  "description": "The Kamioka Gravitational-Wave Detector, built underground in the Kamioka mine. The first gravitational wave detector to use cryogenic mirrors.",
+  "geojson": "kagra.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "asmara-a-modernist-african-city",
+  "name": "Asmara: A Modernist African City",
+  "type": "Cultural",
+  "country": "Eritrea",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "Located at over 2,000 m above sea level, the capital of Eritrea developed from the 1890s onwards as a military outpost for the Italian colonial power. After 1935, Asmara underwent a large scale programme of construction applying the Italian rationalist idiom of the time to governmental edifices, residential and commercial buildings, churches, mosques, synagogues, cinemas, hotels, etc. The property encompasses the area of the city that resulted from various phases of planning between 1893 and 1941, as well as the indigenous unplanned neighbourhoods of Arbate Asmera and Abbashawel. It is an exceptional example of early modernist urbanism at the beginning of the 20th century and its application in an African context.",
+  "danger": false,
+  "geojson": "asmara-a-modernist-african-city.geojson"
+}

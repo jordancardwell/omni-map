@@ -1,0 +1,18 @@
+{
+  "code": "ncp-new-cross-pacific",
+  "name": "NCP (New Cross Pacific)",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13600,
+  "yearLaid": 2017,
+  "rfsDate": "2018-11",
+  "owner": "China Mobile, TE SubCom",
+  "landingPoints": [
+    "Hillsboro, USA",
+    "Tokyo, Japan",
+    "Busan, South Korea",
+    "Chongming, China"
+  ],
+  "description": "New Cross Pacific cable system linking North America to Asia.",
+  "geojson": "ncp-new-cross-pacific.geojson"
+}

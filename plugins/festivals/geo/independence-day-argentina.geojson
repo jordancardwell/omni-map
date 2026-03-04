@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3816,
+          -34.6037
+        ]
+      },
+      "properties": {
+        "code": "independence-day-argentina",
+        "name": "Independence Day (Argentina)",
+        "festivalType": "National",
+        "dateOrSeason": "July 9",
+        "location": "Buenos Aires, Argentina"
+      }
+    }
+  ]
+}

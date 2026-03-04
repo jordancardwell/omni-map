@@ -1,0 +1,19 @@
+{
+  "code": "lax-den",
+  "name": "Los Angeles — Denver",
+  "airports": [
+    "LAX",
+    "DEN"
+  ],
+  "distanceKm": 1385,
+  "weeklyFlights": 100,
+  "airlines": [
+    "United",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LAX–DEN route between Los Angeles and Denver. Distance: 1,385 km. ~100 weekly flights operated by United, Southwest, Spirit.",
+  "geojson": "lax-den.geojson"
+}

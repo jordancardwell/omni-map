@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.73583,
+          -15.03417
+        ]
+      },
+      "properties": {
+        "code": "island-of-mozambique",
+        "name": "Island of Mozambique",
+        "type": "Cultural",
+        "country": "Mozambique",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1872222,
+          41.15694444
+        ]
+      },
+      "properties": {
+        "code": "capital-cities-and-tombs-of-the-ancient-koguryo-kingdom",
+        "name": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "antwerp",
+  "name": "Port of Antwerp-Bruges",
+  "country": "Belgium",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 290,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "Suez Canal Route"
+  ],
+  "description": "Port of Antwerp-Bruges in Belgium. Annual cargo throughput: ~290 million tons. Type: Container Port.",
+  "geojson": "antwerp.geojson"
+}

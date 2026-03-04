@@ -1,0 +1,19 @@
+{
+  "code": "tasmanian-wilderness",
+  "name": "Tasmanian Wilderness",
+  "type": "Mixed",
+  "country": "Australia",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "In a region that has been subjected to severe glaciation, these parks and reserves, with their steep gorges, covering an area of over 1 million ha, constitute one of the last expanses of temperate rainforest in the world. Remains found in limestone caves attest to the human occupation of the area for more than 20,000 years.",
+  "danger": false,
+  "geojson": "tasmanian-wilderness.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82222,
+          32.75417
+        ]
+      },
+      "properties": {
+        "code": "huanglong-scenic-and-historic-interest-area",
+        "name": "Huanglong Scenic and Historic Interest Area",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

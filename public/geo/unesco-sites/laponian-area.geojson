@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.58333,
+          67.33333
+        ]
+      },
+      "properties": {
+        "code": "laponian-area",
+        "name": "Laponian Area",
+        "type": "Mixed",
+        "country": "Sweden",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

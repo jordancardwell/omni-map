@@ -1,0 +1,16 @@
+{
+  "code": "hammaguir-b2",
+  "name": "Hammaguir (Brigitte & Bacchus pads)",
+  "country": "Algeria (French-operated)",
+  "operator": "French Armed Forces",
+  "coordinates": "31.6100°N, 3.0650°W",
+  "status": "Historical",
+  "notableLaunches": [
+    "Precious Stones series (Agate, Topaz, Emerald, Ruby, Sapphire)",
+    "French sounding rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Hammaguir (Brigitte & Bacchus pads), Algeria (French-operated)",
+  "description": "French military and research launch pads at the Hammaguir complex in Algeria. Named after cocktails, these pads supported France's early sounding rocket and missile development programs.",
+  "geojson": "hammaguir-b2.geojson"
+}

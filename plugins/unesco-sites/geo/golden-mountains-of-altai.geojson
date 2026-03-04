@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0,
+          50.46666667
+        ]
+      },
+      "properties": {
+        "code": "golden-mountains-of-altai",
+        "name": "Golden Mountains of Altai",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

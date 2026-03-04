@@ -1,0 +1,37 @@
+{
+  "code": "vietnamese",
+  "name": "Vietnamese Cuisine",
+  "cuisineFamily": "Southeast Asian",
+  "description": "Vietnamese cuisine is celebrated for its fresh herbs, light flavors, and the balance of salty, sweet, sour, and spicy elements. Each dish typically features contrasting textures and temperatures. Regional variations from north to south reflect different climates and cultural influences.",
+  "signatureDishes": [
+    "Phở",
+    "Bánh Mì",
+    "Gỏi Cuốn",
+    "Bún Chả",
+    "Cà Phê Sữa Đá",
+    "Bánh Xèo"
+  ],
+  "keyIngredients": [
+    "Fish Sauce",
+    "Fresh Herbs",
+    "Rice Noodles",
+    "Lime",
+    "Lemongrass",
+    "Chili"
+  ],
+  "cookingTechniques": [
+    "Broth simmering (phở)",
+    "Fresh rolling",
+    "Charcoal grilling",
+    "Wok stir-frying"
+  ],
+  "unescoRecognition": "None specific; Vietnamese street food culture internationally acclaimed",
+  "keyRegions": [
+    "Hanoi",
+    "Ho Chi Minh City",
+    "Hue",
+    "Da Nang",
+    "Mekong Delta"
+  ],
+  "geojson": "vietnamese.geojson"
+}

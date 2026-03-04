@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44333,
+          30.33056
+        ]
+      },
+      "properties": {
+        "code": "petra",
+        "name": "Petra",
+        "type": "Cultural",
+        "country": "Jordan",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

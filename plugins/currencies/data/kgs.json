@@ -1,0 +1,16 @@
+{
+  "code": "kgs",
+  "name": "Kyrgyzstani Som",
+  "isoCode": "KGS",
+  "symbol": "сом",
+  "region": "Asia",
+  "centralBank": "National Bank of the Kyrgyz Republic",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Kyrgyzstan"
+  ],
+  "countryCount": 1,
+  "description": "The Kyrgyzstani Som means 'pure' in Kyrgyz, referring to pure gold.",
+  "historicalNotes": "Introduced in 1993 after independence from the Soviet Union. Kyrgyzstan was one of the first Central Asian countries to adopt market-oriented reforms.",
+  "geojson": "kgs.geojson"
+}

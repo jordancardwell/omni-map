@@ -1,0 +1,16 @@
+{
+  "code": "tz-mz-cable",
+  "name": "TZ-MZ Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1266,
+  "yearLaid": 2016,
+  "rfsDate": "2019-06",
+  "owner": "Vodacom",
+  "landingPoints": [
+    "Dar es Salaam, Tanzania",
+    "Maputo, Mozambique"
+  ],
+  "description": "TZ-MZ Cable connecting Dar es Salaam to Maputo along the African coast.",
+  "geojson": "tz-mz-cable.geojson"
+}

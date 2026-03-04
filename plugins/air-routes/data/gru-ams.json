@@ -1,0 +1,17 @@
+{
+  "code": "gru-ams",
+  "name": "São Paulo — Amsterdam",
+  "airports": [
+    "GRU",
+    "AMS"
+  ],
+  "distanceKm": 9775,
+  "weeklyFlights": 15,
+  "airlines": [
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–AMS route between São Paulo and Amsterdam. Distance: 9,775 km. ~15 weekly flights operated by KLM.",
+  "geojson": "gru-ams.geojson"
+}

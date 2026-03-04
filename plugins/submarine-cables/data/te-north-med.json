@@ -1,0 +1,16 @@
+{
+  "code": "te-north-med",
+  "name": "TE North-Med",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 553,
+  "yearLaid": 2010,
+  "rfsDate": "2021-06",
+  "owner": "Bezeq",
+  "landingPoints": [
+    "Catania, Italy",
+    "Tel Aviv, Israel"
+  ],
+  "description": "TE North-Med cable connecting Catania to Tel Aviv across the Mediterranean.",
+  "geojson": "te-north-med.geojson"
+}

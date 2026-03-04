@@ -1,0 +1,8 @@
+{
+  "code": "horn-of-africa-route",
+  "name": "Horn of Africa & Gulf of Aden",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Critical chokepoint at the Bab el-Mandeb strait connecting the Red Sea to the Indian Ocean. Historically affected by piracy, now heavily patrolled by international naval forces.",
+  "geojson": "horn-of-africa-route.geojson"
+}

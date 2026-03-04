@@ -1,0 +1,29 @@
+{
+  "code": "indo-burma",
+  "name": "Indo-Burma",
+  "location": "Southeast Asia (Myanmar, Thailand, Laos, Vietnam, Cambodia, southern China)",
+  "areaKm2": 2373057,
+  "habitatRemaining": "5.0%",
+  "plantSpecies": 13500,
+  "endemicPlants": 7000,
+  "vertebrateSpecies": 2185,
+  "endemicVertebrates": 528,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Saola",
+    "Tonkin snub-nosed monkey",
+    "Irrawaddy dolphin",
+    "Giant ibis",
+    "Siamese crocodile"
+  ],
+  "threats": [
+    "Agriculture",
+    "Logging",
+    "Hunting",
+    "Hydropower dams",
+    "Infrastructure development"
+  ],
+  "conservationEfforts": "WWF Greater Mekong program documents hundreds of new species annually. Saola Working Group coordinates conservation of this recently discovered species. Protected area systems expanding in Vietnam and Laos. Mekong River Commission addresses transboundary conservation.",
+  "description": "Indo-Burma spans mainland Southeast Asia, covering most of Myanmar, Thailand, Laos, Cambodia, Vietnam, and parts of southern China. This vast hotspot encompasses tropical and subtropical forests, mangroves, freshwater swamps, and major river systems including the Mekong.\n\nThe region is one of the world's most prolific sources of newly discovered species, with hundreds described since 2000, including the saola (Pseudoryx nghetinhensis), one of the world's rarest mammals, discovered only in 1992. The Mekong River alone supports over 1,100 fish species.",
+  "geojson": "indo-burma.geojson"
+}

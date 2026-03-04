@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ir","name":"Iran","country":"IR","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[44.1,25.1],[44.1,39.8],[63.3,39.8],[63.3,25.1],[44.1,25.1]]]}}]}

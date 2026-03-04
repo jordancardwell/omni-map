@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5990833333,
+          8.7034722222
+        ]
+      },
+      "properties": {
+        "code": "melka-kunture-and-balchit-archaeological-and-palaeontological-sites-in-the-highl",
+        "name": "Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

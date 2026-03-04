@@ -1,0 +1,18 @@
+{
+  "code": "msp-las",
+  "name": "Minneapolis — Las Vegas",
+  "airports": [
+    "MSP",
+    "LAS"
+  ],
+  "distanceKm": 2088,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–LAS route between Minneapolis and Las Vegas. Distance: 2,088 km. ~40 weekly flights operated by Delta, Sun Country.",
+  "geojson": "msp-las.geojson"
+}

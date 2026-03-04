@@ -1,0 +1,15 @@
+{
+  "code": "central-suriname-nature-reserve",
+  "name": "Central Suriname Nature Reserve",
+  "type": "Natural",
+  "country": "Suriname",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Central Suriname Nature Reserve comprises 1.6 million ha of primary tropical forest of west-central Suriname. It protects the upper watershed of the Coppename River and the headwaters of the Lucie, Oost, Zuid, Saramaccz, and Gran Rio rivers and covers a range of topography and ecosystems of notable conservation value due to its pristine state. Its montane and lowland forests contain a high diversity of plant life with more than 5,000 vascular plant species collected to date. The Reserve's animals are typical of the region and include the jaguar, giant armadillo, giant river otter, tapir, sloths, eight species of primates and 400 bird species such as harpy eagle, Guiana cock-of-the-rock, and scarlet macaw.",
+  "danger": false,
+  "geojson": "central-suriname-nature-reserve.geojson"
+}

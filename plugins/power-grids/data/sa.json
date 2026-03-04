@@ -1,0 +1,22 @@
+{
+  "code": "sa",
+  "name": "Saudi Arabia",
+  "voltage": "220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "F",
+    "G"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types at 220V/60Hz. Bring a universal adapter.",
+  "geojson": "sa.geojson"
+}

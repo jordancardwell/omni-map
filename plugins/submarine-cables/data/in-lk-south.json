@@ -1,0 +1,16 @@
+{
+  "code": "in-lk-south",
+  "name": "IN-LK South",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2846,
+  "yearLaid": 2012,
+  "rfsDate": "2014-06",
+  "owner": "SLT",
+  "landingPoints": [
+    "Chennai, India",
+    "Colombo, Sri Lanka"
+  ],
+  "description": "IN-LK South connecting Chennai to Colombo.",
+  "geojson": "in-lk-south.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "talamanca-range-la-amistad-reserves-la-amistad-national-park",
+  "name": "Talamanca Range-La Amistad Reserves / La Amistad National Park",
+  "type": "Natural",
+  "country": "Panama, Costa Rica",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The location of this unique site in Central America, where Quaternary glaciers have left their mark, has allowed the fauna and flora of North and South America to interbreed. Tropical rainforests cover most of the area. Four different Indian tribes inhabit this property, which benefits from close co-operation between Costa Rica and Panama.",
+  "danger": false,
+  "geojson": "talamanca-range-la-amistad-reserves-la-amistad-national-park.geojson"
+}

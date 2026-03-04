@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3596,
+          45.4294
+        ]
+      },
+      "properties": {
+        "code": "venice-biennale",
+        "name": "Venice Biennale",
+        "festivalType": "Cultural",
+        "dateOrSeason": "May–November (odd years)",
+        "location": "Venice, Italy"
+      }
+    }
+  ]
+}

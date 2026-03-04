@@ -1,0 +1,18 @@
+{
+  "code": "ewr-lhr",
+  "name": "Newark — London",
+  "airports": [
+    "EWR",
+    "LHR"
+  ],
+  "distanceKm": 5563,
+  "weeklyFlights": 110,
+  "airlines": [
+    "United",
+    "British Airways"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "EWR–LHR route between Newark and London. Distance: 5,563 km. ~110 weekly flights operated by United, British Airways.",
+  "geojson": "ewr-lhr.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ma-es-south",
+  "name": "MA-ES South",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1059,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "Maroc Telecom",
+  "landingPoints": [
+    "Agadir, Morocco",
+    "Las Palmas, Spain"
+  ],
+  "description": "MA-ES South connecting Agadir to Las Palmas along the West African coast.",
+  "geojson": "ma-es-south.geojson"
+}

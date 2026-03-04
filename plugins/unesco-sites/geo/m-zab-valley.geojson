@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.68333,
+          32.48333
+        ]
+      },
+      "properties": {
+        "code": "m-zab-valley",
+        "name": "M'Zab Valley",
+        "type": "Cultural",
+        "country": "Algeria",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ha-long-bay-cat-ba-archipelago",
+  "name": "Ha Long Bay - Cat Ba Archipelago",
+  "type": "Natural",
+  "country": "Viet Nam",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Covering an area of 65,650 ha and including 1,133 islands and islets, Ha Long Bay - Cat Ba Archipelago is located in the Northeast of Viet Nam, within Quang Ninh Province and Hai Phong City. Comprised of a multitude of limestone islands of islets rising from the sea, in a variety of sizes and shapes and presenting picturesque, unspoiled nature, Ha Long Bay - Cat Ba Archipelago is a spectacular seascape sculpted by nature. As the most extensive and best known example of marine - invaded tower karst, Ha Long Bay - Cat Ba Archipelago is one of the world’s mots important areas of fengcong (clusters of conical peaks) and fenglin (isolated tower features) karst. Additionally, the exceptionally beautiful landscape is also dominated by the typical ecosystems.",
+  "danger": false,
+  "geojson": "ha-long-bay-cat-ba-archipelago.geojson"
+}

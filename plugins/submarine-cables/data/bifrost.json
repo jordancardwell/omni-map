@@ -1,0 +1,17 @@
+{
+  "code": "bifrost",
+  "name": "Bifrost",
+  "capacityTbps": 150,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 15400,
+  "yearLaid": 2023,
+  "rfsDate": "2025-06",
+  "owner": "Meta, Keppel, Telin",
+  "landingPoints": [
+    "Singapore",
+    "Guam",
+    "Hillsboro, USA"
+  ],
+  "description": "Bifrost cable connecting Singapore to the US West Coast via Guam.",
+  "geojson": "bifrost.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "sun-bear",
+  "name": "Sun Bear",
+  "scientificName": "Helarctos malayanus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland forest",
+  "threats": [
+    "Deforestation",
+    "Bear bile farming",
+    "Pet trade",
+    "Hunting"
+  ],
+  "conservationEfforts": "Bornean Sun Bear Conservation Centre rehabilitates and releases rescued bears. TRAFFIC monitors illegal trade. Protected areas across Southeast Asia.",
+  "description": "The smallest bear species, named for the golden chest patch that legend says represents the rising sun. They have extremely long tongues (25 cm) used to extract honey from bee nests.",
+  "geojson": "sun-bear.geojson"
+}

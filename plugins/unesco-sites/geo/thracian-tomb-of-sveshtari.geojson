@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7665277778,
+          43.7449166667
+        ]
+      },
+      "properties": {
+        "code": "thracian-tomb-of-sveshtari",
+        "name": "Thracian Tomb of Sveshtari",
+        "type": "Cultural",
+        "country": "Bulgaria",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

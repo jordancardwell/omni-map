@@ -1,0 +1,20 @@
+{
+  "code": "algonquin",
+  "name": "Algonquin Radio Observatory",
+  "country": "Canada",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 260,
+  "aperture": "46 m",
+  "telescopes": [
+    "ARO 46m"
+  ],
+  "keyDiscoveries": [
+    "VLBI development",
+    "Molecular line surveys",
+    "Canadian radio astronomy heritage"
+  ],
+  "location": "Algonquin Radio Observatory, Canada",
+  "description": "Historic Canadian radio observatory. The 46m dish participated in some of the first VLBI experiments and continues as a research and educational facility.",
+  "geojson": "algonquin.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.56666667,
+          59.95
+        ]
+      },
+      "properties": {
+        "code": "ensemble-of-the-ferapontov-monastery",
+        "name": "Ensemble of the Ferapontov Monastery",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

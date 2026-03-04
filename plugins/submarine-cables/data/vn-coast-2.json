@@ -1,0 +1,16 @@
+{
+  "code": "vn-coast-2",
+  "name": "VN Coast-2",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2469,
+  "yearLaid": 2012,
+  "rfsDate": "2020-06",
+  "owner": "VNPT",
+  "landingPoints": [
+    "Ho Chi Minh City, Vietnam",
+    "Quy Nhon, Vietnam"
+  ],
+  "description": "VN Coast-2 connecting Ho Chi Minh City to Quy Nhon in Southeast Asia.",
+  "geojson": "vn-coast-2.geojson"
+}

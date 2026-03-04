@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.39097,
+          7.60318
+        ]
+      },
+      "properties": {
+        "code": "mount-nimba-strict-nature-reserve",
+        "name": "Mount Nimba Strict Nature Reserve",
+        "type": "Natural",
+        "country": "Guinea, Côte d'Ivoire",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

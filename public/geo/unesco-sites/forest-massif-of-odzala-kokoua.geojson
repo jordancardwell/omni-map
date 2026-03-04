@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8602777778,
+          1.3355555556
+        ]
+      },
+      "properties": {
+        "code": "forest-massif-of-odzala-kokoua",
+        "name": "Forest Massif of Odzala-Kokoua",
+        "type": "Natural",
+        "country": "Congo",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

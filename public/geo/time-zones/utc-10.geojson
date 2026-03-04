@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-10","name":"Hawaii-Aleutian Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-157.5,-60],[-142.5,-60],[-142.5,84],[-157.5,84],[-157.5,-60]]]}}]}

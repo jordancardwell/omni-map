@@ -1,0 +1,14 @@
+{
+  "code": "suez",
+  "name": "Port of Suez",
+  "country": "Egypt",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Suez Canal Route"
+  ],
+  "description": "Port of Suez in Egypt. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "suez.geojson"
+}

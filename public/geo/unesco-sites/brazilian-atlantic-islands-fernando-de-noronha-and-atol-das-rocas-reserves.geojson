@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.42511111,
+          -3.857944444
+        ]
+      },
+      "properties": {
+        "code": "brazilian-atlantic-islands-fernando-de-noronha-and-atol-das-rocas-reserves",
+        "name": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

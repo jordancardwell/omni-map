@@ -1,0 +1,21 @@
+{
+  "code": "ovro",
+  "name": "Owens Valley Radio Observatory",
+  "country": "United States",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1222,
+  "aperture": "40 m",
+  "telescopes": [
+    "OVRO 40m",
+    "OVRO-LWA"
+  ],
+  "keyDiscoveries": [
+    "Blazar monitoring program",
+    "Fast radio burst localization",
+    "Cosmic radio transients"
+  ],
+  "location": "Owens Valley Radio Observatory, United States",
+  "description": "Caltech's radio observatory in the Owens Valley. The 40m telescope's blazar monitoring program is the longest-running of its kind.",
+  "geojson": "ovro.geojson"
+}

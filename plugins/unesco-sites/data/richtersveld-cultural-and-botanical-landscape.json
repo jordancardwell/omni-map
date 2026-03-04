@@ -1,0 +1,15 @@
+{
+  "code": "richtersveld-cultural-and-botanical-landscape",
+  "name": "Richtersveld Cultural and Botanical Landscape",
+  "type": "Cultural",
+  "country": "South Africa",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "The 160,000 ha Richtersveld Cultural and Botanical Landscape of dramatic mountainous desert in north-western South Africa constitutes a cultural landscape communally owned and managed. This site sustains the semi-nomadic pastoral livelihood of the Nama people, reflecting seasonal patterns that may have persisted for as much as two millennia in southern Africa. It is the only area where the Nama still construct portable rush-mat houses (haru om ) and includes seasonal migrations and grazing grounds, together with stock posts. The pastoralists collect medicinal and other plants and have a strong oral tradition associated with different places and attributes of the landscape.",
+  "danger": false,
+  "geojson": "richtersveld-cultural-and-botanical-landscape.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "mena-cable",
+  "name": "MENA Cable",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7000,
+  "yearLaid": 2021,
+  "rfsDate": "2022-10",
+  "owner": "Omantel, MENA Cable",
+  "landingPoints": [
+    "Muscat, Oman",
+    "Mumbai, India",
+    "Haifa, Israel"
+  ],
+  "description": "Middle East-North Africa cable connecting Oman, India, and Israel.",
+  "geojson": "mena-cable.geojson"
+}

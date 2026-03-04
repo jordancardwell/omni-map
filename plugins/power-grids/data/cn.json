@@ -1,0 +1,20 @@
+{
+  "code": "cn",
+  "name": "China",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "C",
+    "I"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types in use. Many outlets accept Type A (US-style) but at 220V — verify device voltage!",
+  "geojson": "cn.geojson"
+}

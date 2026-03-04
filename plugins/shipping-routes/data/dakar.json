@@ -1,0 +1,14 @@
+{
+  "code": "dakar",
+  "name": "Port of Dakar",
+  "country": "Senegal",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 20,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Dakar in Senegal. Annual cargo throughput: ~20 million tons. Type: Multi-Purpose Port.",
+  "geojson": "dakar.geojson"
+}

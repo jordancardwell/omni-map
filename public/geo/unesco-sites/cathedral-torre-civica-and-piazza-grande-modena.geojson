@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92568,
+          44.64624
+        ]
+      },
+      "properties": {
+        "code": "cathedral-torre-civica-and-piazza-grande-modena",
+        "name": "Cathedral, Torre Civica and Piazza Grande, Modena",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

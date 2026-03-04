@@ -1,0 +1,15 @@
+{
+  "code": "bourges-cathedral",
+  "name": "Bourges Cathedral",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Cathedral of St Etienne of Bourges, built between the late 12th and late 13th centuries, is one of the great masterpieces of Gothic art and is admired for its proportions and the unity of its design. The tympanum, sculptures and stained-glass windows are particularly striking. Apart from the beauty of the architecture, it attests to the power of Christianity in medieval France.",
+  "danger": false,
+  "geojson": "bourges-cathedral.geojson"
+}

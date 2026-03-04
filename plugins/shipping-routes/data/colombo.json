@@ -1,0 +1,15 @@
+{
+  "code": "colombo",
+  "name": "Port of Colombo",
+  "country": "Sri Lanka",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings",
+    "Suez Canal Route"
+  ],
+  "description": "Port of Colombo in Sri Lanka. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+  "geojson": "colombo.geojson"
+}

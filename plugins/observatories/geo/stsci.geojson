@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6231,39.3322]},"properties":{"code":"stsci","name":"Space Telescope Science Institute","observatoryType":"Space-based","status":"Operational","country":"United States"}}]}

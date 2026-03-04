@@ -1,0 +1,16 @@
+{
+  "code": "qa-uae-link",
+  "name": "QA-UAE Link",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 902,
+  "yearLaid": 2018,
+  "rfsDate": "2017-06",
+  "owner": "Ooredoo",
+  "landingPoints": [
+    "Doha, Qatar",
+    "Fujairah, UAE"
+  ],
+  "description": "QA-UAE Link connecting Doha to Fujairah.",
+  "geojson": "qa-uae-link.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "jodrell-bank",
+  "name": "Jodrell Bank Observatory",
+  "country": "United Kingdom",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 77,
+  "aperture": "76.2 m (Lovell)",
+  "telescopes": [
+    "Lovell Telescope",
+    "Mark II",
+    "e-MERLIN"
+  ],
+  "keyDiscoveries": [
+    "Quasar radio emissions",
+    "Sputnik tracking",
+    "Gravitational lens monitoring"
+  ],
+  "location": "Jodrell Bank Observatory, United Kingdom",
+  "description": "UNESCO World Heritage Site home to the Lovell Telescope, one of the largest steerable radio telescopes. The e-MERLIN network provides high-resolution radio imaging.",
+  "geojson": "jodrell-bank.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "llano-de-chajnantor",
+  "name": "Llano de Chajnantor Observatory",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 5104,
+  "aperture": "Various",
+  "telescopes": [
+    "CCAT-prime/FYST",
+    "ACT",
+    "Various submm"
+  ],
+  "keyDiscoveries": [
+    "CMB observations",
+    "Submillimeter surveys",
+    "High-altitude site characterization"
+  ],
+  "location": "Llano de Chajnantor Observatory, Chile",
+  "description": "One of the highest observatory sites on Earth in the Atacama Desert. Hosts multiple millimeter/submillimeter and CMB experiments alongside ALMA.",
+  "geojson": "llano-de-chajnantor.geojson"
+}

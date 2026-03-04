@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.89694,
+          37.43498
+        ]
+      },
+      "properties": {
+        "code": "temple-of-apollo-epicurius-at-bassae",
+        "name": "Temple of Apollo Epicurius at Bassae",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

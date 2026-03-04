@@ -1,0 +1,16 @@
+{
+  "code": "tifinagh",
+  "name": "Tifinagh",
+  "scriptType": "Abjad",
+  "characters": 33,
+  "direction": "LTR",
+  "originDate": "~3rd century BCE",
+  "sampleText": "ⵜⵉⴼⵉⵏⴰⵖ ⵏ ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  "relatedScripts": [
+    "arabic",
+    "hebrew"
+  ],
+  "description": "Tifinagh is the script of the Amazigh (Berber) people of North Africa. Historically an abjad (consonant-only), the modern Neo-Tifinagh version includes vowels. It has 33 letters with distinctive geometric shapes. Morocco officially adopted Neo-Tifinagh for the Amazigh language in 2003.",
+  "historicalNotes": "Tifinagh descends from the ancient Libyan script, attested from the 3rd century BCE. The Tuareg people of the Sahara preserved the script through the centuries while most other Berber groups adopted Arabic script. In 2003, the Royal Institute of Amazigh Culture (IRCAM) in Morocco standardized Neo-Tifinagh. It was added to Unicode in 2005. Algeria also uses it alongside Arabic and Latin scripts for Tamazight.",
+  "geojson": "tifinagh.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8919,
+          -15.7975
+        ]
+      },
+      "properties": {
+        "code": "independence-day-brazil",
+        "name": "Independence Day (Brazil)",
+        "festivalType": "National",
+        "dateOrSeason": "September 7",
+        "location": "Brasília, Brazil"
+      }
+    }
+  ]
+}

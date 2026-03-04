@@ -1,0 +1,19 @@
+{
+  "code": "darwin-frog",
+  "name": "Darwin's Frog",
+  "scientificName": "Rhinoderma darwinii",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Temperate forest and streams",
+  "threats": [
+    "Chytrid fungus",
+    "Habitat loss",
+    "Logging",
+    "Climate change"
+  ],
+  "conservationEfforts": "Chile and Argentina protect habitat in national parks. Research programs study chytrid disease dynamics. Captive husbandry attempted with limited success.",
+  "description": "Named after Charles Darwin who discovered it, the male Darwin's frog swallows developing tadpoles and broods them in his vocal sac, eventually coughing up fully formed froglets.",
+  "geojson": "darwin-frog.geojson"
+}

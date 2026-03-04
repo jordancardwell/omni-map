@@ -1,0 +1,29 @@
+{
+  "code": "andean",
+  "name": "Andean Music",
+  "region": "Peru, Bolivia, Ecuador",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Charango",
+    "Zampoña (Pan Flute)",
+    "Quena",
+    "Bombo",
+    "Guitar"
+  ],
+  "keyArtists": [
+    "Los Kjarkas",
+    "Inti-Illimani",
+    "Luzmila Carpio",
+    "Yma Sumac",
+    "Savia Andina"
+  ],
+  "description": "Andean music encompasses the indigenous and mestizo musical traditions of the Andes mountains spanning Peru, Bolivia, and Ecuador. Rooted in pre-Columbian Inca and Aymara cultures, it features pentatonic melodies played on wind instruments like the quena (flute) and zampoña (panpipes), along with the charango (small lute). The music is deeply tied to agricultural ceremonies, Pachamama worship, and highland festivals.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Andean Music",
+      "url": "https://folkways.si.edu/search?query=andean"
+    }
+  ],
+  "geojson": "andean.geojson"
+}

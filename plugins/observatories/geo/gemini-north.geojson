@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.469,19.8238]},"properties":{"code":"gemini-north","name":"Gemini North","observatoryType":"Optical","status":"Operational","country":"United States"}}]}

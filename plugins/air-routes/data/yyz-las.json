@@ -1,0 +1,17 @@
+{
+  "code": "yyz-las",
+  "name": "Toronto — Las Vegas",
+  "airports": [
+    "YYZ",
+    "LAS"
+  ],
+  "distanceKm": 3121,
+  "weeklyFlights": 20,
+  "airlines": [
+    "WestJet"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–LAS route between Toronto and Las Vegas. Distance: 3,121 km. ~20 weekly flights operated by WestJet.",
+  "geojson": "yyz-las.geojson"
+}

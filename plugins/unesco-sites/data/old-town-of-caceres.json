@@ -1,0 +1,15 @@
+{
+  "code": "old-town-of-caceres",
+  "name": "Old Town of Cáceres",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The city's history of battles between Moors and Christians is reflected in its architecture, which is a blend of Roman, Islamic, Northern Gothic and Italian Renaissance styles. Of the 30 or so towers from the Muslim period, the Torre del Bujaco is the most famous.",
+  "danger": false,
+  "geojson": "old-town-of-caceres.geojson"
+}

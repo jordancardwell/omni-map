@@ -1,0 +1,21 @@
+{
+  "code": "aso",
+  "name": "Mount Aso",
+  "volcanoType": "Caldera",
+  "status": "Erupting/Recent",
+  "elevation": 1592,
+  "lastEruption": "2021",
+  "vei": 2,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic gases",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "One of the world's most active volcanoes with frequent eruptions. The Naka-dake crater is continuously active. Major caldera-forming eruptions occurred ~90,000 years ago.",
+  "description": "Mount Aso contains one of the world's largest calderas, measuring 25 km north-south and 18 km east-west. The active Naka-dake crater within the caldera produces frequent phreatic and strombolian eruptions.",
+  "geojson": "aso.geojson"
+}

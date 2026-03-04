@@ -1,0 +1,19 @@
+{
+  "code": "galapagos-marine-iguana",
+  "name": "Galápagos Marine Iguana",
+  "scientificName": "Amblyrhynchus cristatus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~200,000-300,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Rocky volcanic coast",
+  "threats": [
+    "Invasive predators",
+    "Oil spills",
+    "Climate change (El Niño)",
+    "Plastic pollution"
+  ],
+  "conservationEfforts": "Galápagos National Park management. Invasive species control. Marine protection around the islands. Population crashes during severe El Niño events.",
+  "description": "The world's only ocean-going lizard, diving up to 20 meters to graze on algae. They sneeze out concentrated salt through special glands. Each island has a distinct subspecies with different coloring.",
+  "geojson": "galapagos-marine-iguana.geojson"
+}

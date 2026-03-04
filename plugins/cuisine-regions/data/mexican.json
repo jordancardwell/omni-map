@@ -1,0 +1,37 @@
+{
+  "code": "mexican",
+  "name": "Mexican Cuisine",
+  "cuisineFamily": "Latin American",
+  "description": "Mexican cuisine is a vibrant fusion of indigenous Mesoamerican and Spanish colonial cooking traditions. Built on the foundation of corn, beans, and chili peppers, it features complex moles, diverse salsas, and ancient techniques like nixtamalization. Each region offers distinctive specialties reflecting local ingredients and cultural heritage.",
+  "signatureDishes": [
+    "Tacos al Pastor",
+    "Mole Poblano",
+    "Tamales",
+    "Chiles en Nogada",
+    "Pozole",
+    "Guacamole"
+  ],
+  "keyIngredients": [
+    "Corn",
+    "Chili Peppers",
+    "Beans",
+    "Avocado",
+    "Lime",
+    "Cilantro"
+  ],
+  "cookingTechniques": [
+    "Nixtamalization",
+    "Slow-roasting",
+    "Stone grinding (molcajete)",
+    "Open-flame charring"
+  ],
+  "unescoRecognition": "Traditional Mexican cuisine inscribed on UNESCO Intangible Cultural Heritage list (2010)",
+  "keyRegions": [
+    "Oaxaca",
+    "Puebla",
+    "Yucatán",
+    "Mexico City",
+    "Jalisco"
+  ],
+  "geojson": "mexican.geojson"
+}

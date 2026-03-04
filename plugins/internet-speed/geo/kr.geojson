@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kr","name":"South Korea","country":"KR","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[126,34],[126,38.6],[129.6,38.6],[129.6,34],[126,34]]]}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3763,
+          39.4699
+        ]
+      },
+      "properties": {
+        "code": "las-fallas",
+        "name": "Las Fallas",
+        "festivalType": "Cultural",
+        "dateOrSeason": "March 15–19",
+        "location": "Valencia, Spain"
+      }
+    }
+  ]
+}

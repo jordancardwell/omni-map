@@ -1,0 +1,15 @@
+{
+  "code": "megaliths-of-carnac-and-of-the-shores-of-morbihan",
+  "name": "Megaliths of Carnac and of the shores of Morbihan",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial property in Brittany, France, features a dense concentration of megalithic structures built during the Neolithic period (c. 5000–2300 BCE), carefully aligned with the area’s unique geomorphology. These monumental stone constructions—arranged in relation to one another and to natural features like terrain and waterways—reflect a sophisticated understanding of the environment. Rich engravings and associated artifacts further illustrate the cultural complexity of the societies that inhabited this part of the European Atlantic coast.",
+  "danger": false,
+  "geojson": "megaliths-of-carnac-and-of-the-shores-of-morbihan.geojson"
+}

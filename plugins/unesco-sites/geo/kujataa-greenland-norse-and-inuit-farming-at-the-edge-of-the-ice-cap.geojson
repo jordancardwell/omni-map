@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5980555556,
+          61.1644444444
+        ]
+      },
+      "properties": {
+        "code": "kujataa-greenland-norse-and-inuit-farming-at-the-edge-of-the-ice-cap",
+        "name": "Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

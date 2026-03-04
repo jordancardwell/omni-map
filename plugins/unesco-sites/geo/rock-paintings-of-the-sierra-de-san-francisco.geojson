@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.020427,
+          27.626963
+        ]
+      },
+      "properties": {
+        "code": "rock-paintings-of-the-sierra-de-san-francisco",
+        "name": "Rock Paintings of the Sierra de San Francisco",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

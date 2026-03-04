@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3577777778,
+          55.9136111111
+        ]
+      },
+      "properties": {
+        "code": "the-par-force-hunting-landscape-in-north-zealand",
+        "name": "The par force hunting landscape in North Zealand",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

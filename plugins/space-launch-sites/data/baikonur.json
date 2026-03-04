@@ -1,0 +1,18 @@
+{
+  "code": "baikonur",
+  "name": "Baikonur Cosmodrome",
+  "country": "Kazakhstan",
+  "operator": "Roscosmos",
+  "coordinates": "45.9650°N, 63.3050°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Sputnik 1",
+    "Vostok 1 (Gagarin)",
+    "Salyut/Mir/ISS missions",
+    "Proton launches"
+  ],
+  "orbitalInclinationRange": "46°–65°",
+  "location": "Baikonur Cosmodrome, Kazakhstan",
+  "description": "The world's first and largest operational space launch facility. Launched Sputnik, Yuri Gagarin, and thousands of missions since 1957. Leased by Russia from Kazakhstan.",
+  "geojson": "baikonur.geojson"
+}

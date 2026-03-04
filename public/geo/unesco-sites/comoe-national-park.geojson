@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          9.0
+        ]
+      },
+      "properties": {
+        "code": "comoe-national-park",
+        "name": "Comoé National Park",
+        "type": "Natural",
+        "country": "Côte d'Ivoire",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

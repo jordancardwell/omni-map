@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.91667,
+          15.33333
+        ]
+      },
+      "properties": {
+        "code": "thungyai-huai-kha-khaeng-wildlife-sanctuaries",
+        "name": "Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+        "type": "Natural",
+        "country": "Thailand",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

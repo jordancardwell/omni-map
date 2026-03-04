@@ -1,0 +1,14 @@
+{
+  "code": "gion-matsuri",
+  "name": "Gion Matsuri",
+  "festivalType": "Cultural",
+  "dateOrSeason": "July (entire month)",
+  "origin": "Kyoto tradition",
+  "estimatedAttendance": "800,000+ spectators",
+  "unescoICH": "Inscribed 2022 (Yamahoko float ceremony)",
+  "traditions": "Yamaboko float processions; elaborate Muromachi-era tapestries on floats; Yoiyama evening lantern festivals; traditional music (Gion bayashi).",
+  "historicalBackground": "Gion Matsuri originated in 869 CE as a purification ritual to appease spirits during a plague. It is one of Japan's three great festivals.",
+  "description": "Kyoto's thousand-year-old festival, featuring magnificent float processions through historic streets, one of Japan's most treasured cultural events.",
+  "location": "Kyoto, Japan",
+  "geojson": "gion-matsuri.geojson"
+}

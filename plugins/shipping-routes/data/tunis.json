@@ -1,0 +1,14 @@
+{
+  "code": "tunis",
+  "name": "Port of Tunis (Radès)",
+  "country": "Tunisia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Tunis (Radès) in Tunisia. Annual cargo throughput: ~8 million tons. Type: Container Port.",
+  "geojson": "tunis.geojson"
+}

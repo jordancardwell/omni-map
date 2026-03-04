@@ -1,0 +1,16 @@
+{
+  "code": "fj-vu-cable",
+  "name": "FJ-VU Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4013,
+  "yearLaid": 2017,
+  "rfsDate": "2021-06",
+  "owner": "ICN",
+  "landingPoints": [
+    "Suva, Fiji",
+    "Port Vila, Vanuatu"
+  ],
+  "description": "FJ-VU Cable connecting Suva to Port Vila in the Pacific.",
+  "geojson": "fj-vu-cable.geojson"
+}

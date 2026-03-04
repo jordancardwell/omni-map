@@ -1,0 +1,22 @@
+{
+  "code": "pavlof",
+  "name": "Pavlof Volcano",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2519,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Lahars",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in the Aleutian arc. Has erupted over 40 times since 1790.",
+  "description": "Pavlof is one of the most consistently active volcanoes in the Aleutian arc. It is a symmetrical stratovolcano visible from the community of Cold Bay.",
+  "geojson": "pavlof.geojson"
+}

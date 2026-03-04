@@ -1,0 +1,16 @@
+{
+  "code": "et",
+  "name": "Tundra",
+  "group": "E - Polar",
+  "temperatureRange": "Warmest month 0-10°C; well below 0°C most of year",
+  "precipitationPattern": "Very low; <250mm/year, mostly as snow",
+  "vegetation": "Low shrubs, sedges, mosses, lichens; no trees",
+  "exampleCities": [
+    "Barrow (Utqiaġvik)",
+    "Longyearbyen",
+    "Nuuk"
+  ],
+  "description": "Tundra climate (ET) is defined by the absence of any month averaging above 10°C, the threshold for tree growth. Found across the Arctic coasts of North America, Europe, and Asia, as well as some sub-Antarctic islands. The landscape is treeless, dominated by permafrost with a thin active layer that thaws briefly in summer.",
+  "typicalWeather": "Long, harsh winters (-20 to -40°C) with polar darkness lasting weeks to months. Brief, cool summers (2-8°C) with continuous daylight. Strong, persistent winds. Low precipitation but snow lingers for 8-10 months. Blizzards and whiteouts in winter.",
+  "geojson": "et.geojson"
+}

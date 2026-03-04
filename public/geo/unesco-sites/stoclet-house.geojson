@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4161111111,
+          50.835
+        ]
+      },
+      "properties": {
+        "code": "stoclet-house",
+        "name": "Stoclet House",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

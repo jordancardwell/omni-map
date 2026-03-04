@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13333,
+          49.61
+        ]
+      },
+      "properties": {
+        "code": "city-of-luxembourg-its-old-quarters-and-fortifications",
+        "name": "City of Luxembourg: its Old Quarters and Fortifications",
+        "type": "Cultural",
+        "country": "Luxembourg",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

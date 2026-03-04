@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-sites-of-bat-al-khutm-and-al-ayn",
+  "name": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+  "type": "Cultural",
+  "country": "Oman",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The protohistoric site of Bat lies near a palm grove in the interior of the Sultanate of Oman. Together with the neighbouring sites, it forms the most complete collection of settlements and necropolises from the 3rd millennium B.C. in the world.",
+  "danger": false,
+  "geojson": "archaeological-sites-of-bat-al-khutm-and-al-ayn.geojson"
+}

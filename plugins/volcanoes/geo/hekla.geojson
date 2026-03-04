@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-19.7,63.9833]},"properties":{"code":"hekla","name":"Hekla","volcanoType":"Stratovolcano","status":"Dormant","elevation":1491,"lastEruption":"2000","vei":3}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.171,
+          45.466
+        ]
+      },
+      "properties": {
+        "code": "church-and-dominican-convent-of-santa-maria-delle-grazie-with-the-last-supper-by",
+        "name": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

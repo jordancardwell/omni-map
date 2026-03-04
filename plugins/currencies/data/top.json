@@ -1,0 +1,16 @@
+{
+  "code": "top",
+  "name": "Tongan Paʻanga",
+  "isoCode": "TOP",
+  "symbol": "T$",
+  "region": "Oceania",
+  "centralBank": "National Reserve Bank of Tonga",
+  "exchangeRateEra": "Pegged to basket",
+  "countries": [
+    "Tonga"
+  ],
+  "countryCount": 1,
+  "description": "The Tongan Paʻanga is the currency of the Kingdom of Tonga, the Pacific's last remaining monarchy.",
+  "historicalNotes": "Introduced in 1967, replacing the Tongan pound. Tonga was never formally colonized.",
+  "geojson": "top.geojson"
+}

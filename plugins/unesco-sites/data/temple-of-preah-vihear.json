@@ -1,0 +1,14 @@
+{
+  "code": "temple-of-preah-vihear",
+  "name": "Temple of Preah Vihear",
+  "type": "Cultural",
+  "country": "Cambodia",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(i)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated on the edge of a plateau that dominates the plain of Cambodia, the Temple of Preah Vihear is dedicated to Shiva. The Temple is composed of a series of sanctuaries linked by a system of pavements and staircases over an 800 metre long axis and dates back to the first half of the 11th century AD. Nevertheless, its complex history can be traced to the 9th century, when the hermitage was founded. This site is particularly well preserved, mainly due to its remote location. The site is exceptional for the quality of its architecture, which is adapted to the natural environment and the religious function of the temple, as well as for the exceptional quality of its carved stone ornamentation.",
+  "danger": false,
+  "geojson": "temple-of-preah-vihear.geojson"
+}

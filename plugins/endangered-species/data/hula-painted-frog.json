@@ -1,0 +1,18 @@
+{
+  "code": "hula-painted-frog",
+  "name": "Hula Painted Frog",
+  "scientificName": "Latonia nigriventer",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~5-10 individuals",
+  "populationTrend": "Unknown",
+  "habitatType": "Wetland and marsh",
+  "threats": [
+    "Habitat drainage",
+    "Small population size",
+    "Water diversion"
+  ],
+  "conservationEfforts": "Rediscovered in 2011 after 60 years of presumed extinction — the first amphibian to be removed from the IUCN extinct list. Hula Valley Nature Reserve provides protected habitat. Wetland restoration underway.",
+  "description": "A living fossil closely related to frogs that lived 15,000 years ago. Thought extinct since 1955 when its marsh habitat was drained, it was sensationally rediscovered in Israel's Hula Valley in 2011.",
+  "geojson": "hula-painted-frog.geojson"
+}

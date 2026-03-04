@@ -1,0 +1,15 @@
+{
+  "code": "churches-of-peace-in-jawor-and-swidnica",
+  "name": "Churches of Peace in Jawor and Świdnica",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Churches of Peace in Jawor and Świdnica, the largest timber-framed religious buildings in Europe, were built in the former Silesia in the mid-17th century, amid the religious strife that followed the Peace of Westphalia. Constrained by the physical and political conditions, the Churches of Peace bear testimony to the quest for religious freedom and are a rare expression of Lutheran ideology in an idiom generally associated with the Catholic Church.",
+  "danger": false,
+  "geojson": "churches-of-peace-in-jawor-and-swidnica.geojson"
+}

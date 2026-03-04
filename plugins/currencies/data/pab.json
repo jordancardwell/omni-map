@@ -1,0 +1,16 @@
+{
+  "code": "pab",
+  "name": "Panamanian Balboa",
+  "isoCode": "PAB",
+  "symbol": "B/.",
+  "region": "Americas",
+  "centralBank": "National Bank of Panama",
+  "exchangeRateEra": "Pegged to USD at par",
+  "countries": [
+    "Panama"
+  ],
+  "countryCount": 1,
+  "description": "The Panamanian Balboa is pegged at par with the US Dollar and circulates alongside it. Panama has no central bank in the traditional sense and uses the US dollar for paper currency.",
+  "historicalNotes": "Named after Spanish explorer Vasco Núñez de Balboa, who discovered the Pacific Ocean. Panama only mints coins; all paper currency is US dollars.",
+  "geojson": "pab.geojson"
+}

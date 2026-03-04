@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hnd","name":"Tokyo Haneda","featureType":"airport","iataCode":"HND","annualPassengers":75500000,"classification":"Mega Hub"},"geometry":{"type":"Point","coordinates":[139.7798,35.5494]}}]}

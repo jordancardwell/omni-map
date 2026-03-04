@@ -1,0 +1,17 @@
+{
+  "code": "sriharikota-sounding",
+  "name": "TERLS Sounding Rocket Complex",
+  "country": "India",
+  "operator": "ISRO",
+  "coordinates": "8.5400°N, 76.8600°E",
+  "status": "Active",
+  "notableLaunches": [
+    "RH-200",
+    "RH-300",
+    "RH-560 sounding rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "TERLS Sounding Rocket Complex, India",
+  "description": "Part of the Thumba Equatorial Rocket Launching Station complex. Continues active sounding rocket operations for atmospheric and ionospheric research near the geomagnetic equator.",
+  "geojson": "sriharikota-sounding.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.83333,
+          39.05
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-shakhrisyabz",
+        "name": "Historic Centre of Shakhrisyabz",
+        "type": "Cultural",
+        "country": "Uzbekistan",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

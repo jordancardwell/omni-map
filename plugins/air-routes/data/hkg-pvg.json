@@ -1,0 +1,19 @@
+{
+  "code": "hkg-pvg",
+  "name": "Hong Kong — Shanghai",
+  "airports": [
+    "HKG",
+    "PVG"
+  ],
+  "distanceKm": 1256,
+  "weeklyFlights": 200,
+  "airlines": [
+    "Cathay Pacific",
+    "China Eastern",
+    "HK Express"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "HKG–PVG route between Hong Kong and Shanghai. Distance: 1,256 km. ~200 weekly flights operated by Cathay Pacific, China Eastern, HK Express.",
+  "geojson": "hkg-pvg.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0638888889,
+          49.9791666667
+        ]
+      },
+      "properties": {
+        "code": "wieliczka-and-bochnia-royal-salt-mines",
+        "name": "Wieliczka and Bochnia Royal Salt Mines",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "santiniketan",
+  "name": "Santiniketan",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Established in rural West Bengal in 1901 by the renowned poet and philosopher Rabindranath Tagore, Santiniketan was a residential school and centre for art based on ancient Indian traditions and a vision of the unity of humanity transcending religious and cultural boundaries. A ‘world university’ was established at Santiniketan in 1921, recognizing the unity of humanity or “Visva Bharati”. Distinct from the prevailing British colonial architectural orientations of the early 20th century and of European modernism, Santiniketan represents approaches toward a pan-Asian modernity, drawing on ancient, medieval and folk traditions from across the region.",
+  "danger": false,
+  "geojson": "santiniketan.geojson"
+}

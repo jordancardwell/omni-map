@@ -1,0 +1,15 @@
+{
+  "code": "central-sector-of-the-imperial-citadel-of-thang-long-hanoi",
+  "name": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
+  "type": "Cultural",
+  "country": "Viet Nam",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost 13 centuries without interruption. The Imperial Citadel buildings and the remains in the 18 Hoang Dieu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads between influences coming from China in the north and the ancient Kingdom of Champa in the south.",
+  "danger": false,
+  "geojson": "central-sector-of-the-imperial-citadel-of-thang-long-hanoi.geojson"
+}

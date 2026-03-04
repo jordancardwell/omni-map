@@ -1,0 +1,18 @@
+{
+  "code": "msp-bos",
+  "name": "Minneapolis — Boston",
+  "airports": [
+    "MSP",
+    "BOS"
+  ],
+  "distanceKm": 1804,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–BOS route between Minneapolis and Boston. Distance: 1,804 km. ~30 weekly flights operated by Delta, Sun Country.",
+  "geojson": "msp-bos.geojson"
+}

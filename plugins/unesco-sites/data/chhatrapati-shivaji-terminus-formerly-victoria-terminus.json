@@ -1,0 +1,15 @@
+{
+  "code": "chhatrapati-shivaji-terminus-formerly-victoria-terminus",
+  "name": "Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Chhatrapati Shivaji Terminus, formerly known as Victoria Terminus Station, in Mumbai, is an outstanding example of Victorian Gothic Revival architecture in India, blended with themes deriving from Indian traditional architecture. The building, designed by the British architect F. W. Stevens, became the symbol of Bombay as the ‘Gothic City’ and the major international mercantile port of India. The terminal was built over 10 years, starting in 1878, according to a High Victorian Gothic design based on late medieval Italian models. Its remarkable stone dome, turrets, pointed arches and eccentric ground plan are close to traditional Indian palace architecture. It is an outstanding example of the meeting of two cultures, as British architects worked with Indian craftsmen to include Indian architectural tradition and idioms thus forging a new style unique to Bombay.",
+  "danger": false,
+  "geojson": "chhatrapati-shivaji-terminus-formerly-victoria-terminus.geojson"
+}

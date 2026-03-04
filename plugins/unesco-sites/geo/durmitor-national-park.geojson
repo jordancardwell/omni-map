@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0166,
+          43.133
+        ]
+      },
+      "properties": {
+        "code": "durmitor-national-park",
+        "name": "Durmitor National Park",
+        "type": "Natural",
+        "country": "Montenegro",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

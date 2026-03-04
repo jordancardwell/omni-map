@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8383333333,
+          50.4352777778
+        ]
+      },
+      "properties": {
+        "code": "major-mining-sites-of-wallonia",
+        "name": "Major Mining Sites of Wallonia",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

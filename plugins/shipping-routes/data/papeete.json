@@ -1,0 +1,14 @@
+{
+  "code": "papeete",
+  "name": "Port of Papeete",
+  "country": "French Polynesia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 2,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Papeete in French Polynesia. Annual cargo throughput: ~2 million tons. Type: Multi-Purpose Port.",
+  "geojson": "papeete.geojson"
+}

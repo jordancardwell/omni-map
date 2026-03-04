@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2077777778,
+          31.4697222222
+        ]
+      },
+      "properties": {
+        "code": "hubei-shennongjia",
+        "name": "Hubei Shennongjia",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

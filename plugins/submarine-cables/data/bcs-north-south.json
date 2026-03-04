@@ -1,0 +1,16 @@
+{
+  "code": "bcs-north-south",
+  "name": "BCS North-South",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1100,
+  "yearLaid": 2019,
+  "rfsDate": "2020-01",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Hanko, Finland",
+    "Rostock, Germany"
+  ],
+  "description": "Baltic cable connecting Finland to Germany.",
+  "geojson": "bcs-north-south.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4797222,
+          51.42472222
+        ]
+      },
+      "properties": {
+        "code": "canadian-rocky-mountain-parks",
+        "name": "Canadian Rocky Mountain Parks",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

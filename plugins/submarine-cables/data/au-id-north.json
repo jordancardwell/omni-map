@@ -1,0 +1,16 @@
+{
+  "code": "au-id-north",
+  "name": "AU-ID North",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1556,
+  "yearLaid": 2017,
+  "rfsDate": "2011-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Darwin, Australia",
+    "Jakarta, Indonesia"
+  ],
+  "description": "AU-ID North connecting Darwin to Jakarta.",
+  "geojson": "au-id-north.geojson"
+}

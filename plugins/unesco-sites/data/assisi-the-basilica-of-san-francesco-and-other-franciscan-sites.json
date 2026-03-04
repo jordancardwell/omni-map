@@ -1,0 +1,17 @@
+{
+  "code": "assisi-the-basilica-of-san-francesco-and-other-franciscan-sites",
+  "name": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Assisi, a medieval city built on a hill, is the birthplace of Saint Francis, closely associated with the work of the Franciscan Order. Its medieval art masterpieces, such as the Basilica of San Francesco and paintings by Cimabue, Pietro Lorenzetti, Simone Martini and Giotto, have made Assisi a fundamental reference point for the development of Italian and European art and architecture.",
+  "danger": false,
+  "geojson": "assisi-the-basilica-of-san-francesco-and-other-franciscan-sites.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "fr",
+  "name": "France",
+  "avgDownloadMbps": 211.3,
+  "avgUploadMbps": 108.7,
+  "avgLatencyMs": 12,
+  "mobileDownloadMbps": 73.2,
+  "mobileUploadMbps": 14.1,
+  "fixedDownloadMbps": 211.3,
+  "fixedUploadMbps": 108.7,
+  "rank": 10,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Aggressive fiber rollout nationwide. ~14% year-over-year improvement.",
+  "geojson": "fr.geojson"
+}

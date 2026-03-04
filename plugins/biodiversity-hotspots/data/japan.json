@@ -1,0 +1,29 @@
+{
+  "code": "japan",
+  "name": "Japan",
+  "location": "Japanese Archipelago (Japan)",
+  "areaKm2": 373490,
+  "habitatRemaining": "26.1%",
+  "plantSpecies": 5600,
+  "endemicPlants": 1950,
+  "vertebrateSpecies": 560,
+  "endemicVertebrates": 117,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Japanese macaque",
+    "Japanese giant salamander",
+    "Amami rabbit",
+    "Japanese serow",
+    "Iriomote cat"
+  ],
+  "threats": [
+    "Urbanization",
+    "Infrastructure development",
+    "Invasive species",
+    "Overexploitation",
+    "Climate change"
+  ],
+  "conservationEfforts": "Extensive national park system covering diverse habitats. Japanese giant salamander is protected as a special natural monument. Iriomote-Ishigaki National Park protects the Iriomote cat's habitat. Japan's Biodiversity Strategy targets 30% protected areas by 2030.",
+  "description": "The Japan hotspot encompasses the four main islands and thousands of smaller islands of the Japanese archipelago. Stretching over 3,000 km from subarctic Hokkaido to subtropical Okinawa, the islands span a remarkable range of climate zones and habitats.\n\nJapan's long isolation, varied terrain, and climate gradient have produced high levels of endemism. The archipelago includes temperate broadleaf forests, alpine zones, subtropical rainforests, and rich marine environments. The Japanese giant salamander, reaching 1.5 meters, is the world's second-largest amphibian.",
+  "geojson": "japan.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3211388889,
+          48.8655
+        ]
+      },
+      "properties": {
+        "code": "paris-banks-of-the-seine",
+        "name": "Paris, Banks of the Seine",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

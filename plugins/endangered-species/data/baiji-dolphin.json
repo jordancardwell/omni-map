@@ -1,0 +1,19 @@
+{
+  "code": "baiji-dolphin",
+  "name": "Amazon River Dolphin",
+  "scientificName": "Inia geoffrensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Unknown, declining rapidly",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater river and floodplain",
+  "threats": [
+    "Mercury pollution",
+    "Dam construction",
+    "Bycatch",
+    "Habitat degradation"
+  ],
+  "conservationEfforts": "Protected under Brazilian law. Research programs track populations. Mercury pollution from gold mining is an increasing threat.",
+  "description": "The largest river dolphin, known as the pink dolphin or boto. They inhabit the Amazon and Orinoco river basins and play an important role in Indigenous folklore.",
+  "geojson": "baiji-dolphin.geojson"
+}

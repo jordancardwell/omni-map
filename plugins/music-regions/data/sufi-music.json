@@ -1,0 +1,29 @@
+{
+  "code": "sufi-music",
+  "name": "Sufi Devotional Music",
+  "region": "Turkey & Iran",
+  "traditionFamily": "Middle Eastern",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Ney",
+    "Kudüm",
+    "Rebab",
+    "Tanbur",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Mercan Dede",
+    "Kudsi Erguner",
+    "Shahram Nazeri",
+    "Mohammad Reza Shajarian",
+    "Sami Yusuf"
+  ],
+  "description": "Sufi devotional music encompasses the musical practices of Islamic mysticism, particularly the Mevlevi Sema ceremony of whirling dervishes in Turkey and the rich vocal tradition of Iranian Sufism. The ney (reed flute) is considered the instrument of spiritual longing. The Mevlevi Sema was inscribed by UNESCO in 2008 as a masterpiece of oral and intangible heritage.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Mevlevi Sema",
+      "url": "https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100"
+    }
+  ],
+  "geojson": "sufi-music.geojson"
+}

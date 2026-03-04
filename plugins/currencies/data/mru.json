@@ -1,0 +1,16 @@
+{
+  "code": "mru",
+  "name": "Mauritanian Ouguiya",
+  "isoCode": "MRU",
+  "symbol": "UM",
+  "region": "Africa",
+  "centralBank": "Central Bank of Mauritania",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Mauritania"
+  ],
+  "countryCount": 1,
+  "description": "The Ouguiya was historically one of only two currencies not subdivided into hundredths (it used fifths). A new ouguiya was introduced in 2018.",
+  "historicalNotes": "The new ouguiya was introduced in 2018, replacing the old ouguiya at 10:1. The name comes from the Arabic word for 'ounce'.",
+  "geojson": "mru.geojson"
+}

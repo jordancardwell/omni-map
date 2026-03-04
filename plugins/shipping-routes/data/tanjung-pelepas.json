@@ -1,0 +1,14 @@
+{
+  "code": "tanjung-pelepas",
+  "name": "Tanjung Pelepas",
+  "country": "Malaysia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 120,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Strait of Malacca Route"
+  ],
+  "description": "Tanjung Pelepas in Malaysia. Annual cargo throughput: ~120 million tons. Type: Container Port.",
+  "geojson": "tanjung-pelepas.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.14582,
+          25.34907
+        ]
+      },
+      "properties": {
+        "code": "papahanaumokuakea",
+        "name": "Papahānaumokuākea",
+        "type": "Mixed",
+        "country": "United States of America",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "uyu",
+  "name": "Uruguayan Peso",
+  "isoCode": "UYU",
+  "symbol": "$U",
+  "region": "Americas",
+  "centralBank": "Central Bank of Uruguay",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Uruguay"
+  ],
+  "countryCount": 1,
+  "description": "The Uruguayan Peso is the currency of one of South America's most developed and stable democracies.",
+  "historicalNotes": "The current peso was introduced in 1993, replacing the nuevo peso at a rate of 1,000:1. Uruguay has a strong banking tradition and is sometimes called the 'Switzerland of South America'.",
+  "geojson": "uyu.geojson"
+}

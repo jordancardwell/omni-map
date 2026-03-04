@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2137,
+          31.7683
+        ]
+      },
+      "properties": {
+        "code": "passover",
+        "name": "Passover",
+        "festivalType": "Religious",
+        "dateOrSeason": "March–April (Nisan 15)",
+        "location": "Jerusalem, Israel"
+      }
+    }
+  ]
+}

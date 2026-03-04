@@ -1,0 +1,16 @@
+{
+  "code": "uah",
+  "name": "Ukrainian Hryvnia",
+  "isoCode": "UAH",
+  "symbol": "₴",
+  "region": "Europe",
+  "centralBank": "National Bank of Ukraine",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Ukraine"
+  ],
+  "countryCount": 1,
+  "description": "The Hryvnia is named after a medieval unit of weight used for gold and silver. Ukraine is one of the world's largest grain exporters.",
+  "historicalNotes": "Introduced in 1996, replacing the karbovanets. The currency has faced significant challenges during the conflict with Russia beginning in 2022.",
+  "geojson": "uah.geojson"
+}

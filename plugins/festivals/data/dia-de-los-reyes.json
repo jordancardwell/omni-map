@@ -1,0 +1,14 @@
+{
+  "code": "dia-de-los-reyes",
+  "name": "Día de los Reyes Magos",
+  "festivalType": "Cultural",
+  "dateOrSeason": "January 6",
+  "origin": "Latin American/Spanish tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Three Kings' Day parades; eating rosca de reyes (ring-shaped cake); gift-giving to children; live nativity scenes.",
+  "historicalBackground": "Three Kings' Day celebrates the Magi's visit to baby Jesus. In Latin America and Spain, it is often more important than Christmas for gift-giving.",
+  "description": "The magical Three Kings' Day, when children across Latin America and Spain receive gifts and families share the rosca de reyes.",
+  "location": "Mexico City, Mexico",
+  "geojson": "dia-de-los-reyes.geojson"
+}

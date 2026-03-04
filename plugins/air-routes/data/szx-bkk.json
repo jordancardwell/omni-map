@@ -1,0 +1,17 @@
+{
+  "code": "szx-bkk",
+  "name": "Shenzhen — Bangkok",
+  "airports": [
+    "SZX",
+    "BKK"
+  ],
+  "distanceKm": 1700,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Shenzhen Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SZX–BKK route between Shenzhen and Bangkok. Distance: 1,700 km. ~30 weekly flights operated by Shenzhen Airlines.",
+  "geojson": "szx-bkk.geojson"
+}

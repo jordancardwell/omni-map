@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3723777778,
+          -16.8414
+        ]
+      },
+      "properties": {
+        "code": "taputapuatea",
+        "name": "Taputapuātea",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

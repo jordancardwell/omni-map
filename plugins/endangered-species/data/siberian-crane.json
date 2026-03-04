@@ -1,0 +1,19 @@
+{
+  "code": "siberian-crane",
+  "name": "Siberian Crane",
+  "scientificName": "Leucogeranus leucogeranus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~3,600-4,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Arctic tundra and wetland",
+  "threats": [
+    "Wetland loss on migration route",
+    "Hunting",
+    "Dam construction",
+    "Drought"
+  ],
+  "conservationEfforts": "International Crane Foundation leads conservation. Poyang Lake in China protects key wintering habitat. Satellite tracking maps migration routes for targeted protection.",
+  "description": "A pure white crane that breeds in Arctic Russia and migrates to China and India. The western population is nearly extinct, while the eastern population depends on Poyang Lake in China.",
+  "geojson": "siberian-crane.geojson"
+}

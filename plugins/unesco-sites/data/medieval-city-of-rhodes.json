@@ -1,0 +1,16 @@
+{
+  "code": "medieval-city-of-rhodes",
+  "name": "Medieval City of Rhodes",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Order of St John of Jerusalem occupied Rhodes from 1309 to 1523 and set about transforming the city into a stronghold. It subsequently came under Turkish and Italian rule. With the Palace of the Grand Masters, the Great Hospital and the Street of the Knights, the Upper Town is one of the most beautiful urban ensembles of the Gothic period. In the Lower Town, Gothic architecture coexists with mosques, public baths and other buildings dating from the Ottoman period.",
+  "danger": false,
+  "geojson": "medieval-city-of-rhodes.geojson"
+}

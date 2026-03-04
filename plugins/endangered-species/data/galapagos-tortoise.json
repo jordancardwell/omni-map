@@ -1,0 +1,18 @@
+{
+  "code": "galapagos-tortoise",
+  "name": "Galápagos Giant Tortoise",
+  "scientificName": "Chelonoidis niger",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~20,000-25,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Volcanic island habitats",
+  "threats": [
+    "Invasive species",
+    "Historical hunting",
+    "Habitat degradation"
+  ],
+  "conservationEfforts": "Charles Darwin Research Station breeds tortoises. Giant Tortoise Restoration Initiative restores populations. Invasive species eradication on multiple islands.",
+  "description": "The world's largest tortoise, living over 175 years. Different island populations evolved distinct shell shapes. Lonesome George, the last Pinta Island tortoise, died in 2012.",
+  "geojson": "galapagos-tortoise.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "dfw-jfk",
+  "name": "Dallas — New York",
+  "airports": [
+    "DFW",
+    "JFK"
+  ],
+  "distanceKm": 2235,
+  "weeklyFlights": 80,
+  "airlines": [
+    "American",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–JFK route between Dallas and New York. Distance: 2,235 km. ~80 weekly flights operated by American, JetBlue.",
+  "geojson": "dfw-jfk.geojson"
+}

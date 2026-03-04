@@ -1,0 +1,17 @@
+{
+  "code": "gn",
+  "name": "Guinea",
+  "avgDownloadMbps": 5.6,
+  "avgUploadMbps": 1.8,
+  "avgLatencyMs": 48,
+  "mobileDownloadMbps": 7.8,
+  "mobileUploadMbps": 2,
+  "fixedDownloadMbps": 5.6,
+  "fixedUploadMbps": 1.8,
+  "rank": 173,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "West African connectivity developing. ~12% year-over-year growth.",
+  "geojson": "gn.geojson"
+}

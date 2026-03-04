@@ -1,0 +1,20 @@
+{
+  "code": "bw",
+  "name": "Botswana",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "D",
+    "G",
+    "M"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type G — Three rectangular pins (British style)",
+    "Type M — Three large round pins (South African style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "South African/British-style plugs.",
+  "geojson": "bw.geojson"
+}

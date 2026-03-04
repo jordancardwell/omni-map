@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083333333,
+          51.28
+        ]
+      },
+      "properties": {
+        "code": "canterbury-cathedral-st-augustine-s-abbey-and-st-martin-s-church",
+        "name": "Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

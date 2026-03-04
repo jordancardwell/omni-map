@@ -1,0 +1,17 @@
+{
+  "code": "am",
+  "name": "Tropical Monsoon",
+  "group": "A - Tropical",
+  "temperatureRange": "≥18°C all months (avg 25-30°C)",
+  "precipitationPattern": "Short dry season offset by heavy monsoon rains; annual >1500mm",
+  "vegetation": "Monsoon forest, semi-deciduous tropical forest",
+  "exampleCities": [
+    "Miami",
+    "Mumbai",
+    "Jakarta",
+    "Cairns"
+  ],
+  "description": "Tropical monsoon climate (Am) features high temperatures year-round with a brief dry season compensated by extremely heavy rainfall during the monsoon months. The total annual precipitation is high enough to sustain tropical forest. This climate is transitional between tropical rainforest and tropical savanna.",
+  "typicalWeather": "Hot and humid most of the year. The monsoon season brings intense, prolonged rainfall with possible flooding. The short dry season is warm but less humid. Cyclones and typhoons may affect coastal areas.",
+  "geojson": "am.geojson"
+}

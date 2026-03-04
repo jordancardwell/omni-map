@@ -1,0 +1,19 @@
+{
+  "code": "ord-lax",
+  "name": "Chicago — Los Angeles",
+  "airports": [
+    "ORD",
+    "LAX"
+  ],
+  "distanceKm": 2802,
+  "weeklyFlights": 120,
+  "airlines": [
+    "American",
+    "United",
+    "Southwest"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ORD–LAX route between Chicago and Los Angeles. Distance: 2,802 km. ~120 weekly flights operated by American, United, Southwest.",
+  "geojson": "ord-lax.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ca-ie-link",
+  "name": "CA-IE Link",
+  "capacityTbps": 34,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4090,
+  "yearLaid": 2021,
+  "rfsDate": "2019-06",
+  "owner": "Hibernia",
+  "landingPoints": [
+    "Halifax, Canada",
+    "Dublin, Ireland"
+  ],
+  "description": "CA-IE Link connecting Halifax to Dublin.",
+  "geojson": "ca-ie-link.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "de-dk-cable",
+  "name": "DE-DK Cable",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2426,
+  "yearLaid": 2010,
+  "rfsDate": "2018-06",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Rostock, Germany",
+    "Copenhagen, Denmark"
+  ],
+  "description": "DE-DK Cable connecting Rostock to Copenhagen in Europe.",
+  "geojson": "de-dk-cable.geojson"
+}

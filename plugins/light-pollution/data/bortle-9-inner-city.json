@@ -1,0 +1,28 @@
+{
+  "code": "bortle-9-inner-city",
+  "name": "Inner-City Sky",
+  "bortleGroup": "5. Inner City (Class 9)",
+  "bortleClass": "Class 9 — Inner-City Sky",
+  "skyBrightness": "< 18.38 mag/arcsec²",
+  "limitingMagnitude": "3.0–4.0",
+  "milkyWayVisibility": "None — sky glows bright enough that many people have never seen the Milky Way",
+  "visibleObjects": [
+    "Moon",
+    "Venus, Jupiter, Mars when bright",
+    "Sirius",
+    "~20 brightest stars"
+  ],
+  "exampleLocations": [
+    "Manhattan, New York",
+    "Central London",
+    "Central Tokyo",
+    "Hong Kong Central",
+    "Singapore"
+  ],
+  "nearestDarkSkyReserves": [
+    "Cherry Springs State Park (400km from NYC)",
+    "Brecon Beacons (250km from London)"
+  ],
+  "description": "The most light-polluted skies on Earth, found in the centers of major cities. Only the Moon, bright planets, and a handful of first-magnitude stars (Sirius, Vega, Arcturus) are visible. The entire sky is uniformly bright — orange, white, or bluish depending on local lighting technology. Many urban residents have never seen the Milky Way and may never have seen more than a dozen stars. The night sky provides virtually no astronomical information to the unaided observer. Over 1 billion people live under Class 9 conditions. LED lighting conversion in many cities is actually worsening blue-light sky glow despite energy savings.",
+  "geojson": "bortle-9-inner-city.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "mountains-of-southwest-china",
+  "name": "Mountains of Southwest China",
+  "location": "Southwestern China (Sichuan, Yunnan, Tibet, Guizhou)",
+  "areaKm2": 262446,
+  "habitatRemaining": "8.0%",
+  "plantSpecies": 12000,
+  "endemicPlants": 3500,
+  "vertebrateSpecies": 1140,
+  "endemicVertebrates": 428,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Giant panda",
+    "Red panda",
+    "Golden snub-nosed monkey",
+    "Takin",
+    "Chinese giant salamander"
+  ],
+  "threats": [
+    "Agriculture",
+    "Logging",
+    "Infrastructure",
+    "Hydropower",
+    "Climate change"
+  ],
+  "conservationEfforts": "Giant panda reserves protect 67% of wild panda habitat. China's grain-to-green program reforests farmland on slopes. Wolong National Nature Reserve is a flagship conservation site. Sichuan Giant Panda Sanctuaries are a UNESCO World Heritage Site.",
+  "description": "The Mountains of Southwest China hotspot encompasses the rugged mountains where the eastern edge of the Tibetan Plateau meets the Sichuan Basin and Yunnan Plateau. Deep river gorges — the Yangtze, Mekong, and Salween run parallel within 75 km of each other — create dramatic topographic variation.\n\nThis region is home to the giant panda, China's most iconic conservation symbol, as well as an extraordinary diversity of rhododendrons, primulas, and gentians that have enriched gardens worldwide. The 'Three Parallel Rivers' area is one of the world's most geologically and biologically diverse landscapes.",
+  "geojson": "mountains-of-southwest-china.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "tuareg",
+  "name": "Tuareg Desert Blues",
+  "region": "Sahara (Mali, Niger, Algeria)",
+  "traditionFamily": "North African",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Electric Guitar",
+    "Bass Guitar",
+    "Drums",
+    "Tende",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Tinariwen",
+    "Bombino",
+    "Mdou Moctar",
+    "Tamikrest",
+    "Tartit"
+  ],
+  "description": "Tuareg desert blues (also called Tishoumaren or 'guitar music') emerged from the Tuareg nomadic communities of the Sahara. Combining traditional Tuareg rhythms and melodies with electric guitar, it was born in the refugee camps and rebellion movements of the 1980s-90s. The hypnotic, repetitive guitar patterns evoke the vastness of the desert and themes of exile, resistance, and nomadic identity.",
+  "resources": [
+    {
+      "title": "Sahel Sounds",
+      "url": "https://sahelsounds.com/"
+    }
+  ],
+  "geojson": "tuareg.geojson"
+}

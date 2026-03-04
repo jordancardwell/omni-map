@@ -1,0 +1,14 @@
+{
+  "code": "sukkot",
+  "name": "Sukkot",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "September–October (Tishrei 15)",
+  "origin": "Jewish tradition",
+  "estimatedAttendance": "14+ million Jews worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Building and dwelling in temporary shelters (sukkah); waving the Four Species (lulav and etrog); festive meals; Hoshanah Rabbah processions.",
+  "historicalBackground": "Sukkot commemorates the 40 years of Israelite wandering in the desert, living in temporary shelters. It is also a harvest thanksgiving festival.",
+  "description": "The Jewish Feast of Tabernacles, a week of dwelling in decorated outdoor huts and celebrating the autumn harvest.",
+  "location": "Jerusalem, Israel",
+  "geojson": "sukkot.geojson"
+}

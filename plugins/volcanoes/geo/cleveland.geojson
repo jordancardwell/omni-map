@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-169.9447,52.8222]},"properties":{"code":"cleveland","name":"Mount Cleveland","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":1730,"lastEruption":"2023","vei":3}}]}

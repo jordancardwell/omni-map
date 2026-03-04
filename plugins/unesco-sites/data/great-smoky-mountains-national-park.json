@@ -1,0 +1,17 @@
+{
+  "code": "great-smoky-mountains-national-park",
+  "name": "Great Smoky Mountains National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Stretching over more than 200,000 ha, this exceptionally beautiful park is home to more than 3,500 plant species, including almost as many trees (130 natural species) as in all of Europe. Many endangered animal species are also found there, including what is probably the greatest variety of salamanders in the world. Since the park is relatively untouched, it gives an idea of temperate flora before the influence of humankind.",
+  "danger": false,
+  "geojson": "great-smoky-mountains-national-park.geojson"
+}

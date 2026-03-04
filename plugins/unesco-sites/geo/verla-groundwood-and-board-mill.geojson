@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.64083,
+          61.06194
+        ]
+      },
+      "properties": {
+        "code": "verla-groundwood-and-board-mill",
+        "name": "Verla Groundwood and Board Mill",
+        "type": "Cultural",
+        "country": "Finland",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.046111111,
+          51.49138889
+        ]
+      },
+      "properties": {
+        "code": "zollverein-coal-mine-industrial-complex-in-essen",
+        "name": "Zollverein Coal Mine Industrial Complex in Essen",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

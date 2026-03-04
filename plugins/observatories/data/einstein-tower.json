@@ -1,0 +1,20 @@
+{
+  "code": "einstein-tower",
+  "name": "Einstein Tower Solar Observatory",
+  "country": "Germany",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 100,
+  "aperture": "0.6 m solar",
+  "telescopes": [
+    "Einstein Tower Solar Telescope"
+  ],
+  "keyDiscoveries": [
+    "Solar spectroscopy",
+    "Gravitational redshift attempts",
+    "Solar physics heritage"
+  ],
+  "location": "Einstein Tower Solar Observatory, Germany",
+  "description": "Expressionist tower telescope designed by Erich Mendelsohn in 1924 at the Leibniz Institute for Astrophysics Potsdam. An architectural and scientific landmark.",
+  "geojson": "einstein-tower.geojson"
+}

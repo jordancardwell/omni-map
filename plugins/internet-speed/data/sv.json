@@ -1,0 +1,17 @@
+{
+  "code": "sv",
+  "name": "El Salvador",
+  "avgDownloadMbps": 21.8,
+  "avgUploadMbps": 7.2,
+  "avgLatencyMs": 38,
+  "mobileDownloadMbps": 16.2,
+  "mobileUploadMbps": 3.6,
+  "fixedDownloadMbps": 21.8,
+  "fixedUploadMbps": 7.2,
+  "rank": 109,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Central America",
+  "dataYear": 2024,
+  "trendDescription": "Improving connectivity options. ~14% year-over-year growth.",
+  "geojson": "sv.geojson"
+}

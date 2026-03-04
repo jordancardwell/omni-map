@@ -1,0 +1,15 @@
+{
+  "code": "castles-of-augustusburg-and-falkenlust-at-bruhl",
+  "name": "Castles of Augustusburg and Falkenlust at Brühl",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Set in an idyllic garden landscape, Augustusburg Castle (the sumptuous residence of the prince-archbishops of Cologne) and the Falkenlust hunting lodge (a small rural folly) are among the earliest examples of Rococo architecture in 18th-century Germany.",
+  "danger": false,
+  "geojson": "castles-of-augustusburg-and-falkenlust-at-bruhl.geojson"
+}

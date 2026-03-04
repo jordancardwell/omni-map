@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3041666667,
+          43.8577777778
+        ]
+      },
+      "properties": {
+        "code": "medici-villas-and-gardens-in-tuscany",
+        "name": "Medici Villas and Gardens in Tuscany",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

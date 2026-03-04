@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1236111,
+          19.40083333
+        ]
+      },
+      "properties": {
+        "code": "hawaii-volcanoes-national-park",
+        "name": "Hawaii Volcanoes National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

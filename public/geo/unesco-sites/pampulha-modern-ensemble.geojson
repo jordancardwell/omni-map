@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9736111111,
+          -19.8519444444
+        ]
+      },
+      "properties": {
+        "code": "pampulha-modern-ensemble",
+        "name": "Pampulha Modern Ensemble",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

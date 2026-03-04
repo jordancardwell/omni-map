@@ -1,0 +1,15 @@
+{
+  "code": "salonga-national-park",
+  "name": "Salonga National Park",
+  "type": "Natural",
+  "country": "Democratic Republic of the Congo",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Africa",
+  "description": "Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile.",
+  "danger": false,
+  "geojson": "salonga-national-park.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "isimangaliso-wetland-park-maputo-national-park",
+  "name": "iSimangaliso Wetland Park – Maputo National Park",
+  "type": "Natural",
+  "country": "Mozambique, South Africa",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This large and ecologically diverse transboundary property, located along the border of South Africa and Mozambique, includes a wide variety of ecosystems such as coral reefs, sandy beaches, coastal dunes, freshwater lakes, swamps, mangroves, seagrass beds, and savannahs. These environments are largely intact and support a high level of biodiversity. The property provides important habitats for many species, including nesting sea turtles, dolphins, migrating whales, whale sharks, and large populations of waterbirds such as pelicans, storks, and herons. The region’s dynamic natural processes, influenced by seasonal flooding and coastal storms, contribute to ongoing ecological change and high species diversity.",
+  "danger": false,
+  "geojson": "isimangaliso-wetland-park-maputo-national-park.geojson"
+}

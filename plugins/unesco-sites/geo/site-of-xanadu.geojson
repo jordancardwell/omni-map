@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1851277778,
+          42.358
+        ]
+      },
+      "properties": {
+        "code": "site-of-xanadu",
+        "name": "Site of Xanadu",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

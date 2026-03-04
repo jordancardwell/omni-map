@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6926,-29.0146]},"properties":{"code":"las-campanas","name":"Las Campanas Observatory","observatoryType":"Optical","status":"Operational","country":"Chile"}}]}

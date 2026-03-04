@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48333333,
+          40.75
+        ]
+      },
+      "properties": {
+        "code": "archaeological-areas-of-pompei-herculaneum-and-torre-annunziata",
+        "name": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

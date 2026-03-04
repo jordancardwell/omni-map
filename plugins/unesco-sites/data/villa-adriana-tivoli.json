@@ -1,0 +1,16 @@
+{
+  "code": "villa-adriana-tivoli",
+  "name": "Villa Adriana (Tivoli)",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Villa Adriana (at Tivoli, near Rome) is an exceptional complex of classical buildings created in the 2nd century A.D. by the Roman emperor Hadrian. It combines the best elements of the architectural heritage of Egypt, Greece and Rome in the form of an 'ideal city'.",
+  "danger": false,
+  "geojson": "villa-adriana-tivoli.geojson"
+}

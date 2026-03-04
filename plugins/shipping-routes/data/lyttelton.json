@@ -1,0 +1,14 @@
+{
+  "code": "lyttelton",
+  "name": "Port of Lyttelton",
+  "country": "New Zealand",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "New Zealand Trade Route"
+  ],
+  "description": "Port of Lyttelton in New Zealand. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+  "geojson": "lyttelton.geojson"
+}

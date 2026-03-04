@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4755,
+          53.6946944444
+        ]
+      },
+      "properties": {
+        "code": "bru-na-boinne-archaeological-ensemble-of-the-bend-of-the-boyne",
+        "name": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+        "type": "Cultural",
+        "country": "Ireland",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

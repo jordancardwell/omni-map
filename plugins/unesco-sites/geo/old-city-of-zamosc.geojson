@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2527777778,
+          50.7169444444
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-zamosc",
+        "name": "Old City of Zamość",
+        "type": "Cultural",
+        "country": "Poland",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4027777778,
+          -8.2591666667
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-bali-province-the-em-subak-em-system-as-a-manifestation-of",
+        "name": "Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy",
+        "type": "Cultural",
+        "country": "Indonesia",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

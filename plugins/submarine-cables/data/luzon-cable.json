@@ -1,0 +1,16 @@
+{
+  "code": "luzon-cable",
+  "name": "Luzon Cable",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 423,
+  "yearLaid": 2013,
+  "rfsDate": "2017-06",
+  "owner": "Globe Telecom",
+  "landingPoints": [
+    "Manila, Philippines",
+    "La Union, Philippines"
+  ],
+  "description": "Luzon Cable connecting Manila to La Union in Southeast Asia.",
+  "geojson": "luzon-cable.geojson"
+}

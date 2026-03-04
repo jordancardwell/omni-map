@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5916666667,
+          -18.25
+        ]
+      },
+      "properties": {
+        "code": "qhapaq-nan-andean-road-system",
+        "name": "Qhapaq Ñan, Andean Road System",
+        "type": "Cultural",
+        "country": "Peru, Chile, Ecuador, Colombia, Argentina, Bolivia (Plurinational State of)",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

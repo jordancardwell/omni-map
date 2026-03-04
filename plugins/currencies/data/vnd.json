@@ -1,0 +1,16 @@
+{
+  "code": "vnd",
+  "name": "Vietnamese Đồng",
+  "isoCode": "VND",
+  "symbol": "₫",
+  "region": "Asia",
+  "centralBank": "State Bank of Vietnam",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Vietnam"
+  ],
+  "countryCount": 1,
+  "description": "The Vietnamese Đồng is one of the world's lowest-valued currency units. Vietnam has become a major manufacturing hub and one of Asia's fastest-growing economies.",
+  "historicalNotes": "The current đồng was unified after North and South Vietnam merged in 1978. Vietnam's Đổi Mới economic reforms since 1986 transformed it from a centrally planned to a market-oriented economy.",
+  "geojson": "vnd.geojson"
+}

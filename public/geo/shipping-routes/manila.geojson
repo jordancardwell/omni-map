@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"manila","name":"Port of Manila","featureType":"port","portType":"Container Port","country":"Philippines"},"geometry":{"type":"Point","coordinates":[120.97,14.58]}}]}

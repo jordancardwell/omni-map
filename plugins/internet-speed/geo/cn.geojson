@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cn","name":"China","country":"CN","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[73.5,18.2],[73.5,53.6],[135.1,53.6],[135.1,18.2],[73.5,18.2]]]}}]}

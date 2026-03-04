@@ -1,0 +1,14 @@
+{
+  "code": "island-of-mozambique",
+  "name": "Island of Mozambique",
+  "type": "Cultural",
+  "country": "Mozambique",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "The fortified city of Mozambique is located on this island, a former Portuguese trading-post on the route to India. Its remarkable architectural unity is due to the consistent use, since the 16th century, of the same building techniques, building materials (stone or macuti) and decorative principles.",
+  "danger": false,
+  "geojson": "island-of-mozambique.geojson"
+}

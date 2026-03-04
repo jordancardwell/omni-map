@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"atlantic-salmon","name":"Atlantic Salmon"},"geometry":{"type":"Polygon","coordinates":[[[15,42],[30,42],[35,55],[30,70],[10,70],[5,60],[0,50],[15,42]]]}}]}

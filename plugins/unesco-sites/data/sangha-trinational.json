@@ -1,0 +1,15 @@
+{
+  "code": "sangha-trinational",
+  "name": "Sangha Trinational",
+  "type": "Natural",
+  "country": "Congo, Cameroon, Central African Republic",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+  "danger": false,
+  "geojson": "sangha-trinational.geojson"
+}

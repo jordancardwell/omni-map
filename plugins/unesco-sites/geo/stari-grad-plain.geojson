@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6386111111,
+          43.1816666667
+        ]
+      },
+      "properties": {
+        "code": "stari-grad-plain",
+        "name": "Stari Grad Plain",
+        "type": "Cultural",
+        "country": "Croatia",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

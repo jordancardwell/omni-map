@@ -1,0 +1,20 @@
+{
+  "code": "ae",
+  "name": "United Arab Emirates",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "D",
+    "G"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Primarily British-style (Type G). Hotels often provide adapters.",
+  "geojson": "ae.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9358333333,
+          15.3352777778
+        ]
+      },
+      "properties": {
+        "code": "asmara-a-modernist-african-city",
+        "name": "Asmara: A Modernist African City",
+        "type": "Cultural",
+        "country": "Eritrea",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1002222222,
+          10.1480833333
+        ]
+      },
+      "properties": {
+        "code": "koutammakou-the-land-of-the-batammariba",
+        "name": "Koutammakou, the Land of the Batammariba",
+        "type": "Cultural",
+        "country": "Togo, Benin",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

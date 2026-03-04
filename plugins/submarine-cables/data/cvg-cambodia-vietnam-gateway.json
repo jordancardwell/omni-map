@@ -1,0 +1,16 @@
+{
+  "code": "cvg-cambodia-vietnam-gateway",
+  "name": "CVG (Cambodia-Vietnam-Gateway)",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 300,
+  "yearLaid": 2019,
+  "rfsDate": "2020-12",
+  "owner": "Campana Group",
+  "landingPoints": [
+    "Sihanoukville, Cambodia",
+    "Vung Tau, Vietnam"
+  ],
+  "description": "Short cable connecting Cambodia to Vietnam.",
+  "geojson": "cvg-cambodia-vietnam-gateway.geojson"
+}

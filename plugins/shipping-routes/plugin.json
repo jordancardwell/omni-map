@@ -1,0 +1,36 @@
+{
+  "id": "shipping-routes",
+  "name": "Shipping Routes & Major Ports",
+  "description": "Global shipping lanes and major ports — the arteries of international maritime trade",
+  "type": "lines",
+  "version": "1.0.0",
+  "icon": "ship",
+  "defaultColor": "#0EA5E9",
+  "categories": ["infrastructure", "trade", "maritime"],
+  "dataType": "lines",
+  "dataSource": "static",
+  "category": "Infrastructure & Technology",
+  "thumbnail": "#0369A1",
+  "schema": "ShippingRouteMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "classification", "country", "portType", "description"],
+    "groupBy": "itemCategory",
+    "titleField": "name",
+    "subtitleField": "description",
+    "badgeField": "classification",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "itemCategory"
+  },
+  "detailFields": [
+    { "key": "classification", "label": "Classification", "type": "status-badge", "statusColors": { "Major": "#DC2626", "Middle": "#F59E0B", "Minor": "#6B7280", "Container Port": "#2563EB", "Bulk Port": "#059669", "Oil/Gas Terminal": "#D97706", "Multi-Purpose Port": "#7C3AED" } },
+    { "key": "country", "label": "Country", "type": "text" },
+    { "key": "portType", "label": "Port Type", "type": "text" },
+    { "key": "cargoVolumeMTons", "label": "Annual Cargo (M tons)", "type": "formatted-number" },
+    { "key": "keyRoutes", "label": "Connected Routes", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

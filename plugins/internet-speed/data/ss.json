@@ -1,0 +1,17 @@
+{
+  "code": "ss",
+  "name": "South Sudan",
+  "avgDownloadMbps": 3.2,
+  "avgUploadMbps": 1.2,
+  "avgLatencyMs": 62,
+  "mobileDownloadMbps": 4.6,
+  "mobileUploadMbps": 1.4,
+  "fixedDownloadMbps": 3.2,
+  "fixedUploadMbps": 1.2,
+  "rank": 193,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Newest nation with minimal infrastructure. ~12% year-over-year growth.",
+  "geojson": "ss.geojson"
+}

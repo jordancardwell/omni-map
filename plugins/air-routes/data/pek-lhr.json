@@ -1,0 +1,17 @@
+{
+  "code": "pek-lhr",
+  "name": "Beijing — London",
+  "airports": [
+    "PEK",
+    "LHR"
+  ],
+  "distanceKm": 8154,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air China"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PEK–LHR route between Beijing and London. Distance: 8,154 km. ~25 weekly flights operated by Air China.",
+  "geojson": "pek-lhr.geojson"
+}

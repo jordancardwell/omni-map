@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8345333333,
+          -17.6833777778
+        ]
+      },
+      "properties": {
+        "code": "levuka-historical-port-town",
+        "name": "Levuka Historical Port Town",
+        "type": "Cultural",
+        "country": "Fiji",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

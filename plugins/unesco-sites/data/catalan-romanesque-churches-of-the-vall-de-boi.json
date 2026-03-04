@@ -1,0 +1,15 @@
+{
+  "code": "catalan-romanesque-churches-of-the-vall-de-boi",
+  "name": "Catalan Romanesque Churches of the Vall de Boí",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The narrow Vall de Boí is situated in the high Pyrénées, in the Alta Ribagorça region and is surrounded by steep mountains. Each village in the valley contains a Romanesque church, and is surrounded by a pattern of enclosed fields. There are extensive seasonally-used grazing lands on the higher slopes.",
+  "danger": false,
+  "geojson": "catalan-romanesque-churches-of-the-vall-de-boi.geojson"
+}

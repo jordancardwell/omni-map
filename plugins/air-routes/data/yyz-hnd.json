@@ -1,0 +1,17 @@
+{
+  "code": "yyz-hnd",
+  "name": "Toronto — Tokyo",
+  "airports": [
+    "YYZ",
+    "HND"
+  ],
+  "distanceKm": 10346,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Air Canada"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–HND route between Toronto and Tokyo. Distance: 10,346 km. ~20 weekly flights operated by Air Canada.",
+  "geojson": "yyz-hnd.geojson"
+}

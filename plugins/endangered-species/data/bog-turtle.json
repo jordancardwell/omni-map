@@ -1,0 +1,19 @@
+{
+  "code": "bog-turtle",
+  "name": "Bog Turtle",
+  "scientificName": "Glyptemys muhlenbergii",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~2,500-10,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Calcareous fen and bog",
+  "threats": [
+    "Wetland drainage",
+    "Invasive plants",
+    "Illegal collection",
+    "Development"
+  ],
+  "conservationEfforts": "US Fish and Wildlife Service recovery plan. Habitat restoration removing invasive plants. Law enforcement targeting illegal collection networks.",
+  "description": "The smallest turtle in North America at just 10 cm. It lives in small, specialized wetland habitats (calcareous fens) that have been widely destroyed across the eastern United States.",
+  "geojson": "bog-turtle.geojson"
+}

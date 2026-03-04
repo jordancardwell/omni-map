@@ -1,0 +1,16 @@
+{
+  "code": "cn-hk-express",
+  "name": "CN-HK Express",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1925,
+  "yearLaid": 2021,
+  "rfsDate": "2015-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Shenzhen, China",
+    "Hong Kong, China"
+  ],
+  "description": "CN-HK Express connecting Shenzhen to Hong Kong.",
+  "geojson": "cn-hk-express.geojson"
+}

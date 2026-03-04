@@ -1,0 +1,21 @@
+{
+  "code": "gunung-rinjani",
+  "name": "Mount Rinjani",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3726,
+  "lastEruption": "2016",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Lombok",
+  "location": "Lombok, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars"
+  ],
+  "eruptionHistory": "Contains a stunning crater lake (Segara Anak). The 1257 eruption of nearby Samalas was one of the largest eruptions of the last 10,000 years.",
+  "description": "Mount Rinjani is Indonesia's second-highest volcano and a popular trekking destination. Its caldera contains the beautiful Segara Anak lake with a small active cone.",
+  "geojson": "gunung-rinjani.geojson"
+}

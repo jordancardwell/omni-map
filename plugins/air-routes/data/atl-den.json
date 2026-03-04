@@ -1,0 +1,19 @@
+{
+  "code": "atl-den",
+  "name": "Atlanta — Denver",
+  "airports": [
+    "ATL",
+    "DEN"
+  ],
+  "distanceKm": 1926,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Delta",
+    "United",
+    "Southwest"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–DEN route between Atlanta and Denver. Distance: 1,926 km. ~100 weekly flights operated by Delta, United, Southwest.",
+  "geojson": "atl-den.geojson"
+}

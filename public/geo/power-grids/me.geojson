@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"me","name":"Montenegro","country":"ME","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[18.5,41.9],[18.5,43.6],[20.4,43.6],[20.4,41.9],[18.5,41.9]]]}}]}

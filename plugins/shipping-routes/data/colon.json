@@ -1,0 +1,15 @@
+{
+  "code": "colon",
+  "name": "Port of Colón",
+  "country": "Panama",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Panama Canal Route",
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Colón in Panama. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "colon.geojson"
+}

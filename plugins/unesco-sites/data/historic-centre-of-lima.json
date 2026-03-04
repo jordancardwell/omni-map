@@ -1,0 +1,14 @@
+{
+  "code": "historic-centre-of-lima",
+  "name": "Historic Centre of Lima",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Although severely damaged by earthquakes, this 'City of the Kings' was, until the middle of the 18th century, the capital and most important city of the Spanish dominions in South America. Many of its buildings, such as the Convent of San Francisco (the largest of its type in this part of the world), are the result of collaboration between local craftspeople and others from the Old World.",
+  "danger": false,
+  "geojson": "historic-centre-of-lima.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41944,
+          50.08972
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-prague",
+        "name": "Historic Centre of Prague",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

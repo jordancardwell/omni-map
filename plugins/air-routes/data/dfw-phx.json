@@ -1,0 +1,18 @@
+{
+  "code": "dfw-phx",
+  "name": "Dallas — Phoenix",
+  "airports": [
+    "DFW",
+    "PHX"
+  ],
+  "distanceKm": 1393,
+  "weeklyFlights": 80,
+  "airlines": [
+    "American",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–PHX route between Dallas and Phoenix. Distance: 1,393 km. ~80 weekly flights operated by American, Southwest.",
+  "geojson": "dfw-phx.geojson"
+}

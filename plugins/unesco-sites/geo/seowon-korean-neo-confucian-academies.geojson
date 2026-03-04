@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8434277778,
+          36.7272972222
+        ]
+      },
+      "properties": {
+        "code": "seowon-korean-neo-confucian-academies",
+        "name": "Seowon, Korean Neo-Confucian Academies",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

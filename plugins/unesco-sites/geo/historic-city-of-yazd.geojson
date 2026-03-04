@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3691666667,
+          31.9013888889
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-yazd",
+        "name": "Historic City of Yazd",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

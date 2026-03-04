@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3816,
+          -34.6037
+        ]
+      },
+      "properties": {
+        "code": "tango-day",
+        "name": "World Tango Day",
+        "festivalType": "Cultural",
+        "dateOrSeason": "December 11",
+        "location": "Buenos Aires, Argentina"
+      }
+    }
+  ]
+}

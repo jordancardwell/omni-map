@@ -1,0 +1,18 @@
+{
+  "code": "satish-dhawan",
+  "name": "Satish Dhawan Space Centre (SHAR)",
+  "country": "India",
+  "operator": "ISRO",
+  "coordinates": "13.7199°N, 80.2304°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Chandrayaan-1/2/3",
+    "Mangalyaan (Mars)",
+    "104 satellites single launch",
+    "Gaganyaan test flights"
+  ],
+  "orbitalInclinationRange": "13°–99°",
+  "location": "Satish Dhawan Space Centre (SHAR), India",
+  "description": "India's primary orbital launch site on Sriharikota island, Andhra Pradesh. Home to PSLV and GSLV launches. Achieved fame with cost-effective Mars and Moon missions.",
+  "geojson": "satish-dhawan.geojson"
+}

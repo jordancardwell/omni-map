@@ -1,0 +1,15 @@
+{
+  "code": "my-son-sanctuary",
+  "name": "My Son Sanctuary",
+  "type": "Cultural",
+  "country": "Viet Nam",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence.",
+  "danger": false,
+  "geojson": "my-son-sanctuary.geojson"
+}

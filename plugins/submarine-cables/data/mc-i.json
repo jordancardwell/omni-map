@@ -1,0 +1,16 @@
+{
+  "code": "mc-i",
+  "name": "MC-I",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3261,
+  "yearLaid": 2016,
+  "rfsDate": "2018-06",
+  "owner": "Campana Group",
+  "landingPoints": [
+    "Yangon, Myanmar",
+    "Singapore"
+  ],
+  "description": "MC-I connecting Yangon to Singapore in Southeast Asia.",
+  "geojson": "mc-i.geojson"
+}

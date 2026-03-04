@@ -1,0 +1,19 @@
+{
+  "code": "jfk-icn",
+  "name": "New York — Seoul",
+  "airports": [
+    "JFK",
+    "ICN"
+  ],
+  "distanceKm": 11090,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Korean Air",
+    "Asiana",
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JFK–ICN route between New York and Seoul. Distance: 11,090 km. ~40 weekly flights operated by Korean Air, Asiana, Delta.",
+  "geojson": "jfk-icn.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"dampier","name":"Port of Dampier","featureType":"port","portType":"Bulk Port","country":"Australia"},"geometry":{"type":"Point","coordinates":[116.71,-20.66]}}]}

@@ -1,0 +1,16 @@
+{
+  "code": "sg-vn-express",
+  "name": "SG-VN Express",
+  "capacityTbps": 51,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5669,
+  "yearLaid": 2011,
+  "rfsDate": "2023-06",
+  "owner": "Viettel",
+  "landingPoints": [
+    "Singapore",
+    "Ho Chi Minh City, Vietnam"
+  ],
+  "description": "SG-VN Express connecting Singapore to Ho Chi Minh City.",
+  "geojson": "sg-vn-express.geojson"
+}

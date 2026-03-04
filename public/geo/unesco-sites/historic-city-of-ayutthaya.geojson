@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56056,
+          14.34778
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-ayutthaya",
+        "name": "Historic City of Ayutthaya",
+        "type": "Cultural",
+        "country": "Thailand",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

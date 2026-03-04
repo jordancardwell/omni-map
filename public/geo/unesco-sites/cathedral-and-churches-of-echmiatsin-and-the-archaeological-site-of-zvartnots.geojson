@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29514,
+          40.15931
+        ]
+      },
+      "properties": {
+        "code": "cathedral-and-churches-of-echmiatsin-and-the-archaeological-site-of-zvartnots",
+        "name": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+        "type": "Cultural",
+        "country": "Armenia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

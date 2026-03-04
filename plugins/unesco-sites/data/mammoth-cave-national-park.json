@@ -1,0 +1,16 @@
+{
+  "code": "mammoth-cave-national-park",
+  "name": "Mammoth Cave National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Mammoth Cave National Park, located in the state of Kentucky, has the world's largest network of natural caves and underground passageways, which are characteristic examples of limestone formations. The park and its underground network of more than 560 surveyed km of passageways are home to a varied flora and fauna, including a number of endangered species.",
+  "danger": false,
+  "geojson": "mammoth-cave-national-park.geojson"
+}

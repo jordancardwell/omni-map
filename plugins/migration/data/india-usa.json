@@ -1,0 +1,18 @@
+{
+  "code": "india-usa",
+  "name": "India \u2192 United States",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "India \u2192 United States",
+  "badgeValue": "~2.7 million",
+  "origin": "India",
+  "destination": "United States",
+  "estimatedMigrants": "~2.7 million",
+  "drivers": [
+    "IT sector demand",
+    "Higher education",
+    "H-1B visas",
+    "Family reunification"
+  ],
+  "description": "Indian migration to the US is heavily skilled, with Indians receiving the largest share of H-1B work visas. The Indian American community leads in median household income among major ethnic groups in the US. Migration flows are concentrated in technology hubs like Silicon Valley, Seattle, and the Research Triangle. Indian students are the second-largest international student group in American universities.",
+  "geojson": "india-usa.geojson"
+}

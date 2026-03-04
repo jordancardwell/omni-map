@@ -1,0 +1,18 @@
+{
+  "code": "doh-del",
+  "name": "Doha — Delhi",
+  "airports": [
+    "DOH",
+    "DEL"
+  ],
+  "distanceKm": 2549,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Qatar Airways",
+    "IndiGo"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DOH–DEL route between Doha and Delhi. Distance: 2,549 km. ~80 weekly flights operated by Qatar Airways, IndiGo.",
+  "geojson": "doh-del.geojson"
+}

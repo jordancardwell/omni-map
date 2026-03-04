@@ -1,0 +1,15 @@
+{
+  "code": "mountain-resort-and-its-outlying-temples-chengde",
+  "name": "Mountain Resort and its Outlying Temples, Chengde",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Mountain Resort (the Qing dynasty's summer palace), in Hebei Province, was built between 1703 and 1792. It is a vast complex of palaces and administrative and ceremonial buildings. Temples of various architectural styles and imperial gardens blend harmoniously into a landscape of lakes, pastureland and forests. In addition to its aesthetic interest, the Mountain Resort is a rare historic vestige of the final development of feudal society in China.",
+  "danger": false,
+  "geojson": "mountain-resort-and-its-outlying-temples-chengde.geojson"
+}

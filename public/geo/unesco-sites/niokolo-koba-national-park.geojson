@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.018,
+          13.011
+        ]
+      },
+      "properties": {
+        "code": "niokolo-koba-national-park",
+        "name": "Niokolo-Koba National Park",
+        "type": "Natural",
+        "country": "Senegal",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

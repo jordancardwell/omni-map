@@ -1,0 +1,17 @@
+{
+  "code": "sohae",
+  "name": "Sohae Satellite Launching Station",
+  "country": "North Korea",
+  "operator": "NADA",
+  "coordinates": "39.6600°N, 124.7050°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Kwangmyongsong-3 Unit 2",
+    "Kwangmyongsong-4",
+    "Chollima-1 attempts"
+  ],
+  "orbitalInclinationRange": "97°–98° (SSO)",
+  "location": "Sohae Satellite Launching Station, North Korea",
+  "description": "North Korea's primary orbital launch facility on the west coast. Successfully placed satellites in orbit in 2012 and 2016. Subject to international sanctions due to dual-use missile technology concerns.",
+  "geojson": "sohae.geojson"
+}

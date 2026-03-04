@@ -1,0 +1,15 @@
+{
+  "code": "the-english-lake-district",
+  "name": "The English Lake District",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in northwest England, the English Lake District is a mountainous area, whose valleys have been modelled by glaciers in the Ice Age and subsequently shaped by an agro-pastoral land-use system characterized by fields enclosed by walls. The combined work of nature and human activity has produced a harmonious landscape in which the mountains are mirrored in the lakes. Grand houses, gardens and parks have been purposely created to enhance the landscape’s beauty. This landscape was greatly appreciated from the 18th century onwards by the Picturesque and later Romantic movements, which celebrated it in paintings, drawings and words. It also inspired an awareness of the importance of beautiful landscapes and triggered early efforts to preserve them.",
+  "danger": false,
+  "geojson": "the-english-lake-district.geojson"
+}

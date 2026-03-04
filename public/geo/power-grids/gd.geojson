@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gd","name":"Grenada","country":"GD","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-61.8,12],[-61.8,12.2],[-61.6,12.2],[-61.6,12],[-61.8,12]]]}}]}

@@ -1,0 +1,17 @@
+{
+  "code": "thumba",
+  "name": "Thumba Equatorial Rocket Launching Station",
+  "country": "India",
+  "operator": "ISRO",
+  "coordinates": "8.5373°N, 76.8653°E",
+  "status": "Active",
+  "notableLaunches": [
+    "India's first sounding rocket (1963)",
+    "Nike-Apache launches",
+    "RH-series sounding rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Thumba Equatorial Rocket Launching Station, India",
+  "description": "India's first rocket launch site near Thiruvananthapuram, Kerala. Located near the magnetic equator, ideal for ionospheric studies. Now primarily used for sounding rockets and technology development.",
+  "geojson": "thumba.geojson"
+}

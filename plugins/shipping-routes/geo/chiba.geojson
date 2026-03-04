@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"chiba","name":"Port of Chiba","featureType":"port","portType":"Oil/Gas Terminal","country":"Japan"},"geometry":{"type":"Point","coordinates":[140.1,35.61]}}]}

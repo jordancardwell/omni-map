@@ -1,0 +1,16 @@
+{
+  "code": "id-sulawesi-link",
+  "name": "ID Sulawesi Link",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 368,
+  "yearLaid": 2014,
+  "rfsDate": "2014-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Surabaya, Indonesia",
+    "Makassar, Indonesia"
+  ],
+  "description": "ID Sulawesi Link connecting Surabaya to Makassar.",
+  "geojson": "id-sulawesi-link.geojson"
+}

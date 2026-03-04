@@ -1,0 +1,15 @@
+{
+  "code": "japanese",
+  "name": "Japanese",
+  "scriptType": "Mixed",
+  "characters": 2136,
+  "direction": "LTR / Vertical",
+  "originDate": "8th century CE",
+  "sampleText": "いろはにほへと ちりぬるを",
+  "relatedScripts": [
+    "chinese"
+  ],
+  "description": "The Japanese writing system uniquely combines three scripts: Kanji (Chinese characters), Hiragana (cursive syllabary for native words and grammar), and Katakana (angular syllabary for foreign words and emphasis). The 2,136 Jōyō kanji are designated for everyday use. This mixed system is one of the most complex in active use.",
+  "historicalNotes": "Japanese borrowed Chinese characters beginning in the 5th century CE. By the 8th century, a system called man'yōgana used Chinese characters for their phonetic values. Hiragana and katakana both evolved from simplified Chinese characters during the 9th century — hiragana from cursive forms used by court women, and katakana from fragments used by Buddhist monks. The modern system was standardized after the Meiji Restoration.",
+  "geojson": "japanese.geojson"
+}

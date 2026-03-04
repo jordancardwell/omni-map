@@ -1,0 +1,15 @@
+{
+  "code": "vilnius-historic-centre",
+  "name": "Vilnius Historic Centre",
+  "type": "Cultural",
+  "country": "Lithuania",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Political centre of the Grand Duchy of Lithuania from the 13th to the end of the 18th century, Vilnius has had a profound influence on the cultural and architectural development of much of eastern Europe. Despite invasions and partial destruction, it has preserved an impressive complex of Gothic, Renaissance, Baroque and classical buildings as well as its medieval layout and natural setting.",
+  "danger": false,
+  "geojson": "vilnius-historic-centre.geojson"
+}

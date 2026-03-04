@@ -1,0 +1,18 @@
+{
+  "code": "pyrenees-mont-perdu",
+  "name": "Pyrénées - Mont Perdu",
+  "type": "Mixed",
+  "country": "Spain, France",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)",
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This outstanding mountain landscape, which spans the contemporary national borders of France and Spain, is centred around the peak of Mount Perdu, a calcareous massif that rises to 3,352 m. The site, with a total area of 30,639 ha, includes two of Europe's largest and deepest canyons on the Spanish side and three major cirque walls on the more abrupt northern slopes with France, classic presentations of these geological landforms. The site is also a pastoral landscape reflecting an agricultural way of life that was once widespread in the upland regions of Europe but now survives only in this part of the Pyrénées. Thus it provides exceptional insights into past European society through its landscape of villages, farms, fields, upland pastures and mountain roads.",
+  "danger": false,
+  "geojson": "pyrenees-mont-perdu.geojson"
+}

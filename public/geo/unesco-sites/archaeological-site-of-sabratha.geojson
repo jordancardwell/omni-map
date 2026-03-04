@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485,
+          32.80528
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-sabratha",
+        "name": "Archaeological Site of Sabratha",
+        "type": "Cultural",
+        "country": "Libya",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

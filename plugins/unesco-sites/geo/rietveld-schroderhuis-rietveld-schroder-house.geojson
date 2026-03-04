@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1475555556,
+          52.0853333333
+        ]
+      },
+      "properties": {
+        "code": "rietveld-schroderhuis-rietveld-schroder-house",
+        "name": "Rietveld Schröderhuis (Rietveld Schröder House)",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3544,
+          43.0621
+        ]
+      },
+      "properties": {
+        "code": "sapporo-snow",
+        "name": "Sapporo Snow Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Early February",
+        "location": "Sapporo, Japan"
+      }
+    }
+  ]
+}

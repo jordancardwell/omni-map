@@ -1,0 +1,16 @@
+{
+  "code": "sulu-sea-cable",
+  "name": "Sulu Sea Cable",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1805,
+  "yearLaid": 2014,
+  "rfsDate": "2018-06",
+  "owner": "Globe Telecom",
+  "landingPoints": [
+    "Kota Kinabalu, Malaysia",
+    "Manila, Philippines"
+  ],
+  "description": "Sulu Sea Cable connecting Kota Kinabalu to Manila in Southeast Asia.",
+  "geojson": "sulu-sea-cable.geojson"
+}

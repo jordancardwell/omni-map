@@ -1,0 +1,19 @@
+{
+  "code": "great-white-shark",
+  "name": "Great White Shark",
+  "scientificName": "Carcharodon carcharias",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~3,500 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Coastal and open ocean",
+  "threats": [
+    "Bycatch",
+    "Shark finning",
+    "Persecution",
+    "Prey depletion"
+  ],
+  "conservationEfforts": "Protected in South Africa, Australia, USA, and other nations. CITES Appendix II listing. Great white shark cage diving tourism provides economic incentive for conservation.",
+  "description": "Despite their fearsome reputation, great white sharks are more threatened by humans than vice versa. They can detect a single drop of blood in 100 liters of water and sense electrical fields from prey heartbeats.",
+  "geojson": "great-white-shark.geojson"
+}

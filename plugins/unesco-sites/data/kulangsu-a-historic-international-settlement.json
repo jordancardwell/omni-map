@@ -1,0 +1,15 @@
+{
+  "code": "kulangsu-a-historic-international-settlement",
+  "name": "Kulangsu, a Historic International Settlement",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Kulangsu is a tiny island located on the estuary of the Chiu-lung River, facing the city of Xiamen. With the opening of a commercial port at Xiamen in 1843, and the establishment of the island as an international settlement in 1903, this island off the southern coast of the Chinese empire suddenly became an important window for Sino-foreign exchanges. Kulangsu is an exceptional example of the cultural fusion that emerged from these exchanges, which remain legible in its urban fabric. There is a mixture of different architectural styles including Traditional Southern Fujian Style, Western Classical Revival Style and Veranda Colonial Style. The most exceptional testimony of the fusion of various stylistic influences is a new architectural movement, the Amoy Deco Style, which is a synthesis of the Modernist style of the early 20th century and Art Deco.",
+  "danger": false,
+  "geojson": "kulangsu-a-historic-international-settlement.geojson"
+}

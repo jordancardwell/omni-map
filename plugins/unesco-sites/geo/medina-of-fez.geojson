@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.97778,
+          34.06111
+        ]
+      },
+      "properties": {
+        "code": "medina-of-fez",
+        "name": "Medina of Fez",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

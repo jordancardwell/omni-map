@@ -1,0 +1,37 @@
+{
+  "code": "turkish",
+  "name": "Turkish Cuisine",
+  "cuisineFamily": "Middle Eastern",
+  "description": "Turkish cuisine is a rich tapestry woven from Ottoman imperial kitchens, Central Asian nomadic traditions, and Mediterranean influences. It bridges East and West with an emphasis on grilled meats, stuffed vegetables, rich pastries, and an elaborate breakfast culture unmatched worldwide.",
+  "signatureDishes": [
+    "Kebab",
+    "Baklava",
+    "Lahmacun",
+    "Manti",
+    "İskender",
+    "Pide"
+  ],
+  "keyIngredients": [
+    "Yogurt",
+    "Lamb",
+    "Eggplant",
+    "Bulgur",
+    "Pomegranate Molasses",
+    "Sumac"
+  ],
+  "cookingTechniques": [
+    "Charcoal grilling",
+    "Clay oven baking",
+    "Phyllo dough layering",
+    "Yogurt-based sauces"
+  ],
+  "unescoRecognition": "Turkish coffee culture inscribed on UNESCO list (2013); Gaziantep UNESCO City of Gastronomy (2015)",
+  "keyRegions": [
+    "Istanbul",
+    "Gaziantep",
+    "Anatolia",
+    "Aegean Coast",
+    "Black Sea Region"
+  ],
+  "geojson": "turkish.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77027778,
+          20.36166667
+        ]
+      },
+      "properties": {
+        "code": "pre-hispanic-town-of-uxmal",
+        "name": "Pre-Hispanic Town of Uxmal",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

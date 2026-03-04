@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.50444,
+          16.02778
+        ]
+      },
+      "properties": {
+        "code": "island-of-saint-louis",
+        "name": "Island of Saint-Louis",
+        "type": "Cultural",
+        "country": "Senegal",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

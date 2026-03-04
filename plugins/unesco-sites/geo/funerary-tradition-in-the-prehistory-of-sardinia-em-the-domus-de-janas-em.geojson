@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9513333333,
+          40.0851388889
+        ]
+      },
+      "properties": {
+        "code": "funerary-tradition-in-the-prehistory-of-sardinia-em-the-domus-de-janas-em",
+        "name": "Funerary Tradition in the Prehistory of Sardinia – The domus de janas",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "mangarahara-cichlid",
+  "name": "Mangarahara Cichlid",
+  "scientificName": "Ptychochromis insolitus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Possibly extinct in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater river",
+  "threats": [
+    "Dam construction",
+    "Water diversion",
+    "Invasive species",
+    "Habitat degradation"
+  ],
+  "conservationEfforts": "Emergency aquarium rescue — only known captive fish were at London Zoo and Berlin Zoo. Successful breeding in 2013 saved the species from total extinction. Reintroduction studies underway.",
+  "description": "Thought to be the world's rarest fish when captive populations dropped to just two males. A desperate search found females in Madagascar in 2013, enabling breeding to save the species.",
+  "geojson": "mangarahara-cichlid.geojson"
+}

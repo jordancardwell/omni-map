@@ -1,0 +1,16 @@
+{
+  "code": "sn-cv-cable",
+  "name": "SN-CV Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 690,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Dakar, Senegal",
+    "Praia, Cape Verde"
+  ],
+  "description": "SN-CV Cable connecting Dakar to Praia along the African coast.",
+  "geojson": "sn-cv-cable.geojson"
+}

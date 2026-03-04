@@ -1,0 +1,15 @@
+{
+  "code": "strasbourg-grande-ile-and-em-neustadt-em",
+  "name": "Strasbourg, Grande-Île and Neustadt",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The initial property, inscribed in 1988 on the World Heritage List, was formed by the Grande-Île, the historic centre of Strasbourg, structured around the cathedral. The extension concerns the Neustadt, new town, designed and built under the German administration (1871-1918). The Neustadt draws the inspiration for its urban layout partially from the Haussmannian model, while adopting an architectural idiom of Germanic inspiration. This dual influence has enabled the creation of an urban space that is specific to Strasbourg, where the perspectives created around the cathedral open to a unified landscape around the rivers and canals.",
+  "danger": false,
+  "geojson": "strasbourg-grande-ile-and-em-neustadt-em.geojson"
+}

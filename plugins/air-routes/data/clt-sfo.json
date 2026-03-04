@@ -1,0 +1,17 @@
+{
+  "code": "clt-sfo",
+  "name": "Charlotte — San Francisco",
+  "airports": [
+    "CLT",
+    "SFO"
+  ],
+  "distanceKm": 3687,
+  "weeklyFlights": 20,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CLT–SFO route between Charlotte and San Francisco. Distance: 3,687 km. ~20 weekly flights operated by American.",
+  "geojson": "clt-sfo.geojson"
+}

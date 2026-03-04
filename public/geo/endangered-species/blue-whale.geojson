@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"blue-whale","name":"Blue Whale"},"geometry":{"type":"Polygon","coordinates":[[[160,-60],[180,-50],[180,50],[160,60],[20,60],[20,-60],[160,-60]]]}}]}

@@ -1,0 +1,19 @@
+{
+  "code": "ord-sea",
+  "name": "Chicago — Seattle",
+  "airports": [
+    "ORD",
+    "SEA"
+  ],
+  "distanceKm": 2762,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Alaska",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–SEA route between Chicago and Seattle. Distance: 2,762 km. ~60 weekly flights operated by United, Alaska, Delta.",
+  "geojson": "ord-sea.geojson"
+}

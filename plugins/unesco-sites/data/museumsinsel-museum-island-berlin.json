@@ -1,0 +1,15 @@
+{
+  "code": "museumsinsel-museum-island-berlin",
+  "name": "Museumsinsel (Museum Island), Berlin",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The museum as a social phenomenon owes its origins to the Age of Enlightenment in the 18th century. The five museums on the Museumsinsel in Berlin, built between 1824 and 1930, are the realization of a visionary project and show the evolution of approaches to museum design over the course of the 20th century. Each museum was designed so as to establish an organic connection with the art it houses. The importance of the museum's collections – which trace the development of civilizations throughout the ages – is enhanced by the urban and architectural quality of the buildings.",
+  "danger": false,
+  "geojson": "museumsinsel-museum-island-berlin.geojson"
+}

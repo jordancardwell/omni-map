@@ -1,0 +1,14 @@
+{
+  "code": "mns-klint",
+  "name": "Møns Klint",
+  "type": "Natural",
+  "country": "Denmark",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Featuring a dramatic glaciotectonic landscape shaped by Pleistocene glaciers, the property includes chalk cliffs, rolling hills, kame and kettle topography, and outwash plains. Visible cliff cross-sections reveal intense folding and faulting of Cretaceous chalk and Quaternary sediments. The area supports rare habitats like calcareous grasslands and beech forests, hosting diverse flora and fauna, including 18 species of orchid, and the almost-threatened Large Blue butterfly. Erosion continuously exposes fossils and reshapes the cliffs.",
+  "danger": false,
+  "geojson": "mns-klint.geojson"
+}

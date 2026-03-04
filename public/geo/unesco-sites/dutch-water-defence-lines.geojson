@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7913888889,
+          52.555
+        ]
+      },
+      "properties": {
+        "code": "dutch-water-defence-lines",
+        "name": "Dutch Water Defence Lines",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

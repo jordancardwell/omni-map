@@ -1,0 +1,20 @@
+{
+  "code": "lax-jfk",
+  "name": "Los Angeles — New York",
+  "airports": [
+    "LAX",
+    "JFK"
+  ],
+  "distanceKm": 3974,
+  "weeklyFlights": 150,
+  "airlines": [
+    "Delta",
+    "American",
+    "JetBlue",
+    "United"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LAX–JFK route between Los Angeles and New York. Distance: 3,974 km. ~150 weekly flights operated by Delta, American, JetBlue, United.",
+  "geojson": "lax-jfk.geojson"
+}

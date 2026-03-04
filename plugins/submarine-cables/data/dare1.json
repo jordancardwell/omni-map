@@ -1,0 +1,17 @@
+{
+  "code": "dare1",
+  "name": "DARE1",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5000,
+  "yearLaid": 2021,
+  "rfsDate": "2022-06",
+  "owner": "Djibouti Telecom, Somtel",
+  "landingPoints": [
+    "Djibouti, Djibouti",
+    "Mogadishu, Somalia",
+    "Mombasa, Kenya"
+  ],
+  "description": "Djibouti Africa Regional Express connecting Horn of Africa countries.",
+  "geojson": "dare1.geojson"
+}

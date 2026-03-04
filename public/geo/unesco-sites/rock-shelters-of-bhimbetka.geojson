@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58333333,
+          22.92777778
+        ]
+      },
+      "properties": {
+        "code": "rock-shelters-of-bhimbetka",
+        "name": "Rock Shelters of Bhimbetka",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

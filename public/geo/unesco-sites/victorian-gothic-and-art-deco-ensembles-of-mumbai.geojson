@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8300833333,
+          18.9298055556
+        ]
+      },
+      "properties": {
+        "code": "victorian-gothic-and-art-deco-ensembles-of-mumbai",
+        "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

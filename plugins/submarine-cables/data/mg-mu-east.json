@@ -1,0 +1,16 @@
+{
+  "code": "mg-mu-east",
+  "name": "MG-MU East",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 247,
+  "yearLaid": 2014,
+  "rfsDate": "2021-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Toamasina, Madagascar",
+    "Rodrigues, Mauritius"
+  ],
+  "description": "MG-MU East connecting Toamasina to Rodrigues in East Africa/Indian Ocean.",
+  "geojson": "mg-mu-east.geojson"
+}

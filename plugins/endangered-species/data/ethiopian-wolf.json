@@ -1,0 +1,19 @@
+{
+  "code": "ethiopian-wolf",
+  "name": "Ethiopian Wolf",
+  "scientificName": "Canis simensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Afroalpine grassland",
+  "threats": [
+    "Habitat loss",
+    "Rabies from domestic dogs",
+    "Hybridization",
+    "Climate change"
+  ],
+  "conservationEfforts": "Ethiopian Wolf Conservation Programme vaccinates domestic dogs and wolves against rabies. Community engagement protects key habitats in the Bale Mountains.",
+  "description": "Africa's most endangered carnivore and the world's rarest canid, found only in the highlands of Ethiopia above 3,000 meters. They specialize in hunting rodents in Afroalpine meadows.",
+  "geojson": "ethiopian-wolf.geojson"
+}

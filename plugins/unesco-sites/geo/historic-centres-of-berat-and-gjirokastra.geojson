@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1408333333,
+          40.0741666667
+        ]
+      },
+      "properties": {
+        "code": "historic-centres-of-berat-and-gjirokastra",
+        "name": "Historic Centres of Berat and Gjirokastra",
+        "type": "Cultural",
+        "country": "Albania",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "sahara-desert",
+  "name": "Sahara Desert",
+  "region": "North Africa",
+  "aridityGroup": "1. Hyper-Arid",
+  "aridityClassification": "Hyper-Arid",
+  "aridityIndex": "< 0.05 — virtually no rainfall",
+  "area": "9,200,000 km²",
+  "degradationTrend": "Severe — Expanding",
+  "populationAffected": 2500000,
+  "affectedCountries": [
+    "Algeria",
+    "Chad",
+    "Egypt",
+    "Libya",
+    "Mali",
+    "Mauritania",
+    "Morocco",
+    "Niger",
+    "Sudan",
+    "Tunisia"
+  ],
+  "desertificationDrivers": [
+    "Climate change",
+    "Wind erosion",
+    "Overgrazing at margins",
+    "Aquifer depletion"
+  ],
+  "desertFrontier": "Southern margin expanding ~48 km/decade into the Sahel",
+  "description": "The Sahara is the world's largest hot desert, spanning 9.2 million km². Its southern boundary, the Sahel transition zone, has shifted southward significantly since the 1970s. The desert's expansion is driven by declining rainfall, rising temperatures, and degradation of marginal lands. The Sahara has expanded by roughly 10% since 1920.",
+  "geojson": "sahara-desert.geojson"
+}

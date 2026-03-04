@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.375,
+          40.125
+        ]
+      },
+      "properties": {
+        "code": "gobustan-rock-art-cultural-landscape",
+        "name": "Gobustan Rock Art Cultural Landscape",
+        "type": "Cultural",
+        "country": "Azerbaijan",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

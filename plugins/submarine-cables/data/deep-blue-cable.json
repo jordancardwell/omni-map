@@ -1,0 +1,22 @@
+{
+  "code": "deep-blue-cable",
+  "name": "Deep Blue Cable",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6700,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Digicel",
+  "landingPoints": [
+    "Jacksonville, USA",
+    "Santo Domingo, Dominican Republic",
+    "San Juan, Puerto Rico",
+    "Christiansted, USVI",
+    "Tortola, BVI",
+    "Philipsburg, Sint Maarten",
+    "Bridgetown, Barbados",
+    "Port of Spain, Trinidad"
+  ],
+  "description": "Pan-Caribbean cable system connecting multiple Caribbean island nations.",
+  "geojson": "deep-blue-cable.geojson"
+}

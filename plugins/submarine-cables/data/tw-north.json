@@ -1,0 +1,16 @@
+{
+  "code": "tw-north",
+  "name": "TW North",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 393,
+  "yearLaid": 2019,
+  "rfsDate": "2010-06",
+  "owner": "Chunghwa Telecom",
+  "landingPoints": [
+    "Taipei, Taiwan",
+    "Tanshui, Taiwan"
+  ],
+  "description": "TW North connecting Taipei to Tanshui in East Asia.",
+  "geojson": "tw-north.geojson"
+}

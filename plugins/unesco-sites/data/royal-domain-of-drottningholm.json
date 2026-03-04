@@ -1,0 +1,14 @@
+{
+  "code": "royal-domain-of-drottningholm",
+  "name": "Royal Domain of Drottningholm",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Royal Domain of Drottningholm stands on an island in Lake Mälar in a suburb of Stockholm. With its castle, perfectly preserved theatre (built in 1766), Chinese pavilion and gardens, it is the finest example of an 18th-century north European royal residence inspired by the Palace of Versailles.",
+  "danger": false,
+  "geojson": "royal-domain-of-drottningholm.geojson"
+}

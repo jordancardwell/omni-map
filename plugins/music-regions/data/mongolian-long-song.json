@@ -1,0 +1,27 @@
+{
+  "code": "mongolian-long-song",
+  "name": "Mongolian Long Song (Urtiin Duu)",
+  "region": "Mongolia",
+  "traditionFamily": "Central Asian",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Morin Khuur (Horse-head Fiddle)",
+    "Vocals",
+    "Yatga (Zither)"
+  ],
+  "keyArtists": [
+    "Norovbanzad",
+    "Namjil Norov",
+    "Tserendavaa",
+    "Ganbold",
+    "Altai Khairkhan"
+  ],
+  "description": "Urtiin duu (long song) is one of the two major forms of Mongolian traditional singing, characterized by extremely long, drawn-out phrases, wide vocal range, and free-flowing rhythms that evoke the vast Mongolian steppe. Each syllable of text is extended with elaborate melismatic ornaments. UNESCO jointly inscribed the Mongolian Long Song tradition (shared with China) in 2005.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Urtiin Duu",
+      "url": "https://ich.unesco.org/en/RL/urtiin-duu-traditional-folk-long-song-00066"
+    }
+  ],
+  "geojson": "mongolian-long-song.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5784979437,
+          49.9443931107
+        ]
+      },
+      "properties": {
+        "code": "margravial-opera-house-bayreuth",
+        "name": "Margravial Opera House Bayreuth",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

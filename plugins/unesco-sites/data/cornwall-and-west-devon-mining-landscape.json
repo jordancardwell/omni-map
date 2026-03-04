@@ -1,0 +1,16 @@
+{
+  "code": "cornwall-and-west-devon-mining-landscape",
+  "name": "Cornwall and West Devon Mining Landscape",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Much of the landscape of Cornwall and West Devon was transformed in the 18th and early 19th centuries as a result of the rapid growth of pioneering copper and tin mining. Its deep underground mines, engine houses, foundries, new towns, smallholdings, ports and harbours, and their ancillary industries together reflect prolific innovation which, in the early 19th century, enabled the region to produce two-thirds of the world’s supply of copper. The substantial remains are a testimony to the contribution Cornwall and West Devon made to the Industrial Revolution in the rest of Britain and to the fundamental influence the area had on the mining world at large. Cornish technology embodied in engines, engine houses and mining equipment was exported around the world. Cornwall and West Devon were the heartland from which mining technology rapidly spread.",
+  "danger": false,
+  "geojson": "cornwall-and-west-devon-mining-landscape.geojson"
+}

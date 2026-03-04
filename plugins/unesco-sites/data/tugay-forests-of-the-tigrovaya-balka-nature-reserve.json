@@ -1,0 +1,14 @@
+{
+  "code": "tugay-forests-of-the-tigrovaya-balka-nature-reserve",
+  "name": "Tugay forests of the Tigrovaya Balka Nature Reserve",
+  "type": "Natural",
+  "country": "Tajikistan",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This property is located between the Vakhsh and Panj rivers in southwestern Tajikistan. The Reserve includes extensive riparian tugay ecosystems, the sandy Kashka-Kum desert, the Buritau peak, as well as the Hodja-Kaziyon mountains. The property is composed of a series of floodplain terraces covered by alluvial soils, comprising tugay riverine forests with very specific biodiversity in the valley. The tugay forests in the reserve represent the largest and most intact tugay forest of this type in Central Asia, and this is the only place in the world where the Asiatic poplar tugay ecosystem has been preserved in its original state over an area of this size.",
+  "danger": false,
+  "geojson": "tugay-forests-of-the-tigrovaya-balka-nature-reserve.geojson"
+}

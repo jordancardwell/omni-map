@@ -1,0 +1,16 @@
+{
+  "code": "north-sea-fibre",
+  "name": "North Sea Fibre",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 595,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Altibox",
+  "landingPoints": [
+    "Kristiansand, Norway",
+    "Lowestoft, UK"
+  ],
+  "description": "North Sea Fibre submarine cable connecting Kristiansand to Lowestoft.",
+  "geojson": "north-sea-fibre.geojson"
+}

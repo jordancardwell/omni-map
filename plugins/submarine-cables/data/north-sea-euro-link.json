@@ -1,0 +1,16 @@
+{
+  "code": "north-sea-euro-link",
+  "name": "North Sea Euro Link",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 327,
+  "yearLaid": 2017,
+  "rfsDate": "2019-06",
+  "owner": "Euro Cable",
+  "landingPoints": [
+    "Blaabjerg, Denmark",
+    "Lowestoft, UK"
+  ],
+  "description": "North Sea Euro Link submarine cable connecting Blaabjerg to Lowestoft.",
+  "geojson": "north-sea-euro-link.geojson"
+}

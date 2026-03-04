@@ -1,0 +1,20 @@
+{
+  "code": "utc+14",
+  "name": "Line Islands Time",
+  "nativeName": "UTC+14:00",
+  "utcOffset": "UTC+14:00",
+  "utcOffsetHours": 14,
+  "offsetGroup": "8. Pacific (UTC+11 to +14)",
+  "ianaNames": [
+    "Pacific/Kiritimati"
+  ],
+  "countries": [
+    "Kiribati (Line Islands)"
+  ],
+  "dstRules": "No DST observed",
+  "description": "The furthest ahead timezone in the world. The Line Islands, part of the Republic of Kiribati, are the first inhabited places to welcome each new day. Kiribati moved these islands from UTC-10 to UTC+14 on December 31, 1994, to unify the nation on the same calendar day.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+14.geojson"
+}

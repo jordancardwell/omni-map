@@ -1,0 +1,14 @@
+{
+  "code": "decorated-farmhouses-of-halsingland",
+  "name": "Decorated Farmhouses of Hälsingland",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Seven timber houses are listed in this site located in the east of Sweden, representing the zenith of a regional timber building tradition that dates back to the Middle Ages. They reflect the prosperity of independent farmers who in the 19th century used their wealth to build substantial new homes with elaborately decorated ancillary houses or suites of rooms reserved for festivities. The paintings represent a fusion of folk art with the styles favoured by the landed gentry of the time, including Baroque and Rococo. Decorated by painters, including known and unknown itinerant artists, the listed properties represent the final flowering of a long cultural tradition.",
+  "danger": false,
+  "geojson": "decorated-farmhouses-of-halsingland.geojson"
+}

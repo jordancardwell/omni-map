@@ -1,0 +1,16 @@
+{
+  "code": "etb",
+  "name": "Ethiopian Birr",
+  "isoCode": "ETB",
+  "symbol": "Br",
+  "region": "Africa",
+  "centralBank": "National Bank of Ethiopia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Ethiopia"
+  ],
+  "countryCount": 1,
+  "description": "The Ethiopian Birr is the currency of Africa's second most populous country and one of its fastest-growing economies.",
+  "historicalNotes": "Ethiopia is one of only two African countries never colonized. The birr was introduced in 1945, replacing the East African shilling used during the Italian occupation.",
+  "geojson": "etb.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "tusi-sites",
+  "name": "Tusi Sites",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the mountainous areas of south-west China, this property encompasses remains of several tribal domains whose chiefs were appointed by the central government as ‘Tusi’, hereditary rulers from the 13th to the early 20thcentury. The Tusi system arose from the ethnic minorities’ dynastic systems of government dating back to the 3rd century BCE. Its purpose was to unify national administration, while allowing ethnic minorities to retain their customs and way of life. The sites of Laosicheng, Tangya and Hailongtun Fortress that make up the site bear exceptional testimony to this form of governance, which derived from the Chinese civilization of the Yuan and Ming periods.",
+  "danger": false,
+  "geojson": "tusi-sites.geojson"
+}

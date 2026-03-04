@@ -1,0 +1,19 @@
+{
+  "code": "cross-river-gorilla",
+  "name": "Cross River Gorilla",
+  "scientificName": "Gorilla gorilla diehli",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~300 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Montane and lowland tropical forest",
+  "threats": [
+    "Habitat loss",
+    "Hunting",
+    "Small population size",
+    "Fragmentation"
+  ],
+  "conservationEfforts": "Cross River gorilla action plan coordinates Nigeria and Cameroon conservation. Community-based programs protect habitat corridors between fragmented populations.",
+  "description": "The world's rarest great ape, found only in the border region between Nigeria and Cameroon. They live in rugged, mountainous terrain and are extremely shy of humans.",
+  "geojson": "cross-river-gorilla.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "rio-carnival-salvador",
+  "name": "Carnival of Salvador",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Afro-Brazilian tradition",
+  "estimatedAttendance": "2+ million participants",
+  "unescoICH": "Not inscribed",
+  "traditions": "Electric trio trucks (trios elétricos) with live music; blocos afro celebrating African heritage; axé music; afoxé processions.",
+  "historicalBackground": "Salvador's Carnival is rooted in African cultural traditions preserved by the large Afro-Brazilian community of Bahia. It emerged as a distinct celebration in the 20th century.",
+  "description": "Brazil's most Afro-centric carnival celebration in Salvador da Bahia, featuring electric trio trucks, axé music, and powerful African-heritage processions.",
+  "location": "Salvador, Brazil",
+  "geojson": "rio-carnival-salvador.geojson"
+}

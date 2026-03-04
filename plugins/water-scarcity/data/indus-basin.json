@@ -1,0 +1,15 @@
+{
+  "code": "indus-basin",
+  "name": "Indus Basin",
+  "region": "South Asia",
+  "stressGroup": "4. High (40-80%)",
+  "waterStressLevel": "High",
+  "waterStressRatio": "~70% — withdrawal-to-availability",
+  "depletionRate": "Very High — world's largest contiguous irrigation system",
+  "droughtRisk": "Very High",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 300000000,
+  "riskFactors": ["Glacier dependence", "Irrigation over-extraction", "Groundwater collapse", "Transboundary tension", "Extreme flooding"],
+  "description": "The Indus basin is among the most water-stressed major basins on Earth. Pakistan's Indus irrigation network — the world's largest contiguous system — withdraws over 70% of available flow. Karakoram and Hindu Kush glaciers provide 40% of dry-season flow but face uncertain futures. The 2022 floods (displacing 33 million) paradoxically occurred in a chronically water-scarce basin, illustrating extreme variability.",
+  "geojson": "indus-basin.geojson"
+}

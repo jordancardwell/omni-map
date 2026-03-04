@@ -1,0 +1,14 @@
+{
+  "code": "historical-monuments-at-makli-thatta",
+  "name": "Historical Monuments at Makli, Thatta",
+  "type": "Cultural",
+  "country": "Pakistan",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The capital of three successive dynasties and later ruled by the Mughal emperors of Delhi, Thatta was constantly embellished from the 14th to the 18th century. The remains of the city and its necropolis provide a unique view of civilization in Sind.",
+  "danger": false,
+  "geojson": "historical-monuments-at-makli-thatta.geojson"
+}

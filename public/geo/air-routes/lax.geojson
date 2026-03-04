@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"lax","name":"Los Angeles International","featureType":"airport","iataCode":"LAX","annualPassengers":65900000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[-118.4085,33.9416]}}]}

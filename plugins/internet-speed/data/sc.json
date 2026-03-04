@@ -1,0 +1,17 @@
+{
+  "code": "sc",
+  "name": "Seychelles",
+  "avgDownloadMbps": 18.6,
+  "avgUploadMbps": 8.4,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 16.4,
+  "mobileUploadMbps": 3.8,
+  "fixedDownloadMbps": 18.6,
+  "fixedUploadMbps": 8.4,
+  "rank": 114,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Tourism-driven infrastructure investment. ~10% year-over-year growth.",
+  "geojson": "sc.geojson"
+}

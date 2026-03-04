@@ -1,0 +1,19 @@
+{
+  "code": "tpe-trans-pacific-express",
+  "name": "TPE (Trans-Pacific Express)",
+  "capacityTbps": 5.12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 17700,
+  "yearLaid": 2007,
+  "rfsDate": "2008-09",
+  "owner": "TE SubCom consortium",
+  "landingPoints": [
+    "Nedonna Beach, USA",
+    "Tokyo, Japan",
+    "Busan, South Korea",
+    "Chongming, China",
+    "Taipei, Taiwan"
+  ],
+  "description": "Trans-Pacific Express cable system serving major Asian economies.",
+  "geojson": "tpe-trans-pacific-express.geojson"
+}

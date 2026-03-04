@@ -1,0 +1,14 @@
+{
+  "code": "chinese-new-year",
+  "name": "Chinese New Year",
+  "festivalType": "Cultural",
+  "dateOrSeason": "January–February (varies)",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "1.4+ billion in China; global diaspora",
+  "unescoICH": "Not inscribed",
+  "traditions": "Dragon and lion dances; red envelope (hongbao) gifts; family reunion dinners; firecrackers and fireworks; temple visits; lantern decorations.",
+  "historicalBackground": "Chinese New Year has been celebrated for over 3,000 years. It originated from the legend of Nian, a monster frightened by red decorations and loud noises.",
+  "description": "The most important traditional Chinese festival, a 15-day celebration of family, renewal, and cultural heritage marking the lunar new year.",
+  "location": "Beijing, China",
+  "geojson": "chinese-new-year.geojson"
+}

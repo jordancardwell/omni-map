@@ -1,0 +1,16 @@
+{
+  "code": "reagan-test-site",
+  "name": "Ronald Reagan Ballistic Missile Defense Test Site",
+  "country": "United States",
+  "operator": "US Army",
+  "coordinates": "9.0480°N, 167.7430°E",
+  "status": "Active",
+  "notableLaunches": [
+    "SpaceX Falcon 1 (first 3 attempts)",
+    "Missile defense interceptor tests"
+  ],
+  "orbitalInclinationRange": "9°–65°",
+  "location": "Ronald Reagan Ballistic Missile Defense Test Site, United States",
+  "description": "Located on Kwajalein Atoll, Marshall Islands. Famous as the site of SpaceX's first three Falcon 1 launch attempts. Primarily used for US ballistic missile defense testing.",
+  "geojson": "reagan-test-site.geojson"
+}

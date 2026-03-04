@@ -1,0 +1,18 @@
+{
+  "code": "atl-jfk",
+  "name": "Atlanta — New York",
+  "airports": [
+    "ATL",
+    "JFK"
+  ],
+  "distanceKm": 1222,
+  "weeklyFlights": 130,
+  "airlines": [
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–JFK route between Atlanta and New York. Distance: 1,222 km. ~130 weekly flights operated by Delta, JetBlue.",
+  "geojson": "atl-jfk.geojson"
+}

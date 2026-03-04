@@ -1,0 +1,21 @@
+{
+  "code": "kirishima",
+  "name": "Kirishima",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1700,
+  "lastEruption": "2022",
+  "vei": 3,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "The Shinmoe-dake crater erupted dramatically in 2011 and has been intermittently active since. Multiple craters in the complex.",
+  "description": "Kirishima is a complex of volcanic peaks in southern Kyushu. The Shinmoe-dake crater gained fame when it was featured in the James Bond film 'You Only Live Twice.'",
+  "geojson": "kirishima.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.803611111,
+          42.50472222
+        ]
+      },
+      "properties": {
+        "code": "catalan-romanesque-churches-of-the-vall-de-boi",
+        "name": "Catalan Romanesque Churches of the Vall de Boí",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

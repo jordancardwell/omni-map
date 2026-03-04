@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2679,
+          30.5728
+        ]
+      },
+      "properties": {
+        "code": "dragon-boat",
+        "name": "Dragon Boat Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "5th of 5th lunar month",
+        "location": "Wuhan, China"
+      }
+    }
+  ]
+}

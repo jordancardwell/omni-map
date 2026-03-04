@@ -1,0 +1,18 @@
+{
+  "code": "cape-canaveral-slc37",
+  "name": "Space Launch Complex 37 (Cape Canaveral)",
+  "country": "United States",
+  "operator": "ULA",
+  "coordinates": "28.5316°N, 80.5653°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Saturn I/IB launches",
+    "Delta IV Heavy",
+    "NROL missions",
+    "Parker Solar Probe"
+  ],
+  "orbitalInclinationRange": "28.5°–57°",
+  "location": "Space Launch Complex 37 (Cape Canaveral), United States",
+  "description": "Historic launch complex first built for Saturn I rockets in the 1960s. Rebuilt for Delta IV in the 2000s. Home to ULA's Delta IV Heavy, the US's most powerful operational rocket before SLS.",
+  "geojson": "cape-canaveral-slc37.geojson"
+}

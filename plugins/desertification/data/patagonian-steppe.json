@@ -1,0 +1,23 @@
+{
+  "code": "patagonian-steppe",
+  "name": "Patagonian Steppe",
+  "region": "South America",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.10–0.20 — cold arid steppe",
+  "area": "673,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 2000000,
+  "affectedCountries": [
+    "Argentina"
+  ],
+  "desertificationDrivers": [
+    "Sheep overgrazing",
+    "Wind erosion",
+    "Climate change",
+    "Oil extraction"
+  ],
+  "desertFrontier": "Desertification advancing from west and central zones",
+  "description": "Patagonia experiences severe wind erosion and desertification driven by over a century of intensive sheep ranching. An estimated 30% of the region is severely desertified. The strong westerly winds strip away topsoil once vegetative cover is lost. Climate models predict further drying and warming of the region through the 21st century.",
+  "geojson": "patagonian-steppe.geojson"
+}

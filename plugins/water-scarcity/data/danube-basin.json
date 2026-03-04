@@ -1,0 +1,15 @@
+{
+  "code": "danube-basin",
+  "name": "Danube Basin",
+  "region": "Europe",
+  "stressGroup": "2. Low-Medium (10-20%)",
+  "waterStressLevel": "Low-Medium",
+  "waterStressRatio": "~12% — withdrawal-to-availability",
+  "depletionRate": "Low — alpine snowmelt provides reliable recharge",
+  "droughtRisk": "Moderate",
+  "seasonalVariability": "Moderate",
+  "affectedPopulation": 80000000,
+  "riskFactors": ["Industrial pollution", "Climate warming", "Reduced snowpack", "Nutrient loading"],
+  "description": "The Danube traverses 10 countries from the Black Forest to the Black Sea. Water stress is generally low-medium thanks to alpine and Carpathian recharge, but climate projections show declining summer flows by 15-25% by 2050. The 2022 drought exposed barges and WWII munitions on the riverbed across multiple countries.",
+  "geojson": "danube-basin.geojson"
+}

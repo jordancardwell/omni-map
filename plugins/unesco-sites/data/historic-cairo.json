@@ -1,0 +1,15 @@
+{
+  "code": "historic-cairo",
+  "name": "Historic Cairo",
+  "type": "Cultural",
+  "country": "Egypt",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Tucked away amid the modern urban area of Cairo lies one of the world's oldest Islamic cities, with its famous mosques, madrasas, hammams and fountains. Founded in the 10th century, it became the new centre of the Islamic world, reaching its golden age in the 14th century.",
+  "danger": false,
+  "geojson": "historic-cairo.geojson"
+}

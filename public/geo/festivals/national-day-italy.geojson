@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "code": "national-day-italy",
+        "name": "Republic Day (Italy)",
+        "festivalType": "National",
+        "dateOrSeason": "June 2",
+        "location": "Rome, Italy"
+      }
+    }
+  ]
+}

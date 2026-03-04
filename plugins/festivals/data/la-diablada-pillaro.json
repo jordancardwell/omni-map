@@ -1,0 +1,14 @@
+{
+  "code": "la-diablada-pillaro",
+  "name": "La Diablada de Píllaro",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "January 1–6",
+  "origin": "Ecuadorian tradition",
+  "estimatedAttendance": "100,000+ visitors",
+  "unescoICH": "Inscribed 2008 (national)",
+  "traditions": "Men dressed as devils dance through streets; colorful devil masks; cattle lasso demonstrations; community parades; traditional music.",
+  "historicalBackground": "La Diablada de Píllaro originated as indigenous resistance to Spanish colonial rule, with locals dressing as devils to mock the colonizers' religion.",
+  "description": "Ecuador's rebellious New Year devil dance, where masked dancers reclaim the streets in a defiant celebration of indigenous identity.",
+  "location": "Píllaro, Ecuador",
+  "geojson": "la-diablada-pillaro.geojson"
+}

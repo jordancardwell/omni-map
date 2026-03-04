@@ -1,0 +1,15 @@
+{
+  "code": "monastery-of-alcobaca",
+  "name": "Monastery of Alcobaça",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "1989",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Monastery of Santa Maria d'Alcobaça, north of Lisbon, was founded in the 12th century by King Alfonso I. Its size, the purity of its architectural style, the beauty of the materials and the care with which it was built make this a masterpiece of Cistercian Gothic art.",
+  "danger": false,
+  "geojson": "monastery-of-alcobaca.geojson"
+}

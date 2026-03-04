@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "china-usa", "name": "China \u2192 United States", "migrantVolume": 4}, "geometry": {"type": "LineString", "coordinates": [[116, 35], [130, 38], [145, 40], [160, 42], [-175, 43], [-160, 42], [-145, 40], [-130, 38], [-118, 34]]}}]}

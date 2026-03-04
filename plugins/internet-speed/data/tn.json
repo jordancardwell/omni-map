@@ -1,0 +1,17 @@
+{
+  "code": "tn",
+  "name": "Tunisia",
+  "avgDownloadMbps": 28.4,
+  "avgUploadMbps": 6.8,
+  "avgLatencyMs": 30,
+  "mobileDownloadMbps": 18.2,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 28.4,
+  "fixedUploadMbps": 6.8,
+  "rank": 96,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "North Africa",
+  "dataYear": 2024,
+  "trendDescription": "North African broadband growing. ~14% year-over-year growth.",
+  "geojson": "tn.geojson"
+}

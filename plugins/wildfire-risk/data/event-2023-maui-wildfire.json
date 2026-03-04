@@ -1,0 +1,12 @@
+{
+  "code": "event-2023-maui-wildfire",
+  "name": "2023 Maui Wildfire (Lahaina)",
+  "region": "Maui, Hawaii",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2023",
+  "areaBurned": 7000,
+  "cause": "Downed power lines, hurricane-force winds from Hurricane Dora",
+  "description": "The Lahaina wildfire on August 8, 2023 was the deadliest US wildfire in over a century, killing 101 people and destroying the historic town of Lahaina on Maui's west coast. Despite burning only 7,000 hectares, the fire caused over $5.5 billion in damage. Hurricane Dora's distant winds drove the fire through the town at extraordinary speed, giving residents minutes to evacuate. The disaster exposed failures in emergency warning systems — outdoor sirens were never activated. Invasive fire-prone grasses that replaced former sugar cane fields fueled the rapid fire spread.",
+  "geojson": "event-2023-maui-wildfire.geojson"
+}

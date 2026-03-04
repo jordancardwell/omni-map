@@ -1,0 +1,18 @@
+{
+  "code": "ist-doh",
+  "name": "Istanbul — Doha",
+  "airports": [
+    "IST",
+    "DOH"
+  ],
+  "distanceKm": 2756,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Turkish Airlines",
+    "Qatar Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IST–DOH route between Istanbul and Doha. Distance: 2,756 km. ~60 weekly flights operated by Turkish Airlines, Qatar Airways.",
+  "geojson": "ist-doh.geojson"
+}

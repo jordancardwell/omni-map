@@ -1,0 +1,21 @@
+{
+  "code": "irminger",
+  "name": "Irminger Current",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.4 m/s",
+  "origin": "North Atlantic Drift",
+  "destination": "South of Iceland / Denmark Strait",
+  "climateEffects": [
+    "Moderates Icelandic climate",
+    "Influences deep-water formation",
+    "Affects Arctic sea ice"
+  ],
+  "connectedEcosystems": [
+    "Iceland marine fisheries",
+    "Irminger Sea biodiversity",
+    "Denmark Strait ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Irminger Current branches from the North Atlantic Drift and flows westward south of Iceland. It plays a key role in the thermohaline circulation and deep-water formation in the North Atlantic.",
+  "geojson": "irminger.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-big-bend",
+        "name": "Big Bend National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25,
+          29.25
+        ]
+      }
+    }
+  ]
+}

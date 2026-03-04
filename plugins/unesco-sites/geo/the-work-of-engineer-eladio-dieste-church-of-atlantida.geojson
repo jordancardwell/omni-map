@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7664083333,
+          -34.7439194444
+        ]
+      },
+      "properties": {
+        "code": "the-work-of-engineer-eladio-dieste-church-of-atlantida",
+        "name": "The work of engineer Eladio Dieste: Church of Atlántida",
+        "type": "Cultural",
+        "country": "Uruguay",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

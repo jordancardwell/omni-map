@@ -1,0 +1,21 @@
+{
+  "code": "somali",
+  "name": "Somali Current",
+  "currentType": "Cold",
+  "speedRange": "0.5–2.0 m/s",
+  "origin": "Southern Indian Ocean",
+  "destination": "Arabian Sea",
+  "climateEffects": [
+    "Reverses direction seasonally (monsoon)",
+    "Drives intense upwelling (summer)",
+    "Cools Horn of Africa coast"
+  ],
+  "connectedEcosystems": [
+    "Somali upwelling ecosystem",
+    "Gulf of Aden marine habitats",
+    "East African pelagic zone"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Somali Current is unique among major currents in that it completely reverses direction between seasons. During the Southwest Monsoon (summer), it flows northeastward with extreme velocity, driving one of the strongest upwelling systems in the world.",
+  "geojson": "somali.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "wht",
+  "name": "William Herschel Telescope",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2344,
+  "aperture": "4.2 m",
+  "telescopes": [
+    "WHT"
+  ],
+  "keyDiscoveries": [
+    "Gravitational lensing",
+    "Galaxy dynamics",
+    "Supernovae spectroscopy"
+  ],
+  "location": "William Herschel Telescope, Spain",
+  "description": "The largest optical telescope in Europe when built in 1987. Part of the Isaac Newton Group on La Palma, specializing in spectroscopy and imaging.",
+  "geojson": "wht.geojson"
+}

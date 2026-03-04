@@ -1,0 +1,16 @@
+{
+  "code": "au-lk-link",
+  "name": "AU-LK Link",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4546,
+  "yearLaid": 2018,
+  "rfsDate": "2012-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Perth, Australia",
+    "Colombo, Sri Lanka"
+  ],
+  "description": "AU-LK Link connecting Perth to Colombo.",
+  "geojson": "au-lk-link.geojson"
+}

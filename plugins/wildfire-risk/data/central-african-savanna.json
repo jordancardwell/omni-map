@@ -1,0 +1,15 @@
+{
+  "code": "central-african-savanna",
+  "name": "Central African Miombo Savanna",
+  "region": "Africa",
+  "riskGroup": "3. Moderate",
+  "riskLevel": "Moderate",
+  "fireFrequency": "Very High — one of the most frequently burned regions globally",
+  "dominantVegetation": "Miombo woodland, dambo grassland, Brachystegia forest",
+  "fireSeasonMonths": "May – October",
+  "areaBurnedAnnual": "~30 million ha across the Miombo belt",
+  "seasonalPattern": "The extended dry season (May–October) desiccates the miombo woodlands and grasslands. Fire is the dominant ecological process in this landscape — most fires are set for agriculture, charcoal production, and hunting. The late dry season burns are most intense and damaging to woodland structure. Fire season timing and intensity are shifting with changing rainfall patterns.",
+  "historicalFires": ["Annual widespread burning (30M+ ha/year)", "Fire is integral to land management across DRC, Tanzania, Zambia, Mozambique", "2019 Central Africa fire season detected by satellite exceeded Amazon coverage"],
+  "description": "The Miombo woodland belt — stretching from the Democratic Republic of Congo through Tanzania, Zambia, Malawi, Mozambique, and Zimbabwe — is one of the most actively burned landscapes on Earth. In 2019, satellite data showed more active fires in Central Africa than in the Amazon, though this received little media attention. Fire has shaped the miombo ecosystem for millennia and many species depend on regular burning. However, increasing population pressure is shortening the intervals between fires, preventing woodland recovery and driving a gradual transition from forest to grassland in many areas.",
+  "geojson": "central-african-savanna.geojson"
+}

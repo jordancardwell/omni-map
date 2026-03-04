@@ -1,0 +1,16 @@
+{
+  "code": "ru-kr-pacific",
+  "name": "RU-KR Pacific",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 6835,
+  "yearLaid": 2015,
+  "rfsDate": "2017-06",
+  "owner": "Rostelecom",
+  "landingPoints": [
+    "Vladivostok, Russia",
+    "Busan, South Korea"
+  ],
+  "description": "RU-KR Pacific connecting Vladivostok to Busan.",
+  "geojson": "ru-kr-pacific.geojson"
+}

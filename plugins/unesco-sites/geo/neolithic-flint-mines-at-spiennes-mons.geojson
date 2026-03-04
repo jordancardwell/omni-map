@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9822689106,
+          50.4201134823
+        ]
+      },
+      "properties": {
+        "code": "neolithic-flint-mines-at-spiennes-mons",
+        "name": "Neolithic Flint Mines at Spiennes (Mons)",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

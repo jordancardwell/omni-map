@@ -1,0 +1,25 @@
+{
+  "code": "spanish-empire",
+  "name": "Spanish Empire",
+  "era": "Early Modern",
+  "peakYear": "1790 CE",
+  "areaAtPeakKm2": 13700000,
+  "populationEstimate": "68 million",
+  "capital": "Madrid",
+  "keyAchievements": [
+    "Global maritime empire",
+    "Columbian Exchange",
+    "Spanish language spread",
+    "Silver trade network",
+    "Catholic mission system"
+  ],
+  "declineFactors": [
+    "Armada defeat",
+    "Colonial independence movements",
+    "Economic mismanagement",
+    "Napoleonic invasion",
+    "Spanish-American War"
+  ],
+  "description": "The Spanish Empire was one of the first global empires, spanning the Americas, parts of Europe, Africa, Asia, and Oceania. At its peak, it was said that 'the sun never set' on Spanish territories.\n\nSpain's colonization of the Americas fundamentally reshaped the world through the Columbian Exchange — the transfer of plants, animals, diseases, and cultures between hemispheres. The empire spread the Spanish language (now spoken by 500+ million people) and Catholicism across the globe.",
+  "geojson": "spanish-empire.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "icn-pek",
+  "name": "Seoul — Beijing",
+  "airports": [
+    "ICN",
+    "PEK"
+  ],
+  "distanceKm": 901,
+  "weeklyFlights": 170,
+  "airlines": [
+    "Korean Air",
+    "Asiana",
+    "Air China"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ICN–PEK route between Seoul and Beijing. Distance: 901 km. ~170 weekly flights operated by Korean Air, Asiana, Air China.",
+  "geojson": "icn-pek.geojson"
+}

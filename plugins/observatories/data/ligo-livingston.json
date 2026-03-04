@@ -1,0 +1,20 @@
+{
+  "code": "ligo-livingston",
+  "name": "LIGO Livingston",
+  "country": "United States",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 7,
+  "aperture": "4 km arms",
+  "telescopes": [
+    "Advanced LIGO"
+  ],
+  "keyDiscoveries": [
+    "Gravitational wave detections",
+    "Black hole merger events",
+    "Multi-messenger astronomy"
+  ],
+  "location": "LIGO Livingston, United States",
+  "description": "The Louisiana LIGO detector. Together with Hanford, enables gravitational wave sky localization. Has detected dozens of black hole and neutron star mergers.",
+  "geojson": "ligo-livingston.geojson"
+}

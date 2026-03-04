@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.35,
+          48.15
+        ]
+      },
+      "properties": {
+        "code": "tokaj-wine-region-historic-cultural-landscape",
+        "name": "Tokaj Wine Region Historic Cultural Landscape",
+        "type": "Cultural",
+        "country": "Hungary",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

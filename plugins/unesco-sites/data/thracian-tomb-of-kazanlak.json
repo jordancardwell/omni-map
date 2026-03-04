@@ -1,0 +1,16 @@
+{
+  "code": "thracian-tomb-of-kazanlak",
+  "name": "Thracian Tomb of Kazanlak",
+  "type": "Cultural",
+  "country": "Bulgaria",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period.",
+  "danger": false,
+  "geojson": "thracian-tomb-of-kazanlak.geojson"
+}

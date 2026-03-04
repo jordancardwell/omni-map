@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5936111111,
+          59.8786111111
+        ]
+      },
+      "properties": {
+        "code": "rjukan-notodden-industrial-heritage-site",
+        "name": "Rjukan-Notodden Industrial Heritage Site",
+        "type": "Cultural",
+        "country": "Norway",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

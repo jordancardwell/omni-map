@@ -1,0 +1,16 @@
+{
+  "code": "archaeological-park-and-ruins-of-quirigua",
+  "name": "Archaeological Park and Ruins of Quirigua",
+  "type": "Cultural",
+  "country": "Guatemala",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Inhabited since the 2nd century A.D., Quirigua had become during the reign of Cauac Sky (723–84) the capital of an autonomous and prosperous state. The ruins of Quirigua contain some outstanding 8th-century monuments and an impressive series of carved stelae and sculpted calendars that constitute an essential source for the study of Mayan civilization.",
+  "danger": false,
+  "geojson": "archaeological-park-and-ruins-of-quirigua.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "nevado-del-ruiz",
+  "name": "Nevado del Ruiz",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 5321,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Colombia",
+  "region": "Andes",
+  "location": "Andes, Colombia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lahars",
+    "Pyroclastic flows",
+    "Ashfall"
+  ],
+  "eruptionHistory": "The 1985 eruption triggered a lahar that destroyed the town of Armero, killing approximately 23,000 people — one of the deadliest volcanic disasters in history.",
+  "description": "Nevado del Ruiz is infamous for the 1985 Armero tragedy, when lahars from a small eruption killed over 23,000 people. It remains one of the most dangerous volcanoes in Colombia.",
+  "geojson": "nevado-del-ruiz.geojson"
+}

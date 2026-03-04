@@ -1,0 +1,20 @@
+{
+  "code": "mauna-loa",
+  "name": "Mauna Loa",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 4169,
+  "lastEruption": "2022",
+  "vei": 0,
+  "country": "United States",
+  "region": "Hawaii",
+  "location": "Hawaii, United States",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "The world's largest active volcano. Erupted in November 2022 after 38 years of quiet. Has erupted 33 times since 1843.",
+  "description": "Mauna Loa is the world's largest active volcano by volume and area. When measured from its base on the ocean floor, it rises over 9,000 meters — taller than Mount Everest.",
+  "geojson": "mauna-loa.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3155,
+          45.4408
+        ]
+      },
+      "properties": {
+        "code": "venice-regata-storica",
+        "name": "Regata Storica",
+        "festivalType": "Cultural",
+        "dateOrSeason": "First Sunday of September",
+        "location": "Venice, Italy"
+      }
+    }
+  ]
+}

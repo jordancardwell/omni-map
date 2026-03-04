@@ -1,0 +1,16 @@
+{
+  "code": "is-ie-cable",
+  "name": "IS-IE Cable",
+  "capacityTbps": 39,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1472,
+  "yearLaid": 2012,
+  "rfsDate": "2016-06",
+  "owner": "Farice",
+  "landingPoints": [
+    "Reykjavik, Iceland",
+    "Dublin, Ireland"
+  ],
+  "description": "IS-IE Cable connecting Reykjavik to Dublin.",
+  "geojson": "is-ie-cable.geojson"
+}

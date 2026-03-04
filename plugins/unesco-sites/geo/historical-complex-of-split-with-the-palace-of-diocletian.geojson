@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4391666667,
+          43.5088888889
+        ]
+      },
+      "properties": {
+        "code": "historical-complex-of-split-with-the-palace-of-diocletian",
+        "name": "Historical Complex of Split with the Palace of Diocletian",
+        "type": "Cultural",
+        "country": "Croatia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "zar",
+  "name": "South African Rand",
+  "isoCode": "ZAR",
+  "symbol": "R",
+  "region": "Africa",
+  "centralBank": "South African Reserve Bank",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "South Africa",
+    "Eswatini",
+    "Lesotho",
+    "Namibia"
+  ],
+  "countryCount": 4,
+  "description": "The South African Rand is Africa's most traded currency and also serves as legal tender in Eswatini, Lesotho, and Namibia through the Common Monetary Area.",
+  "historicalNotes": "Named after the Witwatersrand ('Ridge of White Waters'), the area where most of South Africa's gold deposits were found. Introduced in 1961 when South Africa became a republic.",
+  "geojson": "zar.geojson"
+}

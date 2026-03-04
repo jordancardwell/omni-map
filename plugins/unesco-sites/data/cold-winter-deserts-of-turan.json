@@ -1,0 +1,15 @@
+{
+  "code": "cold-winter-deserts-of-turan",
+  "name": "Cold Winter Deserts of Turan",
+  "type": "Natural",
+  "country": "Kazakhstan, Uzbekistan, Turkmenistan",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes.",
+  "danger": false,
+  "geojson": "cold-winter-deserts-of-turan.geojson"
+}

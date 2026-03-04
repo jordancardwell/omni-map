@@ -1,0 +1,17 @@
+{
+  "code": "ni",
+  "name": "Nicaragua",
+  "avgDownloadMbps": 20.6,
+  "avgUploadMbps": 5.8,
+  "avgLatencyMs": 44,
+  "mobileDownloadMbps": 12.4,
+  "mobileUploadMbps": 2.8,
+  "fixedDownloadMbps": 20.6,
+  "fixedUploadMbps": 5.8,
+  "rank": 111,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Central America",
+  "dataYear": 2024,
+  "trendDescription": "Limited but growing broadband. ~12% year-over-year growth.",
+  "geojson": "ni.geojson"
+}

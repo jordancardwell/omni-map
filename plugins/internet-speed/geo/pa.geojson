@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pa","name":"Panama","country":"PA","speedTier":"Moderate (30–75 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-83.1,7.2],[-83.1,9.6],[-77.2,9.6],[-77.2,7.2],[-83.1,7.2]]]}}]}

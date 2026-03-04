@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8056,
+          26.3344
+        ]
+      },
+      "properties": {
+        "code": "okinawan-eisa",
+        "name": "Eisa Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "August (Obon period)",
+        "location": "Okinawa, Japan"
+      }
+    }
+  ]
+}

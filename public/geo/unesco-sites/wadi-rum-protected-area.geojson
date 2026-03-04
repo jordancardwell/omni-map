@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4338888889,
+          29.6397222222
+        ]
+      },
+      "properties": {
+        "code": "wadi-rum-protected-area",
+        "name": "Wadi Rum Protected Area",
+        "type": "Mixed",
+        "country": "Jordan",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

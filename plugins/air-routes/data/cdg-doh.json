@@ -1,0 +1,18 @@
+{
+  "code": "cdg-doh",
+  "name": "Paris — Doha",
+  "airports": [
+    "CDG",
+    "DOH"
+  ],
+  "distanceKm": 4969,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Qatar Airways",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CDG–DOH route between Paris and Doha. Distance: 4,969 km. ~40 weekly flights operated by Qatar Airways, Air France.",
+  "geojson": "cdg-doh.geojson"
+}

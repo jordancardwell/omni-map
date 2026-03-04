@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49617,
+          38.48149
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-delphi",
+        "name": "Archaeological Site of Delphi",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

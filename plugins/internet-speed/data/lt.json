@@ -1,0 +1,17 @@
+{
+  "code": "lt",
+  "name": "Lithuania",
+  "avgDownloadMbps": 139.4,
+  "avgUploadMbps": 72.3,
+  "avgLatencyMs": 10,
+  "mobileDownloadMbps": 45.6,
+  "mobileUploadMbps": 10.2,
+  "fixedDownloadMbps": 139.4,
+  "fixedUploadMbps": 72.3,
+  "rank": 32,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Strong fiber infrastructure in urban areas. ~7% year-over-year growth.",
+  "geojson": "lt.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "casablanca",
+  "name": "Port of Casablanca",
+  "country": "Morocco",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West African Coastal Route",
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Casablanca in Morocco. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+  "geojson": "casablanca.geojson"
+}

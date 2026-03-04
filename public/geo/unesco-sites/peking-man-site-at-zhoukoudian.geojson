@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.922702,
+          39.689449
+        ]
+      },
+      "properties": {
+        "code": "peking-man-site-at-zhoukoudian",
+        "name": "Peking Man Site at Zhoukoudian",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

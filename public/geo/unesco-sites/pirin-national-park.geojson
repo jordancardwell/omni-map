@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4304722222,
+          41.7427222222
+        ]
+      },
+      "properties": {
+        "code": "pirin-national-park",
+        "name": "Pirin National Park",
+        "type": "Natural",
+        "country": "Bulgaria",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

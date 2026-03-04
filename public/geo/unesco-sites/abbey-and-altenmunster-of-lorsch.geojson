@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56858,
+          49.65369
+        ]
+      },
+      "properties": {
+        "code": "abbey-and-altenmunster-of-lorsch",
+        "name": "Abbey and Altenmünster of Lorsch",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

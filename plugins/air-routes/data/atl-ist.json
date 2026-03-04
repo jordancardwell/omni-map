@@ -1,0 +1,18 @@
+{
+  "code": "atl-ist",
+  "name": "Atlanta — Istanbul",
+  "airports": [
+    "ATL",
+    "IST"
+  ],
+  "distanceKm": 9246,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Delta",
+    "Turkish Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–IST route between Atlanta and Istanbul. Distance: 9,246 km. ~25 weekly flights operated by Delta, Turkish Airlines.",
+  "geojson": "atl-ist.geojson"
+}

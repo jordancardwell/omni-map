@@ -1,0 +1,14 @@
+{
+  "code": "historic-mosque-city-of-bagerhat",
+  "name": "Historic Mosque City of Bagerhat",
+  "type": "Cultural",
+  "country": "Bangladesh",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated in the suburbs of Bagerhat, at the meeting-point of the Ganges and Brahmaputra rivers, this ancient city, formerly known as Khalifatabad, was founded by the Turkish general Ulugh Khan Jahan in the 15th century. The city’s infrastructure reveals considerable technical skill and an exceptional number of mosques and early Islamic monuments, many built of brick, can be seen there.",
+  "danger": false,
+  "geojson": "historic-mosque-city-of-bagerhat.geojson"
+}

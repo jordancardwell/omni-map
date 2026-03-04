@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.2202778,
+          52.095
+        ]
+      },
+      "properties": {
+        "code": "s-u-g-u-ang-gwaay",
+        "name": "SGang Gwaay",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

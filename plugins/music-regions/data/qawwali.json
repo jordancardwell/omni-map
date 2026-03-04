@@ -1,0 +1,29 @@
+{
+  "code": "qawwali",
+  "name": "Qawwali",
+  "region": "Pakistan & Northern India",
+  "traditionFamily": "South Asian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Harmonium",
+    "Tabla",
+    "Dholak",
+    "Handclaps",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Nusrat Fateh Ali Khan",
+    "Sabri Brothers",
+    "Abida Parveen",
+    "Rahat Fateh Ali Khan",
+    "Aziz Mian"
+  ],
+  "description": "Qawwali is a form of Sufi devotional music originating in the Indian subcontinent, developed in the 13th century by Amir Khusrau. Featuring powerful vocals with rhythmic handclaps and harmonium accompaniment, qawwali performances aim to induce a state of spiritual ecstasy (wajd). The genre gained international recognition through Nusrat Fateh Ali Khan's groundbreaking collaborations.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Qawwali",
+      "url": "https://folkways.si.edu/search?query=qawwali"
+    }
+  ],
+  "geojson": "qawwali.geojson"
+}

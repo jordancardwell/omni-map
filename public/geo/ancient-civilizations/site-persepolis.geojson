@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "site-persepolis", "name": "Persepolis" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [52.8914, 29.9353]
+    }
+  }]
+}

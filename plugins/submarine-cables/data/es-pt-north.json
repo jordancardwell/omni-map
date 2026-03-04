@@ -1,0 +1,16 @@
+{
+  "code": "es-pt-north",
+  "name": "ES-PT North",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2596,
+  "yearLaid": 2020,
+  "rfsDate": "2011-06",
+  "owner": "NOS",
+  "landingPoints": [
+    "Vigo, Spain",
+    "Porto, Portugal"
+  ],
+  "description": "ES-PT North connecting Vigo to Porto in Europe.",
+  "geojson": "es-pt-north.geojson"
+}

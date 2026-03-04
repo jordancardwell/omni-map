@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0091666667,
+          30.5738888889
+        ]
+      },
+      "properties": {
+        "code": "incense-route-desert-cities-in-the-negev",
+        "name": "Incense Route - Desert Cities in the Negev",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

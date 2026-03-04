@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7675,
+          48.9994444444
+        ]
+      },
+      "properties": {
+        "code": "levoca-spissky-hrad-and-the-associated-cultural-monuments",
+        "name": "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+        "type": "Cultural",
+        "country": "Slovakia",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "pushchino",
+  "name": "Pushchino Radio Astronomy Observatory",
+  "country": "Russia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 200,
+  "aperture": "Various arrays",
+  "telescopes": [
+    "BSA",
+    "DKR-1000",
+    "RT-22"
+  ],
+  "keyDiscoveries": [
+    "Pulsar scintillation",
+    "Low-frequency radio surveys",
+    "Solar radio emission"
+  ],
+  "location": "Pushchino Radio Astronomy Observatory, Russia",
+  "description": "Lebedev Physical Institute observatory south of Moscow. Operates several large radio telescope systems for low-frequency radio astronomy.",
+  "geojson": "pushchino.geojson"
+}

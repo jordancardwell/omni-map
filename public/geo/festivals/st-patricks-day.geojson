@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603,
+          53.3498
+        ]
+      },
+      "properties": {
+        "code": "st-patricks-day",
+        "name": "St. Patrick's Day",
+        "festivalType": "National",
+        "dateOrSeason": "March 17",
+        "location": "Dublin, Ireland"
+      }
+    }
+  ]
+}

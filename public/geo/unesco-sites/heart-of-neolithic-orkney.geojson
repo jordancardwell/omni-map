@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188666667,
+          58.99605556
+        ]
+      },
+      "properties": {
+        "code": "heart-of-neolithic-orkney",
+        "name": "Heart of Neolithic Orkney",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

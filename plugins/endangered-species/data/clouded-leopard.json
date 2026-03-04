@@ -1,0 +1,18 @@
+{
+  "code": "clouded-leopard",
+  "name": "Sunda Clouded Leopard",
+  "scientificName": "Neofelis diardi",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest",
+  "threats": [
+    "Deforestation",
+    "Poaching",
+    "Palm oil plantations"
+  ],
+  "conservationEfforts": "Protected areas on Borneo and Sumatra. Camera trapping surveys monitor populations. Heart of Borneo initiative conserves vast forest areas.",
+  "description": "Separated from mainland clouded leopards as a distinct species in 2006. Found only on Borneo and Sumatra, it has the longest canine teeth relative to body size of any living cat.",
+  "geojson": "clouded-leopard.geojson"
+}

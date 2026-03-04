@@ -1,0 +1,12 @@
+{
+  "code": "site-mohenjo-daro",
+  "name": "Mohenjo-daro",
+  "period": "c. 2500–1900 BCE",
+  "region": "South Asia",
+  "type": "Archaeological Site",
+  "writingSystem": "Indus script",
+  "majorAchievements": ["Great Bath complex", "Grid-planned streets", "Advanced sewerage system", "Standardized brick construction"],
+  "keyCities": ["Mohenjo-daro"],
+  "description": "Mohenjo-daro, meaning 'Mound of the Dead', was one of the largest settlements of the Indus Valley Civilization. Located in modern-day Sindh, Pakistan, its ruins reveal remarkably sophisticated urban planning with a grid street layout, advanced drainage systems, and the Great Bath — one of the earliest known public water structures. The city may have housed up to 40,000 people at its peak.",
+  "geojson": "site-mohenjo-daro.geojson"
+}

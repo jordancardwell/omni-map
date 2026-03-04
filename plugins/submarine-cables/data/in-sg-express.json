@@ -1,0 +1,16 @@
+{
+  "code": "in-sg-express",
+  "name": "IN-SG Express",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2264,
+  "yearLaid": 2015,
+  "rfsDate": "2018-06",
+  "owner": "Bharti Airtel",
+  "landingPoints": [
+    "Chennai, India",
+    "Singapore"
+  ],
+  "description": "IN-SG Express connecting Chennai to Singapore.",
+  "geojson": "in-sg-express.geojson"
+}

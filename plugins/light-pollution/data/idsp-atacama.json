@@ -1,0 +1,26 @@
+{
+  "code": "idsp-atacama",
+  "name": "ALMA Observatory & Atacama Dark Sky",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "Protected Astronomical Zone",
+  "designationYear": "1998",
+  "areaSqKm": 45000,
+  "visibleObjects": [
+    "Milky Way (exceptional)",
+    "Magellanic Clouds",
+    "Zodiacal light",
+    "Gegenschein",
+    "Canopus at zenith"
+  ],
+  "exampleLocations": [
+    "Atacama Desert, Chile",
+    "ALMA Observatory",
+    "Paranal Observatory"
+  ],
+  "nearestDarkSkyReserves": [
+    "Atacama Protected Zone (this site)"
+  ],
+  "description": "Chile's Atacama Desert hosts the highest concentration of professional observatories on Earth, including ALMA, Paranal (VLT), and La Silla. Chilean law protects an enormous zone from light pollution — the Norma Lumínica regulates outdoor lighting across northern Chile. At 5,000 meters altitude, ALMA operates in some of the driest and darkest conditions achievable from Earth's surface. The Atacama is arguably the single best astronomical observing site on the planet, combining dark skies, stable atmosphere, extreme aridity, and high altitude.",
+  "geojson": "idsp-atacama.geojson"
+}

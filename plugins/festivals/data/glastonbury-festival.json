@@ -1,0 +1,14 @@
+{
+  "code": "glastonbury-festival",
+  "name": "Glastonbury Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Late June",
+  "origin": "British tradition",
+  "estimatedAttendance": "210,000 attendees",
+  "unescoICH": "Not inscribed",
+  "traditions": "Music performances across dozens of stages; Pyramid Stage headliners; Shangri-La art area; stone circle; Green Fields healing area.",
+  "historicalBackground": "Michael Eavis hosted the first Glastonbury in 1970, charging £1 including free milk. It grew into the world's most famous music and performing arts festival.",
+  "description": "The world's most iconic music festival, held on a Somerset dairy farm with hundreds of acts across art, music, and counterculture.",
+  "location": "Pilton, UK",
+  "geojson": "glastonbury-festival.geojson"
+}

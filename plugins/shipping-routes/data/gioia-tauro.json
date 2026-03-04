@@ -1,0 +1,14 @@
+{
+  "code": "gioia-tauro",
+  "name": "Gioia Tauro",
+  "country": "Italy",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Gioia Tauro in Italy. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "gioia-tauro.geojson"
+}

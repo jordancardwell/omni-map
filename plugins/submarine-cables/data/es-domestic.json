@@ -1,0 +1,16 @@
+{
+  "code": "es-domestic",
+  "name": "ES Domestic",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 851,
+  "yearLaid": 2015,
+  "rfsDate": "2011-06",
+  "owner": "Telefonica",
+  "landingPoints": [
+    "Barcelona, Spain",
+    "Bilbao, Spain"
+  ],
+  "description": "ES Domestic connecting Barcelona to Bilbao in Europe.",
+  "geojson": "es-domestic.geojson"
+}

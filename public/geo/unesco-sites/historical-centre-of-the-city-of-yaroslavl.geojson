@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87611,
+          57.65278
+        ]
+      },
+      "properties": {
+        "code": "historical-centre-of-the-city-of-yaroslavl",
+        "name": "Historical Centre of the City of Yaroslavl",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

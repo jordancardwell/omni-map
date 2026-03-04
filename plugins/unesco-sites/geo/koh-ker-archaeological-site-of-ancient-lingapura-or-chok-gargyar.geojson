@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5372222222,
+          13.7830555556
+        ]
+      },
+      "properties": {
+        "code": "koh-ker-archaeological-site-of-ancient-lingapura-or-chok-gargyar",
+        "name": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar",
+        "type": "Cultural",
+        "country": "Cambodia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

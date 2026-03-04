@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8977777778,
+          18.9347222222
+        ]
+      },
+      "properties": {
+        "code": "earliest-16th-century-monasteries-on-the-slopes-of-popocatepetl",
+        "name": "Earliest 16th-Century Monasteries on the Slopes of Popocatepetl",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

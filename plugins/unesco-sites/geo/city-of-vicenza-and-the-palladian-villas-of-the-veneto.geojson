@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54944444,
+          45.54916667
+        ]
+      },
+      "properties": {
+        "code": "city-of-vicenza-and-the-palladian-villas-of-the-veneto",
+        "name": "City of Vicenza and the Palladian Villas of the Veneto",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

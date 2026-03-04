@@ -1,0 +1,21 @@
+{
+  "code": "siberian-taiga",
+  "name": "Siberian Taiga",
+  "country": "Russia",
+  "forestType": "Boreal",
+  "areaKm2": 7700000,
+  "intactness": "Mostly Intact",
+  "changeSince2000": "-3.1% (approximately 239,000 km² lost)",
+  "annualLossRate": "0.1–0.2% per year",
+  "threats": [
+    "Industrial logging",
+    "Wildfires (increasing)",
+    "Oil and gas extraction",
+    "Mining",
+    "Permafrost thaw",
+    "Climate change"
+  ],
+  "conservationStatus": "~10% under formal protection. Includes Lake Baikal region, Central Siberian Plateau reserves. Russian Forest Code allows significant logging in unprotected areas. Intact Forest Landscapes mapping has improved monitoring, but enforcement remains limited.",
+  "description": "The **Siberian Taiga** is the world's largest forest biome, stretching across Russia from the Ural Mountains to the Pacific. It represents the largest remaining tract of intact forest on Earth and plays a critical role in global carbon and climate regulation.\n\n### Key Statistics\n- **Biodiversity**: Larch, spruce, pine, and birch dominant; Siberian tiger, brown bear, wolverine, sable\n- **Carbon storage**: ~70 billion tonnes of carbon in biomass and soils\n- **Permafrost**: Underlain by extensive permafrost, a massive carbon reservoir\n- **Extent**: ~7.7 million km², larger than the Amazon\n\n### Deforestation Trends\nThe IFL 2020 data shows the Siberian Taiga retains vast intact forest landscapes, but wildfire area has doubled since 2000 due to climate warming. Industrial logging in western and southern Siberia continues to fragment the forest frontier. Permafrost thaw threatens forest stability across northern regions.",
+  "geojson": "siberian-taiga.geojson"
+}

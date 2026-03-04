@@ -1,0 +1,16 @@
+{
+  "code": "kr-tw-cable",
+  "name": "KR-TW Cable",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1602,
+  "yearLaid": 2013,
+  "rfsDate": "2014-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Taipei, Taiwan"
+  ],
+  "description": "KR-TW Cable connecting Busan to Taipei.",
+  "geojson": "kr-tw-cable.geojson"
+}

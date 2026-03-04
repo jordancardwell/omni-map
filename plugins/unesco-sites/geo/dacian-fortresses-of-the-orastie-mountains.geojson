@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.31194444,
+          45.62305556
+        ]
+      },
+      "properties": {
+        "code": "dacian-fortresses-of-the-orastie-mountains",
+        "name": "Dacian Fortresses of the Orastie Mountains",
+        "type": "Cultural",
+        "country": "Romania",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

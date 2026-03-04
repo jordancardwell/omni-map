@@ -1,0 +1,16 @@
+{
+  "code": "pantanal-conservation-area",
+  "name": "Pantanal Conservation Area",
+  "type": "Natural",
+  "country": "Brazil",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Pantanal Conservation Area consists of a cluster of four protected areas with a total area of 187,818 ha. Located in western central Brazil at the south-west corner of the State of Mato Grosso, the site represents 1.3% of Brazil's Pantanal region, one of the world's largest freshwater wetland ecosystems. The headwaters of the region's two major river systems, the Cuiabá and the Paraguay rivers, are located here, and the abundance and diversity of its vegetation and animal life are spectacular.",
+  "danger": false,
+  "geojson": "pantanal-conservation-area.geojson"
+}

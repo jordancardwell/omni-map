@@ -1,0 +1,25 @@
+{
+  "code": "tang-dynasty",
+  "name": "Tang Dynasty",
+  "era": "Medieval",
+  "peakYear": "750 CE",
+  "areaAtPeakKm2": 5400000,
+  "populationEstimate": "80 million",
+  "capital": "Chang'an (Xi'an)",
+  "keyAchievements": [
+    "Poetry golden age",
+    "Woodblock printing",
+    "Gunpowder invention",
+    "Cosmopolitan capital",
+    "Silk Road peak trade"
+  ],
+  "declineFactors": [
+    "An Lushan Rebellion",
+    "Eunuch influence",
+    "Provincial warlordism",
+    "Huang Chao Rebellion",
+    "Tibetan invasions"
+  ],
+  "description": "The Tang Dynasty (618–907 CE) is widely considered the golden age of Chinese civilization. Its capital Chang'an was the world's largest city, home to over a million people from diverse cultures and religions, making it the most cosmopolitan city of its era.\n\nThe Tang era saw extraordinary achievements in poetry (Li Bai, Du Fu), art, music, and technology (woodblock printing, gunpowder). The dynasty's influence extended across East and Central Asia, profoundly shaping Korean, Japanese, and Vietnamese cultures.",
+  "geojson": "tang-dynasty.geojson"
+}

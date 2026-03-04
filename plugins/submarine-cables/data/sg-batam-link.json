@@ -1,0 +1,16 @@
+{
+  "code": "sg-batam-link",
+  "name": "SG-Batam Link",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1575,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "Telin",
+  "landingPoints": [
+    "Singapore",
+    "Batam, Indonesia"
+  ],
+  "description": "SG-Batam Link connecting Singapore to Batam in Southeast Asia.",
+  "geojson": "sg-batam-link.geojson"
+}

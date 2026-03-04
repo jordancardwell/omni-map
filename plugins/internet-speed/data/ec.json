@@ -1,0 +1,17 @@
+{
+  "code": "ec",
+  "name": "Ecuador",
+  "avgDownloadMbps": 44.8,
+  "avgUploadMbps": 16.4,
+  "avgLatencyMs": 36,
+  "mobileDownloadMbps": 18.2,
+  "mobileUploadMbps": 4.6,
+  "fixedDownloadMbps": 44.8,
+  "fixedUploadMbps": 16.4,
+  "rank": 77,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Fiber and 4G expansion. ~15% year-over-year growth.",
+  "geojson": "ec.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "iah-mia",
+  "name": "Houston — Miami",
+  "airports": [
+    "IAH",
+    "MIA"
+  ],
+  "distanceKm": 1550,
+  "weeklyFlights": 50,
+  "airlines": [
+    "United",
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IAH–MIA route between Houston and Miami. Distance: 1,550 km. ~50 weekly flights operated by United, American.",
+  "geojson": "iah-mia.geojson"
+}

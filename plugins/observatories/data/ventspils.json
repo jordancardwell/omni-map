@@ -1,0 +1,21 @@
+{
+  "code": "ventspils",
+  "name": "Ventspils International Radio Astronomy Centre",
+  "country": "Latvia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 15,
+  "aperture": "32 m",
+  "telescopes": [
+    "RT-32",
+    "RT-16"
+  ],
+  "keyDiscoveries": [
+    "VLBI observations",
+    "Space debris tracking",
+    "Maser studies"
+  ],
+  "location": "Ventspils International Radio Astronomy Centre, Latvia",
+  "description": "Converted Soviet space surveillance station in Latvia. The 32m and 16m antennas now serve as VLBI stations for the European VLBI Network.",
+  "geojson": "ventspils.geojson"
+}

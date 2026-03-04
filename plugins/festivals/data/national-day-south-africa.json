@@ -1,0 +1,14 @@
+{
+  "code": "national-day-south-africa",
+  "name": "Freedom Day (South Africa)",
+  "festivalType": "National",
+  "dateOrSeason": "April 27",
+  "origin": "South African national",
+  "estimatedAttendance": "60+ million South Africans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Speeches at Constitution Hill; cultural performances; community events; flag ceremonies; remembrance of first democratic election.",
+  "historicalBackground": "Freedom Day marks April 27, 1994, when South Africa held its first fully democratic elections after the end of apartheid.",
+  "description": "South Africa's celebration of democracy, commemorating the historic 1994 elections that ended apartheid and began a new era.",
+  "location": "Cape Town, South Africa",
+  "geojson": "national-day-south-africa.geojson"
+}

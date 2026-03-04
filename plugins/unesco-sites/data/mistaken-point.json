@@ -1,0 +1,14 @@
+{
+  "code": "mistaken-point",
+  "name": "Mistaken Point",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This fossil site is located at the south-eastern tip of the island of Newfoundland, in eastern Canada. It consists of a narrow, 17 km-long strip of rugged coastal cliffs. Of deep marine origin, these cliffs date to the Ediacaran Period (580-560 million years ago), representing the oldest known assemblages of large fossils anywhere. These fossils illustrate a watershed in the history of life on earth: the appearance of large, biologically complex organisms, after almost three billion years of micro-dominated evolution.",
+  "danger": false,
+  "geojson": "mistaken-point.geojson"
+}

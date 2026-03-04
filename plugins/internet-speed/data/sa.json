@@ -1,0 +1,17 @@
+{
+  "code": "sa",
+  "name": "Saudi Arabia",
+  "avgDownloadMbps": 91.2,
+  "avgUploadMbps": 48.4,
+  "avgLatencyMs": 12,
+  "mobileDownloadMbps": 78.6,
+  "mobileUploadMbps": 14.2,
+  "fixedDownloadMbps": 91.2,
+  "fixedUploadMbps": 48.4,
+  "rank": 50,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Vision 2030 investments boosting infrastructure. ~20% year-over-year growth.",
+  "geojson": "sa.geojson"
+}

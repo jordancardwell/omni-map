@@ -1,0 +1,16 @@
+{
+  "code": "arnhem-space-centre",
+  "name": "Arnhem Space Centre",
+  "country": "Australia",
+  "operator": "Equatorial Launch Australia",
+  "coordinates": "12.4425°S, 136.8155°E",
+  "status": "Active",
+  "notableLaunches": [
+    "NASA sounding rockets (2022)",
+    "First launches from Australian commercial site"
+  ],
+  "orbitalInclinationRange": "12°–98°",
+  "location": "Arnhem Space Centre, Australia",
+  "description": "Australia's first commercial launch facility in East Arnhem Land, Northern Territory. Near-equatorial location is advantageous for LEO and GTO missions. Hosted NASA sounding rocket campaigns in 2022.",
+  "geojson": "arnhem-space-centre.geojson"
+}

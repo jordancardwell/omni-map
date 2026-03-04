@@ -1,0 +1,19 @@
+{
+  "code": "mia-jfk",
+  "name": "Miami — New York",
+  "airports": [
+    "MIA",
+    "JFK"
+  ],
+  "distanceKm": 1757,
+  "weeklyFlights": 100,
+  "airlines": [
+    "American",
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "MIA–JFK route between Miami and New York. Distance: 1,757 km. ~100 weekly flights operated by American, Delta, JetBlue.",
+  "geojson": "mia-jfk.geojson"
+}

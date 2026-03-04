@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5,
+          -53.1
+        ]
+      },
+      "properties": {
+        "code": "heard-and-mcdonald-islands",
+        "name": "Heard and McDonald Islands",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

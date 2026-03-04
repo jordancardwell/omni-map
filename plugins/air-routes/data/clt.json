@@ -1,0 +1,12 @@
+{
+  "code": "clt",
+  "name": "Charlotte Douglas International",
+  "iataCode": "CLT",
+  "city": "Charlotte",
+  "country": "United States",
+  "annualPassengers": 45000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Charlotte Douglas International (CLT) in Charlotte, United States. Annual passengers: ~45M. Classification: International Hub.",
+  "geojson": "clt.geojson"
+}

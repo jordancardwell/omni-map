@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8102777778,
+          -22.5625
+        ]
+      },
+      "properties": {
+        "code": "ningaloo-coast",
+        "name": "Ningaloo Coast",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

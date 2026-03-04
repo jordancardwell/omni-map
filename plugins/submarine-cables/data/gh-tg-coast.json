@@ -1,0 +1,16 @@
+{
+  "code": "gh-tg-coast",
+  "name": "GH-TG Coast",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 793,
+  "yearLaid": 2020,
+  "rfsDate": "2022-06",
+  "owner": "Vodafone",
+  "landingPoints": [
+    "Tema, Ghana",
+    "Lomé, Togo"
+  ],
+  "description": "GH-TG Coast connecting Tema to Lomé along the West African coast.",
+  "geojson": "gh-tg-coast.geojson"
+}

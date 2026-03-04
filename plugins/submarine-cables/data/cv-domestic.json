@@ -1,0 +1,16 @@
+{
+  "code": "cv-domestic",
+  "name": "CV Domestic",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 869,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "CV Telecom",
+  "landingPoints": [
+    "Praia, Cape Verde",
+    "Mindelo, Cape Verde"
+  ],
+  "description": "CV Domestic connecting Praia to Mindelo along the West African coast.",
+  "geojson": "cv-domestic.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ef",
+  "name": "Ice Cap",
+  "group": "E - Polar",
+  "temperatureRange": "All months <0°C; can reach -80°C in interior Antarctica",
+  "precipitationPattern": "Extremely low; <100mm/year, all as snow/ice",
+  "vegetation": "None; permanent ice and snow cover",
+  "exampleCities": [
+    "Vostok Station (Antarctica)",
+    "Summit Camp (Greenland)"
+  ],
+  "description": "Ice cap climate (EF) is the coldest climate on Earth, where temperatures never rise above freezing. Found only on the ice sheets of Antarctica and interior Greenland. These regions hold over 99% of Earth's freshwater ice and play a critical role in global climate regulation through albedo effects and ocean circulation patterns.",
+  "typicalWeather": "Perpetual cold with temperatures always below 0°C. Interior Antarctica holds the record low of -89.2°C. Katabatic winds can reach hurricane force. Very low humidity and virtually no liquid water. The air is so dry that snowfall amounts are tiny — Antarctica is technically a desert.",
+  "geojson": "ef.geojson"
+}

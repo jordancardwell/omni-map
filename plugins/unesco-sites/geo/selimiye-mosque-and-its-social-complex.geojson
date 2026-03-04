@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5594444444,
+          41.6777777778
+        ]
+      },
+      "properties": {
+        "code": "selimiye-mosque-and-its-social-complex",
+        "name": "Selimiye Mosque and its Social Complex",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1333333,
+          -25.21666667
+        ]
+      },
+      "properties": {
+        "code": "kgari",
+        "name": "K’gari",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

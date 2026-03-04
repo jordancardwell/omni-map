@@ -1,0 +1,18 @@
+{
+  "code": "ord-fra",
+  "name": "Chicago — Frankfurt",
+  "airports": [
+    "ORD",
+    "FRA"
+  ],
+  "distanceKm": 6971,
+  "weeklyFlights": 50,
+  "airlines": [
+    "United",
+    "Lufthansa"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–FRA route between Chicago and Frankfurt. Distance: 6,971 km. ~50 weekly flights operated by United, Lufthansa.",
+  "geojson": "ord-fra.geojson"
+}

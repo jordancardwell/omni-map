@@ -1,0 +1,16 @@
+{
+  "code": "lower-valley-of-the-awash",
+  "name": "Lower Valley of the Awash",
+  "type": "Cultural",
+  "country": "Ethiopia",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "The Awash valley contains one of the most important groupings of palaeontological sites on the African continent. The remains found at the site, the oldest of which date back at least 4 million years, provide evidence of human evolution which has modified our conception of the history of humankind. The most spectacular discovery came in 1974, when 52 fragments of a skeleton enabled the famous Lucy to be reconstructed.",
+  "danger": false,
+  "geojson": "lower-valley-of-the-awash.geojson"
+}

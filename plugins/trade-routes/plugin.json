@@ -1,0 +1,37 @@
+{
+  "id": "trade-routes",
+  "name": "Historical Trade Routes",
+  "description": "Major historical trade routes that connected civilizations — from the Silk Road to Viking sea lanes, tracing the paths of ancient commerce",
+  "type": "lines",
+  "version": "1.0.0",
+  "icon": "route",
+  "defaultColor": "#D4A574",
+  "categories": ["history", "trade", "culture"],
+  "dataType": "lines",
+  "dataSource": "static",
+  "category": "History & Culture",
+  "thumbnail": "#D4A574",
+  "schema": "TradeRouteMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "era", "commodities", "majorStops", "description"],
+    "groupBy": "era",
+    "titleField": "name",
+    "subtitleField": "period",
+    "badgeField": "routeType",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "era"
+  },
+  "detailFields": [
+    { "key": "routeType", "label": "Route Type", "type": "status-badge", "statusColors": { "Land": "#D97706", "Maritime": "#0891B2", "Mixed": "#7C3AED" } },
+    { "key": "era", "label": "Era", "type": "text" },
+    { "key": "period", "label": "Active Period", "type": "text" },
+    { "key": "commodities", "label": "Key Commodities", "type": "tags" },
+    { "key": "majorStops", "label": "Major Cities & Stops", "type": "tags" },
+    { "key": "significance", "label": "Historical Significance", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

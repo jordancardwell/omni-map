@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pln","name":"Polish Złoty","country":"PL","region":"Europe"},"geometry":{"type":"Polygon","coordinates":[[[14.1,49],[14.1,54.9],[24.2,54.9],[24.2,49],[14.1,49]]]}}]}

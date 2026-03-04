@@ -1,0 +1,25 @@
+{
+  "code": "wacs-west-africa-cable-system",
+  "name": "WACS (West Africa Cable System)",
+  "capacityTbps": 14.5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 14500,
+  "yearLaid": 2010,
+  "rfsDate": "2012-05",
+  "owner": "Broadband Infraco, others",
+  "landingPoints": [
+    "London, UK",
+    "Lisbon, Portugal",
+    "Dakar, Senegal",
+    "Abidjan, Ivory Coast",
+    "Accra, Ghana",
+    "Lagos, Nigeria",
+    "Douala, Cameroon",
+    "Libreville, Gabon",
+    "Pointe-Noire, Congo",
+    "Luanda, Angola",
+    "Cape Town, South Africa"
+  ],
+  "description": "Major West African cable system connecting 14 countries from the UK to South Africa.",
+  "geojson": "wacs-west-africa-cable-system.geojson"
+}

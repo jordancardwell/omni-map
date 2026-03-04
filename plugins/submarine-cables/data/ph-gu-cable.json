@@ -1,0 +1,16 @@
+{
+  "code": "ph-gu-cable",
+  "name": "PH-GU Cable",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 968,
+  "yearLaid": 2012,
+  "rfsDate": "2020-06",
+  "owner": "PLDT",
+  "landingPoints": [
+    "Manila, Philippines",
+    "Guam"
+  ],
+  "description": "PH-GU Cable connecting Manila to Guam.",
+  "geojson": "ph-gu-cable.geojson"
+}

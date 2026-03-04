@@ -1,0 +1,19 @@
+{
+  "code": "sfo-icn",
+  "name": "San Francisco — Seoul",
+  "airports": [
+    "SFO",
+    "ICN"
+  ],
+  "distanceKm": 9086,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Korean Air",
+    "Asiana",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SFO–ICN route between San Francisco and Seoul. Distance: 9,086 km. ~50 weekly flights operated by Korean Air, Asiana, United.",
+  "geojson": "sfo-icn.geojson"
+}

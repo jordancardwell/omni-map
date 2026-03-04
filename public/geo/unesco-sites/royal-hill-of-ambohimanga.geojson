@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.56278,
+          -18.75917
+        ]
+      },
+      "properties": {
+        "code": "royal-hill-of-ambohimanga",
+        "name": "Royal Hill of Ambohimanga",
+        "type": "Cultural",
+        "country": "Madagascar",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

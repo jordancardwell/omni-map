@@ -1,0 +1,16 @@
+{
+  "code": "jp-kr-west",
+  "name": "JP-KR West",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1134,
+  "yearLaid": 2018,
+  "rfsDate": "2017-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Nagasaki, Japan",
+    "Busan, South Korea"
+  ],
+  "description": "JP-KR West connecting Nagasaki to Busan.",
+  "geojson": "jp-kr-west.geojson"
+}

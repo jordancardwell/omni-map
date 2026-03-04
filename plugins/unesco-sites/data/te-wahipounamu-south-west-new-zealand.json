@@ -1,0 +1,17 @@
+{
+  "code": "te-wahipounamu-south-west-new-zealand",
+  "name": "Te Wahipounamu – South West New Zealand",
+  "type": "Natural",
+  "country": "New Zealand",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The landscape in this park, situated in south-west New Zealand, has been shaped by successive glaciations into fjords, rocky coasts, towering cliffs, lakes and waterfalls. Two-thirds of the park is covered with southern beech and podocarps, some of which are over 800 years old. The kea, the only alpine parrot in the world, lives in the park, as does the rare and endangered takahe, a large flightless bird.",
+  "danger": false,
+  "geojson": "te-wahipounamu-south-west-new-zealand.geojson"
+}

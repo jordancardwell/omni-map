@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-avignon-papal-palace-episcopal-ensemble-and-avignon-bridge",
+  "name": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the 14th century, this city in the South of France was the seat of the papacy. The Palais des Papes, an austere-looking fortress lavishly decorated by Simone Martini and Matteo Giovanetti, dominates the city, the surrounding ramparts and the remains of a 12th-century bridge over the Rhone. Beneath this outstanding example of Gothic architecture, the Petit Palais and the Romanesque Cathedral of Notre-Dame-des-Doms complete an exceptional group of monuments that testify to the leading role played by Avignon in 14th-century Christian Europe.",
+  "danger": false,
+  "geojson": "historic-centre-of-avignon-papal-palace-episcopal-ensemble-and-avignon-bridge.geojson"
+}

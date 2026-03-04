@@ -1,0 +1,27 @@
+{
+  "code": "bortle-8-city",
+  "name": "City Sky",
+  "bortleGroup": "4. Urban (Class 7-8)",
+  "bortleClass": "Class 8 — City Sky",
+  "skyBrightness": "18.38–18.94 mag/arcsec²",
+  "limitingMagnitude": "4.1–4.5",
+  "milkyWayVisibility": "None — entire sky is brightly lit; only bright planets and a few dozen stars visible",
+  "visibleObjects": [
+    "Bright planets (Venus, Jupiter, Mars)",
+    "Orion, Ursa Major recognizable",
+    "Moon always obvious",
+    "~50 stars visible"
+  ],
+  "exampleLocations": [
+    "City centers of large cities",
+    "Central Los Angeles",
+    "Central Delhi",
+    "Downtown Chicago"
+  ],
+  "nearestDarkSkyReserves": [
+    "Cherry Springs State Park (300km)",
+    "Big Bend National Park (1000km)"
+  ],
+  "description": "Typical city skies. The sky glows white or orange-white. Only the brightest stars — perhaps 50 — are visible even on clear nights. Familiar constellations like Orion are recognizable but incomplete, missing fainter component stars. The sky is bright enough to read by in many areas. Deep-sky astronomy is essentially impossible without electronic aids. This is the normal experience for most urban dwellers worldwide. Over 2 billion people live under Class 8 or worse skies. Artificial lighting from street lamps, buildings, and signage completely dominates the natural sky.",
+  "geojson": "bortle-8-city.geojson"
+}

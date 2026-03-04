@@ -1,0 +1,17 @@
+{
+  "code": "ee",
+  "name": "Estonia",
+  "avgDownloadMbps": 132.8,
+  "avgUploadMbps": 54.6,
+  "avgLatencyMs": 12,
+  "mobileDownloadMbps": 52.4,
+  "mobileUploadMbps": 11.7,
+  "fixedDownloadMbps": 132.8,
+  "fixedUploadMbps": 54.6,
+  "rank": 34,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Digital-first country with strong broadband. ~9% year-over-year growth.",
+  "geojson": "ee.geojson"
+}

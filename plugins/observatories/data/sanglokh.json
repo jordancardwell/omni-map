@@ -1,0 +1,21 @@
+{
+  "code": "sanglokh",
+  "name": "Sanglokh Observatory",
+  "country": "Tajikistan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2300,
+  "aperture": "1 m",
+  "telescopes": [
+    "Zeiss-1000",
+    "AZT-8"
+  ],
+  "keyDiscoveries": [
+    "Asteroid observations",
+    "Variable star monitoring",
+    "Near-Earth object tracking"
+  ],
+  "location": "Sanglokh Observatory, Tajikistan",
+  "description": "Tajik National Observatory site at an altitude of 2300m. Specializes in astrometric observations and small body tracking.",
+  "geojson": "sanglokh.geojson"
+}

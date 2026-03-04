@@ -1,0 +1,15 @@
+{
+  "code": "semmering-railway",
+  "name": "Semmering Railway",
+  "type": "Cultural",
+  "country": "Austria",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Semmering Railway, built over 41 km of high mountains between 1848 and 1854, is one of the greatest feats of civil engineering from this pioneering phase of railway building. The high standard of the tunnels, viaducts and other works has ensured the continuous use of the line up to the present day. It runs through a spectacular mountain landscape and there are many fine buildings designed for leisure activities along the way, built when the area was opened up due to the advent of the railway.",
+  "danger": false,
+  "geojson": "semmering-railway.geojson"
+}

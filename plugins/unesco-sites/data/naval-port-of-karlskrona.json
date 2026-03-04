@@ -1,0 +1,15 @@
+{
+  "code": "naval-port-of-karlskrona",
+  "name": "Naval Port of Karlskrona",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Karlskrona is an outstanding example of a late-17th-century European planned naval city. The original plan and many of the buildings have survived intact, along with installations that illustrate its subsequent development up to the present day.",
+  "danger": false,
+  "geojson": "naval-port-of-karlskrona.geojson"
+}

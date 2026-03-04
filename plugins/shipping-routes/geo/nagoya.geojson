@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"nagoya","name":"Port of Nagoya","featureType":"port","portType":"Multi-Purpose Port","country":"Japan"},"geometry":{"type":"Point","coordinates":[136.88,35.08]}}]}

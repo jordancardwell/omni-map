@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2933333,
+          59.35833333
+        ]
+      },
+      "properties": {
+        "code": "wood-buffalo-national-park",
+        "name": "Wood Buffalo National Park",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "yanbu",
+  "name": "Port of Yanbu",
+  "country": "Saudi Arabia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 120,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Red Sea Route"
+  ],
+  "description": "Port of Yanbu in Saudi Arabia. Annual cargo throughput: ~120 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "yanbu.geojson"
+}

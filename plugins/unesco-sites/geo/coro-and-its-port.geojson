@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.679228,
+          11.409794
+        ]
+      },
+      "properties": {
+        "code": "coro-and-its-port",
+        "name": "Coro and its Port",
+        "type": "Cultural",
+        "country": "Venezuela (Bolivarian Republic of)",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

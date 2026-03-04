@@ -1,0 +1,15 @@
+{
+  "code": "vladivostok",
+  "name": "Port of Vladivostok",
+  "country": "Russia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Arctic Northern Sea Route",
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Vladivostok in Russia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+  "geojson": "vladivostok.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6,
+          17.9667
+        ]
+      },
+      "properties": {
+        "code": "songkran-laos",
+        "name": "Pi Mai Lao (Lao New Year)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "April 14–16",
+        "location": "Vientiane, Laos"
+      }
+    }
+  ]
+}

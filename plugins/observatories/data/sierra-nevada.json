@@ -1,0 +1,21 @@
+{
+  "code": "sierra-nevada",
+  "name": "Sierra Nevada Observatory",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2896,
+  "aperture": "1.5 m",
+  "telescopes": [
+    "1.5m",
+    "0.9m"
+  ],
+  "keyDiscoveries": [
+    "Asteroid physical properties",
+    "Stellar photometry",
+    "Binary asteroids"
+  ],
+  "location": "Sierra Nevada Observatory, Spain",
+  "description": "Instituto de Astrofísica de Andalucía observatory near Granada. High-altitude site specializing in photometry, infrared observations, and solar system studies.",
+  "geojson": "sierra-nevada.geojson"
+}

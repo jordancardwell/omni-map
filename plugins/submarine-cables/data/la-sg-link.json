@@ -1,0 +1,16 @@
+{
+  "code": "la-sg-link",
+  "name": "LA-SG Link",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5496,
+  "yearLaid": 2015,
+  "rfsDate": "2023-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Singapore"
+  ],
+  "description": "LA-SG Link connecting Los Angeles to Singapore.",
+  "geojson": "la-sg-link.geojson"
+}

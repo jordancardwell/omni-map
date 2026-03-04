@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.87635,
+          26.9411747222
+        ]
+      },
+      "properties": {
+        "code": "moidams-the-mound-burial-system-of-the-ahom-dynasty",
+        "name": "Moidams – the Mound-Burial System of the Ahom Dynasty",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

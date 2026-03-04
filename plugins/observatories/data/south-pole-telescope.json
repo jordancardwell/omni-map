@@ -1,0 +1,20 @@
+{
+  "code": "south-pole-telescope",
+  "name": "South Pole Telescope",
+  "country": "Antarctica",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 2835,
+  "aperture": "10 m",
+  "telescopes": [
+    "SPT"
+  ],
+  "keyDiscoveries": [
+    "Galaxy clusters via SZ effect",
+    "CMB lensing",
+    "Neutrino mass constraints"
+  ],
+  "location": "South Pole Telescope, Antarctica",
+  "description": "A 10m microwave/millimeter telescope at the Amundsen-Scott South Pole Station. The dry, stable atmosphere makes it ideal for CMB observations.",
+  "geojson": "south-pole-telescope.geojson"
+}

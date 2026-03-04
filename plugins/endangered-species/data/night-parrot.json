@@ -1,0 +1,18 @@
+{
+  "code": "night-parrot",
+  "name": "Night Parrot",
+  "scientificName": "Pezoporus occidentalis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~50-250 individuals",
+  "populationTrend": "Unknown",
+  "habitatType": "Arid spinifex grassland",
+  "threats": [
+    "Cat and fox predation",
+    "Fire regime changes",
+    "Overgrazing"
+  ],
+  "conservationEfforts": "Rediscovered in 2013 in Queensland after no confirmed sighting since 1912. Pullen Pullen Reserve protects the known population. Predator exclusion fencing installed.",
+  "description": "Australia's most mysterious bird, the night parrot was considered possibly extinct for over a century before its dramatic rediscovery. It is strictly nocturnal and extremely cryptic.",
+  "geojson": "night-parrot.geojson"
+}

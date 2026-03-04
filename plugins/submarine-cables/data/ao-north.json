@@ -1,0 +1,16 @@
+{
+  "code": "ao-north",
+  "name": "AO North",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1109,
+  "yearLaid": 2015,
+  "rfsDate": "2021-06",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Cabinda, Angola",
+    "Luanda, Angola"
+  ],
+  "description": "AO North connecting Cabinda to Luanda along the West African coast.",
+  "geojson": "ao-north.geojson"
+}

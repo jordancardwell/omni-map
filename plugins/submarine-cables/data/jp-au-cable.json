@@ -1,0 +1,16 @@
+{
+  "code": "jp-au-cable",
+  "name": "JP-AU Cable",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 12629,
+  "yearLaid": 2023,
+  "rfsDate": "2016-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Sydney, Australia"
+  ],
+  "description": "JP-AU Cable connecting Tokyo to Sydney.",
+  "geojson": "jp-au-cable.geojson"
+}

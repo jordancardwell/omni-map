@@ -1,0 +1,8 @@
+{
+  "code": "panama-canal-route",
+  "name": "Panama Canal Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Connects the Atlantic and Pacific oceans through Central America. Critical for US intercoastal trade and Asia-to-US East Coast shipping. Expanded in 2016 to accommodate Neo-Panamax vessels.",
+  "geojson": "panama-canal-route.geojson"
+}

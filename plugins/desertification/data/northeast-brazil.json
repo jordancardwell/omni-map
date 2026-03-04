@@ -1,0 +1,24 @@
+{
+  "code": "northeast-brazil",
+  "name": "Northeast Brazil (Sertão)",
+  "region": "South America",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — tropical semi-arid",
+  "area": "982,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 27000000,
+  "affectedCountries": [
+    "Brazil"
+  ],
+  "desertificationDrivers": [
+    "Deforestation of Caatinga",
+    "Overgrazing",
+    "Soil salinization",
+    "Irregular rainfall",
+    "Poverty"
+  ],
+  "desertFrontier": "Desertification nuclei expanding in Gilbués, Irauçuba, Seridó, and Cabrobó regions",
+  "description": "The Brazilian Sertão is the most densely populated semi-arid region in the world. Four 'desertification nuclei' have been identified by the Brazilian government where land degradation is most severe. The unique Caatinga biome — found nowhere else on Earth — has lost over 50% of its original cover. Recurrent droughts drive mass migration to coastal cities.",
+  "geojson": "northeast-brazil.geojson"
+}

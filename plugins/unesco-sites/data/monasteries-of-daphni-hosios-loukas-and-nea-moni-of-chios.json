@@ -1,0 +1,15 @@
+{
+  "code": "monasteries-of-daphni-hosios-loukas-and-nea-moni-of-chios",
+  "name": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Although geographically distant from each other, these three monasteries (the first is in Attica, near Athens, the second in Phocida near Delphi, and the third on an island in the Aegean Sea, near Asia Minor) belong to the same typological series and share the same aesthetic characteristics. The churches are built on a cross-in-square plan with a large dome supported by squinches defining an octagonal space. In the 11th and 12th centuries they were decorated with superb marble works as well as mosaics on a gold background, all characteristic of the 'second golden age of Byzantine art'.",
+  "danger": false,
+  "geojson": "monasteries-of-daphni-hosios-loukas-and-nea-moni-of-chios.geojson"
+}

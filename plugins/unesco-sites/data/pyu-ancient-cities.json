@@ -1,0 +1,16 @@
+{
+  "code": "pyu-ancient-cities",
+  "name": "Pyu Ancient Cities",
+  "type": "Cultural",
+  "country": "Myanmar",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Pyu Ancient Cities includes the remains of three brick, walled and moated cities of Halin, Beikthano and Sri Ksetra located in vast irrigated landscapes in the dry zone of the Ayeyarwady (Irrawaddy) River basin. They reflect the Pyu Kingdoms that flourished for over 1,000 years between 200 BC and AD 900. The three cities are partly excavated archaeological sites. Remains include excavated palace citadels, burial grounds and manufacture sites, as well as monumental brick Buddhist stupas, partly standing walls and water management features – some still in use – that underpinned the organized intensive agriculture.",
+  "danger": false,
+  "geojson": "pyu-ancient-cities.geojson"
+}

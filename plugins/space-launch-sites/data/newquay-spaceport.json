@@ -1,0 +1,15 @@
+{
+  "code": "newquay-spaceport",
+  "name": "Spaceport Cornwall",
+  "country": "United Kingdom",
+  "operator": "Virgin Orbit (defunct) / Others",
+  "coordinates": "50.4406°N, 4.9954°W",
+  "status": "Active",
+  "notableLaunches": [
+    "LauncherOne Start Me Up (2023, failed)"
+  ],
+  "orbitalInclinationRange": "Various (air-launch)",
+  "location": "Spaceport Cornwall, United Kingdom",
+  "description": "UK's first horizontal spaceport at Cornwall Airport Newquay. Hosted the attempted Virgin Orbit LauncherOne mission in 2023. Being repositioned for other horizontal launch providers.",
+  "geojson": "newquay-spaceport.geojson"
+}

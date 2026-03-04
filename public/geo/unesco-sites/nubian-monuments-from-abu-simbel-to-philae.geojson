@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6258055556,
+          22.3372222222
+        ]
+      },
+      "properties": {
+        "code": "nubian-monuments-from-abu-simbel-to-philae",
+        "name": "Nubian Monuments from Abu Simbel to Philae",
+        "type": "Cultural",
+        "country": "Egypt",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

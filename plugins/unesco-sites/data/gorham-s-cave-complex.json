@@ -1,0 +1,14 @@
+{
+  "code": "gorham-s-cave-complex",
+  "name": "Gorham's Cave Complex",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The steep limestone cliffs on the eastern side of the Rock of Gibraltar contain four caves with archaeological and paleontological deposits that provide evidence of Neanderthal occupation over a span of more than 100,000 years. This exceptional testimony to the cultural traditions of the Neanderthals is seen notably in evidence of the hunting of birds and marine animals for food, the use of feathers for ornamentation and the presence of abstract rock engravings. Scientific research on these sites has already contributed substantially to debates about Neanderthal and human evolution.",
+  "danger": false,
+  "geojson": "gorham-s-cave-complex.geojson"
+}

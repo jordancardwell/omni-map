@@ -1,0 +1,18 @@
+{
+  "code": "kul-icn",
+  "name": "Kuala Lumpur — Seoul",
+  "airports": [
+    "KUL",
+    "ICN"
+  ],
+  "distanceKm": 4612,
+  "weeklyFlights": 40,
+  "airlines": [
+    "AirAsia X",
+    "Korean Air"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "KUL–ICN route between Kuala Lumpur and Seoul. Distance: 4,612 km. ~40 weekly flights operated by AirAsia X, Korean Air.",
+  "geojson": "kul-icn.geojson"
+}

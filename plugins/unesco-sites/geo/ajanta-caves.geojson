@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.70025,
+          20.553111
+        ]
+      },
+      "properties": {
+        "code": "ajanta-caves",
+        "name": "Ajanta Caves",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

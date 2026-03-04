@@ -1,0 +1,16 @@
+{
+  "code": "sg-th-link",
+  "name": "SG-TH Link",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3470,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Singapore",
+    "Bangkok, Thailand"
+  ],
+  "description": "SG-TH Link connecting Singapore to Bangkok in Southeast Asia.",
+  "geojson": "sg-th-link.geojson"
+}

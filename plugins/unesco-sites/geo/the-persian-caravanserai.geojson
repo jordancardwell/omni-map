@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4201361111,
+          35.0583527778
+        ]
+      },
+      "properties": {
+        "code": "the-persian-caravanserai",
+        "name": "The Persian Caravanserai",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

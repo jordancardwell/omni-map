@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6577777778,
+          31.5622222222
+        ]
+      },
+      "properties": {
+        "code": "the-ahwar-of-southern-iraq-refuge-of-biodiversity-and-the-relict-landscape-of-th",
+        "name": "The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities",
+        "type": "Mixed",
+        "country": "Iraq",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

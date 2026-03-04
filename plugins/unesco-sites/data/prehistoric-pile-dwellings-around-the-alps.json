@@ -1,0 +1,15 @@
+{
+  "code": "prehistoric-pile-dwellings-around-the-alps",
+  "name": "Prehistoric Pile Dwellings around the Alps",
+  "type": "Cultural",
+  "country": "Italy, France, Austria, Slovenia, Switzerland, Germany",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial property of 111 small individual sites encompasses the remains of prehistoric pile-dwelling (or stilt house) settlements in and around the Alps built from around 5000 to 500 B.C. on the edges of lakes, rivers or wetlands. Excavations, only conducted in some of the sites, have yielded evidence that provides insight into life in prehistoric times during the Neolithic and Bronze Age in Alpine Europe and the way communities interacted with their environment. Fifty-six of the sites are located in Switzerland. The settlements are a unique group of exceptionally well-preserved and culturally rich archaeological sites, which constitute one of the most important sources for the study of early agrarian societies in the region.",
+  "danger": false,
+  "geojson": "prehistoric-pile-dwellings-around-the-alps.geojson"
+}

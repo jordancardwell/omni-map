@@ -1,0 +1,21 @@
+{
+  "code": "cta-north",
+  "name": "Cherenkov Telescope Array North",
+  "country": "Spain",
+  "observatoryType": "Multi-messenger",
+  "status": "Under Construction",
+  "elevation": 2200,
+  "aperture": "4 LSTs + 9 MSTs",
+  "telescopes": [
+    "LST-1",
+    "CTA-North"
+  ],
+  "keyDiscoveries": [
+    "Expected: Dark matter annihilation",
+    "Gamma-ray sources",
+    "Cosmic ray origin"
+  ],
+  "location": "Cherenkov Telescope Array North, Spain",
+  "description": "The Northern Hemisphere site of CTA at La Palma. LST-1 is already operational and has detected its first gamma-ray sources.",
+  "geojson": "cta-north.geojson"
+}

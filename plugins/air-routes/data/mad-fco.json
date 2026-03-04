@@ -1,0 +1,18 @@
+{
+  "code": "mad-fco",
+  "name": "Madrid — Rome",
+  "airports": [
+    "MAD",
+    "FCO"
+  ],
+  "distanceKm": 1329,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Iberia",
+    "ITA Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MAD–FCO route between Madrid and Rome. Distance: 1,329 km. ~80 weekly flights operated by Iberia, ITA Airways.",
+  "geojson": "mad-fco.geojson"
+}

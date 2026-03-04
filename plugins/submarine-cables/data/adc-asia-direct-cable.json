@@ -1,0 +1,20 @@
+{
+  "code": "adc-asia-direct-cable",
+  "name": "ADC (Asia Direct Cable)",
+  "capacityTbps": 140,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 9400,
+  "yearLaid": 2021,
+  "rfsDate": "2023-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Tokyo, Japan",
+    "Manila, Philippines",
+    "Ho Chi Minh City, Vietnam",
+    "Shantou, China"
+  ],
+  "description": "Asia Direct Cable with 18 fiber pairs providing 140+ Tbps.",
+  "geojson": "adc-asia-direct-cable.geojson"
+}

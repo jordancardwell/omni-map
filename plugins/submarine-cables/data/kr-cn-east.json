@@ -1,0 +1,16 @@
+{
+  "code": "kr-cn-east",
+  "name": "KR-CN East",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 358,
+  "yearLaid": 2015,
+  "rfsDate": "2016-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Jeju, South Korea",
+    "Shanghai, China"
+  ],
+  "description": "KR-CN East connecting Jeju to Shanghai.",
+  "geojson": "kr-cn-east.geojson"
+}

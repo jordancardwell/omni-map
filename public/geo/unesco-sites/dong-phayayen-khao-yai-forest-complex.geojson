@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.05,
+          14.33
+        ]
+      },
+      "properties": {
+        "code": "dong-phayayen-khao-yai-forest-complex",
+        "name": "Dong Phayayen-Khao Yai Forest Complex",
+        "type": "Natural",
+        "country": "Thailand",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

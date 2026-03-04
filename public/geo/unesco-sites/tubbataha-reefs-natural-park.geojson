@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8675,
+          8.9533333333
+        ]
+      },
+      "properties": {
+        "code": "tubbataha-reefs-natural-park",
+        "name": "Tubbataha Reefs Natural Park",
+        "type": "Natural",
+        "country": "Philippines",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

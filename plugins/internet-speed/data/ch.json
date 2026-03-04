@@ -1,0 +1,17 @@
+{
+  "code": "ch",
+  "name": "Switzerland",
+  "avgDownloadMbps": 246.8,
+  "avgUploadMbps": 123.4,
+  "avgLatencyMs": 8,
+  "mobileDownloadMbps": 92.3,
+  "mobileUploadMbps": 17.1,
+  "fixedDownloadMbps": 246.8,
+  "fixedUploadMbps": 123.4,
+  "rank": 4,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "High-quality infrastructure across the country. Steady ~9% year-over-year growth.",
+  "geojson": "ch.geojson"
+}

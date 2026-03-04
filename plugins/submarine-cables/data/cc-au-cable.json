@@ -1,0 +1,16 @@
+{
+  "code": "cc-au-cable",
+  "name": "CC-AU Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1122,
+  "yearLaid": 2019,
+  "rfsDate": "2018-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Cocos Islands",
+    "Perth, Australia"
+  ],
+  "description": "CC-AU Cable connecting Cocos Islands to Perth.",
+  "geojson": "cc-au-cable.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "sukur-cultural-landscape",
+  "name": "Sukur Cultural Landscape",
+  "type": "Cultural",
+  "country": "Nigeria",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "The Sukur Cultural Landscape, with the Palace of the Hidi (Chief) on a hill dominating the villages below, the terraced fields and their sacred symbols, and the extensive remains of a former flourishing iron industry, is a remarkably intact physical expression of a society and its spiritual and material culture.",
+  "danger": false,
+  "geojson": "sukur-cultural-landscape.geojson"
+}

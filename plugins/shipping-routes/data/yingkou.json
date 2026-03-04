@@ -1,0 +1,14 @@
+{
+  "code": "yingkou",
+  "name": "Port of Yingkou",
+  "country": "China",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 310,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Yingkou in China. Annual cargo throughput: ~310 million tons. Type: Bulk Port.",
+  "geojson": "yingkou.geojson"
+}

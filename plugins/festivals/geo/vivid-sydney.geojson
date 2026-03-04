@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2153,
+          -33.8568
+        ]
+      },
+      "properties": {
+        "code": "vivid-sydney",
+        "name": "Vivid Sydney",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "May–June",
+        "location": "Sydney, Australia"
+      }
+    }
+  ]
+}

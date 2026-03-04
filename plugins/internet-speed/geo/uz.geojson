@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"uz","name":"Uzbekistan","country":"UZ","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[56,37.2],[56,45.6],[73.1,45.6],[73.1,37.2],[56,37.2]]]}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.02242,
+          46.19314
+        ]
+      },
+      "properties": {
+        "code": "three-castles-defensive-wall-and-ramparts-of-the-market-town-of-bellinzona",
+        "name": "Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",
+        "type": "Cultural",
+        "country": "Switzerland",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

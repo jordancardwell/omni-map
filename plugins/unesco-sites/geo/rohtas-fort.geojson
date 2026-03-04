@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.58888889,
+          32.9625
+        ]
+      },
+      "properties": {
+        "code": "rohtas-fort",
+        "name": "Rohtas Fort",
+        "type": "Cultural",
+        "country": "Pakistan",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

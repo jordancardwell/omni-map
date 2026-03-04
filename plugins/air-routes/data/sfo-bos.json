@@ -1,0 +1,18 @@
+{
+  "code": "sfo-bos",
+  "name": "San Francisco — Boston",
+  "airports": [
+    "SFO",
+    "BOS"
+  ],
+  "distanceKm": 4341,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United",
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SFO–BOS route between San Francisco and Boston. Distance: 4,341 km. ~40 weekly flights operated by United, JetBlue.",
+  "geojson": "sfo-bos.geojson"
+}

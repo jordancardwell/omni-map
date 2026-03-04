@@ -1,0 +1,15 @@
+{
+  "code": "van-nellefabriek",
+  "name": "Van Nellefabriek",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Van Nellefabriek was designed and built in the 1920s on the banks of a canal in the Spaanse Polder industrial zone north-west of Rotterdam. The site is one of the icons of 20th-century industrial architecture, comprising a complex of factories, with façades consisting essentially of steel and glass, making large-scale use of the curtain wall principle. It was conceived as an ‘ideal factory’, open to the outside world, whose interior working spaces evolved according to need, and in which daylight was used to provide pleasant working conditions. It embodies the new kind of factory that became a symbol of the modernist and functionalist culture of the inter-war period and bears witness to the long commercial and industrial history of the Netherlands in the field of importation and processing of food products from tropical countries, and their industrial processing for marketing in Europe.",
+  "danger": false,
+  "geojson": "van-nellefabriek.geojson"
+}

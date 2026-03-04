@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.21583,
+          38.69194
+        ]
+      },
+      "properties": {
+        "code": "monastery-of-the-hieronymites-and-tower-of-belem-in-lisbon",
+        "name": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

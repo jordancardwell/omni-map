@@ -1,0 +1,18 @@
+{
+  "code": "ams-mad",
+  "name": "Amsterdam — Madrid",
+  "airports": [
+    "AMS",
+    "MAD"
+  ],
+  "distanceKm": 1459,
+  "weeklyFlights": 80,
+  "airlines": [
+    "KLM",
+    "Iberia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "AMS–MAD route between Amsterdam and Madrid. Distance: 1,459 km. ~80 weekly flights operated by KLM, Iberia.",
+  "geojson": "ams-mad.geojson"
+}

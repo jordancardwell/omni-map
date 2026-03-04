@@ -1,0 +1,16 @@
+{
+  "code": "id-east-link",
+  "name": "ID East Link",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4379,
+  "yearLaid": 2013,
+  "rfsDate": "2020-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Makassar, Indonesia",
+    "Manado, Indonesia"
+  ],
+  "description": "ID East Link connecting Makassar to Manado.",
+  "geojson": "id-east-link.geojson"
+}

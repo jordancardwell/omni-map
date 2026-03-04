@@ -1,0 +1,16 @@
+{
+  "code": "sc-km-cable",
+  "name": "SC-KM Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1782,
+  "yearLaid": 2015,
+  "rfsDate": "2016-06",
+  "owner": "Airtel",
+  "landingPoints": [
+    "Victoria, Seychelles",
+    "Moroni, Comoros"
+  ],
+  "description": "SC-KM Cable connecting Victoria to Moroni in East Africa/Indian Ocean.",
+  "geojson": "sc-km-cable.geojson"
+}

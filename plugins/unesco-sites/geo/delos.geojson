@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26667,
+          37.4
+        ]
+      },
+      "properties": {
+        "code": "delos",
+        "name": "Delos",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

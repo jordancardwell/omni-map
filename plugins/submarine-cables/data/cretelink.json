@@ -1,0 +1,16 @@
+{
+  "code": "cretelink",
+  "name": "CreteLink",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1822,
+  "yearLaid": 2019,
+  "rfsDate": "2014-06",
+  "owner": "OTE",
+  "landingPoints": [
+    "Athens, Greece",
+    "Chania, Greece"
+  ],
+  "description": "CreteLink cable connecting Athens to Chania across the Mediterranean.",
+  "geojson": "cretelink.geojson"
+}

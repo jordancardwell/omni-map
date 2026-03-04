@@ -1,0 +1,21 @@
+{
+  "code": "ol-doinyo-lengai",
+  "name": "Ol Doinyo Lengai",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2962,
+  "lastEruption": "2019",
+  "vei": 2,
+  "country": "Tanzania",
+  "region": "East Africa",
+  "location": "East Africa, Tanzania",
+  "tectonicSetting": "Continental rift",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Lahars"
+  ],
+  "eruptionHistory": "The world's only active volcano that erupts natrocarbonatite lava. Major explosive eruption in 2007-2008 changed the summit profile.",
+  "description": "Ol Doinyo Lengai is unique as the only active volcano erupting natrocarbonatite lava — carbonatite lava that is much cooler (500°C) and more fluid than silicate lavas.",
+  "geojson": "ol-doinyo-lengai.geojson"
+}

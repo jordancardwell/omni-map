@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.37,
+          32.3269444444
+        ]
+      },
+      "properties": {
+        "code": "umm-al-jimal",
+        "name": "Umm Al-Jimāl",
+        "type": "Cultural",
+        "country": "Jordan",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

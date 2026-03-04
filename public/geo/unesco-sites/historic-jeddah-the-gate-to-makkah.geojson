@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1875,
+          21.4838888889
+        ]
+      },
+      "properties": {
+        "code": "historic-jeddah-the-gate-to-makkah",
+        "name": "Historic Jeddah, the Gate to Makkah",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

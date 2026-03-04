@@ -1,0 +1,25 @@
+{
+  "code": "french-colonial-empire",
+  "name": "French Colonial Empire",
+  "era": "Modern",
+  "peakYear": "1920 CE",
+  "areaAtPeakKm2": 11500000,
+  "populationEstimate": "112 million",
+  "capital": "Paris",
+  "keyAchievements": [
+    "French language spread",
+    "Napoleonic Code",
+    "Cultural mission civilisatrice",
+    "Infrastructure development",
+    "Scientific expeditions"
+  ],
+  "declineFactors": [
+    "World Wars",
+    "Vietnamese independence",
+    "Algerian War",
+    "African decolonization",
+    "Suez Crisis"
+  ],
+  "description": "The French Colonial Empire was the second-largest colonial empire after Britain, spanning territories across Africa, Southeast Asia, the Pacific, and the Americas. At its peak after World War I, it covered about 8% of the world's land area.\n\nFrance's colonial legacy includes the spread of the French language (now spoken by 300+ million people), legal systems based on the Napoleonic Code, and lasting cultural influences in former colonies. Decolonization was often violent, particularly in Algeria and Indochina.",
+  "geojson": "french-colonial-empire.geojson"
+}

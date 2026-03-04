@@ -1,0 +1,17 @@
+{
+  "code": "sangay-national-park",
+  "name": "Sangay National Park",
+  "type": "Natural",
+  "country": "Ecuador",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor.",
+  "danger": false,
+  "geojson": "sangay-national-park.geojson"
+}

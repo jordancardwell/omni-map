@@ -1,0 +1,18 @@
+{
+  "code": "south-sudan-uganda",
+  "name": "South Sudan \u2192 Uganda",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "South Sudan \u2192 Uganda",
+  "badgeValue": "~960,000",
+  "origin": "South Sudan",
+  "destination": "Uganda",
+  "estimatedMigrants": "~960,000",
+  "drivers": [
+    "Civil war",
+    "Ethnic violence",
+    "Famine",
+    "Refugee protection"
+  ],
+  "description": "Uganda hosts one of Africa's largest refugee populations, with South Sudanese forming the majority. Civil war erupting in 2013 and 2016 drove mass displacement across the border. Uganda's progressive refugee policy grants freedom of movement and the right to work. Most refugees are settled in northern Uganda, in communities like Bidi Bidi \u2014 one of the world's largest refugee settlements.",
+  "geojson": "south-sudan-uganda.geojson"
+}

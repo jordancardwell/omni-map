@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31833,
+          59.95
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-saint-petersburg-and-related-groups-of-monuments",
+        "name": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

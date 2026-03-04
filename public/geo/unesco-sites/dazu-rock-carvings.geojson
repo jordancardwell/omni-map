@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.705,
+          29.70111
+        ]
+      },
+      "properties": {
+        "code": "dazu-rock-carvings",
+        "name": "Dazu Rock Carvings",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

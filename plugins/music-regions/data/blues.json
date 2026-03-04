@@ -1,0 +1,33 @@
+{
+  "code": "blues",
+  "name": "Blues",
+  "region": "Mississippi Delta, United States",
+  "traditionFamily": "African-American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Guitar",
+    "Harmonica",
+    "Piano",
+    "Double Bass",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Robert Johnson",
+    "B.B. King",
+    "Muddy Waters",
+    "Howlin' Wolf",
+    "Bessie Smith"
+  ],
+  "description": "Blues originated in the Deep South of the United States around the end of the 19th century from African-American spirituals, work songs, and chants. Characterized by call-and-response patterns, the blues scale, and specific chord progressions (especially the twelve-bar blues), it became a foundation for jazz, rhythm and blues, and rock and roll.",
+  "resources": [
+    {
+      "title": "Alan Lomax Archive – Blues",
+      "url": "https://archive.culturalequity.org/explore-tag/genre/blues"
+    },
+    {
+      "title": "Smithsonian Folkways – Blues",
+      "url": "https://folkways.si.edu/genre/blues"
+    }
+  ],
+  "geojson": "blues.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "baltic-sea-fiber",
+  "name": "Baltic Sea Fiber",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 656,
+  "yearLaid": 2017,
+  "rfsDate": "2016-06",
+  "owner": "Nordic Fiber",
+  "landingPoints": [
+    "Hanko, Finland",
+    "Copenhagen, Denmark"
+  ],
+  "description": "Baltic Sea Fiber submarine cable connecting Hanko to Copenhagen.",
+  "geojson": "baltic-sea-fiber.geojson"
+}

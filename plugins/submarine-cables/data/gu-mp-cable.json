@@ -1,0 +1,16 @@
+{
+  "code": "gu-mp-cable",
+  "name": "GU-MP Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1059,
+  "yearLaid": 2016,
+  "rfsDate": "2015-06",
+  "owner": "Docomo Pacific",
+  "landingPoints": [
+    "Guam",
+    "Saipan, CNMI"
+  ],
+  "description": "GU-MP Cable connecting Guam to Saipan in the Pacific.",
+  "geojson": "gu-mp-cable.geojson"
+}

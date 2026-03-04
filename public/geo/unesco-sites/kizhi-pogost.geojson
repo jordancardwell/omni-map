@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2243611111,
+          62.0675833333
+        ]
+      },
+      "properties": {
+        "code": "kizhi-pogost",
+        "name": "Kizhi Pogost",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

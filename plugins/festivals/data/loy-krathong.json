@@ -1,0 +1,14 @@
+{
+  "code": "loy-krathong",
+  "name": "Loy Krathong",
+  "festivalType": "Religious",
+  "dateOrSeason": "November (full moon)",
+  "origin": "Thai Buddhist/Hindu tradition",
+  "estimatedAttendance": "Millions across Thailand",
+  "unescoICH": "Not inscribed",
+  "traditions": "Floating krathongs (lotus-shaped vessels) on waterways; releasing sky lanterns; beauty pageants; fireworks; traditional dance performances.",
+  "historicalBackground": "Loy Krathong dates to the Sukhothai Kingdom (13th century). It honors the water goddess Mae Khongkha and the Buddha's footprint on the Narmada River.",
+  "description": "Thailand's Festival of Lights, where thousands of floating offerings and sky lanterns illuminate waterways and night skies across the country.",
+  "location": "Bangkok, Thailand",
+  "geojson": "loy-krathong.geojson"
+}

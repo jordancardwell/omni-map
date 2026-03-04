@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.37,
+          39.47444
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-caceres",
+        "name": "Old Town of Cáceres",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

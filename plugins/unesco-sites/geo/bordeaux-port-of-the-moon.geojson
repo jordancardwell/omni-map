@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5722222222,
+          44.8388888889
+        ]
+      },
+      "properties": {
+        "code": "bordeaux-port-of-the-moon",
+        "name": "Bordeaux, Port of the Moon",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

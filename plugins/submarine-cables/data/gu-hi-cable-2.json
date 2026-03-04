@@ -1,0 +1,16 @@
+{
+  "code": "gu-hi-cable-2",
+  "name": "GU-HI Cable-2",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 959,
+  "yearLaid": 2018,
+  "rfsDate": "2017-06",
+  "owner": "GTA",
+  "landingPoints": [
+    "Guam",
+    "Honolulu, USA"
+  ],
+  "description": "GU-HI Cable-2 connecting Guam to Honolulu.",
+  "geojson": "gu-hi-cable-2.geojson"
+}

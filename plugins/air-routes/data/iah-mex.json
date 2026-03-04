@@ -1,0 +1,18 @@
+{
+  "code": "iah-mex",
+  "name": "Houston — Mexico City",
+  "airports": [
+    "IAH",
+    "MEX"
+  ],
+  "distanceKm": 1232,
+  "weeklyFlights": 80,
+  "airlines": [
+    "United",
+    "Aeromexico"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IAH–MEX route between Houston and Mexico City. Distance: 1,232 km. ~80 weekly flights operated by United, Aeromexico.",
+  "geojson": "iah-mex.geojson"
+}

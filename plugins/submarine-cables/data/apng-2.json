@@ -1,0 +1,16 @@
+{
+  "code": "apng-2",
+  "name": "APNG-2",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2052,
+  "yearLaid": 2014,
+  "rfsDate": "2013-06",
+  "owner": "Telikom PNG",
+  "landingPoints": [
+    "Port Moresby, Papua New Guinea",
+    "Sydney, Australia"
+  ],
+  "description": "APNG-2 connecting Port Moresby to Sydney in the Pacific.",
+  "geojson": "apng-2.geojson"
+}

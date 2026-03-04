@@ -1,0 +1,15 @@
+{
+  "code": "moravian-church-settlements",
+  "name": "Moravian Church Settlements",
+  "type": "Cultural",
+  "country": "Denmark, United States of America, United Kingdom of Great Britain and Northern Ireland, Germany",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This transnational serial property comprises four congregational settlements in four countries representing the transnational scope and consistency of the international Moravian community as a global network of the Moravian Church: Christiansfeld (Denmark), Herrnhut (Germany), Gracehill (United Kingdom of Great Britain and Northern Ireland) and Bethlehem (United States of America). These settlements were established according to overarching planning principles that reflected the ideals of the Moravian Church, as expressed in their plans and democratic organisation. Each architectural ensemble bears witness to the Moravian Church’s vision of a unified, coherent urban design, inspired by the concept of an “ideal city” developed by the Church during its formative phase in the 18th and beginning of the 19th enturies. Distinctive Moravian buildings include a particular type of Gemeinhaus (congregation building), church, choir houses, as well as a nearby God’s Acre (cemetery). Each settlement has its own architectural character based on an original Moravian Church Civic Baroque style but adapted to local conditions. Present today in each component part is an active congregation whose continuation of traditions forms a living Moravian heritage.",
+  "danger": false,
+  "geojson": "moravian-church-settlements.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8333333,
+          13.43333333
+        ]
+      },
+      "properties": {
+        "code": "angkor",
+        "name": "Angkor",
+        "type": "Cultural",
+        "country": "Cambodia",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

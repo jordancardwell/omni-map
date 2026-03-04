@@ -1,0 +1,14 @@
+{
+  "code": "rath-yatra",
+  "name": "Rath Yatra",
+  "festivalType": "Religious",
+  "dateOrSeason": "June–July",
+  "origin": "Hindu tradition",
+  "estimatedAttendance": "Millions in Puri",
+  "unescoICH": "Not inscribed",
+  "traditions": "Massive chariot processions carrying deities Jagannath, Balabhadra, and Subhadra; pulling chariots through streets; community feasting.",
+  "historicalBackground": "Rath Yatra at Puri dates back to at least the 12th century. The English word 'juggernaut' derives from the massive Jagannath chariot.",
+  "description": "The grand chariot festival of Lord Jagannath at Puri, where millions pull enormous chariots through the streets in devotion.",
+  "location": "Puri, India",
+  "geojson": "rath-yatra.geojson"
+}

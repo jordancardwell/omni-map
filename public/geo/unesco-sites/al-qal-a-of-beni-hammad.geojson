@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78684,
+          35.81844
+        ]
+      },
+      "properties": {
+        "code": "al-qal-a-of-beni-hammad",
+        "name": "Al Qal'a of Beni Hammad",
+        "type": "Cultural",
+        "country": "Algeria",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

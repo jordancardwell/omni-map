@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"french","name":"French Cuisine","region":"France","country":"FR"},"geometry":{"type":"Polygon","coordinates":[[[-5.1,42.3],[-5.1,51.1],[9.6,51.1],[9.6,42.3],[-5.1,42.3]]]}}]}

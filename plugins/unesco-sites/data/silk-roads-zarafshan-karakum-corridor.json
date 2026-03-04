@@ -1,0 +1,16 @@
+{
+  "code": "silk-roads-zarafshan-karakum-corridor",
+  "name": "Silk Roads: Zarafshan-Karakum Corridor",
+  "type": "Cultural",
+  "country": "Tajikistan, Uzbekistan, Turkmenistan",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies.",
+  "danger": false,
+  "geojson": "silk-roads-zarafshan-karakum-corridor.geojson"
+}

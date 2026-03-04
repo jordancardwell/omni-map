@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.378444444,
+          39.47441667
+        ]
+      },
+      "properties": {
+        "code": "la-lonja-de-la-seda-de-valencia",
+        "name": "La Lonja de la Seda de Valencia",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

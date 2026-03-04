@@ -1,0 +1,14 @@
+{
+  "code": "peninsula-valdes",
+  "name": "Península Valdés",
+  "type": "Natural",
+  "country": "Argentina",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Península Valdés in Patagonia is a site of global significance for the conservation of marine mammals. It is home to an important breeding population of the endangered southern right whale as well as important breeding populations of southern elephant seals and southern sea lions. The orcas in this area have developed a unique hunting strategy to adapt to local coastal conditions.",
+  "danger": false,
+  "geojson": "peninsula-valdes.geojson"
+}

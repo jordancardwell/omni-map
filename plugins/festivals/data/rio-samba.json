@@ -1,0 +1,14 @@
+{
+  "code": "rio-samba",
+  "name": "Samba de Roda",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Year-round, especially June",
+  "origin": "Afro-Brazilian tradition",
+  "estimatedAttendance": "Thousands in Recôncavo region",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "Circle dance (roda); hand-clapping rhythms; berimbau and atabaque drums; call-and-response singing; spontaneous celebrations.",
+  "historicalBackground": "Samba de Roda originated in the Recôncavo region of Bahia with enslaved Africans. It is the ancestor of modern samba and Rio's Carnival music.",
+  "description": "The ancestral form of samba, a UNESCO-recognized circle dance and music tradition from Bahia's Recôncavo region in Brazil.",
+  "location": "Recôncavo, Brazil",
+  "geojson": "rio-samba.geojson"
+}

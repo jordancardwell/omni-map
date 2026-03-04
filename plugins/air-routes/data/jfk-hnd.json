@@ -1,0 +1,19 @@
+{
+  "code": "jfk-hnd",
+  "name": "New York — Tokyo",
+  "airports": [
+    "JFK",
+    "HND"
+  ],
+  "distanceKm": 10875,
+  "weeklyFlights": 35,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JFK–HND route between New York and Tokyo. Distance: 10,875 km. ~35 weekly flights operated by ANA, JAL, Delta.",
+  "geojson": "jfk-hnd.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "jed-fra",
+  "name": "Jeddah — Frankfurt",
+  "airports": [
+    "JED",
+    "FRA"
+  ],
+  "distanceKm": 4132,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Saudia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–FRA route between Jeddah and Frankfurt. Distance: 4,132 km. ~20 weekly flights operated by Saudia.",
+  "geojson": "jed-fra.geojson"
+}

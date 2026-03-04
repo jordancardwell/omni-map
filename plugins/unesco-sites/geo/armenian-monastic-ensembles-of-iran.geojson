@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4733333333,
+          38.9788888889
+        ]
+      },
+      "properties": {
+        "code": "armenian-monastic-ensembles-of-iran",
+        "name": "Armenian Monastic Ensembles of Iran",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

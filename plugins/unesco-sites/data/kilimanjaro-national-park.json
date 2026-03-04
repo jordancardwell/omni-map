@@ -1,0 +1,14 @@
+{
+  "code": "kilimanjaro-national-park",
+  "name": "Kilimanjaro National Park",
+  "type": "Natural",
+  "country": "United Republic of Tanzania",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Africa",
+  "description": "At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park.",
+  "danger": false,
+  "geojson": "kilimanjaro-national-park.geojson"
+}

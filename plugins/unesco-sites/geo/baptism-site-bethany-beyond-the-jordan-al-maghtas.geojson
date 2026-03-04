@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5527777778,
+          31.8372222222
+        ]
+      },
+      "properties": {
+        "code": "baptism-site-bethany-beyond-the-jordan-al-maghtas",
+        "name": "Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)",
+        "type": "Cultural",
+        "country": "Jordan",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

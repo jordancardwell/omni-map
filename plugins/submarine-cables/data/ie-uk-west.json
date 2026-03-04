@@ -1,0 +1,16 @@
+{
+  "code": "ie-uk-west",
+  "name": "IE-UK West",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1034,
+  "yearLaid": 2012,
+  "rfsDate": "2012-06",
+  "owner": "BT",
+  "landingPoints": [
+    "Galway, Ireland",
+    "Bude, UK"
+  ],
+  "description": "IE-UK West connecting Galway to Bude in Europe.",
+  "geojson": "ie-uk-west.geojson"
+}

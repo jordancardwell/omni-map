@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.673278,
+          -16.555003
+        ]
+      },
+      "properties": {
+        "code": "tiwanaku-spiritual-and-political-centre-of-the-tiwanaku-culture",
+        "name": "Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture",
+        "type": "Cultural",
+        "country": "Bolivia (Plurinational State of)",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

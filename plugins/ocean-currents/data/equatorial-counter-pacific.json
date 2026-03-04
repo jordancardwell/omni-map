@@ -1,0 +1,21 @@
+{
+  "code": "equatorial-counter-pacific",
+  "name": "Pacific Equatorial Countercurrent",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.5 m/s",
+  "origin": "Western Pacific warm pool",
+  "destination": "Eastern Pacific",
+  "climateEffects": [
+    "Returns warm water eastward",
+    "Strengthens during El Nino",
+    "Key ENSO indicator"
+  ],
+  "connectedEcosystems": [
+    "Pacific equatorial ecosystem",
+    "Kiribati marine habitats",
+    "Line Islands reef systems"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Pacific Equatorial Countercurrent flows eastward between the North and South Equatorial Currents. It strengthens dramatically during El Nino events, transporting warm water from the western Pacific warm pool toward South America.",
+  "geojson": "equatorial-counter-pacific.geojson"
+}

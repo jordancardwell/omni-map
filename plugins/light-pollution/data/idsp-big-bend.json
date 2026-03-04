@@ -1,0 +1,24 @@
+{
+  "code": "idsp-big-bend",
+  "name": "Big Bend National Park",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Park",
+  "designationYear": "2012",
+  "areaSqKm": 3242,
+  "visibleObjects": [
+    "Milky Way",
+    "Zodiacal light",
+    "Bright nebulae",
+    "Omega Centauri (low horizon)"
+  ],
+  "exampleLocations": [
+    "Big Bend National Park, Texas, USA"
+  ],
+  "nearestDarkSkyReserves": [
+    "Big Bend (this site)",
+    "McDonald Observatory"
+  ],
+  "description": "Located in a remote corner of West Texas along the Mexican border, Big Bend is one of the least light-polluted national parks in the contiguous United States. The park's remoteness — the nearest significant city is over 300 km away — produces consistently dark skies. Its southern latitude allows views of celestial objects rarely seen from northern locations, including Omega Centauri and the Southern Cross (briefly visible on the southern horizon). The park records some of the lowest measured sky brightness readings in North America.",
+  "geojson": "idsp-big-bend.geojson"
+}

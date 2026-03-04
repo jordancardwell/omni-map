@@ -1,0 +1,28 @@
+{
+  "code": "ayurveda",
+  "name": "Ayurveda",
+  "tradition": "South Asian",
+  "originRegion": "Indian subcontinent",
+  "estimatedPractitioners": 400000,
+  "whoRecognition": "Recognized — WHO Traditional Medicine Strategy 2014–2023; included in ICD-11 supplementary chapter",
+  "keyPractices": [
+    "Herbal medicine",
+    "Panchakarma detox",
+    "Dietary therapy",
+    "Yoga therapy",
+    "Meditation",
+    "Oil massage (Abhyanga)",
+    "Pulse diagnosis"
+  ],
+  "regionsOfPractice": [
+    "India",
+    "Nepal",
+    "Sri Lanka",
+    "Bangladesh",
+    "Southeast Asia",
+    "Western countries"
+  ],
+  "description": "Ayurveda ('science of life') is one of the world's oldest holistic healing systems, originating in India over 3,000 years ago. It is based on the belief that health depends on a balance among three fundamental bodily humors (doshas): Vata, Pitta, and Kapha. Treatment involves herbal remedies, dietary changes, yoga, meditation, massage, and detoxification therapies (Panchakarma). India has over 400,000 registered Ayurvedic practitioners and a national regulatory framework under the Ministry of AYUSH.",
+  "historicalNotes": "Rooted in the Vedas (c. 1500 BCE), Ayurveda was systematized in classical texts: the Charaka Samhita (internal medicine), Sushruta Samhita (surgery), and Ashtanga Hridaya. Sushruta is credited with pioneering surgical techniques including rhinoplasty. Ayurveda spread along trade routes to Southeast Asia and was integrated into local healing traditions. During British colonial rule it was marginalized, but post-independence India revived it as a national medical system alongside modern medicine.",
+  "geojson": "ayurveda.geojson"
+}

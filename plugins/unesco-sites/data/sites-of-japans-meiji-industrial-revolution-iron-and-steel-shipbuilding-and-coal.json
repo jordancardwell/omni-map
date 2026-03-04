@@ -1,0 +1,15 @@
+{
+  "code": "sites-of-japans-meiji-industrial-revolution-iron-and-steel-shipbuilding-and-coal",
+  "name": "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The site encompasses a series of twenty three component parts, mainly located in the southwest of Japan. It bears testimony to the rapid industrialization of the country from the middle of the 19th century to the early 20th century, through the development of the iron and steel industry, shipbuilding and coal mining. The site illustrates the process by which feudal Japan sought technology transfer from Europe and America from the middle of the 19th century and how this technology was adapted to the country’s needs and social traditions. The site testifies to what is considered to be the first successful transfer of Western industrialization to a non-Western nation.",
+  "danger": false,
+  "geojson": "sites-of-japans-meiji-industrial-revolution-iron-and-steel-shipbuilding-and-coal.geojson"
+}

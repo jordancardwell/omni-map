@@ -1,0 +1,288 @@
+[
+  {
+    "code": "amber-road",
+    "name": "Amber Road",
+    "routeType": "Land",
+    "era": "Ancient",
+    "period": "c. 3000 BCE – 500 CE",
+    "commodities": [
+      "Amber",
+      "Furs",
+      "Honey",
+      "Wax",
+      "Tin",
+      "Iron",
+      "Wine",
+      "Olive oil",
+      "Glassware"
+    ],
+    "majorStops": [
+      "Gdańsk (Baltic coast)",
+      "Wrocław",
+      "Brno",
+      "Vienna",
+      "Ljubljana",
+      "Aquileia",
+      "Venice",
+      "Rome"
+    ],
+    "significance": "One of Europe's oldest trade routes, connecting Baltic amber sources to Mediterranean civilizations — amber was prized as 'northern gold' by the Romans and Greeks",
+    "description": "The Amber Road was an ancient trade route for the transfer of amber from coastal areas of the North Sea and the Baltic Sea to the Mediterranean. Amber, fossilized tree resin millions of years old, was highly valued in the ancient world for jewelry, medicine, and religious purposes.\n\nThe main route ran from the Baltic coast near modern Gdańsk, south through the Moravian Gate (between the Carpathians and Sudetes), following the March and Danube rivers to the head of the Adriatic at Aquileia. From there, amber was distributed throughout the Roman Empire.\n\nArchaeological evidence shows this route was active as early as 3000 BCE, with Baltic amber found in Mycenaean shaft graves and Egyptian pharaonic tombs. The Romans formalized the route, and Pliny the Elder documented the trade. Germanic and Celtic tribes along the route prospered as intermediaries.",
+    "geojson": "amber-road.geojson"
+  },
+  {
+    "code": "hanseatic-league",
+    "name": "Hanseatic League Routes",
+    "routeType": "Maritime",
+    "era": "Medieval",
+    "period": "c. 1200 – 1669 CE",
+    "commodities": [
+      "Herring",
+      "Salt",
+      "Grain",
+      "Timber",
+      "Furs",
+      "Wool",
+      "Beer",
+      "Cloth",
+      "Wax",
+      "Metals"
+    ],
+    "majorStops": [
+      "Lübeck",
+      "Hamburg",
+      "Bremen",
+      "Bruges",
+      "London",
+      "Bergen",
+      "Novgorod",
+      "Gdańsk",
+      "Riga",
+      "Stockholm"
+    ],
+    "significance": "The Hanseatic League was a medieval commercial confederation of merchant guilds that dominated trade in Northern Europe, establishing one of history's earliest international trade organizations",
+    "description": "The Hanseatic League (Hanse) was a medieval commercial and defensive confederation of merchant guilds and market towns in Northwestern and Central Europe. At its peak, it included nearly 200 cities and dominated Baltic and North Sea trade for over 400 years.\n\nFounded around Lübeck in the 12th century, the League established a network of trading posts (Kontore) at key foreign cities: London (Steelyard), Bruges, Bergen, and Novgorod. These posts served as warehouses, residences, and commercial exchanges for Hanseatic merchants.\n\nThe League's trade followed predictable patterns: grain and timber from the eastern Baltic, furs and wax from Russia, herring and stockfish from Scandinavia, salt from Lüneburg, wool and cloth from Flanders and England. Lübeck, situated at the nexus of Baltic and North Sea trade, served as the League's unofficial capital.\n\nThe Hanse pioneered many modern commercial practices: standardized weights and measures, trade law, maritime insurance, and collective bargaining. Its decline came from the rise of nation-states, competition from Dutch and English merchants, and shifting trade patterns after the discovery of the Americas.",
+    "geojson": "hanseatic-league.geojson"
+  },
+  {
+    "code": "incense-route",
+    "name": "Incense Route",
+    "routeType": "Land",
+    "era": "Ancient",
+    "period": "c. 7th century BCE – 2nd century CE",
+    "commodities": [
+      "Frankincense",
+      "Myrrh",
+      "Spices",
+      "Gold",
+      "Precious stones",
+      "Textiles",
+      "Ivory"
+    ],
+    "majorStops": [
+      "Dhofar (Oman)",
+      "Shabwa",
+      "Marib",
+      "Najran",
+      "Petra",
+      "Gaza",
+      "Damascus",
+      "Alexandria"
+    ],
+    "significance": "Connected the incense-producing regions of southern Arabia to the Mediterranean, making the Nabataean kingdom fabulously wealthy and giving rise to the rock-cut city of Petra",
+    "description": "The Incense Route was a network of major ancient land and sea trading routes linking the Mediterranean world with eastern and southern sources of incense. Frankincense and myrrh — aromatic resins from trees native to the southern Arabian Peninsula and Horn of Africa — were among the most prized substances in the ancient world.\n\nThe land route stretched roughly 2,400 km from Dhofar in southern Oman through Yemen and along the western edge of the Arabian Peninsula to Petra in modern Jordan, then onward to the Mediterranean ports of Gaza and Damascus. Camel caravans took about 60 days to make the journey.\n\nThe Nabataean people controlled the most lucrative section of the route, building the magnificent city of Petra as their capital. The route was recognized as a UNESCO World Heritage Site in 2005. It declined after the Romans discovered how to use monsoon winds to sail directly to India, bypassing the overland middlemen.",
+    "geojson": "incense-route.geojson"
+  },
+  {
+    "code": "silk-road-land",
+    "name": "Silk Road (Land)",
+    "routeType": "Land",
+    "era": "Ancient & Medieval",
+    "period": "c. 130 BCE – 1450s CE",
+    "commodities": [
+      "Silk",
+      "Spices",
+      "Gold",
+      "Jade",
+      "Porcelain",
+      "Glassware",
+      "Wool",
+      "Horses",
+      "Precious stones"
+    ],
+    "majorStops": [
+      "Chang'an (Xi'an)",
+      "Dunhuang",
+      "Kashgar",
+      "Samarkand",
+      "Bukhara",
+      "Merv",
+      "Baghdad",
+      "Palmyra",
+      "Antioch",
+      "Constantinople"
+    ],
+    "significance": "The most famous overland trade network in history, connecting East Asia with the Mediterranean and facilitating exchange of goods, ideas, religions, and technologies across civilizations",
+    "description": "The Silk Road was a network of Eurasian trade routes active from the 2nd century BCE until the mid-15th century. Spanning over 6,400 km, it connected Chinese dynasties with the Roman Empire and later Byzantine and Islamic civilizations.\n\nNamed after the lucrative silk trade that drove much of the commerce, the route facilitated far more than material goods — it was a conduit for the spread of Buddhism, Islam, and Christianity, as well as technologies like papermaking, gunpowder, and the compass.\n\nKey sections included the Gansu Corridor, the Taklamakan Desert passages (northern and southern routes around the desert), the Pamir crossing, and the fertile oases of Central Asia. The route declined after the Ottoman Empire's rise disrupted overland trade, spurring European maritime exploration.",
+    "geojson": "silk-road-land.geojson"
+  },
+  {
+    "code": "silk-road-maritime",
+    "name": "Silk Road (Maritime)",
+    "routeType": "Maritime",
+    "era": "Ancient & Medieval",
+    "period": "c. 200 BCE – 1500s CE",
+    "commodities": [
+      "Silk",
+      "Porcelain",
+      "Tea",
+      "Spices",
+      "Sandalwood",
+      "Ivory",
+      "Incense",
+      "Coral",
+      "Pearls"
+    ],
+    "majorStops": [
+      "Guangzhou",
+      "Hanoi",
+      "Palembang",
+      "Malacca",
+      "Calicut",
+      "Muscat",
+      "Aden",
+      "Jeddah",
+      "Alexandria"
+    ],
+    "significance": "The maritime counterpart of the overland Silk Road, connecting Chinese ports to Southeast Asia, India, Arabia, and East Africa through monsoon-driven sailing routes",
+    "description": "The Maritime Silk Road linked the South China Sea to the Indian Ocean and beyond, forming one of the world's earliest long-distance sea trade networks. Chinese, Malay, Indian, Arab, and Persian merchants navigated these waters using seasonal monsoon winds.\n\nMajor goods included Chinese silk and porcelain heading west, while spices, aromatics, and precious materials flowed east. The route also facilitated the spread of Hinduism, Buddhism, and Islam across Southeast Asia.\n\nKey ports like Guangzhou, Palembang, Malacca, and Calicut served as cosmopolitan trading hubs where diverse cultures mixed. The route's importance grew as overland Silk Road disruptions pushed more trade to sea, eventually helping to inspire the Age of Exploration.",
+    "geojson": "silk-road-maritime.geojson"
+  },
+  {
+    "code": "spice-routes",
+    "name": "Spice Routes",
+    "routeType": "Maritime",
+    "era": "Ancient & Medieval",
+    "period": "c. 3000 BCE – 1800s CE",
+    "commodities": [
+      "Pepper",
+      "Cinnamon",
+      "Cloves",
+      "Nutmeg",
+      "Cardamom",
+      "Turmeric",
+      "Ginger",
+      "Saffron"
+    ],
+    "majorStops": [
+      "Moluccas (Spice Islands)",
+      "Banda Islands",
+      "Malacca",
+      "Calicut",
+      "Goa",
+      "Aden",
+      "Cairo",
+      "Venice",
+      "Lisbon"
+    ],
+    "significance": "The spice trade shaped global history, driving European exploration, colonial empires, and the discovery of sea routes to Asia — spices were literally worth their weight in gold",
+    "description": "The Spice Routes were maritime trade paths connecting the Spice Islands (Moluccas) of Southeast Asia with markets in India, the Middle East, and Europe. Spices were among the most valuable commodities in the ancient and medieval world, used for preserving food, medicine, and religious ceremonies.\n\nThe routes evolved over millennia: early Austronesian sailors linked the Spice Islands to India, Arab merchants connected India to the Mediterranean via the Red Sea, and Venetian traders dominated European distribution. When the Ottoman Empire restricted overland access, the Portuguese rounded Africa to reach India directly (1498), followed by the Spanish, Dutch, and British.\n\nThe quest for spices directly led to the Age of Exploration, the colonization of Southeast Asia, and the establishment of the first multinational corporations like the Dutch East India Company (VOC).",
+    "geojson": "spice-routes.geojson"
+  },
+  {
+    "code": "tin-route",
+    "name": "Tin Route",
+    "routeType": "Mixed",
+    "era": "Ancient",
+    "period": "c. 2500 BCE – 500 BCE",
+    "commodities": [
+      "Tin",
+      "Copper",
+      "Bronze goods",
+      "Gold",
+      "Hides",
+      "Wool",
+      "Wine",
+      "Pottery"
+    ],
+    "majorStops": [
+      "Cornwall",
+      "Brittany",
+      "Bordeaux",
+      "Narbonne",
+      "Massalia (Marseille)",
+      "Carthage",
+      "Tyre",
+      "Ugarit"
+    ],
+    "significance": "Tin was essential for making bronze — these routes enabled the Bronze Age by connecting tin sources in Britain and Iberia with copper-rich Mediterranean civilizations",
+    "description": "The Tin Routes were ancient trade networks that supplied tin — a rare but essential metal for producing bronze — from sources in Cornwall (Britain), Brittany (France), and Iberia to the great bronze-working civilizations of the Mediterranean.\n\nBronze, an alloy of copper and tin, was the defining material of the Bronze Age (c. 3300–1200 BCE). While copper was relatively abundant around the Mediterranean, tin was scarce and had to be imported from distant sources. This created long-distance trade networks spanning thousands of kilometers.\n\nThe Greek historian Herodotus referred to Britain as the 'Cassiterides' (Tin Islands). Phoenician traders from Tyre and later Carthage sailed through the Strait of Gibraltar to reach Cornwall, while overland routes crossed France via river systems. The trade was so vital that disruption of tin supplies may have contributed to the Bronze Age Collapse around 1200 BCE.",
+    "geojson": "tin-route.geojson"
+  },
+  {
+    "code": "trans-saharan",
+    "name": "Trans-Saharan Routes",
+    "routeType": "Land",
+    "era": "Ancient & Medieval",
+    "period": "c. 300 BCE – 1600s CE",
+    "commodities": [
+      "Gold",
+      "Salt",
+      "Ivory",
+      "Slaves",
+      "Kola nuts",
+      "Textiles",
+      "Copper",
+      "Cowrie shells",
+      "Manuscripts"
+    ],
+    "majorStops": [
+      "Timbuktu",
+      "Gao",
+      "Djenné",
+      "Sijilmasa",
+      "Fez",
+      "Marrakesh",
+      "Ghadames",
+      "Tripoli",
+      "Cairo",
+      "Kano"
+    ],
+    "significance": "Connected sub-Saharan Africa's gold and resources with Mediterranean and Islamic civilizations, making Timbuktu one of the wealthiest cities in the medieval world",
+    "description": "The Trans-Saharan trade routes crossed the world's largest desert, linking the wealthy empires of West Africa (Ghana, Mali, Songhai) with North African and Mediterranean markets. Camel caravans — sometimes numbering thousands of animals — traversed the harsh terrain in journeys lasting 40–60 days.\n\nThe most important exchange was gold for salt: West African gold fields produced up to two-thirds of the world's gold supply, while Saharan salt mines provided a commodity essential for life in tropical climates. Mansa Musa's legendary 1324 pilgrimage to Mecca, where he distributed so much gold that he depressed its price in Cairo, demonstrated the staggering wealth generated by these routes.\n\nThe routes also facilitated the spread of Islam into West Africa, the development of great centers of learning like Timbuktu's Sankore University, and cultural exchange between diverse African and Mediterranean civilizations.",
+    "geojson": "trans-saharan.geojson"
+  },
+  {
+    "code": "viking-routes",
+    "name": "Viking Trade Routes",
+    "routeType": "Mixed",
+    "era": "Medieval",
+    "period": "c. 800 – 1100 CE",
+    "commodities": [
+      "Furs",
+      "Amber",
+      "Walrus ivory",
+      "Slaves",
+      "Honey",
+      "Wax",
+      "Silver",
+      "Silk",
+      "Spices",
+      "Swords"
+    ],
+    "majorStops": [
+      "Birka",
+      "Hedeby",
+      "Novgorod",
+      "Kiev",
+      "Constantinople",
+      "Baghdad",
+      "Dublin",
+      "York",
+      "Reykjavik"
+    ],
+    "significance": "Viking traders created a vast network spanning from North America to Baghdad, connecting the Norse world with Byzantine and Islamic civilizations via Russian river systems",
+    "description": "Viking trade routes formed an extensive network stretching from Newfoundland in the west to Baghdad in the east, making the Norse some of the most far-reaching traders of the medieval world.\n\nThe eastern routes (Varangian routes) followed Russian rivers — the Dnieper to Constantinople and the Volga to the Caspian Sea and Baghdad. Swedish Vikings (Varangians) established trading posts at Novgorod and Kiev, which grew into the foundations of Kievan Rus. Arab sources describe encountering Norse merchants trading furs, slaves, and amber for silver dirhams and silk.\n\nThe western routes connected Scandinavia to the British Isles, Iceland, Greenland, and briefly North America (Vinland). Dublin, York, and other Viking-founded cities became thriving commercial centers. Hedeby and Birka in Scandinavia served as major entrepôts linking eastern and western trade networks.\n\nViking trade was inseparable from raiding and colonization — the same longships served all three purposes, and many settlements began as seasonal trading posts.",
+    "geojson": "viking-routes.geojson"
+  }
+]

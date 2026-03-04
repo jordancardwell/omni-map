@@ -1,0 +1,22 @@
+{
+  "code": "kn",
+  "name": "Saint Kitts and Nevis",
+  "voltage": "230V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "D",
+    "G"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of plug types at 230V. Bring a universal adapter.",
+  "geojson": "kn.geojson"
+}

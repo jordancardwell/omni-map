@@ -1,0 +1,20 @@
+{
+  "code": "fast",
+  "name": "Five-hundred-meter Aperture Spherical Telescope",
+  "country": "China",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1000,
+  "aperture": "500 m",
+  "telescopes": [
+    "FAST"
+  ],
+  "keyDiscoveries": [
+    "Hundreds of new pulsars",
+    "Fast radio burst detections",
+    "Neutral hydrogen studies"
+  ],
+  "location": "Five-hundred-meter Aperture Spherical Telescope, China",
+  "description": "The world's largest single-dish radio telescope in Guizhou province. With its 500m aperture, it has discovered hundreds of new pulsars since becoming operational in 2020.",
+  "geojson": "fast.geojson"
+}

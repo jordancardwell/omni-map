@@ -6,5 +6,9 @@
   "version": "0.1.0",
   "icon": "thermometer",
   "defaultColor": "#E74C3C",
-  "categories": ["geography"]
+  "categories": ["geography"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "geography",
+  "thumbnail": "#E74C3C"
 }

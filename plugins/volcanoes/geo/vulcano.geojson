@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[14.962,38.404]},"properties":{"code":"vulcano","name":"Vulcano","volcanoType":"Stratovolcano","status":"Dormant","elevation":500,"lastEruption":"1890","vei":3}}]}

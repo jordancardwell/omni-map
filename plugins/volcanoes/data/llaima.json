@@ -1,0 +1,22 @@
+{
+  "code": "llaima",
+  "name": "Llaima",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3125,
+  "lastEruption": "2009",
+  "vei": 3,
+  "country": "Chile",
+  "region": "Araucanía",
+  "location": "Araucanía, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "One of Chile's most active volcanoes with over 50 historical eruptions. The 2008-2009 eruption produced lava flows and ash columns.",
+  "description": "Llaima is one of Chile's largest and most active volcanoes. It dominates the landscape of Conguillío National Park with its twin peaks.",
+  "geojson": "llaima.geojson"
+}

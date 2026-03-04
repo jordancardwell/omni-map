@@ -1,0 +1,25 @@
+{
+  "code": "utc+13",
+  "name": "Tonga Time",
+  "nativeName": "UTC+13:00",
+  "utcOffset": "UTC+13:00",
+  "utcOffsetHours": 13,
+  "offsetGroup": "8. Pacific (UTC+11 to +14)",
+  "ianaNames": [
+    "Pacific/Tongatapu",
+    "Pacific/Apia",
+    "Pacific/Fakaofo"
+  ],
+  "countries": [
+    "Tonga",
+    "Samoa",
+    "Tokelau (NZ)",
+    "Kiribati (Phoenix Islands)"
+  ],
+  "dstRules": "Samoa observes DST (UTC+14 in summer); Tonga does not",
+  "description": "One of the first time zones to see each new day. Samoa switched from UTC-11 to UTC+13 in December 2011, skipping an entire day to align with its major trading partners Australia and New Zealand rather than the Americas.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+13.geojson"
+}

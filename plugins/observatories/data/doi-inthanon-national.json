@@ -1,0 +1,21 @@
+{
+  "code": "doi-inthanon-national",
+  "name": "Doi Inthanon Observatory Complex",
+  "country": "Thailand",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2457,
+  "aperture": "0.5 m (robotic)",
+  "telescopes": [
+    "0.5m robotic",
+    "Thai National Telescope"
+  ],
+  "keyDiscoveries": [
+    "Variable star monitoring",
+    "Exoplanet transits",
+    "Transient follow-up"
+  ],
+  "location": "Doi Inthanon Observatory Complex, Thailand",
+  "description": "NARIT observatory complex at Doi Inthanon. Besides the 2.4m Thai National Telescope, hosts smaller robotic telescopes for continuous monitoring.",
+  "geojson": "doi-inthanon-national.geojson"
+}

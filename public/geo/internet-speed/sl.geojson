@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sl","name":"Sierra Leone","country":"SL","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-13.3,6.9],[-13.3,10],[-10.3,10],[-10.3,6.9],[-13.3,6.9]]]}}]}

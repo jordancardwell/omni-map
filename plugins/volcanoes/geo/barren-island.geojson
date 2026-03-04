@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[93.858,12.278]},"properties":{"code":"barren-island","name":"Barren Island","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":354,"lastEruption":"2023","vei":2}}]}

@@ -1,0 +1,21 @@
+{
+  "code": "nz-carter",
+  "name": "Carter Observatory",
+  "country": "New Zealand",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 130,
+  "aperture": "0.4 m",
+  "telescopes": [
+    "Thomas Cooke Refractor",
+    "Zeiss refractor"
+  ],
+  "keyDiscoveries": [
+    "Public outreach",
+    "Heritage instruments",
+    "Education programs"
+  ],
+  "location": "Carter Observatory, New Zealand",
+  "description": "New Zealand's national observatory and planetarium in Wellington, primarily focused on public engagement and science education with heritage telescopes.",
+  "geojson": "nz-carter.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0304,
+          -12.046542
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-lima",
+        "name": "Historic Centre of Lima",
+        "type": "Cultural",
+        "country": "Peru",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

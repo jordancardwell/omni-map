@@ -1,0 +1,16 @@
+{
+  "code": "plcn-pacific-light-cable-network",
+  "name": "PLCN (Pacific Light Cable Network)",
+  "capacityTbps": 120,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 12800,
+  "yearLaid": 2020,
+  "rfsDate": "2022-06",
+  "owner": "Google, Meta",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Hong Kong, China"
+  ],
+  "description": "Trans-Pacific cable originally planned for Hong Kong, redirected after security review.",
+  "geojson": "plcn-pacific-light-cable-network.geojson"
+}

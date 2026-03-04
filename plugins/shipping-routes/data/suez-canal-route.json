@@ -1,0 +1,8 @@
+{
+  "code": "suez-canal-route",
+  "name": "Suez Canal Route (Europe–Asia)",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "The world's most critical maritime chokepoint. Connects the Mediterranean to the Red Sea, enabling Europe–Asia trade without circumnavigating Africa. Handles ~12% of global trade and ~30% of container traffic.",
+  "geojson": "suez-canal-route.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "jed-kul",
+  "name": "Jeddah — Kuala Lumpur",
+  "airports": [
+    "JED",
+    "KUL"
+  ],
+  "distanceKm": 7065,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Saudia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–KUL route between Jeddah and Kuala Lumpur. Distance: 7,065 km. ~30 weekly flights operated by Saudia.",
+  "geojson": "jed-kul.geojson"
+}

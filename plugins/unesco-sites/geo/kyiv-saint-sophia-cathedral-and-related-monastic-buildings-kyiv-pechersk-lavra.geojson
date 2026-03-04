@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51686,
+          50.45258
+        ]
+      },
+      "properties": {
+        "code": "kyiv-saint-sophia-cathedral-and-related-monastic-buildings-kyiv-pechersk-lavra",
+        "name": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+        "type": "Cultural",
+        "country": "Ukraine",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

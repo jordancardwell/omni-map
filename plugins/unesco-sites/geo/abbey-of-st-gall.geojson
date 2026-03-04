@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37778,
+          47.42333
+        ]
+      },
+      "properties": {
+        "code": "abbey-of-st-gall",
+        "name": "Abbey of St Gall",
+        "type": "Cultural",
+        "country": "Switzerland",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

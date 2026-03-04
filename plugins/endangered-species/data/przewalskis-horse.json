@@ -1,0 +1,19 @@
+{
+  "code": "przewalskis-horse",
+  "name": "Przewalski's Horse",
+  "scientificName": "Equus ferus przewalskii",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~2,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Steppe grassland",
+  "threats": [
+    "Small population size",
+    "Habitat loss",
+    "Hybridization",
+    "Climate change"
+  ],
+  "conservationEfforts": "Successfully reintroduced to Mongolia after becoming extinct in the wild. Hustai National Park holds over 400 horses. All living individuals descend from 12 founders.",
+  "description": "The last truly wild horse species, never domesticated. Declared extinct in the wild in 1969, it was reintroduced to Mongolia starting in the 1990s from zoo-bred stock — a landmark conservation success.",
+  "geojson": "przewalskis-horse.geojson"
+}

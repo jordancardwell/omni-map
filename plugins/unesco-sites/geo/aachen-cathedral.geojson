@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083919968,
+          50.7747468537
+        ]
+      },
+      "properties": {
+        "code": "aachen-cathedral",
+        "name": "Aachen Cathedral",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

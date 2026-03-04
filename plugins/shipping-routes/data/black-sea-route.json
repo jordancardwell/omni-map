@@ -1,0 +1,8 @@
+{
+  "code": "black-sea-route",
+  "name": "Black Sea Shipping Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Connects Mediterranean trade via the Turkish Straits (Bosphorus and Dardanelles) to Black Sea ports. Critical for Ukrainian/Russian grain exports and energy trade.",
+  "geojson": "black-sea-route.geojson"
+}

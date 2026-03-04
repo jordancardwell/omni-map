@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2359166667,
+          -9.5568611111
+        ]
+      },
+      "properties": {
+        "code": "chankillo-archaeoastronomical-complex",
+        "name": "Chankillo Archaeoastronomical Complex",
+        "type": "Cultural",
+        "country": "Peru",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

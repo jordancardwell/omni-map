@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[175.6425,-39.1328]},"properties":{"code":"tongariro","name":"Tongariro","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1978,"lastEruption":"2012","vei":2}}]}

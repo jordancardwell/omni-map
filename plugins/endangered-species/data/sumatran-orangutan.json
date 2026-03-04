@@ -1,0 +1,19 @@
+{
+  "code": "sumatran-orangutan",
+  "name": "Sumatran Orangutan",
+  "scientificName": "Pongo abelii",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~14,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest",
+  "threats": [
+    "Deforestation",
+    "Palm oil plantations",
+    "Illegal pet trade",
+    "Forest fires"
+  ],
+  "conservationEfforts": "Gunung Leuser National Park protects core habitat. Orangutan rehabilitation centers rescue and release confiscated individuals. RSPO promotes sustainable palm oil.",
+  "description": "Found only on the island of Sumatra, this orangutan species is critically threatened by rapid deforestation for palm oil plantations. They are highly intelligent and spend most of their lives in trees.",
+  "geojson": "sumatran-orangutan.geojson"
+}

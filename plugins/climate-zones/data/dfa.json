@@ -1,0 +1,18 @@
+{
+  "code": "dfa",
+  "name": "Hot-Summer Humid Continental",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month ≥22°C; coldest month <0°C",
+  "precipitationPattern": "Year-round precipitation; no dry season",
+  "vegetation": "Temperate broadleaf forest, tallgrass prairie, rich agricultural land",
+  "exampleCities": [
+    "Chicago",
+    "Toronto",
+    "Minneapolis",
+    "Omaha",
+    "Detroit"
+  ],
+  "description": "Hot-summer humid continental climate (Dfa) features warm to hot summers, cold winters, and year-round precipitation. Found in the northern United States and southern Canada. This climate zone includes some of the world's most productive agricultural regions, particularly the Corn Belt and Great Lakes region.",
+  "typicalWeather": "Hot, humid summers (25-35°C) with thunderstorms, including severe weather and occasional tornadoes. Cold, snowy winters (-5 to -20°C). Warm, pleasant springs and spectacular autumn foliage. Annual precipitation 700-1100mm, fairly evenly distributed with a summer maximum.",
+  "geojson": "dfa.geojson"
+}

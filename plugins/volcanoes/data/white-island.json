@@ -1,0 +1,21 @@
+{
+  "code": "white-island",
+  "name": "Whakaari / White Island",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 321,
+  "lastEruption": "2019",
+  "vei": 2,
+  "country": "New Zealand",
+  "region": "Bay of Plenty",
+  "location": "Bay of Plenty, New Zealand",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic surges",
+    "Volcanic gases",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "Erupted on December 9, 2019 while 47 tourists were on the island, killing 22 people. Has been intermittently active throughout historical record.",
+  "description": "Whakaari/White Island is New Zealand's most active cone volcano. The tragic 2019 eruption during a tourist visit highlighted the dangers of visiting active volcanoes.",
+  "geojson": "white-island.geojson"
+}

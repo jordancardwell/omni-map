@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2065,
+          40.7864
+        ]
+      },
+      "properties": {
+        "code": "burning-man",
+        "name": "Burning Man",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Late August–early September",
+        "location": "Black Rock Desert, USA"
+      }
+    }
+  ]
+}

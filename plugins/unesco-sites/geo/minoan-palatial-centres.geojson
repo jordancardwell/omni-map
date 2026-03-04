@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8872222222,
+          35.2486111111
+        ]
+      },
+      "properties": {
+        "code": "minoan-palatial-centres",
+        "name": "Minoan Palatial Centres",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

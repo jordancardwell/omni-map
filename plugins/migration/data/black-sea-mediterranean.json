@@ -1,0 +1,24 @@
+{
+  "code": "black-sea-mediterranean",
+  "name": "Black Sea / Mediterranean Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Eastern Europe to East Africa",
+  "badgeValue": "~350 species",
+  "speciesCount": "~350 migratory species including raptors, storks, and pelicans",
+  "keyStopoverSites": [
+    "Bosphorus Strait",
+    "Danube Delta",
+    "Hula Valley Israel",
+    "Nile Delta",
+    "Rift Valley Lakes"
+  ],
+  "threats": [
+    "Illegal hunting",
+    "Dam construction",
+    "Wetland drainage",
+    "Poisoning",
+    "Power line collisions"
+  ],
+  "description": "The Black Sea/Mediterranean Flyway funnels millions of soaring birds \u2014 white storks, eagles, buzzards, and pelicans \u2014 through narrow land bridges and straits where thermal updrafts allow energy-efficient migration. The Bosphorus Strait in Istanbul is one of the world's premier raptor migration bottlenecks, with over 200,000 birds of prey passing each autumn. The Hula Valley in Israel hosts half a billion birds annually. Illegal hunting in the eastern Mediterranean kills an estimated 25 million birds per year.",
+  "geojson": "black-sea-mediterranean.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "goreme-national-park-and-the-rock-sites-of-cappadocia",
+  "name": "Göreme National Park and the Rock Sites of Cappadocia",
+  "type": "Mixed",
+  "country": "Türkiye",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(v)",
+    "(vii)"
+  ],
+  "region": "Europe and North America",
+  "description": "In a spectacular landscape, entirely sculpted by erosion, the Göreme valley and its surroundings contain rock-hewn sanctuaries that provide unique evidence of Byzantine art in the post-Iconoclastic period. Dwellings, troglodyte villages and underground towns – the remains of a traditional human habitat dating back to the 4th century – can also be seen there.",
+  "danger": false,
+  "geojson": "goreme-national-park-and-the-rock-sites-of-cappadocia.geojson"
+}

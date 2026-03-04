@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9041667,
+          48.99605556
+        ]
+      },
+      "properties": {
+        "code": "waterton-glacier-international-peace-park",
+        "name": "Waterton Glacier International Peace Park",
+        "type": "Natural",
+        "country": "Canada, United States of America",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

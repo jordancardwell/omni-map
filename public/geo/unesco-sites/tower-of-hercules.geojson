@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4063888889,
+          43.3858333333
+        ]
+      },
+      "properties": {
+        "code": "tower-of-hercules",
+        "name": "Tower of Hercules",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

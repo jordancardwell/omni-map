@@ -1,0 +1,15 @@
+{
+  "code": "indonesian-peatlands",
+  "name": "Indonesian Peatlands",
+  "region": "Southeast Asia",
+  "riskGroup": "1. Extreme",
+  "riskLevel": "Extreme",
+  "fireFrequency": "Very High — widespread fires every 2-4 years during El Niño",
+  "dominantVegetation": "Tropical peat swamp forest, oil palm plantation",
+  "fireSeasonMonths": "July – November",
+  "areaBurnedAnnual": "~500,000 ha average; 2.6 million ha in 2015",
+  "seasonalPattern": "Fires peak during the dry season (July–November), with catastrophic events during El Niño years when drought is prolonged. Drained peatlands burn underground for months, making suppression nearly impossible. The 2015 fires released more CO₂ daily than the entire US economy.",
+  "historicalFires": ["2015 Peatland Crisis (2.6M ha)", "2019 Kalimantan Fires (1.6M ha)", "2006 Borneo Fires (890K ha)", "1997-98 El Niño Fires (9.7M ha)"],
+  "description": "Indonesia's tropical peatlands — primarily in Sumatra and Kalimantan — are among the world's most fire-vulnerable ecosystems. Massive drainage for palm oil plantations has turned waterlogged peat into a tinderbox. When ignited, peat fires burn underground and produce toxic haze affecting 100 million people across Southeast Asia. The 2015 fires caused an estimated $16 billion in economic damage and contributed to over 100,000 premature deaths from air pollution.",
+  "geojson": "indonesian-peatlands.geojson"
+}

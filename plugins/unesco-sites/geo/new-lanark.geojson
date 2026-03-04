@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.783055556,
+          55.66333333
+        ]
+      },
+      "properties": {
+        "code": "new-lanark",
+        "name": "New Lanark",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

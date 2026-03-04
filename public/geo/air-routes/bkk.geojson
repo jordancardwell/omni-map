@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bkk","name":"Suvarnabhumi Airport","featureType":"airport","iataCode":"BKK","annualPassengers":48000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[100.7501,13.69]}}]}

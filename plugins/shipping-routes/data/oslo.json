@@ -1,0 +1,14 @@
+{
+  "code": "oslo",
+  "name": "Port of Oslo",
+  "country": "Norway",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Scandinavia–Russia Route"
+  ],
+  "description": "Port of Oslo in Norway. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+  "geojson": "oslo.geojson"
+}

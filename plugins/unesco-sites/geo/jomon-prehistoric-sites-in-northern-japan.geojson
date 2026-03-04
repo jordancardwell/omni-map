@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5522222222,
+          41.0655555556
+        ]
+      },
+      "properties": {
+        "code": "jomon-prehistoric-sites-in-northern-japan",
+        "name": "Jomon Prehistoric Sites in Northern Japan",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

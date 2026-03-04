@@ -1,0 +1,17 @@
+{
+  "code": "ils",
+  "name": "Israeli New Shekel",
+  "isoCode": "ILS",
+  "symbol": "₪",
+  "region": "Middle East",
+  "centralBank": "Bank of Israel",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Israel",
+    "Palestine"
+  ],
+  "countryCount": 2,
+  "description": "The Israeli New Shekel is the currency of Israel, a global leader in technology and innovation.",
+  "historicalNotes": "The 'new shekel' was introduced in 1985, replacing the old shekel at 1,000:1 after a period of hyperinflation. The shekel name has ancient origins from biblical times.",
+  "geojson": "ils.geojson"
+}

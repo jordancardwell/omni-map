@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ho-chi-minh-city","name":"Ho Chi Minh City Port","featureType":"port","portType":"Container Port","country":"Vietnam"},"geometry":{"type":"Point","coordinates":[106.7,10.77]}}]}

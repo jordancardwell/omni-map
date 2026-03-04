@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"thb","name":"Thai Baht","country":"TH","region":"Asia"},"geometry":{"type":"Polygon","coordinates":[[[97.4,5.6],[97.4,20.5],[105.6,20.5],[105.6,5.6],[97.4,5.6]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gothenburg","name":"Port of Gothenburg","featureType":"port","portType":"Container Port","country":"Sweden"},"geometry":{"type":"Point","coordinates":[11.97,57.71]}}]}

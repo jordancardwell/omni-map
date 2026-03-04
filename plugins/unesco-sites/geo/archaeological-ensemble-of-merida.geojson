@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33778,
+          38.91611
+        ]
+      },
+      "properties": {
+        "code": "archaeological-ensemble-of-merida",
+        "name": "Archaeological Ensemble of Mérida",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

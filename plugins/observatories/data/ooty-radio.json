@@ -1,0 +1,20 @@
+{
+  "code": "ooty-radio",
+  "name": "Ooty Radio Telescope",
+  "country": "India",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 2150,
+  "aperture": "530 m × 30 m",
+  "telescopes": [
+    "ORT"
+  ],
+  "keyDiscoveries": [
+    "Interplanetary scintillation",
+    "Pulsar studies",
+    "Solar wind observations"
+  ],
+  "location": "Ooty Radio Telescope, India",
+  "description": "A 530m-long cylindrical parabolic telescope on a hillside near Ooty. Built on an ingenious design to track celestial sources using Earth's rotation.",
+  "geojson": "ooty-radio.geojson"
+}

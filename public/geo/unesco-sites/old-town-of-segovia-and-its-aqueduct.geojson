@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11675,
+          40.94847222
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-segovia-and-its-aqueduct",
+        "name": "Old Town of Segovia and its Aqueduct",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

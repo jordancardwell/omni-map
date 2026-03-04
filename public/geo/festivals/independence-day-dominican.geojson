@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9312,
+          18.4861
+        ]
+      },
+      "properties": {
+        "code": "independence-day-dominican",
+        "name": "Independence Day (Dominican Republic)",
+        "festivalType": "National",
+        "dateOrSeason": "February 27",
+        "location": "Santo Domingo, Dominican Republic"
+      }
+    }
+  ]
+}

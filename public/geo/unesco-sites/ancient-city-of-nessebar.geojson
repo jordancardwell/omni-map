@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7360277778,
+          42.6591111111
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-nessebar",
+        "name": "Ancient City of Nessebar",
+        "type": "Cultural",
+        "country": "Bulgaria",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

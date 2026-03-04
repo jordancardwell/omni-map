@@ -1,0 +1,17 @@
+{
+  "code": "uy",
+  "name": "Uruguay",
+  "avgDownloadMbps": 86.4,
+  "avgUploadMbps": 32.8,
+  "avgLatencyMs": 20,
+  "mobileDownloadMbps": 38.2,
+  "mobileUploadMbps": 8.4,
+  "fixedDownloadMbps": 86.4,
+  "fixedUploadMbps": 32.8,
+  "rank": 53,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "State-owned fiber network expansion. ~12% year-over-year growth.",
+  "geojson": "uy.geojson"
+}

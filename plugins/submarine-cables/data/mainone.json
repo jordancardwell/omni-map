@@ -1,0 +1,17 @@
+{
+  "code": "mainone",
+  "name": "MainOne",
+  "capacityTbps": 1.92,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 7000,
+  "yearLaid": 2009,
+  "rfsDate": "2010-07",
+  "owner": "MainOne (Equinix)",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Accra, Ghana",
+    "Lagos, Nigeria"
+  ],
+  "description": "West Africa submarine cable connecting Nigeria and Ghana to Europe.",
+  "geojson": "mainone.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "utc+10h30",
+  "name": "Lord Howe Standard Time",
+  "nativeName": "UTC+10:30",
+  "utcOffset": "UTC+10:30",
+  "utcOffsetHours": 10.5,
+  "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+  "ianaNames": [
+    "Australia/Lord_Howe"
+  ],
+  "countries": [
+    "Australia (Lord Howe Island)"
+  ],
+  "dstRules": "Observes 30-minute DST shift (UTC+11 in summer, Oct–Apr) — the only place using a 30-minute DST change",
+  "description": "Used exclusively by Lord Howe Island, a tiny Australian territory in the Tasman Sea with about 400 residents. Uniquely, Lord Howe Island advances clocks by only 30 minutes for DST (to UTC+11), rather than the standard one-hour shift.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+10h30.geojson"
+}

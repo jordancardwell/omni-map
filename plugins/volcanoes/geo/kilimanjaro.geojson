@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[37.3556,-3.0674]},"properties":{"code":"kilimanjaro","name":"Mount Kilimanjaro","volcanoType":"Stratovolcano","status":"Dormant","elevation":5895,"lastEruption":"-8000","vei":0}}]}

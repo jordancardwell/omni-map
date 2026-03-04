@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"manzanillo-mexico","name":"Port of Manzanillo","featureType":"port","portType":"Container Port","country":"Mexico"},"geometry":{"type":"Point","coordinates":[-104.32,19.05]}}]}

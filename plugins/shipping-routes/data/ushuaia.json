@@ -1,0 +1,14 @@
+{
+  "code": "ushuaia",
+  "name": "Port of Ushuaia",
+  "country": "Argentina",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 1,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "River Plate & South Atlantic"
+  ],
+  "description": "Port of Ushuaia in Argentina. Annual cargo throughput: ~1 million tons. Type: Multi-Purpose Port.",
+  "geojson": "ushuaia.geojson"
+}

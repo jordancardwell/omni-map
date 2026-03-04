@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "central-african-savanna", "name": "Central African Miombo Savanna" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[24,-4],[26,-5],[28,-6],[30,-7],[32,-8],[34,-10],[35,-12],[35,-15],[33,-16],[30,-16],[28,-15],[26,-14],[24,-13],[22,-12],[20,-10],[22,-8],[24,-6],[24,-4]]]
+    }
+  }]
+}

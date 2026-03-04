@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3289861111,
+          12.5877583333
+        ]
+      },
+      "properties": {
+        "code": "ancient-ferrous-metallurgy-sites-of-burkina-faso",
+        "name": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
+        "type": "Cultural",
+        "country": "Burkina Faso",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

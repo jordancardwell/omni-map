@@ -1,0 +1,14 @@
+{
+  "code": "tango-day",
+  "name": "World Tango Day",
+  "festivalType": "Cultural",
+  "dateOrSeason": "December 11",
+  "origin": "Argentine/Uruguayan tradition",
+  "estimatedAttendance": "Millions of tango enthusiasts",
+  "unescoICH": "Tango inscribed 2009",
+  "traditions": "Milongas (dance events); tango concerts; street performances; tango history exhibitions; Carlos Gardel tributes.",
+  "historicalBackground": "World Tango Day falls on the birthday of Carlos Gardel, tango's most iconic singer, and coincides with tango composer Julio de Caro's birthday.",
+  "description": "The global celebration of tango on Carlos Gardel's birthday, with milongas and performances honoring Argentina's most passionate art form.",
+  "location": "Buenos Aires, Argentina",
+  "geojson": "tango-day.geojson"
+}

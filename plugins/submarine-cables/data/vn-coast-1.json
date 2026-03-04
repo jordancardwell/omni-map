@@ -1,0 +1,16 @@
+{
+  "code": "vn-coast-1",
+  "name": "VN Coast-1",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2810,
+  "yearLaid": 2022,
+  "rfsDate": "2016-06",
+  "owner": "VNPT",
+  "landingPoints": [
+    "Da Nang, Vietnam",
+    "Quy Nhon, Vietnam"
+  ],
+  "description": "VN Coast-1 connecting Da Nang to Quy Nhon in Southeast Asia.",
+  "geojson": "vn-coast-1.geojson"
+}

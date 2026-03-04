@@ -1,0 +1,15 @@
+{
+  "code": "ensemble-of-the-novodevichy-convent",
+  "name": "Ensemble of the Novodevichy Convent",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Novodevichy Convent, in south-western Moscow, built in the 16th and 17th centuries in the so-called Moscow Baroque style, was part of a chain of monastic ensembles that were integrated into the defence system of the city. The convent was directly associated with the political, cultural and religious history of Russia, and closely linked to the Moscow Kremlin. It was used by women of the Tsar’s family and the aristocracy. Members of the Tsar’s family and entourage were also buried in its cemetery. The convent provides an example of the highest accomplishments of Russian architecture with rich interiors and an important collection of paintings and artefacts.",
+  "danger": false,
+  "geojson": "ensemble-of-the-novodevichy-convent.geojson"
+}

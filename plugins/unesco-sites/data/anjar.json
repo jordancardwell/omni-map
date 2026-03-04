@@ -1,0 +1,15 @@
+{
+  "code": "anjar",
+  "name": "Anjar",
+  "type": "Cultural",
+  "country": "Lebanon",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The city of Anjar was founded by Caliph Walid I at the beginning of the 8th century. The ruins reveal a very regular layout, reminiscent of the palace-cities of ancient times, and are a unique testimony to city planning under the Umayyads.",
+  "danger": false,
+  "geojson": "anjar.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "bagan",
+  "name": "Bagan",
+  "type": "Cultural",
+  "country": "Myanmar",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Lying on a bend of the Ayeyarwady River in the central plain of Myanmar, Bagan is a sacred landscape, featuring an exceptional range of Buddhist art and architecture. The seven components of the serial property include numerous temples, stupas, monasteries and places of pilgrimage, as well as archaeological remains, frescoes and sculptures. The property bears spectacular testimony to the peak of Bagan civilization (11th -13th centuries CE), when the site was the capital of a regional empire. This ensemble of monumental architecture reflects the strength of religious devotion of an early Buddhist empire.",
+  "danger": false,
+  "geojson": "bagan.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.40083,
+          14.66722
+        ]
+      },
+      "properties": {
+        "code": "island-of-goree",
+        "name": "Island of Gorée",
+        "type": "Cultural",
+        "country": "Senegal",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

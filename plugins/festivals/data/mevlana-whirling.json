@@ -1,0 +1,14 @@
+{
+  "code": "mevlana-whirling",
+  "name": "Mevlana Whirling Dervishes Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "December 7–17",
+  "origin": "Sufi/Turkish tradition",
+  "estimatedAttendance": "100,000+ visitors",
+  "unescoICH": "Mevlevi Sema inscribed 2008",
+  "traditions": "Sema ceremony (whirling meditation); Sufi music with ney flute and kudum drums; readings from Rumi's poetry; candle processions.",
+  "historicalBackground": "The festival commemorates the death (and spiritual union with God) of Jalaluddin Rumi in 1273. The whirling ceremony (Sema) represents a spiritual journey.",
+  "description": "A mesmerizing celebration of Sufi mysticism in Konya, featuring the iconic whirling dervish ceremony honoring the poet Rumi.",
+  "location": "Konya, Turkey",
+  "geojson": "mevlana-whirling.geojson"
+}

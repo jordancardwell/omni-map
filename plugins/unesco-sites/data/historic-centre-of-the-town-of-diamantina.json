@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-the-town-of-diamantina",
+  "name": "Historic Centre of the Town of Diamantina",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Diamantina, a colonial village set like a jewel in a necklace of inhospitable rocky mountains, recalls the exploits of diamond prospectors in the 18th century and testifies to the triumph of human cultural and artistic endeavour over the environment.",
+  "danger": false,
+  "geojson": "historic-centre-of-the-town-of-diamantina.geojson"
+}

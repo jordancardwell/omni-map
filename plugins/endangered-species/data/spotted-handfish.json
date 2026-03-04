@@ -1,0 +1,19 @@
+{
+  "code": "spotted-handfish",
+  "name": "Spotted Handfish",
+  "scientificName": "Brachionichthys hirsutus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~2,000-3,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Sandy estuarine seabed",
+  "threats": [
+    "Invasive seastar",
+    "Siltation",
+    "Habitat loss",
+    "Pollution"
+  ],
+  "conservationEfforts": "CSIRO recovery program. Invasive seastar (Asterias amurensis) removal. Captive breeding at CSIRO Marine Laboratories. Artificial spawning habitat deployed.",
+  "description": "One of the world's most unusual fish, the spotted handfish 'walks' on the sea floor using its modified pectoral fins. Found only in the Derwent Estuary, Tasmania.",
+  "geojson": "spotted-handfish.geojson"
+}

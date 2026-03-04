@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.678482,
+          47.479214
+        ]
+      },
+      "properties": {
+        "code": "orkhon-valley-cultural-landscape",
+        "name": "Orkhon Valley Cultural Landscape",
+        "type": "Cultural",
+        "country": "Mongolia",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "santa-maria-azores",
+  "name": "Santa Maria Spaceport (planned)",
+  "country": "Portugal",
+  "operator": "Azores International Research Center",
+  "coordinates": "36.9714°N, 25.0906°W",
+  "status": "Planned",
+  "notableLaunches": [
+    "Planned European smallsat launches"
+  ],
+  "orbitalInclinationRange": "37°–98°",
+  "location": "Santa Maria Spaceport (planned), Portugal",
+  "description": "Proposed launch site on Santa Maria Island in the Azores. Would leverage mid-Atlantic location for European small satellite launches with favorable launch azimuths.",
+  "geojson": "santa-maria-azores.geojson"
+}

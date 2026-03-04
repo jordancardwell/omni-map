@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ml",
+        "name": "Malayalam",
+        "region": "Kerala (India)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [74.8, 12.8], [75.3, 12.5], [76.0, 11.8], [76.5, 11.2],
+          [77.0, 10.5], [77.2, 9.5], [77.0, 8.3], [76.5, 8.3],
+          [76.0, 9.0], [75.5, 9.5], [75.0, 10.0], [74.8, 10.5],
+          [74.5, 11.5], [74.8, 12.8]
+        ]]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      },
+      "properties": {
+        "code": "anzac-day",
+        "name": "ANZAC Day",
+        "festivalType": "National",
+        "dateOrSeason": "April 25",
+        "location": "Sydney, Australia"
+      }
+    }
+  ]
+}

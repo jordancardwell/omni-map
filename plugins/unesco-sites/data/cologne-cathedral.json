@@ -1,0 +1,16 @@
+{
+  "code": "cologne-cathedral",
+  "name": "Cologne Cathedral",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Begun in 1248, the construction of this Gothic masterpiece took place in several stages and was not completed until 1880. Over seven centuries, successive builders were inspired by the same faith and a spirit of absolute fidelity to the original plans. Apart from its exceptional intrinsic value and the artistic masterpieces it contains, Cologne Cathedral testifies to the enduring strength of European Christianity.",
+  "danger": false,
+  "geojson": "cologne-cathedral.geojson"
+}

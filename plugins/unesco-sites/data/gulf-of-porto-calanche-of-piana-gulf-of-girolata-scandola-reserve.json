@@ -1,0 +1,16 @@
+{
+  "code": "gulf-of-porto-calanche-of-piana-gulf-of-girolata-scandola-reserve",
+  "name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+  "type": "Natural",
+  "country": "France",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life.",
+  "danger": false,
+  "geojson": "gulf-of-porto-calanche-of-piana-gulf-of-girolata-scandola-reserve.geojson"
+}

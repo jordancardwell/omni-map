@@ -1,0 +1,16 @@
+{
+  "code": "nj-uk-cable",
+  "name": "NJ-UK Cable",
+  "capacityTbps": 41,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8381,
+  "yearLaid": 2021,
+  "rfsDate": "2012-06",
+  "owner": "Lumen",
+  "landingPoints": [
+    "Wall Township, USA",
+    "Bude, UK"
+  ],
+  "description": "NJ-UK Cable connecting Wall Township to Bude.",
+  "geojson": "nj-uk-cable.geojson"
+}

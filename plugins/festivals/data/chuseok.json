@@ -1,0 +1,14 @@
+{
+  "code": "chuseok",
+  "name": "Chuseok",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "15th of 8th lunar month",
+  "origin": "Korean tradition",
+  "estimatedAttendance": "50+ million Koreans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Ancestral memorial rites (charye); making songpyeon (rice cakes); traditional folk games; family gatherings; visiting hometowns.",
+  "historicalBackground": "Chuseok dates back to the Three Kingdoms period (57 BCE–668 CE). It was originally a harvest thanksgiving, with roots in the ancient moon worship festival of Hangawi.",
+  "description": "Korea's harvest moon thanksgiving, when families reunite to honor ancestors, make songpyeon rice cakes, and celebrate the autumn harvest.",
+  "location": "Seoul, South Korea",
+  "geojson": "chuseok.geojson"
+}

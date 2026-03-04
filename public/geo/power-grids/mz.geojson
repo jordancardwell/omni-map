@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mz","name":"Mozambique","country":"MZ","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[30.2,-26.9],[30.2,-10.5],[40.8,-10.5],[40.8,-26.9],[30.2,-26.9]]]}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9994444444,
+          53.5455555556
+        ]
+      },
+      "properties": {
+        "code": "speicherstadt-and-kontorhaus-district-with-chilehaus",
+        "name": "Speicherstadt and Kontorhaus District with Chilehaus",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

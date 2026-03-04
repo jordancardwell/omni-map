@@ -1,0 +1,21 @@
+{
+  "code": "north-equatorial-atlantic",
+  "name": "North Equatorial Current (Atlantic)",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "West Africa / Cape Verde",
+  "destination": "Caribbean Sea / Lesser Antilles",
+  "climateEffects": [
+    "Drives tropical Atlantic circulation",
+    "Transports Saharan dust westward",
+    "Influences tropical cyclone formation"
+  ],
+  "connectedEcosystems": [
+    "Tropical Atlantic pelagic zone",
+    "Cape Verde marine habitats",
+    "Caribbean reef systems"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Atlantic North Equatorial Current flows westward from the African coast to the Caribbean, driven by the northeast trade winds. It is a major component of the North Atlantic subtropical gyre.",
+  "geojson": "north-equatorial-atlantic.geojson"
+}

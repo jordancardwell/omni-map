@@ -1,0 +1,17 @@
+{
+  "code": "lk",
+  "name": "Sri Lanka",
+  "avgDownloadMbps": 30.6,
+  "avgUploadMbps": 12.8,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 18.4,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 30.6,
+  "fixedUploadMbps": 12.8,
+  "rank": 93,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "South Asia",
+  "dataYear": 2024,
+  "trendDescription": "Island nation improving connectivity. ~12% year-over-year growth.",
+  "geojson": "lk.geojson"
+}

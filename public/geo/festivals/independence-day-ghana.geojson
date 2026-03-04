@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.187,
+          5.6037
+        ]
+      },
+      "properties": {
+        "code": "independence-day-ghana",
+        "name": "Independence Day (Ghana)",
+        "festivalType": "National",
+        "dateOrSeason": "March 6",
+        "location": "Accra, Ghana"
+      }
+    }
+  ]
+}

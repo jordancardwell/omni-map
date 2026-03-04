@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9461111111,
+          49.0775
+        ]
+      },
+      "properties": {
+        "code": "champagne-hillsides-houses-and-cellars",
+        "name": "Champagne Hillsides, Houses and Cellars",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

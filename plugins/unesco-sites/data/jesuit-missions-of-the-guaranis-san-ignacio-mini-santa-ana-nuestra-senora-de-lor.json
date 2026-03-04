@@ -1,0 +1,14 @@
+{
+  "code": "jesuit-missions-of-the-guaranis-san-ignacio-mini-santa-ana-nuestra-senora-de-lor",
+  "name": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
+  "type": "Cultural",
+  "country": "Brazil, Argentina",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The ruins of São Miguel das Missões in Brazil, and those of San Ignacio Miní, Santa Ana, Nuestra Señora de Loreto and Santa María la Mayor in Argentina, lie at the heart of a tropical forest. They are the impressive remains of five Jesuit missions, built in the land of the Guaranis during the 17th and 18th centuries. Each is characterized by a specific layout and a different state of conservation.",
+  "danger": false,
+  "geojson": "jesuit-missions-of-the-guaranis-san-ignacio-mini-santa-ana-nuestra-senora-de-lor.geojson"
+}

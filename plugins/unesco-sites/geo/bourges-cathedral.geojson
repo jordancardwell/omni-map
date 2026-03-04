@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.398333333,
+          47.08222222
+        ]
+      },
+      "properties": {
+        "code": "bourges-cathedral",
+        "name": "Bourges Cathedral",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "philippine-eagle",
+  "name": "Philippine Eagle",
+  "scientificName": "Pithecophaga jefferyi",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~500 pairs",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical dipterocarp forest",
+  "threats": [
+    "Deforestation",
+    "Hunting",
+    "Mining",
+    "Fragmentation"
+  ],
+  "conservationEfforts": "Philippine Eagle Foundation breeds captive eagles and monitors wild nests. Eagles are protected by Philippine law with penalties up to 12 years imprisonment. Reintroduction efforts on Mindanao.",
+  "description": "One of the world's largest and most powerful eagles, found only in the Philippines. Also known as the monkey-eating eagle, it is the national bird of the Philippines.",
+  "geojson": "philippine-eagle.geojson"
+}

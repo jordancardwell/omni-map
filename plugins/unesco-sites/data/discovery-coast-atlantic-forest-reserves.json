@@ -1,0 +1,15 @@
+{
+  "code": "discovery-coast-atlantic-forest-reserves",
+  "name": "Discovery Coast Atlantic Forest Reserves",
+  "type": "Natural",
+  "country": "Brazil",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Discovery Coast Atlantic Forest Reserves, in the states of Bahia and Espírito Santo, consist of eight separate protected areas containing 112,000 ha of Atlantic forest and associated shrub (restingas). The rainforests of Brazil’s Atlantic coast are the world’s richest in terms of biodiversity. The site contains a distinct range of species with a high level of endemism and reveals a pattern of evolution that is not only of great scientific interest but is also of importance for conservation.",
+  "danger": false,
+  "geojson": "discovery-coast-atlantic-forest-reserves.geojson"
+}

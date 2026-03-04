@@ -1,0 +1,20 @@
+{
+  "code": "sjc2",
+  "name": "SJC2",
+  "capacityTbps": 144,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 10500,
+  "yearLaid": 2020,
+  "rfsDate": "2021-10",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Tokyo, Japan",
+    "Shantou, China",
+    "Busan, South Korea",
+    "Taipei, Taiwan"
+  ],
+  "description": "Southeast Asia-Japan Cable 2, next generation of the SJC system.",
+  "geojson": "sjc2.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "cdg",
+  "name": "Paris Charles de Gaulle",
+  "iataCode": "CDG",
+  "city": "Paris",
+  "country": "France",
+  "annualPassengers": 65000000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Paris Charles de Gaulle (CDG) in Paris, France. Annual passengers: ~65M. Classification: Major Hub.",
+  "geojson": "cdg.geojson"
+}

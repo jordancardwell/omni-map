@@ -1,0 +1,17 @@
+{
+  "code": "mco-phx",
+  "name": "Orlando — Phoenix",
+  "airports": [
+    "MCO",
+    "PHX"
+  ],
+  "distanceKm": 2969,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Southwest"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MCO–PHX route between Orlando and Phoenix. Distance: 2,969 km. ~30 weekly flights operated by Southwest.",
+  "geojson": "mco-phx.geojson"
+}

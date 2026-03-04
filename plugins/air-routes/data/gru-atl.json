@@ -1,0 +1,17 @@
+{
+  "code": "gru-atl",
+  "name": "São Paulo — Atlanta",
+  "airports": [
+    "GRU",
+    "ATL"
+  ],
+  "distanceKm": 7511,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–ATL route between São Paulo and Atlanta. Distance: 7,511 km. ~15 weekly flights operated by Delta.",
+  "geojson": "gru-atl.geojson"
+}

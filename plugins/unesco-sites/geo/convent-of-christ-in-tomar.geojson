@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4175,
+          39.60472
+        ]
+      },
+      "properties": {
+        "code": "convent-of-christ-in-tomar",
+        "name": "Convent of Christ in Tomar",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

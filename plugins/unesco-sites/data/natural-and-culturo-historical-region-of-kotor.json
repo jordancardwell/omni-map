@@ -1,0 +1,17 @@
+{
+  "code": "natural-and-culturo-historical-region-of-kotor",
+  "name": "Natural and Culturo-Historical Region of Kotor",
+  "type": "Cultural",
+  "country": "Montenegro",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the Middle Ages, this natural harbour on the Adriatic coast in Montenegro was an important artistic and commercial centre with its own famous schools of masonry and iconography. A large number of the monuments (including four Romanesque churches and the town walls) were seriously damaged by the 1979 earthquake but the town has been restored, largely with UNESCO’s help.",
+  "danger": false,
+  "geojson": "natural-and-culturo-historical-region-of-kotor.geojson"
+}

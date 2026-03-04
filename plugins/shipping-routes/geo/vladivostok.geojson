@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"vladivostok","name":"Port of Vladivostok","featureType":"port","portType":"Multi-Purpose Port","country":"Russia"},"geometry":{"type":"Point","coordinates":[131.88,43.12]}}]}

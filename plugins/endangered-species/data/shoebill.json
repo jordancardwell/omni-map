@@ -1,0 +1,19 @@
+{
+  "code": "shoebill",
+  "name": "Shoebill",
+  "scientificName": "Balaeniceps rex",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~5,000-8,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater swamp and marsh",
+  "threats": [
+    "Wetland drainage",
+    "Disturbance",
+    "Illegal capture for trade",
+    "Cattle grazing"
+  ],
+  "conservationEfforts": "Bangweulu Wetlands Project in Zambia trains local guides as shoebill guardians. Protected wetland areas in Uganda and South Sudan.",
+  "description": "A prehistoric-looking bird standing 1.5 meters tall with a massive shoe-shaped bill used to catch lungfish. They stand motionless for hours before striking with explosive speed.",
+  "geojson": "shoebill.geojson"
+}

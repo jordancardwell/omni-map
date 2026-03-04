@@ -1,0 +1,17 @@
+{
+  "code": "jm",
+  "name": "Jamaica",
+  "avgDownloadMbps": 27.6,
+  "avgUploadMbps": 10.4,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 22.4,
+  "mobileUploadMbps": 4.6,
+  "fixedDownloadMbps": 27.6,
+  "fixedUploadMbps": 10.4,
+  "rank": 98,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Caribbean connectivity improving. ~12% year-over-year growth.",
+  "geojson": "jm.geojson"
+}

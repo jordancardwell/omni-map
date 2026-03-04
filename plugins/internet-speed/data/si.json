@@ -1,0 +1,17 @@
+{
+  "code": "si",
+  "name": "Slovenia",
+  "avgDownloadMbps": 105.4,
+  "avgUploadMbps": 42.8,
+  "avgLatencyMs": 15,
+  "mobileDownloadMbps": 41.3,
+  "mobileUploadMbps": 9.2,
+  "fixedDownloadMbps": 105.4,
+  "fixedUploadMbps": 42.8,
+  "rank": 44,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Steady infrastructure development. ~9% year-over-year growth.",
+  "geojson": "si.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "mekong-giant-catfish",
+  "name": "Mekong Giant Catfish",
+  "scientificName": "Pangasianodon gigas",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Large river (Mekong)",
+  "threats": [
+    "Dam construction",
+    "Overfishing",
+    "Habitat degradation"
+  ],
+  "conservationEfforts": "WWF Mekong program works to maintain river connectivity. Community fishery management in Cambodia and Thailand. Dam mitigation measures proposed for Mekong mainstream dams.",
+  "description": "The world's largest freshwater fish, historically reaching 3 meters and 300 kg. It has declined by over 80% in just 13 years due to overfishing and dam construction on the Mekong River.",
+  "geojson": "mekong-giant-catfish.geojson"
+}

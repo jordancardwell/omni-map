@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "silk-road-maritime",
+        "name": "Silk Road (Maritime)",
+        "featureType": "route",
+        "routeType": "maritime"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [113.26, 23.13],
+          [110.35, 20.02],
+          [108.22, 16.07],
+          [106.63, 10.82],
+          [104.92, 8.60],
+          [104.05, 1.35],
+          [102.25, 2.19],
+          [100.37, 5.41],
+          [98.67, 7.88],
+          [94.21, 9.58],
+          [80.27, 13.08],
+          [75.77, 11.25],
+          [73.86, 15.40],
+          [68.97, 22.42],
+          [59.60, 23.61],
+          [56.27, 21.47],
+          [50.16, 18.49],
+          [45.04, 12.80],
+          [43.23, 14.54],
+          [41.02, 18.47],
+          [39.17, 21.42],
+          [36.84, 24.47],
+          [34.45, 27.18],
+          [32.30, 29.97],
+          [29.92, 31.20]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Guangzhou", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [113.26, 23.13] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Hanoi", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [105.85, 21.03] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Palembang", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [104.75, -2.99] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Malacca", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [102.25, 2.19] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Calicut", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [75.77, 11.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Muscat", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [58.54, 23.61] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Aden", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [45.04, 12.80] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Jeddah", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [39.17, 21.42] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "silk-road-maritime", "name": "Alexandria", "featureType": "waypoint" },
+      "geometry": { "type": "Point", "coordinates": [29.92, 31.20] }
+    }
+  ]
+}

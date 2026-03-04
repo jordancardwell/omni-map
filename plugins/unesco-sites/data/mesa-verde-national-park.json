@@ -1,0 +1,14 @@
+{
+  "code": "mesa-verde-national-park",
+  "name": "Mesa Verde National Park",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "A great concentration of ancestral Pueblo Indian dwellings, built from the 6th to the 12th century, can be found on the Mesa Verde plateau in south-west Colorado at an altitude of more than 2,600 m. Some 4,400 sites have been recorded, including villages built on the Mesa top. There are also imposing cliff dwellings, built of stone and comprising more than 100 rooms.",
+  "danger": false,
+  "geojson": "mesa-verde-national-park.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "amazon-basin",
+  "name": "Amazon Basin",
+  "region": "South America",
+  "stressGroup": "1. Low (<10%)",
+  "waterStressLevel": "Low",
+  "waterStressRatio": "< 5% — withdrawal-to-availability",
+  "depletionRate": "Negligible — vast renewable supply exceeds demand",
+  "droughtRisk": "Low",
+  "seasonalVariability": "Moderate",
+  "affectedPopulation": 40000000,
+  "riskFactors": ["Deforestation", "Mining contamination", "Hydropower dams", "Agricultural expansion"],
+  "description": "The Amazon Basin holds roughly 20% of the world's freshwater discharge. Water stress remains minimal at the basin scale, though localized deforestation-driven dry-season intensification threatens sub-basins in the eastern arc. WRI Aqueduct 4.0 rates overall baseline water stress below 10%.",
+  "geojson": "amazon-basin.geojson"
+}

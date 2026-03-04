@@ -1,0 +1,15 @@
+{
+  "code": "djibouti",
+  "name": "Port of Djibouti",
+  "country": "Djibouti",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Red Sea Route",
+    "Horn of Africa & Gulf of Aden"
+  ],
+  "description": "Port of Djibouti in Djibouti. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+  "geojson": "djibouti.geojson"
+}

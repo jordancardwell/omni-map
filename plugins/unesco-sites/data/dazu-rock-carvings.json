@@ -1,0 +1,16 @@
+{
+  "code": "dazu-rock-carvings",
+  "name": "Dazu Rock Carvings",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The steep hillsides of the Dazu area contain an exceptional series of rock carvings dating from the 9th to the 13th century. They are remarkable for their aesthetic quality, their rich diversity of subject matter, both secular and religious, and the light that they shed on everyday life in China during this period. They provide outstanding evidence of the harmonious synthesis of Buddhism, Taoism and Confucianism.",
+  "danger": false,
+  "geojson": "dazu-rock-carvings.geojson"
+}

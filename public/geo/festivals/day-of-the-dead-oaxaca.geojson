@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7266,
+          17.0732
+        ]
+      },
+      "properties": {
+        "code": "day-of-the-dead-oaxaca",
+        "name": "Día de los Muertos (Oaxaca)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "October 31–November 2",
+        "location": "Oaxaca, Mexico"
+      }
+    }
+  ]
+}

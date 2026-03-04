@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.73972,
+          23.47944
+        ]
+      },
+      "properties": {
+        "code": "buddhist-monuments-at-sanchi",
+        "name": "Buddhist Monuments at Sanchi",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1989"
+      }
+    }
+  ]
+}

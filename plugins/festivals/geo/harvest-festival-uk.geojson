@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "code": "harvest-festival-uk",
+        "name": "Harvest Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Late September–October",
+        "location": "London, UK"
+      }
+    }
+  ]
+}

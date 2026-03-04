@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-puebla",
+  "name": "Historic Centre of Puebla",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Puebla, which was founded ex nihilo in 1531, is situated about 100 km east of Mexico City, at the foot of the Popocatepetl volcano. It has preserved its great religious structures such as the 16th–17th-century cathedral and fine buildings like the old archbishop's palace, as well as a host of houses with walls covered in tiles (azulejos). The new aesthetic concepts resulting from the fusion of European and American styles were adopted locally and are peculiar to the Baroque district of Puebla.",
+  "danger": false,
+  "geojson": "historic-centre-of-puebla.geojson"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biodiversity-hotspots",
+  "name": "Biodiversity Hotspots",
+  "description": "Conservation International's 36 global biodiversity hotspots — regions with exceptional concentrations of endemic species facing exceptional habitat loss",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#E63946",
+  "categories": ["ecology", "environment", "conservation"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#E63946",
+  "schema": "BiodiversityHotspotMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "location", "threatLevel", "description"],
+    "groupBy": "threatLevel",
+    "titleField": "name",
+    "subtitleField": "location",
+    "badgeField": "areaKm2",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "location"
+  },
+  "detailFields": [
+    { "key": "threatLevel", "label": "Threat Level", "type": "text" },
+    { "key": "areaKm2", "label": "Original Extent (km²)", "type": "formatted-number" },
+    { "key": "habitatRemaining", "label": "Habitat Remaining", "type": "text" },
+    { "key": "plantSpecies", "label": "Plant Species", "type": "formatted-number" },
+    { "key": "endemicPlants", "label": "Endemic Plants", "type": "formatted-number" },
+    { "key": "vertebrateSpecies", "label": "Vertebrate Species", "type": "formatted-number" },
+    { "key": "endemicVertebrates", "label": "Endemic Vertebrates", "type": "formatted-number" },
+    { "key": "keySpecies", "label": "Key Species", "type": "tags" },
+    { "key": "threats", "label": "Primary Threats", "type": "tags" },
+    { "key": "conservationEfforts", "label": "Conservation Efforts", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

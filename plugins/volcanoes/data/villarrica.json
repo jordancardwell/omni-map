@@ -1,0 +1,22 @@
+{
+  "code": "villarrica",
+  "name": "Villarrica",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2847,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Chile",
+  "region": "Araucanía",
+  "location": "Araucanía, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Lahars",
+    "Ashfall",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "One of Chile's most active volcanoes with over 60 historical eruptions. Contains a rare persistent lava lake in its summit crater.",
+  "description": "Villarrica is one of only a few volcanoes worldwide with a persistent lava lake. It is a major ski resort and tourist destination despite its frequent activity.",
+  "geojson": "villarrica.geojson"
+}

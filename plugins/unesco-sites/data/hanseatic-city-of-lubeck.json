@@ -1,0 +1,14 @@
+{
+  "code": "hanseatic-city-of-lubeck",
+  "name": "Hanseatic City of Lübeck",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Lübeck – the former capital and Queen City of the Hanseatic League – was founded in the 12th century and prospered until the 16th century as the major trading centre for northern Europe. It has remained a centre for maritime commerce to this day, particularly with the Nordic countries. Despite the damage it suffered during the Second World War, the basic structure of the old city, consisting mainly of 15th- and 16th-century patrician residences, public monuments (the famous Holstentor brick gate), churches and salt storehouses, remains unaltered.",
+  "danger": false,
+  "geojson": "hanseatic-city-of-lubeck.geojson"
+}

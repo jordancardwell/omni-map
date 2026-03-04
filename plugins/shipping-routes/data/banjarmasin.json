@@ -1,0 +1,14 @@
+{
+  "code": "banjarmasin",
+  "name": "Port of Banjarmasin",
+  "country": "Indonesia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Southeast Asian Straits"
+  ],
+  "description": "Port of Banjarmasin in Indonesia. Annual cargo throughput: ~15 million tons. Type: Bulk Port.",
+  "geojson": "banjarmasin.geojson"
+}

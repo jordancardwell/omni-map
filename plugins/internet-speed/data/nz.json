@@ -1,0 +1,17 @@
+{
+  "code": "nz",
+  "name": "New Zealand",
+  "avgDownloadMbps": 152.4,
+  "avgUploadMbps": 78.3,
+  "avgLatencyMs": 15,
+  "mobileDownloadMbps": 72.6,
+  "mobileUploadMbps": 14.8,
+  "fixedDownloadMbps": 152.4,
+  "fixedUploadMbps": 78.3,
+  "rank": 27,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Oceania",
+  "dataYear": 2024,
+  "trendDescription": "UFB fiber network nearly complete. ~8% year-over-year growth.",
+  "geojson": "nz.geojson"
+}

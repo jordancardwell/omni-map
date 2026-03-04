@@ -1,0 +1,16 @@
+{
+  "code": "unity",
+  "name": "Unity",
+  "capacityTbps": 7.68,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 9600,
+  "yearLaid": 2009,
+  "rfsDate": "2010-04",
+  "owner": "Google, KDDI, Bharti Airtel, Global Transit, Pacnet, SingTel",
+  "landingPoints": [
+    "Chikura, Japan",
+    "Los Angeles, USA"
+  ],
+  "description": "Trans-Pacific cable connecting Japan to the US, with onward links across the Pacific.",
+  "geojson": "unity.geojson"
+}

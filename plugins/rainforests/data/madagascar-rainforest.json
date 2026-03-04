@@ -1,0 +1,21 @@
+{
+  "code": "madagascar-rainforest",
+  "name": "Madagascar Rainforest",
+  "country": "Madagascar",
+  "forestType": "Tropical",
+  "areaKm2": 50000,
+  "intactness": "Critical",
+  "changeSince2000": "-22.5% (approximately 14,500 km² lost)",
+  "annualLossRate": "1.0–1.5% per year",
+  "threats": [
+    "Slash-and-burn agriculture (tavy)",
+    "Illegal logging (rosewood, ebony)",
+    "Charcoal production",
+    "Mining",
+    "Population pressure",
+    "Political instability"
+  ],
+  "conservationStatus": "Multiple national parks including Masoala, Ranomafana, and Andasibe-Mantadia. Madagascar's system of protected areas expanded in 2003. CITES restrictions on rosewood export. However, enforcement is weak and political crises have triggered logging surges.",
+  "description": "**Madagascar's Rainforest** is one of the world's most important biodiversity hotspots, with extraordinary levels of endemism found nowhere else on Earth. The island's eastern rainforests have been reduced to approximately 10% of their original extent.\n\n### Key Statistics\n- **Biodiversity**: ~12,000 plant species (80% endemic), 100+ lemur species, 300+ frog species\n- **Endemism**: 90% of wildlife found nowhere else on Earth\n- **Original extent**: Once covered ~120,000 km²; now reduced to ~50,000 km²\n- **Lemurs**: 111 species, all endemic, most endangered primate group\n\n### Deforestation Trends\nThe IFL 2020 data shows Madagascar has lost the majority of its original forest cover, with acceleration during political crises (2009, 2013). The remaining forests are highly fragmented. Small-scale slash-and-burn agriculture remains the primary driver, but illegal logging of precious hardwoods intensifies during governance vacuums.",
+  "geojson": "madagascar-rainforest.geojson"
+}

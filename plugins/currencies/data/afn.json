@@ -1,0 +1,16 @@
+{
+  "code": "afn",
+  "name": "Afghan Afghani",
+  "isoCode": "AFN",
+  "symbol": "؋",
+  "region": "Asia",
+  "centralBank": "Da Afghanistan Bank",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Afghanistan"
+  ],
+  "countryCount": 1,
+  "description": "The Afghan Afghani is the currency of Afghanistan. Multiple currencies including the US dollar and Pakistani rupee circulate in practice.",
+  "historicalNotes": "The current afghani was introduced in 2002 after the fall of the Taliban, replacing the previous afghani at 1,000:1.",
+  "geojson": "afn.geojson"
+}

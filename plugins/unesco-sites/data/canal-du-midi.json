@@ -1,0 +1,16 @@
+{
+  "code": "canal-du-midi",
+  "name": "Canal du Midi",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This 360-km network of navigable waterways linking the Mediterranean and the Atlantic through 328 structures (locks, aqueducts, bridges, tunnels, etc.) is one of the most remarkable feats of civil engineering in modern times. Built between 1667 and 1694, it paved the way for the Industrial Revolution. The care that its creator, Pierre-Paul Riquet, took in the design and the way it blends with its surroundings turned a technical achievement into a work of art.",
+  "danger": false,
+  "geojson": "canal-du-midi.geojson"
+}

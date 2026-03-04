@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.725885,
+          17.061579
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-oaxaca-and-archaeological-site-of-monte-alban",
+        "name": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

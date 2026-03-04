@@ -1,0 +1,734 @@
+[
+  {
+    "code": "afghanistan-iran",
+    "name": "Afghanistan → Iran",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Afghanistan → Iran",
+    "badgeValue": "~2.3 million",
+    "origin": "Afghanistan",
+    "destination": "Iran",
+    "estimatedMigrants": "~2.3 million",
+    "drivers": [
+      "Conflict displacement",
+      "Economic opportunity",
+      "Cultural proximity",
+      "Decades of instability"
+    ],
+    "description": "Iran hosts one of the world's largest and longest-standing refugee populations, predominantly Afghan. Migration began during the Soviet invasion (1979), continued through the Taliban era, and surged again after 2021. Most Afghans in Iran work in construction, agriculture, and manufacturing. Despite periodic deportation campaigns, the population remains large due to ongoing conflict and economic collapse in Afghanistan.",
+    "geojson": "afghanistan-iran.geojson"
+  },
+  {
+    "code": "algeria-france",
+    "name": "Algeria → France",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Algeria → France",
+    "badgeValue": "~1.5 million",
+    "origin": "Algeria",
+    "destination": "France",
+    "estimatedMigrants": "~1.5 million",
+    "drivers": [
+      "Colonial history",
+      "Francophone ties",
+      "Political instability",
+      "Family reunification"
+    ],
+    "description": "Algerian migration to France has deep roots in the colonial period (1830–1962). The Algerian War of Independence and subsequent political instability drove significant migration waves. The harki community (Algerians who served with France) and their descendants form a distinct group. Algerian French represent one of the largest North African diaspora communities in Europe.",
+    "geojson": "algeria-france.geojson"
+  },
+  {
+    "code": "atlantic-americas",
+    "name": "Atlantic Americas Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Eastern Americas",
+    "badgeValue": "~500 species",
+    "speciesCount": "~500 migratory species including shorebirds, raptors, and songbirds",
+    "keyStopoverSites": [
+      "Delaware Bay",
+      "Chesapeake Bay",
+      "Caribbean Islands",
+      "Amazon Estuary",
+      "Tierra del Fuego"
+    ],
+    "threats": [
+      "Coastal development",
+      "Light pollution",
+      "Climate change",
+      "Habitat loss",
+      "Pesticides"
+    ],
+    "description": "The Atlantic Americas Flyway stretches along the eastern seaboard of North and South America, from the Canadian Arctic to Patagonia. It is critical for shorebirds like the Red Knot, which makes one of the longest migrations of any bird — nearly 15,000 km each way. Delaware Bay serves as a crucial refueling stop where birds feed on horseshoe crab eggs. Coastal development and sea-level rise threaten key stopover habitats.",
+    "geojson": "atlantic-americas.geojson"
+  },
+  {
+    "code": "bangladesh-india",
+    "name": "Bangladesh → India",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Bangladesh → India",
+    "badgeValue": "~3.1 million",
+    "origin": "Bangladesh",
+    "destination": "India",
+    "estimatedMigrants": "~3.1 million",
+    "drivers": [
+      "Economic opportunity",
+      "Environmental displacement",
+      "Historical ties",
+      "Porous border"
+    ],
+    "description": "Migration from Bangladesh to India is driven by economic factors and environmental pressures including flooding and cyclones. The 4,096 km border is one of the longest in the world. Historical partition-era movements and cultural ties across Bengal facilitate ongoing migration. Much of this migration is irregular, making accurate counts difficult.",
+    "geojson": "bangladesh-india.geojson"
+  },
+  {
+    "code": "black-sea-mediterranean",
+    "name": "Black Sea / Mediterranean Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Eastern Europe to East Africa",
+    "badgeValue": "~350 species",
+    "speciesCount": "~350 migratory species including raptors, storks, and pelicans",
+    "keyStopoverSites": [
+      "Bosphorus Strait",
+      "Danube Delta",
+      "Hula Valley Israel",
+      "Nile Delta",
+      "Rift Valley Lakes"
+    ],
+    "threats": [
+      "Illegal hunting",
+      "Dam construction",
+      "Wetland drainage",
+      "Poisoning",
+      "Power line collisions"
+    ],
+    "description": "The Black Sea/Mediterranean Flyway funnels millions of soaring birds — white storks, eagles, buzzards, and pelicans — through narrow land bridges and straits where thermal updrafts allow energy-efficient migration. The Bosphorus Strait in Istanbul is one of the world's premier raptor migration bottlenecks, with over 200,000 birds of prey passing each autumn. The Hula Valley in Israel hosts half a billion birds annually. Illegal hunting in the eastern Mediterranean kills an estimated 25 million birds per year.",
+    "geojson": "black-sea-mediterranean.geojson"
+  },
+  {
+    "code": "central-asian",
+    "name": "Central Asian Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Siberia to Indian Subcontinent",
+    "badgeValue": "~280 species",
+    "speciesCount": "~280 migratory species including bar-headed geese, demoiselle cranes, and raptors",
+    "keyStopoverSites": [
+      "Qinghai Lake China",
+      "Ladakh Wetlands",
+      "Chilika Lake India",
+      "Rann of Kutch",
+      "Indus Flyway Wetlands"
+    ],
+    "threats": [
+      "Himalayan development",
+      "Wetland pollution",
+      "Power lines",
+      "Poisoning",
+      "Climate change"
+    ],
+    "description": "The Central Asian Flyway crosses some of the most extreme terrain on Earth, as birds migrate over the Himalayas and Hindu Kush between Siberian breeding grounds and the Indian subcontinent. The Bar-headed Goose is famous for flying over Mount Everest at altitudes exceeding 7,000 meters. Demoiselle Cranes cross the Himalayas at Khichan, Rajasthan, where local communities have fed migrating flocks for generations. The flyway's wetlands are under severe pressure from agricultural expansion and industrial pollution.",
+    "geojson": "central-asian.geojson"
+  },
+  {
+    "code": "china-usa",
+    "name": "China → United States",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "China → United States",
+    "badgeValue": "~2.9 million",
+    "origin": "China",
+    "destination": "United States",
+    "estimatedMigrants": "~2.9 million",
+    "drivers": [
+      "Education",
+      "Economic opportunity",
+      "Family reunification",
+      "Investment migration"
+    ],
+    "description": "Chinese migration to the US encompasses diverse flows: students (the largest international student population), skilled professionals in technology and science, family-sponsored immigrants, and investor migrants. Chinese Americans are the largest Asian American ethnic group. Historical migration dates to the Gold Rush era, with modern waves accelerating after China's economic opening in the 1980s.",
+    "geojson": "china-usa.geojson"
+  },
+  {
+    "code": "dr-congo-uganda",
+    "name": "DR Congo → Uganda",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Democratic Republic of Congo → Uganda",
+    "badgeValue": "~470,000",
+    "origin": "Democratic Republic of Congo",
+    "destination": "Uganda",
+    "estimatedMigrants": "~470,000",
+    "drivers": [
+      "Armed conflict",
+      "Ethnic violence",
+      "Resource conflicts",
+      "M23 insurgency"
+    ],
+    "description": "Eastern DR Congo has experienced decades of conflict involving armed groups, resource exploitation, and ethnic tensions. Uganda receives significant numbers of Congolese refugees fleeing violence in North Kivu, South Kivu, and Ituri provinces. The M23 insurgency and other militia activity continue to drive displacement. Refugees are settled across western Uganda, with many in Kyangwali and Nakivale settlements.",
+    "geojson": "dr-congo-uganda.geojson"
+  },
+  {
+    "code": "east-asian-australasian",
+    "name": "East Asian–Australasian Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "East Asia to Australasia",
+    "badgeValue": "~490 species",
+    "speciesCount": "~490 migratory species including spoon-billed sandpiper, cranes, and shorebirds",
+    "keyStopoverSites": [
+      "Yellow Sea Tidal Flats",
+      "Ariake Bay Japan",
+      "Mai Po Hong Kong",
+      "Broome Australia",
+      "Miranda NZ"
+    ],
+    "threats": [
+      "Tidal flat reclamation",
+      "Industrial development",
+      "Pollution",
+      "Climate change",
+      "Hunting"
+    ],
+    "description": "The East Asian–Australasian Flyway is the most threatened of all global flyways, with the highest number of declining species. It stretches from Arctic Russia through East and Southeast Asia to Australia and New Zealand. The Yellow Sea tidal flats — shared by China and South Korea — are its most critical habitat, supporting millions of shorebirds, but over 65% have been lost to land reclamation since the 1950s. The Spoon-billed Sandpiper, one of the world's rarest birds (<500 individuals), depends entirely on this flyway.",
+    "geojson": "east-asian-australasian.geojson"
+  },
+  {
+    "code": "east-atlantic",
+    "name": "East Atlantic Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Europe to West Africa",
+    "badgeValue": "~450 species",
+    "speciesCount": "~450 migratory species including waders, terns, and geese",
+    "keyStopoverSites": [
+      "Wadden Sea",
+      "Banc d'Arguin Mauritania",
+      "Inner Niger Delta",
+      "Bijagós Archipelago",
+      "Doñana Wetlands"
+    ],
+    "threats": [
+      "Tidal flat reclamation",
+      "Overfishing",
+      "Climate change",
+      "Sahara expansion",
+      "Pollution"
+    ],
+    "description": "The East Atlantic Flyway connects breeding grounds in Arctic Europe and Siberia with wintering areas in western and southern Africa. The Wadden Sea, a UNESCO World Heritage Site shared by Netherlands, Germany, and Denmark, is the flyway's most important staging area — up to 12 million waterbirds depend on it annually. The Banc d'Arguin in Mauritania is the largest wintering ground for Palearctic shorebirds. Tidal flat development in Europe and desertification in the Sahel region pose the greatest threats.",
+    "geojson": "east-atlantic.geojson"
+  },
+  {
+    "code": "egypt-saudi",
+    "name": "Egypt → Saudi Arabia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Egypt → Saudi Arabia",
+    "badgeValue": "~1.3 million",
+    "origin": "Egypt",
+    "destination": "Saudi Arabia",
+    "estimatedMigrants": "~1.3 million",
+    "drivers": [
+      "Oil economy employment",
+      "Wage differential",
+      "Cultural proximity",
+      "Youth unemployment"
+    ],
+    "description": "Egyptian workers in Saudi Arabia work across education, engineering, healthcare, and services. Arabic language commonality facilitates integration. Migration has been a safety valve for Egypt's chronic youth unemployment. Remittances from Saudi Arabia are among the largest sources of foreign currency for Egypt.",
+    "geojson": "egypt-saudi.geojson"
+  },
+  {
+    "code": "eritrea-ethiopia-europe",
+    "name": "Eritrea → Europe (via Ethiopia/Libya)",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Eritrea → Europe",
+    "badgeValue": "~500,000",
+    "origin": "Eritrea",
+    "destination": "Europe",
+    "estimatedMigrants": "~500,000",
+    "drivers": [
+      "Indefinite conscription",
+      "Political repression",
+      "Lack of freedoms",
+      "Smuggling networks"
+    ],
+    "description": "Eritrean migration to Europe is primarily driven by indefinite national service, which amounts to forced labor, and severe political repression. Most Eritreans transit through Ethiopia and Sudan before crossing the Sahara and Mediterranean, often via Libya. The journey is extremely dangerous — thousands have died in the Mediterranean. Eritreans are among the top nationalities granted asylum in Europe, with large communities in Germany, Sweden, and the UK.",
+    "geojson": "eritrea-ethiopia-europe.geojson"
+  },
+  {
+    "code": "india-kuwait",
+    "name": "India → Kuwait",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "India → Kuwait",
+    "badgeValue": "~1.0 million",
+    "origin": "India",
+    "destination": "Kuwait",
+    "estimatedMigrants": "~1.0 million",
+    "drivers": [
+      "Oil economy",
+      "Construction",
+      "Domestic services",
+      "Established networks"
+    ],
+    "description": "Indian workers are the largest expatriate group in Kuwait, working in oil, construction, retail, and domestic services. Migration flows have been sustained since the 1970s oil boom. Remittances support families across Kerala, Tamil Nadu, and Andhra Pradesh. Kuwait's demographic imbalance — with expatriates outnumbering citizens — has led to periodic Kuwaitization policies.",
+    "geojson": "india-kuwait.geojson"
+  },
+  {
+    "code": "india-qatar",
+    "name": "India → Qatar",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "India → Qatar",
+    "badgeValue": "~750,000",
+    "origin": "India",
+    "destination": "Qatar",
+    "estimatedMigrants": "~750,000",
+    "drivers": [
+      "Construction boom",
+      "World Cup infrastructure",
+      "Higher wages",
+      "Gulf labor demand"
+    ],
+    "description": "Indian workers form the largest national group in Qatar, heavily concentrated in construction and infrastructure projects. The 2022 FIFA World Cup drove massive construction demand. Workers typically migrate on temporary contracts under the kafala system, which has undergone reforms but still restricts worker mobility. Remittances from Qatar support millions of families in India.",
+    "geojson": "india-qatar.geojson"
+  },
+  {
+    "code": "india-saudi",
+    "name": "India → Saudi Arabia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "India → Saudi Arabia",
+    "badgeValue": "~2.5 million",
+    "origin": "India",
+    "destination": "Saudi Arabia",
+    "estimatedMigrants": "~2.5 million",
+    "drivers": [
+      "Oil sector employment",
+      "Religious pilgrimage",
+      "Wage premium",
+      "Bilateral agreements"
+    ],
+    "description": "Saudi Arabia hosts one of the largest Indian diaspora communities, working across oil, construction, healthcare, and services sectors. Religious tourism (Hajj and Umrah) also sustains significant temporary migration. Government initiatives like Saudization have periodically affected migrant worker numbers.",
+    "geojson": "india-saudi.geojson"
+  },
+  {
+    "code": "india-uae",
+    "name": "India → UAE",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "India → United Arab Emirates",
+    "badgeValue": "~3.5 million",
+    "origin": "India",
+    "destination": "United Arab Emirates",
+    "estimatedMigrants": "~3.5 million",
+    "drivers": [
+      "Construction labor demand",
+      "Gulf oil economy",
+      "Higher wages",
+      "Kafala system"
+    ],
+    "description": "Indian workers form the largest expatriate community in the UAE, concentrated in construction, domestic services, and retail. The kafala (sponsorship) system has historically tied workers to employers. Migration accelerated with the Gulf construction boom of the 2000s. Remittances from the UAE form a significant portion of India's foreign earnings.",
+    "geojson": "india-uae.geojson"
+  },
+  {
+    "code": "india-usa",
+    "name": "India → United States",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "India → United States",
+    "badgeValue": "~2.7 million",
+    "origin": "India",
+    "destination": "United States",
+    "estimatedMigrants": "~2.7 million",
+    "drivers": [
+      "IT sector demand",
+      "Higher education",
+      "H-1B visas",
+      "Family reunification"
+    ],
+    "description": "Indian migration to the US is heavily skilled, with Indians receiving the largest share of H-1B work visas. The Indian American community leads in median household income among major ethnic groups in the US. Migration flows are concentrated in technology hubs like Silicon Valley, Seattle, and the Research Triangle. Indian students are the second-largest international student group in American universities.",
+    "geojson": "india-usa.geojson"
+  },
+  {
+    "code": "indonesia-saudi",
+    "name": "Indonesia → Saudi Arabia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Indonesia → Saudi Arabia",
+    "badgeValue": "~1.6 million",
+    "origin": "Indonesia",
+    "destination": "Saudi Arabia",
+    "estimatedMigrants": "~1.6 million",
+    "drivers": [
+      "Domestic worker demand",
+      "Religious connection",
+      "Hajj pilgrimage",
+      "Wage premium"
+    ],
+    "description": "Indonesian migration to Saudi Arabia is driven by demand for domestic workers and religious connections as the world's largest Muslim-majority country. Many Indonesians travel for Hajj pilgrimage and remain for work. Domestic workers have faced documented exploitation, leading to periodic migration bans and bilateral negotiations on worker protections.",
+    "geojson": "indonesia-saudi.geojson"
+  },
+  {
+    "code": "kazakhstan-russia",
+    "name": "Kazakhstan → Russia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Kazakhstan → Russia",
+    "badgeValue": "~2.6 million",
+    "origin": "Kazakhstan",
+    "destination": "Russia",
+    "estimatedMigrants": "~2.6 million",
+    "drivers": [
+      "Post-Soviet migration",
+      "Ethnic Russian return",
+      "Economic ties",
+      "Language and culture"
+    ],
+    "description": "Migration from Kazakhstan to Russia is largely a legacy of the Soviet era, when ethnic Russians and other Slavic populations moved to Central Asia. After independence in 1991, many ethnic Russians returned to Russia, constituting a major post-Soviet migration wave. Economic ties, shared language, and membership in the Eurasian Economic Union continue to facilitate movement.",
+    "geojson": "kazakhstan-russia.geojson"
+  },
+  {
+    "code": "mexico-usa",
+    "name": "Mexico → United States",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Mexico → United States",
+    "badgeValue": "~10.9 million",
+    "origin": "Mexico",
+    "destination": "United States",
+    "estimatedMigrants": "~10.9 million",
+    "drivers": [
+      "Economic opportunity",
+      "Family reunification",
+      "Wage differentials",
+      "Established networks"
+    ],
+    "description": "The Mexico–US migration corridor is the largest in the world. Mexican migrants constitute the largest foreign-born population in the United States. Migration has been driven by economic disparity, labor demand in agriculture and services, and deeply established social networks spanning decades. Border enforcement and policy shifts have altered but not eliminated these flows.",
+    "geojson": "mexico-usa.geojson"
+  },
+  {
+    "code": "mississippi-americas",
+    "name": "Mississippi Americas Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Central Americas",
+    "badgeValue": "~400 species",
+    "speciesCount": "~400 migratory species including waterfowl, cranes, and warblers",
+    "keyStopoverSites": [
+      "Great Lakes",
+      "Mississippi Delta",
+      "Playa Lakes TX",
+      "Gulf Coast",
+      "Central Mexico Wetlands"
+    ],
+    "threats": [
+      "Wetland drainage",
+      "Agricultural intensification",
+      "Wind turbines",
+      "Climate change",
+      "Hunting"
+    ],
+    "description": "The Mississippi Americas Flyway follows the Mississippi River corridor and the Great Plains, connecting the Canadian prairies and boreal forests to Central America and northern South America. It is the primary route for North American waterfowl — an estimated 40% of all ducks and geese use this flyway. The whooping crane, one of the rarest birds in the world, migrates along this corridor between Wood Buffalo National Park and Aransas National Wildlife Refuge.",
+    "geojson": "mississippi-americas.geojson"
+  },
+  {
+    "code": "morocco-france",
+    "name": "Morocco → France",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Morocco → France",
+    "badgeValue": "~1.1 million",
+    "origin": "Morocco",
+    "destination": "France",
+    "estimatedMigrants": "~1.1 million",
+    "drivers": [
+      "Colonial ties",
+      "Language",
+      "Labor demand",
+      "Family networks"
+    ],
+    "description": "Moroccan migration to France is rooted in the colonial era and post-war labor recruitment. French language proficiency facilitates integration. Moroccans form one of France's largest immigrant communities, concentrated in Île-de-France, Provence, and industrial northern cities. Second and third generation French-Moroccans maintain transnational ties.",
+    "geojson": "morocco-france.geojson"
+  },
+  {
+    "code": "myanmar-thailand",
+    "name": "Myanmar → Thailand",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Myanmar → Thailand",
+    "badgeValue": "~1.9 million",
+    "origin": "Myanmar",
+    "destination": "Thailand",
+    "estimatedMigrants": "~1.9 million",
+    "drivers": [
+      "Political persecution",
+      "Economic opportunity",
+      "Ethnic conflict",
+      "Labor demand"
+    ],
+    "description": "Thailand hosts a large Myanmar migrant population working in fishing, agriculture, manufacturing, and domestic services. Migration has been driven by ethnic conflict, military rule, and economic disparity. The 2021 military coup caused a new wave of displacement. Many migrants have irregular status, making them vulnerable to exploitation. Migrant workers contribute significantly to Thailand's fishing and food processing industries.",
+    "geojson": "myanmar-thailand.geojson"
+  },
+  {
+    "code": "pacific-americas",
+    "name": "Pacific Americas Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Western Americas",
+    "badgeValue": "~350 species",
+    "speciesCount": "~350 migratory species including shorebirds, seabirds, and raptors",
+    "keyStopoverSites": [
+      "Copper River Delta AK",
+      "San Francisco Bay",
+      "Baja California Lagoons",
+      "Humboldt Bay",
+      "Salton Sea"
+    ],
+    "threats": [
+      "Water diversion",
+      "Urbanization",
+      "Oil spills",
+      "El Niño disruptions",
+      "Invasive species"
+    ],
+    "description": "The Pacific Americas Flyway runs along the western coast of the Americas from Alaska to Chile. The Bar-tailed Godwit performs the longest non-stop flight of any land bird along this route — over 11,000 km from Alaska to New Zealand without rest. The flyway's coastal wetlands are critical but threatened by water diversion for agriculture. The Salton Sea in California, once a major stopover, has been shrinking dramatically, reducing habitat for millions of birds.",
+    "geojson": "pacific-americas.geojson"
+  },
+  {
+    "code": "pakistan-saudi",
+    "name": "Pakistan → Saudi Arabia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Pakistan → Saudi Arabia",
+    "badgeValue": "~1.5 million",
+    "origin": "Pakistan",
+    "destination": "Saudi Arabia",
+    "estimatedMigrants": "~1.5 million",
+    "drivers": [
+      "Construction labor",
+      "Religious ties",
+      "Wage premium",
+      "Recruitment networks"
+    ],
+    "description": "Pakistani workers form a large expatriate community in Saudi Arabia, concentrated in construction, transportation, and services. Religious ties and Hajj pilgrimage create additional flows. Recruitment agencies play a significant role in facilitating migration, though reports of exploitative practices persist. Remittances from Saudi Arabia are critical to Pakistan's economy.",
+    "geojson": "pakistan-saudi.geojson"
+  },
+  {
+    "code": "pakistan-uae",
+    "name": "Pakistan → UAE",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Pakistan → UAE",
+    "badgeValue": "~1.3 million",
+    "origin": "Pakistan",
+    "destination": "UAE",
+    "estimatedMigrants": "~1.3 million",
+    "drivers": [
+      "Construction demand",
+      "Trade connections",
+      "Higher wages",
+      "Established diaspora"
+    ],
+    "description": "Pakistani migrants in the UAE work primarily in construction, retail, and transportation. Dubai's real estate boom has been a major pull factor. Trade connections between Karachi and Dubai predate modern migration flows. The established Pakistani business community facilitates new arrivals.",
+    "geojson": "pakistan-uae.geojson"
+  },
+  {
+    "code": "philippines-saudi",
+    "name": "Philippines → Saudi Arabia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Philippines → Saudi Arabia",
+    "badgeValue": "~1.0 million",
+    "origin": "Philippines",
+    "destination": "Saudi Arabia",
+    "estimatedMigrants": "~1.0 million",
+    "drivers": [
+      "Domestic worker demand",
+      "Healthcare jobs",
+      "Wage premium",
+      "OFW culture"
+    ],
+    "description": "The Philippines has a deeply institutionalized overseas worker program, and Saudi Arabia is one of the top destinations. Filipino workers in Saudi Arabia include domestic helpers, nurses, engineers, and IT professionals. The Overseas Filipino Worker (OFW) culture is embedded in Philippine society, with remittances accounting for roughly 10% of GDP. Government agencies (POEA, OWWA) regulate deployment and provide worker protection.",
+    "geojson": "philippines-saudi.geojson"
+  },
+  {
+    "code": "philippines-usa",
+    "name": "Philippines → United States",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Philippines → United States",
+    "badgeValue": "~2.0 million",
+    "origin": "Philippines",
+    "destination": "United States",
+    "estimatedMigrants": "~2.0 million",
+    "drivers": [
+      "Colonial ties",
+      "Nursing demand",
+      "Family reunification",
+      "Military connections"
+    ],
+    "description": "Filipino migration to the US has deep historical roots in the colonial period and military base agreements. Filipino Americans are the third-largest Asian American group. Healthcare workers, especially nurses, form a disproportionate share of migrants — Filipino nurses comprise roughly 4% of the US nursing workforce. Family reunification provisions drive continued migration.",
+    "geojson": "philippines-usa.geojson"
+  },
+  {
+    "code": "poland-uk",
+    "name": "Poland → United Kingdom",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Poland → United Kingdom",
+    "badgeValue": "~900,000",
+    "origin": "Poland",
+    "destination": "United Kingdom",
+    "estimatedMigrants": "~900,000",
+    "drivers": [
+      "EU accession 2004",
+      "Labor demand",
+      "Wage differential",
+      "English proficiency"
+    ],
+    "description": "Polish migration to the UK surged after Poland's EU accession in 2004, when the UK was one of three countries to immediately open labor markets. Poles became the largest foreign-born group in the UK by 2015. Workers filled critical gaps in construction, food processing, healthcare, and hospitality. Brexit caused some return migration, but a large established community remains.",
+    "geojson": "poland-uk.geojson"
+  },
+  {
+    "code": "romania-italy",
+    "name": "Romania → Italy",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Romania → Italy",
+    "badgeValue": "~1.1 million",
+    "origin": "Romania",
+    "destination": "Italy",
+    "estimatedMigrants": "~1.1 million",
+    "drivers": [
+      "EU free movement",
+      "Latin language affinity",
+      "Labor demand",
+      "Diaspora networks"
+    ],
+    "description": "Romanians form the largest immigrant group in Italy, facilitated by EU freedom of movement and linguistic similarity between the two Romance languages. Migration surged after Romania's EU accession in 2007. Romanian workers are prominent in agriculture, construction, elderly care, and domestic services. The community is concentrated in Lombardy, Lazio, Veneto, and Piedmont.",
+    "geojson": "romania-italy.geojson"
+  },
+  {
+    "code": "somalia-kenya",
+    "name": "Somalia → Kenya",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Somalia → Kenya",
+    "badgeValue": "~780,000",
+    "origin": "Somalia",
+    "destination": "Kenya",
+    "estimatedMigrants": "~780,000",
+    "drivers": [
+      "Conflict displacement",
+      "Al-Shabaab violence",
+      "Drought and famine",
+      "Clan conflicts"
+    ],
+    "description": "Kenya hosts a large Somali refugee population, concentrated in the Dadaab refugee complex — one of the world's largest, established in 1991. Ongoing conflict with Al-Shabaab, combined with recurring droughts and famine, sustains displacement. Nairobi's Eastleigh neighborhood is known as 'Little Mogadishu' for its large Somali business community. Kenya has periodically threatened to close Dadaab but refugee repatriation remains limited.",
+    "geojson": "somalia-kenya.geojson"
+  },
+  {
+    "code": "south-sudan-uganda",
+    "name": "South Sudan → Uganda",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "South Sudan → Uganda",
+    "badgeValue": "~960,000",
+    "origin": "South Sudan",
+    "destination": "Uganda",
+    "estimatedMigrants": "~960,000",
+    "drivers": [
+      "Civil war",
+      "Ethnic violence",
+      "Famine",
+      "Refugee protection"
+    ],
+    "description": "Uganda hosts one of Africa's largest refugee populations, with South Sudanese forming the majority. Civil war erupting in 2013 and 2016 drove mass displacement across the border. Uganda's progressive refugee policy grants freedom of movement and the right to work. Most refugees are settled in northern Uganda, in communities like Bidi Bidi — one of the world's largest refugee settlements.",
+    "geojson": "south-sudan-uganda.geojson"
+  },
+  {
+    "code": "syria-turkey",
+    "name": "Syria → Turkey",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Syria → Turkey",
+    "badgeValue": "~3.6 million",
+    "origin": "Syria",
+    "destination": "Turkey",
+    "estimatedMigrants": "~3.6 million",
+    "drivers": [
+      "Civil war displacement",
+      "Geographic proximity",
+      "Refugee protection",
+      "Cultural ties"
+    ],
+    "description": "Turkey hosts the largest refugee population in the world, predominantly from Syria. Mass displacement began in 2011 with the Syrian civil war. Most refugees live in urban areas rather than camps, primarily in southeastern Turkey and Istanbul. Turkey provides temporary protection status rather than full refugee status under the 1951 Convention.",
+    "geojson": "syria-turkey.geojson"
+  },
+  {
+    "code": "turkey-germany",
+    "name": "Turkey → Germany",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Turkey → Germany",
+    "badgeValue": "~2.8 million",
+    "origin": "Turkey",
+    "destination": "Germany",
+    "estimatedMigrants": "~2.8 million",
+    "drivers": [
+      "Guest worker program legacy",
+      "Family reunification",
+      "Established community",
+      "EU proximity"
+    ],
+    "description": "The Turkish community in Germany traces to the 1961 Gastarbeiter (guest worker) agreement. What began as temporary labor migration became permanent settlement across generations. Turkish Germans are Germany's largest minority group, with profound cultural influence on cuisine, music, and urban life. Berlin alone has the largest Turkish population outside Turkey.",
+    "geojson": "turkey-germany.geojson"
+  },
+  {
+    "code": "uk-australia",
+    "name": "United Kingdom → Australia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "United Kingdom → Australia",
+    "badgeValue": "~1.2 million",
+    "origin": "United Kingdom",
+    "destination": "Australia",
+    "estimatedMigrants": "~1.2 million",
+    "drivers": [
+      "Colonial ties",
+      "Language",
+      "Quality of life",
+      "Skilled migration program"
+    ],
+    "description": "British migration to Australia is one of the oldest and largest Anglosphere migration corridors. The post-war Assisted Passage Migration Scheme ('Ten Pound Poms') brought over a million Britons. Modern migration is driven by Australia's skilled migration program, quality of life, and climate. English-born Australians remain the largest foreign-born group. The corridor is bidirectional, with significant numbers of Australians living in the UK.",
+    "geojson": "uk-australia.geojson"
+  },
+  {
+    "code": "ukraine-russia",
+    "name": "Ukraine → Russia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Ukraine → Russia",
+    "badgeValue": "~3.3 million",
+    "origin": "Ukraine",
+    "destination": "Russia",
+    "estimatedMigrants": "~3.3 million",
+    "drivers": [
+      "Conflict displacement",
+      "Historical ties",
+      "Labor migration",
+      "Language affinity"
+    ],
+    "description": "Ukrainian migration to Russia spans economic labor migration and conflict-driven displacement. The 2014 conflict in eastern Ukraine and the 2022 full-scale invasion caused massive displacement in both directions. Pre-conflict, many Ukrainians worked seasonally in Russia in construction and services. Cultural and linguistic proximity facilitated integration.",
+    "geojson": "ukraine-russia.geojson"
+  },
+  {
+    "code": "venezuela-colombia",
+    "name": "Venezuela → Colombia",
+    "layerGroup": "Human Migration Corridors",
+    "subtitle": "Venezuela → Colombia",
+    "badgeValue": "~2.5 million",
+    "origin": "Venezuela",
+    "destination": "Colombia",
+    "estimatedMigrants": "~2.5 million",
+    "drivers": [
+      "Economic collapse",
+      "Political crisis",
+      "Hyperinflation",
+      "Food insecurity"
+    ],
+    "description": "The Venezuelan displacement crisis is one of the largest in modern history. Since 2015, over 7 million Venezuelans have left their country, with Colombia absorbing the most. Drivers include economic collapse, hyperinflation, food and medicine shortages, and political repression. Colombia has granted Temporary Protection Status to over 2 million Venezuelans. Many cross the border at Cúcuta, creating one of the most active land border crossings in the Americas.",
+    "geojson": "venezuela-colombia.geojson"
+  },
+  {
+    "code": "west-asian-east-african",
+    "name": "West Asian–East African Flyway",
+    "layerGroup": "Bird Flyways",
+    "subtitle": "Central Asia to East Africa",
+    "badgeValue": "~300 species",
+    "speciesCount": "~300 migratory species including cranes, flamingos, and waders",
+    "keyStopoverSites": [
+      "Caspian Sea Wetlands",
+      "Persian Gulf Mudflats",
+      "Ethiopian Highlands",
+      "East African Rift Lakes",
+      "Indus Delta"
+    ],
+    "threats": [
+      "Dam projects",
+      "Oil extraction",
+      "Desertification",
+      "Overgrazing",
+      "Agricultural chemicals"
+    ],
+    "description": "The West Asian–East African Flyway stretches from western Siberia through Central and West Asia to East Africa. It is critical for the Siberian Crane — one of the most endangered crane species. The Caspian Sea wetlands serve as a major staging area, while the East African Rift Valley lakes provide vital wintering grounds for flamingos and waterbirds. Dam construction on major rivers and oil extraction around the Caspian threaten crucial wetland habitats along this corridor.",
+    "geojson": "west-asian-east-african.geojson"
+  }
+]

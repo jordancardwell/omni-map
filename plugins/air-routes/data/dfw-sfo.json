@@ -1,0 +1,18 @@
+{
+  "code": "dfw-sfo",
+  "name": "Dallas — San Francisco",
+  "airports": [
+    "DFW",
+    "SFO"
+  ],
+  "distanceKm": 2352,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–SFO route between Dallas and San Francisco. Distance: 2,352 km. ~60 weekly flights operated by American, United.",
+  "geojson": "dfw-sfo.geojson"
+}

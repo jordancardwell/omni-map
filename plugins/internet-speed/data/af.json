@@ -1,0 +1,17 @@
+{
+  "code": "af",
+  "name": "Afghanistan",
+  "avgDownloadMbps": 3.4,
+  "avgUploadMbps": 1.2,
+  "avgLatencyMs": 58,
+  "mobileDownloadMbps": 6.4,
+  "mobileUploadMbps": 1.8,
+  "fixedDownloadMbps": 3.4,
+  "fixedUploadMbps": 1.2,
+  "rank": 191,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "South Asia",
+  "dataYear": 2024,
+  "trendDescription": "Limited infrastructure and instability. ~4% year-over-year growth.",
+  "geojson": "af.geojson"
+}

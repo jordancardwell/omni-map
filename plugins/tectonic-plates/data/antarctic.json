@@ -1,0 +1,30 @@
+{
+  "code": "antarctic",
+  "name": "Antarctic Plate",
+  "plateClass": "Major",
+  "crustType": "Mixed",
+  "area": 60.9,
+  "movementDirection": "Approximately stationary",
+  "movementRate": "0–5",
+  "boundaryTypes": [
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "pacific",
+    "nazca",
+    "south-american",
+    "african",
+    "indo-australian",
+    "scotia"
+  ],
+  "notableFeatures": [
+    "Antarctic Peninsula",
+    "Transantarctic Mountains",
+    "Pacific-Antarctic Ridge",
+    "South Sandwich Trench"
+  ],
+  "description": "The Antarctic Plate carries the continent of Antarctica and surrounding ocean floor. It is nearly surrounded by divergent boundaries — mid-ocean ridges that are spreading apart and creating new oceanic crust. The plate is nearly stationary relative to the mantle, which is unusual among the major plates. It contains some of the oldest continental crust on Earth in the East Antarctic Shield.",
+  "geologicalHistory": "Antarctica was part of the supercontinent Gondwana. It separated from Australia about 45 million years ago and from South America about 30 million years ago, forming the circum-Antarctic current that led to the continent's glaciation. The Antarctic ice sheet formed about 34 million years ago. The continent holds approximately 70% of Earth's fresh water in its ice cap.",
+  "geojson": "antarctic.geojson"
+}

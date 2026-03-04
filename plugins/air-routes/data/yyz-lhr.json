@@ -1,0 +1,18 @@
+{
+  "code": "yyz-lhr",
+  "name": "Toronto — London",
+  "airports": [
+    "YYZ",
+    "LHR"
+  ],
+  "distanceKm": 5707,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Air Canada",
+    "British Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "YYZ–LHR route between Toronto and London. Distance: 5,707 km. ~60 weekly flights operated by Air Canada, British Airways.",
+  "geojson": "yyz-lhr.geojson"
+}

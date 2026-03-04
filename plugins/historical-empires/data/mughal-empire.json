@@ -1,0 +1,25 @@
+{
+  "code": "mughal-empire",
+  "name": "Mughal Empire",
+  "era": "Early Modern",
+  "peakYear": "1700 CE",
+  "areaAtPeakKm2": 4000000,
+  "populationEstimate": "158 million",
+  "capital": "Agra / Delhi",
+  "keyAchievements": [
+    "Taj Mahal",
+    "Mughal miniature painting",
+    "Religious syncretism under Akbar",
+    "Revenue system reform",
+    "Architectural masterworks"
+  ],
+  "declineFactors": [
+    "Aurangzeb's policies",
+    "Maratha resistance",
+    "Regional autonomy",
+    "British East India Company",
+    "Succession wars"
+  ],
+  "description": "The Mughal Empire (1526–1857) ruled most of the Indian subcontinent at its peak and was one of the world's wealthiest states, controlling approximately 25% of global GDP in the 17th century.\n\nThe Mughals created some of humanity's greatest architectural achievements, including the Taj Mahal and the Red Fort. Emperor Akbar promoted religious tolerance and a syncretic culture blending Persian, Indian, and Islamic traditions. The empire's decline began under Aurangzeb and ended with British colonization.",
+  "geojson": "mughal-empire.geojson"
+}

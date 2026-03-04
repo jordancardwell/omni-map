@@ -1,0 +1,19 @@
+{
+  "code": "addax",
+  "name": "Addax",
+  "scientificName": "Addax nasomaculatus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~30-90 in wild",
+  "populationTrend": "Decreasing",
+  "habitatType": "Sandy desert",
+  "threats": [
+    "Hunting",
+    "Habitat disturbance",
+    "Oil exploration",
+    "Military activity"
+  ],
+  "conservationEfforts": "Reintroduction programs in Tunisia, Morocco, and Chad. Large captive population (thousands in zoos and ranches) provides insurance for the species.",
+  "description": "Once widespread across the Sahara, the addax is now one of the rarest mammals in the world. Its broad, flat hooves act like snowshoes on sand, and it can survive without drinking water, obtaining moisture from food.",
+  "geojson": "addax.geojson"
+}

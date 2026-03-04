@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57778,
+          16.46944
+        ]
+      },
+      "properties": {
+        "code": "complex-of-hue-monuments",
+        "name": "Complex of Hué Monuments",
+        "type": "Cultural",
+        "country": "Viet Nam",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

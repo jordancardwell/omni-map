@@ -1,0 +1,22 @@
+{
+  "code": "kitt-peak",
+  "name": "Kitt Peak National Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2096,
+  "aperture": "4 m",
+  "telescopes": [
+    "Mayall 4m",
+    "WIYN 3.5m",
+    "DESI"
+  ],
+  "keyDiscoveries": [
+    "DESI dark energy survey",
+    "Baryon acoustic oscillations",
+    "Galaxy redshift surveys"
+  ],
+  "location": "Kitt Peak National Observatory, United States",
+  "description": "NOIRLab facility on the Tohono O'odham Nation in Arizona. The Mayall telescope now hosts DESI, creating the largest 3D map of the universe.",
+  "geojson": "kitt-peak.geojson"
+}

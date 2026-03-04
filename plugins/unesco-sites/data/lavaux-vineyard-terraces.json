@@ -1,0 +1,16 @@
+{
+  "code": "lavaux-vineyard-terraces",
+  "name": "Lavaux, Vineyard Terraces",
+  "type": "Cultural",
+  "country": "Switzerland",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Lavaux Vineyard Terraces, stretching for about 30 km along the south-facing northern shores of Lake Geneva from the Chateau de Chillon to the eastern outskirts of Lausanne in the Vaud region, cover the lower slopes of the mountainside between the villages and the lake. Although there is some evidence that vines were grown in the area in Roman times, the present vine terraces can be traced back to the 11th century, when Benedictine and Cistercian monasteries controlled the area. It is an outstanding example of a centuries-long interaction between people and their environment, developed to optimize local resources so as to produce a highly valued wine that has always been important to the economy.",
+  "danger": false,
+  "geojson": "lavaux-vineyard-terraces.geojson"
+}

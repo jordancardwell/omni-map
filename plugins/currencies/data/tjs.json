@@ -1,0 +1,16 @@
+{
+  "code": "tjs",
+  "name": "Tajikistani Somoni",
+  "isoCode": "TJS",
+  "symbol": "SM",
+  "region": "Asia",
+  "centralBank": "National Bank of Tajikistan",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Tajikistan"
+  ],
+  "countryCount": 1,
+  "description": "The Somoni is named after Ismoil Somoni, the 9th-century founder of the Samanid dynasty.",
+  "historicalNotes": "Introduced in 2000, replacing the Tajikistani ruble at 1,000:1. Tajikistan is heavily dependent on remittances from migrant workers in Russia.",
+  "geojson": "tjs.geojson"
+}

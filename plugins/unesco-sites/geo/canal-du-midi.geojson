@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.416388889,
+          43.61138889
+        ]
+      },
+      "properties": {
+        "code": "canal-du-midi",
+        "name": "Canal du Midi",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

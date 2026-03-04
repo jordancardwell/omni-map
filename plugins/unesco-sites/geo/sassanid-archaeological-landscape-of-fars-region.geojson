@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57045,
+          29.7774805556
+        ]
+      },
+      "properties": {
+        "code": "sassanid-archaeological-landscape-of-fars-region",
+        "name": "Sassanid Archaeological Landscape of Fars Region",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

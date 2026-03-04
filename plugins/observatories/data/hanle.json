@@ -1,0 +1,22 @@
+{
+  "code": "hanle",
+  "name": "Indian Astronomical Observatory",
+  "country": "India",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4500,
+  "aperture": "2 m (HCT)",
+  "telescopes": [
+    "Himalayan Chandra 2m",
+    "GROWTH-India",
+    "MACE"
+  ],
+  "keyDiscoveries": [
+    "Gamma-ray astronomy",
+    "Transient follow-up",
+    "High-altitude site characterization"
+  ],
+  "location": "Indian Astronomical Observatory, India",
+  "description": "One of the world's highest observatory sites in Ladakh. Remote-operated 2m telescope and MACE gamma-ray telescope benefit from the dry, high-altitude conditions.",
+  "geojson": "hanle.geojson"
+}

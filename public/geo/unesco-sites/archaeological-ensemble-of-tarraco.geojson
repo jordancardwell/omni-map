@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.259305556,
+          41.11472222
+        ]
+      },
+      "properties": {
+        "code": "archaeological-ensemble-of-tarraco",
+        "name": "Archaeological Ensemble of Tarraco",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

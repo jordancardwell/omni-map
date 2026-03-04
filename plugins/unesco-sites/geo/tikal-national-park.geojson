@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61666667,
+          17.21666667
+        ]
+      },
+      "properties": {
+        "code": "tikal-national-park",
+        "name": "Tikal National Park",
+        "type": "Mixed",
+        "country": "Guatemala",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

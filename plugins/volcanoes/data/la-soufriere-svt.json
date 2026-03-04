@@ -1,0 +1,21 @@
+{
+  "code": "la-soufriere-svt",
+  "name": "La Soufrière",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1234,
+  "lastEruption": "2021",
+  "vei": 4,
+  "country": "Saint Vincent and the Grenadines",
+  "region": "Caribbean",
+  "location": "Caribbean, Saint Vincent and the Grenadines",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars"
+  ],
+  "eruptionHistory": "Major eruption in April 2021 forced evacuation of 20,000 people. Previous eruptions in 1979, 1902 (killed 1,680 people), and 1812.",
+  "description": "La Soufrière's 2021 eruption was its first explosive eruption in over 40 years. The 1902 eruption killed nearly 1,700 people, occurring the same day as the Pelee eruption on Martinique.",
+  "geojson": "la-soufriere-svt.geojson"
+}

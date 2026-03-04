@@ -1,0 +1,18 @@
+{
+  "code": "eritrea-ethiopia-europe",
+  "name": "Eritrea \u2192 Europe (via Ethiopia/Libya)",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Eritrea \u2192 Europe",
+  "badgeValue": "~500,000",
+  "origin": "Eritrea",
+  "destination": "Europe",
+  "estimatedMigrants": "~500,000",
+  "drivers": [
+    "Indefinite conscription",
+    "Political repression",
+    "Lack of freedoms",
+    "Smuggling networks"
+  ],
+  "description": "Eritrean migration to Europe is primarily driven by indefinite national service, which amounts to forced labor, and severe political repression. Most Eritreans transit through Ethiopia and Sudan before crossing the Sahara and Mediterranean, often via Libya. The journey is extremely dangerous \u2014 thousands have died in the Mediterranean. Eritreans are among the top nationalities granted asylum in Europe, with large communities in Germany, Sweden, and the UK.",
+  "geojson": "eritrea-ethiopia-europe.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "sukkot-jerusalem",
+  "name": "Sukkot (Jerusalem)",
+  "festivalType": "Religious",
+  "dateOrSeason": "Tishrei 15–21",
+  "origin": "Jewish tradition",
+  "estimatedAttendance": "Hundreds of thousands",
+  "unescoICH": "Not inscribed",
+  "traditions": "Building decorative sukkot across the city; priestly blessing at Western Wall; water libation ceremony; Simchat Beit HaShoeva celebrations.",
+  "historicalBackground": "Jerusalem's Sukkot celebrations center on the Temple Mount traditions described in the Torah, including the unique priestly blessing with thousands attending.",
+  "description": "The ancient harvest pilgrimage to Jerusalem, where the city fills with decorated sukkot and joyous celebrations at the Western Wall.",
+  "location": "Jerusalem, Israel",
+  "geojson": "sukkot-jerusalem.geojson"
+}

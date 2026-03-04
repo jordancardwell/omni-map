@@ -1,0 +1,16 @@
+{
+  "code": "pn-ck-cable",
+  "name": "PN-CK Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2895,
+  "yearLaid": 2021,
+  "rfsDate": "2015-06",
+  "owner": "FSM Telecom",
+  "landingPoints": [
+    "Pohnpei, FSM",
+    "Chuuk, FSM"
+  ],
+  "description": "PN-CK Cable connecting Pohnpei to Chuuk in the Pacific.",
+  "geojson": "pn-ck-cable.geojson"
+}

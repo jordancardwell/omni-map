@@ -1,0 +1,20 @@
+{
+  "code": "iram-30m",
+  "name": "IRAM 30m Telescope",
+  "country": "Spain",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 2850,
+  "aperture": "30 m",
+  "telescopes": [
+    "IRAM 30m"
+  ],
+  "keyDiscoveries": [
+    "Molecular gas in distant galaxies",
+    "Interstellar chemistry",
+    "Event Horizon Telescope contribution"
+  ],
+  "location": "IRAM 30m Telescope, Spain",
+  "description": "The largest millimeter-wave telescope in the Northern Hemisphere, located in the Sierra Nevada. A key station for the Event Horizon Telescope.",
+  "geojson": "iram-30m.geojson"
+}

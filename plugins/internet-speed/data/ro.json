@@ -1,0 +1,17 @@
+{
+  "code": "ro",
+  "name": "Romania",
+  "avgDownloadMbps": 217.8,
+  "avgUploadMbps": 146.2,
+  "avgLatencyMs": 7,
+  "mobileDownloadMbps": 68.4,
+  "mobileUploadMbps": 14.8,
+  "fixedDownloadMbps": 217.8,
+  "fixedUploadMbps": 146.2,
+  "rank": 9,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Among Europe's fastest due to early fiber adoption. ~6% year-over-year growth.",
+  "geojson": "ro.geojson"
+}

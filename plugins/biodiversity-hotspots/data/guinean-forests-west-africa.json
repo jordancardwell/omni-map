@@ -1,0 +1,29 @@
+{
+  "code": "guinean-forests-west-africa",
+  "name": "Guinean Forests of West Africa",
+  "location": "West Africa (Guinea to Cameroon)",
+  "areaKm2": 620314,
+  "habitatRemaining": "15.6%",
+  "plantSpecies": 9000,
+  "endemicPlants": 2250,
+  "vertebrateSpecies": 1323,
+  "endemicVertebrates": 285,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Western chimpanzee",
+    "Pygmy hippopotamus",
+    "Diana monkey",
+    "Jentink's duiker",
+    "West African manatee"
+  ],
+  "threats": [
+    "Logging",
+    "Agriculture",
+    "Bushmeat hunting",
+    "Mining",
+    "Population growth"
+  ],
+  "conservationEfforts": "Cross River gorilla conservation in Nigeria-Cameroon border. Tai National Park (Côte d'Ivoire) is a UNESCO World Heritage Site. Community-based natural resource management programs. Wild Chimpanzee Foundation protects key habitats.",
+  "description": "The Guinean Forests of West Africa extend from Guinea through Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, to Cameroon. The hotspot comprises two distinct sub-regions: the Upper Guinea forests and the Lower Guinea forests, separated by the Dahomey Gap.\n\nThese forests are critical for primate conservation, harboring more threatened primate species than almost any other hotspot. The region is home to western chimpanzees, several species of colobus monkeys, and the critically endangered Cross River gorilla. Despite heavy degradation, remaining forest fragments support remarkable biodiversity.",
+  "geojson": "guinean-forests-west-africa.geojson"
+}

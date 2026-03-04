@@ -1,0 +1,18 @@
+{
+  "code": "ams-doh",
+  "name": "Amsterdam — Doha",
+  "airports": [
+    "AMS",
+    "DOH"
+  ],
+  "distanceKm": 4923,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Qatar Airways",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "AMS–DOH route between Amsterdam and Doha. Distance: 4,923 km. ~30 weekly flights operated by Qatar Airways, KLM.",
+  "geojson": "ams-doh.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "vostochny",
+  "name": "Vostochny Cosmodrome",
+  "country": "Russia",
+  "operator": "Roscosmos",
+  "coordinates": "51.8844°N, 128.3339°E",
+  "status": "Active",
+  "notableLaunches": [
+    "First Soyuz-2.1a from Vostochny (2016)",
+    "Luna 25",
+    "Meteor-M weather satellites"
+  ],
+  "orbitalInclinationRange": "51°–98°",
+  "location": "Vostochny Cosmodrome, Russia",
+  "description": "Russia's newest cosmodrome in the Amur Oblast, built to reduce dependence on Baikonur. Operational since 2016 with Soyuz-2 rockets, with Angara facilities under construction.",
+  "geojson": "vostochny.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "gh-tg-link",
+  "name": "GH-TG Link",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3569,
+  "yearLaid": 2017,
+  "rfsDate": "2022-06",
+  "owner": "Vodafone",
+  "landingPoints": [
+    "Accra, Ghana",
+    "Lomé, Togo"
+  ],
+  "description": "GH-TG Link connecting Accra to Lomé.",
+  "geojson": "gh-tg-link.geojson"
+}

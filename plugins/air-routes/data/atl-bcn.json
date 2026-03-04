@@ -1,0 +1,17 @@
+{
+  "code": "atl-bcn",
+  "name": "Atlanta — Barcelona",
+  "airports": [
+    "ATL",
+    "BCN"
+  ],
+  "distanceKm": 7360,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–BCN route between Atlanta and Barcelona. Distance: 7,360 km. ~20 weekly flights operated by Delta.",
+  "geojson": "atl-bcn.geojson"
+}

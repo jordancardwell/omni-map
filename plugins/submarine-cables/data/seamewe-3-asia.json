@@ -1,0 +1,21 @@
+{
+  "code": "seamewe-3-asia",
+  "name": "SeaMeWe-3 (Asia)",
+  "capacityTbps": 0.96,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 20000,
+  "yearLaid": 1997,
+  "rfsDate": "1999-10",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Jakarta, Indonesia",
+    "Perth, Australia",
+    "Colombo, Sri Lanka",
+    "Mumbai, India",
+    "Cochin, India",
+    "Karachi, Pakistan"
+  ],
+  "description": "SEA-ME-WE 3 Asian segment connecting Southeast Asia to India and Australia.",
+  "geojson": "seamewe-3-asia.geojson"
+}

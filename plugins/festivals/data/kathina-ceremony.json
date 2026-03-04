@@ -1,0 +1,14 @@
+{
+  "code": "kathina-ceremony",
+  "name": "Kathina Ceremony",
+  "festivalType": "Religious",
+  "dateOrSeason": "October–November",
+  "origin": "Theravada Buddhist tradition",
+  "estimatedAttendance": "Millions across SE Asia",
+  "unescoICH": "Not inscribed",
+  "traditions": "Offering new robes and necessities to monks; temple processions; merit-making ceremonies; community feasting; chanting.",
+  "historicalBackground": "Kathina marks the end of the three-month Buddhist Rains Retreat (Vassa). It is one of the oldest ceremonies in Buddhism, prescribed by the Buddha himself.",
+  "description": "The ancient Buddhist robe-offering ceremony marking the end of the monsoon retreat, observed with generosity and merit-making across Southeast Asia.",
+  "location": "Bangkok, Thailand",
+  "geojson": "kathina-ceremony.geojson"
+}

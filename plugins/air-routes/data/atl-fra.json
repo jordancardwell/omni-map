@@ -1,0 +1,17 @@
+{
+  "code": "atl-fra",
+  "name": "Atlanta — Frankfurt",
+  "airports": [
+    "ATL",
+    "FRA"
+  ],
+  "distanceKm": 7409,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–FRA route between Atlanta and Frankfurt. Distance: 7,409 km. ~30 weekly flights operated by Delta.",
+  "geojson": "atl-fra.geojson"
+}

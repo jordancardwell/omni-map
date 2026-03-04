@@ -1,0 +1,19 @@
+{
+  "code": "hnd-can",
+  "name": "Tokyo — Guangzhou",
+  "airports": [
+    "HND",
+    "CAN"
+  ],
+  "distanceKm": 2884,
+  "weeklyFlights": 280,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "China Southern"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "HND–CAN route between Tokyo and Guangzhou. Distance: 2,884 km. ~280 weekly flights operated by ANA, JAL, China Southern.",
+  "geojson": "hnd-can.geojson"
+}

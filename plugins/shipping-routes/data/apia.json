@@ -1,0 +1,14 @@
+{
+  "code": "apia",
+  "name": "Port of Apia",
+  "country": "Samoa",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 1,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Apia in Samoa. Annual cargo throughput: ~1 million tons. Type: Multi-Purpose Port.",
+  "geojson": "apia.geojson"
+}

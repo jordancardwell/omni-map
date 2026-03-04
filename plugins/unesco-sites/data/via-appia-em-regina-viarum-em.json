@@ -1,0 +1,15 @@
+{
+  "code": "via-appia-em-regina-viarum-em",
+  "name": "Via Appia. Regina Viarum",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "More than 800 kilometres long, the Via Appia is the oldest and most important of the great roads built by the Ancient Romans. Constructed and developed from 312 BCE to the 4th century CE, it was originally conceived as a strategic road for military conquest, advancing towards the East and Asia Minor. The Via Appia later enabled the cities it connected to grow and new settlements emerged, facilitating agricultural production and trade. This property, composed of 19 component parts, is a fully developed ensemble of engineering works, illustrating the advanced technical skill of Roman engineers in the construction of roads, civil engineering projects, infrastructure and sweeping land reclamation works, as well as a vast series of monumental structures including, for example, triumphal arches, baths, amphitheatres and basilicas, aqueducts, canals, bridges, and public fountains.",
+  "danger": false,
+  "geojson": "via-appia-em-regina-viarum-em.geojson"
+}

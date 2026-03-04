@@ -1,0 +1,16 @@
+{
+  "code": "quseir-amra",
+  "name": "Quseir Amra",
+  "type": "Cultural",
+  "country": "Jordan",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Built in the early 8th century, this exceptionally well-preserved desert castle was both a fortress with a garrison and a residence of the Umayyad caliphs. The most outstanding features of this small pleasure palace are the reception hall and the hammam, both richly decorated with figurative murals that reflect the secular art of the time.",
+  "danger": false,
+  "geojson": "quseir-amra.geojson"
+}

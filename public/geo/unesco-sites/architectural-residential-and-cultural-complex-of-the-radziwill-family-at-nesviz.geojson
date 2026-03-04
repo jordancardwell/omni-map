@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.69139,
+          53.22278
+        ]
+      },
+      "properties": {
+        "code": "architectural-residential-and-cultural-complex-of-the-radziwill-family-at-nesviz",
+        "name": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+        "type": "Cultural",
+        "country": "Belarus",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

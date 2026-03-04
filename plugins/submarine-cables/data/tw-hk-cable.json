@@ -1,0 +1,16 @@
+{
+  "code": "tw-hk-cable",
+  "name": "TW-HK Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 568,
+  "yearLaid": 2012,
+  "rfsDate": "2014-06",
+  "owner": "Chunghwa Telecom",
+  "landingPoints": [
+    "Taipei, Taiwan",
+    "Hong Kong, China"
+  ],
+  "description": "TW-HK Cable connecting Taipei to Hong Kong in East Asia.",
+  "geojson": "tw-hk-cable.geojson"
+}

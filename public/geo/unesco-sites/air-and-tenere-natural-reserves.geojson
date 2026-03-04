@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6619999976,
+          19.0761926358
+        ]
+      },
+      "properties": {
+        "code": "air-and-tenere-natural-reserves",
+        "name": "Air and Ténéré Natural Reserves",
+        "type": "Natural",
+        "country": "Niger",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

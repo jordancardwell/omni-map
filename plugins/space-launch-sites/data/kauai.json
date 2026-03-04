@@ -1,0 +1,17 @@
+{
+  "code": "kauai",
+  "name": "Pacific Missile Range Facility Barking Sands",
+  "country": "United States",
+  "operator": "US Navy / DARPA / Sandia",
+  "coordinates": "22.0270°N, 159.7850°W",
+  "status": "Active",
+  "notableLaunches": [
+    "STARS target vehicles",
+    "Astra Rocket 3 attempts",
+    "DARPA hypersonic tests"
+  ],
+  "orbitalInclinationRange": "22°–70°",
+  "location": "Pacific Missile Range Facility Barking Sands, United States",
+  "description": "Military missile range on Kauai, Hawaii used for missile defense tests and occasional orbital launch attempts. Provides over-water flight paths for safe launches in multiple directions.",
+  "geojson": "kauai.geojson"
+}

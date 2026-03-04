@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.29639,
+          18.803972
+        ]
+      },
+      "properties": {
+        "code": "archaeological-monuments-zone-of-xochicalco",
+        "name": "Archaeological Monuments Zone of Xochicalco",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

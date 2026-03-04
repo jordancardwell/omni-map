@@ -1,0 +1,14 @@
+{
+  "code": "babylon",
+  "name": "Babylon",
+  "type": "Cultural",
+  "country": "Iraq",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "Situated 85 km south of Baghdad, the property includes the ruins of the city which, between 626 and 539 BCE, was the capital of the Neo-Babylonian Empire. It includes villages and agricultural areas surrounding the ancient city. Its remains, outer and inner city walls, gates, palaces and temples, are a unique testimony to one of the most influential empires of the ancient world. Seat of successive empires, under rulers such as Hammurabi and Nebuchadnezzar, Babylon represents the expression of the creativity of the Neo-Babylonian Empire at its height. The city's association with one of the seven wonders of the ancient world—the Hanging Gardens—has also inspired artistic, popular and religious culture on a global scale.",
+  "danger": false,
+  "geojson": "babylon.geojson"
+}

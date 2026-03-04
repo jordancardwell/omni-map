@@ -1,0 +1,15 @@
+{
+  "code": "rock-hewn-churches-of-ivanovo",
+  "name": "Rock-Hewn Churches of Ivanovo",
+  "type": "Cultural",
+  "country": "Bulgaria",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting.",
+  "danger": false,
+  "geojson": "rock-hewn-churches-of-ivanovo.geojson"
+}

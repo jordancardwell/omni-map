@@ -1,0 +1,15 @@
+{
+  "code": "ancient-city-of-qalhat",
+  "name": "Ancient City of Qalhat",
+  "type": "Cultural",
+  "country": "Oman",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "The property, which is located on the east coast of the Sultanate of Oman, includes the ancient city of Qalhat, surrounded by inner and outer walls, as well as areas beyond the ramparts where necropolises are located. The city developed as a major port on the east coast of Arabia between the 11th and 15th centuries CE, during the reign of the Hormuz princes. The Ancient City bears unique archaeological testimony to the trade links between the east coast of Arabia, East Africa, India, China and South-East Asia.",
+  "danger": false,
+  "geojson": "ancient-city-of-qalhat.geojson"
+}

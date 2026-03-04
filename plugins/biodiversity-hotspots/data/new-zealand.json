@@ -1,0 +1,29 @@
+{
+  "code": "new-zealand",
+  "name": "New Zealand",
+  "location": "Southwest Pacific Ocean (New Zealand)",
+  "areaKm2": 270534,
+  "habitatRemaining": "22.0%",
+  "plantSpecies": 2300,
+  "endemicPlants": 1865,
+  "vertebrateSpecies": 284,
+  "endemicVertebrates": 136,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Kiwi",
+    "Tuatara",
+    "Kakapo",
+    "Kea",
+    "Weta"
+  ],
+  "threats": [
+    "Invasive predators",
+    "Habitat conversion",
+    "Climate change",
+    "Pollution",
+    "Tourism pressure"
+  ],
+  "conservationEfforts": "Predator Free 2050 initiative aims to eliminate introduced predators. Kakapo recovery program manages every individual. Island sanctuaries provide predator-free refuges. Zealandia ecosanctuary in Wellington demonstrates urban restoration. DOC manages one-third of NZ's land area.",
+  "description": "New Zealand, separated from Gondwana roughly 80 million years ago, evolved in extreme isolation without land mammals until human arrival about 800 years ago. This produced a unique biota dominated by birds, including many flightless species that evolved without predator pressure.\n\nThe introduction of rats, stoats, and possums by humans has devastated native wildlife. Despite this, New Zealand retains remarkable biological treasures: the tuatara (sole survivor of an order that predates dinosaurs), the kakapo (world's heaviest parrot), and the kiwi. New Zealand is a global leader in conservation innovation, including the ambitious Predator Free 2050 program.",
+  "geojson": "new-zealand.geojson"
+}

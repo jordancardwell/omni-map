@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mnl","name":"Ninoy Aquino International","featureType":"airport","iataCode":"MNL","annualPassengers":39000000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[121.0198,14.5086]}}]}

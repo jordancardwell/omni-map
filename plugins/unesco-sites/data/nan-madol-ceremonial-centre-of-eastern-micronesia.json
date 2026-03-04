@@ -1,0 +1,16 @@
+{
+  "code": "nan-madol-ceremonial-centre-of-eastern-micronesia",
+  "name": "Nan Madol: Ceremonial Centre of Eastern Micronesia",
+  "type": "Cultural",
+  "country": "Micronesia (Federated States of)",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Nan Madol is a series of more than 100 islets off the south-east coast of Pohnpei that were constructed with walls of basalt and coral boulders. These islets harbour the remains of stone palaces, temples, tombs and residential domains built between 1200 and 1500 CE. These ruins represent the ceremonial centre of the Saudeleur dynasty, a vibrant period in Pacific Island culture. The huge scale of the edifices, their technical sophistication and the concentration of megalithic structures bear testimony to complex social and religious practices of the island societies of the period. The site was also inscribed on the List of World Heritage in Danger due to threats, notably the siltation of waterways that is contributing to the unchecked growth of mangroves and undermining existing edifices.",
+  "danger": true,
+  "geojson": "nan-madol-ceremonial-centre-of-eastern-micronesia.geojson"
+}

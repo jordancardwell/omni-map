@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.30661,
+          15.331113
+        ]
+      },
+      "properties": {
+        "code": "morne-trois-pitons-national-park",
+        "name": "Morne Trois Pitons National Park",
+        "type": "Natural",
+        "country": "Dominica",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

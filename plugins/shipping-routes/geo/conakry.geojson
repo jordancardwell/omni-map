@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"conakry","name":"Port of Conakry","featureType":"port","portType":"Bulk Port","country":"Guinea"},"geometry":{"type":"Point","coordinates":[-13.71,9.51]}}]}

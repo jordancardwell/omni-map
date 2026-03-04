@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"de","name":"Germany","country":"DE","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[5.9,47.3],[5.9,55.1],[15.1,55.1],[15.1,47.3],[5.9,47.3]]]}}]}

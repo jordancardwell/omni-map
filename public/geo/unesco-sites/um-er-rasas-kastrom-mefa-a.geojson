@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.92056,
+          31.50167
+        ]
+      },
+      "properties": {
+        "code": "um-er-rasas-kastrom-mefa-a",
+        "name": "Um er-Rasas (Kastrom Mefa'a)",
+        "type": "Cultural",
+        "country": "Jordan",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

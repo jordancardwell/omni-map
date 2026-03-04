@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-brugge",
+  "name": "Historic Centre of Brugge",
+  "type": "Cultural",
+  "country": "Belgium",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Brugge is an outstanding example of a medieval historic settlement, which has maintained its historic fabric as this has evolved over the centuries, and where original Gothic constructions form part of the town's identity. As one of the commercial and cultural capitals of Europe, Brugge developed cultural links to different parts of the world. It is closely associated with the school of Flemish Primitive painting.",
+  "danger": false,
+  "geojson": "historic-centre-of-brugge.geojson"
+}

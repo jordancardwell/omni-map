@@ -1,0 +1,21 @@
+{
+  "code": "sumatra-rainforest",
+  "name": "Sumatra Rainforest",
+  "country": "Indonesia",
+  "forestType": "Tropical",
+  "areaKm2": 120000,
+  "intactness": "Critical",
+  "changeSince2000": "-25.8% (approximately 41,700 km² lost)",
+  "annualLossRate": "1.1–1.4% per year",
+  "threats": [
+    "Palm oil plantations",
+    "Pulp and paper plantations",
+    "Illegal logging",
+    "Mining",
+    "Road construction",
+    "Peatland fires"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site (Tropical Rainforest Heritage of Sumatra — three national parks: Gunung Leuser, Kerinci Seblat, Bukit Barisan Selatan). Listed as World Heritage in Danger since 2011. Indonesian moratorium on new peat and primary forest concessions. RSPO certification for palm oil.",
+  "description": "The **Sumatra Rainforest** is among the most biologically rich and most threatened forests on Earth. It is the only place where orangutans, tigers, rhinoceros, and elephants coexist in the wild, but all four are critically endangered.\n\n### Key Statistics\n- **Biodiversity**: ~10,000 plant species, 580+ bird species, 201 mammal species\n- **Mega-fauna**: Sumatran orangutan, tiger, rhinoceros, and elephant — all critically endangered\n- **Peatlands**: Some of the deepest tropical peat deposits globally\n- **Original extent**: ~250,000 km²; now reduced to ~120,000 km² (48%)\n\n### Deforestation Trends\nThe IFL 2020 data shows Sumatra has experienced some of the highest deforestation rates in the world. The expansion of palm oil and pulp plantations has been relentless, particularly in Riau province. Peatland drainage for plantations causes massive carbon emissions and catastrophic fires during dry seasons. Without urgent action, Sumatran forests outside protected areas may be largely gone within a generation.",
+  "geojson": "sumatra-rainforest.geojson"
+}

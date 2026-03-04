@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6693,
+          -33.4489
+        ]
+      },
+      "properties": {
+        "code": "independence-day-chile",
+        "name": "Fiestas Patrias (Chile)",
+        "festivalType": "National",
+        "dateOrSeason": "September 18–19",
+        "location": "Santiago, Chile"
+      }
+    }
+  ]
+}

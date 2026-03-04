@@ -1,0 +1,18 @@
+{
+  "code": "bkk-syd",
+  "name": "Bangkok — Sydney",
+  "airports": [
+    "BKK",
+    "SYD"
+  ],
+  "distanceKm": 7515,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Thai Airways",
+    "Qantas"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "BKK–SYD route between Bangkok and Sydney. Distance: 7,515 km. ~30 weekly flights operated by Thai Airways, Qantas.",
+  "geojson": "bkk-syd.geojson"
+}

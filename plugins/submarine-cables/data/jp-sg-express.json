@@ -1,0 +1,16 @@
+{
+  "code": "jp-sg-express",
+  "name": "JP-SG Express",
+  "capacityTbps": 21,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4729,
+  "yearLaid": 2019,
+  "rfsDate": "2017-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Singapore"
+  ],
+  "description": "JP-SG Express connecting Tokyo to Singapore.",
+  "geojson": "jp-sg-express.geojson"
+}

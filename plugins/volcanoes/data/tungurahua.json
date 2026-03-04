@@ -1,0 +1,21 @@
+{
+  "code": "tungurahua",
+  "name": "Tungurahua",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 5023,
+  "lastEruption": "2016",
+  "vei": 3,
+  "country": "Ecuador",
+  "region": "Tungurahua Province",
+  "location": "Tungurahua Province, Ecuador",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Reactivated in 1999 after 80 years of dormancy. Was in intermittent eruption from 1999 to 2016 with periodic explosions and pyroclastic flows.",
+  "description": "Tungurahua, meaning 'Throat of Fire' in Quechua, rises dramatically above the city of Baños. Its long eruption cycle from 1999 to 2016 required periodic evacuations.",
+  "geojson": "tungurahua.geojson"
+}

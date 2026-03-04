@@ -1,0 +1,17 @@
+{
+  "code": "tl",
+  "name": "Timor-Leste",
+  "avgDownloadMbps": 5.8,
+  "avgUploadMbps": 1.8,
+  "avgLatencyMs": 46,
+  "mobileDownloadMbps": 8.4,
+  "mobileUploadMbps": 2.2,
+  "fixedDownloadMbps": 5.8,
+  "fixedUploadMbps": 1.8,
+  "rank": 171,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Young nation developing infrastructure. ~14% year-over-year growth.",
+  "geojson": "tl.geojson"
+}

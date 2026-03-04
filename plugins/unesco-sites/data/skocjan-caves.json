@@ -1,0 +1,15 @@
+{
+  "code": "skocjan-caves",
+  "name": "Škocjan Caves",
+  "type": "Natural",
+  "country": "Slovenia",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This exceptional system of limestone caves comprises collapsed dolines, some 6 km of underground passages with a total depth of more than 200 m, many waterfalls and one of the largest known underground chambers. The site, located in the Kras region (literally meaning Karst), is one of the most famous in the world for the study of karstic phenomena.",
+  "danger": false,
+  "geojson": "skocjan-caves.geojson"
+}

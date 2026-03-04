@@ -1,0 +1,42 @@
+{
+  "id": "internet-speed",
+  "name": "Internet Connectivity Speed",
+  "description": "Global broadband and mobile internet speeds by country",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "wifi",
+  "defaultColor": "#0EA5E9",
+  "categories": ["technology", "infrastructure"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Technology & Infrastructure",
+  "thumbnail": "#0EA5E9",
+  "schema": "InternetSpeedMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "speedTier", "region"],
+    "groupBy": "speedTier",
+    "titleField": "name",
+    "subtitleField": "avgDownloadMbps",
+    "badgeField": "rank",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "speedTier"
+  },
+  "detailFields": [
+    { "key": "rank", "label": "Global Rank", "type": "number" },
+    { "key": "avgDownloadMbps", "label": "Avg Download Speed (Mbps)", "type": "number" },
+    { "key": "avgUploadMbps", "label": "Avg Upload Speed (Mbps)", "type": "number" },
+    { "key": "avgLatencyMs", "label": "Avg Latency (ms)", "type": "number" },
+    { "key": "fixedDownloadMbps", "label": "Fixed Broadband Download (Mbps)", "type": "number" },
+    { "key": "fixedUploadMbps", "label": "Fixed Broadband Upload (Mbps)", "type": "number" },
+    { "key": "mobileDownloadMbps", "label": "Mobile Download (Mbps)", "type": "number" },
+    { "key": "mobileUploadMbps", "label": "Mobile Upload (Mbps)", "type": "number" },
+    { "key": "speedTier", "label": "Speed Tier", "type": "text" },
+    { "key": "region", "label": "Region", "type": "text" },
+    { "key": "dataYear", "label": "Data Year", "type": "number" },
+    { "key": "trendDescription", "label": "Year-over-Year Trend", "type": "markdown" }
+  ]
+}

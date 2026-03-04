@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.7742,30.5633]},"properties":{"code":"ligo-livingston","name":"LIGO Livingston","observatoryType":"Multi-messenger","status":"Operational","country":"United States"}}]}

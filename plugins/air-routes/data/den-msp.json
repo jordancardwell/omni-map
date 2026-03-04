@@ -1,0 +1,19 @@
+{
+  "code": "den-msp",
+  "name": "Denver — Minneapolis",
+  "airports": [
+    "DEN",
+    "MSP"
+  ],
+  "distanceKm": 1093,
+  "weeklyFlights": 70,
+  "airlines": [
+    "United",
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–MSP route between Denver and Minneapolis. Distance: 1,093 km. ~70 weekly flights operated by United, Delta, Sun Country.",
+  "geojson": "den-msp.geojson"
+}

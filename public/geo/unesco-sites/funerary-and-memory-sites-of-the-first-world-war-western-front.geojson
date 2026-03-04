@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.88,
+          49.92
+        ]
+      },
+      "properties": {
+        "code": "funerary-and-memory-sites-of-the-first-world-war-western-front",
+        "name": "Funerary and memory sites of the First World War (Western Front)",
+        "type": "Cultural",
+        "country": "Belgium, France",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

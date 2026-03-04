@@ -1,0 +1,16 @@
+{
+  "code": "au-mu-cable",
+  "name": "AU-MU Cable",
+  "capacityTbps": 42,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3771,
+  "yearLaid": 2010,
+  "rfsDate": "2014-06",
+  "owner": "SAFE Extension",
+  "landingPoints": [
+    "Perth, Australia",
+    "Port Louis, Mauritius"
+  ],
+  "description": "AU-MU Cable connecting Perth to Port Louis.",
+  "geojson": "au-mu-cable.geojson"
+}

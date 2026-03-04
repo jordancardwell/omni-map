@@ -1,0 +1,14 @@
+{
+  "code": "zhanjiang",
+  "name": "Port of Zhanjiang",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 340,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "South China Sea Route"
+  ],
+  "description": "Port of Zhanjiang in China. Annual cargo throughput: ~340 million tons. Type: Multi-Purpose Port.",
+  "geojson": "zhanjiang.geojson"
+}

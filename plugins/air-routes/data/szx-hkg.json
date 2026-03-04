@@ -1,0 +1,17 @@
+{
+  "code": "szx-hkg",
+  "name": "Shenzhen — Hong Kong",
+  "airports": [
+    "SZX",
+    "HKG"
+  ],
+  "distanceKm": 38,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Shenzhen Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SZX–HKG route between Shenzhen and Hong Kong. Distance: 38 km. ~80 weekly flights operated by Shenzhen Airlines.",
+  "geojson": "szx-hkg.geojson"
+}

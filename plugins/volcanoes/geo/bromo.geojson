@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[112.953,-7.9425]},"properties":{"code":"bromo","name":"Mount Bromo","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2329,"lastEruption":"2019","vei":2}}]}

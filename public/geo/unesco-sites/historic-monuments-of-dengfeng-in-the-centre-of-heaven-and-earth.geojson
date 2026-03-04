@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0677194444,
+          34.4587472222
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-of-dengfeng-in-the-centre-of-heaven-and-earth",
+        "name": "Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

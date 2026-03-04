@@ -1,0 +1,16 @@
+{
+  "code": "aoa",
+  "name": "Angolan Kwanza",
+  "isoCode": "AOA",
+  "symbol": "Kz",
+  "region": "Africa",
+  "centralBank": "National Bank of Angola",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Angola"
+  ],
+  "countryCount": 1,
+  "description": "The Angolan Kwanza is named after the Kwanza River. Angola is Africa's second-largest oil producer.",
+  "historicalNotes": "Angola has gone through several currency reforms. The current kwanza was introduced in 1999. The country's economy is heavily dependent on oil exports.",
+  "geojson": "aoa.geojson"
+}

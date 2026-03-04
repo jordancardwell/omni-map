@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2497222222,
+          8.5297222222
+        ]
+      },
+      "properties": {
+        "code": "western-ghats",
+        "name": "Western Ghats",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "mw",
+  "name": "Malawi",
+  "avgDownloadMbps": 4.4,
+  "avgUploadMbps": 1.4,
+  "avgLatencyMs": 50,
+  "mobileDownloadMbps": 6.2,
+  "mobileUploadMbps": 1.6,
+  "fixedDownloadMbps": 4.4,
+  "fixedUploadMbps": 1.4,
+  "rank": 184,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Limited infrastructure in Southeast Africa. ~14% year-over-year growth.",
+  "geojson": "mw.geojson"
+}

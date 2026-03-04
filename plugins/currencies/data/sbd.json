@@ -1,0 +1,16 @@
+{
+  "code": "sbd",
+  "name": "Solomon Islands Dollar",
+  "isoCode": "SBD",
+  "symbol": "SI$",
+  "region": "Oceania",
+  "centralBank": "Central Bank of Solomon Islands",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Solomon Islands"
+  ],
+  "countryCount": 1,
+  "description": "The Solomon Islands Dollar is the currency of the Solomon Islands, a Melanesian archipelago of over 900 islands.",
+  "historicalNotes": "Introduced in 1977, replacing the Australian dollar two years after independence.",
+  "geojson": "sbd.geojson"
+}

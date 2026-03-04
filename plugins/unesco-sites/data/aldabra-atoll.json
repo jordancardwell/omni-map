@@ -1,0 +1,16 @@
+{
+  "code": "aldabra-atoll",
+  "name": "Aldabra Atoll",
+  "type": "Natural",
+  "country": "Seychelles",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The atoll is comprised of four large coral islands which enclose a shallow lagoon; the group of islands is itself surrounded by a coral reef. Due to difficulties of access and the atoll's isolation, Aldabra has been protected from human influence and thus retains some 152,000 giant tortoises, the world's largest population of this reptile.",
+  "danger": false,
+  "geojson": "aldabra-atoll.geojson"
+}

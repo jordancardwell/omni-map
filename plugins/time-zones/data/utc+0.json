@@ -1,0 +1,36 @@
+{
+  "code": "utc+0",
+  "name": "Greenwich Mean Time",
+  "nativeName": "UTC±00:00",
+  "utcOffset": "UTC±00:00",
+  "utcOffsetHours": 0,
+  "offsetGroup": "4. Central (UTC±0 to +2)",
+  "ianaNames": [
+    "Europe/London",
+    "Africa/Accra",
+    "Atlantic/Reykjavik",
+    "Europe/Lisbon"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Iceland",
+    "Portugal",
+    "Ireland",
+    "Ghana",
+    "Senegal",
+    "Gambia",
+    "Guinea",
+    "Sierra Leone",
+    "Liberia",
+    "Côte d'Ivoire",
+    "Mali",
+    "Burkina Faso",
+    "Mauritania"
+  ],
+  "dstRules": "UK/Ireland/Portugal observe DST as BST/IST/WEST (UTC+1 in summer); Iceland and West African countries do not",
+  "description": "The reference timezone for the world, centered on the Royal Observatory in Greenwich, London. All other time zones are defined as offsets from UTC. The UK switches to British Summer Time (BST, UTC+1) from late March to late October.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+0.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "gemini-north",
+  "name": "Gemini North",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4213,
+  "aperture": "8.1 m",
+  "telescopes": [
+    "Gemini North"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet atmospheres",
+    "Brown dwarf studies",
+    "Galaxy evolution"
+  ],
+  "location": "Gemini North, United States",
+  "description": "Part of the international Gemini Observatory on Mauna Kea. Optimized for infrared observations with a silver-coated primary mirror.",
+  "geojson": "gemini-north.geojson"
+}

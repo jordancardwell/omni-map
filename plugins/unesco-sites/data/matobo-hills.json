@@ -1,0 +1,15 @@
+{
+  "code": "matobo-hills",
+  "name": "Matobo Hills",
+  "type": "Cultural",
+  "country": "Zimbabwe",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities.",
+  "danger": false,
+  "geojson": "matobo-hills.geojson"
+}

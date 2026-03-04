@@ -1,0 +1,16 @@
+{
+  "code": "pt-br-link-2",
+  "name": "PT-BR Link-2",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3738,
+  "yearLaid": 2011,
+  "rfsDate": "2017-06",
+  "owner": "EllaLink",
+  "landingPoints": [
+    "Sines, Portugal",
+    "Fortaleza, Brazil"
+  ],
+  "description": "PT-BR Link-2 connecting Sines to Fortaleza.",
+  "geojson": "pt-br-link-2.geojson"
+}

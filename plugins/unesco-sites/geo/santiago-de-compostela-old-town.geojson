@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.54468,
+          42.88076
+        ]
+      },
+      "properties": {
+        "code": "santiago-de-compostela-old-town",
+        "name": "Santiago de Compostela (Old Town)",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

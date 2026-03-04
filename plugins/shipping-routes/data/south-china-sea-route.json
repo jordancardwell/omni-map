@@ -1,0 +1,8 @@
+{
+  "code": "south-china-sea-route",
+  "name": "South China Sea Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Strategically vital waterway connecting the Indian Ocean to the Pacific. Carries ~$3.4 trillion in trade annually and is subject to territorial disputes between multiple nations.",
+  "geojson": "south-china-sea-route.geojson"
+}

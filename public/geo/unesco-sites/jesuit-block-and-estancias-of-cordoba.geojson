@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.19111,
+          -31.42056
+        ]
+      },
+      "properties": {
+        "code": "jesuit-block-and-estancias-of-cordoba",
+        "name": "Jesuit Block and Estancias of Córdoba",
+        "type": "Cultural",
+        "country": "Argentina",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

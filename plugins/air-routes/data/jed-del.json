@@ -1,0 +1,18 @@
+{
+  "code": "jed-del",
+  "name": "Jeddah — Delhi",
+  "airports": [
+    "JED",
+    "DEL"
+  ],
+  "distanceKm": 3879,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Saudia",
+    "IndiGo"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JED–DEL route between Jeddah and Delhi. Distance: 3,879 km. ~60 weekly flights operated by Saudia, IndiGo.",
+  "geojson": "jed-del.geojson"
+}

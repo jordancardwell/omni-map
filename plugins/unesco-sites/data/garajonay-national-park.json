@@ -1,0 +1,15 @@
+{
+  "code": "garajonay-national-park",
+  "name": "Garajonay National Park",
+  "type": "Natural",
+  "country": "Spain",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "Laurel forest covers some 70% of this park, situated in the middle of the island of La Gomera in the Canary Islands archipelago. The presence of springs and numerous streams assures a lush vegetation resembling that of the Tertiary, which, due to climatic changes, has largely disappeared from southern Europe.",
+  "danger": false,
+  "geojson": "garajonay-national-park.geojson"
+}

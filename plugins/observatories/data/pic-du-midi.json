@@ -1,0 +1,21 @@
+{
+  "code": "pic-du-midi",
+  "name": "Pic du Midi Observatory",
+  "country": "France",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2877,
+  "aperture": "2 m (Bernard Lyot)",
+  "telescopes": [
+    "Bernard Lyot 2m",
+    "Coronagraph"
+  ],
+  "keyDiscoveries": [
+    "Solar corona studies",
+    "Planetary surface mapping",
+    "Stellar magnetism"
+  ],
+  "location": "Pic du Midi Observatory, France",
+  "description": "High-altitude French observatory in the Pyrenees with exceptional atmospheric stability. Pioneered coronagraphic observations and planetary imaging.",
+  "geojson": "pic-du-midi.geojson"
+}

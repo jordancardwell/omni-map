@@ -1,0 +1,12 @@
+{
+  "code": "event-2021-dixie-fire",
+  "name": "2021 Dixie Fire",
+  "region": "Butte & Plumas Counties, California",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2021",
+  "areaBurned": 389837,
+  "cause": "Pacific Gas & Electric equipment failure, drought",
+  "description": "The Dixie Fire became the largest single fire (non-complex) in California history, burning 389,837 hectares across Butte, Plumas, Lassen, Shasta, and Tehama counties. The fire burned for over 100 days from July to October 2021, destroying the historic town of Greenville. It was caused by a tree falling on a PG&E power line during extreme drought — the same utility responsible for the 2018 Camp Fire. The Dixie Fire burned across the Sierra Nevada crest, an extremely rare event, demonstrating the escalating severity of California wildfires.",
+  "geojson": "event-2021-dixie-fire.geojson"
+}

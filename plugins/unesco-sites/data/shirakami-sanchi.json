@@ -1,0 +1,14 @@
+{
+  "code": "shirakami-sanchi",
+  "name": "Shirakami-Sanchi",
+  "type": "Natural",
+  "country": "Japan",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated in the mountains of northern Honshu, this trackless site includes the last virgin remains of the cool-temperate forest of Siebold's beech trees that once covered the hills and mountain slopes of northern Japan. The black bear, the serow and 87 species of birds can be found in this forest.",
+  "danger": false,
+  "geojson": "shirakami-sanchi.geojson"
+}

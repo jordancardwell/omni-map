@@ -1,0 +1,17 @@
+{
+  "code": "del-jfk",
+  "name": "Delhi — New York",
+  "airports": [
+    "DEL",
+    "JFK"
+  ],
+  "distanceKm": 11755,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Air India"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DEL–JFK route between Delhi and New York. Distance: 11,755 km. ~20 weekly flights operated by Air India.",
+  "geojson": "del-jfk.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "historic-villages-of-shirakawa-go-and-gokayama",
+  "name": "Historic Villages of Shirakawa-go and Gokayama",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in a mountainous region that was cut off from the rest of the world for a long period of time, these villages with their Gassho-style houses subsisted on the cultivation of mulberry trees and the rearing of silkworms. The large houses with their steeply pitched thatched roofs are the only examples of their kind in Japan. Despite economic upheavals, the villages of Ogimachi, Ainokura and Suganuma are outstanding examples of a traditional way of life perfectly adapted to the environment and people's social and economic circumstances.",
+  "danger": false,
+  "geojson": "historic-villages-of-shirakawa-go-and-gokayama.geojson"
+}

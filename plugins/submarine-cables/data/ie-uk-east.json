@@ -1,0 +1,16 @@
+{
+  "code": "ie-uk-east",
+  "name": "IE-UK East",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 269,
+  "yearLaid": 2012,
+  "rfsDate": "2013-06",
+  "owner": "BT",
+  "landingPoints": [
+    "Dublin, Ireland",
+    "Bude, UK"
+  ],
+  "description": "IE-UK East connecting Dublin to Bude in Europe.",
+  "geojson": "ie-uk-east.geojson"
+}

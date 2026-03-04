@@ -1,0 +1,14 @@
+{
+  "code": "lantern-festival",
+  "name": "Lantern Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "15th of 1st lunar month",
+  "origin": "Chinese tradition",
+  "estimatedAttendance": "Hundreds of millions",
+  "unescoICH": "Not inscribed",
+  "traditions": "Displaying and releasing lanterns; solving riddles on lanterns; lion and dragon dances; eating tangyuan (rice balls); fireworks.",
+  "historicalBackground": "The Lantern Festival dates back 2,000 years to the Han Dynasty. Emperor Mingdi ordered lanterns lit to honor Buddha. It marks the end of Chinese New Year.",
+  "description": "The spectacular finale of Chinese New Year celebrations, illuminating cities across China with countless lanterns and riddle-solving traditions.",
+  "location": "Xi'an, China",
+  "geojson": "lantern-festival.geojson"
+}

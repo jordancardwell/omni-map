@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9711111111,
+          38.4158333333
+        ]
+      },
+      "properties": {
+        "code": "xixia-imperial-tombs",
+        "name": "Xixia Imperial Tombs",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

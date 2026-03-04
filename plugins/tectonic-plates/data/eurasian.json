@@ -1,0 +1,34 @@
+{
+  "code": "eurasian",
+  "name": "Eurasian Plate",
+  "plateClass": "Major",
+  "crustType": "Mixed",
+  "area": 67.8,
+  "movementDirection": "East-Southeast",
+  "movementRate": "7–14",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "north-american",
+    "african",
+    "arabian",
+    "indian",
+    "indo-australian",
+    "philippine-sea",
+    "pacific"
+  ],
+  "notableFeatures": [
+    "Himalayas",
+    "Alps",
+    "Mid-Atlantic Ridge (eastern)",
+    "Japan Trench",
+    "Ural Mountains",
+    "Baikal Rift Zone"
+  ],
+  "description": "The Eurasian Plate is the third-largest tectonic plate, covering most of Europe and Asia. Its collision with the Indian Plate has created the Himalayas — the highest mountain range on Earth. The plate's western boundary along the Mid-Atlantic Ridge is a divergent boundary where new crust is created. Its eastern margin features subduction zones that generate the volcanic islands of Japan and the Philippines.",
+  "geologicalHistory": "The Eurasian Plate formed from the merger of the European and Asian plates about 300 million years ago, with the Ural Mountains marking the suture zone. India's collision with Eurasia beginning about 50 million years ago created the Himalayas and Tibetan Plateau. The ongoing convergence continues to raise the Himalayas by about 5mm per year.",
+  "geojson": "eurasian.geojson"
+}

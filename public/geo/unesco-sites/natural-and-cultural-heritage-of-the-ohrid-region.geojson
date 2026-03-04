@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7041666667,
+          40.9918333333
+        ]
+      },
+      "properties": {
+        "code": "natural-and-cultural-heritage-of-the-ohrid-region",
+        "name": "Natural and Cultural Heritage of the Ohrid region",
+        "type": "Mixed",
+        "country": "North Macedonia, Albania",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

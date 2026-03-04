@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62,
+          50.3202777778
+        ]
+      },
+      "properties": {
+        "code": "zatec-and-the-landscape-of-saaz-hops",
+        "name": "Žatec and the Landscape of Saaz Hops",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

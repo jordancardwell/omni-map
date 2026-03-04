@@ -1,0 +1,16 @@
+{
+  "code": "bahamas-domestic",
+  "name": "Bahamas Domestic",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 300,
+  "yearLaid": 2013,
+  "rfsDate": "2014-06",
+  "owner": "BTC",
+  "landingPoints": [
+    "Miami, USA",
+    "Nassau, Bahamas"
+  ],
+  "description": "Cable connecting the Bahamas to the US.",
+  "geojson": "bahamas-domestic.geojson"
+}

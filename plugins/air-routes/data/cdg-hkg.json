@@ -1,0 +1,18 @@
+{
+  "code": "cdg-hkg",
+  "name": "Paris — Hong Kong",
+  "airports": [
+    "CDG",
+    "HKG"
+  ],
+  "distanceKm": 9591,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Cathay Pacific",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CDG–HKG route between Paris and Hong Kong. Distance: 9,591 km. ~30 weekly flights operated by Cathay Pacific, Air France.",
+  "geojson": "cdg-hkg.geojson"
+}

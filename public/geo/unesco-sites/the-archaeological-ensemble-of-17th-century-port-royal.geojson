@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8433777778,
+          17.9386138889
+        ]
+      },
+      "properties": {
+        "code": "the-archaeological-ensemble-of-17th-century-port-royal",
+        "name": "The Archaeological Ensemble of 17th Century Port Royal",
+        "type": "Cultural",
+        "country": "Jamaica",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

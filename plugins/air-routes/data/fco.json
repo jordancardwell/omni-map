@@ -1,0 +1,12 @@
+{
+  "code": "fco",
+  "name": "Rome Fiumicino",
+  "iataCode": "FCO",
+  "city": "Rome",
+  "country": "Italy",
+  "annualPassengers": 36500000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "Rome Fiumicino (FCO) in Rome, Italy. Annual passengers: ~36.5M. Classification: Regional Hub.",
+  "geojson": "fco.geojson"
+}

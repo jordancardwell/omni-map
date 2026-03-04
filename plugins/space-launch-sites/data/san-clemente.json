@@ -1,0 +1,17 @@
+{
+  "code": "san-clemente",
+  "name": "San Nicolas Island (Navy)",
+  "country": "United States",
+  "operator": "US Navy",
+  "coordinates": "33.2500°N, 119.5000°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Missile defense tests",
+    "SM-3 interceptor launches",
+    "Sounding rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "San Nicolas Island (Navy), United States",
+  "description": "US Navy missile test facility on San Nicolas Island off the California coast. Part of the Point Mugu Sea Range. Used for air defense and missile interceptor testing.",
+  "geojson": "san-clemente.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34111,
+          58.70111
+        ]
+      },
+      "properties": {
+        "code": "rock-carvings-in-tanum",
+        "name": "Rock Carvings in Tanum",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

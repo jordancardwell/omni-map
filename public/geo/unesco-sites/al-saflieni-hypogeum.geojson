@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5068833733,
+          35.8695900049
+        ]
+      },
+      "properties": {
+        "code": "al-saflieni-hypogeum",
+        "name": "Ħal Saflieni Hypogeum",
+        "type": "Cultural",
+        "country": "Malta",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

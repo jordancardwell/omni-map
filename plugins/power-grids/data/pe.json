@@ -1,0 +1,20 @@
+{
+  "code": "pe",
+  "name": "Peru",
+  "voltage": "220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "C"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type C — Two round pins (Europlug, most common worldwide)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "220V with mix of US and European-style outlets. Verify device voltage rating.",
+  "geojson": "pe.geojson"
+}

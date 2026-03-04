@@ -1,0 +1,14 @@
+{
+  "code": "ashdod",
+  "name": "Port of Ashdod",
+  "country": "Israel",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Ashdod in Israel. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+  "geojson": "ashdod.geojson"
+}

@@ -1,0 +1,27 @@
+{
+  "code": "afro-cuban",
+  "name": "Afro-Cuban Sacred Music",
+  "region": "Cuba",
+  "traditionFamily": "Caribbean",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Batá Drums",
+    "Shekere",
+    "Vocals",
+    "Clave"
+  ],
+  "keyArtists": [
+    "Lázaro Ros",
+    "Merceditas Valdés",
+    "Los Muñequitos de Matanzas",
+    "AfroCuba de Matanzas"
+  ],
+  "description": "Afro-Cuban sacred music encompasses the Yoruba-derived religious traditions of Santería (Regla de Ocha), including the batá drum tradition and the Rumba complex. Batá drums, considered sacred, are played in specific rhythmic patterns (toques) to invoke Orishas. The Rumba (of which guaguancó, yambú, and columbia are forms) was inscribed by UNESCO in 2016 as an intangible cultural heritage.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Rumba",
+      "url": "https://ich.unesco.org/en/RL/rumba-in-cuba-01185"
+    }
+  ],
+  "geojson": "afro-cuban.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "code": "japan-culture-day",
+        "name": "Culture Day (Bunka no Hi)",
+        "festivalType": "National",
+        "dateOrSeason": "November 3",
+        "location": "Tokyo, Japan"
+      }
+    }
+  ]
+}

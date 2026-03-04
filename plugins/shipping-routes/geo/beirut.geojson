@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"beirut","name":"Port of Beirut","featureType":"port","portType":"Multi-Purpose Port","country":"Lebanon"},"geometry":{"type":"Point","coordinates":[35.52,33.9]}}]}

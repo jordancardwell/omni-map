@@ -1,0 +1,20 @@
+{
+  "code": "lax-nrt",
+  "name": "Los Angeles — Tokyo",
+  "airports": [
+    "LAX",
+    "NRT"
+  ],
+  "distanceKm": 8753,
+  "weeklyFlights": 80,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "United",
+    "Singapore Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–NRT route between Los Angeles and Tokyo. Distance: 8,753 km. ~80 weekly flights operated by ANA, JAL, United, Singapore Airlines.",
+  "geojson": "lax-nrt.geojson"
+}

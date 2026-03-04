@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.4441666667,
+          24.7102777778
+        ]
+      },
+      "properties": {
+        "code": "quanzhou-emporium-of-the-world-in-song-yuan-china",
+        "name": "Quanzhou: Emporium of the World in Song-Yuan China",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

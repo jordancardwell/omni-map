@@ -1,0 +1,15 @@
+{
+  "code": "vung-tau",
+  "name": "Cai Mep-Thi Vai (Vung Tau)",
+  "country": "Vietnam",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network",
+    "South China Sea Route"
+  ],
+  "description": "Cai Mep-Thi Vai (Vung Tau) in Vietnam. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+  "geojson": "vung-tau.geojson"
+}

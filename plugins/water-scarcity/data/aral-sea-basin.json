@@ -1,0 +1,15 @@
+{
+  "code": "aral-sea-basin",
+  "name": "Aral Sea Basin",
+  "region": "Central Asia",
+  "stressGroup": "5. Extremely High (>80%)",
+  "waterStressLevel": "Extremely High",
+  "waterStressRatio": "> 90% — virtually all inflow consumed before reaching lake",
+  "depletionRate": "Critical — Aral Sea lost 90% of volume since 1960",
+  "droughtRisk": "Extreme",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 8000000,
+  "riskFactors": ["Irrigation diversion", "Salt/dust storms", "Pesticide legacy", "Fishery collapse", "Health crisis"],
+  "description": "The Aral Sea basin represents the world's most dramatic water catastrophe. Once the fourth-largest lake on Earth, the Aral Sea lost 90% of its volume as the Syr Darya and Amu Darya were diverted for cotton irrigation. The exposed seabed — the Aralkum desert — generates toxic salt and pesticide dust storms affecting 5 million people. Kazakhstan's North Aral Sea has partially recovered thanks to the Kok-Aral Dam, but the South Aral is effectively gone.",
+  "geojson": "aral-sea-basin.geojson"
+}

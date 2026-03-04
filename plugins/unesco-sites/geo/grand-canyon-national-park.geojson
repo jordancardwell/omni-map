@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0905556,
+          36.10083333
+        ]
+      },
+      "properties": {
+        "code": "grand-canyon-national-park",
+        "name": "Grand Canyon National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

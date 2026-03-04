@@ -1,0 +1,16 @@
+{
+  "code": "temple-of-heaven-an-imperial-sacrificial-altar-in-beijing",
+  "name": "Temple of Heaven: an Imperial Sacrificial Altar in Beijing",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Temple of Heaven, founded in the first half of the 15th century, is a dignified complex of fine cult buildings set in gardens and surrounded by historic pine woods. In its overall layout and that of its individual buildings, it symbolizes the relationship between earth and heaven – the human world and God's world – which stands at the heart of Chinese cosmogony, and also the special role played by the emperors within that relationship.",
+  "danger": false,
+  "geojson": "temple-of-heaven-an-imperial-sacrificial-altar-in-beijing.geojson"
+}

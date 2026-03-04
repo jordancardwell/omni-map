@@ -1,0 +1,12 @@
+{
+  "code": "event-2019-amazon-fires",
+  "name": "2019 Amazon Fire Crisis",
+  "region": "Rondônia & Mato Grosso, Brazil",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "High",
+  "yearOfEvent": "2019",
+  "areaBurned": 906000,
+  "cause": "Agricultural land clearing, deforestation burning, drought",
+  "description": "The 2019 Amazon fires became a global crisis when satellite imagery revealed massive burning across the Brazilian Amazon. Over 906,000 hectares burned, with INPE detecting an 84% increase in fire activity compared to 2018. Most fires were deliberately set to clear land for cattle ranching and soy farming. The crisis drew international condemnation and threats to the EU-Mercosur trade deal. São Paulo was plunged into darkness at midday as smoke from fires 2,700 km away blocked the sun. The fires became a symbol of the conflict between development and environmental protection in the Amazon.",
+  "geojson": "event-2019-amazon-fires.geojson"
+}

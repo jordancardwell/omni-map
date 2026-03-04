@@ -1,0 +1,17 @@
+{
+  "code": "mt",
+  "name": "Malta",
+  "avgDownloadMbps": 98.6,
+  "avgUploadMbps": 38.4,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 42.8,
+  "mobileUploadMbps": 8.6,
+  "fixedDownloadMbps": 98.6,
+  "fixedUploadMbps": 38.4,
+  "rank": 47,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Mediterranean island with good connectivity. ~10% year-over-year growth.",
+  "geojson": "mt.geojson"
+}

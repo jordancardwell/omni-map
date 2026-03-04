@@ -1,0 +1,14 @@
+{
+  "code": "bandar-abbas",
+  "name": "Bandar Abbas",
+  "country": "Iran",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 90,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Bandar Abbas in Iran. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+  "geojson": "bandar-abbas.geojson"
+}

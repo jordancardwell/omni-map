@@ -1,0 +1,18 @@
+{
+  "code": "mia-gru",
+  "name": "Miami — São Paulo",
+  "airports": [
+    "MIA",
+    "GRU"
+  ],
+  "distanceKm": 6574,
+  "weeklyFlights": 40,
+  "airlines": [
+    "American",
+    "LATAM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MIA–GRU route between Miami and São Paulo. Distance: 6,574 km. ~40 weekly flights operated by American, LATAM.",
+  "geojson": "mia-gru.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ca","name":"Canada","country":"CA","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-141,41.7],[-141,83.1],[-52.6,83.1],[-52.6,41.7],[-141,41.7]]]}}]}

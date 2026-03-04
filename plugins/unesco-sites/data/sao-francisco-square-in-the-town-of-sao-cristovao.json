@@ -1,0 +1,15 @@
+{
+  "code": "sao-francisco-square-in-the-town-of-sao-cristovao",
+  "name": "São Francisco Square in the Town of São Cristóvão",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "São Francisco Square, in the town of São Cristovão, is a quadrilateral open space surrounded by substantial early buildings such as São Francisco Church and convent, the Church and Santa Casa da Misericórdia, the Provincial Palace and the associated houses of different historical periods surrounding the Square. This monumental ensemble, together with the surrounding 18th- and 19th- century houses, creates an urban landscape which reflects the history of the town since its origin. The Franciscan complex is an example of the typical architecture of the religious order developed in north-eastern Brazil.",
+  "danger": false,
+  "geojson": "sao-francisco-square-in-the-town-of-sao-cristovao.geojson"
+}

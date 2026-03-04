@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7786111111,
+          20.8630555555
+        ]
+      },
+      "properties": {
+        "code": "agave-landscape-and-ancient-industrial-facilities-of-tequila",
+        "name": "Agave Landscape and Ancient Industrial Facilities of Tequila",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

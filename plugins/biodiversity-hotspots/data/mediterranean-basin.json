@@ -1,0 +1,29 @@
+{
+  "code": "mediterranean-basin",
+  "name": "Mediterranean Basin",
+  "location": "Southern Europe, North Africa, Western Asia",
+  "areaKm2": 2085292,
+  "habitatRemaining": "4.7%",
+  "plantSpecies": 22500,
+  "endemicPlants": 11700,
+  "vertebrateSpecies": 770,
+  "endemicVertebrates": 157,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Mediterranean monk seal",
+    "Iberian lynx",
+    "Barbary macaque",
+    "Loggerhead sea turtle",
+    "Egyptian vulture"
+  ],
+  "threats": [
+    "Tourism development",
+    "Urbanization",
+    "Agriculture intensification",
+    "Wildfires",
+    "Climate change"
+  ],
+  "conservationEfforts": "Iberian lynx recovery program increased population from 94 to over 1,100. Mediterranean monk seal protected in marine reserves. EU Natura 2000 network covers key habitats. Barcelona Convention protects marine environment.",
+  "description": "The Mediterranean Basin hotspot encircles the Mediterranean Sea, encompassing coastal areas of southern Europe, North Africa, and western Asia. It is one of the world's largest and most diverse hotspots, spanning three continents and 22 countries.\n\nThe Mediterranean climate of hot, dry summers and mild, wet winters has shaped a unique flora that includes over 22,500 plant species — more than four times the number found in all the rest of Europe. The region is also a cradle of human civilization, with landscapes shaped by millennia of human habitation. Olive groves, vineyards, and terraced hillsides are integral to both culture and biodiversity.",
+  "geojson": "mediterranean-basin.geojson"
+}

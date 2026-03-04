@@ -1,0 +1,15 @@
+{
+  "code": "heritage-of-mercury-almaden-and-idrija",
+  "name": "Heritage of Mercury. Almadén and Idrija",
+  "type": "Cultural",
+  "country": "Spain, Slovenia",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The property includes the mining sites of Almadén (Spain), where mercury (quicksilver) has been extracted since antiquity, and Idrija (Slovenia), where mercury was first found in AD1490. The Spanish property includes buildings relating to its mining history, including Retamar Castle, religious buildings and traditional dwellings. The site in Idrija notably features mercury stores and infrastructure, as well as miners’ living quarters, and a miners’ theatre. The sites bear testimony to the intercontinental trade in mercury which generated important exchanges between Europe and America over the centuries. Together they represent the two largest mercury mines in the world, operational until recent times.",
+  "danger": false,
+  "geojson": "heritage-of-mercury-almaden-and-idrija.geojson"
+}

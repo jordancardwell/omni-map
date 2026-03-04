@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.23139,
+          50.17444
+        ]
+      },
+      "properties": {
+        "code": "belfries-of-belgium-and-france",
+        "name": "Belfries of Belgium and France",
+        "type": "Cultural",
+        "country": "France, Belgium",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "atlantic-forest",
+  "name": "Atlantic Forest",
+  "country": "Brazil, Argentina, Paraguay",
+  "forestType": "Tropical",
+  "areaKm2": 131000,
+  "intactness": "Critical",
+  "changeSince2000": "-5.3% (approximately 7,000 km² lost)",
+  "annualLossRate": "0.2–0.3% per year",
+  "threats": [
+    "Urban expansion",
+    "Agricultural conversion",
+    "Cattle ranching",
+    "Infrastructure development",
+    "Fragmentation",
+    "Climate change"
+  ],
+  "conservationStatus": "Brazilian Atlantic Forest Law (2006) restricts clearing. Multiple protected areas including Iguaçu National Park. Atlantic Forest Restoration Pact aims to restore 15 million hectares by 2050. Only ~12% of original extent remains, mostly in fragments.",
+  "description": "The **Atlantic Forest** (Mata Atlântica) once stretched along Brazil's entire Atlantic coast but has been reduced to approximately 12% of its original 1.3 million km² extent, making it one of the world's most threatened biomes.\n\n### Key Statistics\n- **Biodiversity**: ~20,000 plant species (8,000 endemic), 298 mammal species\n- **Original extent**: ~1.3 million km²; now ~131,000 km² (12%)\n- **Population**: Home to 70% of Brazil's population (150 million people)\n- **Endemism**: Rival to the Amazon in species diversity per unit area\n\n### Deforestation Trends\nThe IFL 2020 data confirms the Atlantic Forest as one of the most deforested tropical forests. Remaining fragments are small and isolated, with over 80% of remnants smaller than 50 hectares. However, restoration efforts are among the most ambitious globally, and deforestation rates have slowed significantly compared to the 20th century.",
+  "geojson": "atlantic-forest.geojson"
+}

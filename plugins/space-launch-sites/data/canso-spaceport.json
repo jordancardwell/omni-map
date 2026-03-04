@@ -1,0 +1,15 @@
+{
+  "code": "canso-spaceport",
+  "name": "Canso Spaceport",
+  "country": "Canada",
+  "operator": "Maritime Launch Services",
+  "coordinates": "45.3200°N, 61.0000°W",
+  "status": "Planned",
+  "notableLaunches": [
+    "Planned first Canadian orbital launch"
+  ],
+  "orbitalInclinationRange": "45°–98°",
+  "location": "Canso Spaceport, Canada",
+  "description": "Proposed Canadian orbital launch site in Nova Scotia. Maritime Launch Services plans to launch small and medium rockets to serve the growing small satellite market from Canadian soil.",
+  "geojson": "canso-spaceport.geojson"
+}

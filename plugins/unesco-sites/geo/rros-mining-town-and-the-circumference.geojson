@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3855555556,
+          62.5738888889
+        ]
+      },
+      "properties": {
+        "code": "rros-mining-town-and-the-circumference",
+        "name": "Røros Mining Town and the Circumference",
+        "type": "Cultural",
+        "country": "Norway",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

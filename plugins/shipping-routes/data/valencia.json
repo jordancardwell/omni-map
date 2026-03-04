@@ -1,0 +1,14 @@
+{
+  "code": "valencia",
+  "name": "Port of Valencia",
+  "country": "Spain",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 80,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Valencia in Spain. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+  "geojson": "valencia.geojson"
+}

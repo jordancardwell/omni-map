@@ -1,0 +1,14 @@
+{
+  "code": "palace-and-park-of-fontainebleau",
+  "name": "Palace and Park of Fontainebleau",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Used by the kings of France from the 12th century, the medieval royal hunting lodge of Fontainebleau, standing at the heart of a vast forest in the Ile-de-France, was transformed, enlarged and embellished in the 16th century by François I, who wanted to make a 'New Rome' of it. Surrounded by an immense park, the Italianate palace combines Renaissance and French artistic traditions.",
+  "danger": false,
+  "geojson": "palace-and-park-of-fontainebleau.geojson"
+}

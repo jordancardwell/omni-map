@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.303369,
+          -2.530054
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-sao-luis",
+        "name": "Historic Centre of São Luís",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "purple-mountain",
+  "name": "Purple Mountain Observatory",
+  "country": "China",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 267,
+  "aperture": "1 m",
+  "telescopes": [
+    "1m reflector",
+    "Near-Earth Object Survey"
+  ],
+  "keyDiscoveries": [
+    "Asteroid discoveries",
+    "Comet discoveries",
+    "Solar physics"
+  ],
+  "location": "Purple Mountain Observatory, China",
+  "description": "Historic Chinese observatory near Nanjing, founded in 1934. Known for asteroid and comet discoveries. Now focuses on near-Earth object surveys and solar physics.",
+  "geojson": "purple-mountain.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.098711,
+          35.801672
+        ]
+      },
+      "properties": {
+        "code": "haeinsa-temple-janggyeong-panjeon-the-depositories-for-the-i-tripitaka-koreana-i",
+        "name": "Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

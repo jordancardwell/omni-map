@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2673,
+          9.9312
+        ]
+      },
+      "properties": {
+        "code": "onam",
+        "name": "Onam",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "August–September (Chingam 1)",
+        "location": "Kochi, India"
+      }
+    }
+  ]
+}

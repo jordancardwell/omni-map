@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22778,
+          27.79222
+        ]
+      },
+      "properties": {
+        "code": "whale-sanctuary-of-el-vizcaino",
+        "name": "Whale Sanctuary of El Vizcaino",
+        "type": "Natural",
+        "country": "Mexico",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

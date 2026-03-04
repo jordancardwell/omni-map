@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4399472222,
+          64.0503472222
+        ]
+      },
+      "properties": {
+        "code": "trondek-klondike",
+        "name": "Tr’ondëk-Klondike",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

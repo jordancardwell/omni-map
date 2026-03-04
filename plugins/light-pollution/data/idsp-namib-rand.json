@@ -1,0 +1,24 @@
+{
+  "code": "idsp-namib-rand",
+  "name": "NamibRand Nature Reserve",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "International Dark Sky Reserve (Gold Tier)",
+  "designationYear": "2012",
+  "areaSqKm": 2023,
+  "visibleObjects": [
+    "Milky Way core",
+    "Zodiacal light",
+    "Magellanic Clouds",
+    "Gegenschein"
+  ],
+  "exampleLocations": [
+    "NamibRand, Namibia",
+    "Sossusvlei region"
+  ],
+  "nearestDarkSkyReserves": [
+    "NamibRand (this site)"
+  ],
+  "description": "Africa's first International Dark Sky Reserve, located in the southern Namib Desert. The reserve is surrounded by vast uninhabited desert, providing some of the darkest measured skies on Earth. The combination of low humidity, high altitude, and extreme remoteness produces Class 1 Bortle conditions. The reserve is a model for combining conservation and astrotourism, welcoming thousands of visitors annually who come to experience pristine southern-hemisphere skies.",
+  "geojson": "idsp-namib-rand.geojson"
+}

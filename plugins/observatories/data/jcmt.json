@@ -1,0 +1,21 @@
+{
+  "code": "jcmt",
+  "name": "James Clerk Maxwell Telescope",
+  "country": "United Kingdom",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 4092,
+  "aperture": "15 m",
+  "telescopes": [
+    "JCMT",
+    "SCUBA-2"
+  ],
+  "keyDiscoveries": [
+    "Submillimeter galaxy populations",
+    "Debris disks around stars",
+    "Event Horizon Telescope contribution"
+  ],
+  "location": "James Clerk Maxwell Telescope, United Kingdom",
+  "description": "The world's largest single-dish submillimeter telescope on Mauna Kea. SCUBA-2 camera revealed populations of dust-obscured galaxies in the early universe.",
+  "geojson": "jcmt.geojson"
+}

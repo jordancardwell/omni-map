@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7683333333,
+          42.2947222222
+        ]
+      },
+      "properties": {
+        "code": "gelati-monastery",
+        "name": "Gelati Monastery",
+        "type": "Cultural",
+        "country": "Georgia",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

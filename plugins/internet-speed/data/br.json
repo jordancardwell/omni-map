@@ -1,0 +1,17 @@
+{
+  "code": "br",
+  "name": "Brazil",
+  "avgDownloadMbps": 78.4,
+  "avgUploadMbps": 44.6,
+  "avgLatencyMs": 24,
+  "mobileDownloadMbps": 28.6,
+  "mobileUploadMbps": 6.8,
+  "fixedDownloadMbps": 78.4,
+  "fixedUploadMbps": 44.6,
+  "rank": 56,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Fiber expansion in urban centers. ~16% year-over-year improvement.",
+  "geojson": "br.geojson"
+}

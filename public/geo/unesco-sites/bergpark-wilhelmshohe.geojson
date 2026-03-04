@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3930555556,
+          51.3158333333
+        ]
+      },
+      "properties": {
+        "code": "bergpark-wilhelmshohe",
+        "name": "Bergpark Wilhelmshöhe",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

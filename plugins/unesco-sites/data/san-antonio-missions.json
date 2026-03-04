@@ -1,0 +1,14 @@
+{
+  "code": "san-antonio-missions",
+  "name": "San Antonio Missions",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The site encompasses a group of five frontier mission complexes situated along a stretch of the San Antonio River basin in southern Texas, as well as a ranch located 37 kilometres to the south. It includes architectural and archaeological structures, farmlands, residencies, churches and granaries, as well as water distribution systems. The complexes were built by Franciscan missionaries in the 18th century and illustrate the Spanish Crown’s efforts to colonize, evangelize and defend the northern frontier of New Spain. The San Antonio Missions are also an example of the interweaving of Spanish and Coahuiltecan cultures, illustrated by a variety of features, including the decorative elements of churches, which combine Catholic symbols with indigenous designs inspired by nature.",
+  "danger": false,
+  "geojson": "san-antonio-missions.geojson"
+}

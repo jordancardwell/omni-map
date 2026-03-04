@@ -1,0 +1,16 @@
+{
+  "code": "au-fj-cable",
+  "name": "AU-FJ Cable",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 6487,
+  "yearLaid": 2013,
+  "rfsDate": "2016-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Suva, Fiji"
+  ],
+  "description": "AU-FJ Cable connecting Sydney to Suva.",
+  "geojson": "au-fj-cable.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.94333,
+          37.69083
+        ]
+      },
+      "properties": {
+        "code": "pythagoreion-and-heraion-of-samos",
+        "name": "Pythagoreion and Heraion of Samos",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "bengali",
+  "name": "Bengali",
+  "scriptType": "Abugida",
+  "characters": 50,
+  "direction": "LTR",
+  "originDate": "11th century CE",
+  "sampleText": "আমার সোনার বাংলা, আমি তোমায় ভালোবাসি",
+  "relatedScripts": [
+    "devanagari",
+    "odia"
+  ],
+  "description": "The Bengali (Bangla) script is an abugida used for Bengali and Assamese. Like Devanagari, it uses a horizontal head-stroke (matra) connecting letters. It has 11 vowels and 39 consonants, with numerous conjunct forms for consonant clusters. It is the fifth most widely used script in the world.",
+  "historicalNotes": "Bengali script evolved from the Siddham script through the Proto-Bengali script around the 11th century CE. It developed from the eastern variant of the Nagari script. Bengali printing began in the 18th century under British colonial rule. Panchanan Karmakar cut the first Bengali typeface in 1778. The script was standardized during the Bengali Renaissance of the 19th century.",
+  "geojson": "bengali.geojson"
+}

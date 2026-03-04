@@ -1,0 +1,16 @@
+{
+  "code": "jp-hi-cable",
+  "name": "JP-HI Cable",
+  "capacityTbps": 34,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13469,
+  "yearLaid": 2023,
+  "rfsDate": "2023-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Honolulu, USA"
+  ],
+  "description": "JP-HI Cable connecting Tokyo to Honolulu.",
+  "geojson": "jp-hi-cable.geojson"
+}

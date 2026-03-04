@@ -1,0 +1,21 @@
+{
+  "code": "suribachi",
+  "name": "Ioto (Iwo Jima)",
+  "volcanoType": "Caldera",
+  "status": "Historically Active",
+  "elevation": 161,
+  "lastEruption": "2012",
+  "vei": 1,
+  "country": "Japan",
+  "region": "Volcano Islands",
+  "location": "Volcano Islands, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Phreatic eruptions",
+    "Ground uplift",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "The island is rising at one of the fastest rates on Earth — over 1 meter per decade. Submarine eruptions occur periodically.",
+  "description": "Ioto (Iwo Jima), site of the famous WWII battle, sits atop an actively rising volcanic caldera. The island is uplifting so rapidly that WWII-era beaches are now high above sea level.",
+  "geojson": "suribachi.geojson"
+}

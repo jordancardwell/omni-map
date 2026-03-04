@@ -1,0 +1,14 @@
+{
+  "code": "republic-day-india",
+  "name": "Republic Day",
+  "festivalType": "National",
+  "dateOrSeason": "January 26",
+  "origin": "Indian national",
+  "estimatedAttendance": "1.4+ billion Indians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Grand military and cultural parade on Rajpath; display of floats from all states; aerial flyovers; folk dances; flag hoisting.",
+  "historicalBackground": "Republic Day marks the adoption of India's Constitution on January 26, 1950, replacing British colonial governance with a democratic republic.",
+  "description": "India's magnificent national celebration, featuring a grand military parade, cultural floats, and aerial displays in New Delhi.",
+  "location": "New Delhi, India",
+  "geojson": "republic-day-india.geojson"
+}

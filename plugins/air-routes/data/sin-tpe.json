@@ -1,0 +1,18 @@
+{
+  "code": "sin-tpe",
+  "name": "Singapore — Taipei",
+  "airports": [
+    "SIN",
+    "TPE"
+  ],
+  "distanceKm": 3221,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Singapore Airlines",
+    "China Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SIN–TPE route between Singapore and Taipei. Distance: 3,221 km. ~50 weekly flights operated by Singapore Airlines, China Airlines.",
+  "geojson": "sin-tpe.geojson"
+}

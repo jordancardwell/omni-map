@@ -1,0 +1,15 @@
+{
+  "code": "krzemionki-prehistoric-striped-flint-mining-region",
+  "name": "Krzemionki Prehistoric Striped Flint Mining Region",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the mountain region of Świętokrzyskie, Krzemionki is an ensemble of four mining sites, dating from the Neolithic to the Bronze Age (about 3900 to 1600 BCE), dedicated to the extraction and processing of striped flint, which was mainly used for axe-making. With its underground mining structures, flint workshops and some 4,000 shafts and pits, the property features one of the most comprehensive prehistoric underground flint extraction and processing systems identified to date. The property provides information about life and work in prehistoric settlements and bears witness to an extinct cultural tradition. It is an exceptional testimony of the importance of the prehistoric period and of flint mining for tool production in human history.",
+  "danger": false,
+  "geojson": "krzemionki-prehistoric-striped-flint-mining-region.geojson"
+}

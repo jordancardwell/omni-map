@@ -1,0 +1,16 @@
+{
+  "code": "twd",
+  "name": "New Taiwan Dollar",
+  "isoCode": "TWD",
+  "symbol": "NT$",
+  "region": "Asia",
+  "centralBank": "Central Bank of the Republic of China (Taiwan)",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Taiwan"
+  ],
+  "countryCount": 1,
+  "description": "The New Taiwan Dollar is the currency of Taiwan, a global leader in semiconductor manufacturing.",
+  "historicalNotes": "Introduced in 1949, replacing the old Taiwan dollar at 40,000:1 after hyperinflation during the Chinese Civil War.",
+  "geojson": "twd.geojson"
+}

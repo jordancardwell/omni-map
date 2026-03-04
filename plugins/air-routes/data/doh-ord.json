@@ -1,0 +1,17 @@
+{
+  "code": "doh-ord",
+  "name": "Doha — Chicago",
+  "airports": [
+    "DOH",
+    "ORD"
+  ],
+  "distanceKm": 11459,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–ORD route between Doha and Chicago. Distance: 11,459 km. ~15 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-ord.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "mistral",
+  "name": "Mistral",
+  "capacityTbps": 48,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8000,
+  "yearLaid": 2022,
+  "rfsDate": "2024-12",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Buenos Aires, Argentina",
+    "Valparaíso, Chile",
+    "Lurín, Peru",
+    "Guayaquil, Ecuador"
+  ],
+  "description": "Cable connecting South American Pacific coast.",
+  "geojson": "mistral.geojson"
+}

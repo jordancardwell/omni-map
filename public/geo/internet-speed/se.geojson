@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"se","name":"Sweden","country":"SE","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[11.1,55.3],[11.1,69.1],[24.2,69.1],[24.2,55.3],[11.1,55.3]]]}}]}

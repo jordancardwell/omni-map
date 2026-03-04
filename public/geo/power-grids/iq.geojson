@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"iq","name":"Iraq","country":"IQ","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[38.8,29.1],[38.8,37.4],[48.6,37.4],[48.6,29.1],[38.8,29.1]]]}}]}

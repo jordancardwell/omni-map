@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "code": "higan",
+        "name": "Higan (Equinox Week)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "March and September equinoxes",
+        "location": "Tokyo, Japan"
+      }
+    }
+  ]
+}

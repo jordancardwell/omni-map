@@ -1,0 +1,15 @@
+{
+  "code": "city-of-quito",
+  "name": "City of Quito",
+  "type": "Cultural",
+  "country": "Ecuador",
+  "yearInscribed": "1978",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art.",
+  "danger": false,
+  "geojson": "city-of-quito.geojson"
+}

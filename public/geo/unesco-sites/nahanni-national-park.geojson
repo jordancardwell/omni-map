@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5894444,
+          61.54722222
+        ]
+      },
+      "properties": {
+        "code": "nahanni-national-park",
+        "name": "Nahanni National Park",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "atl-mia",
+  "name": "Atlanta — Miami",
+  "airports": [
+    "ATL",
+    "MIA"
+  ],
+  "distanceKm": 959,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Delta",
+    "American",
+    "Spirit"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–MIA route between Atlanta and Miami. Distance: 959 km. ~100 weekly flights operated by Delta, American, Spirit.",
+  "geojson": "atl-mia.geojson"
+}

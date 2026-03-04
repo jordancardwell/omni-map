@@ -1,0 +1,15 @@
+{
+  "code": "shum-sites-of-speyer-worms-and-mainz",
+  "name": "ShUM Sites of Speyer, Worms and Mainz",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the former Imperial cathedral cities of Speyer, Worms and Mainz, in the Upper Rhine Valley, the serial site of Speyer, Worms and Mainz comprise the Speyer Jewry-Court, with the structures of the synagogue and women’s shul (Yiddish for synagogue), the archaeological vestiges of the yeshiva (religious school), the courtyard and the still intact underground mikveh (ritual bath), which has retained its high architectural and building quality. The property also comprises the Worms Synagogue Compound, with its in situ post-war reconstruction of the 12th century synagogue and 13th century women’s shul, the community hall (Rashi House), and the monumental 12th-century mikveh. The series also includes the Old Jewish Cemetery in Worms and the Old Jewish Cemetery in Mainz. The four component sites tangibly reflect the early emergence of distinctive Ashkenaz customs and the development and settlement pattern of the ShUM communities, particularly between the 11th and the 14th centuries. The buildings that constitute the property served as prototypes for later Jewish community and religious buildings as well as cemeteries in Europe. The acronym ShUM stands for the Hebrew initials of Speyer, Worms and Mainz.",
+  "danger": false,
+  "geojson": "shum-sites-of-speyer-worms-and-mainz.geojson"
+}

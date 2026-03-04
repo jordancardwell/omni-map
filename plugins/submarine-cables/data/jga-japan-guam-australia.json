@@ -1,0 +1,17 @@
+{
+  "code": "jga-japan-guam-australia",
+  "name": "JGA (Japan-Guam-Australia)",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9500,
+  "yearLaid": 2019,
+  "rfsDate": "2020-06",
+  "owner": "Google, RTI",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Guam",
+    "Sydney, Australia"
+  ],
+  "description": "Japan-Guam-Australia cable providing connectivity within the Pacific region.",
+  "geojson": "jga-japan-guam-australia.geojson"
+}

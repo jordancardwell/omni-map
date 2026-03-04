@@ -1,0 +1,14 @@
+{
+  "code": "carnival-cologne",
+  "name": "Cologne Carnival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Rhineland German tradition",
+  "estimatedAttendance": "1.5+ million on Rose Monday",
+  "unescoICH": "Not inscribed",
+  "traditions": "Rose Monday parade with satirical floats; Weiberfastnacht (Women's Carnival); costume balls; Kölsch beer; Alaaf! greeting.",
+  "historicalBackground": "Cologne Carnival dates to 1823 when it was formally organized. The Rhineland tradition preserves pre-Lenten festivities with distinctly German humor and satire.",
+  "description": "Germany's wildest carnival celebration, when Cologne erupts in costume parades, satirical floats, and rivers of Kölsch beer.",
+  "location": "Cologne, Germany",
+  "geojson": "carnival-cologne.geojson"
+}

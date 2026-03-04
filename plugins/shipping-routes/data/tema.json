@@ -1,0 +1,14 @@
+{
+  "code": "tema",
+  "name": "Port of Tema",
+  "country": "Ghana",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 25,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Tema in Ghana. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+  "geojson": "tema.geojson"
+}

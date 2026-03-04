@@ -1,0 +1,16 @@
+{
+  "code": "pn-mh-cable",
+  "name": "PN-MH Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2696,
+  "yearLaid": 2015,
+  "rfsDate": "2016-06",
+  "owner": "NTA",
+  "landingPoints": [
+    "Pohnpei, FSM",
+    "Majuro, Marshall Islands"
+  ],
+  "description": "PN-MH Cable connecting Pohnpei to Majuro in the Pacific.",
+  "geojson": "pn-mh-cable.geojson"
+}

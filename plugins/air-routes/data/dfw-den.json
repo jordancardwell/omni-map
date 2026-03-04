@@ -1,0 +1,19 @@
+{
+  "code": "dfw-den",
+  "name": "Dallas — Denver",
+  "airports": [
+    "DFW",
+    "DEN"
+  ],
+  "distanceKm": 1031,
+  "weeklyFlights": 100,
+  "airlines": [
+    "American",
+    "United",
+    "Southwest"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DFW–DEN route between Dallas and Denver. Distance: 1,031 km. ~100 weekly flights operated by American, United, Southwest.",
+  "geojson": "dfw-den.geojson"
+}

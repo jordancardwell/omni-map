@@ -1,0 +1,15 @@
+{
+  "code": "san-pedro-de-la-roca-castle-santiago-de-cuba",
+  "name": "San Pedro de la Roca Castle, Santiago de Cuba",
+  "type": "Cultural",
+  "country": "Cuba",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Commercial and political rivalries in the Caribbean region in the 17th century resulted in the construction of this massive series of fortifications on a rocky promontory, built to protect the important port of Santiago. This intricate complex of forts, magazines, bastions and batteries is the most complete, best-preserved example of Spanish-American military architecture, based on Italian and Renaissance design principles.",
+  "danger": false,
+  "geojson": "san-pedro-de-la-roca-castle-santiago-de-cuba.geojson"
+}

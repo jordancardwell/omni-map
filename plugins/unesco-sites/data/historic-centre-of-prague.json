@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-prague",
+  "name": "Historic Centre of Prague",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built between the 11th and 18th centuries, the Old Town, the Lesser Town and the New Town speak of the great architectural and cultural influence enjoyed by this city since the Middle Ages. The many magnificent monuments, such as Hradcany Castle, St Vitus Cathedral, Charles Bridge and numerous churches and palaces, built mostly in the 14th century under the Holy Roman Emperor, Charles IV.",
+  "danger": false,
+  "geojson": "historic-centre-of-prague.geojson"
+}

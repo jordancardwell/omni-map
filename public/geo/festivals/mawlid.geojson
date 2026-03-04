@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6112,
+          24.4672
+        ]
+      },
+      "properties": {
+        "code": "mawlid",
+        "name": "Mawlid al-Nabi",
+        "festivalType": "Religious",
+        "dateOrSeason": "12th Rabi al-Awwal (varies)",
+        "location": "Medina, Saudi Arabia"
+      }
+    }
+  ]
+}

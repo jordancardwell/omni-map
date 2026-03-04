@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bergen","name":"Port of Bergen","featureType":"port","portType":"Multi-Purpose Port","country":"Norway"},"geometry":{"type":"Point","coordinates":[5.32,60.39]}}]}

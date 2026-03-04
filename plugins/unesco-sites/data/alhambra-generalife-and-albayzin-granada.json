@@ -1,0 +1,16 @@
+{
+  "code": "alhambra-generalife-and-albayzin-granada",
+  "name": "Alhambra, Generalife and Albayzín, Granada",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Rising above the modern lower town, the Alhambra and the Albaycín, situated on two adjacent hills, form the medieval part of Granada. To the east of the Alhambra fortress and residence are the magnificent gardens of the Generalife, the former rural residence of the emirs who ruled this part of Spain in the 13th and 14th centuries. The residential district of the Albaycín is a rich repository of Moorish vernacular architecture, into which the traditional Andalusian architecture blends harmoniously.",
+  "danger": false,
+  "geojson": "alhambra-generalife-and-albayzin-granada.geojson"
+}

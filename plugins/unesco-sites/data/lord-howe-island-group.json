@@ -1,0 +1,15 @@
+{
+  "code": "lord-howe-island-group",
+  "name": "Lord Howe Island Group",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "A remarkable example of isolated oceanic islands, born of volcanic activity more than 2,000 m under the sea, these islands boast a spectacular topography and are home to numerous endemic species, especially birds.",
+  "danger": false,
+  "geojson": "lord-howe-island-group.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ganges-basin",
+  "name": "Ganges Basin",
+  "region": "South Asia",
+  "stressGroup": "3. Medium-High (20-40%)",
+  "waterStressLevel": "Medium-High",
+  "waterStressRatio": "~35% — withdrawal-to-availability",
+  "depletionRate": "Moderate — groundwater tables declining 1-3 m per decade",
+  "droughtRisk": "High",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 600000000,
+  "riskFactors": ["Groundwater over-extraction", "Monsoon dependence", "Glacier retreat", "Industrial pollution", "Population density"],
+  "description": "The Ganges basin supports over 600 million people — the most densely populated river basin on Earth. Water stress is medium-high and rising due to groundwater over-extraction for irrigation. The Indo-Gangetic aquifer is depleting at 6-10 km³/year. Himalayan glacier melt currently buffers dry-season flows, but glaciers have lost 40% of their area since the Little Ice Age.",
+  "geojson": "ganges-basin.geojson"
+}

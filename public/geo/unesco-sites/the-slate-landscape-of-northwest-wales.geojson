@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115,
+          53.1208333333
+        ]
+      },
+      "properties": {
+        "code": "the-slate-landscape-of-northwest-wales",
+        "name": "The Slate Landscape of Northwest Wales",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

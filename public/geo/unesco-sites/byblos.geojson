@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6455555556,
+          34.11917
+        ]
+      },
+      "properties": {
+        "code": "byblos",
+        "name": "Byblos",
+        "type": "Cultural",
+        "country": "Lebanon",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.767,10.025]},"properties":{"code":"turrialba","name":"Turrialba","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3340,"lastEruption":"2020","vei":2}}]}

@@ -1,0 +1,14 @@
+{
+  "code": "puerto-quetzal",
+  "name": "Puerto Quetzal",
+  "country": "Guatemala",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West Coast Americas Route"
+  ],
+  "description": "Puerto Quetzal in Guatemala. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+  "geojson": "puerto-quetzal.geojson"
+}

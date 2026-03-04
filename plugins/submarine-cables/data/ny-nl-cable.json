@@ -1,0 +1,16 @@
+{
+  "code": "ny-nl-cable",
+  "name": "NY-NL Cable",
+  "capacityTbps": 60,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3476,
+  "yearLaid": 2013,
+  "rfsDate": "2020-06",
+  "owner": "Telia",
+  "landingPoints": [
+    "New York, USA",
+    "Katwijk, Netherlands"
+  ],
+  "description": "NY-NL Cable connecting New York to Katwijk.",
+  "geojson": "ny-nl-cable.geojson"
+}

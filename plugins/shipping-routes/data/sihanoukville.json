@@ -1,0 +1,14 @@
+{
+  "code": "sihanoukville",
+  "name": "Port of Sihanoukville",
+  "country": "Cambodia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Intra-Asian Shipping Network"
+  ],
+  "description": "Port of Sihanoukville in Cambodia. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+  "geojson": "sihanoukville.geojson"
+}

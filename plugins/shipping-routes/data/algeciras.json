@@ -1,0 +1,15 @@
+{
+  "code": "algeciras",
+  "name": "Port of Algeciras",
+  "country": "Spain",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 110,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route",
+    "Trans-Atlantic Northern Route"
+  ],
+  "description": "Port of Algeciras in Spain. Annual cargo throughput: ~110 million tons. Type: Container Port.",
+  "geojson": "algeciras.geojson"
+}

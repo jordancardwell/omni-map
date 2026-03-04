@@ -1,0 +1,19 @@
+{
+  "code": "icn-pvg",
+  "name": "Seoul — Shanghai",
+  "airports": [
+    "ICN",
+    "PVG"
+  ],
+  "distanceKm": 821,
+  "weeklyFlights": 190,
+  "airlines": [
+    "Korean Air",
+    "Asiana",
+    "China Eastern"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ICN–PVG route between Seoul and Shanghai. Distance: 821 km. ~190 weekly flights operated by Korean Air, Asiana, China Eastern.",
+  "geojson": "icn-pvg.geojson"
+}

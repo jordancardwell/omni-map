@@ -1,0 +1,16 @@
+{
+  "code": "smpcs-southern-philippines",
+  "name": "SMPCS (Southern Philippines)",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 500,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Eastern Communications",
+  "landingPoints": [
+    "Davao, Philippines",
+    "Manado, Indonesia"
+  ],
+  "description": "Cable connecting Southern Philippines to Indonesia.",
+  "geojson": "smpcs-southern-philippines.geojson"
+}

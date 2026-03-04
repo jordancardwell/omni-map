@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0026,
+          16.7666
+        ]
+      },
+      "properties": {
+        "code": "festival-au-desert",
+        "name": "Festival au Désert",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January",
+        "location": "Timbuktu, Mali"
+      }
+    }
+  ]
+}

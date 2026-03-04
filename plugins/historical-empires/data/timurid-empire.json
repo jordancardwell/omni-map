@@ -1,0 +1,25 @@
+{
+  "code": "timurid-empire",
+  "name": "Timurid Empire",
+  "era": "Medieval",
+  "peakYear": "1405 CE",
+  "areaAtPeakKm2": 4400000,
+  "populationEstimate": "35 million",
+  "capital": "Samarkand",
+  "keyAchievements": [
+    "Timurid Renaissance",
+    "Astronomical observatories",
+    "Persian literature patronage",
+    "Architectural achievements",
+    "Samarkand as cultural center"
+  ],
+  "declineFactors": [
+    "Succession disputes",
+    "Fragmentation",
+    "Uzbek invasions",
+    "Internal rivalries",
+    "Loss of military cohesion"
+  ],
+  "description": "The Timurid Empire (1370–1507) was founded by Timur (Tamerlane), who claimed descent from Genghis Khan. From his capital at Samarkand, Timur conquered vast territories spanning Central Asia, Persia, Mesopotamia, and parts of India and Anatolia.\n\nWhile Timur's conquests were devastatingly destructive, the Timurid dynasty that followed became great patrons of art, science, and architecture. The Timurid Renaissance in Herat and Samarkand produced extraordinary miniature painting, poetry, and the astronomical work of Ulugh Beg. The Mughal Empire was founded by a Timurid prince, Babur.",
+  "geojson": "timurid-empire.geojson"
+}

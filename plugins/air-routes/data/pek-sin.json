@@ -1,0 +1,18 @@
+{
+  "code": "pek-sin",
+  "name": "Beijing — Singapore",
+  "airports": [
+    "PEK",
+    "SIN"
+  ],
+  "distanceKm": 4490,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Air China",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PEK–SIN route between Beijing and Singapore. Distance: 4,490 km. ~40 weekly flights operated by Air China, Singapore Airlines.",
+  "geojson": "pek-sin.geojson"
+}

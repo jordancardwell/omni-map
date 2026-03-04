@@ -1,0 +1,28 @@
+{
+  "code": "bortle-2-typical-dark",
+  "name": "Typical Dark Sky Sites",
+  "bortleGroup": "1. Pristine (Class 1-2)",
+  "bortleClass": "Class 2 — Typical Dark Sky",
+  "skyBrightness": "21.89–21.99 mag/arcsec²",
+  "limitingMagnitude": "7.1–7.5",
+  "milkyWayVisibility": "Excellent — Milky Way highly structured with dark lanes; zodiacal light bright and obvious",
+  "visibleObjects": [
+    "Zodiacal light (easily visible)",
+    "M31 obvious naked-eye",
+    "Summer Milky Way dark lanes",
+    "Faintest stars to horizon",
+    "Airglow may be visible"
+  ],
+  "exampleLocations": [
+    "Big Bend National Park, USA",
+    "Pic du Midi, France",
+    "Galloway Forest, Scotland",
+    "Jasper National Park, Canada"
+  ],
+  "nearestDarkSkyReserves": [
+    "Mont-Mégantic International Dark Sky Reserve",
+    "Galloway Forest Dark Sky Park"
+  ],
+  "description": "Excellent dark skies found in rural areas at significant distance from any towns. The zodiacal light is clearly visible and quite bright. The Milky Way shows extensive structure with dark lanes and bright star clouds. Airglow (a faint natural glow of the upper atmosphere) may be visible as gentle undulations. These skies are typically found 50-100 km from the nearest significant population center. Many national parks and designated dark sky areas offer Class 2 conditions on clear moonless nights.",
+  "geojson": "bortle-2-typical-dark.geojson"
+}

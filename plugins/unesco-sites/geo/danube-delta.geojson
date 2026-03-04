@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5,
+          45.08333
+        ]
+      },
+      "properties": {
+        "code": "danube-delta",
+        "name": "Danube Delta",
+        "type": "Natural",
+        "country": "Romania",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

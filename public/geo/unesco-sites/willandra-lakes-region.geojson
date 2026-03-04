@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0,
+          -34.0
+        ]
+      },
+      "properties": {
+        "code": "willandra-lakes-region",
+        "name": "Willandra Lakes Region",
+        "type": "Mixed",
+        "country": "Australia",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

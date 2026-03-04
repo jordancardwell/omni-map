@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ashdod","name":"Port of Ashdod","featureType":"port","portType":"Container Port","country":"Israel"},"geometry":{"type":"Point","coordinates":[34.64,31.82]}}]}

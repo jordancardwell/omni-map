@@ -1,0 +1,16 @@
+{
+  "code": "my-borneo",
+  "name": "MY Borneo",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1017,
+  "yearLaid": 2016,
+  "rfsDate": "2019-06",
+  "owner": "TM",
+  "landingPoints": [
+    "Kuching, Malaysia",
+    "Kota Kinabalu, Malaysia"
+  ],
+  "description": "MY Borneo connecting Kuching to Kota Kinabalu.",
+  "geojson": "my-borneo.geojson"
+}

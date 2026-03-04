@@ -1,0 +1,22 @@
+{
+  "code": "osorno",
+  "name": "Osorno",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 2652,
+  "lastEruption": "1869",
+  "vei": 2,
+  "country": "Chile",
+  "region": "Los Lagos",
+  "location": "Los Lagos, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Last erupted in 1869. Has produced at least 11 historical eruptions since 1575.",
+  "description": "Osorno is one of the most visually striking volcanoes in Chile, often compared to Mount Fuji for its symmetrical cone shape. It is a major ski resort and tourist attraction.",
+  "geojson": "osorno.geojson"
+}

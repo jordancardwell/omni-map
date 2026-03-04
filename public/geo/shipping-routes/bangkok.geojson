@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bangkok","name":"Bangkok Port","featureType":"port","portType":"Multi-Purpose Port","country":"Thailand"},"geometry":{"type":"Point","coordinates":[100.58,13.71]}}]}

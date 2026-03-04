@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pe","name":"Peru","country":"PE","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-81.3,-18.4],[-81.3,-0.1],[-68.7,-0.1],[-68.7,-18.4],[-81.3,-18.4]]]}}]}

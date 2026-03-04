@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1958333333,
+          33.2691666667
+        ]
+      },
+      "properties": {
+        "code": "tyre",
+        "name": "Tyre",
+        "type": "Cultural",
+        "country": "Lebanon",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

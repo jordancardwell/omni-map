@@ -1,0 +1,17 @@
+{
+  "code": "iq",
+  "name": "Iraq",
+  "avgDownloadMbps": 14.2,
+  "avgUploadMbps": 4.8,
+  "avgLatencyMs": 36,
+  "mobileDownloadMbps": 22.6,
+  "mobileUploadMbps": 4.4,
+  "fixedDownloadMbps": 14.2,
+  "fixedUploadMbps": 4.8,
+  "rank": 127,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Post-conflict rebuilding of infrastructure. ~16% year-over-year growth.",
+  "geojson": "iq.geojson"
+}

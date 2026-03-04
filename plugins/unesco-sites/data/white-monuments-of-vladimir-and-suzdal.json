@@ -1,0 +1,16 @@
+{
+  "code": "white-monuments-of-vladimir-and-suzdal",
+  "name": "White Monuments of Vladimir and Suzdal",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These two artistic centres in central Russia hold an important place in the country's architectural history. There are a number of magnificent 12th- and 13th-century public and religious buildings, above all the masterpieces of the Collegiate Church of St Demetrios and the Cathedral of the Assumption of the Virgin.",
+  "danger": false,
+  "geojson": "white-monuments-of-vladimir-and-suzdal.geojson"
+}

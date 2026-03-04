@@ -1,0 +1,19 @@
+{
+  "code": "ord-msp",
+  "name": "Chicago — Minneapolis",
+  "airports": [
+    "ORD",
+    "MSP"
+  ],
+  "distanceKm": 537,
+  "weeklyFlights": 90,
+  "airlines": [
+    "Delta",
+    "United",
+    "Sun Country"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–MSP route between Chicago and Minneapolis. Distance: 537 km. ~90 weekly flights operated by Delta, United, Sun Country.",
+  "geojson": "ord-msp.geojson"
+}

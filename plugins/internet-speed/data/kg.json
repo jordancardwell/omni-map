@@ -1,0 +1,17 @@
+{
+  "code": "kg",
+  "name": "Kyrgyzstan",
+  "avgDownloadMbps": 12.4,
+  "avgUploadMbps": 6.8,
+  "avgLatencyMs": 32,
+  "mobileDownloadMbps": 14.2,
+  "mobileUploadMbps": 3.4,
+  "fixedDownloadMbps": 12.4,
+  "fixedUploadMbps": 6.8,
+  "rank": 133,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Central Asia",
+  "dataYear": 2024,
+  "trendDescription": "Mountain geography limits coverage. ~15% year-over-year growth.",
+  "geojson": "kg.geojson"
+}

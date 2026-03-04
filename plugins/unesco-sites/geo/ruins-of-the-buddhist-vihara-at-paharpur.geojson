@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98333333,
+          25.03333333
+        ]
+      },
+      "properties": {
+        "code": "ruins-of-the-buddhist-vihara-at-paharpur",
+        "name": "Ruins of the Buddhist Vihara at Paharpur",
+        "type": "Cultural",
+        "country": "Bangladesh",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "mg",
+  "name": "Madagascar",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "D",
+    "E",
+    "J",
+    "K"
+  ],
+  "plugTypeCount": 5,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type E — Two round pins + grounding pin hole (French style)",
+    "Type J — Three round pins (Swiss style)",
+    "Type K — Three round pins (Danish style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types. Universal adapter recommended.",
+  "geojson": "mg.geojson"
+}

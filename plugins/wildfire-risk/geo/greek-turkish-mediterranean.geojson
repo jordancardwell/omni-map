@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "greek-turkish-mediterranean", "name": "Greek-Turkish Mediterranean" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[20,42],[22,42],[24,42],[26,42],[28,41],[30,40],[32,38],[30,37],[28,36],[26,36],[24,36],[22,37],[20,38],[19,39],[20,40],[20,42]]]
+    }
+  }]
+}

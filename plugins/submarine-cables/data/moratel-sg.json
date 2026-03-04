@@ -1,0 +1,16 @@
+{
+  "code": "moratel-sg",
+  "name": "Moratel-SG",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2137,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "Moratel",
+  "landingPoints": [
+    "Singapore",
+    "Jakarta, Indonesia"
+  ],
+  "description": "Moratel-SG connecting Singapore to Jakarta in Southeast Asia.",
+  "geojson": "moratel-sg.geojson"
+}

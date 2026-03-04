@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-landscape-of-the-first-coffee-plantations-in-the-south-east-of-cu",
+  "name": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+  "type": "Cultural",
+  "country": "Cuba",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region.",
+  "danger": false,
+  "geojson": "archaeological-landscape-of-the-first-coffee-plantations-in-the-south-east-of-cu.geojson"
+}

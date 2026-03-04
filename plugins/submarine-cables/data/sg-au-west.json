@@ -1,0 +1,16 @@
+{
+  "code": "sg-au-west",
+  "name": "SG-AU West",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3883,
+  "yearLaid": 2015,
+  "rfsDate": "2020-06",
+  "owner": "SubPartners",
+  "landingPoints": [
+    "Singapore",
+    "Perth, Australia"
+  ],
+  "description": "SG-AU West connecting Singapore to Perth.",
+  "geojson": "sg-au-west.geojson"
+}

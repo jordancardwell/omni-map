@@ -1,0 +1,12 @@
+{
+  "code": "ams",
+  "name": "Amsterdam Schiphol",
+  "iataCode": "AMS",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "annualPassengers": 61800000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Amsterdam Schiphol (AMS) in Amsterdam, Netherlands. Annual passengers: ~61.8M. Classification: Major Hub.",
+  "geojson": "ams.geojson"
+}

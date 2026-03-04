@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3122,
+          -15.376
+        ]
+      },
+      "properties": {
+        "code": "naghol-land-diving",
+        "name": "Naghol Land Diving",
+        "festivalType": "Cultural",
+        "dateOrSeason": "April–June",
+        "location": "Pentecost Island, Vanuatu"
+      }
+    }
+  ]
+}

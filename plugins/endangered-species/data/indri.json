@@ -1,0 +1,19 @@
+{
+  "code": "indri",
+  "name": "Indri",
+  "scientificName": "Indri indri",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,000-10,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical moist lowland and montane forest",
+  "threats": [
+    "Slash-and-burn agriculture",
+    "Logging",
+    "Hunting",
+    "Mining"
+  ],
+  "conservationEfforts": "Andasibe-Mantadia National Park protects core habitat. Community-based ecotourism provides economic alternatives. Madagascar's national parks expanded in 2003.",
+  "description": "The largest living lemur, famous for its haunting whale-like songs that carry for kilometers through Madagascar's eastern rainforest. They have never survived in captivity.",
+  "geojson": "indri.geojson"
+}

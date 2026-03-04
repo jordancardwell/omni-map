@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.209,
+          28.6139
+        ]
+      },
+      "properties": {
+        "code": "diwali",
+        "name": "Diwali",
+        "festivalType": "Religious",
+        "dateOrSeason": "October–November",
+        "location": "India"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "china-us-cable-network",
+  "name": "China-US Cable Network",
+  "capacityTbps": 2.56,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 30000,
+  "yearLaid": 1999,
+  "rfsDate": "2000-01",
+  "owner": "China Telecom, others",
+  "landingPoints": [
+    "San Luis Obispo, USA",
+    "Shanghai, China",
+    "Shantou, China",
+    "Tokyo, Japan",
+    "Busan, South Korea",
+    "Guam"
+  ],
+  "description": "One of the first modern trans-Pacific cables connecting China to the US.",
+  "geojson": "china-us-cable-network.geojson"
+}

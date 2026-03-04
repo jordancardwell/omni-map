@@ -1,0 +1,17 @@
+{
+  "code": "mid-atlantic-regional",
+  "name": "Mid-Atlantic Regional Spaceport (MARS)",
+  "country": "United States",
+  "operator": "Virginia Space",
+  "coordinates": "37.8340°N, 75.4880°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Antares maiden flight",
+    "Cygnus ISS resupply missions",
+    "Minotaur launches"
+  ],
+  "orbitalInclinationRange": "38°–60°",
+  "location": "Mid-Atlantic Regional Spaceport (MARS), United States",
+  "description": "Commercial launch facility at NASA Wallops Flight Facility. Primary launch site for Northrop Grumman's Antares rocket and Cygnus spacecraft providing ISS cargo resupply.",
+  "geojson": "mid-atlantic-regional.geojson"
+}

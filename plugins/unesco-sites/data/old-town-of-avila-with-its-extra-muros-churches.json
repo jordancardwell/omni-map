@@ -1,0 +1,15 @@
+{
+  "code": "old-town-of-avila-with-its-extra-muros-churches",
+  "name": "Old Town of Ávila with its Extra-Muros Churches",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded in the 11th century to protect the Spanish territories from the Moors, this 'City of Saints and Stones', the birthplace of St Teresa and the burial place of the Grand Inquisitor Torquemada, has kept its medieval austerity. This purity of form can still be seen in the Gothic cathedral and the fortifications which, with their 82 semicircular towers and nine gates, are the most complete in Spain.",
+  "danger": false,
+  "geojson": "old-town-of-avila-with-its-extra-muros-churches.geojson"
+}

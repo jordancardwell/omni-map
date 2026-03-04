@@ -1,0 +1,22 @@
+{
+  "code": "santorini",
+  "name": "Santorini (Thera)",
+  "volcanoType": "Caldera",
+  "status": "Historically Active",
+  "elevation": 567,
+  "lastEruption": "1950",
+  "vei": 7,
+  "country": "Greece",
+  "region": "Cyclades",
+  "location": "Cyclades, Greece",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Tsunami",
+    "Ashfall",
+    "Caldera collapse"
+  ],
+  "eruptionHistory": "The Minoan eruption ~1600 BCE was one of the largest in the last 10,000 years, possibly destroying the Minoan civilization. Nea Kameni has erupted several times in the last 2,000 years.",
+  "description": "Santorini's caldera was formed by the massive Minoan eruption around 1600 BCE. The eruption may have inspired the legend of Atlantis and contributed to the decline of the Minoan civilization.",
+  "geojson": "santorini.geojson"
+}

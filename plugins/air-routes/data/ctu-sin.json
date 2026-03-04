@@ -1,0 +1,18 @@
+{
+  "code": "ctu-sin",
+  "name": "Chengdu — Singapore",
+  "airports": [
+    "CTU",
+    "SIN"
+  ],
+  "distanceKm": 3220,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Sichuan Airlines",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CTU–SIN route between Chengdu and Singapore. Distance: 3,220 km. ~25 weekly flights operated by Sichuan Airlines, Singapore Airlines.",
+  "geojson": "ctu-sin.geojson"
+}

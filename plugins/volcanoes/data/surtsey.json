@@ -1,0 +1,21 @@
+{
+  "code": "surtsey",
+  "name": "Surtsey",
+  "volcanoType": "Submarine volcano",
+  "status": "Dormant",
+  "elevation": 155,
+  "lastEruption": "1967",
+  "vei": 3,
+  "country": "Iceland",
+  "region": "Vestmannaeyjar",
+  "location": "Vestmannaeyjar, Iceland",
+  "tectonicSetting": "Divergent boundary",
+  "hazards": [
+    "Tephra",
+    "Lava flows",
+    "Phreatomagmatic explosions"
+  ],
+  "eruptionHistory": "Born from a submarine eruption in 1963-1967, creating a new island. A UNESCO World Heritage Site studied as a pristine example of ecological colonization.",
+  "description": "Surtsey is a volcanic island that emerged from the Atlantic Ocean in 1963. It is a UNESCO World Heritage Site and one of the most important natural laboratories for studying island biogeography.",
+  "geojson": "surtsey.geojson"
+}

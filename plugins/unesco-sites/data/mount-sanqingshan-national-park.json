@@ -1,0 +1,14 @@
+{
+  "code": "mount-sanqingshan-national-park",
+  "name": "Mount Sanqingshan National Park",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Mount Sanqingshan National Park, a 22,950 ha property located in the west of the Huyaiyu mountain range in the northeast of Jiangxi Province (in the east of central China) has been inscribed for its exceptional scenic quality, marked by the concentration of fantastically shaped pillars and peaks: 48 granite peaks and 89 granite pillars, many of which resemble human or animal silhouettes. The natural beauty of the 1,817 metre high Mount Huaiyu is further enhanced by the juxtaposition of granite features with the vegetation and particular meteorological conditions which make for an ever-changing and arresting landscape with bright halos on clouds and white rainbows. The area is subject to a combination of subtropical monsoonal and maritime influences and forms an island of temperate forest above the surrounding subtropical landscape. It also features forests and numerous waterfalls, some of them 60 metres in height, lakes and springs.",
+  "danger": false,
+  "geojson": "mount-sanqingshan-national-park.geojson"
+}

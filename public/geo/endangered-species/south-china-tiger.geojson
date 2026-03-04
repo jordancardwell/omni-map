@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"south-china-tiger","name":"South China Tiger"},"geometry":{"type":"Polygon","coordinates":[[[105,23],[115,23],[117,25],[115,28],[110,30],[105,28],[103,25],[105,23]]]}}]}

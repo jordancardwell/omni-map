@@ -1,0 +1,16 @@
+{
+  "code": "pirin-national-park",
+  "name": "Pirin National Park",
+  "type": "Natural",
+  "country": "Bulgaria",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits.",
+  "danger": false,
+  "geojson": "pirin-national-park.geojson"
+}

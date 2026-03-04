@@ -1,0 +1,18 @@
+{
+  "code": "blue-throated-hillstar",
+  "name": "Blue-throated Hillstar",
+  "scientificName": "Oreotrochilus cyanolaemus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~250-750 individuals",
+  "populationTrend": "Unknown",
+  "habitatType": "Paramo grassland",
+  "threats": [
+    "Mining",
+    "Habitat loss",
+    "Climate change"
+  ],
+  "conservationEfforts": "Discovered in 2017 in southern Ecuador. Local community declared a protected area. Research ongoing to determine full range and population status.",
+  "description": "A hummingbird described as new to science in 2018, found only on a few mountaintops in southern Ecuador. Males have an iridescent blue throat patch. Mining threatens its extremely limited habitat.",
+  "geojson": "blue-throated-hillstar.geojson"
+}

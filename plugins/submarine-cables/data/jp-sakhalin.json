@@ -1,0 +1,16 @@
+{
+  "code": "jp-sakhalin",
+  "name": "JP-Sakhalin",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 895,
+  "yearLaid": 2018,
+  "rfsDate": "2021-06",
+  "owner": "Rostelecom",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Yuzhno-Sakhalinsk, Russia"
+  ],
+  "description": "JP-Sakhalin connecting Tokyo to Yuzhno-Sakhalinsk in East Asia.",
+  "geojson": "jp-sakhalin.geojson"
+}

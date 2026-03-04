@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47375,
+          51.03097222
+        ]
+      },
+      "properties": {
+        "code": "flemish-beguinages",
+        "name": "Flemish Béguinages",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

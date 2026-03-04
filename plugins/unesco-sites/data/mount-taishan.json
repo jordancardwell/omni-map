@@ -1,0 +1,19 @@
+{
+  "code": "mount-taishan",
+  "name": "Mount Taishan",
+  "type": "Mixed",
+  "country": "China",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(v)",
+    "(vii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The sacred Mount Tai ('shan' means 'mountain') was the object of an imperial cult for nearly 2,000 years, and the artistic masterpieces found there are in perfect harmony with the natural landscape. It has always been a source of inspiration for Chinese artists and scholars and symbolizes ancient Chinese civilizations and beliefs.",
+  "danger": false,
+  "geojson": "mount-taishan.geojson"
+}

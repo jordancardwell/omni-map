@@ -1,0 +1,17 @@
+{
+  "code": "late-baroque-towns-of-the-val-di-noto-south-eastern-sicily",
+  "name": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2002",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The eight towns in south-eastern Sicily: Caltagirone, Militello Val di Catania, Catania, Modica, Noto, Palazzolo, Ragusa and Scicli, were all rebuilt after 1693 on or beside towns existing at the time of the earthquake which took place in that year. They represent a considerable collective undertaking, successfully carried out at a high level of architectural and artistic achievement. Keeping within the late Baroque style of the day, they also depict distinctive innovations in town planning and urban building.",
+  "danger": false,
+  "geojson": "late-baroque-towns-of-the-val-di-noto-south-eastern-sicily.geojson"
+}

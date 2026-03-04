@@ -1,0 +1,14 @@
+{
+  "code": "historic-city-of-meknes",
+  "name": "Historic City of Meknes",
+  "type": "Cultural",
+  "country": "Morocco",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Founded in the 11th century by the Almoravids as a military settlement, Meknes became a capital under Sultan Moulay Ismaïl (1672–1727), the founder of the Alawite dynasty. The sultan turned it into a impressive city in Spanish-Moorish style, surrounded by high walls with great doors, where the harmonious blending of the Islamic and European styles of the 17th century Maghreb are still evident today.",
+  "danger": false,
+  "geojson": "historic-city-of-meknes.geojson"
+}

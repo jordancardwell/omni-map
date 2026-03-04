@@ -1,0 +1,24 @@
+{
+  "code": "atlantic-americas",
+  "name": "Atlantic Americas Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Eastern Americas",
+  "badgeValue": "~500 species",
+  "speciesCount": "~500 migratory species including shorebirds, raptors, and songbirds",
+  "keyStopoverSites": [
+    "Delaware Bay",
+    "Chesapeake Bay",
+    "Caribbean Islands",
+    "Amazon Estuary",
+    "Tierra del Fuego"
+  ],
+  "threats": [
+    "Coastal development",
+    "Light pollution",
+    "Climate change",
+    "Habitat loss",
+    "Pesticides"
+  ],
+  "description": "The Atlantic Americas Flyway stretches along the eastern seaboard of North and South America, from the Canadian Arctic to Patagonia. It is critical for shorebirds like the Red Knot, which makes one of the longest migrations of any bird \u2014 nearly 15,000 km each way. Delaware Bay serves as a crucial refueling stop where birds feed on horseshoe crab eggs. Coastal development and sea-level rise threaten key stopover habitats.",
+  "geojson": "atlantic-americas.geojson"
+}

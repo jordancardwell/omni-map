@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.13333,
+          14.85
+        ]
+      },
+      "properties": {
+        "code": "maya-site-of-copan",
+        "name": "Maya Site of Copan",
+        "type": "Cultural",
+        "country": "Honduras",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

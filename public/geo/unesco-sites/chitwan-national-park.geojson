@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.33333,
+          27.5
+        ]
+      },
+      "properties": {
+        "code": "chitwan-national-park",
+        "name": "Chitwan National Park",
+        "type": "Natural",
+        "country": "Nepal",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "tanjung-priok",
+  "name": "Tanjung Priok (Jakarta)",
+  "country": "Indonesia",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 80,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Southeast Asian Straits"
+  ],
+  "description": "Tanjung Priok (Jakarta) in Indonesia. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+  "geojson": "tanjung-priok.geojson"
+}

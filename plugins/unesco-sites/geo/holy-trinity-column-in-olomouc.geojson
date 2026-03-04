@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2504583333,
+          49.5939361111
+        ]
+      },
+      "properties": {
+        "code": "holy-trinity-column-in-olomouc",
+        "name": "Holy Trinity Column in Olomouc",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

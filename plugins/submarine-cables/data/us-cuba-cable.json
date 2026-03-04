@@ -1,0 +1,16 @@
+{
+  "code": "us-cuba-cable",
+  "name": "US-Cuba Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1261,
+  "yearLaid": 2022,
+  "rfsDate": "2009-06",
+  "owner": "ALBA-1",
+  "landingPoints": [
+    "Miami, USA",
+    "Havana, Cuba"
+  ],
+  "description": "US-Cuba Cable connecting Miami to Havana in the Caribbean region.",
+  "geojson": "us-cuba-cable.geojson"
+}

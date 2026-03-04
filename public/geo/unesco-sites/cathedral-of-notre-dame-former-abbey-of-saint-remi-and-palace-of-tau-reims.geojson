@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.032777778,
+          49.25333333
+        ]
+      },
+      "properties": {
+        "code": "cathedral-of-notre-dame-former-abbey-of-saint-remi-and-palace-of-tau-reims",
+        "name": "Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "carnival-rio",
+  "name": "Carnival (Rio de Janeiro)",
+  "festivalType": "Religious",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Catholic / Afro-Brazilian tradition",
+  "estimatedAttendance": "2+ million per day",
+  "unescoICH": "Not inscribed",
+  "traditions": "Samba school parades at the Sambadrome; elaborate costumes and floats; street parties (blocos); music and dancing; masquerade balls.",
+  "historicalBackground": "Rio's Carnival evolved from Portuguese Entrudo celebrations and African cultural traditions brought by enslaved people. Samba schools emerged in the early 20th century.",
+  "description": "The world's largest carnival celebration, featuring spectacular samba parades, elaborate costumes, and non-stop music in Rio de Janeiro.",
+  "location": "Rio de Janeiro, Brazil",
+  "geojson": "carnival-rio.geojson"
+}

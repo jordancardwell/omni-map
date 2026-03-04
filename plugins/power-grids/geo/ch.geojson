@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ch","name":"Switzerland","country":"CH","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[6,45.8],[6,47.8],[10.5,47.8],[10.5,45.8],[6,45.8]]]}}]}

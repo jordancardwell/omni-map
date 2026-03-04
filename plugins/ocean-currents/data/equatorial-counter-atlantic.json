@@ -1,0 +1,21 @@
+{
+  "code": "equatorial-counter-atlantic",
+  "name": "Atlantic Equatorial Countercurrent",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.6 m/s",
+  "origin": "Western tropical Atlantic",
+  "destination": "Gulf of Guinea",
+  "climateEffects": [
+    "Returns warm water eastward",
+    "Influences tropical Atlantic variability",
+    "Modulates equatorial upwelling"
+  ],
+  "connectedEcosystems": [
+    "Tropical Atlantic pelagic zone",
+    "Gulf of Guinea ecosystem",
+    "Equatorial Atlantic fisheries"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Atlantic Equatorial Countercurrent flows eastward between the North and South Equatorial Currents, returning warm surface water back toward Africa. It is strongest from July to September.",
+  "geojson": "equatorial-counter-atlantic.geojson"
+}

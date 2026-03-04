@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"irr","name":"Iranian Rial","country":"IR","region":"Middle East"},"geometry":{"type":"Polygon","coordinates":[[[44.1,25.1],[44.1,39.8],[63.3,39.8],[63.3,25.1],[44.1,25.1]]]}}]}

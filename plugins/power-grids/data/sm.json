@@ -1,0 +1,20 @@
+{
+  "code": "sm",
+  "name": "San Marino",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "F",
+    "L"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type L — Three round pins in a line (Italian style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Same as Italy. Standard European plugs.",
+  "geojson": "sm.geojson"
+}

@@ -1,0 +1,26 @@
+{
+  "code": "scotia",
+  "name": "Scotia Plate",
+  "plateClass": "Minor",
+  "crustType": "Oceanic",
+  "area": 1.6,
+  "movementDirection": "West",
+  "movementRate": "20–25",
+  "boundaryTypes": [
+    "Convergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "south-american",
+    "antarctic"
+  ],
+  "notableFeatures": [
+    "Scotia Sea",
+    "South Sandwich Trench",
+    "South Sandwich Islands",
+    "Drake Passage"
+  ],
+  "description": "The Scotia Plate is located in the South Atlantic Ocean between South America and Antarctica. It is bounded by the Scotia Arc — a curved chain of islands and submarine ridges that connects the Andes of South America to the Antarctic Peninsula. The South Sandwich Islands on its eastern boundary form an active volcanic arc above a subduction zone.",
+  "geologicalHistory": "The Scotia Plate formed when a segment of oceanic crust became trapped between the South American and Antarctic plates as they separated during the Cenozoic. The opening of Drake Passage about 30 million years ago allowed the circum-Antarctic current to form, which led to Antarctica's glaciation and dramatically changed global climate patterns.",
+  "geojson": "scotia.geojson"
+}

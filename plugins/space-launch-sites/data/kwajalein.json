@@ -1,0 +1,17 @@
+{
+  "code": "kwajalein",
+  "name": "Omelek Island (SpaceX)",
+  "country": "Marshall Islands",
+  "operator": "SpaceX (former)",
+  "coordinates": "9.0477°N, 167.7432°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Falcon 1 Flight 4 (first successful)",
+    "Falcon 1 Flight 5",
+    "RazakSAT"
+  ],
+  "orbitalInclinationRange": "9°–60°",
+  "location": "Omelek Island (SpaceX), Marshall Islands",
+  "description": "Small island in Kwajalein Atoll where SpaceX achieved its first successful orbital launch (Falcon 1 Flight 4) on September 28, 2008. Now decommissioned as SpaceX moved operations to Cape Canaveral.",
+  "geojson": "kwajalein.geojson"
+}

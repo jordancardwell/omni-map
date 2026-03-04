@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991388889,
+          39.70583333
+        ]
+      },
+      "properties": {
+        "code": "su-nuraxi-di-barumini",
+        "name": "Su Nuraxi di Barumini",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

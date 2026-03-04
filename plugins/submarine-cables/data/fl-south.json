@@ -1,0 +1,16 @@
+{
+  "code": "fl-south",
+  "name": "FL South",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1332,
+  "yearLaid": 2019,
+  "rfsDate": "2019-06",
+  "owner": "AT&T",
+  "landingPoints": [
+    "Miami, USA",
+    "Boca Raton, USA"
+  ],
+  "description": "FL South connecting Miami to Boca Raton.",
+  "geojson": "fl-south.geojson"
+}

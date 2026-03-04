@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.376,
+          -20.597
+        ]
+      },
+      "properties": {
+        "code": "twyfelfontein-or-ui-aes",
+        "name": "Twyfelfontein or /Ui-//aes",
+        "type": "Cultural",
+        "country": "Namibia",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sg-bn-link",
+  "name": "SG-BN Link",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2523,
+  "yearLaid": 2012,
+  "rfsDate": "2021-06",
+  "owner": "Brunei ICT",
+  "landingPoints": [
+    "Singapore",
+    "Brunei"
+  ],
+  "description": "SG-BN Link connecting Singapore to Brunei in Southeast Asia.",
+  "geojson": "sg-bn-link.geojson"
+}

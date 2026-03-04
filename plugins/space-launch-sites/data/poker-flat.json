@@ -1,0 +1,17 @@
+{
+  "code": "poker-flat",
+  "name": "Poker Flat Research Range",
+  "country": "United States",
+  "operator": "University of Alaska / NASA",
+  "coordinates": "65.1297°N, 147.4700°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Hundreds of sounding rockets",
+    "Aurora research rockets",
+    "Mesospheric studies"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Poker Flat Research Range, United States",
+  "description": "The world's largest land-based sounding rocket range, located north of Fairbanks, Alaska. Operated by the University of Alaska, it specializes in aurora borealis and upper atmosphere research.",
+  "geojson": "poker-flat.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9908333333,
+          30.3955555556
+        ]
+      },
+      "properties": {
+        "code": "archaeological-ruins-of-liangzhu-city",
+        "name": "Archaeological Ruins of Liangzhu City",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

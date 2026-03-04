@@ -1,0 +1,18 @@
+{
+  "code": "blue-throated-macaw",
+  "name": "Blue-throated Macaw",
+  "scientificName": "Ara glaucogularis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~400 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Palm savanna (Beni region)",
+  "threats": [
+    "Nest poaching for pet trade",
+    "Habitat loss",
+    "Competition for nest sites"
+  ],
+  "conservationEfforts": "Nest box programs dramatically increased breeding success. Barba Azul Nature Reserve protects key habitat. Local community becomes stewards of macaw conservation.",
+  "description": "Found only in a small area of the Beni savanna in Bolivia, this stunning macaw was driven to the brink by the pet trade. Nest boxes have become crucial for its recovery.",
+  "geojson": "blue-throated-macaw.geojson"
+}

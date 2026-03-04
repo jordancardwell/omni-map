@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "site-gobekli-tepe", "name": "Göbekli Tepe" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [38.9224, 37.2231]
+    }
+  }]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.22778,
+          36.44722
+        ]
+      },
+      "properties": {
+        "code": "medieval-city-of-rhodes",
+        "name": "Medieval City of Rhodes",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

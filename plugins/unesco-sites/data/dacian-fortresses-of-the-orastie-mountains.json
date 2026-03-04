@@ -1,0 +1,16 @@
+{
+  "code": "dacian-fortresses-of-the-orastie-mountains",
+  "name": "Dacian Fortresses of the Orastie Mountains",
+  "type": "Cultural",
+  "country": "Romania",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built in the 1st centuries B.C. and A.D. under Dacian rule, these fortresses show an unusual fusion of military and religious architectural techniques and concepts from the classical world and the late European Iron Age. The six defensive works, the nucleus of the Dacian Kingdom, were conquered by the Romans at the beginning of the 2nd century A.D.; their extensive and well-preserved remains stand in spectacular natural surroundings and give a dramatic picture of a vigorous and innovative civilization.",
+  "danger": false,
+  "geojson": "dacian-fortresses-of-the-orastie-mountains.geojson"
+}

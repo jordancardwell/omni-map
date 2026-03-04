@@ -1,0 +1,18 @@
+{
+  "code": "kiwi-great-spotted",
+  "name": "Great Spotted Kiwi",
+  "scientificName": "Apteryx haastii",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~14,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Alpine and subalpine forest",
+  "threats": [
+    "Predation by stoats",
+    "Habitat loss",
+    "Mining"
+  ],
+  "conservationEfforts": "Predator control in key habitats. Operation Nest Egg program. Largest of the kiwi species at 3.3 kg.",
+  "description": "The largest kiwi species, found in the mountainous regions of New Zealand's South Island. Unlike other kiwi, they live in pairs rather than alone and fiercely defend their territories.",
+  "geojson": "kiwi-great-spotted.geojson"
+}

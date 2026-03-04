@@ -1,0 +1,16 @@
+{
+  "code": "rice-terraces-of-the-philippine-cordilleras",
+  "name": "Rice Terraces of the Philippine Cordilleras",
+  "type": "Cultural",
+  "country": "Philippines",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "For 2,000 years, the high rice fields of the Ifugao have followed the contours of the mountains. The fruit of knowledge handed down from one generation to the next, and the expression of sacred traditions and a delicate social balance, they have helped to create a landscape of great beauty that expresses the harmony between humankind and the environment.",
+  "danger": false,
+  "geojson": "rice-terraces-of-the-philippine-cordilleras.geojson"
+}

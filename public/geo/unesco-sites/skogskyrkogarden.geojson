@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09944,
+          59.27556
+        ]
+      },
+      "properties": {
+        "code": "skogskyrkogarden",
+        "name": "Skogskyrkogården",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "historic-town-of-ouro-preto",
+  "name": "Historic Town of Ouro Preto",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Founded at the end of the 17th century, Ouro Preto (Black Gold) was the focal point of the gold rush and Brazil’s golden age in the 18th century. With the exhaustion of the gold mines in the 19th century, the city’s influence declined but many churches, bridges and fountains remain as a testimony to its past prosperity and the exceptional talent of the Baroque sculptor Aleijadinho.",
+  "danger": false,
+  "geojson": "historic-town-of-ouro-preto.geojson"
+}

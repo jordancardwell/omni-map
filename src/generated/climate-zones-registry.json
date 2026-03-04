@@ -1,0 +1,501 @@
+[
+  {
+    "code": "af",
+    "name": "Tropical Rainforest",
+    "group": "A - Tropical",
+    "temperatureRange": "≥18°C all months (avg 25-28°C)",
+    "precipitationPattern": "No dry season; ≥60mm every month",
+    "vegetation": "Dense tropical rainforest with multiple canopy layers, high biodiversity",
+    "exampleCities": [
+      "Singapore",
+      "Kuala Lumpur",
+      "Manaus",
+      "Kisangani"
+    ],
+    "description": "Tropical rainforest climate (Af) is characterized by consistently high temperatures and heavy rainfall throughout the year. There is no distinct dry season, with every month receiving at least 60mm of precipitation. This climate supports the most biodiverse ecosystems on Earth, including the Amazon, Congo, and Southeast Asian rainforests.",
+    "typicalWeather": "Hot and humid year-round with daily afternoon thunderstorms. Temperatures rarely drop below 18°C or exceed 35°C. Relative humidity stays above 80%. Cloud cover is frequent, and rainfall totals often exceed 2000mm annually.",
+    "geojson": "af.geojson"
+  },
+  {
+    "code": "am",
+    "name": "Tropical Monsoon",
+    "group": "A - Tropical",
+    "temperatureRange": "≥18°C all months (avg 25-30°C)",
+    "precipitationPattern": "Short dry season offset by heavy monsoon rains; annual >1500mm",
+    "vegetation": "Monsoon forest, semi-deciduous tropical forest",
+    "exampleCities": [
+      "Miami",
+      "Mumbai",
+      "Jakarta",
+      "Cairns"
+    ],
+    "description": "Tropical monsoon climate (Am) features high temperatures year-round with a brief dry season compensated by extremely heavy rainfall during the monsoon months. The total annual precipitation is high enough to sustain tropical forest. This climate is transitional between tropical rainforest and tropical savanna.",
+    "typicalWeather": "Hot and humid most of the year. The monsoon season brings intense, prolonged rainfall with possible flooding. The short dry season is warm but less humid. Cyclones and typhoons may affect coastal areas.",
+    "geojson": "am.geojson"
+  },
+  {
+    "code": "aw",
+    "name": "Tropical Savanna",
+    "group": "A - Tropical",
+    "temperatureRange": "≥18°C all months (avg 24-30°C)",
+    "precipitationPattern": "Distinct wet and dry seasons; driest month <60mm",
+    "vegetation": "Grassland with scattered trees, savanna woodland, gallery forest along rivers",
+    "exampleCities": [
+      "Havana",
+      "Bangkok",
+      "Darwin",
+      "Brasília",
+      "Nairobi"
+    ],
+    "description": "Tropical savanna climate (Aw/As) is defined by warm temperatures throughout the year with a pronounced dry season. The landscape alternates between lush green during wet months and golden-brown during the dry season. This climate supports vast savannas across Africa, South America, and parts of Asia and Australia.",
+    "typicalWeather": "Warm to hot year-round. The wet season brings daily thunderstorms and heavy rain. The dry season features clear skies, lower humidity, and sometimes strong winds. Annual rainfall typically ranges from 800-1600mm, concentrated in 5-8 months.",
+    "geojson": "aw.geojson"
+  },
+  {
+    "code": "bsh",
+    "name": "Hot Semi-Arid (Steppe)",
+    "group": "B - Arid",
+    "temperatureRange": "Annual mean ≥18°C; hot summers, mild winters",
+    "precipitationPattern": "Low; 250-500mm/year, seasonal distribution",
+    "vegetation": "Short grassland, thorny shrubs, scattered acacias",
+    "exampleCities": [
+      "Marrakech",
+      "Niamey",
+      "San Antonio",
+      "Karachi"
+    ],
+    "description": "Hot semi-arid climate (BSh) is found on the margins of hot deserts, receiving slightly more precipitation. The Sahel region of Africa, parts of India, and the American Southwest exhibit this climate. Rainfall is unreliable and droughts are common, but enough moisture exists to support grassland and steppe vegetation.",
+    "typicalWeather": "Hot and dry for much of the year with a short wet season. Temperatures are high (30-40°C in summer). Dust storms can occur during dry months. Rainfall is erratic and may fail in drought years.",
+    "geojson": "bsh.geojson"
+  },
+  {
+    "code": "bsk",
+    "name": "Cold Semi-Arid (Steppe)",
+    "group": "B - Arid",
+    "temperatureRange": "Annual mean <18°C; warm summers, cold winters",
+    "precipitationPattern": "Low; 250-500mm/year, often winter/spring peak",
+    "vegetation": "Short-grass prairie, steppe, sagebrush, tussock grassland",
+    "exampleCities": [
+      "Denver",
+      "Salt Lake City",
+      "Ankara",
+      "Tehran"
+    ],
+    "description": "Cold semi-arid climate (BSk) is found in continental interiors and high plateaus at mid-latitudes. The Great Plains of North America, the Anatolian Plateau, and the Iranian Plateau are typical examples. This climate supports vast grasslands historically important for pastoral economies.",
+    "typicalWeather": "Four distinct seasons with warm to hot summers (25-35°C) and cold winters (-5 to -15°C). Precipitation is moderate but unreliable. Snow is common in winter. Strong winds sweep across the open landscape.",
+    "geojson": "bsk.geojson"
+  },
+  {
+    "code": "bwh",
+    "name": "Hot Desert",
+    "group": "B - Arid",
+    "temperatureRange": "Annual mean ≥18°C; summers often >40°C",
+    "precipitationPattern": "Extremely low; <250mm/year, often <100mm",
+    "vegetation": "Sparse xerophytes, cacti, minimal ground cover, largely barren",
+    "exampleCities": [
+      "Cairo",
+      "Riyadh",
+      "Phoenix",
+      "Las Vegas"
+    ],
+    "description": "Hot desert climate (BWh) is Earth's driest climate type, characterized by extremely low precipitation and high daytime temperatures. These regions include the Sahara, Arabian, and Sonoran deserts. Daily temperature swings can be extreme—scorching days followed by cool nights due to lack of cloud cover and humidity.",
+    "typicalWeather": "Blazing sun with clear skies dominating most days. Summer temperatures frequently exceed 40°C (104°F). Winter days are warm but nights can be cool. Sandstorms and dust devils occur. Rain is rare and may come as brief, intense downpours.",
+    "geojson": "bwh.geojson"
+  },
+  {
+    "code": "bwk",
+    "name": "Cold Desert",
+    "group": "B - Arid",
+    "temperatureRange": "Annual mean <18°C; cold winters, warm summers",
+    "precipitationPattern": "Very low; <250mm/year, often as snow in winter",
+    "vegetation": "Sparse shrubland, sagebrush, drought-adapted grasses",
+    "exampleCities": [
+      "Ulaanbaatar",
+      "Lhasa",
+      "Kashgar",
+      "Turpan"
+    ],
+    "description": "Cold desert climate (BWk) combines aridity with cold winters. Found in high-altitude plateaus and continental interiors far from moisture sources. The Gobi Desert, Patagonian steppe, and parts of Central Asia are examples. Temperature extremes between seasons are dramatic.",
+    "typicalWeather": "Clear skies predominate. Summers are warm (25-35°C) but winters are bitterly cold (-15 to -30°C). Precipitation is scant and often falls as snow. Strong winds are common, especially in spring.",
+    "geojson": "bwk.geojson"
+  },
+  {
+    "code": "cfa",
+    "name": "Humid Subtropical",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month ≥22°C; coldest month 0-18°C",
+    "precipitationPattern": "Year-round precipitation; no distinct dry season",
+    "vegetation": "Temperate broadleaf and mixed forest, abundant undergrowth",
+    "exampleCities": [
+      "Tokyo",
+      "Shanghai",
+      "Sydney",
+      "Buenos Aires",
+      "Atlanta",
+      "New Orleans"
+    ],
+    "description": "Humid subtropical climate (Cfa) is one of the most widespread climate types, characterized by hot, humid summers and mild winters with year-round precipitation. Found on the eastern sides of continents between 25-40° latitude. This climate supports productive agriculture and dense populations across multiple continents.",
+    "typicalWeather": "Hot, humid summers (25-35°C) with frequent thunderstorms. Mild winters (2-12°C) with occasional cold snaps. Autumn is often the driest season. Spring is warm and rainy. Annual precipitation 1000-1500mm, fairly evenly distributed.",
+    "geojson": "cfa.geojson"
+  },
+  {
+    "code": "cfb",
+    "name": "Oceanic",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month <22°C; coldest month >0°C",
+    "precipitationPattern": "Year-round precipitation; no dry season",
+    "vegetation": "Temperate deciduous forest, lush meadows, moorland",
+    "exampleCities": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Melbourne",
+      "Seattle",
+      "Wellington"
+    ],
+    "description": "Oceanic climate (Cfb) features mild temperatures year-round with no extreme heat or cold. Maritime influence moderates seasonal temperature swings. Found in Western Europe, New Zealand, Pacific Northwest, and southeastern Australia. Known for overcast skies and reliable but moderate rainfall.",
+    "typicalWeather": "Cool, mild conditions year-round. Summers are warm but rarely hot (16-22°C). Winters are cool but not severe (1-7°C). Overcast skies are frequent. Rainfall is regular and moderate, typically 600-1200mm annually. Snowfall is light and infrequent at low elevations.",
+    "geojson": "cfb.geojson"
+  },
+  {
+    "code": "cfc",
+    "name": "Subpolar Oceanic",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month <22°C; 1-3 months >10°C",
+    "precipitationPattern": "Year-round precipitation; cool and wet",
+    "vegetation": "Stunted forest, heath, bog, moss-covered landscapes",
+    "exampleCities": [
+      "Reykjavik",
+      "Tórshavn",
+      "Punta Arenas",
+      "Ushuaia"
+    ],
+    "description": "Subpolar oceanic climate (Cfc) is found at high latitudes where ocean influence prevents extreme cold but summers remain cool. Iceland, the Faroe Islands, and southern Patagonia are classic examples. Strong winds and persistent cloudiness are characteristic.",
+    "typicalWeather": "Cool to cold year-round. Summers are brief and mild (8-14°C). Winters are raw and windy (0-5°C). Persistent overcast with frequent drizzle and mist. Strong gales are common, especially in winter. Snow is possible but rarely persistent at sea level.",
+    "geojson": "cfc.geojson"
+  },
+  {
+    "code": "csa",
+    "name": "Hot-Summer Mediterranean",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month ≥22°C; coldest month 0-18°C",
+    "precipitationPattern": "Dry hot summers, wet mild winters",
+    "vegetation": "Mediterranean scrubland (maquis/chaparral), olive groves, evergreen oak",
+    "exampleCities": [
+      "Rome",
+      "Athens",
+      "Los Angeles",
+      "Barcelona",
+      "Izmir"
+    ],
+    "description": "Hot-summer Mediterranean climate (Csa) is famous for warm, dry summers and mild, wet winters. Found around the Mediterranean Sea, coastal California, central Chile, and parts of South Australia. The climate supports distinctive Mediterranean ecosystems and has been ideal for viticulture and olive cultivation for millennia.",
+    "typicalWeather": "Long, sunny summers with temperatures often exceeding 30°C and virtually no rain for 3-5 months. Winters are mild (5-15°C) with regular rainfall. Spring and autumn are pleasant transition seasons. Annual rainfall typically 400-800mm.",
+    "geojson": "csa.geojson"
+  },
+  {
+    "code": "csb",
+    "name": "Warm-Summer Mediterranean",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month <22°C; coldest month 0-18°C",
+    "precipitationPattern": "Dry warm summers, wet mild winters",
+    "vegetation": "Mixed evergreen forest, coastal scrub, temperate woodland",
+    "exampleCities": [
+      "San Francisco",
+      "Porto",
+      "Cape Town",
+      "Santiago"
+    ],
+    "description": "Warm-summer Mediterranean climate (Csb) features the same dry-summer/wet-winter pattern as Csa but with cooler summer temperatures. Coastal fog and marine influence moderate temperatures. Found in coastal regions like northern California, Portugal, and parts of Chile and South Africa.",
+    "typicalWeather": "Mild summers (18-22°C) often with coastal fog or low clouds in mornings. Winters are cool and rainy (5-12°C). Frost is rare at sea level. Very pleasant shoulder seasons. Precipitation 400-900mm annually, almost all in winter half of year.",
+    "geojson": "csb.geojson"
+  },
+  {
+    "code": "csc",
+    "name": "Cold-Summer Mediterranean",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month <22°C; fewer than 4 months >10°C",
+    "precipitationPattern": "Dry cool summers, wet mild winters",
+    "vegetation": "Subalpine meadow, heath, stunted woodland",
+    "exampleCities": [
+      "Mount Read (Tasmania)",
+      "Balmaceda (Chile)"
+    ],
+    "description": "Cold-summer Mediterranean climate (Csc) is extremely rare, found only in small high-altitude or high-latitude areas that combine cool summers with dry-summer Mediterranean precipitation patterns. Less than a handful of weather stations worldwide record this climate.",
+    "typicalWeather": "Cool year-round with mild, rainy winters and dry but cool summers. Summer temperatures rarely exceed 20°C. Frost possible much of the year at higher elevations. Very limited geographical extent.",
+    "geojson": "csc.geojson"
+  },
+  {
+    "code": "cwa",
+    "name": "Humid Subtropical (Dry Winter)",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month ≥22°C; coldest month 0-18°C",
+    "precipitationPattern": "Dry winters, wet hot summers; monsoon influence",
+    "vegetation": "Subtropical forest, bamboo groves, rice paddies",
+    "exampleCities": [
+      "Hong Kong",
+      "Hanoi",
+      "New Delhi",
+      "Lusaka"
+    ],
+    "description": "Humid subtropical climate with dry winters (Cwa) combines warm, wet summers with mild, dry winters. Monsoon circulation drives the seasonal precipitation pattern. Found in parts of South and East Asia, highland East Africa, and southern Brazil.",
+    "typicalWeather": "Hot, humid summers (28-35°C) with heavy monsoon rains. Winters are mild and dry (5-18°C) with clear skies. The transition from dry to wet season is often dramatic. Annual rainfall 1000-1500mm, mostly in summer months.",
+    "geojson": "cwa.geojson"
+  },
+  {
+    "code": "cwb",
+    "name": "Subtropical Highland (Dry Winter)",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month <22°C; coolest month 0-18°C",
+    "precipitationPattern": "Dry winters, moderate wet summers",
+    "vegetation": "Cloud forest, highland grassland, páramo at highest elevations",
+    "exampleCities": [
+      "Addis Ababa",
+      "Mexico City",
+      "Bogotá",
+      "Kunming",
+      "Nairobi"
+    ],
+    "description": "Subtropical highland climate with dry winters (Cwb) occurs at tropical and subtropical elevations where altitude moderates temperatures. Often called 'eternal spring' climate. Found in highland East Africa, the Mexican Plateau, and the Yunnan Plateau.",
+    "typicalWeather": "Mild year-round (15-22°C in warmest month). Cool nights. Dry season has clear skies and chilly mornings. Wet season brings afternoon showers and thunderstorms. Frost rare but possible at highest elevations.",
+    "geojson": "cwb.geojson"
+  },
+  {
+    "code": "cwc",
+    "name": "Cold Subtropical Highland (Dry Winter)",
+    "group": "C - Temperate",
+    "temperatureRange": "Warmest month <22°C; 1-3 months >10°C",
+    "precipitationPattern": "Dry winters, moderate wet summers",
+    "vegetation": "High-altitude scrub, sparse forest, alpine meadow",
+    "exampleCities": [
+      "El Alto (Bolivia)",
+      "Potosí (Bolivia)"
+    ],
+    "description": "Cold subtropical highland climate with dry winters (Cwc) is very rare, found only at extreme altitudes in the tropics where temperatures remain cool throughout the year. Only a few high-altitude stations in the Andes and East Africa record this climate.",
+    "typicalWeather": "Cool to cold year-round. Daytime temperatures may reach 10-15°C but nights are often below freezing. The wet season brings snow or sleet at the highest elevations. UV radiation is intense due to altitude.",
+    "geojson": "cwc.geojson"
+  },
+  {
+    "code": "dfa",
+    "name": "Hot-Summer Humid Continental",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month ≥22°C; coldest month <0°C",
+    "precipitationPattern": "Year-round precipitation; no dry season",
+    "vegetation": "Temperate broadleaf forest, tallgrass prairie, rich agricultural land",
+    "exampleCities": [
+      "Chicago",
+      "Toronto",
+      "Minneapolis",
+      "Omaha",
+      "Detroit"
+    ],
+    "description": "Hot-summer humid continental climate (Dfa) features warm to hot summers, cold winters, and year-round precipitation. Found in the northern United States and southern Canada. This climate zone includes some of the world's most productive agricultural regions, particularly the Corn Belt and Great Lakes region.",
+    "typicalWeather": "Hot, humid summers (25-35°C) with thunderstorms, including severe weather and occasional tornadoes. Cold, snowy winters (-5 to -20°C). Warm, pleasant springs and spectacular autumn foliage. Annual precipitation 700-1100mm, fairly evenly distributed with a summer maximum.",
+    "geojson": "dfa.geojson"
+  },
+  {
+    "code": "dfb",
+    "name": "Warm-Summer Humid Continental",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; coldest month <0°C",
+    "precipitationPattern": "Year-round precipitation; reliable snowfall in winter",
+    "vegetation": "Mixed deciduous-conifer forest, birch woodland, productive farmland",
+    "exampleCities": [
+      "Moscow",
+      "Helsinki",
+      "Ottawa",
+      "Stockholm",
+      "Warsaw"
+    ],
+    "description": "Warm-summer humid continental climate (Dfb) is widespread across the northern mid-latitudes. Summers are warm but not extreme, and winters are reliably cold with significant snowfall. Found across Scandinavia, Eastern Europe, Russia, and central Canada. Four distinct seasons are well-defined.",
+    "typicalWeather": "Warm summers (18-22°C) with moderate rainfall. Cold winters (-5 to -15°C) with regular snowfall and persistent snow cover. Spring thaw brings mud season. Long autumn with gradual cooling. Annual precipitation 500-900mm.",
+    "geojson": "dfb.geojson"
+  },
+  {
+    "code": "dfc",
+    "name": "Cold-Summer Subarctic",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; 1-3 months >10°C; coldest <0°C",
+    "precipitationPattern": "Year-round low precipitation; snow dominant in winter",
+    "vegetation": "Boreal forest (taiga), spruce, pine, and fir; mosses and lichens",
+    "exampleCities": [
+      "Anchorage",
+      "Murmansk",
+      "Yellowknife",
+      "Whitehorse"
+    ],
+    "description": "Subarctic climate (Dfc) is the world's most extensive climate type by area, stretching across the vast boreal forests of Canada, Scandinavia, and Siberia. The taiga biome under this climate represents the largest terrestrial biome on Earth. Winters are long and cold, summers brief but with very long daylight hours.",
+    "typicalWeather": "Long, cold winters (-15 to -35°C) lasting 5-7 months. Brief, cool summers (12-18°C) with 18-24 hours of daylight. Moderate precipitation (300-600mm) with much falling as snow. Lakes and rivers freeze for months. The aurora borealis is frequently visible.",
+    "geojson": "dfc.geojson"
+  },
+  {
+    "code": "dfd",
+    "name": "Extremely Cold Subarctic",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; coldest month <-38°C",
+    "precipitationPattern": "Year-round low precipitation; extreme winter dryness",
+    "vegetation": "Sparse taiga giving way to tundra, larch dominant tree",
+    "exampleCities": [
+      "Yakutsk (border Dwd/Dfd)",
+      "Churapcha (Russia)"
+    ],
+    "description": "Extremely cold subarctic climate (Dfd) is found in central Siberia where continental extremes produce the widest annual temperature ranges on Earth — up to 100°C difference between winter minimum and summer maximum. Year-round precipitation (unlike the dry-winter Dwd) distinguishes this type.",
+    "typicalWeather": "Brutally cold winters (-40 to -55°C) and cool, short summers (12-20°C). Despite extreme cold, summers can be surprisingly warm due to long daylight hours. Snow cover persists 7-8 months. Permafrost is continuous.",
+    "geojson": "dfd.geojson"
+  },
+  {
+    "code": "dsa",
+    "name": "Hot-Summer Continental (Dry Summer)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month ≥22°C; coldest month <0°C",
+    "precipitationPattern": "Dry hot summers, precipitation in other seasons",
+    "vegetation": "Dry steppe transitioning to mountain forest, drought-adapted shrubs",
+    "exampleCities": [
+      "Erzurum (Turkey)",
+      "Hakkâri (Turkey)",
+      "Saqqez (Iran)"
+    ],
+    "description": "Hot-summer Mediterranean-influenced continental climate (Dsa) is rare, found mainly in the highlands of eastern Turkey and Iran. It combines the dry-summer pattern of Mediterranean climates with the cold winters of continental climates, creating a unique environment.",
+    "typicalWeather": "Hot, dry summers (25-35°C) and bitterly cold, snowy winters (-10 to -20°C). The temperature range between seasons is extreme. Spring snowmelt can cause flooding. Annual precipitation 400-600mm, mostly as winter/spring snow.",
+    "geojson": "dsa.geojson"
+  },
+  {
+    "code": "dsb",
+    "name": "Warm-Summer Continental (Dry Summer)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; coldest month <0°C",
+    "precipitationPattern": "Dry summers, wet winters with heavy snowfall",
+    "vegetation": "Mountain conifer forest, alpine meadow, mixed woodland",
+    "exampleCities": [
+      "South Lake Tahoe",
+      "Flagstaff",
+      "Sivas (Turkey)"
+    ],
+    "description": "Warm-summer continental climate with dry summers (Dsb) occurs in mountainous regions where altitude creates continental cold winters while maintaining dry summer patterns. Found in the western US mountains and Turkish/Iranian highlands.",
+    "typicalWeather": "Warm but not hot summers (15-22°C) and cold, snowy winters (-5 to -15°C). Summer days are sunny with cool nights. Heavy winter snowpack is critical for water supply. Clear autumn days with rapid cooling.",
+    "geojson": "dsb.geojson"
+  },
+  {
+    "code": "dsc",
+    "name": "Cold-Summer Continental (Dry Summer)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; 1-3 months >10°C; coldest <0°C",
+    "precipitationPattern": "Dry summers, snow-dominated precipitation",
+    "vegetation": "Subalpine forest, krummholz, alpine tundra at treeline",
+    "exampleCities": [
+      "Homer (Alaska)",
+      "Bodie (California)"
+    ],
+    "description": "Cold-summer continental climate with dry summers (Dsc) is extremely rare, found only in isolated mountain locations. The very short warm season and dry summer combine to create challenging conditions for vegetation.",
+    "typicalWeather": "Cool short summers (barely reaching 10°C) and long, cold winters. Snow covers the ground for many months. The brief summer may have occasional warm spells but nights are always cool.",
+    "geojson": "dsc.geojson"
+  },
+  {
+    "code": "dsd",
+    "name": "Extremely Cold Continental (Dry Summer)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; coldest month <-38°C",
+    "precipitationPattern": "Dry summers, minimal precipitation year-round",
+    "vegetation": "Sparse taiga, permafrost-adapted species",
+    "exampleCities": [
+      "Theoretical only - no verified stations"
+    ],
+    "description": "Extremely cold continental climate with dry summers (Dsd) is the rarest of all Köppen climate types. No reliably verified weather station consistently records this type, though some locations in extreme northeastern Siberia may occasionally qualify. It represents the theoretical extreme of continental dry-summer climates.",
+    "typicalWeather": "Extreme cold dominates. Winters are among the coldest on Earth (below -40°C). Summers are cool and brief. Precipitation is minimal due to persistent high-pressure systems in winter and the short warm season.",
+    "geojson": "dsd.geojson"
+  },
+  {
+    "code": "dwa",
+    "name": "Hot-Summer Continental (Dry Winter)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month ≥22°C; coldest month <0°C",
+    "precipitationPattern": "Dry cold winters, wet hot summers; monsoon influence",
+    "vegetation": "Temperate deciduous forest, mixed woodland, agricultural land",
+    "exampleCities": [
+      "Beijing",
+      "Seoul",
+      "Pyongyang",
+      "Shenyang"
+    ],
+    "description": "Hot-summer monsoon-influenced continental climate (Dwa) features hot, wet summers and cold, dry winters. The East Asian monsoon drives the extreme seasonality. Found in northern China, Korea, and parts of the Russian Far East. This climate supports intensive agriculture during the warm, rainy season.",
+    "typicalWeather": "Hot, humid summers (25-35°C) with monsoon rains and thunderstorms. Bitter, dry winters (-10 to -20°C) with occasional Siberian cold waves. Spring brings warming temperatures and dust storms. Autumn is dry and pleasant. Annual precipitation 500-1000mm, mostly June-September.",
+    "geojson": "dwa.geojson"
+  },
+  {
+    "code": "dwb",
+    "name": "Warm-Summer Continental (Dry Winter)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; coldest month <0°C",
+    "precipitationPattern": "Dry winters, moderate summer rainfall",
+    "vegetation": "Mixed boreal and deciduous forest, birch and larch stands",
+    "exampleCities": [
+      "Vladivostok",
+      "Chita (Russia)",
+      "Hailar (China)"
+    ],
+    "description": "Warm-summer continental climate with dry winters (Dwb) is found in eastern Siberia and Manchuria where the Siberian High creates very dry, cold winters while summer monsoon influence brings warmer, wetter conditions. The continental temperature range is extreme.",
+    "typicalWeather": "Warm but brief summers (15-22°C) with moderate rainfall. Extremely cold, dry winters (-15 to -30°C) with persistent snow cover. The transition seasons are short. Annual precipitation 400-700mm, mainly in summer.",
+    "geojson": "dwb.geojson"
+  },
+  {
+    "code": "dwc",
+    "name": "Cold-Summer Continental (Dry Winter)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; 1-3 months >10°C; coldest <0°C",
+    "precipitationPattern": "Dry winters, light summer precipitation",
+    "vegetation": "Boreal taiga, larch forest, stunted conifers",
+    "exampleCities": [
+      "Yakutsk",
+      "Mohe (China)",
+      "Irkutsk"
+    ],
+    "description": "Cold-summer continental climate with dry winters (Dwc) dominates vast areas of Siberia. The Siberian High pressure system creates extremely dry, bitterly cold winters. Summers are short and cool. Permafrost underlies much of this climate zone, profoundly affecting hydrology and vegetation.",
+    "typicalWeather": "Short, cool summers (10-18°C) with the majority of annual precipitation. Extremely harsh winters (-30 to -50°C) with very little snow due to extreme dryness. The soil remains frozen (permafrost) year-round at depth. Temperature inversions create fog in valleys.",
+    "geojson": "dwc.geojson"
+  },
+  {
+    "code": "dwd",
+    "name": "Extremely Cold Continental (Dry Winter)",
+    "group": "D - Continental",
+    "temperatureRange": "Warmest month <22°C; coldest month <-38°C",
+    "precipitationPattern": "Very dry winters, light summer precipitation",
+    "vegetation": "Sparse larch taiga, lichen, permafrost terrain",
+    "exampleCities": [
+      "Verkhoyansk",
+      "Oymyakon"
+    ],
+    "description": "Extremely cold continental climate with dry winters (Dwd) contains the coldest inhabited places on Earth. Found in the interior of northeastern Siberia, where extreme continentality and persistent winter high pressure create winter temperatures below -60°C. The Pole of Cold (Oymyakon/Verkhoyansk) lies within this zone.",
+    "typicalWeather": "Extreme cold defines this climate. Winter temperatures routinely drop below -40°C and can reach -65°C. Summers are surprisingly warm (10-20°C) but very brief. Annual precipitation under 250mm, mostly in summer. Permafrost is continuous and hundreds of meters deep.",
+    "geojson": "dwd.geojson"
+  },
+  {
+    "code": "ef",
+    "name": "Ice Cap",
+    "group": "E - Polar",
+    "temperatureRange": "All months <0°C; can reach -80°C in interior Antarctica",
+    "precipitationPattern": "Extremely low; <100mm/year, all as snow/ice",
+    "vegetation": "None; permanent ice and snow cover",
+    "exampleCities": [
+      "Vostok Station (Antarctica)",
+      "Summit Camp (Greenland)"
+    ],
+    "description": "Ice cap climate (EF) is the coldest climate on Earth, where temperatures never rise above freezing. Found only on the ice sheets of Antarctica and interior Greenland. These regions hold over 99% of Earth's freshwater ice and play a critical role in global climate regulation through albedo effects and ocean circulation patterns.",
+    "typicalWeather": "Perpetual cold with temperatures always below 0°C. Interior Antarctica holds the record low of -89.2°C. Katabatic winds can reach hurricane force. Very low humidity and virtually no liquid water. The air is so dry that snowfall amounts are tiny — Antarctica is technically a desert.",
+    "geojson": "ef.geojson"
+  },
+  {
+    "code": "et",
+    "name": "Tundra",
+    "group": "E - Polar",
+    "temperatureRange": "Warmest month 0-10°C; well below 0°C most of year",
+    "precipitationPattern": "Very low; <250mm/year, mostly as snow",
+    "vegetation": "Low shrubs, sedges, mosses, lichens; no trees",
+    "exampleCities": [
+      "Barrow (Utqiaġvik)",
+      "Longyearbyen",
+      "Nuuk"
+    ],
+    "description": "Tundra climate (ET) is defined by the absence of any month averaging above 10°C, the threshold for tree growth. Found across the Arctic coasts of North America, Europe, and Asia, as well as some sub-Antarctic islands. The landscape is treeless, dominated by permafrost with a thin active layer that thaws briefly in summer.",
+    "typicalWeather": "Long, harsh winters (-20 to -40°C) with polar darkness lasting weeks to months. Brief, cool summers (2-8°C) with continuous daylight. Strong, persistent winds. Low precipitation but snow lingers for 8-10 months. Blizzards and whiteouts in winter.",
+    "geojson": "et.geojson"
+  }
+]

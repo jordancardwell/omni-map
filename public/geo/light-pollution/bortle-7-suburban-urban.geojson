@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-7-suburban-urban",
+        "name": "Suburban/Urban Transition",
+        "region": "Medium city centers"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.5,
+              40.4
+            ],
+            [
+              -73.5,
+              40.4
+            ],
+            [
+              -73.5,
+              41.2
+            ],
+            [
+              -74.5,
+              41.2
+            ],
+            [
+              -74.5,
+              40.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-7-suburban-urban",
+        "name": "Suburban/Urban Transition",
+        "region": "Dense suburbs of major metros"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8,
+              51.2
+            ],
+            [
+              0.4,
+              51.2
+            ],
+            [
+              0.4,
+              51.8
+            ],
+            [
+              -0.8,
+              51.8
+            ],
+            [
+              -0.8,
+              51.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-7-suburban-urban",
+        "name": "Suburban/Urban Transition",
+        "region": "Suburban Seoul"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.5,
+              37.2
+            ],
+            [
+              127.5,
+              37.2
+            ],
+            [
+              127.5,
+              37.8
+            ],
+            [
+              126.5,
+              37.8
+            ],
+            [
+              126.5,
+              37.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-7-suburban-urban",
+        "name": "Suburban/Urban Transition",
+        "region": "Birmingham, UK suburbs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.5,
+              19.1
+            ],
+            [
+              -98.8,
+              19.1
+            ],
+            [
+              -98.8,
+              19.7
+            ],
+            [
+              -99.5,
+              19.7
+            ],
+            [
+              -99.5,
+              19.1
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

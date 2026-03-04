@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cv","name":"Cabo Verde","country":"CV","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-25.4,14.8],[-25.4,17.2],[-22.7,17.2],[-22.7,14.8],[-25.4,14.8]]]}}]}

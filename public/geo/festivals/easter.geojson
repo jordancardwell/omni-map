@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "code": "easter",
+        "name": "Easter",
+        "festivalType": "Religious",
+        "dateOrSeason": "March–April (varies)",
+        "location": "Vatican City, Italy"
+      }
+    }
+  ]
+}

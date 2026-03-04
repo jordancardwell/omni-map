@@ -1,0 +1,14 @@
+{
+  "code": "st-patricks-day",
+  "name": "St. Patrick's Day",
+  "festivalType": "National",
+  "dateOrSeason": "March 17",
+  "origin": "Irish tradition (global)",
+  "estimatedAttendance": "Millions worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Parades; wearing green; shamrock displays; Irish music and dance; Greening landmarks (rivers, buildings); Guinness drinking.",
+  "historicalBackground": "St. Patrick's Day honors Ireland's patron saint, who brought Christianity to Ireland in the 5th century. It became a global celebration through the Irish diaspora.",
+  "description": "Ireland's global green celebration, honoring the patron saint with parades, music, and the worldwide greening of landmarks.",
+  "location": "Dublin, Ireland",
+  "geojson": "st-patricks-day.geojson"
+}

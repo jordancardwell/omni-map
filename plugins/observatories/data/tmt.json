@@ -1,0 +1,20 @@
+{
+  "code": "tmt",
+  "name": "Thirty Meter Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Planned",
+  "elevation": 4050,
+  "aperture": "30 m",
+  "telescopes": [
+    "TMT"
+  ],
+  "keyDiscoveries": [
+    "Expected: Direct exoplanet imaging",
+    "First galaxies",
+    "Fundamental physics"
+  ],
+  "location": "Thirty Meter Telescope, United States",
+  "description": "An international observatory planned for Mauna Kea (with La Palma as alternative). Will be among the largest optical telescopes ever built.",
+  "geojson": "tmt.geojson"
+}

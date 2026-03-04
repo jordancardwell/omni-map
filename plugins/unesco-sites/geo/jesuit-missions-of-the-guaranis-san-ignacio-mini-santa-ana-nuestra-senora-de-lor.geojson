@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.26583333,
+          -28.54333333
+        ]
+      },
+      "properties": {
+        "code": "jesuit-missions-of-the-guaranis-san-ignacio-mini-santa-ana-nuestra-senora-de-lor",
+        "name": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
+        "type": "Cultural",
+        "country": "Brazil, Argentina",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

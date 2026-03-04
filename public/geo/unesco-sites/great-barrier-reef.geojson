@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7,
+          -18.28611111
+        ]
+      },
+      "properties": {
+        "code": "great-barrier-reef",
+        "name": "Great Barrier Reef",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

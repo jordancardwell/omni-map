@@ -1,0 +1,16 @@
+{
+  "code": "apollo-south",
+  "name": "Apollo South",
+  "capacityTbps": 3.2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 5900,
+  "yearLaid": 2002,
+  "rfsDate": "2003-04",
+  "owner": "Apollo Submarine Cable System",
+  "landingPoints": [
+    "Lannion, France",
+    "Shirley, USA"
+  ],
+  "description": "Southern route of the Apollo system connecting France to North America.",
+  "geojson": "apollo-south.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3072222222,
+          45.1183333333
+        ]
+      },
+      "properties": {
+        "code": "landscape-of-grand-pre",
+        "name": "Landscape of Grand Pré",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

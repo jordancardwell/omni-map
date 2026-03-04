@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5116666667,
+          55.2408333333
+        ]
+      },
+      "properties": {
+        "code": "giant-s-causeway-and-causeway-coast",
+        "name": "Giant's Causeway and Causeway Coast",
+        "type": "Natural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

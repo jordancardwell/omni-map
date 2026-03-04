@@ -1,0 +1,16 @@
+{
+  "code": "archaeological-areas-of-pompei-herculaneum-and-torre-annunziata",
+  "name": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "When Vesuvius erupted on 24 August AD 79, it engulfed the two flourishing Roman towns of Pompei and Herculaneum, as well as the many wealthy villas in the area. These have been progressively excavated and made accessible to the public since the mid-18th century. The vast expanse of the commercial town of Pompei contrasts with the smaller but better-preserved remains of the holiday resort of Herculaneum, while the superb wall paintings of the Villa Oplontis at Torre Annunziata give a vivid impression of the opulent lifestyle enjoyed by the wealthier citizens of the Early Roman Empire.",
+  "danger": false,
+  "geojson": "archaeological-areas-of-pompei-herculaneum-and-torre-annunziata.geojson"
+}

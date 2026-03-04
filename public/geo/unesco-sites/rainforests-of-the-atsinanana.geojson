@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7025,
+          -14.4597222222
+        ]
+      },
+      "properties": {
+        "code": "rainforests-of-the-atsinanana",
+        "name": "Rainforests of the Atsinanana",
+        "type": "Natural",
+        "country": "Madagascar",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

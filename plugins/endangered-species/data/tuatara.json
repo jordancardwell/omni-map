@@ -1,0 +1,18 @@
+{
+  "code": "tuatara",
+  "name": "Tuatara",
+  "scientificName": "Sphenodon punctatus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~55,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Rocky offshore islands",
+  "threats": [
+    "Introduced predators",
+    "Climate change",
+    "Low reproductive rate"
+  ],
+  "conservationEfforts": "Successfully reintroduced to predator-free mainland sanctuaries in New Zealand. Rat eradication on offshore islands. Captive breeding at several facilities.",
+  "description": "The sole survivor of an ancient order of reptiles that thrived alongside dinosaurs. They have a third eye on top of their head, grow slowly, and can live over 100 years.",
+  "geojson": "tuatara.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "vjetrenica-cave-ravno",
+  "name": "Vjetrenica Cave, Ravno",
+  "type": "Natural",
+  "country": "Bosnia and Herzegovina",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the Dinaric mountain range, the property stands out with its remarkable cave biodiversity and endemicity. Known since antiquity, the well-conserved representation of karst topography is one of the world’s most important biodiversity hotspots for cave-dwelling fauna, notably subterranean aquatic fauna. It is home to a number of globally threatened vertebrate species, and the only subterranean tubeworm in the world, as well as a diversity of plant species endemic to the Balkans. Additionally, several of the species found in Vjetrenica Cave are tertiary and pre-tertiary relict species, meaning that many of them can be considered living fossils whose closest relatives went extinct a long time ago.",
+  "danger": false,
+  "geojson": "vjetrenica-cave-ravno.geojson"
+}

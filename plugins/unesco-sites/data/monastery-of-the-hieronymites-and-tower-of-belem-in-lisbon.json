@@ -1,0 +1,14 @@
+{
+  "code": "monastery-of-the-hieronymites-and-tower-of-belem-in-lisbon",
+  "name": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Standing at the entrance to Lisbon harbour, the Monastery of the Hieronymites – construction of which began in 1502 – exemplifies Portuguese art at its best. The nearby Tower of Belém, built to commemorate Vasco da Gama's expedition, is a reminder of the great maritime discoveries that laid the foundations of the modern world.",
+  "danger": false,
+  "geojson": "monastery-of-the-hieronymites-and-tower-of-belem-in-lisbon.geojson"
+}

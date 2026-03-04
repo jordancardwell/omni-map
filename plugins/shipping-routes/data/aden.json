@@ -1,0 +1,15 @@
+{
+  "code": "aden",
+  "name": "Port of Aden",
+  "country": "Yemen",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Red Sea Route",
+    "Horn of Africa & Gulf of Aden"
+  ],
+  "description": "Port of Aden in Yemen. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+  "geojson": "aden.geojson"
+}

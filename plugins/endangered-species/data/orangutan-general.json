@@ -1,0 +1,19 @@
+{
+  "code": "orangutan-general",
+  "name": "Bornean Pygmy Elephant",
+  "scientificName": "Elephas maximus borneensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland rainforest",
+  "threats": [
+    "Habitat loss",
+    "Plantation expansion",
+    "Human-elephant conflict",
+    "Fragmentation"
+  ],
+  "conservationEfforts": "Kinabatangan Corridor of Life restoration project. Wildlife rescue units in Sabah relocate elephants from plantations. GPS collaring tracks elephant movements.",
+  "description": "The smallest elephant subspecies, found only in northeastern Borneo. They have larger ears, rounder faces, and longer tails than other Asian elephants. Their evolutionary origin remains debated.",
+  "geojson": "orangutan-general.geojson"
+}

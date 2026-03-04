@@ -1,0 +1,21 @@
+{
+  "code": "hess",
+  "name": "H.E.S.S.",
+  "country": "Namibia",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 1800,
+  "aperture": "4 × 12 m + 1 × 28 m",
+  "telescopes": [
+    "H.E.S.S. I",
+    "H.E.S.S. II"
+  ],
+  "keyDiscoveries": [
+    "Galactic Center gamma-ray source",
+    "Gamma-ray sources catalog",
+    "Cosmic ray PeVatrons"
+  ],
+  "location": "H.E.S.S., Namibia",
+  "description": "High Energy Stereoscopic System in the Namibian Khomas Highland. Five Cherenkov telescopes mapping the very-high-energy gamma-ray sky of the Southern Hemisphere.",
+  "geojson": "hess.geojson"
+}

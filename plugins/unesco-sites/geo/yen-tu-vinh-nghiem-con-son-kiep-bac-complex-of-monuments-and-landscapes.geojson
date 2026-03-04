@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5353972222,
+          21.1192555556
+        ]
+      },
+      "properties": {
+        "code": "yen-tu-vinh-nghiem-con-son-kiep-bac-complex-of-monuments-and-landscapes",
+        "name": "Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes",
+        "type": "Cultural",
+        "country": "Viet Nam",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

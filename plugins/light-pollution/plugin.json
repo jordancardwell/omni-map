@@ -1,0 +1,52 @@
+{
+  "id": "light-pollution",
+  "name": "Light Pollution",
+  "description": "Global light pollution levels based on the New World Atlas of Artificial Night Sky Brightness (Falchi et al.) — zones colored by Bortle scale class from pristine dark skies to urban glow, with International Dark Sky Places shown as point markers",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "moon",
+  "defaultColor": "#1E3A5F",
+  "categories": ["environment", "science", "astronomy", "urbanization"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Climate & Environment",
+  "thumbnail": "#1E3A5F",
+  "schema": "LightPollutionMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "bortleClass", "description", "visibleObjects", "exampleLocations"],
+    "groupBy": "bortleGroup",
+    "titleField": "name",
+    "subtitleField": "bortleClass",
+    "badgeField": "bortleClass",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "bortleClass"
+  },
+  "detailFields": [
+    { "key": "bortleClass", "label": "Bortle Class", "type": "status-badge", "statusColors": {
+      "Class 1 — Excellent Dark Sky": "#0A0A2E",
+      "Class 2 — Typical Dark Sky": "#0D1B3E",
+      "Class 3 — Rural Sky": "#1A3A5C",
+      "Class 4 — Rural/Suburban Transition": "#2D5A7B",
+      "Class 5 — Suburban Sky": "#4A7A3A",
+      "Class 6 — Bright Suburban Sky": "#8B8B00",
+      "Class 7 — Suburban/Urban Transition": "#CC8800",
+      "Class 8 — City Sky": "#FF6600",
+      "Class 9 — Inner-City Sky": "#FFCC00",
+      "International Dark Sky Place": "#3B82F6"
+    }},
+    { "key": "visibleObjects", "label": "Visible to Naked Eye", "type": "tags" },
+    { "key": "skyBrightness", "label": "Sky Brightness (mag/arcsec²)", "type": "text" },
+    { "key": "limitingMagnitude", "label": "Limiting Magnitude", "type": "text" },
+    { "key": "milkyWayVisibility", "label": "Milky Way Visibility", "type": "text" },
+    { "key": "exampleLocations", "label": "Example Locations", "type": "tags" },
+    { "key": "nearestDarkSkyReserves", "label": "Nearest Dark Sky Reserves", "type": "tags" },
+    { "key": "designation", "label": "IDA Designation", "type": "text" },
+    { "key": "designationYear", "label": "Year Designated", "type": "text" },
+    { "key": "areaSqKm", "label": "Area (km²)", "type": "formatted-number" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

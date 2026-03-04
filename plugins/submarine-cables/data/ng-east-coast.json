@@ -1,0 +1,16 @@
+{
+  "code": "ng-east-coast",
+  "name": "NG East Coast",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1714,
+  "yearLaid": 2022,
+  "rfsDate": "2019-06",
+  "owner": "Glo",
+  "landingPoints": [
+    "Port Harcourt, Nigeria",
+    "Calabar, Nigeria"
+  ],
+  "description": "NG East Coast connecting Port Harcourt to Calabar along the West African coast.",
+  "geojson": "ng-east-coast.geojson"
+}

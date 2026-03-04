@@ -1,0 +1,15 @@
+{
+  "code": "crac-des-chevaliers-and-qalat-salah-el-din",
+  "name": "Crac des Chevaliers and Qal’at Salah El-Din",
+  "type": "Cultural",
+  "country": "Syrian Arab Republic",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "These two castles represent the most significant examples illustrating the exchange of influences and documenting the evolution of fortified architecture in the Near East during the time of the Crusades (11th - 13th centuries). The Crac des Chevaliers was built by the Hospitaller Order of Saint John of Jerusalem from 1142 to 1271. With further construction by the Mamluks in the late 13th century, it ranks among the best-preserved examples of the Crusader castles. The Qal’at Salah El-Din (Fortress of Saladin), even though partly in ruins, represents an outstanding example of this type of fortification, both in terms of the quality of construction and the survival of historical stratigraphy. It retains features from its Byzantine beginnings in the 10th century, the Frankish transformations in the late 12th century and fortifications added by the Ayyubid dynasty (late 12th to mid-13th century).",
+  "danger": true,
+  "geojson": "crac-des-chevaliers-and-qalat-salah-el-din.geojson"
+}

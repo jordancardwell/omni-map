@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6611944444,
+          28.0443888889
+        ]
+      },
+      "properties": {
+        "code": "risco-caido-and-the-sacred-mountains-of-gran-canaria-cultural-landscape",
+        "name": "Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

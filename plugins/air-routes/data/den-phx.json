@@ -1,0 +1,19 @@
+{
+  "code": "den-phx",
+  "name": "Denver — Phoenix",
+  "airports": [
+    "DEN",
+    "PHX"
+  ],
+  "distanceKm": 968,
+  "weeklyFlights": 80,
+  "airlines": [
+    "United",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–PHX route between Denver and Phoenix. Distance: 968 km. ~80 weekly flights operated by United, Southwest, Spirit.",
+  "geojson": "den-phx.geojson"
+}

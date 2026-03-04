@@ -1,0 +1,14 @@
+{
+  "code": "garrison-border-town-of-elvas-and-its-fortifications",
+  "name": "Garrison Border Town of Elvas and its Fortifications",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The site, extensively fortified from the 17th to 19th centuries, represents the largest bulwarked dry-ditch system in the world. Within its walls, the town contains barracks and other military buildings as well as churches and monasteries. While Elvas contains remains dating back to the 10th century ad, its fortification began when Portugal regained independence in 1640. The fortifications designed by Dutch Jesuit padre Cosmander represent the best surviving example of the Dutch school of fortifications anywhere. The site also contains the Amoreira aqueduct, built to enable the stronghold to withstand lengthy sieges.",
+  "danger": false,
+  "geojson": "garrison-border-town-of-elvas-and-its-fortifications.geojson"
+}

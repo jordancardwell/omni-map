@@ -1,0 +1,21 @@
+{
+  "code": "mount-pagan",
+  "name": "Mount Pagan",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 570,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "United States",
+  "region": "Mariana Islands",
+  "location": "Mariana Islands, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "The island was evacuated in 1981 due to a major eruption and has remained uninhabited since.",
+  "description": "Pagan Island in the Northern Mariana Islands was evacuated in 1981 after a major eruption. The island remains uninhabited due to ongoing volcanic activity.",
+  "geojson": "mount-pagan.geojson"
+}

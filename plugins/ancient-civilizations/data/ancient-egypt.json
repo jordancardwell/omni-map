@@ -1,0 +1,12 @@
+{
+  "code": "ancient-egypt",
+  "name": "Ancient Egypt",
+  "period": "c. 3100–30 BCE",
+  "region": "Africa",
+  "type": "Civilization",
+  "writingSystem": "Hieroglyphics",
+  "majorAchievements": ["Pyramids of Giza", "Mummification", "Papyrus writing", "Advanced medicine", "Monumental architecture", "Calendar system"],
+  "keyCities": ["Memphis", "Thebes", "Alexandria", "Heliopolis", "Amarna"],
+  "description": "Ancient Egypt flourished along the Nile River for over three millennia, producing one of the most iconic civilizations in human history. Egyptian achievements in architecture, medicine, writing, and governance influenced cultures across the Mediterranean and beyond. The civilization's monuments, including the Great Pyramids and the Sphinx, remain among the most recognizable structures ever built.",
+  "geojson": "ancient-egypt.geojson"
+}

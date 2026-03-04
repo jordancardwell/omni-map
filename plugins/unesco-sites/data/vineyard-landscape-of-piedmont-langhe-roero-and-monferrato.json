@@ -1,0 +1,15 @@
+{
+  "code": "vineyard-landscape-of-piedmont-langhe-roero-and-monferrato",
+  "name": "Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "This landscape covers five distinct wine-growing areas with outstanding landscapes and the Castle of Cavour, an emblematic name both in the development of vineyards and in Italian history. It is located in the southern part of Piedmont, between the Po River and the Ligurian Apennines, and encompasses the whole range of technical and economic processes relating to the winegrowing and winemaking that has characterized the region for centuries. Vine pollen has been found in the area dating from the 5th century BC, when Piedmont was a place of contact and trade between the Etruscans and the Celts; Etruscan and Celtic words, particularly wine-related ones, are still found in the local dialect. During the Roman Empire, Pliny the Elder mentions the Piedmont region as being one of the most favourable for growing vines in ancient Italy; Strabo mentions its barrels.",
+  "danger": false,
+  "geojson": "vineyard-landscape-of-piedmont-langhe-roero-and-monferrato.geojson"
+}

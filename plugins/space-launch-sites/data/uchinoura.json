@@ -1,0 +1,17 @@
+{
+  "code": "uchinoura",
+  "name": "Uchinoura Space Center",
+  "country": "Japan",
+  "operator": "JAXA",
+  "coordinates": "31.2510°N, 131.0790°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Ohsumi (Japan's first satellite)",
+    "Epsilon rocket launches",
+    "SPRINT-A"
+  ],
+  "orbitalInclinationRange": "31°–98° (primarily SSO)",
+  "location": "Uchinoura Space Center, Japan",
+  "description": "Japan's original space launch site, formerly Kagoshima Space Center. Primarily used for solid-fuel Epsilon rockets and sounding rockets. Historic site of Japan's first satellite launch in 1970.",
+  "geojson": "uchinoura.geojson"
+}

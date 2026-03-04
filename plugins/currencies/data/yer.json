@@ -1,0 +1,16 @@
+{
+  "code": "yer",
+  "name": "Yemeni Rial",
+  "isoCode": "YER",
+  "symbol": "﷼",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Yemen",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Yemen"
+  ],
+  "countryCount": 1,
+  "description": "The Yemeni Rial is the currency of Yemen. The ongoing conflict has severely impacted the currency's value and stability.",
+  "historicalNotes": "North and South Yemen each had their own currencies until unification in 1990, when the rial became the unified currency.",
+  "geojson": "yer.geojson"
+}

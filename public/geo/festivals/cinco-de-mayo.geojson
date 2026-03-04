@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2063,
+          19.0414
+        ]
+      },
+      "properties": {
+        "code": "cinco-de-mayo",
+        "name": "Cinco de Mayo",
+        "festivalType": "National",
+        "dateOrSeason": "May 5",
+        "location": "Puebla, Mexico"
+      }
+    }
+  ]
+}

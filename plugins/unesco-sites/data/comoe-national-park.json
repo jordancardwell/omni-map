@@ -1,0 +1,15 @@
+{
+  "code": "comoe-national-park",
+  "name": "Comoé National Park",
+  "type": "Natural",
+  "country": "Côte d'Ivoire",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "One of the largest protected areas in West Africa, this park is characterized by its great plant diversity. Due to the presence of the Comoé river, it contains plants which are normally only found much farther south, such as shrub savannahs and patches of thick rainforest.",
+  "danger": false,
+  "geojson": "comoe-national-park.geojson"
+}

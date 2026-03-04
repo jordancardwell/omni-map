@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.0636,37.415]},"properties":{"code":"nasa-ames-kepler","name":"NASA Ames Research Center (Kepler/TESS)","observatoryType":"Space-based","status":"Operational","country":"United States"}}]}

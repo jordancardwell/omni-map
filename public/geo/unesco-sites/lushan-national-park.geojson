@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8666667,
+          29.43333333
+        ]
+      },
+      "properties": {
+        "code": "lushan-national-park",
+        "name": "Lushan National Park",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

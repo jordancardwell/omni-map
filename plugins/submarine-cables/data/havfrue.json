@@ -1,0 +1,18 @@
+{
+  "code": "havfrue",
+  "name": "Havfrue",
+  "capacityTbps": 108,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 7800,
+  "yearLaid": 2019,
+  "rfsDate": "2020-12",
+  "owner": "Google, Aqua Comms, Bulk Infrastructure",
+  "landingPoints": [
+    "Wall Township, USA",
+    "Blaabjerg, Denmark",
+    "Kristiansand, Norway",
+    "Dublin, Ireland"
+  ],
+  "description": "Transatlantic cable linking the US to Scandinavia and Ireland.",
+  "geojson": "havfrue.geojson"
+}

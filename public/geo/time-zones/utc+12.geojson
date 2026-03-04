@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc+12","name":"New Zealand Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[172.5,-60],[180,-60],[180,84],[172.5,84],[172.5,-60]]]}}]}

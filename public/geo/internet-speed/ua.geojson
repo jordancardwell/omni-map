@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ua","name":"Ukraine","country":"UA","speedTier":"Moderate (30–75 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[22.1,44.4],[22.1,52.4],[40.2,52.4],[40.2,44.4],[22.1,44.4]]]}}]}

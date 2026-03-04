@@ -1,0 +1,17 @@
+{
+  "code": "sg-scs-singapore-south-china-sea",
+  "name": "SG-SCS (Singapore-South China Sea)",
+  "capacityTbps": 30,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3200,
+  "yearLaid": 2020,
+  "rfsDate": "2021-12",
+  "owner": "Globe Telecom, Singtel",
+  "landingPoints": [
+    "Singapore",
+    "Kota Kinabalu, Malaysia",
+    "Hong Kong, China"
+  ],
+  "description": "Singapore to South China Sea cable.",
+  "geojson": "sg-scs-singapore-south-china-sea.geojson"
+}

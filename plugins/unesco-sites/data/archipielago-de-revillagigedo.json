@@ -1,0 +1,16 @@
+{
+  "code": "archipielago-de-revillagigedo",
+  "name": "Archipiélago de Revillagigedo",
+  "type": "Natural",
+  "country": "Mexico",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Located in the eastern Pacific Ocean, this archipelago is made up of four remote islands and their surrounding waters: San Benedicto, Socorro, Roca Partida and Clarión. This archipelago is part of a submerged mountain range, with the four islands representing the peaks of volcanoes emerging above sea level. The islands provide critical habitat for a range of wildlife and are of particular importance for seabirds. The surrounding waters have a remarkable abundance of large pelagic species, such as manta rays, whales, dolphins and sharks.",
+  "danger": false,
+  "geojson": "archipielago-de-revillagigedo.geojson"
+}

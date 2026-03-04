@@ -1,0 +1,15 @@
+{
+  "code": "cahokia-mounds-state-historic-site",
+  "name": "Cahokia Mounds State Historic Site",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Cahokia Mounds, some 13 km north-east of St Louis, Missouri, is the largest pre-Columbian settlement north of Mexico. It was occupied primarily during the Mississippian period (800–1400), when it covered nearly 1,600 ha and included some 120 mounds. It is a striking example of a complex chiefdom society, with many satellite mound centres and numerous outlying hamlets and villages. This agricultural society may have had a population of 10–20,000 at its peak between 1050 and 1150. Primary features at the site include Monks Mound, the largest prehistoric earthwork in the Americas, covering over 5 ha and standing 30 m high.",
+  "danger": false,
+  "geojson": "cahokia-mounds-state-historic-site.geojson"
+}

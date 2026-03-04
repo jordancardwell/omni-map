@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.32333,
+          36.85278
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-carthage",
+        "name": "Archaeological Site of Carthage",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

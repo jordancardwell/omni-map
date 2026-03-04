@@ -1,0 +1,16 @@
+{
+  "code": "ec-co-cable",
+  "name": "EC-CO Cable",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2973,
+  "yearLaid": 2015,
+  "rfsDate": "2016-06",
+  "owner": "CenturyLink",
+  "landingPoints": [
+    "Guayaquil, Ecuador",
+    "Cartagena, Colombia"
+  ],
+  "description": "EC-CO Cable connecting Guayaquil to Cartagena in South America.",
+  "geojson": "ec-co-cable.geojson"
+}

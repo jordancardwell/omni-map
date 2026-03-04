@@ -1,0 +1,20 @@
+{
+  "code": "sma",
+  "name": "Submillimeter Array",
+  "country": "United States",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 4080,
+  "aperture": "8 × 6 m dishes",
+  "telescopes": [
+    "SMA"
+  ],
+  "keyDiscoveries": [
+    "Protoplanetary disks",
+    "Star-forming regions",
+    "Event Horizon Telescope contribution"
+  ],
+  "location": "Submillimeter Array, United States",
+  "description": "Joint venture of the Smithsonian and Academia Sinica on Mauna Kea. Eight 6m dishes provide high-resolution submillimeter observations.",
+  "geojson": "sma.geojson"
+}

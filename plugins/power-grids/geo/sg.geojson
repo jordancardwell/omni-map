@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sg","name":"Singapore","country":"SG","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[103.6,1.2],[103.6,1.5],[104,1.5],[104,1.2],[103.6,1.2]]]}}]}

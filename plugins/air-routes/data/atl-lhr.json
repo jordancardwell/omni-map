@@ -1,0 +1,19 @@
+{
+  "code": "atl-lhr",
+  "name": "Atlanta — London",
+  "airports": [
+    "ATL",
+    "LHR"
+  ],
+  "distanceKm": 6761,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Delta",
+    "British Airways",
+    "Virgin Atlantic"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–LHR route between Atlanta and London. Distance: 6,761 km. ~60 weekly flights operated by Delta, British Airways, Virgin Atlantic.",
+  "geojson": "atl-lhr.geojson"
+}

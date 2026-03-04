@@ -1,0 +1,16 @@
+{
+  "code": "tz-north",
+  "name": "TZ North",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2599,
+  "yearLaid": 2017,
+  "rfsDate": "2022-06",
+  "owner": "TTCL",
+  "landingPoints": [
+    "Dar es Salaam, Tanzania",
+    "Tanga, Tanzania"
+  ],
+  "description": "TZ North connecting Dar es Salaam to Tanga in East Africa/Indian Ocean.",
+  "geojson": "tz-north.geojson"
+}

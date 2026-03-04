@@ -1,0 +1,16 @@
+{
+  "code": "om-pk-cable",
+  "name": "OM-PK Cable",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 310,
+  "yearLaid": 2014,
+  "rfsDate": "2017-06",
+  "owner": "PTCL",
+  "landingPoints": [
+    "Sohar, Oman",
+    "Karachi, Pakistan"
+  ],
+  "description": "OM-PK Cable connecting Sohar to Karachi in the Middle East.",
+  "geojson": "om-pk-cable.geojson"
+}

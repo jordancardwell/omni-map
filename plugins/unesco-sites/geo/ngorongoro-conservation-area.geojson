@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54083,
+          -3.18722
+        ]
+      },
+      "properties": {
+        "code": "ngorongoro-conservation-area",
+        "name": "Ngorongoro Conservation Area",
+        "type": "Mixed",
+        "country": "United Republic of Tanzania",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

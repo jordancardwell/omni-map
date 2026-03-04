@@ -1,0 +1,12 @@
+{
+  "code": "site-gobekli-tepe",
+  "name": "Göbekli Tepe",
+  "period": "c. 9500–8000 BCE",
+  "region": "Middle East",
+  "type": "Archaeological Site",
+  "writingSystem": "Pre-literate",
+  "majorAchievements": ["Oldest known monumental architecture", "Carved T-shaped pillars", "Ritual gathering site", "Pre-agricultural construction"],
+  "keyCities": ["Göbekli Tepe"],
+  "description": "Göbekli Tepe in southeastern Turkey is the world's oldest known monumental structure, predating Stonehenge by 6,000 years. Its massive carved pillars, arranged in circles, were built by hunter-gatherers before the advent of agriculture, challenging the conventional view that permanent settlements and farming were prerequisites for monumental construction.",
+  "geojson": "site-gobekli-tepe.geojson"
+}

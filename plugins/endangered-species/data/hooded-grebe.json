@@ -1,0 +1,18 @@
+{
+  "code": "hooded-grebe",
+  "name": "Hooded Grebe",
+  "scientificName": "Podiceps gallardoi",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~700 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "High-altitude volcanic lake",
+  "threats": [
+    "Invasive American mink",
+    "Climate change",
+    "Kelp gull predation"
+  ],
+  "conservationEfforts": "Proyecto Macá Tobiano predator control on nesting lakes. Community engagement in Patagonia. Artificial floating platforms provide safe nesting sites.",
+  "description": "Discovered only in 1974 in the remote basalt plateaus of Patagonia, this grebe performs an elaborate synchronized courtship dance. American mink invasion has caused nesting failures.",
+  "geojson": "hooded-grebe.geojson"
+}

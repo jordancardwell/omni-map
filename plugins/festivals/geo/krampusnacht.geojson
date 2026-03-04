@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.055,
+          47.8095
+        ]
+      },
+      "properties": {
+        "code": "krampusnacht",
+        "name": "Krampusnacht",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "December 5",
+        "location": "Salzburg, Austria"
+      }
+    }
+  ]
+}

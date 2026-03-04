@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"suez","name":"Port of Suez","featureType":"port","portType":"Multi-Purpose Port","country":"Egypt"},"geometry":{"type":"Point","coordinates":[32.55,29.97]}}]}

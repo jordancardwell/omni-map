@@ -1,0 +1,25 @@
+{
+  "code": "ethiopian-empire",
+  "name": "Ethiopian Empire (Aksumite)",
+  "era": "Ancient",
+  "peakYear": "350 CE",
+  "areaAtPeakKm2": 1250000,
+  "populationEstimate": "5 million",
+  "capital": "Aksum",
+  "keyAchievements": [
+    "Obelisk architecture",
+    "Early Christianity adoption",
+    "Ge'ez script",
+    "International trade hub",
+    "Coinage system"
+  ],
+  "declineFactors": [
+    "Islamic expansion",
+    "Trade route shifts",
+    "Environmental degradation",
+    "Isolation from allies",
+    "Internal fragmentation"
+  ],
+  "description": "The Aksumite Empire (c. 100–940 CE) was one of the great civilizations of the ancient world, centered in present-day Ethiopia and Eritrea. It was one of the four great powers of its time, alongside Rome, Persia, and China.\n\nAksum was among the first states to adopt Christianity (c. 330 CE), developed its own script (Ge'ez), minted its own coins, and erected massive stone obelisks that still stand today. Its strategic location at the crossroads of African, Arabian, and Indian Ocean trade routes made it a vital commercial hub.",
+  "geojson": "ethiopian-empire.geojson"
+}

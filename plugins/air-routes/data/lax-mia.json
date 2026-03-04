@@ -1,0 +1,18 @@
+{
+  "code": "lax-mia",
+  "name": "Los Angeles — Miami",
+  "airports": [
+    "LAX",
+    "MIA"
+  ],
+  "distanceKm": 3763,
+  "weeklyFlights": 70,
+  "airlines": [
+    "American",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–MIA route between Los Angeles and Miami. Distance: 3,763 km. ~70 weekly flights operated by American, Delta.",
+  "geojson": "lax-mia.geojson"
+}

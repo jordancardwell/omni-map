@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[123.685,13.257]},"properties":{"code":"mayon","name":"Mayon Volcano","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2462,"lastEruption":"2023","vei":4}}]}

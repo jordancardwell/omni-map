@@ -1,0 +1,36 @@
+{
+  "code": "thai",
+  "name": "Thai Cuisine",
+  "cuisineFamily": "Southeast Asian",
+  "description": "Thai cuisine is celebrated for its harmonious balance of sweet, sour, salty, bitter, and spicy flavors in each dish. It emphasizes fresh herbs, aromatics, and the interplay of textures. Regional variations range from the fiery curries of the south to the milder, herbal dishes of the north.",
+  "signatureDishes": [
+    "Pad Thai",
+    "Green Curry",
+    "Tom Yum Goong",
+    "Som Tum",
+    "Massaman Curry",
+    "Mango Sticky Rice"
+  ],
+  "keyIngredients": [
+    "Lemongrass",
+    "Galangal",
+    "Fish Sauce",
+    "Thai Basil",
+    "Coconut Milk",
+    "Chili Peppers"
+  ],
+  "cookingTechniques": [
+    "Wok stir-frying",
+    "Mortar and pestle pounding",
+    "Curry paste making",
+    "Charcoal grilling"
+  ],
+  "unescoRecognition": "None specific; Thai cuisine widely recognized internationally",
+  "keyRegions": [
+    "Central Thailand",
+    "Northern Thailand",
+    "Southern Thailand",
+    "Isan (Northeast)"
+  ],
+  "geojson": "thai.geojson"
+}

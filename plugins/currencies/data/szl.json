@@ -1,0 +1,16 @@
+{
+  "code": "szl",
+  "name": "Eswatini Lilangeni",
+  "isoCode": "SZL",
+  "symbol": "E",
+  "region": "Africa",
+  "centralBank": "Central Bank of Eswatini",
+  "exchangeRateEra": "Pegged to ZAR at par",
+  "countries": [
+    "Eswatini"
+  ],
+  "countryCount": 1,
+  "description": "The Lilangeni is pegged at par with the South African Rand and both currencies circulate in Eswatini (formerly Swaziland).",
+  "historicalNotes": "Introduced in 1974, replacing the South African rand as the primary currency. Eswatini is Africa's last absolute monarchy.",
+  "geojson": "szl.geojson"
+}

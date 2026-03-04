@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0,
+          -30.0
+        ]
+      },
+      "properties": {
+        "code": "ischigualasto-talampaya-natural-parks",
+        "name": "Ischigualasto / Talampaya Natural Parks",
+        "type": "Natural",
+        "country": "Argentina",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

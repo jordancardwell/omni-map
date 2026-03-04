@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.197769,
+          19.045967
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-puebla",
+        "name": "Historic Centre of Puebla",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

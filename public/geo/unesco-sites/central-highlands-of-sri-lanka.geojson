@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8021,
+          7.45245
+        ]
+      },
+      "properties": {
+        "code": "central-highlands-of-sri-lanka",
+        "name": "Central Highlands of Sri Lanka",
+        "type": "Natural",
+        "country": "Sri Lanka",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

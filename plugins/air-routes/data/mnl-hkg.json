@@ -1,0 +1,19 @@
+{
+  "code": "mnl-hkg",
+  "name": "Manila — Hong Kong",
+  "airports": [
+    "MNL",
+    "HKG"
+  ],
+  "distanceKm": 1146,
+  "weeklyFlights": 170,
+  "airlines": [
+    "Philippine Airlines",
+    "Cebu Pacific",
+    "Cathay Pacific"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "MNL–HKG route between Manila and Hong Kong. Distance: 1,146 km. ~170 weekly flights operated by Philippine Airlines, Cebu Pacific, Cathay Pacific.",
+  "geojson": "mnl-hkg.geojson"
+}

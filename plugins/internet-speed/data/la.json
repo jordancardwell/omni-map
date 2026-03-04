@@ -1,0 +1,17 @@
+{
+  "code": "la",
+  "name": "Laos",
+  "avgDownloadMbps": 11.4,
+  "avgUploadMbps": 8.2,
+  "avgLatencyMs": 24,
+  "mobileDownloadMbps": 18.4,
+  "mobileUploadMbps": 3.8,
+  "fixedDownloadMbps": 11.4,
+  "fixedUploadMbps": 8.2,
+  "rank": 137,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Growing connectivity with Chinese investment. ~20% year-over-year growth.",
+  "geojson": "la.geojson"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "mediterranean",
+  "name": "Mediterranean Forests, Woodlands & Scrub",
+  "biomeType": "Mediterranean",
+  "areaKm2": 3100000,
+  "keyCharacteristics": "Mild, wet winters and hot, dry summers with fire-adapted vegetation. Extraordinarily high plant endemism in a limited geographic range.",
+  "typicalFlora": ["Cork oak", "Olive tree", "Maquis shrubland", "Fynbos proteas", "Eucalyptus", "Chaparral shrubs"],
+  "typicalFauna": ["Iberian lynx", "Mediterranean monk seal", "Barbary macaque", "Golden jackal", "Bonelli's eagle", "Hermann's tortoise"],
+  "threatLevel": "Critical",
+  "conservationStatus": "Millennia of human habitation have heavily modified these ecosystems. The Mediterranean Basin is one of the most transformed regions on Earth. Climate change increases fire risk and drought severity.",
+  "description": "Mediterranean forests, woodlands, and scrub are found in just five regions worldwide: the Mediterranean Basin, California, central Chile, the Cape Region of South Africa, and southwestern Australia. They share a distinctive climate of mild, wet winters and hot, dry summers.\n\nDespite covering less than 5% of Earth's land surface, Mediterranean ecosystems contain approximately 20% of all plant species. The Cape Floristic Region alone contains over 9,000 plant species, nearly 70% found nowhere else.\n\nFire is a natural and essential ecological process. Many plant species have evolved fire-adaptive traits such as serotinous cones, fire-stimulated germination, and resprouting from underground root crowns.",
+  "geojson": "mediterranean.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "kul-hkg",
+  "name": "Kuala Lumpur — Hong Kong",
+  "airports": [
+    "KUL",
+    "HKG"
+  ],
+  "distanceKm": 2543,
+  "weeklyFlights": 80,
+  "airlines": [
+    "AirAsia",
+    "Malaysia Airlines",
+    "Cathay Pacific"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "KUL–HKG route between Kuala Lumpur and Hong Kong. Distance: 2,543 km. ~80 weekly flights operated by AirAsia, Malaysia Airlines, Cathay Pacific.",
+  "geojson": "kul-hkg.geojson"
+}

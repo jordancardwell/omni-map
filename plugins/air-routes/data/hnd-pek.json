@@ -1,0 +1,19 @@
+{
+  "code": "hnd-pek",
+  "name": "Tokyo — Beijing",
+  "airports": [
+    "HND",
+    "PEK"
+  ],
+  "distanceKm": 2091,
+  "weeklyFlights": 140,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "Air China"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "HND–PEK route between Tokyo and Beijing. Distance: 2,091 km. ~140 weekly flights operated by ANA, JAL, Air China.",
+  "geojson": "hnd-pek.geojson"
+}

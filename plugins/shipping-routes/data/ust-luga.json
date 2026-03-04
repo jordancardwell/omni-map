@@ -1,0 +1,14 @@
+{
+  "code": "ust-luga",
+  "name": "Port of Ust-Luga",
+  "country": "Russia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 110,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Ust-Luga in Russia. Annual cargo throughput: ~110 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "ust-luga.geojson"
+}

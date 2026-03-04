@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gwangyang","name":"Port of Gwangyang","featureType":"port","portType":"Bulk Port","country":"South Korea"},"geometry":{"type":"Point","coordinates":[127.7,34.93]}}]}

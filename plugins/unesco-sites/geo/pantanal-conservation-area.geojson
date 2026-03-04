@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.359,
+          -17.656
+        ]
+      },
+      "properties": {
+        "code": "pantanal-conservation-area",
+        "name": "Pantanal Conservation Area",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

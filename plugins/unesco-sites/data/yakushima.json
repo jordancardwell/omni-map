@@ -1,0 +1,15 @@
+{
+  "code": "yakushima",
+  "name": "Yakushima",
+  "type": "Natural",
+  "country": "Japan",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the interior of Yaku Island, at the meeting-point of the palaearctic and oriental biotic regions, Yakushima exhibits a rich flora, with some 1,900 species and subspecies, including ancient specimens of the sugi (Japanese cedar). It also contains a remnant of a warm-temperate ancient forest that is unique in this region.",
+  "danger": false,
+  "geojson": "yakushima.geojson"
+}

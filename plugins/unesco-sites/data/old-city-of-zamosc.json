@@ -1,0 +1,14 @@
+{
+  "code": "old-city-of-zamosc",
+  "name": "Old City of Zamość",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Zamosc was founded in the 16th century by the chancellor Jan Zamoysky on the trade route linking western and northern Europe with the Black Sea. Modelled on Italian theories of the 'ideal city' and built by the architect Bernando Morando, a native of Padua, Zamosc is a perfect example of a late-16th-century Renaissance town. It has retained its original layout and fortifications and a large number of buildings that combine Italian and central European architectural traditions.",
+  "danger": false,
+  "geojson": "old-city-of-zamosc.geojson"
+}

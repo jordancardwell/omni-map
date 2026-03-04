@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35,
+          23.13333333
+        ]
+      },
+      "properties": {
+        "code": "old-havana-and-its-fortification-system",
+        "name": "Old Havana and its Fortification System",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

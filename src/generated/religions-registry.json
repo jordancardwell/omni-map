@@ -1,0 +1,299 @@
+[
+  {
+    "code": "buddhism",
+    "name": "Buddhism",
+    "family": "Dharmic",
+    "foundingPeriod": "6th–5th century BCE",
+    "adherents": {
+      "estimated": 520000000,
+      "percentWorld": "6.6%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "East Asia",
+      "Southeast Asia",
+      "South Asia",
+      "Central Asia"
+    ],
+    "denominations": [
+      "Theravada",
+      "Mahayana",
+      "Vajrayana",
+      "Zen",
+      "Pure Land",
+      "Tibetan",
+      "Nichiren"
+    ],
+    "description": "Buddhism was founded by Siddhartha Gautama (the Buddha) in ancient India. It teaches the Four Noble Truths about the nature of suffering and the Eightfold Path as the way to liberation (nirvana). Buddhism emphasizes meditation, mindfulness, ethical conduct, and wisdom. It does not center on the worship of a creator god but focuses on personal spiritual development.",
+    "historicalNotes": "Buddhism originated in northeastern India around the 5th century BCE. Emperor Ashoka's patronage in the 3rd century BCE spread Buddhism across the Indian subcontinent and into Sri Lanka. It reached Central Asia via the Silk Road, China by the 1st century CE, Korea and Japan by the 6th century, and Southeast Asia through maritime trade. Theravada became dominant in Sri Lanka and mainland Southeast Asia, while Mahayana spread through East Asia. Vajrayana developed in Tibet and Mongolia.",
+    "geojson": "buddhism.geojson"
+  },
+  {
+    "code": "christianity",
+    "name": "Christianity",
+    "family": "Abrahamic",
+    "foundingPeriod": "1st century CE",
+    "adherents": {
+      "estimated": 2400000000,
+      "percentWorld": "31.1%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "Europe",
+      "Americas",
+      "Sub-Saharan Africa",
+      "Oceania",
+      "Philippines"
+    ],
+    "denominations": [
+      "Roman Catholic",
+      "Eastern Orthodox",
+      "Protestant",
+      "Anglican",
+      "Oriental Orthodox",
+      "Pentecostal",
+      "Evangelical",
+      "Methodist",
+      "Baptist",
+      "Lutheran",
+      "Presbyterian",
+      "Coptic"
+    ],
+    "description": "Christianity is the world's largest religion, based on the teachings of Jesus of Nazareth. Central tenets include the belief in one God, the divinity of Jesus Christ, his crucifixion and resurrection, and salvation through faith. The Bible, comprising the Old and New Testaments, serves as the primary sacred text.",
+    "historicalNotes": "Christianity emerged in the 1st century CE in Roman-era Judea. It spread through the Roman Empire, becoming the state religion under Emperor Theodosius I in 380 CE. The Great Schism of 1054 split the church into Roman Catholic and Eastern Orthodox branches. The Protestant Reformation, initiated by Martin Luther in 1517, further diversified the faith. European colonialism from the 15th century onward spread Christianity globally, particularly to the Americas, Africa, and Asia.",
+    "geojson": "christianity.geojson"
+  },
+  {
+    "code": "folk-traditional",
+    "name": "Folk / Traditional Religions",
+    "family": "Indigenous & Folk",
+    "foundingPeriod": "Prehistoric origins",
+    "adherents": {
+      "estimated": 430000000,
+      "percentWorld": "5.5%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "China",
+      "Sub-Saharan Africa",
+      "Southeast Asia",
+      "Oceania",
+      "Americas"
+    ],
+    "denominations": [
+      "Chinese Folk Religion",
+      "African Traditional Religions",
+      "Yoruba",
+      "Vodou",
+      "Candomblé",
+      "Shamanism",
+      "Animism",
+      "Ancestor Worship"
+    ],
+    "description": "Folk and traditional religions encompass a wide range of indigenous, ethnic, and localized spiritual practices found worldwide. These traditions typically involve animism, ancestor veneration, spirit worship, and rituals tied to the natural world and agricultural cycles. Chinese folk religion, African traditional religions, and various indigenous practices across the Americas and Oceania fall into this category.",
+    "historicalNotes": "Folk and traditional religions represent humanity's oldest spiritual practices, predating all organized world religions. Chinese folk religion blends Confucian, Taoist, and Buddhist elements with local traditions and ancestor worship. African traditional religions are diverse, with the Yoruba, Akan, and Zulu traditions being among the most widely practiced. In the Americas, indigenous traditions survived colonialism and sometimes syncretized with Christianity (e.g., Vodou, Candomblé, Santería). Many of these traditions are experiencing revival as communities seek to preserve cultural heritage.",
+    "geojson": "folk-traditional.geojson"
+  },
+  {
+    "code": "hinduism",
+    "name": "Hinduism",
+    "family": "Dharmic",
+    "foundingPeriod": "c. 2000–1500 BCE",
+    "adherents": {
+      "estimated": 1200000000,
+      "percentWorld": "15.2%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "India",
+      "Nepal",
+      "Mauritius",
+      "Bali (Indonesia)",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "denominations": [
+      "Vaishnavism",
+      "Shaivism",
+      "Shaktism",
+      "Smartism",
+      "ISKCON",
+      "Arya Samaj"
+    ],
+    "description": "Hinduism is the world's oldest major religion and the third-largest by adherents. It encompasses a diverse range of philosophies, beliefs, and rituals. Core concepts include dharma (duty/righteousness), karma (action and consequence), samsara (cycle of rebirth), and moksha (liberation). Sacred texts include the Vedas, Upanishads, Bhagavad Gita, and the epics Ramayana and Mahabharata.",
+    "historicalNotes": "Hinduism's roots trace to the Indus Valley Civilization and Vedic period (c. 1500–500 BCE). It evolved through the composition of the Upanishads, the bhakti devotional movement (7th–12th centuries), and interactions with Buddhism and Jainism. Hindu kingdoms spread the religion to Southeast Asia, notably to Cambodia (Angkor), Indonesia, and Vietnam. The modern Hindu reform movements of the 19th century, led by figures like Swami Vivekananda, revitalized and internationalized the tradition.",
+    "geojson": "hinduism.geojson"
+  },
+  {
+    "code": "islam",
+    "name": "Islam",
+    "family": "Abrahamic",
+    "foundingPeriod": "7th century CE",
+    "adherents": {
+      "estimated": 1900000000,
+      "percentWorld": "24.9%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "Middle East",
+      "North Africa",
+      "Central Asia",
+      "South Asia",
+      "Southeast Asia"
+    ],
+    "denominations": [
+      "Sunni",
+      "Shia",
+      "Ibadi",
+      "Sufi",
+      "Ahmadiyya",
+      "Ismaili",
+      "Twelver",
+      "Zaidi"
+    ],
+    "description": "Islam is the world's second-largest religion, founded by the Prophet Muhammad in 7th-century Arabia. Muslims believe in one God (Allah) and that Muhammad is his final messenger. The Quran is the central religious text, and the Five Pillars of Islam — declaration of faith, prayer, charity, fasting, and pilgrimage — form the core practices.",
+    "historicalNotes": "Islam began in Mecca around 610 CE with Muhammad's revelations. After the Hijra to Medina in 622 CE, Islam rapidly expanded across the Arabian Peninsula. The Rashidun and Umayyad caliphates spread Islam across the Middle East, North Africa, and into Iberia by the 8th century. The split between Sunni and Shia traditions originated from the succession dispute after Muhammad's death in 632 CE. The Ottoman, Safavid, and Mughal empires further established Islam across vast territories.",
+    "geojson": "islam.geojson"
+  },
+  {
+    "code": "judaism",
+    "name": "Judaism",
+    "family": "Abrahamic",
+    "foundingPeriod": "c. 2000–1500 BCE",
+    "adherents": {
+      "estimated": 15700000,
+      "percentWorld": "0.2%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "Israel",
+      "United States",
+      "France",
+      "Canada",
+      "United Kingdom",
+      "Argentina"
+    ],
+    "denominations": [
+      "Orthodox",
+      "Conservative",
+      "Reform",
+      "Reconstructionist",
+      "Hasidic",
+      "Haredi",
+      "Modern Orthodox",
+      "Karaite"
+    ],
+    "description": "Judaism is one of the oldest monotheistic religions, originating in the ancient Near East. It is based on the covenant between God and the Jewish people as recorded in the Torah (the first five books of the Hebrew Bible). Key practices include observing the Sabbath, keeping kosher dietary laws, and celebrating holidays such as Passover, Yom Kippur, and Rosh Hashanah.",
+    "historicalNotes": "Judaism traces its origins to the patriarchs Abraham, Isaac, and Jacob around 2000–1500 BCE. The Exodus from Egypt and the receiving of the Torah at Mount Sinai are foundational events. The destruction of the First Temple (586 BCE) and Second Temple (70 CE) by the Babylonians and Romans led to the Jewish diaspora. Rabbinic Judaism developed after 70 CE, producing the Mishnah and Talmud. The Holocaust (1933–1945) devastated European Jewry. The establishment of the State of Israel in 1948 marked a pivotal moment in Jewish history.",
+    "geojson": "judaism.geojson"
+  },
+  {
+    "code": "shintoism",
+    "name": "Shintoism",
+    "family": "East Asian",
+    "foundingPeriod": "c. 8th century CE (codified)",
+    "adherents": {
+      "estimated": 4000000,
+      "percentWorld": "0.05%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "Japan"
+    ],
+    "denominations": [
+      "Shrine Shinto",
+      "Sect Shinto",
+      "Folk Shinto",
+      "Imperial Shinto"
+    ],
+    "description": "Shinto is Japan's indigenous religion, centered on the worship of kami — spirits or divine forces found in nature, ancestors, and sacred places. It emphasizes ritual purity, reverence for nature, and harmony with the spiritual world. Shinto has no single founder, no central scripture, and no formal doctrine, making it a deeply practice-oriented tradition.",
+    "historicalNotes": "Shinto's origins are intertwined with Japanese prehistory and animistic folk practices. The Kojiki (712 CE) and Nihon Shoki (720 CE) codified Shinto mythology. Buddhism's arrival in the 6th century CE led to centuries of syncretism (shinbutsu-shūgō). The Meiji government (1868) separated Shinto from Buddhism and elevated it as State Shinto to foster national identity. After World War II, State Shinto was abolished, and Shinto returned to a decentralized, shrine-based practice.",
+    "geojson": "shintoism.geojson"
+  },
+  {
+    "code": "sikhism",
+    "name": "Sikhism",
+    "family": "Dharmic",
+    "foundingPeriod": "15th century CE",
+    "adherents": {
+      "estimated": 30000000,
+      "percentWorld": "0.4%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "India (Punjab)",
+      "United Kingdom",
+      "Canada",
+      "United States",
+      "Australia"
+    ],
+    "denominations": [
+      "Khalsa",
+      "Nihang",
+      "Namdhari",
+      "Nirankari",
+      "Udasi",
+      "Sahajdhari"
+    ],
+    "description": "Sikhism is a monotheistic religion founded by Guru Nanak in the Punjab region of South Asia. It emphasizes the oneness of God, equality of all people, selfless service, honest livelihood, and devotion through meditation on God's name. The Guru Granth Sahib is the central religious scripture and is regarded as the eternal living Guru.",
+    "historicalNotes": "Sikhism was founded by Guru Nanak (1469–1539) in the Punjab region. A succession of ten human Gurus shaped the tradition, culminating in Guru Gobind Singh, who established the Khalsa in 1699 and declared the Guru Granth Sahib as the eternal Guru. The Sikh Empire under Maharaja Ranjit Singh (1799–1849) controlled much of northwestern India. British colonial rule and the 1947 partition of India profoundly affected Sikh communities. Today, large Sikh diaspora communities exist in Canada, the UK, and the US.",
+    "geojson": "sikhism.geojson"
+  },
+  {
+    "code": "taoism",
+    "name": "Taoism",
+    "family": "East Asian",
+    "foundingPeriod": "4th century BCE",
+    "adherents": {
+      "estimated": 12000000,
+      "percentWorld": "0.2%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "China",
+      "Taiwan",
+      "Singapore",
+      "Malaysia"
+    ],
+    "denominations": [
+      "Zhengyi (Orthodox Unity)",
+      "Quanzhen (Complete Reality)",
+      "Tianshi (Celestial Masters)",
+      "Shangqing",
+      "Lingbao"
+    ],
+    "description": "Taoism (Daoism) is a Chinese philosophical and religious tradition emphasizing living in harmony with the Tao — the fundamental, nameless force underlying all existence. Core texts include the Tao Te Ching by Laozi and the Zhuangzi. Taoism values naturalness, simplicity, spontaneity, and the balance of yin and yang. It encompasses meditation, feng shui, martial arts, and traditional Chinese medicine.",
+    "historicalNotes": "Taoism's philosophical roots trace to Laozi and Zhuangzi in the 4th–3rd centuries BCE. Organized Taoism emerged with the Celestial Masters movement in the 2nd century CE. It flourished during the Tang Dynasty (618–907 CE), which claimed Laozi as an imperial ancestor. Taoism profoundly influenced Chinese culture, art, literature, and science. It interacted with and absorbed elements of Buddhism and Confucianism. Despite suppression during the Cultural Revolution, Taoism has experienced revival in modern China.",
+    "geojson": "taoism.geojson"
+  },
+  {
+    "code": "unaffiliated",
+    "name": "Unaffiliated / Non-religious",
+    "family": "Non-religious",
+    "foundingPeriod": "N/A",
+    "adherents": {
+      "estimated": 1200000000,
+      "percentWorld": "15.6%",
+      "source": "Pew Research Center 2024"
+    },
+    "keyRegions": [
+      "China",
+      "Europe",
+      "Japan",
+      "South Korea",
+      "Australia",
+      "North America"
+    ],
+    "denominations": [
+      "Atheist",
+      "Agnostic",
+      "Secular",
+      "Spiritual but not religious",
+      "Humanist",
+      "Rationalist"
+    ],
+    "description": "The religiously unaffiliated, sometimes called 'nones,' include atheists, agnostics, and people who do not identify with any particular religion. This is the third-largest demographic group globally after Christians and Muslims. The unaffiliated may hold a variety of spiritual beliefs or none at all, and their numbers have been growing rapidly in many developed nations.",
+    "historicalNotes": "While non-belief has existed throughout history, the Enlightenment (17th–18th centuries) marked a turning point with the rise of secular humanism and rationalism. The 20th century saw state atheism in communist countries, particularly China and the Soviet Union. In recent decades, secularization has accelerated across Western Europe, Oceania, and parts of East Asia. The 'New Atheism' movement of the 2000s, led by Richard Dawkins, Christopher Hitchens, and Sam Harris, brought public attention to non-belief. Today, the unaffiliated represent the fastest-growing demographic in many developed nations.",
+    "geojson": "unaffiliated.geojson"
+  }
+]

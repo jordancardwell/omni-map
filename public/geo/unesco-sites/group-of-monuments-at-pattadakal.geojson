@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.81667,
+          15.94833
+        ]
+      },
+      "properties": {
+        "code": "group-of-monuments-at-pattadakal",
+        "name": "Group of Monuments at Pattadakal",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

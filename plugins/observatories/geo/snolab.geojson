@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1868,46.4719]},"properties":{"code":"snolab","name":"SNOLAB","observatoryType":"Multi-messenger","status":"Operational","country":"Canada"}}]}

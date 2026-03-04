@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5247,
+          12.274
+        ]
+      },
+      "properties": {
+        "code": "mask-festival-burkina",
+        "name": "FESTIMA (International Festival of Masks)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Biennial (even years), February",
+        "location": "Dédougou, Burkina Faso"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "kul",
+  "name": "Kuala Lumpur International",
+  "iataCode": "KUL",
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "annualPassengers": 41500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Kuala Lumpur International (KUL) in Kuala Lumpur, Malaysia. Annual passengers: ~41.5M. Classification: International Hub.",
+  "geojson": "kul.geojson"
+}

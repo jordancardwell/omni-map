@@ -1,0 +1,17 @@
+{
+  "code": "mex-ewr",
+  "name": "Mexico City — Newark",
+  "airports": [
+    "MEX",
+    "EWR"
+  ],
+  "distanceKm": 3342,
+  "weeklyFlights": 20,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–EWR route between Mexico City and Newark. Distance: 3,342 km. ~20 weekly flights operated by United.",
+  "geojson": "mex-ewr.geojson"
+}

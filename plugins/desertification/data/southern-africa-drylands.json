@@ -1,0 +1,26 @@
+{
+  "code": "southern-africa-drylands",
+  "name": "Southern Africa Drylands",
+  "region": "Southern Africa",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — subtropical semi-arid",
+  "area": "1,200,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 35000000,
+  "affectedCountries": [
+    "South Africa",
+    "Botswana",
+    "Zimbabwe",
+    "Mozambique"
+  ],
+  "desertificationDrivers": [
+    "Drought intensification",
+    "Overgrazing",
+    "Bush encroachment",
+    "Land inequality"
+  ],
+  "desertFrontier": "Kalahari margins expanding; Karoo region increasingly arid",
+  "description": "Southern Africa's drylands face accelerating desertification driven by extreme drought events and land management challenges. The Karoo region in South Africa is expanding northward. Bush encroachment — where woody plants invade grasslands — affects over 30 million hectares. Climate projections show the region warming at twice the global average, with western areas becoming significantly drier.",
+  "geojson": "southern-africa-drylands.geojson"
+}

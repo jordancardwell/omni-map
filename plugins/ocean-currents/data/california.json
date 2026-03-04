@@ -1,0 +1,21 @@
+{
+  "code": "california",
+  "name": "California Current",
+  "currentType": "Cold",
+  "speedRange": "0.1–0.3 m/s",
+  "origin": "North Pacific Current",
+  "destination": "North Equatorial Current (Pacific)",
+  "climateEffects": [
+    "Cools US West Coast",
+    "Creates San Francisco fog",
+    "Drives productive upwelling"
+  ],
+  "connectedEcosystems": [
+    "California upwelling ecosystem",
+    "Monterey Bay habitats",
+    "Pacific kelp forests"
+  ],
+  "itemCategory": "Cold",
+  "description": "The California Current is a cold, southward-flowing eastern boundary current in the North Pacific. It cools the US West Coast, creates coastal fog, and supports one of the most productive marine ecosystems in the world.",
+  "geojson": "california.geojson"
+}

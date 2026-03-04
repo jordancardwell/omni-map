@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-colombia",
+  "name": "Independence Day (Colombia)",
+  "festivalType": "National",
+  "dateOrSeason": "July 20",
+  "origin": "Colombian national",
+  "estimatedAttendance": "51+ million Colombians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military and civic parades; cultural performances; flag ceremonies; concerts; traditional food festivals.",
+  "historicalBackground": "Colombia's Independence Day marks July 20, 1810, when citizens of Bogotá revolted against Spanish rule in the famous Florero de Llorente incident.",
+  "description": "Colombia's celebration of independence from Spain, with parades, cultural performances, and patriotic festivities across the nation.",
+  "location": "Bogotá, Colombia",
+  "geojson": "independence-day-colombia.geojson"
+}

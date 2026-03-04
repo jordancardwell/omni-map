@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2070738323,
+          -14.2185207713
+        ]
+      },
+      "properties": {
+        "code": "chongoni-rock-art-area",
+        "name": "Chongoni Rock-Art Area",
+        "type": "Cultural",
+        "country": "Malawi",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

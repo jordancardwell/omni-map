@@ -1,0 +1,16 @@
+{
+  "code": "studenica-monastery",
+  "name": "Studenica Monastery",
+  "type": "Cultural",
+  "country": "Serbia",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Studenica Monastery was established in the late 12th century by Stevan Nemanja, founder of the medieval Serb state, shortly after his abdication. It is the largest and richest of Serbia’s Orthodox monasteries. Its two principal monuments, the Church of the Virgin and the Church of the King, both built of white marble, enshrine priceless collections of 13th- and 14th-century Byzantine painting.",
+  "danger": false,
+  "geojson": "studenica-monastery.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7283055556,
+          32.0426111111
+        ]
+      },
+      "properties": {
+        "code": "as-salt-the-place-of-tolerance-and-urban-hospitality",
+        "name": "As-Salt - The Place of Tolerance and Urban Hospitality",
+        "type": "Cultural",
+        "country": "Jordan",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

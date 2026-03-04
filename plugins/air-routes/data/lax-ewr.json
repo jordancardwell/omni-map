@@ -1,0 +1,19 @@
+{
+  "code": "lax-ewr",
+  "name": "Los Angeles — Newark",
+  "airports": [
+    "LAX",
+    "EWR"
+  ],
+  "distanceKm": 3941,
+  "weeklyFlights": 80,
+  "airlines": [
+    "United",
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–EWR route between Los Angeles and Newark. Distance: 3,941 km. ~80 weekly flights operated by United, Delta, JetBlue.",
+  "geojson": "lax-ewr.geojson"
+}

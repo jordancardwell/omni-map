@@ -1,0 +1,19 @@
+{
+  "code": "hnd-pvg",
+  "name": "Tokyo — Shanghai",
+  "airports": [
+    "HND",
+    "PVG"
+  ],
+  "distanceKm": 1737,
+  "weeklyFlights": 160,
+  "airlines": [
+    "ANA",
+    "JAL",
+    "China Eastern"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "HND–PVG route between Tokyo and Shanghai. Distance: 1,737 km. ~160 weekly flights operated by ANA, JAL, China Eastern.",
+  "geojson": "hnd-pvg.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.86611,
+          46.56472
+        ]
+      },
+      "properties": {
+        "code": "abbey-church-of-saint-savin-sur-gartempe",
+        "name": "Abbey Church of Saint-Savin sur Gartempe",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

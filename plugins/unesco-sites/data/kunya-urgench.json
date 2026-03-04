@@ -1,0 +1,15 @@
+{
+  "code": "kunya-urgench",
+  "name": "Kunya-Urgench",
+  "type": "Cultural",
+  "country": "Turkmenistan",
+  "yearInscribed": "2005",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Kunya-Urgench is situated in north-western Turkmenistan, on the left bank of the Amu Daria River. Urgench was the capital of the Khorezm region, part of the Achaemenid Empire. The old town contains a series of monuments mainly from the 11th to 16th centuries, including a mosque, the gates of a caravanserai, fortresses, mausoleums and a 60-m high minaret. The monuments testify to outstanding achievements in architecture and craftsmanship whose influence reached Iran and Afghanistan, and later the architecture of the Mogul Empire of 16th-century India.",
+  "danger": false,
+  "geojson": "kunya-urgench.geojson"
+}

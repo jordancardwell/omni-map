@@ -1,0 +1,15 @@
+{
+  "code": "area-de-conservacion-guanacaste",
+  "name": "Area de Conservación Guanacaste",
+  "type": "Natural",
+  "country": "Costa Rica",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments.",
+  "danger": false,
+  "geojson": "area-de-conservacion-guanacaste.geojson"
+}

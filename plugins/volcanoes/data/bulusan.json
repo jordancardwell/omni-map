@@ -1,0 +1,21 @@
+{
+  "code": "bulusan",
+  "name": "Bulusan",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1565,
+  "lastEruption": "2022",
+  "vei": 2,
+  "country": "Philippines",
+  "region": "Luzon",
+  "location": "Luzon, Philippines",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lahars",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "Frequent phreatic eruptions. Has erupted over 15 times since 1885.",
+  "description": "Bulusan is one of the most active volcanoes in the Philippines, known for its frequent phreatic (steam-driven) eruptions.",
+  "geojson": "bulusan.geojson"
+}

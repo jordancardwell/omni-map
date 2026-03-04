@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8327777778,
+          47.1038888889
+        ]
+      },
+      "properties": {
+        "code": "la-chaux-de-fonds-le-locle-watchmaking-town-planning",
+        "name": "La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning",
+        "type": "Cultural",
+        "country": "Switzerland",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

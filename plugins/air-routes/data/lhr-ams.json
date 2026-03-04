@@ -1,0 +1,18 @@
+{
+  "code": "lhr-ams",
+  "name": "London — Amsterdam",
+  "airports": [
+    "LHR",
+    "AMS"
+  ],
+  "distanceKm": 370,
+  "weeklyFlights": 180,
+  "airlines": [
+    "British Airways",
+    "KLM"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–AMS route between London and Amsterdam. Distance: 370 km. ~180 weekly flights operated by British Airways, KLM.",
+  "geojson": "lhr-ams.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "poblet-monastery",
+  "name": "Poblet Monastery",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This Cistercian abbey in Catalonia is one of the largest in Spain. At its centre is a 12th-century church. The austere, majestic monastery, which has a fortified royal residence and contains the pantheon of the kings of Catalonia and Aragon, is an impressive sight.",
+  "danger": false,
+  "geojson": "poblet-monastery.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "bz",
+  "name": "Belize",
+  "avgDownloadMbps": 20.8,
+  "avgUploadMbps": 7.6,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 16.4,
+  "mobileUploadMbps": 3.6,
+  "fixedDownloadMbps": 20.8,
+  "fixedUploadMbps": 7.6,
+  "rank": 110,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Central America",
+  "dataYear": 2024,
+  "trendDescription": "Small Central American market improving. ~12% year-over-year growth.",
+  "geojson": "bz.geojson"
+}

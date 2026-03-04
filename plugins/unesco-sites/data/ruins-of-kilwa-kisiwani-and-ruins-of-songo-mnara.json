@@ -1,0 +1,14 @@
+{
+  "code": "ruins-of-kilwa-kisiwani-and-ruins-of-songo-mnara",
+  "name": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+  "type": "Cultural",
+  "country": "United Republic of Tanzania",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands.",
+  "danger": false,
+  "geojson": "ruins-of-kilwa-kisiwani-and-ruins-of-songo-mnara.geojson"
+}

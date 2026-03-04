@@ -1,0 +1,16 @@
+{
+  "code": "nl-uk-cable",
+  "name": "NL-UK Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2444,
+  "yearLaid": 2016,
+  "rfsDate": "2012-06",
+  "owner": "Eurofiber",
+  "landingPoints": [
+    "Beverwijk, Netherlands",
+    "Lowestoft, UK"
+  ],
+  "description": "NL-UK Cable connecting Beverwijk to Lowestoft in Europe.",
+  "geojson": "nl-uk-cable.geojson"
+}

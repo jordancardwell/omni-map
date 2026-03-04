@@ -1,0 +1,16 @@
+{
+  "code": "us-pr-express",
+  "name": "US-PR Express",
+  "capacityTbps": 36,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13738,
+  "yearLaid": 2021,
+  "rfsDate": "2016-06",
+  "owner": "AT&T",
+  "landingPoints": [
+    "Miami, USA",
+    "San Juan, Puerto Rico"
+  ],
+  "description": "US-PR Express connecting Miami to San Juan.",
+  "geojson": "us-pr-express.geojson"
+}

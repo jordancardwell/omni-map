@@ -1,0 +1,16 @@
+{
+  "code": "mw-india",
+  "name": "MW-India",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3588,
+  "yearLaid": 2013,
+  "rfsDate": "2019-06",
+  "owner": "Ooredoo",
+  "landingPoints": [
+    "Yangon, Myanmar",
+    "Chennai, India"
+  ],
+  "description": "MW-India connecting Yangon to Chennai in Southeast Asia.",
+  "geojson": "mw-india.geojson"
+}

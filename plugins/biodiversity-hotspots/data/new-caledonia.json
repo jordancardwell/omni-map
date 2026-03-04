@@ -1,0 +1,29 @@
+{
+  "code": "new-caledonia",
+  "name": "New Caledonia",
+  "location": "Southwest Pacific Ocean (French territory)",
+  "areaKm2": 18576,
+  "habitatRemaining": "28.0%",
+  "plantSpecies": 3270,
+  "endemicPlants": 2432,
+  "vertebrateSpecies": 190,
+  "endemicVertebrates": 84,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Kagu",
+    "New Caledonian crow",
+    "Crested gecko",
+    "Amborella",
+    "New Caledonian giant gecko"
+  ],
+  "threats": [
+    "Nickel mining",
+    "Invasive species",
+    "Wildfires",
+    "Deforestation",
+    "Urbanization"
+  ],
+  "conservationEfforts": "Lagoons of New Caledonia are a UNESCO World Heritage Site. Province-level environmental protection agencies manage conservation. Kagu recovery program has stabilized populations. Invasive species control programs target deer, pigs, and rats.",
+  "description": "New Caledonia, a French territory in the southwest Pacific, is a continental fragment that separated from Australia 80 million years ago. This ancient isolation has produced one of the world's most distinctive floras, with 74% of plant species found nowhere else.\n\nThe island is home to Amborella trichopoda, considered the most ancient living flowering plant lineage on Earth. The kagu, a nearly flightless bird found only on New Caledonia, and the New Caledonian crow, famous for its remarkable tool-making abilities, are conservation icons. The island's ultramafic soils support unique plant communities adapted to high nickel and chromium concentrations.",
+  "geojson": "new-caledonia.geojson"
+}

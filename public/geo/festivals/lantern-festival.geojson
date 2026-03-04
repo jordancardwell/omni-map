@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9541,
+          34.2658
+        ]
+      },
+      "properties": {
+        "code": "lantern-festival",
+        "name": "Lantern Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "15th of 1st lunar month",
+        "location": "Xi'an, China"
+      }
+    }
+  ]
+}

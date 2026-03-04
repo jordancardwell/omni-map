@@ -1,0 +1,15 @@
+{
+  "code": "australian-southeast-bushlands",
+  "name": "Australian Southeast Bushlands",
+  "region": "Oceania",
+  "riskGroup": "1. Extreme",
+  "riskLevel": "Extreme",
+  "fireFrequency": "Very High — major fires every 3-5 years",
+  "dominantVegetation": "Eucalyptus forest, dry sclerophyll woodland",
+  "fireSeasonMonths": "October – March",
+  "areaBurnedAnnual": "~500,000 ha average; 18.6 million ha in 2019-2020",
+  "seasonalPattern": "Fire season peaks during the austral summer (December–February) when hot, dry northwesterly winds combine with drought conditions. Climate change has extended the fire season by 2–3 months since the 1970s. El Niño years dramatically increase fire risk.",
+  "historicalFires": ["2019-2020 Black Summer (18.6M ha)", "2009 Black Saturday (450K ha)", "2003 Alpine Fires (1.7M ha)", "1983 Ash Wednesday (520K ha)"],
+  "description": "The southeast Australian bushlands — spanning New South Wales, Victoria, and the ACT — represent one of the world's most fire-prone landscapes. Eucalyptus forests are uniquely adapted to fire, with oil-rich leaves that burn explosively. The 2019-2020 Black Summer fires were unprecedented in scale, burning over 18.6 million hectares and killing an estimated 3 billion animals. Climate projections indicate fire weather days will increase 15-70% by 2050.",
+  "geojson": "australian-southeast-bushlands.geojson"
+}

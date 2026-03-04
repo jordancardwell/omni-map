@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61944444,
+          44.83777778
+        ]
+      },
+      "properties": {
+        "code": "ferrara-city-of-the-renaissance-and-its-po-delta",
+        "name": "Ferrara, City of the Renaissance, and its Po Delta",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "cn-hk-pearl",
+  "name": "CN-HK Pearl",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3667,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "China Unicom",
+  "landingPoints": [
+    "Zhuhai, China",
+    "Hong Kong, China"
+  ],
+  "description": "CN-HK Pearl connecting Zhuhai to Hong Kong.",
+  "geojson": "cn-hk-pearl.geojson"
+}

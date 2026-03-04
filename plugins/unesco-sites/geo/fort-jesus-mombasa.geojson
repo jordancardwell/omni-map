@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6794444444,
+          -4.0627777778
+        ]
+      },
+      "properties": {
+        "code": "fort-jesus-mombasa",
+        "name": "Fort Jesus, Mombasa",
+        "type": "Cultural",
+        "country": "Kenya",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

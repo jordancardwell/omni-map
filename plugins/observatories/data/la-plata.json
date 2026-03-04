@@ -1,0 +1,21 @@
+{
+  "code": "la-plata",
+  "name": "La Plata Observatory",
+  "country": "Argentina",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 20,
+  "aperture": "0.43 m (astrograph)",
+  "telescopes": [
+    "Astrograph",
+    "Gautier meridian circle"
+  ],
+  "keyDiscoveries": [
+    "Stellar catalogs",
+    "Astrometric measurements",
+    "Minor planet observations"
+  ],
+  "location": "La Plata Observatory, Argentina",
+  "description": "Historic Argentine observatory founded in 1883 in La Plata. Now primarily a research and teaching institution with contributions to stellar catalogs.",
+  "geojson": "la-plata.geojson"
+}

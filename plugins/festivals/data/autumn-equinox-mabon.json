@@ -1,0 +1,14 @@
+{
+  "code": "autumn-equinox-mabon",
+  "name": "Mabon (Autumn Equinox)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "September 21–23",
+  "origin": "Pagan/Druidic tradition",
+  "estimatedAttendance": "Thousands at Stonehenge",
+  "unescoICH": "Not inscribed",
+  "traditions": "Harvest festivals; gathering crops; apple picking; making corn dollies; feasting; giving thanks; visiting Stonehenge.",
+  "historicalBackground": "Mabon is a modern pagan name for the autumn equinox celebration. The original Celtic harvest festivals predate Christianity by thousands of years.",
+  "description": "The autumn equinox harvest celebration at ancient sites like Stonehenge, giving thanks for the season's bounty in an age-old tradition.",
+  "location": "Stonehenge, UK",
+  "geojson": "autumn-equinox-mabon.geojson"
+}

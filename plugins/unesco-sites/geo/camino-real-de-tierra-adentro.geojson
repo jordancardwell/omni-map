@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3791666667,
+          22.6080555556
+        ]
+      },
+      "properties": {
+        "code": "camino-real-de-tierra-adentro",
+        "name": "Camino Real de Tierra Adentro",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

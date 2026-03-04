@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3594444444,
+          37.9291666667
+        ]
+      },
+      "properties": {
+        "code": "ephesus",
+        "name": "Ephesus",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

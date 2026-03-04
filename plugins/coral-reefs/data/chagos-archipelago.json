@@ -1,0 +1,20 @@
+{
+  "code": "chagos-archipelago",
+  "name": "Chagos Archipelago",
+  "location": "British Indian Ocean Territory",
+  "areaKm2": 4500,
+  "reefType": "Atoll",
+  "healthStatus": "Good",
+  "coralSpecies": 300,
+  "marineSpecies": 780,
+  "threats": [
+    "Climate change",
+    "Coral bleaching",
+    "Illegal fishing",
+    "Marine debris",
+    "Ocean warming"
+  ],
+  "conservationStatus": "World's largest no-take marine protected area (640,000 km²) declared in 2010. Virtually uninhabited, providing a unique scientific baseline for reef health.",
+  "description": "The Chagos Archipelago comprises 55 islands forming five atolls, including the Great Chagos Bank — the world's largest atoll structure. With no permanent population and strict marine protection, it represents one of the most pristine ocean environments on Earth.\n\nThe archipelago's reefs serve as a critical scientific reference site — a 'control' for measuring human impacts on reefs elsewhere. Despite the 2016 bleaching event causing significant coral mortality, Chagos reefs have shown encouraging recovery rates, likely due to the absence of local human pressures that compound climate stress on most other reefs.",
+  "geojson": "chagos-archipelago.geojson"
+}

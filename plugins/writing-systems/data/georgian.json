@@ -1,0 +1,15 @@
+{
+  "code": "georgian",
+  "name": "Georgian (Mkhedruli)",
+  "scriptType": "Alphabet",
+  "characters": 33,
+  "direction": "LTR",
+  "originDate": "5th century CE",
+  "sampleText": "საქართველო — სიცოცხლე",
+  "relatedScripts": [
+    "armenian"
+  ],
+  "description": "The Georgian script (Mkhedruli) is the modern alphabet used for the Georgian language. It has 33 letters with a unique rounded, flowing appearance. Georgian is one of only 14 existing scripts that are used for a single language. The script has no distinction between uppercase and lowercase in modern usage.",
+  "historicalNotes": "Georgia has had three distinct scripts: Asomtavruli (5th century), Nuskhuri (9th century), and Mkhedruli (11th century). Mkhedruli, meaning 'warrior's script,' became dominant in secular use. The origin of the Georgian script is debated, with theories linking it to Greek, Aramaic, or independent invention. In 2016, the three Georgian scripts were collectively inscribed on UNESCO's Representative List of Intangible Cultural Heritage.",
+  "geojson": "georgian.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "hai-phong",
+  "name": "Port of Hai Phong",
+  "country": "Vietnam",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 150,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South China Sea Route"
+  ],
+  "description": "Port of Hai Phong in Vietnam. Annual cargo throughput: ~150 million tons. Type: Container Port.",
+  "geojson": "hai-phong.geojson"
+}

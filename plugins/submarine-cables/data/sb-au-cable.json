@@ -1,0 +1,16 @@
+{
+  "code": "sb-au-cable",
+  "name": "SB-AU Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2188,
+  "yearLaid": 2014,
+  "rfsDate": "2017-06",
+  "owner": "Vocus",
+  "landingPoints": [
+    "Honiara, Solomon Islands",
+    "Sydney, Australia"
+  ],
+  "description": "SB-AU Cable connecting Honiara to Sydney in the Pacific.",
+  "geojson": "sb-au-cable.geojson"
+}

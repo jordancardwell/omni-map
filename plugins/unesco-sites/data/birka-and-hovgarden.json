@@ -1,0 +1,15 @@
+{
+  "code": "birka-and-hovgarden",
+  "name": "Birka and Hovgården",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Birka archaeological site is located on Björkö Island in Lake Mälar and was occupied in the 9th and 10th centuries. Hovgården is situated on the neighbouring island of Adelsö. Together, they make up an archaeological complex which illustrates the elaborate trading networks of Viking-Age Europe and their influence on the subsequent history of Scandinavia. Birka was also important as the site of the first Christian congregation in Sweden, founded in 831 by St Ansgar.",
+  "danger": false,
+  "geojson": "birka-and-hovgarden.geojson"
+}

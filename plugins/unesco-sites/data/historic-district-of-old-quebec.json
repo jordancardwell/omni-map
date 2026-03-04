@@ -1,0 +1,14 @@
+{
+  "code": "historic-district-of-old-quebec",
+  "name": "Historic District of Old Québec",
+  "type": "Cultural",
+  "country": "Canada",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Québec was founded by the French explorer Champlain in the early 17th century. It is the only North American city to have preserved its ramparts, together with the numerous bastions, gates and defensive works which still surround Old Québec. The Upper Town, built on the cliff, has remained the religious and administrative centre, with its churches, convents and other monuments like the Dauphine Redoubt, the Citadel and Château Frontenac. Together with the Lower Town and its ancient districts, it forms an urban ensemble which is one of the best examples of a fortified colonial city.",
+  "danger": false,
+  "geojson": "historic-district-of-old-quebec.geojson"
+}

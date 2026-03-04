@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gt","name":"Guatemala","country":"GT","voltageStandard":"110V"},"geometry":{"type":"Polygon","coordinates":[[[-92.2,13.7],[-92.2,17.8],[-88.2,17.8],[-88.2,13.7],[-92.2,13.7]]]}}]}

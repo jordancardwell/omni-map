@@ -1,0 +1,14 @@
+{
+  "code": "kuantan",
+  "name": "Port of Kuantan",
+  "country": "Malaysia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "South China Sea Route"
+  ],
+  "description": "Port of Kuantan in Malaysia. Annual cargo throughput: ~30 million tons. Type: Bulk Port.",
+  "geojson": "kuantan.geojson"
+}

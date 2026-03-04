@@ -1,0 +1,22 @@
+{
+  "code": "haute-provence",
+  "name": "Observatoire de Haute-Provence",
+  "country": "France",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 650,
+  "aperture": "1.93 m",
+  "telescopes": [
+    "1.93m",
+    "1.52m",
+    "1.20m"
+  ],
+  "keyDiscoveries": [
+    "First exoplanet around sun-like star (51 Peg b)",
+    "Stellar spectroscopy",
+    "Comet studies"
+  ],
+  "location": "Observatoire de Haute-Provence, France",
+  "description": "Historic French observatory where Mayor and Queloz discovered 51 Pegasi b in 1995, the first exoplanet orbiting a sun-like star, earning the 2019 Nobel Prize.",
+  "geojson": "haute-provence.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "blue-raman",
+  "name": "Blue-Raman",
+  "capacityTbps": 150,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 10500,
+  "yearLaid": 2020,
+  "rfsDate": "2024-06",
+  "owner": "Google",
+  "landingPoints": [
+    "Mumbai, India",
+    "Muscat, Oman",
+    "Djibouti, Djibouti",
+    "Jeddah, Saudi Arabia",
+    "Aqaba, Jordan",
+    "Genoa, Italy"
+  ],
+  "description": "Google's private cable connecting India to Europe, named after physicist C.V. Raman.",
+  "geojson": "blue-raman.geojson"
+}

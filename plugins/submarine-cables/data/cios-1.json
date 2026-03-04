@@ -1,0 +1,16 @@
+{
+  "code": "cios-1",
+  "name": "CIOS-1",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 677,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "Bezeq",
+  "landingPoints": [
+    "Haifa, Israel",
+    "Alexandria, Egypt"
+  ],
+  "description": "CIOS-1 cable connecting Haifa to Alexandria across the Mediterranean.",
+  "geojson": "cios-1.geojson"
+}

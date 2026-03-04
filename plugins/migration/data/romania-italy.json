@@ -1,0 +1,18 @@
+{
+  "code": "romania-italy",
+  "name": "Romania \u2192 Italy",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Romania \u2192 Italy",
+  "badgeValue": "~1.1 million",
+  "origin": "Romania",
+  "destination": "Italy",
+  "estimatedMigrants": "~1.1 million",
+  "drivers": [
+    "EU free movement",
+    "Latin language affinity",
+    "Labor demand",
+    "Diaspora networks"
+  ],
+  "description": "Romanians form the largest immigrant group in Italy, facilitated by EU freedom of movement and linguistic similarity between the two Romance languages. Migration surged after Romania's EU accession in 2007. Romanian workers are prominent in agriculture, construction, elderly care, and domestic services. The community is concentrated in Lombardy, Lazio, Veneto, and Piedmont.",
+  "geojson": "romania-italy.geojson"
+}

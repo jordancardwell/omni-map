@@ -1,0 +1,18 @@
+{
+  "code": "mad-ist",
+  "name": "Madrid — Istanbul",
+  "airports": [
+    "MAD",
+    "IST"
+  ],
+  "distanceKm": 2703,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Iberia",
+    "Turkish Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MAD–IST route between Madrid and Istanbul. Distance: 2,703 km. ~50 weekly flights operated by Iberia, Turkish Airlines.",
+  "geojson": "mad-ist.geojson"
+}

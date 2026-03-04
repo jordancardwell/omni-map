@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"huf","name":"Hungarian Forint","country":"HU","region":"Europe"},"geometry":{"type":"Polygon","coordinates":[[[16,45.7],[16,48.6],[22.9,48.6],[22.9,45.7],[16,45.7]]]}}]}

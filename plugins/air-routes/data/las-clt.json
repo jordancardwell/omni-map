@@ -1,0 +1,17 @@
+{
+  "code": "las-clt",
+  "name": "Las Vegas — Charlotte",
+  "airports": [
+    "LAS",
+    "CLT"
+  ],
+  "distanceKm": 3077,
+  "weeklyFlights": 25,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAS–CLT route between Las Vegas and Charlotte. Distance: 3,077 km. ~25 weekly flights operated by American.",
+  "geojson": "las-clt.geojson"
+}

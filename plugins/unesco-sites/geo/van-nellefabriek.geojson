@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4325,
+          51.9244444444
+        ]
+      },
+      "properties": {
+        "code": "van-nellefabriek",
+        "name": "Van Nellefabriek",
+        "type": "Cultural",
+        "country": "Netherlands (Kingdom of the)",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

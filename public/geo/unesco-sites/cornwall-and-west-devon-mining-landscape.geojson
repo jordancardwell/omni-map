@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3836111111,
+          50.1361111111
+        ]
+      },
+      "properties": {
+        "code": "cornwall-and-west-devon-mining-landscape",
+        "name": "Cornwall and West Devon Mining Landscape",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

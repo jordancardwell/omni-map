@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7807666667,
+          3.8042916667
+        ]
+      },
+      "properties": {
+        "code": "the-archaeological-heritage-of-niah-national-parks-caves-complex",
+        "name": "The Archaeological Heritage of Niah National Park’s Caves Complex",
+        "type": "Cultural",
+        "country": "Malaysia",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

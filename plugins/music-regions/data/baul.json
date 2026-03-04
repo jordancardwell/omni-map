@@ -1,0 +1,29 @@
+{
+  "code": "baul",
+  "name": "Baul Songs",
+  "region": "Bengal (India & Bangladesh)",
+  "traditionFamily": "South Asian",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Ektara",
+    "Dotara",
+    "Dubki",
+    "Khamak",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Lalon Shah",
+    "Purna Das Baul",
+    "Parvathy Baul",
+    "Bapi Das Baul",
+    "Farida Parveen"
+  ],
+  "description": "Baul is a mystical music tradition of Bengal (spanning India and Bangladesh), practiced by wandering minstrels who reject caste and organized religion. Baul songs express a philosophy of divine love, the search for the 'Man of the Heart' (Moner Manush), and spiritual liberation. The tradition blends elements of Sufism, Vaishnavism, and Buddhism. UNESCO inscribed Baul songs in 2008.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Baul Songs",
+      "url": "https://ich.unesco.org/en/RL/baul-songs-00107"
+    }
+  ],
+  "geojson": "baul.geojson"
+}

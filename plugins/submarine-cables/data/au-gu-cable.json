@@ -1,0 +1,16 @@
+{
+  "code": "au-gu-cable",
+  "name": "AU-GU Cable",
+  "capacityTbps": 29,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 9895,
+  "yearLaid": 2016,
+  "rfsDate": "2017-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Guam"
+  ],
+  "description": "AU-GU Cable connecting Sydney to Guam.",
+  "geojson": "au-gu-cable.geojson"
+}

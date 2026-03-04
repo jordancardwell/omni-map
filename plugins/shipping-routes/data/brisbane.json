@@ -1,0 +1,15 @@
+{
+  "code": "brisbane",
+  "name": "Port of Brisbane",
+  "country": "Australia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Australia–Southeast Asia Route",
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Brisbane in Australia. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+  "geojson": "brisbane.geojson"
+}

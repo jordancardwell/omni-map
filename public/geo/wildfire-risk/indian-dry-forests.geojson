@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "indian-dry-forests", "name": "Indian Dry Deciduous Forests" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[76,25],[78,25],[80,24],[82,23],[84,22],[84,20],[82,18],[80,16],[78,15],[76,15],[74,16],[73,18],[74,20],[75,22],[76,25]]]
+    }
+  }]
+}

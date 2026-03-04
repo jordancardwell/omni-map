@@ -1,0 +1,15 @@
+{
+  "code": "sinharaja-forest-reserve",
+  "name": "Sinharaja Forest Reserve",
+  "type": "Natural",
+  "country": "Sri Lanka",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians.",
+  "danger": false,
+  "geojson": "sinharaja-forest-reserve.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "takht-e-soleyman",
+  "name": "Takht-e Soleyman",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The archaeological site of Takht-e Soleyman, in north-western Iran, is situated in a valley set in a volcanic mountain region. The site includes the principal Zoroastrian sanctuary partly rebuilt in the Ilkhanid (Mongol) period (13th century) as well as a temple of the Sasanian period (6th and 7th centuries) dedicated to Anahita. The site has important symbolic significance. The designs of the fire temple, the palace and the general layout have strongly influenced the development of Islamic architecture.",
+  "danger": false,
+  "geojson": "takht-e-soleyman.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "lhr-ist",
+  "name": "London — Istanbul",
+  "airports": [
+    "LHR",
+    "IST"
+  ],
+  "distanceKm": 2488,
+  "weeklyFlights": 90,
+  "airlines": [
+    "British Airways",
+    "Turkish Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LHR–IST route between London and Istanbul. Distance: 2,488 km. ~90 weekly flights operated by British Airways, Turkish Airlines.",
+  "geojson": "lhr-ist.geojson"
+}

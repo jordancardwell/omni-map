@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-19.05,63.6333]},"properties":{"code":"katla","name":"Katla","volcanoType":"Subglacial volcano","status":"Dormant","elevation":1512,"lastEruption":"1918","vei":5}}]}

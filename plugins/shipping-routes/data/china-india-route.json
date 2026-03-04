@@ -1,0 +1,8 @@
+{
+  "code": "china-india-route",
+  "name": "China–India Shipping Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Major trade corridor between the world's two most populous nations. Carries manufactured goods from China and raw materials/commodities between Chinese and Indian ports.",
+  "geojson": "china-india-route.geojson"
+}

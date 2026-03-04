@@ -1,0 +1,18 @@
+{
+  "code": "doh-bom",
+  "name": "Doha — Mumbai",
+  "airports": [
+    "DOH",
+    "BOM"
+  ],
+  "distanceKm": 2291,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Qatar Airways",
+    "IndiGo"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DOH–BOM route between Doha and Mumbai. Distance: 2,291 km. ~70 weekly flights operated by Qatar Airways, IndiGo.",
+  "geojson": "doh-bom.geojson"
+}

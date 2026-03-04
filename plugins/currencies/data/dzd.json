@@ -1,0 +1,16 @@
+{
+  "code": "dzd",
+  "name": "Algerian Dinar",
+  "isoCode": "DZD",
+  "symbol": "د.ج",
+  "region": "Africa",
+  "centralBank": "Bank of Algeria",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Algeria"
+  ],
+  "countryCount": 1,
+  "description": "The Algerian Dinar is the currency of Africa's largest country by area, a major natural gas and oil exporter.",
+  "historicalNotes": "Introduced in 1964, replacing the Algerian franc two years after independence from France.",
+  "geojson": "dzd.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "royal-monastery-of-santa-maria-de-guadalupe",
+  "name": "Royal Monastery of Santa María de Guadalupe",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The monastery is an outstanding repository of four centuries of Spanish religious architecture. It symbolizes two significant events in world history that occurred in 1492: the Reconquest of the Iberian peninsula by the Catholic Kings and Christopher Columbus' arrival in the Americas. Its famous statue of the Virgin became a powerful symbol of the Christianization of much of the New World.",
+  "danger": false,
+  "geojson": "royal-monastery-of-santa-maria-de-guadalupe.geojson"
+}

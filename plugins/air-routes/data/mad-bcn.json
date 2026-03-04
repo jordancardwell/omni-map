@@ -1,0 +1,19 @@
+{
+  "code": "mad-bcn",
+  "name": "Madrid — Barcelona",
+  "airports": [
+    "MAD",
+    "BCN"
+  ],
+  "distanceKm": 483,
+  "weeklyFlights": 300,
+  "airlines": [
+    "Iberia",
+    "Vueling",
+    "Air Europa"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "MAD–BCN route between Madrid and Barcelona. Distance: 483 km. ~300 weekly flights operated by Iberia, Vueling, Air Europa.",
+  "geojson": "mad-bcn.geojson"
+}

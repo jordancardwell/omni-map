@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.368055556,
+          40.48138889
+        ]
+      },
+      "properties": {
+        "code": "university-and-historic-precinct-of-alcala-de-henares",
+        "name": "University and Historic Precinct of Alcalá de Henares",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

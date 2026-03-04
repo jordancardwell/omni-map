@@ -1,0 +1,14 @@
+{
+  "code": "bastille-day",
+  "name": "Bastille Day",
+  "festivalType": "National",
+  "dateOrSeason": "July 14",
+  "origin": "French national",
+  "estimatedAttendance": "Millions across France",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military parade on Champs-Élysées; Eiffel Tower fireworks; firefighters' balls (Bals des Pompiers); community dances; picnics.",
+  "historicalBackground": "Bastille Day commemorates the storming of the Bastille prison on July 14, 1789 — the symbolic start of the French Revolution.",
+  "description": "France's national day celebrating the French Revolution, with a spectacular military parade and Eiffel Tower fireworks.",
+  "location": "Paris, France",
+  "geojson": "bastille-day.geojson"
+}

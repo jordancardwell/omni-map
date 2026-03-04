@@ -1,0 +1,12 @@
+{
+  "code": "sea",
+  "name": "Seattle-Tacoma International",
+  "iataCode": "SEA",
+  "city": "Seattle",
+  "country": "United States",
+  "annualPassengers": 50000000,
+  "classification": "Major Hub",
+  "itemCategory": "Major Hub",
+  "description": "Seattle-Tacoma International (SEA) in Seattle, United States. Annual passengers: ~50M. Classification: Major Hub.",
+  "geojson": "sea.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.70278,
+          47.39889
+        ]
+      },
+      "properties": {
+        "code": "the-loire-valley-between-sully-sur-loire-and-chalonnes",
+        "name": "The Loire Valley between Sully-sur-Loire and Chalonnes",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

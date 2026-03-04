@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8262,
+          21.4225
+        ]
+      },
+      "properties": {
+        "code": "eid-al-adha",
+        "name": "Eid al-Adha",
+        "festivalType": "Religious",
+        "dateOrSeason": "10th Dhul Hijjah (varies)",
+        "location": "Mecca, Saudi Arabia"
+      }
+    }
+  ]
+}

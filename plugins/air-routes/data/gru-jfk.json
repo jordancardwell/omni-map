@@ -1,0 +1,18 @@
+{
+  "code": "gru-jfk",
+  "name": "São Paulo — New York",
+  "airports": [
+    "GRU",
+    "JFK"
+  ],
+  "distanceKm": 7664,
+  "weeklyFlights": 30,
+  "airlines": [
+    "American",
+    "LATAM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–JFK route between São Paulo and New York. Distance: 7,664 km. ~30 weekly flights operated by American, LATAM.",
+  "geojson": "gru-jfk.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "niokolo-koba-national-park",
+  "name": "Niokolo-Koba National Park",
+  "type": "Natural",
+  "country": "Senegal",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians.",
+  "danger": false,
+  "geojson": "niokolo-koba-national-park.geojson"
+}

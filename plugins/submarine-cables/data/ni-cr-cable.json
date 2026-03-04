@@ -1,0 +1,16 @@
+{
+  "code": "ni-cr-cable",
+  "name": "NI-CR Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1795,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "Claro",
+  "landingPoints": [
+    "Managua, Nicaragua",
+    "San José, Costa Rica"
+  ],
+  "description": "NI-CR Cable connecting Managua to San José in the Caribbean region.",
+  "geojson": "ni-cr-cable.geojson"
+}

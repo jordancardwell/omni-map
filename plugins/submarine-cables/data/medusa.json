@@ -1,0 +1,22 @@
+{
+  "code": "medusa",
+  "name": "Medusa",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7100,
+  "yearLaid": 2022,
+  "rfsDate": "2024-06",
+  "owner": "AFR-IX telecom",
+  "landingPoints": [
+    "Marseille, France",
+    "Algiers, Algeria",
+    "Tunis, Tunisia",
+    "Kelibia, Tunisia",
+    "Tripoli, Libya",
+    "Athens, Greece",
+    "Alexandria, Egypt",
+    "Genoa, Italy"
+  ],
+  "description": "Mediterranean cable connecting Southern European and North African cities.",
+  "geojson": "medusa.geojson"
+}

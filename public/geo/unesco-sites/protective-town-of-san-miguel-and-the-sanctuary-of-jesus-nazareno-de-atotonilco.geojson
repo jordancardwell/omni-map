@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7463888889,
+          20.9144444444
+        ]
+      },
+      "properties": {
+        "code": "protective-town-of-san-miguel-and-the-sanctuary-of-jesus-nazareno-de-atotonilco",
+        "name": "Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

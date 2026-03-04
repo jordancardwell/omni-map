@@ -1,0 +1,16 @@
+{
+  "code": "be-uk-cable",
+  "name": "BE-UK Cable",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 131,
+  "yearLaid": 2016,
+  "rfsDate": "2012-06",
+  "owner": "Proximus",
+  "landingPoints": [
+    "Zeebrugge, Belgium",
+    "Lowestoft, UK"
+  ],
+  "description": "BE-UK Cable connecting Zeebrugge to Lowestoft in Europe.",
+  "geojson": "be-uk-cable.geojson"
+}

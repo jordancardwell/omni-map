@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-ensemble-of-merida",
+  "name": "Archaeological Ensemble of Mérida",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The colony of Augusta Emerita, which became present-day Mérida in Estremadura, was founded in 25 B.C. at the end of the Spanish Campaign and was the capital of Lusitania. The well-preserved remains of the old city include, in particular, a large bridge over the Guadiana, an amphitheatre, a theatre, a vast circus and an exceptional water-supply system. It is an excellent example of a provincial Roman capital during the empire and in the years afterwards.",
+  "danger": false,
+  "geojson": "archaeological-ensemble-of-merida.geojson"
+}

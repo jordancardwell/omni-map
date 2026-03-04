@@ -1,0 +1,15 @@
+{
+  "code": "yosemite-national-park",
+  "name": "Yosemite National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Yosemite National Park lies in the heart of California. With its 'hanging' valleys, many waterfalls, cirque lakes, polished domes, moraines and U-shaped valleys, it provides an excellent overview of all kinds of granite relief fashioned by glaciation. At 600–4,000 m, a great variety of flora and fauna can also be found here.",
+  "danger": false,
+  "geojson": "yosemite-national-park.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "hk",
+  "name": "Hong Kong",
+  "avgDownloadMbps": 270.3,
+  "avgUploadMbps": 224.1,
+  "avgLatencyMs": 5,
+  "mobileDownloadMbps": 88.6,
+  "mobileUploadMbps": 15.3,
+  "fixedDownloadMbps": 270.3,
+  "fixedUploadMbps": 224.1,
+  "rank": 2,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "Dense urban fiber network delivers exceptional speeds. Growth of ~10% year-over-year.",
+  "geojson": "hk.geojson"
+}

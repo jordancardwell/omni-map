@@ -1,0 +1,24 @@
+{
+  "code": "utc-10",
+  "name": "Hawaii-Aleutian Standard Time",
+  "nativeName": "UTC-10:00",
+  "utcOffset": "UTC-10:00",
+  "utcOffsetHours": -10,
+  "offsetGroup": "1. Far West (UTC-12 to -9)",
+  "ianaNames": [
+    "Pacific/Honolulu",
+    "Pacific/Rarotonga",
+    "Pacific/Tahiti"
+  ],
+  "countries": [
+    "Hawaii (US)",
+    "Cook Islands",
+    "French Polynesia (Tahiti)"
+  ],
+  "dstRules": "Hawaii does not observe DST; Aleutian Islands observe DST (UTC-9 in summer)",
+  "description": "Covers the Hawaiian Islands and parts of the Aleutian Islands chain. Hawaii permanently uses standard time, making it one of only two US states (along with Arizona) that do not observe DST.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-10.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91667,
+          33.08333
+        ]
+      },
+      "properties": {
+        "code": "jiuzhaigou-valley-scenic-and-historic-interest-area",
+        "name": "Jiuzhaigou Valley Scenic and Historic Interest Area",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

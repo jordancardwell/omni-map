@@ -1,0 +1,18 @@
+{
+  "code": "morocco-france",
+  "name": "Morocco \u2192 France",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Morocco \u2192 France",
+  "badgeValue": "~1.1 million",
+  "origin": "Morocco",
+  "destination": "France",
+  "estimatedMigrants": "~1.1 million",
+  "drivers": [
+    "Colonial ties",
+    "Language",
+    "Labor demand",
+    "Family networks"
+  ],
+  "description": "Moroccan migration to France is rooted in the colonial era and post-war labor recruitment. French language proficiency facilitates integration. Moroccans form one of France's largest immigrant communities, concentrated in \u00cele-de-France, Provence, and industrial northern cities. Second and third generation French-Moroccans maintain transnational ties.",
+  "geojson": "morocco-france.geojson"
+}

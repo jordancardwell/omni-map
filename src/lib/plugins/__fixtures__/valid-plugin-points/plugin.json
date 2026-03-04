@@ -1,0 +1,14 @@
+{
+  "id": "cities",
+  "name": "Major Cities",
+  "description": "Major cities of the world",
+  "type": "points",
+  "version": "1.0.0",
+  "icon": "map-pin",
+  "defaultColor": "#27AE60",
+  "categories": ["geography", "urban"],
+  "dataType": "points",
+  "dataSource": "api",
+  "category": "geography",
+  "thumbnail": "#27AE60"
+}

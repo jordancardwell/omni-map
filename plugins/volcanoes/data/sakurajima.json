@@ -1,0 +1,21 @@
+{
+  "code": "sakurajima",
+  "name": "Sakurajima",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1117,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in the world. Has been in near-continuous eruption since 1955. The 1914 eruption was the most powerful in 20th century Japan.",
+  "description": "Sakurajima is one of Japan's most active volcanoes, located in Kagoshima Bay. It was formerly an island but became connected to the Osumi Peninsula by lava flows from the 1914 eruption.",
+  "geojson": "sakurajima.geojson"
+}

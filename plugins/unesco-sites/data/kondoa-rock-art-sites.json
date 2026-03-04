@@ -1,0 +1,14 @@
+{
+  "code": "kondoa-rock-art-sites",
+  "name": "Kondoa Rock-Art Sites",
+  "type": "Cultural",
+  "country": "United Republic of Tanzania",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km2 , many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions.",
+  "danger": false,
+  "geojson": "kondoa-rock-art-sites.geojson"
+}

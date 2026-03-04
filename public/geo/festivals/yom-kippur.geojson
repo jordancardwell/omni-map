@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7818,
+          32.0853
+        ]
+      },
+      "properties": {
+        "code": "yom-kippur",
+        "name": "Yom Kippur",
+        "festivalType": "Religious",
+        "dateOrSeason": "September–October (Tishrei 10)",
+        "location": "Tel Aviv, Israel"
+      }
+    }
+  ]
+}

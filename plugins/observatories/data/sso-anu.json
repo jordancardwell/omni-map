@@ -1,0 +1,21 @@
+{
+  "code": "sso-anu",
+  "name": "ANU Siding Spring Station",
+  "country": "Australia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1149,
+  "aperture": "2.3 m",
+  "telescopes": [
+    "ANU 2.3m",
+    "SkyMapper 1.35m"
+  ],
+  "keyDiscoveries": [
+    "SkyMapper Southern Sky Survey",
+    "Most iron-poor stars",
+    "Transient discoveries"
+  ],
+  "location": "ANU Siding Spring Station, Australia",
+  "description": "Australian National University facility at Siding Spring. SkyMapper is creating the first comprehensive digital survey of the entire southern sky.",
+  "geojson": "sso-anu.geojson"
+}

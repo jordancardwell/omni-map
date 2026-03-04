@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc+2","name":"Eastern European Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[22.5,-60],[37.5,-60],[37.5,84],[22.5,84],[22.5,-60]]]}}]}

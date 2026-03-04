@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[40.67,13.6]},"properties":{"code":"erta-ale","name":"Erta Ale","volcanoType":"Shield volcano","status":"Erupting/Recent","elevation":613,"lastEruption":"2023","vei":0}}]}

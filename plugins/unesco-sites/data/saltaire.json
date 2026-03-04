@@ -1,0 +1,15 @@
+{
+  "code": "saltaire",
+  "name": "Saltaire",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Saltaire, West Yorkshire, is a complete and well-preserved industrial village of the second half of the 19th century. Its textile mills, public buildings and workers' housing are built in a harmonious style of high architectural standards and the urban plan survives intact, giving a vivid impression of Victorian philanthropic paternalism.",
+  "danger": false,
+  "geojson": "saltaire.geojson"
+}

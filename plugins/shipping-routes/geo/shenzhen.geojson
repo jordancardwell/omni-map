@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"shenzhen","name":"Port of Shenzhen","featureType":"port","portType":"Container Port","country":"China"},"geometry":{"type":"Point","coordinates":[114.05,22.54]}}]}

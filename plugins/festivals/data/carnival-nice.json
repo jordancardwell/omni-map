@@ -1,0 +1,14 @@
+{
+  "code": "carnival-nice",
+  "name": "Carnival of Nice",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February",
+  "origin": "French Riviera tradition",
+  "estimatedAttendance": "1+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Flower battle parades with decorated floats; giant papier-mâché king figure; corso carnavalesque (night parade); confetti battles.",
+  "historicalBackground": "Nice Carnival dates to 1294 when Charles of Anjou mentioned it. The modern format with floats and flower battles was established in the 19th century.",
+  "description": "The French Riviera's dazzling carnival, famous for its flower battle parades where performers throw thousands of fresh blooms to spectators.",
+  "location": "Nice, France",
+  "geojson": "carnival-nice.geojson"
+}

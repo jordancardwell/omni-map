@@ -1,0 +1,42 @@
+{
+  "id": "migration",
+  "name": "Migration Patterns",
+  "description": "Global migration patterns — bird flyways rendered as wide semi-transparent polygon corridors and top human migration corridors as arc lines with thickness by volume",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "bird",
+  "defaultColor": "#0EA5E9",
+  "categories": ["migration", "ecology", "demographics"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Migration & Movement",
+  "thumbnail": "#0EA5E9",
+  "schema": "MigrationMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "layerGroup", "description"],
+    "groupBy": "layerGroup",
+    "titleField": "name",
+    "subtitleField": "subtitle",
+    "badgeField": "badgeValue",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "layerGroup"
+  },
+  "detailFields": [
+    { "key": "layerGroup", "label": "Category", "type": "status-badge", "statusColors": {
+      "Bird Flyways": "#0EA5E9",
+      "Human Migration Corridors": "#F59E0B"
+    }},
+    { "key": "speciesCount", "label": "Migratory Species", "type": "text" },
+    { "key": "keyStopoverSites", "label": "Key Stopover Sites", "type": "tags" },
+    { "key": "threats", "label": "Threats", "type": "tags" },
+    { "key": "origin", "label": "Origin", "type": "text" },
+    { "key": "destination", "label": "Destination", "type": "text" },
+    { "key": "estimatedMigrants", "label": "Estimated Migrants", "type": "text" },
+    { "key": "drivers", "label": "Migration Drivers", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

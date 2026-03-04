@@ -1,0 +1,33 @@
+{
+  "code": "chinese-shandong",
+  "name": "Shandong Cuisine (Lu)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Shandong (Lu) cuisine is considered the most influential of China's Eight Great Cuisines, forming the foundation of northern Chinese cooking. Known for its fresh seafood preparations, crispy textures, and mastery of broth-based dishes. Quick-frying and deep-frying techniques produce signature crispy textures.",
+  "signatureDishes": [
+    "Braised Sea Cucumber",
+    "Sweet and Sour Carp",
+    "Dezhou Braised Chicken",
+    "Jiuzhuan Dachang"
+  ],
+  "keyIngredients": [
+    "Seafood",
+    "Vinegar",
+    "Scallions",
+    "Garlic",
+    "Peanuts",
+    "Corn"
+  ],
+  "cookingTechniques": [
+    "Bao (quick-frying)",
+    "Pa (braising)",
+    "Decocting broths",
+    "Deep frying"
+  ],
+  "unescoRecognition": "None specific; Chinese culinary arts widely recognized",
+  "keyRegions": [
+    "Shandong Province",
+    "Jinan",
+    "Qingdao"
+  ],
+  "geojson": "chinese-shandong.geojson"
+}

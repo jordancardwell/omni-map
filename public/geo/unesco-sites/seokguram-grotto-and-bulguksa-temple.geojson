@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.349029,
+          35.791498
+        ]
+      },
+      "properties": {
+        "code": "seokguram-grotto-and-bulguksa-temple",
+        "name": "Seokguram Grotto and Bulguksa Temple",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

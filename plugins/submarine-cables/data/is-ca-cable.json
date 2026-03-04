@@ -1,0 +1,16 @@
+{
+  "code": "is-ca-cable",
+  "name": "IS-CA Cable",
+  "capacityTbps": 47,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 12916,
+  "yearLaid": 2019,
+  "rfsDate": "2014-06",
+  "owner": "Farice",
+  "landingPoints": [
+    "Reykjavik, Iceland",
+    "Halifax, Canada"
+  ],
+  "description": "IS-CA Cable connecting Reykjavik to Halifax.",
+  "geojson": "is-ca-cable.geojson"
+}

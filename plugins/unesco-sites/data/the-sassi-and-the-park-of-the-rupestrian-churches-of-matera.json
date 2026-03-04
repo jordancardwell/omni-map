@@ -1,0 +1,16 @@
+{
+  "code": "the-sassi-and-the-park-of-the-rupestrian-churches-of-matera",
+  "name": "The Sassi and the Park of the Rupestrian Churches of Matera",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "This is the most outstanding, intact example of a troglodyte settlement in the Mediterranean region, perfectly adapted to its terrain and ecosystem. The first inhabited zone dates from the Palaeolithic, while later settlements illustrate a number of significant stages in human history. Matera is in the southern region of Basilicata.",
+  "danger": false,
+  "geojson": "the-sassi-and-the-park-of-the-rupestrian-churches-of-matera.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "atl-phx",
+  "name": "Atlanta — Phoenix",
+  "airports": [
+    "ATL",
+    "PHX"
+  ],
+  "distanceKm": 2549,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Delta",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–PHX route between Atlanta and Phoenix. Distance: 2,549 km. ~60 weekly flights operated by Delta, Southwest.",
+  "geojson": "atl-phx.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "lhr-fra",
+  "name": "London — Frankfurt",
+  "airports": [
+    "LHR",
+    "FRA"
+  ],
+  "distanceKm": 654,
+  "weeklyFlights": 170,
+  "airlines": [
+    "British Airways",
+    "Lufthansa"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–FRA route between London and Frankfurt. Distance: 654 km. ~170 weekly flights operated by British Airways, Lufthansa.",
+  "geojson": "lhr-fra.geojson"
+}

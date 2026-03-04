@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1377777777,
+          9.3088888888
+        ]
+      },
+      "properties": {
+        "code": "harar-jugol-the-fortified-historic-town",
+        "name": "Harar Jugol, the Fortified Historic Town",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

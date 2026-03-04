@@ -1,0 +1,18 @@
+{
+  "code": "ag",
+  "name": "Antigua and Barbuda",
+  "voltage": "230V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "US-style plug shape but at 230V. Ensure your device supports 220-240V before plugging in.",
+  "geojson": "ag.geojson"
+}

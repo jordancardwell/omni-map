@@ -1,0 +1,17 @@
+{
+  "code": "dz",
+  "name": "Algeria",
+  "avgDownloadMbps": 13.2,
+  "avgUploadMbps": 3.2,
+  "avgLatencyMs": 38,
+  "mobileDownloadMbps": 14.8,
+  "mobileUploadMbps": 3.2,
+  "fixedDownloadMbps": 13.2,
+  "fixedUploadMbps": 3.2,
+  "rank": 129,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "North Africa",
+  "dataYear": 2024,
+  "trendDescription": "Large country with limited fixed broadband. ~12% year-over-year growth.",
+  "geojson": "dz.geojson"
+}

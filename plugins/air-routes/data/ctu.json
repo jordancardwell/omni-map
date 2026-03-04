@@ -1,0 +1,12 @@
+{
+  "code": "ctu",
+  "name": "Chengdu Tianfu International",
+  "iataCode": "CTU",
+  "city": "Chengdu",
+  "country": "China",
+  "annualPassengers": 48500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Chengdu Tianfu International (CTU) in Chengdu, China. Annual passengers: ~48.5M. Classification: International Hub.",
+  "geojson": "ctu.geojson"
+}

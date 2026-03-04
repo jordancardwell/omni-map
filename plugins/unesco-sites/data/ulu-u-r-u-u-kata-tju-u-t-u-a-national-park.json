@@ -1,0 +1,16 @@
+{
+  "code": "ulu-u-r-u-u-kata-tju-u-t-u-a-national-park",
+  "name": "Uluru-Kata Tjuta National Park",
+  "type": "Mixed",
+  "country": "Australia",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(v)",
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This park, formerly called Uluru (Ayers Rock – Mount Olga) National Park, features spectacular geological formations that dominate the vast red sandy plain of central Australia. Uluru, an immense monolith, and Kata Tjuta, the rock domes located west of Uluru, form part of the traditional belief system of one of the oldest human societies in the world. The traditional owners of Uluru-Kata Tjuta are the Anangu Aboriginal people.",
+  "danger": false,
+  "geojson": "ulu-u-r-u-u-kata-tju-u-t-u-a-national-park.geojson"
+}

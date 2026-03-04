@@ -1,0 +1,16 @@
+{
+  "code": "tnd",
+  "name": "Tunisian Dinar",
+  "isoCode": "TND",
+  "symbol": "د.ت",
+  "region": "Africa",
+  "centralBank": "Central Bank of Tunisia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Tunisia"
+  ],
+  "countryCount": 1,
+  "description": "The Tunisian Dinar is the currency of Tunisia, birthplace of the Arab Spring.",
+  "historicalNotes": "Introduced in 1958, replacing the Tunisian franc after independence from France.",
+  "geojson": "tnd.geojson"
+}

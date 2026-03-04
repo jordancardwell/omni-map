@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.3781111111,
+          22.6952222222
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-qalhat",
+        "name": "Ancient City of Qalhat",
+        "type": "Cultural",
+        "country": "Oman",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

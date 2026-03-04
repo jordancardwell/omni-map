@@ -1,0 +1,21 @@
+{
+  "code": "north-equatorial-pacific",
+  "name": "North Equatorial Current (Pacific)",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "Central American coast",
+  "destination": "Philippine Sea",
+  "climateEffects": [
+    "Drives Pacific tropical circulation",
+    "Influences ENSO (El Nino)",
+    "Transports warm water westward"
+  ],
+  "connectedEcosystems": [
+    "Pacific tropical fisheries",
+    "Micronesian reef systems",
+    "Philippine Sea biodiversity"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Pacific North Equatorial Current flows westward across the tropical Pacific, driven by trade winds. It feeds the Kuroshio Current system and plays a role in El Nino/La Nina oscillations.",
+  "geojson": "north-equatorial-pacific.geojson"
+}

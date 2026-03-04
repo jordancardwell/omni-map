@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883,
+          55.9533
+        ]
+      },
+      "properties": {
+        "code": "beltane",
+        "name": "Beltane Fire Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "April 30",
+        "location": "Edinburgh, UK"
+      }
+    }
+  ]
+}

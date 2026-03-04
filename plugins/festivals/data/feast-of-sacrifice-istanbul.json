@@ -1,0 +1,14 @@
+{
+  "code": "feast-of-sacrifice-istanbul",
+  "name": "Kurban Bayramı (Istanbul)",
+  "festivalType": "Religious",
+  "dateOrSeason": "10th Dhul Hijjah (varies)",
+  "origin": "Islamic Turkish tradition",
+  "estimatedAttendance": "16+ million in Istanbul",
+  "unescoICH": "Not inscribed",
+  "traditions": "Ritual sacrifice; meat distribution to neighbors and poor; family visits; special mosque prayers; Turkish delight and baklava.",
+  "historicalBackground": "Istanbul's observance blends Ottoman-era traditions with the universal Islamic celebration, centered on historic mosques like the Blue Mosque and Süleymaniye.",
+  "description": "Istanbul's observance of the Feast of Sacrifice, blending Ottoman grandeur with Islamic devotion at the city's magnificent mosques.",
+  "location": "Istanbul, Turkey",
+  "geojson": "feast-of-sacrifice-istanbul.geojson"
+}

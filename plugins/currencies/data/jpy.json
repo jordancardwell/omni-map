@@ -1,0 +1,16 @@
+{
+  "code": "jpy",
+  "name": "Japanese Yen",
+  "isoCode": "JPY",
+  "symbol": "¥",
+  "region": "Asia",
+  "centralBank": "Bank of Japan",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Japan"
+  ],
+  "countryCount": 1,
+  "description": "The Japanese Yen is the third most traded currency globally and a major reserve currency. Japan has the world's third-largest economy.",
+  "historicalNotes": "The yen was introduced in 1871 during the Meiji era modernization. After World War II, the yen was pegged to the US dollar at 360:1 until 1971. Japan's 'lost decades' of deflation from the 1990s shaped modern monetary policy globally.",
+  "geojson": "jpy.geojson"
+}

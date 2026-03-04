@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4430555556,
+          19.7361111111
+        ]
+      },
+      "properties": {
+        "code": "sanganeb-marine-national-park-and-dungonab-bay-mukkawar-island-marine-national-p",
+        "name": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
+        "type": "Natural",
+        "country": "Sudan",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "cultural-landscape-of-sintra",
+  "name": "Cultural Landscape of Sintra",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the 19th century Sintra became the first centre of European Romantic architecture. Ferdinand II turned a ruined monastery into a castle where this new sensitivity was displayed in the use of Gothic, Egyptian, Moorish and Renaissance elements and in the creation of a park blending local and exotic species of trees. Other fine dwellings, built along the same lines in the surrounding serra , created a unique combination of parks and gardens which influenced the development of landscape architecture throughout Europe.",
+  "danger": false,
+  "geojson": "cultural-landscape-of-sintra.geojson"
+}

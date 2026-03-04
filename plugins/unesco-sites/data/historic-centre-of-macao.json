@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-macao",
+  "name": "Historic Centre of Macao",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2005",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Macao, a lucrative port of strategic importance in the development of international trade, was under Portuguese administration from the mid-16th century until 1999, when it came under Chinese sovereignty. With its historic street, residential, religious and public Portuguese and Chinese buildings, the historic centre of Macao provides a unique testimony to the meeting of aesthetic, cultural, architectural and technological influences from East and West. The site also contains a fortress and a lighthouse, the oldest in China. It bears witness to one of the earliest and longest-lasting encounters between China and the West, based on the vibrancy of international trade.",
+  "danger": false,
+  "geojson": "historic-centre-of-macao.geojson"
+}

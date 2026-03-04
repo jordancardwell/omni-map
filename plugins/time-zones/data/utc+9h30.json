@@ -1,0 +1,21 @@
+{
+  "code": "utc+9h30",
+  "name": "Australian Central Standard Time",
+  "nativeName": "UTC+09:30",
+  "utcOffset": "UTC+09:30",
+  "utcOffsetHours": 9.5,
+  "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+  "ianaNames": [
+    "Australia/Adelaide",
+    "Australia/Darwin"
+  ],
+  "countries": [
+    "Australia (South Australia, Northern Territory)"
+  ],
+  "dstRules": "South Australia observes DST (UTC+10:30 in summer, Oct–Apr); Northern Territory does not",
+  "description": "Covers Australia's central states. Adelaide (South Australia) observes DST while Darwin (Northern Territory) does not, creating a seasonal time difference within the same standard timezone. The half-hour offset dates back to colonial-era telegraph coordination.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+9h30.geojson"
+}

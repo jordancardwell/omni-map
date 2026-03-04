@@ -1,0 +1,17 @@
+{
+  "code": "cy",
+  "name": "Cyprus",
+  "avgDownloadMbps": 82.6,
+  "avgUploadMbps": 18.4,
+  "avgLatencyMs": 19,
+  "mobileDownloadMbps": 36.8,
+  "mobileUploadMbps": 7.6,
+  "fixedDownloadMbps": 82.6,
+  "fixedUploadMbps": 18.4,
+  "rank": 55,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Small island with growing connectivity. ~14% year-over-year growth.",
+  "geojson": "cy.geojson"
+}

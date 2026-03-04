@@ -1,0 +1,17 @@
+{
+  "code": "historic-areas-of-istanbul",
+  "name": "Historic Areas of Istanbul",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "With its strategic location on the Bosphorus peninsula between the Balkans and Anatolia, the Black Sea and the Mediterranean, Istanbul has been associated with major political, religious and artistic events for more than 2,000 years. Its masterpieces include the ancient Hippodrome of Constantine, the 6th-century Hagia Sophia and the 16th-century Süleymaniye Mosque, all now under threat from population pressure, industrial pollution and uncontrolled urbanization.",
+  "danger": false,
+  "geojson": "historic-areas-of-istanbul.geojson"
+}

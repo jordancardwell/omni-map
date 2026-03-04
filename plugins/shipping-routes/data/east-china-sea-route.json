@@ -1,0 +1,8 @@
+{
+  "code": "east-china-sea-route",
+  "name": "East China Sea–Japan Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Dense shipping network in the East China Sea connecting Chinese manufacturing ports to Japanese and Korean ports. One of the world's most trafficked maritime areas.",
+  "geojson": "east-china-sea-route.geojson"
+}

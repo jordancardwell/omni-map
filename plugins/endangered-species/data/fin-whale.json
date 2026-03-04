@@ -1,0 +1,19 @@
+{
+  "code": "fin-whale",
+  "name": "Fin Whale",
+  "scientificName": "Balaenoptera physalus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~100,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Open ocean",
+  "threats": [
+    "Ship strikes",
+    "Ocean noise",
+    "Pollution",
+    "Climate change"
+  ],
+  "conservationEfforts": "Protected under the International Whaling Commission moratorium. Critical habitat areas identified in key feeding grounds.",
+  "description": "The second-largest animal on Earth after the blue whale, reaching 27 meters. Unusually, their lower jaw is asymmetrically colored — white on the right and dark on the left.",
+  "geojson": "fin-whale.geojson"
+}

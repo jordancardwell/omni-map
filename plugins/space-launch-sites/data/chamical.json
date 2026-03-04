@@ -1,0 +1,17 @@
+{
+  "code": "chamical",
+  "name": "Centro de Experimentacion y Lanzamiento de Proyectiles Autopropulsados (CELPA)",
+  "country": "Argentina",
+  "operator": "CNIE / CONAE",
+  "coordinates": "30.3500°S, 66.2800°W",
+  "status": "Historical",
+  "notableLaunches": [
+    "Rigel sounding rockets",
+    "Orion series",
+    "Castor/Canopus rockets"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Centro de Experimentacion y Lanzamiento de Proyectiles Autopropulsados (CELPA), Argentina",
+  "description": "Argentina's rocket launch center in La Rioja province. Active from 1961 through the 1990s for sounding rocket research. Argentina's space launch activities later consolidated at other facilities.",
+  "geojson": "chamical.geojson"
+}

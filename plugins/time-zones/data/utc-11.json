@@ -1,0 +1,24 @@
+{
+  "code": "utc-11",
+  "name": "Samoa Standard Time",
+  "nativeName": "UTC-11:00",
+  "utcOffset": "UTC-11:00",
+  "utcOffsetHours": -11,
+  "offsetGroup": "1. Far West (UTC-12 to -9)",
+  "ianaNames": [
+    "Pacific/Pago_Pago",
+    "Pacific/Niue",
+    "Pacific/Midway"
+  ],
+  "countries": [
+    "American Samoa (US)",
+    "Niue",
+    "Midway Atoll (US)"
+  ],
+  "dstRules": "No DST observed",
+  "description": "Covers American Samoa and Niue in the South Pacific. American Samoa is one of the few US territories that does not observe daylight saving time.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-11.geojson"
+}

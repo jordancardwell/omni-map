@@ -1,0 +1,14 @@
+{
+  "code": "kronborg-castle",
+  "name": "Kronborg Castle",
+  "type": "Cultural",
+  "country": "Denmark",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located on a strategically important site commanding the Sund, the stretch of water between Denmark and Sweden, the Royal castle of Kronborg at Helsingør (Elsinore) is of immense symbolic value to the Danish people and played a key role in the history of northern Europe in the 16th-18th centuries. Work began on the construction of this outstanding Renaissance castle in 1574, and its defences were reinforced according to the canons of the period's military architecture in the late 17th century. It has remained intact to the present day. It is world-renowned as Elsinore, the setting of Shakespeare's Hamlet.",
+  "danger": false,
+  "geojson": "kronborg-castle.geojson"
+}

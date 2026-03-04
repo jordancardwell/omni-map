@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.140164,
+          -15.934231
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-the-town-of-goias",
+        "name": "Historic Centre of the Town of Goiás",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

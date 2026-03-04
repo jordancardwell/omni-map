@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-vienna",
+  "name": "Historic Centre of Vienna",
+  "type": "Cultural",
+  "country": "Austria",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Vienna developed from early Celtic and Roman settlements into a Medieval and Baroque city, the capital of the Austro-Hungarian Empire. It played an essential role as a leading European music centre, from the great age of Viennese Classicism through the early part of the 20th century. The historic centre of Vienna is rich in architectural ensembles, including Baroque castles and gardens, as well as the late-19th-century Ringstrasse lined with grand buildings, monuments and parks.",
+  "danger": true,
+  "geojson": "historic-centre-of-vienna.geojson"
+}

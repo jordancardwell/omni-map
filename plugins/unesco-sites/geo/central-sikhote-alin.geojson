@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.6611111111,
+          46.6833333333
+        ]
+      },
+      "properties": {
+        "code": "central-sikhote-alin",
+        "name": "Central Sikhote-Alin",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

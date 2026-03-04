@@ -1,0 +1,16 @@
+{
+  "code": "piazza-del-duomo-pisa",
+  "name": "Piazza del Duomo, Pisa",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Standing in a large green expanse, Piazza del Duomo houses a group of monuments known the world over. These four masterpieces of medieval architecture – the cathedral, the baptistry, the campanile (the 'Leaning Tower') and the cemetery – had a great influence on monumental art in Italy from the 11th to the 14th century.",
+  "danger": false,
+  "geojson": "piazza-del-duomo-pisa.geojson"
+}

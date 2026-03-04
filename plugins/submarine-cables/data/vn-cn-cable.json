@@ -1,0 +1,16 @@
+{
+  "code": "vn-cn-cable",
+  "name": "VN-CN Cable",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4436,
+  "yearLaid": 2013,
+  "rfsDate": "2014-06",
+  "owner": "VNPT",
+  "landingPoints": [
+    "Hai Phong, Vietnam",
+    "Haikou, China"
+  ],
+  "description": "VN-CN Cable connecting Hai Phong to Haikou.",
+  "geojson": "vn-cn-cable.geojson"
+}

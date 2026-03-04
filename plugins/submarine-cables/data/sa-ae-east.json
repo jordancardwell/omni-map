@@ -1,0 +1,16 @@
+{
+  "code": "sa-ae-east",
+  "name": "SA-AE East",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 872,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "STC",
+  "landingPoints": [
+    "Dammam, Saudi Arabia",
+    "Dubai, UAE"
+  ],
+  "description": "SA-AE East connecting Dammam to Dubai in the Middle East.",
+  "geojson": "sa-ae-east.geojson"
+}

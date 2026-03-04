@@ -1,0 +1,21 @@
+{
+  "code": "pacaya",
+  "name": "Pacaya",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 2552,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Guatemala",
+  "region": "Escuintla",
+  "location": "Escuintla, Guatemala",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Volcanic bombs"
+  ],
+  "eruptionHistory": "Has been in near-continuous eruption since 1961. One of Guatemala's most active volcanoes.",
+  "description": "Pacaya is one of Guatemala's most active and accessible volcanoes. Its frequent eruptions and proximity to Guatemala City make it a popular tourist destination.",
+  "geojson": "pacaya.geojson"
+}

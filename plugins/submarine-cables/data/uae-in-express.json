@@ -1,0 +1,16 @@
+{
+  "code": "uae-in-express",
+  "name": "UAE-IN Express",
+  "capacityTbps": 19,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5708,
+  "yearLaid": 2014,
+  "rfsDate": "2018-06",
+  "owner": "Etisalat",
+  "landingPoints": [
+    "Fujairah, UAE",
+    "Mumbai, India"
+  ],
+  "description": "UAE-IN Express connecting Fujairah to Mumbai.",
+  "geojson": "uae-in-express.geojson"
+}

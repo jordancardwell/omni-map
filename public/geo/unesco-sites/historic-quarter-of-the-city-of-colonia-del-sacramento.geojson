@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.849898,
+          -34.47119
+        ]
+      },
+      "properties": {
+        "code": "historic-quarter-of-the-city-of-colonia-del-sacramento",
+        "name": "Historic Quarter of the City of Colonia del Sacramento",
+        "type": "Cultural",
+        "country": "Uruguay",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

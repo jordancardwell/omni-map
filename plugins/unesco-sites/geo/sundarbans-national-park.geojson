@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.89583333,
+          21.945
+        ]
+      },
+      "properties": {
+        "code": "sundarbans-national-park",
+        "name": "Sundarbans National Park",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

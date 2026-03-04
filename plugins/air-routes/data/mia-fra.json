@@ -1,0 +1,17 @@
+{
+  "code": "mia-fra",
+  "name": "Miami — Frankfurt",
+  "airports": [
+    "MIA",
+    "FRA"
+  ],
+  "distanceKm": 7762,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MIA–FRA route between Miami and Frankfurt. Distance: 7,762 km. ~25 weekly flights operated by Lufthansa.",
+  "geojson": "mia-fra.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "wartburg-castle",
+  "name": "Wartburg Castle",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Wartburg Castle blends superbly into its forest surroundings and is in many ways 'the ideal castle'. Although it has retained some original sections from the feudal period, the form it acquired during the 19th-century reconstitution gives a good idea of what this fortress might have been at the height of its military and seigneurial power. It was during his exile at Wartburg Castle that Martin Luther translated the New Testament into German.",
+  "danger": false,
+  "geojson": "wartburg-castle.geojson"
+}

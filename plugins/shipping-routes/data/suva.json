@@ -1,0 +1,14 @@
+{
+  "code": "suva",
+  "name": "Port of Suva",
+  "country": "Fiji",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 3,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Suva in Fiji. Annual cargo throughput: ~3 million tons. Type: Multi-Purpose Port.",
+  "geojson": "suva.geojson"
+}

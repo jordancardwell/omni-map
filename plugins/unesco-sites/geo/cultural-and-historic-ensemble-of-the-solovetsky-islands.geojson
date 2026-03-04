@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66666667,
+          65.08333333
+        ]
+      },
+      "properties": {
+        "code": "cultural-and-historic-ensemble-of-the-solovetsky-islands",
+        "name": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

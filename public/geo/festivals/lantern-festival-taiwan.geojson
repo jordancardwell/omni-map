@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654,
+          25.033
+        ]
+      },
+      "properties": {
+        "code": "lantern-festival-taiwan",
+        "name": "Taiwan Lantern Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "15th of 1st lunar month",
+        "location": "Taipei, Taiwan"
+      }
+    }
+  ]
+}

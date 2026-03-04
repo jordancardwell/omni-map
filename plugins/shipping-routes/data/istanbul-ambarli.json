@@ -1,0 +1,15 @@
+{
+  "code": "istanbul-ambarli",
+  "name": "Ambarli (Istanbul)",
+  "country": "Turkey",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 50,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Black Sea Shipping Route",
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Ambarli (Istanbul) in Turkey. Annual cargo throughput: ~50 million tons. Type: Container Port.",
+  "geojson": "istanbul-ambarli.geojson"
+}

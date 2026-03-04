@@ -1,0 +1,16 @@
+{
+  "code": "us-east-coast-2",
+  "name": "US East Coast-2",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 414,
+  "yearLaid": 2018,
+  "rfsDate": "2011-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "New York, USA"
+  ],
+  "description": "US East Coast-2 connecting Virginia Beach to New York.",
+  "geojson": "us-east-coast-2.geojson"
+}

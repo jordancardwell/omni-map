@@ -1,0 +1,18 @@
+{
+  "code": "ist-jed",
+  "name": "Istanbul — Jeddah",
+  "airports": [
+    "IST",
+    "JED"
+  ],
+  "distanceKm": 2388,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Turkish Airlines",
+    "Saudia"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IST–JED route between Istanbul and Jeddah. Distance: 2,388 km. ~70 weekly flights operated by Turkish Airlines, Saudia.",
+  "geojson": "ist-jed.geojson"
+}

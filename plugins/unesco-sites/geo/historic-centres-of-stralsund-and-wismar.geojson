@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08527778,
+          54.3025
+        ]
+      },
+      "properties": {
+        "code": "historic-centres-of-stralsund-and-wismar",
+        "name": "Historic Centres of Stralsund and Wismar",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

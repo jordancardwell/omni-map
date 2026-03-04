@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.7528,18.3464]},"properties":{"code":"arecibo","name":"Arecibo Observatory","observatoryType":"Radio","status":"Decommissioned","country":"Puerto Rico"}}]}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.806111111,
+          43.95277778
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-avignon-papal-palace-episcopal-ensemble-and-avignon-bridge",
+        "name": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

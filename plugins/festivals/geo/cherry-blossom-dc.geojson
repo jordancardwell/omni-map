@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365,
+          38.8814
+        ]
+      },
+      "properties": {
+        "code": "cherry-blossom-dc",
+        "name": "National Cherry Blossom Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Late March–April",
+        "location": "Washington D.C., USA"
+      }
+    }
+  ]
+}

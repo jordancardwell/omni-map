@@ -1,0 +1,16 @@
+{
+  "code": "wadi-rum-protected-area",
+  "name": "Wadi Rum Protected Area",
+  "type": "Mixed",
+  "country": "Jordan",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(iii)",
+    "(v)",
+    "(vii)"
+  ],
+  "region": "Arab States",
+  "description": "The 74,000-hectare property, inscribed as a mixed natural and cultural site, is situated in southern Jordan, near the border with Saudi Arabia. It features a varied desert landscape consisting of a range of narrow gorges, natural arches, towering cliffs, ramps, massive landslides and caverns. Petroglyphs, inscriptions and archaeological remains in the site testify to 12,000 years of human occupation and interaction with the natural environment. The combination of 25,000 rock carvings with 20,000 inscriptions trace the evolution of human thought and the early development of the alphabet. The site illustrates the evolution of pastoral, agricultural and urban activity in the region.",
+  "danger": false,
+  "geojson": "wadi-rum-protected-area.geojson"
+}

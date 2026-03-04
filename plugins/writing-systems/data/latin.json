@@ -1,0 +1,16 @@
+{
+  "code": "latin",
+  "name": "Latin",
+  "scriptType": "Alphabet",
+  "characters": 26,
+  "direction": "LTR",
+  "originDate": "~700 BCE",
+  "sampleText": "The quick brown fox jumps over the lazy dog",
+  "relatedScripts": [
+    "cyrillic",
+    "greek"
+  ],
+  "description": "The Latin script is the most widely used alphabetic writing system in the world. Derived from the Greek alphabet via the Etruscan script, it is the standard script for English, Spanish, French, Portuguese, German, and many other languages across every continent.",
+  "historicalNotes": "The Latin alphabet originated in the Italian Peninsula around the 7th century BCE, adapted from the Etruscan alphabet which itself derived from the Greek. The Romans spread it throughout their empire. During the medieval period and the Age of Exploration, Latin script spread to the Americas, Africa, Asia, and Oceania. Today it is used by more languages than any other writing system.",
+  "geojson": "latin.geojson"
+}

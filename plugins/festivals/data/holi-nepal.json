@@ -1,0 +1,14 @@
+{
+  "code": "holi-nepal",
+  "name": "Holi (Fagu Purnima)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "March (full moon)",
+  "origin": "Nepalese Hindu tradition",
+  "estimatedAttendance": "Millions across Nepal",
+  "unescoICH": "Not inscribed",
+  "traditions": "Color throwing in Kathmandu's Durbar Square; erection of Chir (ceremonial bamboo pole); Newari festivities; water balloons.",
+  "historicalBackground": "In Nepal, Holi is associated with the legend of Holika and also with the deity Linga. The Chir pole ceremony in Basantapur is unique to Nepalese celebrations.",
+  "description": "Nepal's vibrant festival of colors, celebrating spring with powder-throwing, water fights, and the unique Chir pole ceremony in Kathmandu.",
+  "location": "Kathmandu, Nepal",
+  "geojson": "holi-nepal.geojson"
+}

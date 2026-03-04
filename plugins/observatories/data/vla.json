@@ -1,0 +1,20 @@
+{
+  "code": "vla",
+  "name": "Karl G. Jansky Very Large Array",
+  "country": "United States",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 2124,
+  "aperture": "27 × 25 m antennas",
+  "telescopes": [
+    "VLA"
+  ],
+  "keyDiscoveries": [
+    "Radio jets from black holes",
+    "Cosmic radio sources",
+    "Molecular gas in galaxies"
+  ],
+  "location": "Karl G. Jansky Very Large Array, United States",
+  "description": "27 radio antennas in a Y-configuration on the Plains of San Agustin, New Mexico. One of the world's premier radio telescopes since 1980.",
+  "geojson": "vla.geojson"
+}

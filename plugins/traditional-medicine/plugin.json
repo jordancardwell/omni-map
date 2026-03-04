@@ -1,0 +1,38 @@
+{
+  "id": "traditional-medicine",
+  "name": "Traditional Medicine Systems",
+  "description": "Geographic distribution of major traditional and complementary medicine systems worldwide",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#059669",
+  "categories": ["culture", "health"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Culture & Society",
+  "thumbnail": "#059669",
+  "schema": "TraditionalMedicineMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "tradition", "keyPractices"],
+    "groupBy": "tradition",
+    "titleField": "name",
+    "subtitleField": "originRegion",
+    "badgeField": "estimatedPractitioners",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "originRegion"
+  },
+  "detailFields": [
+    { "key": "tradition", "label": "Tradition", "type": "text" },
+    { "key": "originRegion", "label": "Origin Region", "type": "text" },
+    { "key": "estimatedPractitioners", "label": "Estimated Practitioners", "type": "formatted-number" },
+    { "key": "whoRecognition", "label": "WHO Recognition Status", "type": "text" },
+    { "key": "keyPractices", "label": "Key Practices", "type": "tags" },
+    { "key": "regionsOfPractice", "label": "Regions of Practice", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "historicalNotes", "label": "Historical Notes", "type": "markdown" }
+  ]
+}

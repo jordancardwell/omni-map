@@ -1,0 +1,16 @@
+{
+  "code": "med-east",
+  "name": "Med East",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 974,
+  "yearLaid": 2015,
+  "rfsDate": "2018-06",
+  "owner": "Bezeq",
+  "landingPoints": [
+    "Genoa, Italy",
+    "Haifa, Israel"
+  ],
+  "description": "Med East cable connecting Genoa to Haifa across the Mediterranean.",
+  "geojson": "med-east.geojson"
+}

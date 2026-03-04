@@ -1,0 +1,14 @@
+{
+  "code": "tanjung-perak",
+  "name": "Tanjung Perak (Surabaya)",
+  "country": "Indonesia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 65,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Southeast Asian Straits"
+  ],
+  "description": "Tanjung Perak (Surabaya) in Indonesia. Annual cargo throughput: ~65 million tons. Type: Multi-Purpose Port.",
+  "geojson": "tanjung-perak.geojson"
+}

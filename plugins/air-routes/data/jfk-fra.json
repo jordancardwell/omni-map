@@ -1,0 +1,18 @@
+{
+  "code": "jfk-fra",
+  "name": "New York — Frankfurt",
+  "airports": [
+    "JFK",
+    "FRA"
+  ],
+  "distanceKm": 6189,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Lufthansa",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–FRA route between New York and Frankfurt. Distance: 6,189 km. ~70 weekly flights operated by Lufthansa, United.",
+  "geojson": "jfk-fra.geojson"
+}

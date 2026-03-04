@@ -1,0 +1,29 @@
+{
+  "code": "mariachi",
+  "name": "Mariachi",
+  "region": "Jalisco, Mexico",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Trumpet",
+    "Vihuela",
+    "Guitarrón",
+    "Violin",
+    "Guitar"
+  ],
+  "keyArtists": [
+    "Vicente Fernández",
+    "Pedro Infante",
+    "Jorge Negrete",
+    "Mariachi Vargas de Tecalitlán",
+    "Lila Downs"
+  ],
+  "description": "Mariachi is a musical expression of Mexico, originating in the state of Jalisco. The ensemble typically features trumpets, violins, vihuela, guitarrón, and guitar, performing a repertoire that includes sones, rancheras, boleros, and huapangos. Mariachi is a symbol of Mexican identity, performed at celebrations, serenades, and civic events. UNESCO inscribed it on the ICH list in 2011.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Mariachi",
+      "url": "https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575"
+    }
+  ],
+  "geojson": "mariachi.geojson"
+}

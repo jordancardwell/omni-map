@@ -1,0 +1,16 @@
+{
+  "code": "kourou-old",
+  "name": "Centre Spatial Guyanais (Original Diamant Pad)",
+  "country": "France (French Guiana)",
+  "operator": "CNES",
+  "coordinates": "5.2360°N, 52.7750°W",
+  "status": "Historical",
+  "notableLaunches": [
+    "Early Diamant B/BP4 launches from Kourou",
+    "Transition from Hammaguir"
+  ],
+  "orbitalInclinationRange": "5°–50°",
+  "location": "Centre Spatial Guyanais (Original Diamant Pad), France (French Guiana)",
+  "description": "The original launch pads at the Guiana Space Centre used for Diamant B rockets after France relocated from Hammaguir. Predecessor infrastructure to the modern Ariane launch complexes.",
+  "geojson": "kourou-old.geojson"
+}

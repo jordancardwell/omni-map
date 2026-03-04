@@ -1,0 +1,14 @@
+{
+  "code": "the-archaeological-ensemble-of-17th-century-port-royal",
+  "name": "The Archaeological Ensemble of 17th Century Port Royal",
+  "type": "Cultural",
+  "country": "Jamaica",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The town of Port Royal is located at the mouth of Kingston Harbour in southeastern Jamaica. It was a major 17th-century English port city. A devastating earthquake in 1692 submerged much of the town under water and sand. Today, its terrestrial and underwater remains offer rare insights into urban colonial life. Once a key hub for transatlantic trade—including the trade of enslaved Africans—Port Royal featured a deep-water port and six defensive forts, some now submerged. Archaeological evidence reveals a well-preserved layout of residential, religious, and administrative buildings, serving as a distinctive marker of British colonial presence in the Caribbean.",
+  "danger": false,
+  "geojson": "the-archaeological-ensemble-of-17th-century-port-royal.geojson"
+}

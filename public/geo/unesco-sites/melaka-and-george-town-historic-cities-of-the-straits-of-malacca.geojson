@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3458333333,
+          5.4213888889
+        ]
+      },
+      "properties": {
+        "code": "melaka-and-george-town-historic-cities-of-the-straits-of-malacca",
+        "name": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+        "type": "Cultural",
+        "country": "Malaysia",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

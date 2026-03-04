@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1627777778,
+          36.1991666667
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-aleppo",
+        "name": "Ancient City of Aleppo",
+        "type": "Cultural",
+        "country": "Syrian Arab Republic",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

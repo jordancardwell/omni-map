@@ -1,0 +1,16 @@
+{
+  "code": "de-north-sea",
+  "name": "DE North Sea",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2870,
+  "yearLaid": 2017,
+  "rfsDate": "2016-06",
+  "owner": "Deutsche Telekom",
+  "landingPoints": [
+    "Norden, Germany",
+    "Sylt, Germany"
+  ],
+  "description": "DE North Sea connecting Norden to Sylt in Europe.",
+  "geojson": "de-north-sea.geojson"
+}

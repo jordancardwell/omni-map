@@ -1,0 +1,16 @@
+{
+  "code": "kr-cn-cable",
+  "name": "KR-CN Cable",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1347,
+  "yearLaid": 2017,
+  "rfsDate": "2019-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Shanghai, China"
+  ],
+  "description": "KR-CN Cable connecting Busan to Shanghai in East Asia.",
+  "geojson": "kr-cn-cable.geojson"
+}

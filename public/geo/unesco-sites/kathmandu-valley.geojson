@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30858,
+          27.70395
+        ]
+      },
+      "properties": {
+        "code": "kathmandu-valley",
+        "name": "Kathmandu Valley",
+        "type": "Cultural",
+        "country": "Nepal",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

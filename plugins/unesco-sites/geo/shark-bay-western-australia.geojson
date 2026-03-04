@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.4361111,
+          -25.48611111
+        ]
+      },
+      "properties": {
+        "code": "shark-bay-western-australia",
+        "name": "Shark Bay, Western Australia",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

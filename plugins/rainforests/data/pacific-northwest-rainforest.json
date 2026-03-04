@@ -1,0 +1,20 @@
+{
+  "code": "pacific-northwest-rainforest",
+  "name": "Pacific Northwest Temperate Rainforest",
+  "country": "United States (Washington, Oregon), Canada (British Columbia)",
+  "forestType": "Temperate",
+  "areaKm2": 168000,
+  "intactness": "Moderately Degraded",
+  "changeSince2000": "-3.2% (approximately 5,400 km² lost)",
+  "annualLossRate": "0.1–0.2% per year",
+  "threats": [
+    "Industrial logging",
+    "Wildfire (increasing)",
+    "Urban development",
+    "Climate change",
+    "Bark beetle outbreaks"
+  ],
+  "conservationStatus": "Multiple national parks and forests including Olympic National Park, Mt. Rainier, and Great Bear Rainforest (British Columbia). Northwest Forest Plan (1994) protects old-growth on federal lands. Great Bear Rainforest Agreement (2016) protects 85% of the forest. Old-growth logging continues on some state and private lands.",
+  "description": "The **Pacific Northwest Temperate Rainforest** stretches from northern California through British Columbia, including the Great Bear Rainforest — the largest intact temperate rainforest on Earth's Pacific coast. These forests receive enormous rainfall and support the world's tallest and most massive trees.\n\n### Key Statistics\n- **Biodiversity**: Douglas fir, Sitka spruce, western red cedar; northern spotted owl, marbled murrelet\n- **Tree size**: Trees up to 75m tall and 1,000+ years old\n- **Carbon density**: Among the highest carbon densities of any ecosystem per hectare\n- **Salmon**: Critical habitat for Pacific salmon species, connecting marine and forest ecosystems\n\n### Deforestation Trends\nThe IFL 2020 data shows significant recovery since the timber wars of the 1980s–90s. The Great Bear Rainforest in British Columbia is now largely protected through First Nations-led conservation agreements. However, old-growth logging on state lands in Oregon and Washington continues to be controversial. Wildfire risk is increasing with climate change.",
+  "geojson": "pacific-northwest-rainforest.geojson"
+}

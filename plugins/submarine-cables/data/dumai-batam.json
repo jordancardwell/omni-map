@@ -1,0 +1,16 @@
+{
+  "code": "dumai-batam",
+  "name": "Dumai-Batam",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 954,
+  "yearLaid": 2015,
+  "rfsDate": "2014-06",
+  "owner": "Telkom Indonesia",
+  "landingPoints": [
+    "Mersing, Malaysia",
+    "Batam, Indonesia"
+  ],
+  "description": "Dumai-Batam connecting Mersing to Batam in Southeast Asia.",
+  "geojson": "dumai-batam.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "sinhala",
+  "name": "Sinhala",
+  "scriptType": "Abugida",
+  "characters": 60,
+  "direction": "LTR",
+  "originDate": "~3rd century BCE",
+  "sampleText": "සිංහල අකුරු ඉතා අලංකාරයි",
+  "relatedScripts": [
+    "tamil",
+    "devanagari"
+  ],
+  "description": "The Sinhala script is an abugida with 60 characters, used for the Sinhala language of Sri Lanka. It features distinctive rounded shapes and is one of the most visually elaborate scripts in South Asia. The script includes 18 vowels and 42 consonants with extensive use of conjunct characters.",
+  "historicalNotes": "Sinhala script evolved from the Brahmi script, with inscriptions dating to the 3rd century BCE during the reign of King Devanampiya Tissa. The script underwent significant changes over the centuries, developing its characteristic rounded forms partly due to writing on palm leaves. Portuguese and Dutch colonial periods brought Latin script influence, but Sinhala script remained the primary writing system.",
+  "geojson": "sinhala.geojson"
+}

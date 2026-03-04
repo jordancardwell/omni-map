@@ -1,0 +1,19 @@
+{
+  "code": "kakapo-parrot",
+  "name": "Wombat (Northern Hairy-nosed)",
+  "scientificName": "Lasiorhinus krefftii",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~400 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Semi-arid grassland",
+  "threats": [
+    "Habitat loss",
+    "Drought",
+    "Dingo predation",
+    "Small population size"
+  ],
+  "conservationEfforts": "Epping Forest National Park protects the main colony behind predator-proof fencing. Second population established at Richard Underwood Nature Refuge. Population grown from 35 in 1980s to ~400.",
+  "description": "Australia's rarest large mammal, confined to a tiny reserve in Queensland. Northern hairy-nosed wombats build extensive underground burrow systems and are strictly nocturnal.",
+  "geojson": "kakapo-parrot.geojson"
+}

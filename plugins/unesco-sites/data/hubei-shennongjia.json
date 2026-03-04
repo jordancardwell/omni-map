@@ -1,0 +1,15 @@
+{
+  "code": "hubei-shennongjia",
+  "name": "Hubei Shennongjia",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in Hubei Province, in central-eastern China, the site consists of two components: Shennongding/Badong to the west and Laojunshan to the east. It protects the largest primary forests remaining in Central China and provides habitat for many rare animal species, such as the Chinese Giant Salamander, the Golden or Sichuan Snub-nosed Monkey, the Clouded Leopard, Common Leopard and the Asian Black Bear. Hubei Shennongjia is one of three centres of biodiversity in China. The site features prominently in the history of botanical research and was the object of international plant collecting expeditions in the 19th and 20th centuries.",
+  "danger": false,
+  "geojson": "hubei-shennongjia.geojson"
+}

@@ -1,0 +1,25 @@
+{
+  "code": "roque-de-los-muchachos",
+  "name": "Roque de los Muchachos Observatory",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2396,
+  "aperture": "10.4 m (GTC)",
+  "telescopes": [
+    "GTC",
+    "WHT",
+    "INT",
+    "NOT",
+    "TNG",
+    "MAGIC"
+  ],
+  "keyDiscoveries": [
+    "Gamma-ray astronomy (MAGIC)",
+    "Galaxy surveys",
+    "Solar physics"
+  ],
+  "location": "Roque de los Muchachos Observatory, Spain",
+  "description": "One of the world's premier observatory sites on La Palma, hosting telescopes from multiple nations. Benefits from exceptional atmospheric conditions above the cloud layer.",
+  "geojson": "roque-de-los-muchachos.geojson"
+}

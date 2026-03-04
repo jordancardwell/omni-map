@@ -1,0 +1,14 @@
+{
+  "code": "monastery-of-geghard-and-the-upper-azat-valley",
+  "name": "Monastery of Geghard and the Upper Azat Valley",
+  "type": "Cultural",
+  "country": "Armenia",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The monastery of Geghard contains a number of churches and tombs, most of them cut into the rock, which illustrate the very peak of Armenian medieval architecture. The complex of medieval buildings is set into a landscape of great natural beauty, surrounded by towering cliffs at the entrance to the Azat Valley.",
+  "danger": false,
+  "geojson": "monastery-of-geghard-and-the-upper-azat-valley.geojson"
+}

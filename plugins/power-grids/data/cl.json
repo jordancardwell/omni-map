@@ -1,0 +1,18 @@
+{
+  "code": "cl",
+  "name": "Chile",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "L"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type L — Three round pins in a line (Italian style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European/Italian-style plugs. Adapter needed for US/UK devices.",
+  "geojson": "cl.geojson"
+}

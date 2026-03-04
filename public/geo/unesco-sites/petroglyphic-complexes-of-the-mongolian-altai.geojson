@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3952777778,
+          49.3338888889
+        ]
+      },
+      "properties": {
+        "code": "petroglyphic-complexes-of-the-mongolian-altai",
+        "name": "Petroglyphic Complexes of the Mongolian Altai",
+        "type": "Cultural",
+        "country": "Mongolia",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "mining-area-of-the-great-copper-mountain-in-falun",
+  "name": "Mining Area of the Great Copper Mountain in Falun",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The enormous mining excavation known as the Great Pit at Falun is the most striking feature of a landscape that illustrates the activity of copper production in this region since at least the 13th century. The 17th-century planned town of Falun with its many fine historic buildings, together with the industrial and domestic remains of a number of settlements spread over a wide area of the Dalarna region, provide a vivid picture of what was for centuries one of the world's most important mining areas.",
+  "danger": false,
+  "geojson": "mining-area-of-the-great-copper-mountain-in-falun.geojson"
+}

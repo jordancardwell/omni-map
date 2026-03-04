@@ -1,0 +1,15 @@
+{
+  "code": "hanseatic-town-of-visby",
+  "name": "Hanseatic Town of Visby",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "A former Viking site on the island of Gotland, Visby was the main centre of the Hanseatic League in the Baltic from the 12th to the 14th century. Its 13th-century ramparts and more than 200 warehouses and wealthy merchants' dwellings from the same period make it the best-preserved fortified commercial city in northern Europe.",
+  "danger": false,
+  "geojson": "hanseatic-town-of-visby.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "igcs-indonesia-global-cable-system",
+  "name": "IGCS (Indonesia Global Cable System)",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 7200,
+  "yearLaid": 2017,
+  "rfsDate": "2018-06",
+  "owner": "Moratel",
+  "landingPoints": [
+    "Singapore",
+    "Jakarta, Indonesia",
+    "Manado, Indonesia",
+    "Jayapura, Indonesia",
+    "Port Moresby, Papua New Guinea"
+  ],
+  "description": "Indonesia cable connecting major Indonesian cities.",
+  "geojson": "igcs-indonesia-global-cable-system.geojson"
+}

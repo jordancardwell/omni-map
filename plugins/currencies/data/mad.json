@@ -1,0 +1,16 @@
+{
+  "code": "mad",
+  "name": "Moroccan Dirham",
+  "isoCode": "MAD",
+  "symbol": "د.م.",
+  "region": "Africa",
+  "centralBank": "Bank Al-Maghrib",
+  "exchangeRateEra": "Pegged to EUR/USD basket",
+  "countries": [
+    "Morocco"
+  ],
+  "countryCount": 1,
+  "description": "The Moroccan Dirham is pegged to a basket dominated by the Euro, reflecting Morocco's strong trade ties with Europe.",
+  "historicalNotes": "The dirham was reintroduced in 1960, replacing the franc. Morocco has gradually liberalized its exchange rate since 2018.",
+  "geojson": "mad.geojson"
+}

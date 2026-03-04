@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ye","name":"Yemen","country":"YE","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[42.6,12.6],[42.6,19],[54,19],[54,12.6],[42.6,12.6]]]}}]}

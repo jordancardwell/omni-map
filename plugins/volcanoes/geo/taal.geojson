@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[120.998,14.0113]},"properties":{"code":"taal","name":"Taal Volcano","volcanoType":"Caldera","status":"Erupting/Recent","elevation":311,"lastEruption":"2022","vei":4}}]}

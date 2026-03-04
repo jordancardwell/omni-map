@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"maqam","name":"Maqam Music","region":"Middle East (Iraq, Syria, Egypt)","traditionFamily":"Middle Eastern"},"geometry":{"type":"Polygon","coordinates":[[[35,37.5],[35,22],[48,22],[48,37.5],[35,37.5]]]}}]}

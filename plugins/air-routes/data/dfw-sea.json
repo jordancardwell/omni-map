@@ -1,0 +1,18 @@
+{
+  "code": "dfw-sea",
+  "name": "Dallas — Seattle",
+  "airports": [
+    "DFW",
+    "SEA"
+  ],
+  "distanceKm": 2668,
+  "weeklyFlights": 50,
+  "airlines": [
+    "American",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–SEA route between Dallas and Seattle. Distance: 2,668 km. ~50 weekly flights operated by American, Delta.",
+  "geojson": "dfw-sea.geojson"
+}

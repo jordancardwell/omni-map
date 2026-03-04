@@ -1,0 +1,15 @@
+{
+  "code": "redwood-national-and-state-parks",
+  "name": "Redwood National and State Parks",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "Redwood National Park comprises a region of coastal mountains bordering the Pacific Ocean north of San Francisco. It is covered with a magnificent forest of coastal redwood trees, the tallest and most impressive trees in the world. The marine and land life are equally remarkable, in particular the sea lions, the bald eagle and the endangered California brown pelican.",
+  "danger": false,
+  "geojson": "redwood-national-and-state-parks.geojson"
+}

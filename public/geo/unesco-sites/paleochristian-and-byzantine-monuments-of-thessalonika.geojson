@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.965,
+          40.63833
+        ]
+      },
+      "properties": {
+        "code": "paleochristian-and-byzantine-monuments-of-thessalonika",
+        "name": "Paleochristian and Byzantine Monuments of Thessalonika",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

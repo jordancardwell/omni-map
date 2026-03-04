@@ -1,0 +1,14 @@
+{
+  "code": "makassar",
+  "name": "Port of Makassar",
+  "country": "Indonesia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 15,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Southeast Asian Straits"
+  ],
+  "description": "Port of Makassar in Indonesia. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+  "geojson": "makassar.geojson"
+}

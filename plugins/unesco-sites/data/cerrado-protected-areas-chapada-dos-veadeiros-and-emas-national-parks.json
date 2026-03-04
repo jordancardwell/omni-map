@@ -1,0 +1,15 @@
+{
+  "code": "cerrado-protected-areas-chapada-dos-veadeiros-and-emas-national-parks",
+  "name": "Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks",
+  "type": "Natural",
+  "country": "Brazil",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The two sites included in the designation contain flora and fauna and key habitats that characterize the Cerrado – one of the world’s oldest and most diverse tropical ecosystems. For millennia, these sites have served as refuge for several species during periods of climate change and will be vital for maintaining the biodiversity of the Cerrado region during future climate fluctuations.",
+  "danger": false,
+  "geojson": "cerrado-protected-areas-chapada-dos-veadeiros-and-emas-national-parks.geojson"
+}

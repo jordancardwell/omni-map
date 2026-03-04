@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.680325,
+          14.390841
+        ]
+      },
+      "properties": {
+        "code": "temple-of-preah-vihear",
+        "name": "Temple of Preah Vihear",
+        "type": "Cultural",
+        "country": "Cambodia",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

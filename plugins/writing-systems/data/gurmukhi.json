@@ -1,0 +1,15 @@
+{
+  "code": "gurmukhi",
+  "name": "Gurmukhi",
+  "scriptType": "Abugida",
+  "characters": 35,
+  "direction": "LTR",
+  "originDate": "16th century CE",
+  "sampleText": "ਗੁਰਮੁਖੀ ਲਿਪੀ ਪੰਜਾਬੀ",
+  "relatedScripts": [
+    "devanagari"
+  ],
+  "description": "The Gurmukhi script is an abugida with 35 letters, used primarily for the Punjabi language in India. The name means 'from the mouth of the Guru.' The script features a headline similar to Devanagari and is closely associated with Sikhism, as it is the script used in the Guru Granth Sahib.",
+  "historicalNotes": "Gurmukhi was standardized by Guru Angad, the second Sikh Guru, in the 16th century CE, building on earlier Landa scripts of the Punjab region. It was created to record the hymns and teachings of the Sikh Gurus. The script gained religious and cultural significance as the sacred script of Sikhism. In Pakistan, Punjabi is typically written in the Shahmukhi script (Arabic-derived) rather than Gurmukhi.",
+  "geojson": "gurmukhi.geojson"
+}

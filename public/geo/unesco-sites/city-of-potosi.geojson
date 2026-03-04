@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.749813,
+          -19.599112
+        ]
+      },
+      "properties": {
+        "code": "city-of-potosi",
+        "name": "City of Potosí",
+        "type": "Cultural",
+        "country": "Bolivia (Plurinational State of)",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

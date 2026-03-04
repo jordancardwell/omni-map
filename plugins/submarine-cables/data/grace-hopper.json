@@ -1,0 +1,17 @@
+{
+  "code": "grace-hopper",
+  "name": "Grace Hopper",
+  "capacityTbps": 340,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 6300,
+  "yearLaid": 2021,
+  "rfsDate": "2022-09",
+  "owner": "Google",
+  "landingPoints": [
+    "New York, USA",
+    "Bude, UK",
+    "Bilbao, Spain"
+  ],
+  "description": "Named after computer science pioneer Grace Hopper, this Google-owned cable connects New York to the UK and Spain with novel switching architecture.",
+  "geojson": "grace-hopper.geojson"
+}

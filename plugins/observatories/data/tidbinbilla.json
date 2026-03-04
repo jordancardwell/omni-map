@@ -1,0 +1,21 @@
+{
+  "code": "tidbinbilla",
+  "name": "Canberra Deep Space Communication Complex",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 656,
+  "aperture": "70 m (DSS-43)",
+  "telescopes": [
+    "DSS-43 70m",
+    "Various DSN dishes"
+  ],
+  "keyDiscoveries": [
+    "Voyager communication",
+    "Deep space communication",
+    "Radio astronomy"
+  ],
+  "location": "Canberra Deep Space Communication Complex, Australia",
+  "description": "NASA DSN station near Canberra. DSS-43 is the only antenna that can communicate with Voyager 2 and is used for radio astronomy observations.",
+  "geojson": "tidbinbilla.geojson"
+}

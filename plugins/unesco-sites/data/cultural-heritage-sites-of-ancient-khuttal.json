@@ -1,0 +1,15 @@
+{
+  "code": "cultural-heritage-sites-of-ancient-khuttal",
+  "name": "Cultural Heritage Sites of Ancient Khuttal",
+  "type": "Cultural",
+  "country": "Tajikistan",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires.",
+  "danger": false,
+  "geojson": "cultural-heritage-sites-of-ancient-khuttal.geojson"
+}

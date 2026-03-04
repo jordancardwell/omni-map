@@ -1,0 +1,15 @@
+{
+  "code": "purnululu-national-park",
+  "name": "Purnululu National Park",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 239,723 ha Purnululu National Park is located in the State of Western Australia. It contains the deeply dissected Bungle Bungle Range composed of Devonian-age quartz sandstone eroded over a period of 20 million years into a series of beehive-shaped towers or cones, whose steeply sloping surfaces are distinctly marked by regular horizontal bands of dark-grey cyanobacterial crust (single-celled photosynthetic organisms). These outstanding examples of cone karst owe their existence and uniqueness to several interacting geological, biological, erosional and climatic phenomena.",
+  "danger": false,
+  "geojson": "purnululu-national-park.geojson"
+}

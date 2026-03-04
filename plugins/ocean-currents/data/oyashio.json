@@ -1,0 +1,21 @@
+{
+  "code": "oyashio",
+  "name": "Oyashio Current",
+  "currentType": "Cold",
+  "speedRange": "0.3–0.5 m/s",
+  "origin": "Arctic Ocean / Bering Sea",
+  "destination": "North Pacific (meets Kuroshio)",
+  "climateEffects": [
+    "Cools Northern Japan",
+    "Creates rich mixing zone with Kuroshio",
+    "Brings nutrient-rich Arctic water south"
+  ],
+  "connectedEcosystems": [
+    "Hokkaido fisheries",
+    "North Pacific mixing zone",
+    "Sea of Okhotsk ecosystem"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Oyashio Current is the cold, nutrient-rich western boundary current of the North Pacific, flowing southward from the Arctic past the Kuril Islands and Hokkaido. Where it meets the warm Kuroshio, it creates one of the richest fishing grounds in the world.",
+  "geojson": "oyashio.geojson"
+}

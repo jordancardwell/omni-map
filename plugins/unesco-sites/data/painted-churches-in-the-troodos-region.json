@@ -1,0 +1,16 @@
+{
+  "code": "painted-churches-in-the-troodos-region",
+  "name": "Painted Churches in the Troodos Region",
+  "type": "Cultural",
+  "country": "Cyprus",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This region is characterized by one of the largest groups of churches and monasteries of the former Byzantine Empire. The complex of 10 monuments included on the World Heritage List, all richly decorated with murals, provides an overview of Byzantine and post-Byzantine painting in Cyprus. They range from small churches whose rural architectural style is in stark contrast to their highly refined decoration, to monasteries such as that of St John Lampadistis.",
+  "danger": false,
+  "geojson": "painted-churches-in-the-troodos-region.geojson"
+}

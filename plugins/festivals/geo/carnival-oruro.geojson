@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.1122,
+          -17.9627
+        ]
+      },
+      "properties": {
+        "code": "carnival-oruro",
+        "name": "Carnival of Oruro",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Oruro, Bolivia"
+      }
+    }
+  ]
+}

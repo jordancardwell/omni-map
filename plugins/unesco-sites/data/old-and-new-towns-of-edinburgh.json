@@ -1,0 +1,15 @@
+{
+  "code": "old-and-new-towns-of-edinburgh",
+  "name": "Old and New Towns of Edinburgh",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Edinburgh has been the Scottish capital since the 15th century. It has two distinct areas: the Old Town, dominated by a medieval fortress; and the neoclassical New Town, whose development from the 18th century onwards had a far-reaching influence on European urban planning. The harmonious juxtaposition of these two contrasting historic areas, each with many important buildings, is what gives the city its unique character.",
+  "danger": false,
+  "geojson": "old-and-new-towns-of-edinburgh.geojson"
+}

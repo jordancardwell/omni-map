@@ -1,0 +1,15 @@
+{
+  "code": "old-rauma",
+  "name": "Old Rauma",
+  "type": "Cultural",
+  "country": "Finland",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the Gulf of Botnia, Rauma is one of the oldest harbours in Finland. Built around a Franciscan monastery, where the mid-15th-century Holy Cross Church still stands, it is an outstanding example of an old Nordic city constructed in wood. Although ravaged by fire in the late 17th century, it has preserved its ancient vernacular architectural heritage.",
+  "danger": false,
+  "geojson": "old-rauma.geojson"
+}

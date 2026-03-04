@@ -1,0 +1,15 @@
+{
+  "code": "episcopal-city-of-albi",
+  "name": "Episcopal City of Albi",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "On the banks of the Tarn river in south-west France, the old city of Albi reflects the culmination of a medieval architectural and urban ensemble. Today the Old Bridge (Pont-Vieux), the Saint-Salvi quarter and its church are testimony to its initial development (10th -11th centuries). Following the Albigensian Crusade against the Cathar heretics (13th century) it became a powerful episcopal city. Built in a unique southern French Gothic style from local brick in characteristic red and orange colours, the lofty fortified Cathedral (late 13th century) dominates the city, demonstrating the power regained by the Roman Catholic clergy. Alongside the Cathedral is the vast bishop’s Palais de la Berbie, overlooking the river and surrounded by residential quarters that date back to the Middle Ages. The Episcopal City of Albi forms a coherent and homogeneous ensemble of monuments and quarters that has remained largely unchanged over the centuries.",
+  "danger": false,
+  "geojson": "episcopal-city-of-albi.geojson"
+}

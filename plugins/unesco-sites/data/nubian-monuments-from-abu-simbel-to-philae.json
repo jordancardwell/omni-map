@@ -1,0 +1,15 @@
+{
+  "code": "nubian-monuments-from-abu-simbel-to-philae",
+  "name": "Nubian Monuments from Abu Simbel to Philae",
+  "type": "Cultural",
+  "country": "Egypt",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "This outstanding archaeological area contains such magnificent monuments as the Temples of Ramses II at Abu Simbel and the Sanctuary of Isis at Philae, which were saved from the rising waters of the Nile thanks to the International Campaign launched by UNESCO, in 1960 to 1980.",
+  "danger": false,
+  "geojson": "nubian-monuments-from-abu-simbel-to-philae.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "dusky-gopher-frog",
+  "name": "Dusky Gopher Frog",
+  "scientificName": "Lithobates sevosus",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "~135 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Longleaf pine forest and ephemeral ponds",
+  "threats": [
+    "Habitat loss",
+    "Small range",
+    "Fire suppression",
+    "Disease"
+  ],
+  "conservationEfforts": "Captive breeding at multiple US zoos. Prescribed burning maintains pine savanna habitat. Critical habitat designation protects potential reintroduction sites.",
+  "description": "One of the most endangered amphibians in North America, surviving in just a few ponds in Mississippi. It depends on longleaf pine forests maintained by frequent fire.",
+  "geojson": "dusky-gopher-frog.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "dfw-clt",
+  "name": "Dallas — Charlotte",
+  "airports": [
+    "DFW",
+    "CLT"
+  ],
+  "distanceKm": 1503,
+  "weeklyFlights": 70,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DFW–CLT route between Dallas and Charlotte. Distance: 1,503 km. ~70 weekly flights operated by American.",
+  "geojson": "dfw-clt.geojson"
+}

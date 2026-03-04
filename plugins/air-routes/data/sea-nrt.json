@@ -1,0 +1,18 @@
+{
+  "code": "sea-nrt",
+  "name": "Seattle — Tokyo",
+  "airports": [
+    "SEA",
+    "NRT"
+  ],
+  "distanceKm": 7655,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta",
+    "ANA"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SEA–NRT route between Seattle and Tokyo. Distance: 7,655 km. ~40 weekly flights operated by Delta, ANA.",
+  "geojson": "sea-nrt.geojson"
+}

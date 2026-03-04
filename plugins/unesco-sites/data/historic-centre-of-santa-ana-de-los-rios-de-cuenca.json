@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-santa-ana-de-los-rios-de-cuenca",
+  "name": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+  "type": "Cultural",
+  "country": "Ecuador",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Santa Ana de los Ríos de Cuenca is set in a valley surrounded by the Andean mountains in the south of Ecuador. This inland colonial town (entroterra ), now the country's third city, was founded in 1557 on the rigorous planning guidelines issued 30 years earlier by the Spanish king Charles V. Cuenca still observes the formal orthogonal town plan that it has respected for 400 years. One of the region's agricultural and administrative centres, it has been a melting pot for local and immigrant populations. Cuenca's architecture, much of which dates from the 18th century, was 'modernized' in the economic prosperity of the 19th century as the city became a major exporter of quinine, straw hats and other products.",
+  "danger": false,
+  "geojson": "historic-centre-of-santa-ana-de-los-rios-de-cuenca.geojson"
+}

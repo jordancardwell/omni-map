@@ -1,0 +1,15 @@
+{
+  "code": "routes-of-santiago-de-compostela-in-france",
+  "name": "Routes of Santiago de Compostela in France",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Santiago de Compostela was the supreme goal for countless thousands of pious pilgrims who converged there from all over Europe throughout the Middle Ages. To reach Spain pilgrims had to pass through France, and the group of important historical monuments included in this inscription marks out the four routes by which they did so.",
+  "danger": false,
+  "geojson": "routes-of-santiago-de-compostela-in-france.geojson"
+}

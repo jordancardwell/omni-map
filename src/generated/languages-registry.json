@@ -1,0 +1,2597 @@
+[
+  {
+    "code": "am",
+    "name": "Amharic",
+    "nativeName": "አማርኛ",
+    "family": "Afro-Asiatic",
+    "branch": "Semitic",
+    "speakers": {
+      "native": 32000000,
+      "total": 57500000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ET"
+    ],
+    "writingSystem": "Ge'ez script (Ethiopic)",
+    "dialects": [
+      "Gondar",
+      "Gojjam",
+      "Wollo",
+      "Shewa (Addis Ababa)",
+      "Lasta"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Amharic is an Ethio-Semitic language and the official working language of Ethiopia. It is the second most spoken Semitic language in the world after Arabic. Amharic uses the Ge'ez script, one of the oldest alphabets still in use, which is an abugida where each character represents a consonant-vowel combination.",
+    "historicalNotes": "Amharic emerged as a distinct language around the 12th century CE, evolving from earlier Ethio-Semitic languages. It became the language of the Ethiopian court during the Solomonic dynasty (1270 CE) and replaced Ge'ez as the literary language by the 19th century. The language played a key role in Ethiopian state-building and remains central to Ethiopian national identity.",
+    "relatedLanguages": [
+      "ar",
+      "he"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Amharic",
+        "url": "https://www.ethnologue.com/language/amh/"
+      },
+      {
+        "title": "Glottolog - Amharic",
+        "url": "https://glottolog.org/resource/languoid/id/amha1245"
+      }
+    ],
+    "geojson": "am.geojson"
+  },
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "nativeName": "العربية",
+    "family": "Afro-Asiatic",
+    "branch": "Semitic",
+    "speakers": {
+      "native": 310000000,
+      "total": 380000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "SA",
+      "EG",
+      "IQ",
+      "MA",
+      "DZ",
+      "SD",
+      "YE",
+      "SY",
+      "TN",
+      "JO",
+      "LY",
+      "LB",
+      "AE",
+      "OM",
+      "KW",
+      "QA",
+      "BH",
+      "MR",
+      "PS"
+    ],
+    "writingSystem": "Arabic script",
+    "dialects": [
+      "Modern Standard Arabic",
+      "Egyptian Arabic",
+      "Levantine Arabic",
+      "Gulf Arabic",
+      "Maghrebi Arabic",
+      "Iraqi Arabic",
+      "Yemeni Arabic",
+      "Sudanese Arabic"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Arabic is a Semitic language and the lingua franca of the Arab world. Modern Standard Arabic is the literary standard across the Middle East and North Africa, while numerous regional dialects serve as spoken vernaculars. Arabic is also the liturgical language of Islam.",
+    "historicalNotes": "Arabic originated in the Arabian Peninsula and spread rapidly with the Islamic conquests of the 7th and 8th centuries. Classical Arabic, the language of the Quran, served as the basis for Modern Standard Arabic. During the Islamic Golden Age (8th-14th centuries), Arabic was the language of science and philosophy. Many English words derive from Arabic, including algebra, algorithm, and alchemy.",
+    "relatedLanguages": [
+      "he",
+      "am",
+      "mt"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Arabic",
+        "url": "https://www.ethnologue.com/language/arb/"
+      },
+      {
+        "title": "Glottolog - Arabic",
+        "url": "https://glottolog.org/resource/languoid/id/stan1318"
+      }
+    ],
+    "geojson": "ar.geojson"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijani",
+    "nativeName": "Azərbaycan dili",
+    "family": "Turkic",
+    "branch": "Oghuz",
+    "speakers": {
+      "native": 24000000,
+      "total": 33000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "AZ",
+      "IR",
+      "GE",
+      "TR",
+      "RU"
+    ],
+    "writingSystem": "Latin (Azerbaijan) / Arabic (Iran)",
+    "dialects": [
+      "North Azerbaijani",
+      "South Azerbaijani",
+      "Shirvan",
+      "Quba",
+      "Karabakh"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Azerbaijani is an Oghuz Turkic language closely related to Turkish. It is the official language of Azerbaijan and is widely spoken in northwestern Iran, where South Azerbaijani speakers may outnumber those in Azerbaijan itself. The language is mutually intelligible with Turkish to a significant degree.",
+    "historicalNotes": "Azerbaijani literature dates to the 13th century, with the poet Nasimi being one of the earliest prominent Azerbaijani-language writers. The language was written in Arabic script until the Soviet period, when it was briefly switched to Latin (1929), then to Cyrillic (1939). After independence in 1991, Azerbaijan re-adopted the Latin script. South Azerbaijani in Iran continues to use the Arabic script.",
+    "relatedLanguages": [
+      "tr",
+      "uz",
+      "kk"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Azerbaijani",
+        "url": "https://www.ethnologue.com/language/azj/"
+      },
+      {
+        "title": "Glottolog - Azerbaijani",
+        "url": "https://glottolog.org/resource/languoid/id/nort2697"
+      }
+    ],
+    "geojson": "az.geojson"
+  },
+  {
+    "code": "bn",
+    "name": "Bengali",
+    "nativeName": "বাংলা",
+    "family": "Indo-European",
+    "branch": "Indo-Aryan",
+    "speakers": {
+      "native": 234000000,
+      "total": 273000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "BD",
+      "IN"
+    ],
+    "writingSystem": "Bengali-Assamese",
+    "dialects": [
+      "Rarhi",
+      "Varendra",
+      "Sundarbani",
+      "Chittagonian",
+      "Sylheti",
+      "Rangpuri",
+      "Dhaka Bengali"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Bengali is an Indo-Aryan language spoken primarily in Bangladesh and the Indian states of West Bengal, Tripura, and Assam. It is the fifth most spoken native language in the world and the official language of Bangladesh. Bengali has a rich literary tradition and its own script derived from ancient Brahmi.",
+    "historicalNotes": "Bengali evolved from Magadhi Prakrit and Pali through the intermediate stage of Apabhramsha. The Charyapada, composed between the 8th and 12th centuries, are the earliest known Bengali literary works. Rabindranath Tagore, writing in Bengali, became the first non-European Nobel laureate in Literature (1913). The Bengali Language Movement of 1952 in East Pakistan (now Bangladesh) led to Bengali becoming an official language and is commemorated as International Mother Language Day.",
+    "relatedLanguages": [
+      "hi",
+      "as",
+      "or",
+      "pa"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Bengali",
+        "url": "https://www.ethnologue.com/language/ben/"
+      },
+      {
+        "title": "Glottolog - Bengali",
+        "url": "https://glottolog.org/resource/languoid/id/beng1280"
+      }
+    ],
+    "geojson": "bn.geojson"
+  },
+  {
+    "code": "bo",
+    "name": "Tibetan",
+    "nativeName": "བོད་སྐད",
+    "family": "Sino-Tibetan",
+    "branch": "Tibeto-Burman",
+    "speakers": {
+      "native": 1200000,
+      "total": 6000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "CN",
+      "IN",
+      "NP",
+      "BT"
+    ],
+    "writingSystem": "Tibetan",
+    "dialects": [
+      "Central Tibetan (U-Tsang)",
+      "Khams Tibetan",
+      "Amdo Tibetan",
+      "Ladakhi",
+      "Dzongkha",
+      "Sherpa"
+    ],
+    "endangermentStatus": "vulnerable",
+    "description": "Tibetan is a Sino-Tibetan language spoken across the Tibetan Plateau and in diaspora communities worldwide. Standard Tibetan is based on the Lhasa dialect of Central Tibet. The language uses an Indic-derived script created in the 7th century and has a vast literary tradition, particularly in Buddhist philosophy.",
+    "historicalNotes": "The Tibetan script was created in the 7th century by Thonmi Sambhota, commissioned by King Songtsen Gampo, based on Indian Brahmi scripts. Tibetan became the primary language for translating Buddhist texts from Sanskrit, creating one of the most extensive Buddhist literary traditions. The spoken language has diverged significantly from the written form over centuries. After the Chinese annexation of Tibet in 1950, Tibetan has faced increasing pressure from Mandarin Chinese.",
+    "relatedLanguages": [
+      "my",
+      "dz"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Tibetan",
+        "url": "https://www.ethnologue.com/language/bod/"
+      },
+      {
+        "title": "Glottolog - Tibetan",
+        "url": "https://glottolog.org/resource/languoid/id/tibi1272"
+      }
+    ],
+    "geojson": "bo.geojson"
+  },
+  {
+    "code": "cs",
+    "name": "Czech",
+    "nativeName": "Čeština",
+    "family": "Indo-European",
+    "branch": "Balto-Slavic",
+    "speakers": {
+      "native": 10700000,
+      "total": 13900000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "CZ",
+      "SK",
+      "US",
+      "AT"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Bohemian",
+      "Moravian",
+      "Silesian Czech",
+      "Common Czech"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Czech is a West Slavic language and the official language of the Czech Republic. It is closely related to Slovak, with a high degree of mutual intelligibility. Czech is known for its complex declension system with seven grammatical cases, and its use of háčky (diacritical marks) to indicate palatalized and other modified consonants.",
+    "historicalNotes": "Czech emerged as a distinct language in the late medieval period. Jan Hus reformed Czech orthography in the early 15th century, introducing the system of diacritical marks still used today. The language was suppressed during Habsburg rule, but the Czech National Revival (18th-19th centuries) restored it as a literary and official language. Josef Dobrovský and Josef Jungmann were key figures in codifying modern Czech.",
+    "relatedLanguages": [
+      "sk",
+      "pl",
+      "hr",
+      "sl"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Czech",
+        "url": "https://www.ethnologue.com/language/ces/"
+      },
+      {
+        "title": "Glottolog - Czech",
+        "url": "https://glottolog.org/resource/languoid/id/czec1258"
+      }
+    ],
+    "geojson": "cs.geojson"
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "family": "Indo-European",
+    "branch": "Germanic",
+    "speakers": {
+      "native": 95000000,
+      "total": 135000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "DE",
+      "AT",
+      "CH",
+      "LI",
+      "LU",
+      "BE",
+      "IT"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Standard German",
+      "Bavarian",
+      "Swiss German",
+      "Austrian German",
+      "Low German",
+      "Alemannic",
+      "Swabian",
+      "Saxon"
+    ],
+    "endangermentStatus": "safe",
+    "description": "German is a West Germanic language mainly spoken in Central Europe. It is the most widely spoken native language in the European Union and serves as an official language of Germany, Austria, Switzerland, Liechtenstein, Luxembourg, and Belgium. German is known for its compound word formation and grammatical case system.",
+    "historicalNotes": "German evolved from the Proto-Germanic language family. The Second Sound Shift (c. 500 CE) differentiated High German from Low German. Martin Luther's Bible translation (1522-1534) was pivotal in standardizing the language. The Brothers Grimm published the first comprehensive German dictionary in 1838. German orthography was reformed in 1996 to simplify spelling rules.",
+    "relatedLanguages": [
+      "en",
+      "nl",
+      "da",
+      "sv",
+      "no"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - German",
+        "url": "https://www.ethnologue.com/language/deu/"
+      },
+      {
+        "title": "Glottolog - German",
+        "url": "https://glottolog.org/resource/languoid/id/stan1295"
+      }
+    ],
+    "geojson": "de.geojson"
+  },
+  {
+    "code": "el",
+    "name": "Greek",
+    "nativeName": "Ελληνικά",
+    "family": "Indo-European",
+    "branch": "Hellenic",
+    "speakers": {
+      "native": 13500000,
+      "total": 13500000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "GR",
+      "CY",
+      "AL",
+      "TR",
+      "IT"
+    ],
+    "writingSystem": "Greek",
+    "dialects": [
+      "Demotic Greek",
+      "Pontic Greek",
+      "Cappadocian Greek",
+      "Cretan Greek",
+      "Cypriot Greek",
+      "Tsakonian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Greek is an independent branch of the Indo-European family and the official language of Greece and Cyprus. It has the longest documented history of any living Indo-European language, spanning over 3,400 years. The Greek alphabet, developed around 800 BCE, was the first to include vowels and is the ancestor of the Latin and Cyrillic scripts.",
+    "historicalNotes": "Greek has been spoken in the Balkans since at least the 3rd millennium BCE. Ancient Greek produced foundational works of Western literature, philosophy, and science. The Koine Greek of the Hellenistic period became the lingua franca of the eastern Mediterranean and the language of the New Testament. Modern Greek emerged gradually from Medieval Greek, and the Greek language question (Katharevousa vs. Demotic) was resolved in 1976 when Demotic was made the official standard.",
+    "relatedLanguages": [],
+    "resources": [
+      {
+        "title": "Ethnologue - Greek",
+        "url": "https://www.ethnologue.com/language/ell/"
+      },
+      {
+        "title": "Glottolog - Greek",
+        "url": "https://glottolog.org/resource/languoid/id/mode1248"
+      }
+    ],
+    "geojson": "el.geojson"
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "nativeName": "English",
+    "family": "Indo-European",
+    "branch": "Germanic",
+    "speakers": {
+      "native": 380000000,
+      "total": 1500000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "GB",
+      "US",
+      "CA",
+      "AU",
+      "NZ",
+      "IE",
+      "ZA",
+      "IN",
+      "PH",
+      "NG"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "American English",
+      "British English",
+      "Australian English",
+      "Canadian English",
+      "South African English",
+      "Indian English"
+    ],
+    "endangermentStatus": "safe",
+    "description": "English is a West Germanic language that originated in early medieval England. It is the most widely spoken language in the world by total number of speakers, serving as the primary language of international communication, science, technology, and aviation.",
+    "historicalNotes": "English evolved from Anglo-Saxon (Old English) brought to Britain by Germanic settlers in the 5th century. The Norman Conquest of 1066 introduced significant French vocabulary. The Great Vowel Shift (1400-1700) transformed pronunciation. British colonialism spread English worldwide from the 16th century onward.",
+    "relatedLanguages": [
+      "de",
+      "nl",
+      "fy",
+      "da",
+      "sv",
+      "no"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - English",
+        "url": "https://www.ethnologue.com/language/eng/"
+      },
+      {
+        "title": "Glottolog - English",
+        "url": "https://glottolog.org/resource/languoid/id/stan1293"
+      }
+    ],
+    "geojson": "en.geojson"
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "family": "Indo-European",
+    "branch": "Romance",
+    "speakers": {
+      "native": 475000000,
+      "total": 560000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ES",
+      "MX",
+      "CO",
+      "AR",
+      "PE",
+      "VE",
+      "CL",
+      "EC",
+      "GT",
+      "CU",
+      "BO",
+      "DO",
+      "HN",
+      "PY",
+      "SV",
+      "NI",
+      "CR",
+      "PA",
+      "UY",
+      "PR",
+      "US"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Castilian",
+      "Andalusian",
+      "Mexican Spanish",
+      "Rioplatense",
+      "Caribbean Spanish",
+      "Andean Spanish",
+      "Central American Spanish"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Spanish is a Romance language originating from the Iberian Peninsula. It is the official or national language of 20 countries and the second most spoken native language in the world. Spanish is also the third most used language on the internet.",
+    "historicalNotes": "Spanish evolved from Vulgar Latin on the Iberian Peninsula after the fall of the Roman Empire. The Reconquista (718-1492) spread Castilian Spanish southward. The colonization of the Americas beginning in 1492 brought Spanish to the New World. The Royal Spanish Academy (Real Academia Española) was founded in 1713 to standardize the language.",
+    "relatedLanguages": [
+      "pt",
+      "fr",
+      "it",
+      "ca",
+      "gl",
+      "ro"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Spanish",
+        "url": "https://www.ethnologue.com/language/spa/"
+      },
+      {
+        "title": "Glottolog - Spanish",
+        "url": "https://glottolog.org/resource/languoid/id/stan1288"
+      }
+    ],
+    "geojson": "es.geojson"
+  },
+  {
+    "code": "fa",
+    "name": "Persian",
+    "nativeName": "فارسی",
+    "family": "Indo-European",
+    "branch": "Indo-Iranian",
+    "speakers": {
+      "native": 77000000,
+      "total": 110000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IR",
+      "AF",
+      "TJ",
+      "UZ",
+      "IQ",
+      "BH"
+    ],
+    "writingSystem": "Perso-Arabic",
+    "dialects": [
+      "Iranian Persian (Farsi)",
+      "Dari (Afghan Persian)",
+      "Tajik",
+      "Hazaragi",
+      "Aimaq",
+      "Bukharic"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Persian, also known as Farsi, is an Iranian language within the Indo-European family. It is the official language of Iran, and its varieties Dari and Tajik are official in Afghanistan and Tajikistan respectively. Persian has been a prestigious literary and cultural language for over a millennium, deeply influencing Turkish, Urdu, and other languages of the Islamic world.",
+    "historicalNotes": "Persian has a continuous literary tradition spanning over 2,500 years, from Old Persian of the Achaemenid Empire (6th century BCE) through Middle Persian (Pahlavi) of the Sassanid era to New Persian emerging in the 9th century CE. The great poets Ferdowsi, Hafez, Rumi, and Sa'di wrote in New Persian. After the Arab conquest, Persian adopted the Arabic script and absorbed significant Arabic vocabulary while maintaining its Indo-European grammatical structure.",
+    "relatedLanguages": [
+      "ku",
+      "ps",
+      "tg",
+      "hi",
+      "ur"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Persian",
+        "url": "https://www.ethnologue.com/language/fas/"
+      },
+      {
+        "title": "Glottolog - Persian",
+        "url": "https://glottolog.org/resource/languoid/id/west2369"
+      }
+    ],
+    "geojson": "fa.geojson"
+  },
+  {
+    "code": "fi",
+    "name": "Finnish",
+    "nativeName": "Suomi",
+    "family": "Uralic",
+    "branch": "Finnic",
+    "speakers": {
+      "native": 5400000,
+      "total": 6000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "FI",
+      "SE",
+      "NO",
+      "EE"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Western Finnish",
+      "Eastern Finnish",
+      "Tavastian",
+      "South Ostrobothnian",
+      "North Ostrobothnian",
+      "Savonian",
+      "Karelian Finnish"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Finnish is a Uralic language unrelated to the Indo-European languages that surround it. It is the majority language of Finland and one of the EU's official languages. Finnish is known for its extensive case system (15 grammatical cases), agglutinative morphology, and vowel harmony. It lacks grammatical gender and uses postpositions rather than prepositions.",
+    "historicalNotes": "Finnish was primarily an oral language until the 16th century, when Mikael Agricola, the Bishop of Turku, created the first Finnish-language written works, including a translation of the New Testament (1548). Finland was part of the Swedish kingdom for centuries, making Swedish the dominant written language. Finnish gained official status alongside Swedish in 1863 under Russian rule, and the Kalevala epic (compiled by Elias Lönnrot in 1835) played a crucial role in Finnish national identity and the standardization of the language.",
+    "relatedLanguages": [
+      "hu"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Finnish",
+        "url": "https://www.ethnologue.com/language/fin/"
+      },
+      {
+        "title": "Glottolog - Finnish",
+        "url": "https://glottolog.org/resource/languoid/id/finn1318"
+      }
+    ],
+    "geojson": "fi.geojson"
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "nativeName": "Français",
+    "family": "Indo-European",
+    "branch": "Romance",
+    "speakers": {
+      "native": 80000000,
+      "total": 310000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "FR",
+      "BE",
+      "CH",
+      "CA",
+      "SN",
+      "CI",
+      "CD",
+      "CM",
+      "MG",
+      "ML",
+      "NE",
+      "BF",
+      "HT",
+      "LU",
+      "MC"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Parisian French",
+      "Québécois",
+      "Belgian French",
+      "Swiss French",
+      "African French",
+      "Acadian French",
+      "Cajun French"
+    ],
+    "endangermentStatus": "safe",
+    "description": "French is a Romance language of the Indo-European family. It is the official language of 29 countries across multiple continents and one of six official languages of the United Nations. French serves as a major language of international diplomacy, culture, and commerce.",
+    "historicalNotes": "French evolved from the Vulgar Latin of the Roman Empire, particularly the Gallo-Romance dialects of northern France. The Ordinance of Villers-Cotterêts (1539) established French as the official administrative language. The Académie française, founded in 1635, has regulated the language since. French colonialism spread the language across Africa, the Caribbean, and Southeast Asia from the 17th century onward.",
+    "relatedLanguages": [
+      "es",
+      "it",
+      "pt",
+      "ro",
+      "ca"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - French",
+        "url": "https://www.ethnologue.com/language/fra/"
+      },
+      {
+        "title": "Glottolog - French",
+        "url": "https://glottolog.org/resource/languoid/id/stan1290"
+      }
+    ],
+    "geojson": "fr.geojson"
+  },
+  {
+    "code": "ha",
+    "name": "Hausa",
+    "nativeName": "هَوُسَ",
+    "family": "Afro-Asiatic",
+    "branch": "Chadic",
+    "speakers": {
+      "native": 54000000,
+      "total": 80000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "NG",
+      "NE",
+      "GH",
+      "CM",
+      "TD",
+      "BF"
+    ],
+    "writingSystem": "Latin (Boko) / Arabic (Ajami)",
+    "dialects": [
+      "Kano",
+      "Sokoto",
+      "Zaria (Zazzaganci)",
+      "Bauchi",
+      "Daura",
+      "Katsina",
+      "Ghanaian Hausa"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Hausa is the most widely spoken Chadic language and serves as a lingua franca across much of West Africa. It is predominantly spoken in northern Nigeria and southern Niger, and is one of the most spoken languages on the African continent. Hausa has a rich tradition of oral and written literature.",
+    "historicalNotes": "Hausa civilization dates back over a thousand years, with the Hausa city-states (Hausa Bakwai) forming major centers of trade and learning in West Africa. Historically written in the Arabic-based Ajami script, Hausa transitioned to the Latin-based Boko alphabet during British colonial rule. The language spread extensively along trans-Saharan trade routes and remains a key language of commerce and media in West Africa.",
+    "relatedLanguages": [
+      "ar"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Hausa",
+        "url": "https://www.ethnologue.com/language/hau/"
+      },
+      {
+        "title": "Glottolog - Hausa",
+        "url": "https://glottolog.org/resource/languoid/id/haus1257"
+      }
+    ],
+    "geojson": "ha.geojson"
+  },
+  {
+    "code": "haw",
+    "name": "Hawaiian",
+    "nativeName": "ʻŌlelo Hawaiʻi",
+    "family": "Austronesian",
+    "branch": "Polynesian",
+    "speakers": {
+      "native": 2000,
+      "total": 24000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "US"
+    ],
+    "writingSystem": "Latin (Hawaiian alphabet)",
+    "dialects": [
+      "Niʻihau",
+      "Kauaʻi",
+      "Oʻahu",
+      "Maui",
+      "Hawaiʻi Island"
+    ],
+    "endangermentStatus": "critically endangered",
+    "description": "Hawaiian is a Polynesian language native to the Hawaiian Islands, where it is one of two official languages alongside English. It has one of the smallest phoneme inventories in the world, with only eight consonants and five vowels, and makes extensive use of vowel length and the glottal stop (ʻokina) to distinguish words. Hawaiian is closely related to other Eastern Polynesian languages including Tahitian, Marquesan, and Maori, reflecting the ancient Polynesian voyaging tradition across the Pacific.",
+    "historicalNotes": "Hawaiian was a thriving oral language for centuries before European contact in 1778, with a rich tradition of chants (mele), genealogies, and navigational knowledge. American missionaries developed a written form using the Latin alphabet in the 1820s, and by the mid-19th century Hawaiʻi had one of the highest literacy rates in the world, with a flourishing Hawaiian-language press. Following the overthrow of the Hawaiian Kingdom in 1893 and annexation by the United States in 1898, Hawaiian was banned as a medium of instruction in schools, leading to a dramatic decline in speakers. A revitalization movement beginning in the 1970s, anchored by Hawaiian-language immersion preschools (Pūnana Leo) and K-12 schools (Kula Kaiapuni), has produced a new generation of speakers, though the language remains critically endangered.",
+    "relatedLanguages": [
+      "mi"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Hawaiian",
+        "url": "https://www.ethnologue.com/language/haw/"
+      },
+      {
+        "title": "Glottolog - Hawaiian",
+        "url": "https://glottolog.org/resource/languoid/id/hawa1245"
+      }
+    ],
+    "geojson": "haw.geojson"
+  },
+  {
+    "code": "he",
+    "name": "Hebrew",
+    "nativeName": "עברית",
+    "family": "Afro-Asiatic",
+    "branch": "Semitic",
+    "speakers": {
+      "native": 9000000,
+      "total": 10000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IL",
+      "PS"
+    ],
+    "writingSystem": "Hebrew script",
+    "dialects": [
+      "Modern Hebrew (Ivrit)",
+      "Sephardi Hebrew",
+      "Ashkenazi Hebrew",
+      "Mizrahi Hebrew",
+      "Yemenite Hebrew"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Hebrew is a Northwest Semitic language and the official language of Israel. It is the only successfully revived dead language in history, having been revived as a spoken language in the late 19th and early 20th centuries after centuries of use primarily as a liturgical and literary language.",
+    "historicalNotes": "Biblical Hebrew dates back to the 10th century BCE and was the language of the Hebrew Bible. After the Bar Kokhba revolt (135 CE), Hebrew ceased to be an everyday spoken language but continued as a literary and liturgical language. Eliezer Ben-Yehuda spearheaded the revival of Hebrew as a modern spoken language in the 1880s, and it became an official language of British Mandate Palestine in 1921.",
+    "relatedLanguages": [
+      "ar",
+      "am"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Hebrew",
+        "url": "https://www.ethnologue.com/language/heb/"
+      },
+      {
+        "title": "Glottolog - Hebrew",
+        "url": "https://glottolog.org/resource/languoid/id/hebr1245"
+      }
+    ],
+    "geojson": "he.geojson"
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "nativeName": "हिन्दी",
+    "family": "Indo-European",
+    "branch": "Indo-Aryan",
+    "speakers": {
+      "native": 345000000,
+      "total": 610000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IN",
+      "NP",
+      "FJ",
+      "MU",
+      "TT",
+      "GY",
+      "SR"
+    ],
+    "writingSystem": "Devanagari",
+    "dialects": [
+      "Khariboli",
+      "Braj Bhasha",
+      "Awadhi",
+      "Chhattisgarhi",
+      "Marwari",
+      "Bhojpuri",
+      "Bundeli",
+      "Kannauji"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Hindi is an Indo-Aryan language spoken mainly in northern, central, eastern, and western India. It is the official language of the Government of India, alongside English. Hindi and Urdu are mutually intelligible as spoken languages, together forming Hindustani.",
+    "historicalNotes": "Hindi descends from Shauraseni Prakrit through the medieval Apabhramsha languages. Modern Hindi emerged in the 19th century, adopting the Devanagari script and drawing vocabulary from Sanskrit (as opposed to Urdu, which draws from Persian and Arabic). After Indian independence in 1947, Hindi in Devanagari was declared the official language. The language has been significantly influenced by Persian, Arabic, Portuguese, and English.",
+    "relatedLanguages": [
+      "ur",
+      "bn",
+      "pa",
+      "gu",
+      "mr",
+      "ne"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Hindi",
+        "url": "https://www.ethnologue.com/language/hin/"
+      },
+      {
+        "title": "Glottolog - Hindi",
+        "url": "https://glottolog.org/resource/languoid/id/hind1269"
+      }
+    ],
+    "geojson": "hi.geojson"
+  },
+  {
+    "code": "hu",
+    "name": "Hungarian",
+    "nativeName": "Magyar",
+    "family": "Uralic",
+    "branch": "Ugric",
+    "speakers": {
+      "native": 13000000,
+      "total": 14500000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "HU",
+      "RO",
+      "SK",
+      "RS",
+      "UA",
+      "AT",
+      "SI",
+      "HR"
+    ],
+    "writingSystem": "Latin (Hungarian alphabet)",
+    "dialects": [
+      "Central Transdanubian",
+      "Southern",
+      "Western Transdanubian",
+      "Palóc",
+      "Northeastern",
+      "Transylvanian",
+      "Székely",
+      "Csángó"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Hungarian is a Uralic language and the only major language in the Ugric branch, making it a linguistic island in Central Europe surrounded by Indo-European languages. It is the official language of Hungary and a recognized minority language in several neighboring countries. Hungarian is notable for its agglutinative morphology, vowel harmony, and extensive case system with 18 grammatical cases.",
+    "historicalNotes": "The Hungarian people migrated from the Ural Mountains region to the Carpathian Basin around 895 AD. The earliest known Hungarian text is the Funeral Sermon and Prayer (Halotti Beszéd és Könyörgés) from around 1192. The Hungarian language reform movement (nyelvújítás) of the 18th-19th centuries modernized the vocabulary, creating thousands of new words. Despite centuries of Latin, German, and Ottoman Turkish influence, Hungarian maintained its Uralic character and remains one of the few non-Indo-European languages in Europe.",
+    "relatedLanguages": [
+      "fi"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Hungarian",
+        "url": "https://www.ethnologue.com/language/hun/"
+      },
+      {
+        "title": "Glottolog - Hungarian",
+        "url": "https://glottolog.org/resource/languoid/id/hung1274"
+      }
+    ],
+    "geojson": "hu.geojson"
+  },
+  {
+    "code": "id",
+    "name": "Indonesian",
+    "nativeName": "Bahasa Indonesia",
+    "family": "Austronesian",
+    "branch": "Malayo-Polynesian",
+    "speakers": {
+      "native": 43600000,
+      "total": 199000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ID"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Standard Indonesian",
+      "Jakartan Indonesian",
+      "Sumatran Indonesian",
+      "Sulawesi Indonesian",
+      "Kalimantan Indonesian",
+      "Papuan Indonesian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Indonesian (Bahasa Indonesia) is the official language of Indonesia, the world's fourth most populous country. Based on a standardized form of Malay, Indonesian serves as a unifying lingua franca for a nation of over 700 living languages. It is one of the most widely spoken languages in the world and is notable for its relatively simple grammar and lack of tones.",
+    "historicalNotes": "Indonesian was proclaimed the language of national unity in the 1928 Youth Pledge during the Indonesian independence movement. It was chosen over Javanese (the most widely spoken local language) because Malay had long served as the region's trade lingua franca and was not associated with the dominant Javanese ethnic group. Upon independence in 1945, it became the official language. Indonesian spelling was reformed in 1947 (Soewandi) and again in 1972 (Enhanced Spelling System) to align more closely with Malaysian Malay.",
+    "relatedLanguages": [
+      "ms",
+      "tl"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Indonesian",
+        "url": "https://www.ethnologue.com/language/ind/"
+      },
+      {
+        "title": "Glottolog - Indonesian",
+        "url": "https://glottolog.org/resource/languoid/id/indo1316"
+      }
+    ],
+    "geojson": "id.geojson"
+  },
+  {
+    "code": "ig",
+    "name": "Igbo",
+    "nativeName": "Asụsụ Igbo",
+    "family": "Niger-Congo",
+    "branch": "Volta-Niger",
+    "speakers": {
+      "native": 31000000,
+      "total": 35000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "NG"
+    ],
+    "writingSystem": "Latin (Önwu alphabet)",
+    "dialects": [
+      "Central Igbo",
+      "Onitsha",
+      "Owerri",
+      "Ngwa",
+      "Bonny-Opobo",
+      "Ogbaru",
+      "Ikwerre"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Igbo is a major language of the Volta-Niger branch of the Niger-Congo family, spoken predominantly in southeastern Nigeria. It is one of Nigeria's three officially recognized major languages and serves as the primary means of communication for the Igbo people, one of Africa's largest ethnic groups. Igbo is notable for its rich dialectal variation, with significant phonological and lexical differences across regions, and its complex tonal system that uses two primary tones to distinguish meaning.",
+    "historicalNotes": "The Igbo people have a long history of decentralized political organization, with autonomous communities governed by councils of elders and titled individuals, a system distinct from the centralized kingdoms found elsewhere in West Africa. The first Igbo texts appeared in the early 19th century through the work of missionaries, and the Önwu orthography was officially standardized in 1961 to unify the various writing systems that had been proposed. The Igbo language and identity gained worldwide attention during the Nigerian Civil War (1967-1970) when the Igbo-majority region declared independence as the Republic of Biafra, and today there are active efforts to promote Igbo literacy and digital presence amid concerns about language shift among younger urban speakers.",
+    "relatedLanguages": [
+      "yo"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Igbo",
+        "url": "https://www.ethnologue.com/language/ibo/"
+      },
+      {
+        "title": "Glottolog - Igbo",
+        "url": "https://glottolog.org/resource/languoid/id/nucl1417"
+      }
+    ],
+    "geojson": "ig.geojson"
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "nativeName": "Italiano",
+    "family": "Indo-European",
+    "branch": "Romance",
+    "speakers": {
+      "native": 67000000,
+      "total": 85000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IT",
+      "CH",
+      "SM",
+      "VA",
+      "HR",
+      "SI"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Tuscan",
+      "Neapolitan",
+      "Sicilian",
+      "Venetian",
+      "Lombard",
+      "Piedmontese",
+      "Ligurian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Italian is a Romance language of the Indo-European family. It is the official language of Italy, Switzerland (Ticino and Grisons), San Marino, and Vatican City. Italian evolved from the Tuscan dialect and is known for its role in art, music, cuisine, and fashion, with many Italian terms adopted internationally in these fields.",
+    "historicalNotes": "Italian developed from Vulgar Latin, with the Tuscan dialect becoming the literary standard through the works of Dante Alighieri, Petrarch, and Boccaccio in the 13th-14th centuries. Dante's 'Divine Comedy' (1320) is often credited with establishing the foundation of literary Italian. Italian unification in 1861 promoted Tuscan-based standard Italian as the national language, though regional languages remain widely spoken.",
+    "relatedLanguages": [
+      "es",
+      "fr",
+      "pt",
+      "ro",
+      "ca"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Italian",
+        "url": "https://www.ethnologue.com/language/ita/"
+      },
+      {
+        "title": "Glottolog - Italian",
+        "url": "https://glottolog.org/resource/languoid/id/ital1282"
+      }
+    ],
+    "geojson": "it.geojson"
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "nativeName": "日本語",
+    "family": "Japonic",
+    "branch": "Japanese",
+    "speakers": {
+      "native": 125000000,
+      "total": 128000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "JP"
+    ],
+    "writingSystem": "Japanese (Kanji, Hiragana, Katakana)",
+    "dialects": [
+      "Tokyo dialect",
+      "Kansai dialect",
+      "Tohoku dialect",
+      "Kyushu dialect",
+      "Hokkaido dialect",
+      "Shikoku dialect",
+      "Okinawan Japanese"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Japanese is the national language of Japan, spoken by virtually the entire population. It uses three writing systems: kanji (Chinese characters), hiragana (cursive syllabary), and katakana (angular syllabary for foreign words). Japanese is an agglutinative language with a complex system of honorifics reflecting social hierarchy.",
+    "historicalNotes": "The earliest Japanese texts date to the 8th century, written using Chinese characters adapted for Japanese (man'yogana). The hiragana and katakana syllabaries developed during the Heian period (794–1185). Modern Standard Japanese is based on the Tokyo dialect and was standardized during the Meiji era. Japan's post-WWII script reforms simplified many kanji and established the joyo kanji list.",
+    "relatedLanguages": [
+      "ryu"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Japanese",
+        "url": "https://www.ethnologue.com/language/jpn/"
+      },
+      {
+        "title": "Glottolog - Japanese",
+        "url": "https://glottolog.org/resource/languoid/id/nucl1643"
+      }
+    ],
+    "geojson": "ja.geojson"
+  },
+  {
+    "code": "jv",
+    "name": "Javanese",
+    "nativeName": "ꦧꦱꦗꦮ (Basa Jawa)",
+    "family": "Austronesian",
+    "branch": "Malayo-Polynesian",
+    "speakers": {
+      "native": 82000000,
+      "total": 98000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ID"
+    ],
+    "writingSystem": "Latin / Javanese script (Hanacaraka)",
+    "dialects": [
+      "Central Javanese",
+      "Eastern Javanese",
+      "Western Javanese (Banyumasan)",
+      "Osing",
+      "Tenggerese"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Javanese is an Austronesian language spoken primarily on the island of Java in Indonesia, making it one of the most widely spoken languages in the world by number of native speakers. It is the native language of the Javanese people, the largest ethnic group in Indonesia. Javanese features an elaborate system of speech levels (ngoko, madya, and krama) that encode social relationships and formality, reflecting the deeply hierarchical nature of Javanese culture.",
+    "historicalNotes": "Javanese has one of the longest written traditions in Southeast Asia, with Old Javanese (Kawi) texts dating back to the 9th century CE. The language was historically written in the Javanese script (Hanacaraka), an abugida descended from the Brahmi script of India via the Kawi script. During the Dutch colonial period the Latin alphabet gradually replaced the Javanese script for everyday use, though the traditional script is still taught in schools in Central Java and used for ceremonial and cultural purposes. The Javanese literary tradition includes major works such as the Kakawin Ramayana and numerous adaptations of Indian epics.",
+    "relatedLanguages": [
+      "su",
+      "ms",
+      "id",
+      "tl"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Javanese",
+        "url": "https://www.ethnologue.com/language/jav/"
+      },
+      {
+        "title": "Glottolog - Javanese",
+        "url": "https://glottolog.org/resource/languoid/id/java1254"
+      }
+    ],
+    "geojson": "jv.geojson"
+  },
+  {
+    "code": "ka",
+    "name": "Georgian",
+    "nativeName": "ქართული",
+    "family": "Kartvelian",
+    "branch": "Karto-Zan",
+    "speakers": {
+      "native": 3700000,
+      "total": 4000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "GE"
+    ],
+    "writingSystem": "Georgian script (Mkhedruli)",
+    "dialects": [
+      "Kartlian",
+      "Kakhetian",
+      "Imeretian",
+      "Gurian",
+      "Adjarian",
+      "Rachian",
+      "Lechkhumian",
+      "Meskhetian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Georgian is a Kartvelian language and the most widely spoken of the South Caucasian language family, which is unrelated to any other known language family. It is the official language of Georgia and is spoken primarily in the Caucasus region. Georgian is renowned for its unique alphabet, complex consonant clusters (allowing up to eight consonants in a row), and a polypersonal verb system that can encode subject, direct object, and indirect object within a single verb form.",
+    "historicalNotes": "Georgian has one of the oldest literary traditions in the world, with the earliest inscriptions dating to the 5th century AD. The Georgian alphabet, which has three historical forms (Asomtavruli, Nuskhuri, and Mkhedruli), is recognized as a UNESCO Intangible Cultural Heritage. The 12th-century epic poem 'The Knight in the Panther's Skin' by Shota Rustaveli is considered the pinnacle of Georgian literature. The Kartvelian language family, to which Georgian belongs, has no proven genetic relationship to any other language family, making it one of the world's primary language families.",
+    "relatedLanguages": [],
+    "resources": [
+      {
+        "title": "Ethnologue - Georgian",
+        "url": "https://www.ethnologue.com/language/kat/"
+      },
+      {
+        "title": "Glottolog - Georgian",
+        "url": "https://glottolog.org/resource/languoid/id/nucl1302"
+      }
+    ],
+    "geojson": "ka.geojson"
+  },
+  {
+    "code": "kk",
+    "name": "Kazakh",
+    "nativeName": "Қазақ тілі",
+    "family": "Turkic",
+    "branch": "Kipchak",
+    "speakers": {
+      "native": 13000000,
+      "total": 16000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "KZ",
+      "CN",
+      "RU",
+      "UZ",
+      "MN"
+    ],
+    "writingSystem": "Cyrillic / Latin (transitioning)",
+    "dialects": [
+      "Northeastern Kazakh",
+      "Southern Kazakh",
+      "Western Kazakh"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Kazakh is a Kipchak Turkic language and the official language of Kazakhstan. It is closely related to Karakalpak and Nogai. Kazakhstan is currently transitioning the Kazakh script from Cyrillic to Latin, with full adoption planned by 2031. Kazakh has a rich tradition of oral poetry and epic literature.",
+    "historicalNotes": "Kazakh emerged as a distinct language in the 15th century with the formation of the Kazakh Khanate. The language has a strong tradition of oral literature, including epic poems such as Kyz Zhibek and Kobylandy Batyr. Written Kazakh originally used the Arabic script, switched to Latin in 1929, then to Cyrillic in 1940 under Soviet rule. In 2017, Kazakhstan announced a phased transition to Latin script, reflecting its post-independence identity.",
+    "relatedLanguages": [
+      "tr",
+      "az",
+      "uz"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Kazakh",
+        "url": "https://www.ethnologue.com/language/kaz/"
+      },
+      {
+        "title": "Glottolog - Kazakh",
+        "url": "https://glottolog.org/resource/languoid/id/kaza1248"
+      }
+    ],
+    "geojson": "kk.geojson"
+  },
+  {
+    "code": "km",
+    "name": "Khmer",
+    "nativeName": "ភាសាខ្មែរ",
+    "family": "Austroasiatic",
+    "branch": "Khmeric",
+    "speakers": {
+      "native": 16000000,
+      "total": 18000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "KH",
+      "VN",
+      "TH"
+    ],
+    "writingSystem": "Khmer",
+    "dialects": [
+      "Standard Khmer (Phnom Penh)",
+      "Northern Khmer",
+      "Western Khmer (Cardamom)",
+      "Southern Khmer",
+      "Khmer Krom"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Khmer is the official language of Cambodia and the most widely spoken Austroasiatic language after Vietnamese. Unlike most mainland Southeast Asian languages, Khmer is not tonal. The Khmer script is an abugida derived from Indian Brahmi and is one of the oldest scripts still in use in Southeast Asia.",
+    "historicalNotes": "Khmer has the oldest attested written record of any mainland Southeast Asian language, with inscriptions dating to the 7th century CE. The Khmer Empire (802–1431) at Angkor produced extensive inscriptions in both Sanskrit and Khmer. The Khmer alphabet holds a Guinness World Record as the largest alphabet. The language suffered during the Khmer Rouge era (1975–1979) when many educated speakers were killed, but has since recovered.",
+    "relatedLanguages": [
+      "vi"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Khmer",
+        "url": "https://www.ethnologue.com/language/khm/"
+      },
+      {
+        "title": "Glottolog - Khmer",
+        "url": "https://glottolog.org/resource/languoid/id/cent1989"
+      }
+    ],
+    "geojson": "km.geojson"
+  },
+  {
+    "code": "kn",
+    "name": "Kannada",
+    "nativeName": "ಕನ್ನಡ",
+    "family": "Dravidian",
+    "branch": "Southern Dravidian",
+    "speakers": {
+      "native": 44000000,
+      "total": 59000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IN"
+    ],
+    "writingSystem": "Kannada script",
+    "dialects": [
+      "Mysore-Bangalore",
+      "Dharwad",
+      "Mangalore",
+      "Gulbarga",
+      "Havyaka"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Kannada is a Southern Dravidian language and the official language of the Indian state of Karnataka. It has a rich literary heritage and is one of the oldest Dravidian languages with a written tradition. The Kannada script is closely related to the Telugu script, both deriving from the Kadamba script.",
+    "historicalNotes": "Kannada has one of the oldest Dravidian literary traditions, with the Halmidi inscription (450 CE) being the earliest known Kannada-language stone inscription. The Kavirajamarga (850 CE) is the earliest extant work on Kannada grammar and poetics. Kannada was designated a classical language of India in 2008. The language has produced notable literary figures, including eight Jnanpith Award winners — more than any other Dravidian language.",
+    "relatedLanguages": [
+      "ta",
+      "te",
+      "ml"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Kannada",
+        "url": "https://www.ethnologue.com/language/kan/"
+      },
+      {
+        "title": "Glottolog - Kannada",
+        "url": "https://glottolog.org/resource/languoid/id/nucl1305"
+      }
+    ],
+    "geojson": "kn.geojson"
+  },
+  {
+    "code": "ko",
+    "name": "Korean",
+    "nativeName": "한국어",
+    "family": "Koreanic",
+    "branch": "Korean",
+    "speakers": {
+      "native": 81700000,
+      "total": 82000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "KR",
+      "KP",
+      "CN"
+    ],
+    "writingSystem": "Hangul",
+    "dialects": [
+      "Seoul dialect",
+      "Gyeongsang dialect",
+      "Jeolla dialect",
+      "Chungcheong dialect",
+      "Gangwon dialect",
+      "Jeju dialect",
+      "Pyongan dialect",
+      "Hamgyong dialect"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Korean is the official language of both South Korea and North Korea. It is written in Hangul, a featural alphabet invented in 1443 by King Sejong the Great. Korean is a language isolate within the Koreanic family, with no widely accepted genetic relationship to other language families.",
+    "historicalNotes": "Before the invention of Hangul in 1443, Korean was written using Classical Chinese characters (hanja). King Sejong the Great commissioned the creation of Hangul to increase literacy among commoners. The script was initially called Hunminjeongeum ('The Correct Sounds for the Instruction of the People'). After the division of Korea in 1945, the two Koreas developed divergent standard forms, though mutual intelligibility remains high.",
+    "relatedLanguages": [],
+    "resources": [
+      {
+        "title": "Ethnologue - Korean",
+        "url": "https://www.ethnologue.com/language/kor/"
+      },
+      {
+        "title": "Glottolog - Korean",
+        "url": "https://glottolog.org/resource/languoid/id/kore1280"
+      }
+    ],
+    "geojson": "ko.geojson"
+  },
+  {
+    "code": "lo",
+    "name": "Lao",
+    "nativeName": "ພາສາລາວ",
+    "family": "Kra-Dai",
+    "branch": "Tai",
+    "speakers": {
+      "native": 3500000,
+      "total": 30000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "LA",
+      "TH"
+    ],
+    "writingSystem": "Lao",
+    "dialects": [
+      "Vientiane Lao",
+      "Northern Lao",
+      "Northeastern Lao",
+      "Central Lao",
+      "Southern Lao",
+      "Western Lao"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Lao is the official language of Laos. It is closely related to Thai and the two languages are mutually intelligible to a significant degree. Lao is a tonal language with six tones and uses its own script derived from the Khmer script. The Isan dialect of northeastern Thailand is essentially Lao spoken in Thailand.",
+    "historicalNotes": "Lao developed from the Tai languages as the Tai peoples migrated from southern China into the Mekong valley. The Lao script evolved from the ancient Khmer script via the Fak Kham script of the Lan Xang kingdom. Unlike Thai, Lao script was simplified after the communist Pathet Lao came to power in 1975, removing some consonant classes and vowel symbols. The language has significant Buddhist Pali and Sanskrit vocabulary from centuries of Theravada Buddhist influence.",
+    "relatedLanguages": [
+      "th"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Lao",
+        "url": "https://www.ethnologue.com/language/lao/"
+      },
+      {
+        "title": "Glottolog - Lao",
+        "url": "https://glottolog.org/resource/languoid/id/laoo1244"
+      }
+    ],
+    "geojson": "lo.geojson"
+  },
+  {
+    "code": "mi",
+    "name": "Maori",
+    "nativeName": "Te Reo Māori",
+    "family": "Austronesian",
+    "branch": "Polynesian",
+    "speakers": {
+      "native": 50000,
+      "total": 185000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "NZ"
+    ],
+    "writingSystem": "Latin (Māori alphabet)",
+    "dialects": [
+      "Eastern (Tūhoe)",
+      "Western (Waikato-Maniapoto)",
+      "Northern (Ngāpuhi)",
+      "Southern (Ngāi Tahu)"
+    ],
+    "endangermentStatus": "endangered",
+    "description": "Maori is a Polynesian language spoken by the Māori people, the indigenous population of New Zealand (Aotearoa). It became an official language of New Zealand in 1987 under the Māori Language Act. Maori shares significant lexical and grammatical similarities with other Eastern Polynesian languages, particularly Hawaiian and Tahitian, reflecting a common ancestry in the Polynesian migrations across the Pacific. The language uses a predicate-initial word order and a rich system of particles to mark tense, aspect, and mood.",
+    "historicalNotes": "Māori was brought to New Zealand by Polynesian settlers who arrived from Eastern Polynesia around 1250-1300 CE, making it one of the most recently established Polynesian languages. Prior to European contact, Māori was purely an oral language with a strong tradition of whakapapa (genealogical recitation), waiata (songs), and karakia (incantations). Missionaries developed a written form in the early 19th century, and Māori literacy spread rapidly. However, government policies from the 1860s onward that promoted English-only education led to a severe decline in Māori speakers throughout the 20th century. The Māori language revitalization movement, which accelerated from the 1980s with the establishment of Kōhanga Reo (language nests) and Kura Kaupapa Māori (immersion schools), has been internationally recognized as a model for indigenous language recovery.",
+    "relatedLanguages": [
+      "haw"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Maori",
+        "url": "https://www.ethnologue.com/language/mri/"
+      },
+      {
+        "title": "Glottolog - Maori",
+        "url": "https://glottolog.org/resource/languoid/id/maor1246"
+      }
+    ],
+    "geojson": "mi.geojson"
+  },
+  {
+    "code": "ml",
+    "name": "Malayalam",
+    "nativeName": "മലയാളം",
+    "family": "Dravidian",
+    "branch": "Southern Dravidian",
+    "speakers": {
+      "native": 38000000,
+      "total": 40000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IN"
+    ],
+    "writingSystem": "Malayalam script",
+    "dialects": [
+      "Malabar",
+      "Central Kerala",
+      "South Kerala",
+      "Kasaragod",
+      "Lakshadweep"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Malayalam is a Southern Dravidian language and the official language of the Indian state of Kerala and the union territory of Lakshadweep. It is closely related to Tamil, having diverged from Proto-Tamil-Malayalam around the 9th century CE. Malayalam has one of the most complex scripts among Indian languages.",
+    "historicalNotes": "Malayalam diverged from Tamil between the 8th and 10th centuries CE, developing its own distinct literary tradition. The earliest known Malayalam inscription dates to approximately 830 CE. The language was heavily influenced by Sanskrit, leading to a Sanskritized literary form called Manipravalam. Malayalam was designated a classical language of India in 2013. Kerala's near-universal literacy rate has contributed to a vibrant literary culture.",
+    "relatedLanguages": [
+      "ta",
+      "kn",
+      "te"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Malayalam",
+        "url": "https://www.ethnologue.com/language/mal/"
+      },
+      {
+        "title": "Glottolog - Malayalam",
+        "url": "https://glottolog.org/resource/languoid/id/mala1464"
+      }
+    ],
+    "geojson": "ml.geojson"
+  },
+  {
+    "code": "ms",
+    "name": "Malay",
+    "nativeName": "Bahasa Melayu",
+    "family": "Austronesian",
+    "branch": "Malayo-Polynesian",
+    "speakers": {
+      "native": 77000000,
+      "total": 290000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "MY",
+      "SG",
+      "BN",
+      "ID"
+    ],
+    "writingSystem": "Latin (Rumi)",
+    "dialects": [
+      "Standard Malay (Bahasa Baku)",
+      "Johor-Riau Malay",
+      "Kedah Malay",
+      "Kelantan Malay",
+      "Terengganu Malay",
+      "Sarawak Malay",
+      "Brunei Malay"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Malay is the official language of Malaysia, Brunei, and Singapore, and is closely related to Indonesian. It has served as a lingua franca across the Malay Archipelago for centuries. Malay is an agglutinative language with a relatively simple phonology and uses Latin script (Rumi), though Jawi (Arabic-based) script is still used in some contexts.",
+    "historicalNotes": "Malay has been a major trade language of Southeast Asia since the Srivijaya empire (7th–13th centuries). The oldest known Malay inscriptions, from the 7th century, were found in Sumatra and written in Pallava script. Malay adopted Arabic script (Jawi) with the spread of Islam in the 13th–14th centuries, and later shifted to Latin script under European colonial influence. The language was standardized as Bahasa Malaysia after Malaysian independence in 1957.",
+    "relatedLanguages": [
+      "id",
+      "tl"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Malay",
+        "url": "https://www.ethnologue.com/language/zsm/"
+      },
+      {
+        "title": "Glottolog - Malay",
+        "url": "https://glottolog.org/resource/languoid/id/stan1306"
+      }
+    ],
+    "geojson": "ms.geojson"
+  },
+  {
+    "code": "my",
+    "name": "Burmese",
+    "nativeName": "မြန်မာစာ",
+    "family": "Sino-Tibetan",
+    "branch": "Tibeto-Burman",
+    "speakers": {
+      "native": 33000000,
+      "total": 43000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "MM"
+    ],
+    "writingSystem": "Myanmar (Burmese)",
+    "dialects": [
+      "Standard Burmese (Mandalay-Yangon)",
+      "Arakanese (Rakhine)",
+      "Intha",
+      "Tavoyan",
+      "Yaw",
+      "Merguese"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Burmese is the official language of Myanmar (Burma). It is the most widely spoken Tibeto-Burman language. Burmese is a tonal language with three tones and uses a distinctive rounded script derived from the Mon script. It is the first language of the Bamar people and a lingua franca among Myanmar's diverse ethnic groups.",
+    "historicalNotes": "The earliest known Burmese inscription is the Myazedi inscription from 1113 CE. The Burmese script evolved from the Mon script, which itself derives from an Indian Brahmi script. The rounded shapes of Burmese letters are believed to have developed because the original writing medium was palm leaves, which would tear with straight lines. Burmese literature flourished during the Bagan period (9th–13th centuries).",
+    "relatedLanguages": [
+      "bo",
+      "lus"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Burmese",
+        "url": "https://www.ethnologue.com/language/mya/"
+      },
+      {
+        "title": "Glottolog - Burmese",
+        "url": "https://glottolog.org/resource/languoid/id/nucl1310"
+      }
+    ],
+    "geojson": "my.geojson"
+  },
+  {
+    "code": "nl",
+    "name": "Dutch",
+    "nativeName": "Nederlands",
+    "family": "Indo-European",
+    "branch": "Germanic",
+    "speakers": {
+      "native": 25000000,
+      "total": 30000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "NL",
+      "BE",
+      "SR",
+      "CW",
+      "AW",
+      "SX"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Flemish",
+      "Hollandic",
+      "Brabantian",
+      "Limburgish",
+      "Zeelandic",
+      "Surinamese Dutch"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Dutch is a West Germanic language spoken primarily in the Netherlands and Belgium (Flanders). It is also an official language of Suriname and several Caribbean islands. Dutch is closely related to German and English, and served as the basis for Afrikaans, spoken in South Africa and Namibia.",
+    "historicalNotes": "Dutch evolved from Old Frankish and Old Low Franconian dialects. The Dutch Golden Age (17th century) saw the language spread through colonial trade to Southeast Asia, South Africa, and the Americas. The Dutch Language Union (Nederlandse Taalunie), established in 1980, coordinates language policy between the Netherlands, Belgium, and Suriname. Afrikaans, spoken in South Africa, diverged from Dutch in the 17th century.",
+    "relatedLanguages": [
+      "de",
+      "en",
+      "fy",
+      "af"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Dutch",
+        "url": "https://www.ethnologue.com/language/nld/"
+      },
+      {
+        "title": "Glottolog - Dutch",
+        "url": "https://glottolog.org/resource/languoid/id/dutc1256"
+      }
+    ],
+    "geojson": "nl.geojson"
+  },
+  {
+    "code": "pa",
+    "name": "Punjabi",
+    "nativeName": "ਪੰਜਾਬੀ",
+    "family": "Indo-European",
+    "branch": "Indo-Aryan",
+    "speakers": {
+      "native": 113000000,
+      "total": 150000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "PK",
+      "IN",
+      "GB",
+      "CA",
+      "US",
+      "AE",
+      "AU"
+    ],
+    "writingSystem": "Gurmukhi / Shahmukhi",
+    "dialects": [
+      "Majhi",
+      "Doabi",
+      "Malwai",
+      "Pwadhi",
+      "Pothohari",
+      "Multani",
+      "Jhangochi"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Punjabi is an Indo-Aryan language spoken primarily in the Punjab regions of Pakistan and India. It is the most spoken language in Pakistan by native speakers and the eleventh most spoken language in India. Punjabi is unique among Indo-Aryan languages for its tonal system, having three distinct tones that affect meaning.",
+    "historicalNotes": "Punjabi evolved from Shauraseni Prakrit through the Apabhramsha stage. The earliest Punjabi literature dates to the writings of the Sufi poet Fariduddin Ganjshakar in the 12th century. Guru Angad developed the Gurmukhi script in the 16th century for writing Sikh scriptures. The partition of Punjab in 1947 divided the language between India (using Gurmukhi script) and Pakistan (using Shahmukhi, a Perso-Arabic script).",
+    "relatedLanguages": [
+      "hi",
+      "ur",
+      "gu",
+      "sd",
+      "bn"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Punjabi",
+        "url": "https://www.ethnologue.com/language/pan/"
+      },
+      {
+        "title": "Glottolog - Punjabi",
+        "url": "https://glottolog.org/resource/languoid/id/panj1256"
+      }
+    ],
+    "geojson": "pa.geojson"
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "nativeName": "Polski",
+    "family": "Indo-European",
+    "branch": "Balto-Slavic",
+    "speakers": {
+      "native": 45000000,
+      "total": 50000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "PL",
+      "US",
+      "GB",
+      "DE",
+      "CZ",
+      "FR",
+      "CA"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Greater Polish",
+      "Lesser Polish",
+      "Masovian",
+      "Silesian",
+      "Kashubian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Polish is a West Slavic language and the official language of Poland. It is the sixth most spoken language in the European Union. Polish is known for its complex consonant clusters, seven grammatical cases, and a rich system of palatalized consonants. It uses the Latin script with additional diacritical marks.",
+    "historicalNotes": "Polish emerged from the Proto-Slavic language and the earliest written records date to the 12th century. The first printed Polish text appeared in 1475. Poland's partitions (1772-1918) threatened the language, but it survived through literature and underground education. The language was standardized in the 19th century, drawing heavily on the Greater Polish and Lesser Polish dialects.",
+    "relatedLanguages": [
+      "cs",
+      "sk",
+      "uk",
+      "ru",
+      "hr"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Polish",
+        "url": "https://www.ethnologue.com/language/pol/"
+      },
+      {
+        "title": "Glottolog - Polish",
+        "url": "https://glottolog.org/resource/languoid/id/poli1260"
+      }
+    ],
+    "geojson": "pl.geojson"
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese",
+    "nativeName": "Português",
+    "family": "Indo-European",
+    "branch": "Romance",
+    "speakers": {
+      "native": 260000000,
+      "total": 270000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "BR",
+      "PT",
+      "AO",
+      "MZ",
+      "GW",
+      "TL",
+      "CV",
+      "ST",
+      "GQ",
+      "MO"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Brazilian Portuguese",
+      "European Portuguese",
+      "African Portuguese",
+      "Angolan Portuguese",
+      "Mozambican Portuguese"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Portuguese is a Romance language originating from the Iberian Peninsula. It is the official language of Portugal, Brazil, and several African and Asian nations. As the most spoken language in South America and the Southern Hemisphere, Portuguese is the sixth most spoken language in the world by total number of native speakers.",
+    "historicalNotes": "Portuguese evolved from Galician-Portuguese, a medieval Romance language of the Iberian Peninsula. The language spread globally during the Age of Discovery (15th-16th centuries) through Portuguese maritime exploration and colonization. The Orthographic Agreement of 1990 aimed to unify the spelling standards of Portuguese-speaking countries. Brazil, as the largest Portuguese-speaking country, has significantly influenced the language's modern development.",
+    "relatedLanguages": [
+      "es",
+      "fr",
+      "it",
+      "ro",
+      "gl"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Portuguese",
+        "url": "https://www.ethnologue.com/language/por/"
+      },
+      {
+        "title": "Glottolog - Portuguese",
+        "url": "https://glottolog.org/resource/languoid/id/port1283"
+      }
+    ],
+    "geojson": "pt.geojson"
+  },
+  {
+    "code": "ro",
+    "name": "Romanian",
+    "nativeName": "Română",
+    "family": "Indo-European",
+    "branch": "Romance",
+    "speakers": {
+      "native": 24000000,
+      "total": 28000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "RO",
+      "MD",
+      "RS",
+      "UA",
+      "HU"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Daco-Romanian",
+      "Moldovan",
+      "Transylvanian",
+      "Banat",
+      "Oltenian",
+      "Muntenian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Romanian is an Eastern Romance language and the official language of Romania and Moldova. It is the only Romance language that developed in the eastern part of Latin Europe and retains notable Slavic, Greek, and Turkish influences. Romanian preserves features of Latin grammar that were lost in other Romance languages.",
+    "historicalNotes": "Romanian descends from Vulgar Latin spoken in the Roman province of Dacia (conquered 106 CE). After the Roman withdrawal in 271 CE, the language evolved in relative isolation from other Romance languages. The earliest known Romanian text, Neacșu's Letter, dates to 1521. Romanian switched from the Cyrillic to the Latin script in the mid-19th century. Moldova used Cyrillic until 1989 and officially readopted the Latin script after independence.",
+    "relatedLanguages": [
+      "it",
+      "fr",
+      "es",
+      "pt",
+      "ca"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Romanian",
+        "url": "https://www.ethnologue.com/language/ron/"
+      },
+      {
+        "title": "Glottolog - Romanian",
+        "url": "https://glottolog.org/resource/languoid/id/roma1327"
+      }
+    ],
+    "geojson": "ro.geojson"
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "nativeName": "Русский",
+    "family": "Indo-European",
+    "branch": "Balto-Slavic",
+    "speakers": {
+      "native": 150000000,
+      "total": 258000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "RU",
+      "BY",
+      "KZ",
+      "KG",
+      "UA",
+      "LV",
+      "EE",
+      "LT",
+      "MD",
+      "UZ"
+    ],
+    "writingSystem": "Cyrillic",
+    "dialects": [
+      "Northern Russian",
+      "Southern Russian",
+      "Central Russian",
+      "Moscow dialect",
+      "St. Petersburg dialect"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Russian is an East Slavic language and the most widely spoken Slavic language. It is the official language of Russia, Belarus, Kazakhstan, and Kyrgyzstan. Russian serves as one of the six official languages of the United Nations and is a lingua franca across much of Central Asia and Eastern Europe.",
+    "historicalNotes": "Russian descends from Old East Slavic, the common language of Kievan Rus'. The modern literary language emerged in the 18th century with the reforms of Mikhail Lomonosov. Alexander Pushkin is widely credited with establishing the foundation of modern Russian literature. The Bolshevik Revolution of 1917 led to spelling reforms that simplified the orthography. Soviet-era policies spread Russian across Central Asia and Eastern Europe.",
+    "relatedLanguages": [
+      "uk",
+      "be",
+      "pl",
+      "cs",
+      "bg"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Russian",
+        "url": "https://www.ethnologue.com/language/rus/"
+      },
+      {
+        "title": "Glottolog - Russian",
+        "url": "https://glottolog.org/resource/languoid/id/russ1263"
+      }
+    ],
+    "geojson": "ru.geojson"
+  },
+  {
+    "code": "so",
+    "name": "Somali",
+    "nativeName": "Soomaali",
+    "family": "Afro-Asiatic",
+    "branch": "Cushitic",
+    "speakers": {
+      "native": 22000000,
+      "total": 24000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "SO",
+      "ET",
+      "DJ",
+      "KE"
+    ],
+    "writingSystem": "Latin (Somali alphabet)",
+    "dialects": [
+      "Northern Somali (Standard)",
+      "Benaadir (Coastal)",
+      "Maay",
+      "Ashraaf"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Somali is a Cushitic language and the official language of Somalia. It is also widely spoken in the Somali Region of Ethiopia, Djibouti, and northeastern Kenya. Somali has a rich oral literary tradition, with poetry holding a central place in Somali culture and society.",
+    "historicalNotes": "Somali has a long history as an oral language with an exceptionally rich poetic tradition. Although written in the Arabic-based Osmanya and Wadaad scripts historically, the modern Latin-based orthography was officially adopted in 1972 under President Siad Barre. The standardized script helped unify various dialect groups and enabled mass literacy campaigns. Somali poetry is renowned for its complexity and cultural importance.",
+    "relatedLanguages": [
+      "ar"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Somali",
+        "url": "https://www.ethnologue.com/language/som/"
+      },
+      {
+        "title": "Glottolog - Somali",
+        "url": "https://glottolog.org/resource/languoid/id/soma1255"
+      }
+    ],
+    "geojson": "so.geojson"
+  },
+  {
+    "code": "su",
+    "name": "Sundanese",
+    "nativeName": "ᮘᮞ ᮞᮥᮔ᮪ᮓ (Basa Sunda)",
+    "family": "Austronesian",
+    "branch": "Malayo-Polynesian",
+    "speakers": {
+      "native": 40000000,
+      "total": 42000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ID"
+    ],
+    "writingSystem": "Latin / Sundanese script",
+    "dialects": [
+      "Priangan",
+      "Bogor",
+      "Cirebon",
+      "Banten",
+      "Northern Sundanese"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Sundanese is an Austronesian language spoken by the Sundanese people in the western third of the island of Java, Indonesia, primarily in the provinces of West Java and Banten. It is the second most widely spoken regional language in Indonesia after Javanese. Like Javanese, Sundanese features a system of speech levels that reflect social hierarchy, though its system is somewhat less elaborate, with distinctions primarily between informal (loma), polite (lemes), and very formal registers.",
+    "historicalNotes": "The earliest known Sundanese inscription dates to the 14th century, although the Sundanese cultural region was referenced in earlier Old Javanese texts. The Sundanese script, an abugida derived from the ancient Brahmi script through Pallava and Old Sundanese intermediaries, was used for literary and administrative purposes in the pre-colonial Sundanese kingdoms of Pajajaran and Galuh. Under Dutch colonial rule and following Indonesian independence, the Latin alphabet became the dominant writing system. The traditional Sundanese script has experienced a revival in recent decades, appearing on street signs and public buildings in West Java as part of cultural preservation efforts.",
+    "relatedLanguages": [
+      "jv",
+      "ms",
+      "id",
+      "tl"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Sundanese",
+        "url": "https://www.ethnologue.com/language/sun/"
+      },
+      {
+        "title": "Glottolog - Sundanese",
+        "url": "https://glottolog.org/resource/languoid/id/sund1252"
+      }
+    ],
+    "geojson": "su.geojson"
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "nativeName": "Svenska",
+    "family": "Indo-European",
+    "branch": "Germanic",
+    "speakers": {
+      "native": 10000000,
+      "total": 13000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "SE",
+      "FI",
+      "AX"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Central Swedish",
+      "Finland Swedish",
+      "Gotlandic",
+      "South Swedish",
+      "Norrland Swedish",
+      "East Swedish"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Swedish is a North Germanic language and the most widely spoken of the Scandinavian languages. It is the official language of Sweden and one of two official languages of Finland. Swedish is mutually intelligible with Norwegian and, to a lesser extent, Danish. It is known for its melodic intonation and pitch accent system.",
+    "historicalNotes": "Swedish evolved from Old Norse, the common language of the Norse peoples during the Viking Age (8th-11th centuries). Old Swedish emerged as a distinct language around the 12th century. The printing of the Bible in Swedish (Gustav Vasa Bible, 1541) was a landmark in standardizing the language. Modern Swedish spelling was standardized in the early 20th century with a major spelling reform in 1906.",
+    "relatedLanguages": [
+      "no",
+      "da",
+      "is",
+      "de",
+      "en"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Swedish",
+        "url": "https://www.ethnologue.com/language/swe/"
+      },
+      {
+        "title": "Glottolog - Swedish",
+        "url": "https://glottolog.org/resource/languoid/id/swed1254"
+      }
+    ],
+    "geojson": "sv.geojson"
+  },
+  {
+    "code": "sw",
+    "name": "Swahili",
+    "nativeName": "Kiswahili",
+    "family": "Niger-Congo",
+    "branch": "Bantu",
+    "speakers": {
+      "native": 16000000,
+      "total": 200000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "TZ",
+      "KE",
+      "UG",
+      "CD",
+      "RW",
+      "BI",
+      "MZ",
+      "SO"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Kiunguja",
+      "Kimvita",
+      "Kiamu",
+      "Kingwana",
+      "Sheng",
+      "Comorian Swahili"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Swahili is a Bantu language that serves as a lingua franca across much of East and Central Africa, making it one of the most widely spoken languages on the continent. It is an official language of Tanzania, Kenya, Uganda, Rwanda, and the Democratic Republic of the Congo, as well as a working language of the African Union and the East African Community. Despite having roughly 16 million native speakers concentrated along the East African coast, Swahili is used as a second language by an estimated 200 million people, reflecting its critical role in regional commerce, education, and media.",
+    "historicalNotes": "Swahili emerged from centuries of interaction between Bantu-speaking coastal communities and Arab, Persian, and Indian Ocean traders, resulting in significant Arabic lexical influence while retaining a thoroughly Bantu grammatical structure. The earliest known Swahili writings date to the early 18th century using the Arabic-based script, though the language shifted to the Latin alphabet under European colonial administration. During the independence movements of the 1960s, Swahili became a powerful symbol of pan-African identity, and Tanzania's first president Julius Nyerere championed it as a unifying national language, a role it continues to expand across the continent today.",
+    "relatedLanguages": [
+      "zu",
+      "xh"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Swahili",
+        "url": "https://www.ethnologue.com/language/swh/"
+      },
+      {
+        "title": "Glottolog - Swahili",
+        "url": "https://glottolog.org/resource/languoid/id/swah1253"
+      }
+    ],
+    "geojson": "sw.geojson"
+  },
+  {
+    "code": "ta",
+    "name": "Tamil",
+    "nativeName": "தமிழ்",
+    "family": "Dravidian",
+    "branch": "Southern Dravidian",
+    "speakers": {
+      "native": 78000000,
+      "total": 87000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IN",
+      "LK",
+      "SG",
+      "MY"
+    ],
+    "writingSystem": "Tamil script",
+    "dialects": [
+      "Central Tamil",
+      "Madras Tamil",
+      "Kongu Tamil",
+      "Madurai Tamil",
+      "Jaffna Tamil",
+      "Sri Lankan Tamil"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Tamil is a Dravidian language and one of the longest-surviving classical languages in the world. It is the official language of the Indian state of Tamil Nadu and one of the official languages of Sri Lanka and Singapore. Tamil has a continuous literary tradition spanning over two thousand years.",
+    "historicalNotes": "Tamil is one of the oldest living languages, with literature dating back to at least the 3rd century BCE (Sangam literature). It was designated a classical language of India in 2004 — the first language to receive this distinction. The earliest known Tamil inscriptions (Tamil-Brahmi) date to around 500 BCE. Tamil has maintained remarkable continuity, with modern speakers able to comprehend classical texts with some study.",
+    "relatedLanguages": [
+      "kn",
+      "ml",
+      "te"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Tamil",
+        "url": "https://www.ethnologue.com/language/tam/"
+      },
+      {
+        "title": "Glottolog - Tamil",
+        "url": "https://glottolog.org/resource/languoid/id/tami1289"
+      }
+    ],
+    "geojson": "ta.geojson"
+  },
+  {
+    "code": "te",
+    "name": "Telugu",
+    "nativeName": "తెలుగు",
+    "family": "Dravidian",
+    "branch": "South-Central Dravidian",
+    "speakers": {
+      "native": 83000000,
+      "total": 96000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "IN"
+    ],
+    "writingSystem": "Telugu script",
+    "dialects": [
+      "Coastal Andhra",
+      "Rayalaseema",
+      "Telangana",
+      "Nellore",
+      "Ceded Districts"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Telugu is a South-Central Dravidian language and the most widely spoken Dravidian language by number of native speakers. It is the official language of the Indian states of Andhra Pradesh and Telangana. Telugu is sometimes called the 'Italian of the East' for its vowel-ending words and melodious sound.",
+    "historicalNotes": "Telugu inscriptions date back to the 6th century CE, with literary works appearing from the 11th century. The language flourished under the Kakatiya dynasty (1163-1323) and the Vijayanagara Empire (1336-1646). Telugu was designated a classical language of India in 2008. The script evolved from the Bhattiprolu script through the Telugu-Kannada script tradition.",
+    "relatedLanguages": [
+      "ta",
+      "kn",
+      "ml"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Telugu",
+        "url": "https://www.ethnologue.com/language/tel/"
+      },
+      {
+        "title": "Glottolog - Telugu",
+        "url": "https://glottolog.org/resource/languoid/id/telu1262"
+      }
+    ],
+    "geojson": "te.geojson"
+  },
+  {
+    "code": "th",
+    "name": "Thai",
+    "nativeName": "ภาษาไทย",
+    "family": "Kra-Dai",
+    "branch": "Tai",
+    "speakers": {
+      "native": 21000000,
+      "total": 61000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "TH"
+    ],
+    "writingSystem": "Thai",
+    "dialects": [
+      "Central Thai (Standard)",
+      "Northern Thai (Lanna)",
+      "Northeastern Thai (Isan)",
+      "Southern Thai",
+      "Khorat Thai"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Thai is the official language of Thailand. It is a tonal language with five tones and uses its own abugida script derived from Khmer. Central Thai, based on the Bangkok dialect, serves as the standard form. Thai has a complex system of registers and pronouns reflecting social relationships and formality.",
+    "historicalNotes": "The Thai script was created in 1283 by King Ramkhamhaeng the Great of the Sukhothai Kingdom, adapted from the Khmer script. Thai belongs to the Tai branch of the Kra-Dai language family, with origins traced to southern China. The Tai peoples migrated southward into Southeast Asia over several centuries. Modern Standard Thai was codified during the reign of King Rama VI in the early 20th century.",
+    "relatedLanguages": [
+      "lo"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Thai",
+        "url": "https://www.ethnologue.com/language/tha/"
+      },
+      {
+        "title": "Glottolog - Thai",
+        "url": "https://glottolog.org/resource/languoid/id/thai1261"
+      }
+    ],
+    "geojson": "th.geojson"
+  },
+  {
+    "code": "tl",
+    "name": "Tagalog",
+    "nativeName": "Tagalog",
+    "family": "Austronesian",
+    "branch": "Malayo-Polynesian",
+    "speakers": {
+      "native": 28000000,
+      "total": 82000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "PH"
+    ],
+    "writingSystem": "Latin (Filipino alphabet)",
+    "dialects": [
+      "Manila Tagalog",
+      "Bulacan Tagalog",
+      "Batangas Tagalog",
+      "Bataan Tagalog",
+      "Lubang Tagalog",
+      "Marinduque Tagalog"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Tagalog is an Austronesian language spoken as a first language by a quarter of the Philippine population. It forms the basis of Filipino, the national language of the Philippines. Tagalog uses a verb-initial word order and an Austronesian alignment system (focus/voice system) that marks the semantic role of the topic noun phrase.",
+    "historicalNotes": "Before Spanish colonization, Tagalog was written in Baybayin, an Indic-derived abugida script. Spanish missionaries Romanized the script in the 16th century. After Philippine independence in 1946, Tagalog was selected as the basis for the national language (initially called Pilipino, later Filipino). The Filipino alphabet, adopted in 1987, expanded the traditional Abakada alphabet to include letters for Spanish and English loanwords.",
+    "relatedLanguages": [
+      "ms",
+      "id"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Tagalog",
+        "url": "https://www.ethnologue.com/language/tgl/"
+      },
+      {
+        "title": "Glottolog - Tagalog",
+        "url": "https://glottolog.org/resource/languoid/id/taga1270"
+      }
+    ],
+    "geojson": "tl.geojson"
+  },
+  {
+    "code": "tr",
+    "name": "Turkish",
+    "nativeName": "Türkçe",
+    "family": "Turkic",
+    "branch": "Oghuz",
+    "speakers": {
+      "native": 82000000,
+      "total": 88000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "TR",
+      "CY",
+      "BG",
+      "GR",
+      "DE"
+    ],
+    "writingSystem": "Latin (Turkish alphabet)",
+    "dialects": [
+      "Istanbul Turkish (Standard)",
+      "Rumelian",
+      "Anatolian",
+      "Cyprus Turkish",
+      "Meskhetian"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Turkish is an Oghuz Turkic language and the most widely spoken Turkic language. It is the official language of Turkey and Northern Cyprus and a co-official language of Cyprus. Turkish is an agglutinative language with vowel harmony and a subject-object-verb word order.",
+    "historicalNotes": "Turkish descends from Old Turkic and evolved through the Seljuk and Ottoman periods. Ottoman Turkish was heavily influenced by Arabic and Persian and written in the Arabic script. In 1928, Mustafa Kemal Atatürk introduced a sweeping language reform, replacing the Arabic script with a modified Latin alphabet and purging many Arabic and Persian loanwords. This reform dramatically increased literacy rates across Turkey.",
+    "relatedLanguages": [
+      "az",
+      "uz",
+      "kk"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Turkish",
+        "url": "https://www.ethnologue.com/language/tur/"
+      },
+      {
+        "title": "Glottolog - Turkish",
+        "url": "https://glottolog.org/resource/languoid/id/nucl1301"
+      }
+    ],
+    "geojson": "tr.geojson"
+  },
+  {
+    "code": "uk",
+    "name": "Ukrainian",
+    "nativeName": "Українська",
+    "family": "Indo-European",
+    "branch": "Balto-Slavic",
+    "speakers": {
+      "native": 33000000,
+      "total": 40000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "UA",
+      "PL",
+      "CA",
+      "BR",
+      "AR",
+      "US"
+    ],
+    "writingSystem": "Cyrillic",
+    "dialects": [
+      "Northern Ukrainian",
+      "Southeastern Ukrainian",
+      "Southwestern Ukrainian",
+      "Surzhyk"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Ukrainian is an East Slavic language and the official state language of Ukraine. It is one of the three East Slavic languages alongside Russian and Belarusian. Ukrainian uses the Cyrillic script with additional characters not found in Russian, and has a rich literary heritage dating back centuries.",
+    "historicalNotes": "Ukrainian descended from Old East Slavic, the common language of the medieval state of Kievan Rus'. The language was suppressed under Russian imperial rule through the Ems Decree (1876) and Valuev Circular (1863) which restricted Ukrainian publications. After Ukrainian independence in 1991, the language underwent a revival. The ongoing Ukrainian language revival emphasizes its distinct identity from Russian, with updated orthographic standards adopted in 2019.",
+    "relatedLanguages": [
+      "ru",
+      "be",
+      "pl",
+      "cs",
+      "sk"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Ukrainian",
+        "url": "https://www.ethnologue.com/language/ukr/"
+      },
+      {
+        "title": "Glottolog - Ukrainian",
+        "url": "https://glottolog.org/resource/languoid/id/ukra1253"
+      }
+    ],
+    "geojson": "uk.geojson"
+  },
+  {
+    "code": "uz",
+    "name": "Uzbek",
+    "nativeName": "Oʻzbek tili",
+    "family": "Turkic",
+    "branch": "Karluk",
+    "speakers": {
+      "native": 35000000,
+      "total": 40000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "UZ",
+      "AF",
+      "TJ",
+      "KG",
+      "KZ"
+    ],
+    "writingSystem": "Latin (Uzbekistan) / Arabic (Afghanistan)",
+    "dialects": [
+      "Northern Uzbek",
+      "Southern Uzbek",
+      "Tashkent",
+      "Ferghana",
+      "Khorezm"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Uzbek is a Karluk Turkic language and the official language of Uzbekistan. It is the most widely spoken Turkic language in Central Asia and differs from most other Turkic languages in having lost vowel harmony. Uzbek serves as a lingua franca in parts of Central Asia.",
+    "historicalNotes": "Uzbek descends from Chagatai, the literary Turkic language of Central Asia that flourished under Timurid rule (14th-16th centuries). The great poet Alisher Navoi (1441-1501) is considered the founder of Uzbek literary tradition. The script changed from Arabic to Latin in 1928, to Cyrillic in 1940 under Soviet rule, and back to Latin after independence in 1991, though the Latin transition is still ongoing.",
+    "relatedLanguages": [
+      "tr",
+      "az",
+      "kk"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Uzbek",
+        "url": "https://www.ethnologue.com/language/uzn/"
+      },
+      {
+        "title": "Glottolog - Uzbek",
+        "url": "https://glottolog.org/resource/languoid/id/uzbe1247"
+      }
+    ],
+    "geojson": "uz.geojson"
+  },
+  {
+    "code": "vi",
+    "name": "Vietnamese",
+    "nativeName": "Tiếng Việt",
+    "family": "Austroasiatic",
+    "branch": "Vietic",
+    "speakers": {
+      "native": 85000000,
+      "total": 86000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "VN"
+    ],
+    "writingSystem": "Latin (Vietnamese alphabet)",
+    "dialects": [
+      "Northern Vietnamese (Hanoi)",
+      "Central Vietnamese (Hue)",
+      "Southern Vietnamese (Saigon)",
+      "North-Central Vietnamese"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Vietnamese is the official language of Vietnam and the most spoken Austroasiatic language. It is a tonal language with six tones in the standard northern dialect. Vietnamese uses the Latin-based Vietnamese alphabet (Quoc Ngu) with extensive diacritics to mark tones and modified vowels.",
+    "historicalNotes": "Vietnamese was historically written in Chinese characters (chu Han) and a locally developed character system called chu Nom. The Romanized script Quoc Ngu was developed by Portuguese and French missionaries in the 17th century, notably Alexandre de Rhodes. It became the official writing system under French colonial rule and was universally adopted after independence. Vietnamese has borrowed extensively from Chinese, which comprises a large portion of its vocabulary.",
+    "relatedLanguages": [
+      "km"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Vietnamese",
+        "url": "https://www.ethnologue.com/language/vie/"
+      },
+      {
+        "title": "Glottolog - Vietnamese",
+        "url": "https://glottolog.org/resource/languoid/id/viet1252"
+      }
+    ],
+    "geojson": "vi.geojson"
+  },
+  {
+    "code": "xh",
+    "name": "Xhosa",
+    "nativeName": "isiXhosa",
+    "family": "Niger-Congo",
+    "branch": "Bantu",
+    "speakers": {
+      "native": 8200000,
+      "total": 19200000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ZA"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Gcaleka",
+      "Ngqika",
+      "Thembu",
+      "Bomvana",
+      "Mpondomise",
+      "Mpondo"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Xhosa is a Nguni Bantu language spoken primarily in the Eastern Cape and Western Cape provinces of South Africa. It is one of the country's eleven official languages and the second most common home language after Zulu, with which it shares considerable mutual intelligibility. Xhosa is internationally recognized for its extensive use of click consonants, featuring eighteen distinct click sounds across three basic click types (dental, lateral, and postalveolar), making it one of the most phonologically complex languages in the world.",
+    "historicalNotes": "The Xhosa people were among the first Bantu-speaking groups to encounter European colonists at the Great Fish River frontier in the late 18th century, leading to a century of frontier wars (the Cape Frontier Wars, 1779-1879) that profoundly shaped South African history. Missionary work by figures such as John Bennie and John Ross produced the first Xhosa orthography and printed texts in the 1820s, and the first Xhosa-language newspaper, Isigidimi samaXhosa, began publication in 1876. The language holds deep political significance as the mother tongue of Nelson Mandela and Desmond Tutu, and it continues to flourish in education, broadcasting, and a growing body of contemporary literature.",
+    "relatedLanguages": [
+      "zu",
+      "sw"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Xhosa",
+        "url": "https://www.ethnologue.com/language/xho/"
+      },
+      {
+        "title": "Glottolog - Xhosa",
+        "url": "https://glottolog.org/resource/languoid/id/xhos1239"
+      }
+    ],
+    "geojson": "xh.geojson"
+  },
+  {
+    "code": "yo",
+    "name": "Yoruba",
+    "nativeName": "Èdè Yorùbá",
+    "family": "Niger-Congo",
+    "branch": "Volta-Niger",
+    "speakers": {
+      "native": 47000000,
+      "total": 55000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "NG",
+      "BJ",
+      "TG"
+    ],
+    "writingSystem": "Latin (Yoruba alphabet)",
+    "dialects": [
+      "Standard Yoruba",
+      "Ekiti",
+      "Ijebu",
+      "Oyo",
+      "Ondo",
+      "Igbomina",
+      "Ijesa"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Yoruba is a major West African language of the Volta-Niger branch of the Niger-Congo family, spoken predominantly in southwestern Nigeria, Benin, and Togo. It is one of the three largest ethnic languages in Nigeria alongside Hausa and Igbo, and serves as a key language of commerce, literature, and cultural expression in the region. Yoruba is a tonal language with three primary tones (high, mid, and low), and its rich literary tradition spans centuries of oral poetry, proverbs, and the celebrated Ifa divination corpus.",
+    "historicalNotes": "The Yoruba people built some of West Africa's most sophisticated pre-colonial urban civilizations, including the kingdoms of Ife, Oyo, and Benin, with Ile-Ife regarded as the spiritual homeland of the Yoruba. The modern Yoruba orthography was developed in the 19th century by Samuel Ajayi Crowther, a freed Yoruba slave who became the first African Anglican bishop and produced the first Yoruba translation of the Bible. Through the transatlantic slave trade, Yoruba cultural and linguistic influence spread to the Americas, where it remains a living liturgical language in Afro-Brazilian Candomble, Cuban Santeria, and Trinidadian Orisha traditions.",
+    "relatedLanguages": [
+      "ig"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Yoruba",
+        "url": "https://www.ethnologue.com/language/yor/"
+      },
+      {
+        "title": "Glottolog - Yoruba",
+        "url": "https://glottolog.org/resource/languoid/id/yoru1245"
+      }
+    ],
+    "geojson": "yo.geojson"
+  },
+  {
+    "code": "yue",
+    "name": "Cantonese",
+    "nativeName": "廣東話",
+    "family": "Sino-Tibetan",
+    "branch": "Sinitic",
+    "speakers": {
+      "native": 85500000,
+      "total": 86000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "CN",
+      "HK",
+      "MO"
+    ],
+    "writingSystem": "Chinese characters (Hanzi)",
+    "dialects": [
+      "Guangzhou Cantonese",
+      "Hong Kong Cantonese",
+      "Macau Cantonese",
+      "Taishan dialect",
+      "Toisan dialect",
+      "Zhongshan dialect"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Cantonese is a Sinitic language originating from Guangzhou (Canton), the capital of Guangdong province in southern China. It is the dominant language of Hong Kong and Macau and is widely spoken in overseas Chinese communities. Cantonese is a tonal language with six to nine tones depending on analysis, compared to Mandarin's four.",
+    "historicalNotes": "Cantonese preserves many features of Middle Chinese that have been lost in Mandarin, including final stop consonants (-p, -t, -k) and a larger tonal inventory. The language gained international prominence through Hong Kong's film and music industries. Written Cantonese uses standard Chinese characters plus additional characters unique to Cantonese. The language has been spoken in Guangdong for over two thousand years.",
+    "relatedLanguages": [
+      "zh",
+      "wuu",
+      "nan"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Yue Chinese",
+        "url": "https://www.ethnologue.com/language/yue/"
+      },
+      {
+        "title": "Glottolog - Yue Chinese",
+        "url": "https://glottolog.org/resource/languoid/id/yuec1235"
+      }
+    ],
+    "geojson": "yue.geojson"
+  },
+  {
+    "code": "zh",
+    "name": "Mandarin Chinese",
+    "nativeName": "普通话",
+    "family": "Sino-Tibetan",
+    "branch": "Sinitic",
+    "speakers": {
+      "native": 920000000,
+      "total": 1120000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "CN",
+      "TW",
+      "SG",
+      "MY"
+    ],
+    "writingSystem": "Chinese characters (Hanzi)",
+    "dialects": [
+      "Beijing dialect",
+      "Northeastern Mandarin",
+      "Jilu Mandarin",
+      "Jiao-Liao Mandarin",
+      "Zhongyuan Mandarin",
+      "Lanyin Mandarin",
+      "Southwestern Mandarin",
+      "Jianghuai Mandarin"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Mandarin Chinese is the most spoken language in the world by native speakers. It is the official language of China (as Putonghua) and Taiwan (as Guoyu), and one of four official languages of Singapore. Mandarin is a tonal language with four main tones.",
+    "historicalNotes": "Mandarin developed from Middle Chinese during the late Tang dynasty. The term 'Mandarin' derives from the Portuguese 'mandarim', referring to officials of the Chinese empire. Modern Standard Mandarin was established after the fall of the Qing dynasty in 1912, based on the Beijing dialect. Simplified characters were introduced in mainland China in the 1950s.",
+    "relatedLanguages": [
+      "yue",
+      "wuu",
+      "nan",
+      "hak"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Mandarin Chinese",
+        "url": "https://www.ethnologue.com/language/cmn/"
+      },
+      {
+        "title": "Glottolog - Mandarin Chinese",
+        "url": "https://glottolog.org/resource/languoid/id/mand1415"
+      }
+    ],
+    "geojson": "zh.geojson"
+  },
+  {
+    "code": "zu",
+    "name": "Zulu",
+    "nativeName": "isiZulu",
+    "family": "Niger-Congo",
+    "branch": "Bantu",
+    "speakers": {
+      "native": 13600000,
+      "total": 28000000,
+      "source": "Ethnologue 2024"
+    },
+    "regions": [
+      "ZA",
+      "LS",
+      "SZ",
+      "MW"
+    ],
+    "writingSystem": "Latin",
+    "dialects": [
+      "Standard Zulu",
+      "Kwazulu",
+      "Lala",
+      "Qwabe",
+      "Northern Zulu"
+    ],
+    "endangermentStatus": "safe",
+    "description": "Zulu is the most widely spoken home language in South Africa, belonging to the Nguni subgroup of the Bantu branch of the Niger-Congo language family. It is one of South Africa's eleven official languages and serves as a lingua franca in the KwaZulu-Natal province and in urban centers such as Johannesburg and Durban. Zulu is renowned for its distinctive click consonants, borrowed from neighboring Khoisan languages, and its agglutinative morphology that allows complex meanings to be expressed through elaborate noun class and verb agreement systems.",
+    "historicalNotes": "The Zulu language rose to continental prominence through the Zulu Kingdom founded by King Shaka in the early 19th century, whose military innovations and political consolidation unified disparate Nguni clans into a powerful state that reshaped the demographic landscape of southern Africa through the Mfecane upheaval. The first written Zulu texts were produced by European missionaries in the mid-19th century, and the language was standardized through grammars and dictionaries that drew primarily on the dialect of the royal court. During the apartheid era, Zulu was confined to Bantustan education policies, but after 1994 it gained official status in the new democratic South Africa, and today it thrives in media, music (particularly maskandi and gospel), and literature.",
+    "relatedLanguages": [
+      "xh",
+      "sw"
+    ],
+    "resources": [
+      {
+        "title": "Ethnologue - Zulu",
+        "url": "https://www.ethnologue.com/language/zul/"
+      },
+      {
+        "title": "Glottolog - Zulu",
+        "url": "https://glottolog.org/resource/languoid/id/zulu1248"
+      }
+    ],
+    "geojson": "zu.geojson"
+  }
+]

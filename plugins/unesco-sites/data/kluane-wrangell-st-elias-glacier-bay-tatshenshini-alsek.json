@@ -1,0 +1,17 @@
+{
+  "code": "kluane-wrangell-st-elias-glacier-bay-tatshenshini-alsek",
+  "name": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+  "type": "Natural",
+  "country": "Canada, United States of America",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "These parks comprise an impressive complex of glaciers and high peaks on both sides of the border between Canada (Yukon Territory and British Columbia) and the United States (Alaska). The spectacular natural landscapes are home to many grizzly bears, caribou and Dall's sheep. The site contains the largest non-polar icefield in the world.",
+  "danger": false,
+  "geojson": "kluane-wrangell-st-elias-glacier-bay-tatshenshini-alsek.geojson"
+}

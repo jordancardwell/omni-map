@@ -1,0 +1,18 @@
+{
+  "code": "yyz-den",
+  "name": "Toronto — Denver",
+  "airports": [
+    "YYZ",
+    "DEN"
+  ],
+  "distanceKm": 2112,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Air Canada",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–DEN route between Toronto and Denver. Distance: 2,112 km. ~20 weekly flights operated by Air Canada, United.",
+  "geojson": "yyz-den.geojson"
+}

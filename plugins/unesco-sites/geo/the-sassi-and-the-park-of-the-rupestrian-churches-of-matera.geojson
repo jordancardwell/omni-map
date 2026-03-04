@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.61027778,
+          40.66638889
+        ]
+      },
+      "properties": {
+        "code": "the-sassi-and-the-park-of-the-rupestrian-churches-of-matera",
+        "name": "The Sassi and the Park of the Rupestrian Churches of Matera",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

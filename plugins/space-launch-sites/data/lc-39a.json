@@ -1,0 +1,18 @@
+{
+  "code": "lc-39a",
+  "name": "Launch Complex 39A (Kennedy Space Center)",
+  "country": "United States",
+  "operator": "SpaceX",
+  "coordinates": "28.6082°N, 80.6041°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Apollo 11 (first Moon landing)",
+    "STS-1 (first Shuttle)",
+    "Falcon Heavy demo",
+    "Crew Dragon missions"
+  ],
+  "orbitalInclinationRange": "28.5°–57°",
+  "location": "Launch Complex 39A (Kennedy Space Center), United States",
+  "description": "The most famous launch pad in history. Launched Apollo 11, the first Space Shuttle mission, and now serves as SpaceX's primary East Coast pad for Falcon 9, Falcon Heavy, and crewed missions.",
+  "geojson": "lc-39a.geojson"
+}

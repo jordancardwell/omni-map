@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ly","name":"Libya","country":"LY","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[9.3,19.5],[9.3,33.2],[25,33.2],[25,19.5],[9.3,19.5]]]}}]}

@@ -1,0 +1,15 @@
+{
+  "code": "pitons-management-area",
+  "name": "Pitons Management Area",
+  "type": "Natural",
+  "country": "Saint Lucia",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires rising side by side from the sea (770 m and 743 m high respectively), linked by the Piton Mitan ridge. The volcanic complex includes a geothermal field with sulphurous fumeroles and hot springs. Coral reefs cover almost 60% of the site’s marine area. A survey has revealed 168 species of finfish, 60 species of cnidaria, including corals, eight molluscs, 14 sponges, 11 echinoderms, 15 arthropods and eight annelid worms. The dominant terrestrial vegetation is tropical moist forest grading to subtropical wet forest, with small areas of dry forest and wet elfin woodland on the summits. At least 148 plant species have been recorded on Gros Piton, 97 on Petit Piton and the intervening ridge, among them eight rare tree species. The Gros Piton is home to some 27 bird species (five of them endemic), three indigenous rodents, one opossum, three bats, eight reptiles and three amphibians.",
+  "danger": false,
+  "geojson": "pitons-management-area.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "cm",
+  "name": "Cameroon",
+  "avgDownloadMbps": 10.4,
+  "avgUploadMbps": 3.8,
+  "avgLatencyMs": 38,
+  "mobileDownloadMbps": 12.6,
+  "mobileUploadMbps": 2.8,
+  "fixedDownloadMbps": 10.4,
+  "fixedUploadMbps": 3.8,
+  "rank": 140,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Central Africa's growing market. ~14% year-over-year growth.",
+  "geojson": "cm.geojson"
+}

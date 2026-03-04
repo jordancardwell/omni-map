@@ -1,0 +1,16 @@
+{
+  "code": "ng-cm-coast",
+  "name": "NG-CM Coast",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1158,
+  "yearLaid": 2021,
+  "rfsDate": "2013-06",
+  "owner": "Camtel",
+  "landingPoints": [
+    "Calabar, Nigeria",
+    "Douala, Cameroon"
+  ],
+  "description": "NG-CM Coast connecting Calabar to Douala along the West African coast.",
+  "geojson": "ng-cm-coast.geojson"
+}

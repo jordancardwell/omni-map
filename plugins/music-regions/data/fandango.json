@@ -1,0 +1,29 @@
+{
+  "code": "fandango",
+  "name": "Fandango",
+  "region": "Veracruz, Mexico",
+  "traditionFamily": "Latin American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Jarana Jarocha",
+    "Requinto Jarocho",
+    "Zapateado (Foot Percussion)",
+    "Vocals",
+    "Harp"
+  ],
+  "keyArtists": [
+    "Son de Madera",
+    "Los Cojolites",
+    "Mono Blanco",
+    "Graciana Silva",
+    "Andrés Vega"
+  ],
+  "description": "Fandango jarocho is a communal music and dance tradition from the Veracruz region of Mexico. Centered around the tarima (wooden platform for zapateado dancing), son jarocho blends Spanish, African, and indigenous Mesoamerican elements. Performances are participatory—anyone can join the singing, playing, or dancing. The genre experienced a grassroots revival movement starting in the 1980s.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Son Jarocho",
+      "url": "https://folkways.si.edu/search?query=son+jarocho"
+    }
+  ],
+  "geojson": "fandango.geojson"
+}

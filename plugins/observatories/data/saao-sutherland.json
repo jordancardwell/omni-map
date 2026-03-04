@@ -1,0 +1,24 @@
+{
+  "code": "saao-sutherland",
+  "name": "Sutherland Observing Station",
+  "country": "South Africa",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1798,
+  "aperture": "11 m (SALT)",
+  "telescopes": [
+    "SALT",
+    "1.9m",
+    "1.0m",
+    "MONET",
+    "Lesedi"
+  ],
+  "keyDiscoveries": [
+    "Transient classification",
+    "Galaxy kinematics",
+    "Stellar evolution"
+  ],
+  "location": "Sutherland Observing Station, South Africa",
+  "description": "SAAO's primary observing station in the semi-arid Karoo. Hosts SALT and a suite of smaller telescopes used for time-domain astronomy and spectroscopy.",
+  "geojson": "saao-sutherland.geojson"
+}

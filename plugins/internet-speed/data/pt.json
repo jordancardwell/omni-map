@@ -1,0 +1,17 @@
+{
+  "code": "pt",
+  "name": "Portugal",
+  "avgDownloadMbps": 175.2,
+  "avgUploadMbps": 88.1,
+  "avgLatencyMs": 14,
+  "mobileDownloadMbps": 56.7,
+  "mobileUploadMbps": 11.3,
+  "fixedDownloadMbps": 175.2,
+  "fixedUploadMbps": 88.1,
+  "rank": 20,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Growing fiber penetration. ~11% year-over-year improvement.",
+  "geojson": "pt.geojson"
+}

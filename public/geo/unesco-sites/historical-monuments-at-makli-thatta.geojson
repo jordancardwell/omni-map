@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.9,
+          24.76666667
+        ]
+      },
+      "properties": {
+        "code": "historical-monuments-at-makli-thatta",
+        "name": "Historical Monuments at Makli, Thatta",
+        "type": "Cultural",
+        "country": "Pakistan",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

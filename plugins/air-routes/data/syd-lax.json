@@ -1,0 +1,19 @@
+{
+  "code": "syd-lax",
+  "name": "Sydney — Los Angeles",
+  "airports": [
+    "SYD",
+    "LAX"
+  ],
+  "distanceKm": 12061,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Qantas",
+    "United",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SYD–LAX route between Sydney and Los Angeles. Distance: 12,061 km. ~50 weekly flights operated by Qantas, United, Delta.",
+  "geojson": "syd-lax.geojson"
+}

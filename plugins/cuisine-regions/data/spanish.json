@@ -1,0 +1,37 @@
+{
+  "code": "spanish",
+  "name": "Spanish Cuisine",
+  "cuisineFamily": "Mediterranean",
+  "description": "Spanish cuisine is defined by its tapas culture, regional diversity, and celebration of high-quality ingredients prepared simply. From the paellas of Valencia to the pintxos of the Basque Country, each region contributes unique dishes. Spain's culinary scene has also pioneered molecular gastronomy.",
+  "signatureDishes": [
+    "Paella",
+    "Tapas",
+    "Gazpacho",
+    "Jamón Ibérico",
+    "Tortilla Española",
+    "Churros"
+  ],
+  "keyIngredients": [
+    "Olive Oil",
+    "Saffron",
+    "Pimentón",
+    "Garlic",
+    "Tomatoes",
+    "Ibérico Pork"
+  ],
+  "cookingTechniques": [
+    "Open-fire rice cooking",
+    "Curing (jamón)",
+    "Cold soup preparation",
+    "Plancha grilling"
+  ],
+  "unescoRecognition": "Mediterranean diet inscribed on UNESCO list (2013); multiple Cities of Gastronomy",
+  "keyRegions": [
+    "Basque Country",
+    "Valencia",
+    "Andalusia",
+    "Catalonia",
+    "Galicia"
+  ],
+  "geojson": "spanish.geojson"
+}

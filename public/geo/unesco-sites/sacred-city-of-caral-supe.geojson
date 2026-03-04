@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5213888889,
+          -10.8916666667
+        ]
+      },
+      "properties": {
+        "code": "sacred-city-of-caral-supe",
+        "name": "Sacred City of Caral-Supe",
+        "type": "Cultural",
+        "country": "Peru",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

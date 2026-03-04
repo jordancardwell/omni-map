@@ -1,0 +1,17 @@
+{
+  "code": "kr",
+  "name": "South Korea",
+  "avgDownloadMbps": 241.6,
+  "avgUploadMbps": 200.8,
+  "avgLatencyMs": 6,
+  "mobileDownloadMbps": 131.5,
+  "mobileUploadMbps": 20.7,
+  "fixedDownloadMbps": 241.6,
+  "fixedUploadMbps": 200.8,
+  "rank": 6,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "Pioneer in broadband. 5G rollout has pushed mobile speeds significantly. ~7% year-over-year improvement.",
+  "geojson": "kr.geojson"
+}

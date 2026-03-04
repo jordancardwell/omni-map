@@ -1,0 +1,22 @@
+{
+  "code": "stromboli",
+  "name": "Stromboli",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 924,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Italy",
+  "region": "Aeolian Islands",
+  "location": "Aeolian Islands, Italy",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Volcanic bombs",
+    "Lava flows",
+    "Tsunami",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "Has been in near-continuous eruption for at least 2,000 years. Regular strombolian explosions every 10-20 minutes give the volcano its iconic status.",
+  "description": "Stromboli has been erupting almost continuously for over 2,000 years, earning it the name 'Lighthouse of the Mediterranean.' Its regular explosive bursts define the 'strombolian' eruption type.",
+  "geojson": "stromboli.geojson"
+}

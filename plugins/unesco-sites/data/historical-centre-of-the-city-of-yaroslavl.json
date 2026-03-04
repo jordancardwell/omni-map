@@ -1,0 +1,15 @@
+{
+  "code": "historical-centre-of-the-city-of-yaroslavl",
+  "name": "Historical Centre of the City of Yaroslavl",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2005",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated at the confluence of the Volga and Kotorosl Rivers some 250 km north-east of Moscow, the historic city of Yaroslavl developed into a major commercial centre from the 11th century. It is renowned for its numerous 17th-century churches and is an outstanding example of the urban planning reform Empress Catherine the Great ordered for the whole of Russia in 1763. While keeping some of its significant historic structures, the town was renovated in the neoclassical style on a radial urban master plan. It has also kept elements from the 16th century in the Spassky Monastery, one of the oldest in the Upper Volga region, built on the site of a pagan temple in the late 12th century but reconstructed over time.",
+  "danger": false,
+  "geojson": "historical-centre-of-the-city-of-yaroslavl.geojson"
+}

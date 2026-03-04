@@ -1,0 +1,14 @@
+{
+  "code": "national-day-uae",
+  "name": "UAE National Day",
+  "festivalType": "National",
+  "dateOrSeason": "December 2",
+  "origin": "Emirati national",
+  "estimatedAttendance": "10+ million residents",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fireworks at landmarks; aerial displays; car parades; heritage village events; traditional Emirati performances; light shows.",
+  "historicalBackground": "UAE National Day marks the federation of seven emirates on December 2, 1971, when Abu Dhabi, Dubai, and five others unified under one nation.",
+  "description": "The UAE's celebration of its founding, with spectacular fireworks, aerial shows, and heritage events across the Emirates.",
+  "location": "Abu Dhabi, UAE",
+  "geojson": "national-day-uae.geojson"
+}

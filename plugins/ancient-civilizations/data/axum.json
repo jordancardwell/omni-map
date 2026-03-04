@@ -1,0 +1,12 @@
+{
+  "code": "axum",
+  "name": "Kingdom of Axum",
+  "period": "c. 100–940 CE",
+  "region": "Africa",
+  "type": "Civilization",
+  "writingSystem": "Ge'ez script",
+  "majorAchievements": ["Obelisk stelae", "Early adoption of Christianity", "Coinage system", "International trade hub", "Ge'ez literature", "Terraced agriculture"],
+  "keyCities": ["Axum", "Adulis", "Matara", "Yeha", "Hawulti"],
+  "description": "The Kingdom of Axum (also Aksum) was a major trading empire centered in modern-day Ethiopia and Eritrea. At its height, it was considered one of the four great powers of the ancient world alongside Rome, Persia, and China. Axum was among the first states to adopt Christianity as an official religion and developed its own writing system, coinage, and monumental architecture including towering obelisks.",
+  "geojson": "axum.geojson"
+}

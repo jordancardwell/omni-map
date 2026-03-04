@@ -1,0 +1,17 @@
+{
+  "code": "pasargadae",
+  "name": "Pasargadae",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Pasargadae was the first dynastic capital of the Achaemenid Empire, founded by Cyrus II the Great, in Pars, homeland of the Persians, in the 6th century BC. Its palaces, gardens and the mausoleum of Cyrus are outstanding examples of the first phase of royal Achaemenid art and architecture and exceptional testimonies of Persian civilization. Particularly noteworthy vestiges in the 160-ha site include: the Mausoleum of Cyrus II; Tall-e Takht, a fortified terrace; and a royal ensemble of gatehouse, audience hall, residential palace and gardens. Pasargadae was the capital of the first great multicultural empire in Western Asia. Spanning the Eastern Mediterranean and Egypt to the Hindus River, it is considered to be the first empire that respected the cultural diversity of its different peoples. This was reflected in Achaemenid architecture, a synthetic representation of different cultures.",
+  "danger": false,
+  "geojson": "pasargadae.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35305556,
+          48.105
+        ]
+      },
+      "properties": {
+        "code": "miguasha-national-park",
+        "name": "Miguasha National Park",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

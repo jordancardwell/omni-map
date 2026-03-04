@@ -1,0 +1,18 @@
+{
+  "code": "iah-dfw",
+  "name": "Houston — Dallas",
+  "airports": [
+    "IAH",
+    "DFW"
+  ],
+  "distanceKm": 362,
+  "weeklyFlights": 60,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IAH–DFW route between Houston and Dallas. Distance: 362 km. ~60 weekly flights operated by United, Southwest.",
+  "geojson": "iah-dfw.geojson"
+}

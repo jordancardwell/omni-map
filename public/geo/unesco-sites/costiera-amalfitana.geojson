@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6027777778,
+          40.6333333333
+        ]
+      },
+      "properties": {
+        "code": "costiera-amalfitana",
+        "name": "Costiera Amalfitana",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

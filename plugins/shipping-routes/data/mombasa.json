@@ -1,0 +1,15 @@
+{
+  "code": "mombasa",
+  "name": "Port of Mombasa",
+  "country": "Kenya",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East African Coastal Route",
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Mombasa in Kenya. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+  "geojson": "mombasa.geojson"
+}

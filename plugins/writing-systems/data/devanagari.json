@@ -1,0 +1,18 @@
+{
+  "code": "devanagari",
+  "name": "Devanagari",
+  "scriptType": "Abugida",
+  "characters": 47,
+  "direction": "LTR",
+  "originDate": "7th century CE",
+  "sampleText": "नमस्ते, यह देवनागरी लिपि है।",
+  "relatedScripts": [
+    "bengali",
+    "gujarati",
+    "gurmukhi",
+    "tibetan"
+  ],
+  "description": "Devanagari is an abugida script used for over 120 languages, most prominently Hindi, Marathi, Sanskrit, and Nepali. Each consonant carries an inherent vowel that can be modified with diacritics. The script's characteristic horizontal line (shirorekha) connects letters along the top.",
+  "historicalNotes": "Devanagari evolved from the Brahmi script through the Gupta and Nagari scripts. The name means 'divine city script' in Sanskrit. It became the standard script for Sanskrit by the 12th century and was later adopted for Hindi during the rise of Hindi literature. The Government of India adopted Devanagari as the official script for Hindi in 1950.",
+  "geojson": "devanagari.geojson"
+}

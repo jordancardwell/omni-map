@@ -1,0 +1,12 @@
+{
+  "code": "indus-valley",
+  "name": "Indus Valley Civilization",
+  "period": "c. 3300–1300 BCE",
+  "region": "South Asia",
+  "type": "Civilization",
+  "writingSystem": "Indus script (undeciphered)",
+  "majorAchievements": ["Urban planning", "Standardized weights and measures", "Advanced drainage systems", "Brick architecture", "Maritime trade", "Dental surgery"],
+  "keyCities": ["Mohenjo-daro", "Harappa", "Lothal", "Dholavira", "Rakhigarhi"],
+  "description": "The Indus Valley Civilization, also known as the Harappan Civilization, was one of the world's earliest urban cultures. Spanning parts of modern Pakistan and northwestern India, it featured remarkably planned cities with grid layouts, sophisticated sanitation systems, and standardized construction. Its writing system remains undeciphered, leaving many mysteries about its social organization.",
+  "geojson": "indus-valley.geojson"
+}

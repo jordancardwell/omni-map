@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"syd","name":"Sydney Kingsford Smith","featureType":"airport","iataCode":"SYD","annualPassengers":38000000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[151.1753,-33.9399]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"apache","name":"Apache","people":"Apache","region":"North America"},"geometry":{"type":"Polygon","coordinates":[[[-107.4,33.5],[-107.9,34.7],[-110,35.1],[-111,33.5],[-109.8,32.2],[-107.8,31.9],[-107.4,33.5]]]}}]}

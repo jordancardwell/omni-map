@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1588888889,
+          31.7163888889
+        ]
+      },
+      "properties": {
+        "code": "palestine-land-of-olives-and-vines-cultural-landscape-of-southern-jerusalem-batt",
+        "name": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",
+        "type": "Cultural",
+        "country": "State of Palestine",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

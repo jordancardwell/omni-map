@@ -1,0 +1,18 @@
+{
+  "code": "vandenberg-sfb",
+  "name": "Vandenberg Space Force Base",
+  "country": "United States",
+  "operator": "USSF / SpaceX / ULA",
+  "coordinates": "34.7420°N, 120.5724°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Corona (first spy satellite)",
+    "Landsat 1",
+    "NROL missions",
+    "Iridium constellation"
+  ],
+  "orbitalInclinationRange": "51°–145° (polar/SSO)",
+  "location": "Vandenberg Space Force Base, United States",
+  "description": "Primary US West Coast launch site in California, specializing in polar and sun-synchronous orbits. Hosts SpaceX Falcon 9, ULA Delta IV Heavy, and planned Vulcan launches.",
+  "geojson": "vandenberg-sfb.geojson"
+}

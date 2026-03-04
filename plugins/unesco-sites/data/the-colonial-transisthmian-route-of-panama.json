@@ -1,0 +1,15 @@
+{
+  "code": "the-colonial-transisthmian-route-of-panama",
+  "name": "The Colonial Transisthmian Route of Panamá",
+  "type": "Cultural",
+  "country": "Panama",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "From the 16th century, the isthmus of Panama became a global strategic asset facilitating the transportation of goods and people between the Iberian Peninsula and the colonies of the Kingdom of Spain in America, the archipelago of the Philippines and the Canary Islands. The serial property bears testimony of the crossing of the isthmus including strategic fortified settlements, historic towns, archaeological sites and roads used to connect the Caribbean Sea and the Pacific Ocean until the mid-18th century.",
+  "danger": false,
+  "geojson": "the-colonial-transisthmian-route-of-panama.geojson"
+}

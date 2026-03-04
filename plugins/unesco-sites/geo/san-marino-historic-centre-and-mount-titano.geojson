@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4519444444,
+          43.9327777778
+        ]
+      },
+      "properties": {
+        "code": "san-marino-historic-centre-and-mount-titano",
+        "name": "San Marino Historic Centre and Mount Titano",
+        "type": "Cultural",
+        "country": "San Marino",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

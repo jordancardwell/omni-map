@@ -1,0 +1,16 @@
+{
+  "code": "htg",
+  "name": "Haitian Gourde",
+  "isoCode": "HTG",
+  "symbol": "G",
+  "region": "Americas",
+  "centralBank": "Bank of the Republic of Haiti",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Haiti"
+  ],
+  "countryCount": 1,
+  "description": "The Gourde is the currency of Haiti, the first independent nation of Latin America and the Caribbean.",
+  "historicalNotes": "The gourde was introduced in 1813, making it one of the oldest currencies in the Americas. It has gone through multiple devaluations.",
+  "geojson": "htg.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.239,
+          39.95644
+        ]
+      },
+      "properties": {
+        "code": "archaeological-site-of-troy",
+        "name": "Archaeological Site of Troy",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

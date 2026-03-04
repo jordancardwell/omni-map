@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      },
+      "properties": {
+        "code": "ice-swimming-finland",
+        "name": "Epiphany Ice Swimming",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "January 6",
+        "location": "Helsinki, Finland"
+      }
+    }
+  ]
+}

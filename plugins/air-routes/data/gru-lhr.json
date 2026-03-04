@@ -1,0 +1,18 @@
+{
+  "code": "gru-lhr",
+  "name": "São Paulo — London",
+  "airports": [
+    "GRU",
+    "LHR"
+  ],
+  "distanceKm": 9460,
+  "weeklyFlights": 25,
+  "airlines": [
+    "British Airways",
+    "LATAM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–LHR route between São Paulo and London. Distance: 9,460 km. ~25 weekly flights operated by British Airways, LATAM.",
+  "geojson": "gru-lhr.geojson"
+}

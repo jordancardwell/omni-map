@@ -1,0 +1,16 @@
+{
+  "code": "ssp",
+  "name": "South Sudanese Pound",
+  "isoCode": "SSP",
+  "symbol": "SS£",
+  "region": "Africa",
+  "centralBank": "Bank of South Sudan",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "South Sudan"
+  ],
+  "countryCount": 1,
+  "description": "The South Sudanese Pound is the currency of the world's youngest nation, which gained independence in 2011.",
+  "historicalNotes": "Introduced in 2011 when South Sudan gained independence from Sudan. The currency has suffered severe inflation due to civil war and oil production disruptions.",
+  "geojson": "ssp.geojson"
+}

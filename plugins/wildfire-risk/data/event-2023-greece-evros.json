@@ -1,0 +1,12 @@
+{
+  "code": "event-2023-greece-evros",
+  "name": "2023 Evros Wildfire (Greece)",
+  "region": "Evros Prefecture, Greece",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2023",
+  "areaBurned": 93000,
+  "cause": "Extreme heatwave (46°C), arson, dry conditions",
+  "description": "The 2023 Evros wildfire in northeastern Greece was the largest single wildfire ever recorded in the European Union. Burning 93,000 hectares over 17 days in August 2023, the fire devastated Dadia National Park — one of Europe's most important raptor habitats. Temperatures reached 46°C during Greece's worst heatwave in decades. Twenty people, mostly migrants sheltering in the forest, lost their lives. The fire's extreme size — larger than all of Berlin — highlighted the escalating wildfire threat in the Mediterranean under climate change. It was one of several simultaneous fires across Greece that summer.",
+  "geojson": "event-2023-greece-evros.geojson"
+}

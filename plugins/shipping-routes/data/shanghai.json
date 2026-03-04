@@ -1,0 +1,16 @@
+{
+  "code": "shanghai",
+  "name": "Port of Shanghai",
+  "country": "China",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 770,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "East China Sea–Japan Route",
+    "Suez Canal Route"
+  ],
+  "description": "Port of Shanghai in China. Annual cargo throughput: ~770 million tons. Type: Container Port.",
+  "geojson": "shanghai.geojson"
+}

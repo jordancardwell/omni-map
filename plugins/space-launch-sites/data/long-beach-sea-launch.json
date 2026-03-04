@@ -1,0 +1,17 @@
+{
+  "code": "long-beach-sea-launch",
+  "name": "Sea Launch (Odyssey Platform)",
+  "country": "International Waters",
+  "operator": "Sea Launch AG (defunct)",
+  "coordinates": "0.0000°N, 154.0000°W",
+  "status": "Historical",
+  "notableLaunches": [
+    "36 Zenit-3SL launches",
+    "XM Radio satellites",
+    "DirecTV satellites"
+  ],
+  "orbitalInclinationRange": "0°–60°",
+  "location": "Sea Launch (Odyssey Platform), International Waters",
+  "description": "Mobile ocean-based equatorial launch platform operated 1999-2014. Launched Zenit-3SL rockets from the equator in the Pacific Ocean for maximum GTO payload performance. Mothballed after financial difficulties.",
+  "geojson": "long-beach-sea-launch.geojson"
+}

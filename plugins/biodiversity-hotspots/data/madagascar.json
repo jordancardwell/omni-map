@@ -1,0 +1,29 @@
+{
+  "code": "madagascar",
+  "name": "Madagascar and the Indian Ocean Islands",
+  "location": "Indian Ocean (Madagascar, Mauritius, Seychelles, Comoros, Réunion)",
+  "areaKm2": 600461,
+  "habitatRemaining": "10.0%",
+  "plantSpecies": 12000,
+  "endemicPlants": 9704,
+  "vertebrateSpecies": 773,
+  "endemicVertebrates": 552,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Ring-tailed lemur",
+    "Aye-aye",
+    "Fossa",
+    "Baobab tree",
+    "Panther chameleon"
+  ],
+  "threats": [
+    "Slash-and-burn agriculture",
+    "Logging",
+    "Mining",
+    "Charcoal production",
+    "Hunting"
+  ],
+  "conservationEfforts": "Madagascar increased protected areas from 1.7 to 6 million hectares under the Durban Vision. Madagascar Biodiversity Partnership works on lemur conservation. Duke Lemur Center supports field research. Seychelles Island Foundation manages Aldabra and Vallée de Mai World Heritage Sites.",
+  "description": "Madagascar, the world's fourth-largest island, separated from Africa roughly 160 million years ago, allowing its flora and fauna to evolve in spectacular isolation. Along with nearby Indian Ocean islands (Comoros, Mauritius, Seychelles, Réunion), it forms one of the most distinctive biodiversity hotspots.\n\nMadagascar alone is home to over 100 species of lemurs, all found nowhere else on Earth. Plant endemism exceeds 80%, including six of the world's eight baobab species. The island's eastern rainforests, western dry forests, and southern spiny forests each harbor distinct species assemblages. Tragically, 90% of the original vegetation has been lost.",
+  "geojson": "madagascar.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "th-vn-link",
+  "name": "TH-VN Link",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 205,
+  "yearLaid": 2021,
+  "rfsDate": "2023-06",
+  "owner": "TOT",
+  "landingPoints": [
+    "Bangkok, Thailand",
+    "Ho Chi Minh City, Vietnam"
+  ],
+  "description": "TH-VN Link connecting Bangkok to Ho Chi Minh City in Southeast Asia.",
+  "geojson": "th-vn-link.geojson"
+}

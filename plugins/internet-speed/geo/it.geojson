@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"it","name":"Italy","country":"IT","speedTier":"Very Fast (150+ Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[6.6,36.6],[6.6,47.1],[18.5,47.1],[18.5,36.6],[6.6,36.6]]]}}]}

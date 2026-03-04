@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sz","name":"Eswatini","country":"SZ","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[30.8,-27.3],[30.8,-25.7],[32.1,-25.7],[32.1,-27.3],[30.8,-27.3]]]}}]}

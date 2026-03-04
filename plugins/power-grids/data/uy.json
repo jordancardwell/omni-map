@@ -1,0 +1,22 @@
+{
+  "code": "uy",
+  "name": "Uruguay",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "F",
+    "I",
+    "L"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)",
+    "Type L — Three round pins in a line (Italian style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types in use. Bring a universal adapter.",
+  "geojson": "uy.geojson"
+}

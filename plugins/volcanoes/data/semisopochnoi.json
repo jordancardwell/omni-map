@@ -1,0 +1,20 @@
+{
+  "code": "semisopochnoi",
+  "name": "Semisopochnoi",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1221,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Aviation hazards"
+  ],
+  "eruptionHistory": "Has been in intermittent eruption since 2018 from the North Cerberus crater.",
+  "description": "Semisopochnoi is the largest volcanic island in the western Aleutians. It contains a caldera with several active volcanic cones.",
+  "geojson": "semisopochnoi.geojson"
+}

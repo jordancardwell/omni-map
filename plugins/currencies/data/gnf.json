@@ -1,0 +1,16 @@
+{
+  "code": "gnf",
+  "name": "Guinean Franc",
+  "isoCode": "GNF",
+  "symbol": "FG",
+  "region": "Africa",
+  "centralBank": "Central Bank of the Republic of Guinea",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Guinea"
+  ],
+  "countryCount": 1,
+  "description": "The Guinean Franc is the currency of Guinea, which holds the world's largest reserves of bauxite (aluminum ore).",
+  "historicalNotes": "Reintroduced in 1985, replacing the Guinean syli. Guinea was the first French African colony to gain independence in 1958.",
+  "geojson": "gnf.geojson"
+}

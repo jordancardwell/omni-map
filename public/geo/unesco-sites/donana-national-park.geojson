@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.358861,
+          36.9477
+        ]
+      },
+      "properties": {
+        "code": "donana-national-park",
+        "name": "Doñana National Park",
+        "type": "Natural",
+        "country": "Spain",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

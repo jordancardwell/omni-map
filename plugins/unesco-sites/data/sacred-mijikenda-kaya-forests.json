@@ -1,0 +1,15 @@
+{
+  "code": "sacred-mijikenda-kaya-forests",
+  "name": "Sacred Mijikenda Kaya Forests",
+  "type": "Cultural",
+  "country": "Kenya",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition.",
+  "danger": false,
+  "geojson": "sacred-mijikenda-kaya-forests.geojson"
+}

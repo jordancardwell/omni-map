@@ -1,0 +1,15 @@
+{
+  "code": "the-jantar-mantar-jaipur",
+  "name": "The Jantar Mantar, Jaipur",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Jantar Mantar, in Jaipur, is an astronomical observation site built in the early 18th century. It includes a set of some 20 main fixed instruments. They are monumental examples in masonry of known instruments but which in many cases have specific characteristics of their own. Designed for the observation of astronomical positions with the naked eye, they embody several architectural and instrumental innovations. This is the most significant, most comprehensive, and the best preserved of India's historic observatories. It is an expression of the astronomical skills and cosmological concepts of the court of a scholarly prince at the end of the Mughal period.",
+  "danger": false,
+  "geojson": "the-jantar-mantar-jaipur.geojson"
+}

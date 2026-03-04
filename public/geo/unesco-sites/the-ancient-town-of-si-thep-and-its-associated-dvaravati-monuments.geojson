@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1511138889,
+          15.4658166667
+        ]
+      },
+      "properties": {
+        "code": "the-ancient-town-of-si-thep-and-its-associated-dvaravati-monuments",
+        "name": "The Ancient Town of Si Thep and its Associated Dvaravati Monuments",
+        "type": "Cultural",
+        "country": "Thailand",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

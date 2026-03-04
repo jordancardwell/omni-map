@@ -1,0 +1,14 @@
+{
+  "code": "rio-reveillon",
+  "name": "Réveillon (Rio New Year)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "December 31",
+  "origin": "Brazilian tradition",
+  "estimatedAttendance": "2+ million on Copacabana",
+  "unescoICH": "Not inscribed",
+  "traditions": "Massive fireworks over Copacabana beach; wearing white for peace; offering flowers to sea goddess Iemanjá; jumping seven waves; live music.",
+  "historicalBackground": "Rio's Réveillon blends Catholic and Afro-Brazilian (Candomblé) traditions. Offerings to Iemanjá reflect the syncretism of Yoruba and Catholic beliefs.",
+  "description": "The world's largest New Year's Eve beach party, with millions gathering on Copacabana for fireworks, music, and Afro-Brazilian sea offerings.",
+  "location": "Rio de Janeiro, Brazil",
+  "geojson": "rio-reveillon.geojson"
+}

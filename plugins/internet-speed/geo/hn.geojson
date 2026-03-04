@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hn","name":"Honduras","country":"HN","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-89.4,13],[-89.4,16.5],[-83.2,16.5],[-83.2,13],[-89.4,13]]]}}]}

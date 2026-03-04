@@ -1,0 +1,18 @@
+{
+  "code": "mad-gru",
+  "name": "Madrid — São Paulo",
+  "airports": [
+    "MAD",
+    "GRU"
+  ],
+  "distanceKm": 8379,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Iberia",
+    "LATAM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MAD–GRU route between Madrid and São Paulo. Distance: 8,379 km. ~35 weekly flights operated by Iberia, LATAM.",
+  "geojson": "mad-gru.geojson"
+}

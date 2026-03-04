@@ -1,0 +1,19 @@
+{
+  "code": "cheetah",
+  "name": "Cheetah",
+  "scientificName": "Acinonyx jubatus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~6,500-7,100 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Savanna and open grassland",
+  "threats": [
+    "Habitat loss",
+    "Human-wildlife conflict",
+    "Illegal pet trade",
+    "Prey depletion"
+  ],
+  "conservationEfforts": "Cheetah Conservation Fund in Namibia. Livestock guarding dogs reduce farmer-cheetah conflict. Range-wide conservation strategy coordinates 29 countries.",
+  "description": "The fastest land animal, reaching 112 km/h. Cheetahs have lost 91% of their historical range. Unlike other big cats, they cannot roar but instead chirp and purr.",
+  "geojson": "cheetah.geojson"
+}

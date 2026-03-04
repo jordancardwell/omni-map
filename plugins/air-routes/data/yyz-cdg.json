@@ -1,0 +1,18 @@
+{
+  "code": "yyz-cdg",
+  "name": "Toronto — Paris",
+  "airports": [
+    "YYZ",
+    "CDG"
+  ],
+  "distanceKm": 6019,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air Canada",
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–CDG route between Toronto and Paris. Distance: 6,019 km. ~25 weekly flights operated by Air Canada, Air France.",
+  "geojson": "yyz-cdg.geojson"
+}

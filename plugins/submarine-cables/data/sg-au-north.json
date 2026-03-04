@@ -1,0 +1,16 @@
+{
+  "code": "sg-au-north",
+  "name": "SG-AU North",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3309,
+  "yearLaid": 2016,
+  "rfsDate": "2016-06",
+  "owner": "Vocus",
+  "landingPoints": [
+    "Singapore",
+    "Darwin, Australia"
+  ],
+  "description": "SG-AU North connecting Singapore to Darwin in Southeast Asia.",
+  "geojson": "sg-au-north.geojson"
+}

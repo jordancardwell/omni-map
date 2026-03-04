@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8218611111,
+          26.9242777778
+        ]
+      },
+      "properties": {
+        "code": "jaipur-city-rajasthan",
+        "name": "Jaipur City, Rajasthan",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

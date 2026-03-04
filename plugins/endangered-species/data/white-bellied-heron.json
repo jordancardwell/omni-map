@@ -1,0 +1,19 @@
+{
+  "code": "white-bellied-heron",
+  "name": "White-bellied Heron",
+  "scientificName": "Ardea insignis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~50-249 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Subtropical forest river",
+  "threats": [
+    "Habitat loss",
+    "Disturbance",
+    "Hunting",
+    "Hydroelectric dams"
+  ],
+  "conservationEfforts": "Royal Society for Protection of Nature in Bhutan leads conservation. River habitat protection. Community awareness programs. One of the rarest herons in the world.",
+  "description": "One of the 50 rarest bird species globally, this large heron is found along undisturbed rivers in the eastern Himalayan foothills. Bhutan holds the most important remaining population.",
+  "geojson": "white-bellied-heron.geojson"
+}

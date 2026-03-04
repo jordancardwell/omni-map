@@ -1,0 +1,18 @@
+{
+  "code": "bo",
+  "name": "Bolivia",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "C"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type C — Two round pins (Europlug, most common worldwide)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of US and European plug types at 230V. Verify device voltage.",
+  "geojson": "bo.geojson"
+}

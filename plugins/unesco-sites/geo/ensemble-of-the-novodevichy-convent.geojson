@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55508333,
+          55.72611111
+        ]
+      },
+      "properties": {
+        "code": "ensemble-of-the-novodevichy-convent",
+        "name": "Ensemble of the Novodevichy Convent",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

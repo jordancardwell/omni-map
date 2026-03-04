@@ -1,0 +1,21 @@
+{
+  "code": "great-sitkin",
+  "name": "Great Sitkin",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1740,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Aviation hazards"
+  ],
+  "eruptionHistory": "Has been erupting since 2021 with an extensive lava dome/flow in the summit crater.",
+  "description": "Great Sitkin has been in eruption since 2021, producing one of the most impressive lava flows in recent Aleutian volcanic history.",
+  "geojson": "great-sitkin.geojson"
+}

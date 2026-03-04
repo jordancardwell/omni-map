@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[11.9175,57.3931]},"properties":{"code":"onsala","name":"Onsala Space Observatory","observatoryType":"Radio","status":"Operational","country":"Sweden"}}]}

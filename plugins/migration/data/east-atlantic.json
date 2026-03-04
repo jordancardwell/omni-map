@@ -1,0 +1,24 @@
+{
+  "code": "east-atlantic",
+  "name": "East Atlantic Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Europe to West Africa",
+  "badgeValue": "~450 species",
+  "speciesCount": "~450 migratory species including waders, terns, and geese",
+  "keyStopoverSites": [
+    "Wadden Sea",
+    "Banc d'Arguin Mauritania",
+    "Inner Niger Delta",
+    "Bijag\u00f3s Archipelago",
+    "Do\u00f1ana Wetlands"
+  ],
+  "threats": [
+    "Tidal flat reclamation",
+    "Overfishing",
+    "Climate change",
+    "Sahara expansion",
+    "Pollution"
+  ],
+  "description": "The East Atlantic Flyway connects breeding grounds in Arctic Europe and Siberia with wintering areas in western and southern Africa. The Wadden Sea, a UNESCO World Heritage Site shared by Netherlands, Germany, and Denmark, is the flyway's most important staging area \u2014 up to 12 million waterbirds depend on it annually. The Banc d'Arguin in Mauritania is the largest wintering ground for Palearctic shorebirds. Tidal flat development in Europe and desertification in the Sahel region pose the greatest threats.",
+  "geojson": "east-atlantic.geojson"
+}

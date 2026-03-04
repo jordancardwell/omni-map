@@ -1,0 +1,16 @@
+{
+  "code": "gyd",
+  "name": "Guyanese Dollar",
+  "isoCode": "GYD",
+  "symbol": "GY$",
+  "region": "Americas",
+  "centralBank": "Bank of Guyana",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Guyana"
+  ],
+  "countryCount": 1,
+  "description": "The Guyanese Dollar is the currency of the only English-speaking country in South America. Recent oil discoveries have transformed Guyana's economic outlook.",
+  "historicalNotes": "Introduced in 1966 when Guyana gained independence from Britain, replacing the British Guiana dollar at par.",
+  "geojson": "gyd.geojson"
+}

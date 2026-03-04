@@ -1,0 +1,18 @@
+{
+  "code": "mednautilus",
+  "name": "MedNautilus",
+  "capacityTbps": 3.84,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 5000,
+  "yearLaid": 2001,
+  "rfsDate": "2002-06",
+  "owner": "Sparkle",
+  "landingPoints": [
+    "Athens, Greece",
+    "Genoa, Italy",
+    "Haifa, Israel",
+    "Catania, Italy"
+  ],
+  "description": "Mediterranean cable connecting Italy, Greece, and Israel.",
+  "geojson": "mednautilus.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "hn-cr-cable",
+  "name": "HN-CR Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1895,
+  "yearLaid": 2022,
+  "rfsDate": "2018-06",
+  "owner": "Claro",
+  "landingPoints": [
+    "Tegucigalpa, Honduras",
+    "San José, Costa Rica"
+  ],
+  "description": "HN-CR Cable connecting Tegucigalpa to San José in the Caribbean region.",
+  "geojson": "hn-cr-cable.geojson"
+}

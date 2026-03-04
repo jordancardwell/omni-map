@@ -1,0 +1,17 @@
+{
+  "code": "gb",
+  "name": "United Kingdom",
+  "avgDownloadMbps": 142.8,
+  "avgUploadMbps": 28.6,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 48.2,
+  "mobileUploadMbps": 9.8,
+  "fixedDownloadMbps": 142.8,
+  "fixedUploadMbps": 28.6,
+  "rank": 30,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Full fiber rollout accelerating. ~14% year-over-year improvement.",
+  "geojson": "gb.geojson"
+}

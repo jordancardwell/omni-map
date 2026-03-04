@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.41666667,
+          -9.416666667
+        ]
+      },
+      "properties": {
+        "code": "aldabra-atoll",
+        "name": "Aldabra Atoll",
+        "type": "Natural",
+        "country": "Seychelles",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7275,
+          35.3608333333
+        ]
+      },
+      "properties": {
+        "code": "fujisan-sacred-place-and-source-of-artistic-inspiration",
+        "name": "Fujisan, sacred place and source of artistic inspiration",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

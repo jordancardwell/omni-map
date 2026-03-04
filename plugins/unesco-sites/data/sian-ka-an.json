@@ -1,0 +1,15 @@
+{
+  "code": "sian-ka-an",
+  "name": "Sian Ka'an",
+  "type": "Natural",
+  "country": "Mexico",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "In the language of the Mayan peoples who once inhabited this region, Sian Ka'an means 'Origin of the Sky'. Located on the east coast of the Yucatán peninsula, this biosphere reserve contains tropical forests, mangroves and marshes, as well as a large marine section intersected by a barrier reef. It provides a habitat for a remarkably rich flora and a fauna comprising more than 300 species of birds, as well as a large number of the region's characteristic terrestrial vertebrates, which cohabit in the diverse environment formed by its complex hydrological system.",
+  "danger": false,
+  "geojson": "sian-ka-an.geojson"
+}

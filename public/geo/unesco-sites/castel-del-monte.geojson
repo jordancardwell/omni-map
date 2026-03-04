@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.27094444,
+          41.08480556
+        ]
+      },
+      "properties": {
+        "code": "castel-del-monte",
+        "name": "Castel del Monte",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

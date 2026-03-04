@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3316666667,
+          -33.1177777778
+        ]
+      },
+      "properties": {
+        "code": "fray-bentos-industrial-landscape",
+        "name": "Fray Bentos Industrial Landscape",
+        "type": "Cultural",
+        "country": "Uruguay",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

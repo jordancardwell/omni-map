@@ -1,0 +1,20 @@
+{
+  "code": "lax-icn",
+  "name": "Los Angeles — Seoul",
+  "airports": [
+    "LAX",
+    "ICN"
+  ],
+  "distanceKm": 9627,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Korean Air",
+    "Asiana",
+    "United",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–ICN route between Los Angeles and Seoul. Distance: 9,627 km. ~60 weekly flights operated by Korean Air, Asiana, United, Delta.",
+  "geojson": "lax-icn.geojson"
+}

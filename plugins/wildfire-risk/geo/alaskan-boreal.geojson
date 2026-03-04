@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "alaskan-boreal", "name": "Alaskan Boreal Interior" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-160,63],[-155,64],[-150,65],[-145,65],[-140,64],[-138,63],[-140,62],[-142,61],[-145,60],[-148,61],[-152,61],[-155,62],[-158,62],[-160,63]]]
+    }
+  }]
+}

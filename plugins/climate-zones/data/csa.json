@@ -1,0 +1,18 @@
+{
+  "code": "csa",
+  "name": "Hot-Summer Mediterranean",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month ≥22°C; coldest month 0-18°C",
+  "precipitationPattern": "Dry hot summers, wet mild winters",
+  "vegetation": "Mediterranean scrubland (maquis/chaparral), olive groves, evergreen oak",
+  "exampleCities": [
+    "Rome",
+    "Athens",
+    "Los Angeles",
+    "Barcelona",
+    "Izmir"
+  ],
+  "description": "Hot-summer Mediterranean climate (Csa) is famous for warm, dry summers and mild, wet winters. Found around the Mediterranean Sea, coastal California, central Chile, and parts of South Australia. The climate supports distinctive Mediterranean ecosystems and has been ideal for viticulture and olive cultivation for millennia.",
+  "typicalWeather": "Long, sunny summers with temperatures often exceeding 30°C and virtually no rain for 3-5 months. Winters are mild (5-15°C) with regular rainfall. Spring and autumn are pleasant transition seasons. Annual rainfall typically 400-800mm.",
+  "geojson": "csa.geojson"
+}

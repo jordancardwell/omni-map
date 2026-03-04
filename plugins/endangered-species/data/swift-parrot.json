@@ -1,0 +1,19 @@
+{
+  "code": "swift-parrot",
+  "name": "Swift Parrot",
+  "scientificName": "Lathamus discolor",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~750 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Temperate eucalypt forest",
+  "threats": [
+    "Predation by sugar gliders",
+    "Logging of nesting habitat",
+    "Habitat loss",
+    "Collision with structures"
+  ],
+  "conservationEfforts": "Tasmania's forestry practices modified to protect nesting areas. Nest boxes reduce sugar glider predation. Research guides conservation management.",
+  "description": "Australia's fastest parrot and one of only two migratory parrot species. It breeds in Tasmania and winters on the Australian mainland, feeding on eucalypt blossoms.",
+  "geojson": "swift-parrot.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "karthala",
+  "name": "Karthala",
+  "volcanoType": "Shield volcano",
+  "status": "Historically Active",
+  "elevation": 2361,
+  "lastEruption": "2007",
+  "vei": 2,
+  "country": "Comoros",
+  "region": "Indian Ocean",
+  "location": "Indian Ocean, Comoros",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "One of the most active volcanoes in the Indian Ocean region. Has erupted over 20 times since the 19th century.",
+  "description": "Karthala dominates the island of Grande Comore and is one of the most active volcanoes in the Indian Ocean.",
+  "geojson": "karthala.geojson"
+}

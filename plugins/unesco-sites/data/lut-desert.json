@@ -1,0 +1,15 @@
+{
+  "code": "lut-desert",
+  "name": "Lut Desert",
+  "type": "Natural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Lut Desert, or Dasht-e-Lut, is located in the south-east of the country. Between June and October, this arid subtropical area is swept by strong winds, which transport sediment and cause aeolian erosion on a colossal scale. Consequently, the site presents some of the most spectacular examples of aeolian yardang landforms (massive corrugated ridges). It also contains extensive stony deserts and dune fields. The property represents an exceptional example of ongoing geological processes.",
+  "danger": false,
+  "geojson": "lut-desert.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "us-au-pacific",
+  "name": "US-AU Pacific",
+  "capacityTbps": 47,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13357,
+  "yearLaid": 2012,
+  "rfsDate": "2018-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Los Angeles, USA",
+    "Sydney, Australia"
+  ],
+  "description": "US-AU Pacific connecting Los Angeles to Sydney.",
+  "geojson": "us-au-pacific.geojson"
+}

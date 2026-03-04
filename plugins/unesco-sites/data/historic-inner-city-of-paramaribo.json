@@ -1,0 +1,15 @@
+{
+  "code": "historic-inner-city-of-paramaribo",
+  "name": "Historic Inner City of Paramaribo",
+  "type": "Cultural",
+  "country": "Suriname",
+  "yearInscribed": "2002",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Paramaribo is a former Dutch colonial town from the 17th and 18th centuries planted on the northern coast of tropical South America. The original and highly characteristic street plan of the historic centre remains intact. Its buildings illustrate the gradual fusion of Dutch architectural influence with traditional local techniques and materials.",
+  "danger": false,
+  "geojson": "historic-inner-city-of-paramaribo.geojson"
+}

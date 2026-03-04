@@ -1,0 +1,22 @@
+{
+  "code": "sinabung",
+  "name": "Mount Sinabung",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2460,
+  "lastEruption": "2021",
+  "vei": 4,
+  "country": "Indonesia",
+  "region": "Sumatra",
+  "location": "Sumatra, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava domes",
+    "Lahars"
+  ],
+  "eruptionHistory": "Dormant for over 400 years before reawakening in 2010. Has been in near-continuous eruption since 2013. Produced large pyroclastic flows in 2014 and 2016.",
+  "description": "Mount Sinabung was dormant for over four centuries before its dramatic reawakening in 2010. It has since become one of Indonesia's most persistently active volcanoes.",
+  "geojson": "sinabung.geojson"
+}

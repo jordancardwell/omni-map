@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8453,
+          1.3029
+        ]
+      },
+      "properties": {
+        "code": "thaipusam-singapore",
+        "name": "Thaipusam (Singapore)",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January–February",
+        "location": "Singapore"
+      }
+    }
+  ]
+}

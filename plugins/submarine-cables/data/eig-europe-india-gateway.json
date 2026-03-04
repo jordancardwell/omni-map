@@ -1,0 +1,22 @@
+{
+  "code": "eig-europe-india-gateway",
+  "name": "EIG (Europe India Gateway)",
+  "capacityTbps": 3.84,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2010,
+  "rfsDate": "2011-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "London, UK",
+    "Lisbon, Portugal",
+    "Marseille, France",
+    "Genoa, Italy",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Djibouti, Djibouti",
+    "Mumbai, India"
+  ],
+  "description": "Europe India Gateway cable system.",
+  "geojson": "eig-europe-india-gateway.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "swift-psu",
+  "name": "Penn State (Swift Observatory)",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 376,
+  "aperture": "Swift XRT: 0.3 m / UVOT: 0.3 m",
+  "telescopes": [
+    "Neil Gehrels Swift Observatory"
+  ],
+  "keyDiscoveries": [
+    "Gamma-ray burst afterglow studies",
+    "Tidal disruption events",
+    "Kilonova detection"
+  ],
+  "location": "Penn State (Swift Observatory), United States",
+  "description": "Mission operations for Swift at Penn State. Swift rapidly slews to gamma-ray bursts, providing crucial multi-wavelength observations of transient events.",
+  "geojson": "swift-psu.geojson"
+}

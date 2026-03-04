@@ -1,0 +1,29 @@
+{
+  "code": "hawaiian-slack-key",
+  "name": "Hawaiian Slack-Key Guitar",
+  "region": "Hawaii, United States",
+  "traditionFamily": "Oceanian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Slack-Key Guitar",
+    "Steel Guitar",
+    "Ukulele",
+    "Vocals",
+    "Bass"
+  ],
+  "keyArtists": [
+    "Gabby Pahinui",
+    "Raymond Kane",
+    "Keola Beamer",
+    "Ledward Kaapana",
+    "Cyril Pahinui"
+  ],
+  "description": "Ki ho'alu (slack-key guitar) is a Hawaiian fingerstyle guitar tradition where the strings are 'slacked' (tuned down) to create open tunings. Developed in the 19th century by Hawaiian cowboys (paniolo) who adapted Spanish and Mexican guitar styles, each family guarded their own tunings. The technique produces a warm, reverberant sound that evokes the Hawaiian landscape.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Hawaiian Music",
+      "url": "https://folkways.si.edu/search?query=hawaiian+slack+key"
+    }
+  ],
+  "geojson": "hawaiian-slack-key.geojson"
+}

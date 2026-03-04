@@ -1,0 +1,14 @@
+{
+  "code": "oktoberfest",
+  "name": "Oktoberfest",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Late September–early October",
+  "origin": "Bavarian German tradition",
+  "estimatedAttendance": "6+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Beer tents serving Oktoberfest Märzen; traditional Bavarian dress (dirndl and lederhosen); brass band music; fairground rides; pretzel eating.",
+  "historicalBackground": "Oktoberfest originated on October 12, 1810, as a celebration of Crown Prince Ludwig's marriage. The festival has grown into the world's largest Volksfest.",
+  "description": "The world's largest beer festival in Munich, a 16-day celebration of Bavarian culture with traditional food, music, and millions of liters of beer.",
+  "location": "Munich, Germany",
+  "geojson": "oktoberfest.geojson"
+}

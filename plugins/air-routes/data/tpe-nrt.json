@@ -1,0 +1,19 @@
+{
+  "code": "tpe-nrt",
+  "name": "Taipei — Tokyo",
+  "airports": [
+    "TPE",
+    "NRT"
+  ],
+  "distanceKm": 2182,
+  "weeklyFlights": 100,
+  "airlines": [
+    "China Airlines",
+    "EVA Air",
+    "ANA"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "TPE–NRT route between Taipei and Tokyo. Distance: 2,182 km. ~100 weekly flights operated by China Airlines, EVA Air, ANA.",
+  "geojson": "tpe-nrt.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "pushkar-camel-fair",
+  "name": "Pushkar Camel Fair",
+  "festivalType": "Cultural",
+  "dateOrSeason": "October–November",
+  "origin": "Rajasthani tradition",
+  "estimatedAttendance": "200,000+ visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Camel trading and racing; mustache competitions; folk music and dance; handicraft bazaar; hot air balloon rides; religious bathing in Pushkar Lake.",
+  "historicalBackground": "The Pushkar Camel Fair originated centuries ago as a livestock trading event coinciding with the Kartik Purnima pilgrimage to Pushkar's sacred lake.",
+  "description": "One of the world's largest camel fairs, blending Rajasthani cultural spectacle with ancient livestock trading traditions in the Thar Desert.",
+  "location": "Pushkar, India",
+  "geojson": "pushkar-camel-fair.geojson"
+}

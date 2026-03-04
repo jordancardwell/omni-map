@@ -1,0 +1,18 @@
+{
+  "code": "burmese-star-tortoise",
+  "name": "Burmese Star Tortoise",
+  "scientificName": "Geochelone platynota",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "Unknown, severely depleted",
+  "populationTrend": "Increasing",
+  "habitatType": "Dry deciduous forest",
+  "threats": [
+    "Illegal collection for pet trade",
+    "Habitat loss",
+    "Consumption"
+  ],
+  "conservationEfforts": "Wildlife Conservation Society Myanmar program. Captive breeding at Lawkananda Wildlife Sanctuary has produced thousands of tortoises. Community-based anti-poaching.",
+  "description": "Endemic to Myanmar's dry zone, this strikingly beautiful tortoise was nearly extinct in the wild due to collection for food and the exotic pet trade. Captive breeding has been remarkably successful.",
+  "geojson": "burmese-star-tortoise.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "songkran-chiang-mai",
+  "name": "Songkran (Chiang Mai)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "April 13–15",
+  "origin": "Northern Thai tradition",
+  "estimatedAttendance": "Millions of visitors",
+  "unescoICH": "Inscribed 2023",
+  "traditions": "Massive water fights around the Old City moat; Buddha image bathing processions; sand stupa building at temples; beauty pageants.",
+  "historicalBackground": "Chiang Mai's Songkran is Thailand's most exuberant, centered on the ancient city moat. Northern traditions include the Poy Sang Long ceremony for novice monks.",
+  "description": "Thailand's wildest Songkran celebration, where the ancient moat of Chiang Mai becomes the epicenter of the world's largest water fight.",
+  "location": "Chiang Mai, Thailand",
+  "geojson": "songkran-chiang-mai.geojson"
+}

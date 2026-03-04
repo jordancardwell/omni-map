@@ -1,0 +1,17 @@
+{
+  "code": "dxb-gru",
+  "name": "Dubai — São Paulo",
+  "airports": [
+    "DXB",
+    "GRU"
+  ],
+  "distanceKm": 12217,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–GRU route between Dubai and São Paulo. Distance: 12,217 km. ~20 weekly flights operated by Emirates.",
+  "geojson": "dxb-gru.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "vc",
+  "name": "Saint Vincent and the Grenadines",
+  "avgDownloadMbps": 18.4,
+  "avgUploadMbps": 6.8,
+  "avgLatencyMs": 36,
+  "mobileDownloadMbps": 14.2,
+  "mobileUploadMbps": 3.2,
+  "fixedDownloadMbps": 18.4,
+  "fixedUploadMbps": 6.8,
+  "rank": 118,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Small Caribbean market developing. ~8% year-over-year growth.",
+  "geojson": "vc.geojson"
+}

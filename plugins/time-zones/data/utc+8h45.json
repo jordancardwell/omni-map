@@ -1,0 +1,20 @@
+{
+  "code": "utc+8h45",
+  "name": "Australian Central Western Time",
+  "nativeName": "UTC+08:45",
+  "utcOffset": "UTC+08:45",
+  "utcOffsetHours": 8.75,
+  "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+  "ianaNames": [
+    "Australia/Eucla"
+  ],
+  "countries": [
+    "Australia (Eucla region, Western Australia border)"
+  ],
+  "dstRules": "Unofficially observes DST (+09:45 in summer); not recognized by Australian federal law",
+  "description": "One of the world's rarest time zones, used by a tiny community along the Western Australia–South Australia border near Eucla. With only a few hundred residents, this 45-minute offset zone is an unofficial compromise between Perth (UTC+8) and Adelaide (UTC+9:30).",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+8h45.geojson"
+}

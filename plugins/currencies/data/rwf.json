@@ -1,0 +1,16 @@
+{
+  "code": "rwf",
+  "name": "Rwandan Franc",
+  "isoCode": "RWF",
+  "symbol": "RF",
+  "region": "Africa",
+  "centralBank": "National Bank of Rwanda",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Rwanda"
+  ],
+  "countryCount": 1,
+  "description": "The Rwandan Franc is the currency of Rwanda, which has achieved remarkable economic growth and is known as the 'Singapore of Africa'.",
+  "historicalNotes": "Rwanda has maintained the franc since independence in 1962. The country's post-genocide recovery and economic transformation has been widely recognized.",
+  "geojson": "rwf.geojson"
+}

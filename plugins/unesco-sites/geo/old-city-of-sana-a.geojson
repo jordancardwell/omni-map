@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.20805556,
+          15.35555556
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-sana-a",
+        "name": "Old City of Sana'a",
+        "type": "Cultural",
+        "country": "Yemen",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

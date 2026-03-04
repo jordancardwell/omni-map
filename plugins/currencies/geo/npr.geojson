@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"npr","name":"Nepalese Rupee","country":"NP","region":"Asia"},"geometry":{"type":"Polygon","coordinates":[[[80,26.4],[80,30.4],[88.2,30.4],[88.2,26.4],[80,26.4]]]}}]}

@@ -1,0 +1,41 @@
+{
+  "id": "volcanoes",
+  "name": "Volcanoes",
+  "description": "Active volcanoes worldwide from the Smithsonian Global Volcanism Program — Holocene volcanoes including stratovolcanoes, shield volcanoes, calderas, and more",
+  "type": "points",
+  "version": "1.0.0",
+  "icon": "flame",
+  "defaultColor": "#EF4444",
+  "categories": ["geology", "earth-science", "natural-hazards"],
+  "dataType": "points",
+  "dataSource": "static",
+  "category": "Geology & Earth Science",
+  "thumbnail": "#EF4444",
+  "schema": "VolcanoMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "volcanoType", "country", "status", "region", "description"],
+    "groupBy": "status",
+    "titleField": "name",
+    "subtitleField": "country",
+    "badgeField": "elevation",
+    "badgeFormat": "formatted-number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "location"
+  },
+  "detailFields": [
+    { "key": "volcanoType", "label": "Volcano Type", "type": "text" },
+    { "key": "status", "label": "Activity Status", "type": "status-badge", "statusColors": { "Erupting/Recent": "#EF4444", "Historically Active": "#F97316", "Dormant": "#EAB308" } },
+    { "key": "elevation", "label": "Elevation (m)", "type": "formatted-number" },
+    { "key": "lastEruption", "label": "Last Eruption", "type": "text" },
+    { "key": "vei", "label": "Max VEI (Volcanic Explosivity Index)", "type": "number" },
+    { "key": "country", "label": "Country", "type": "text" },
+    { "key": "region", "label": "Region", "type": "text" },
+    { "key": "tectonicSetting", "label": "Tectonic Setting", "type": "text" },
+    { "key": "eruptionHistory", "label": "Eruption History", "type": "markdown" },
+    { "key": "hazards", "label": "Hazards", "type": "tags" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

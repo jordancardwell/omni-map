@@ -1,0 +1,21 @@
+{
+  "code": "c2c-city-to-city",
+  "name": "C2C (City-to-City)",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 17000,
+  "yearLaid": 2001,
+  "rfsDate": "2002-06",
+  "owner": "NTT Communications",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Busan, South Korea",
+    "Manila, Philippines",
+    "Taipei, Taiwan"
+  ],
+  "description": "City-to-City cable connecting major Asian business centers.",
+  "geojson": "c2c-city-to-city.geojson"
+}

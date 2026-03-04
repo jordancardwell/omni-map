@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[10.2417,53.4808]},"properties":{"code":"hamburg","name":"Hamburg Observatory","observatoryType":"Optical","status":"Operational","country":"Germany"}}]}

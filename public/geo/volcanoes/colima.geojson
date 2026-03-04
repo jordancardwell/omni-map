@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.62,19.5133]},"properties":{"code":"colima","name":"Volcán de Colima","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3839,"lastEruption":"2019","vei":4}}]}

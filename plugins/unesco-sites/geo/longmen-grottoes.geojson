@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4666667,
+          34.46666667
+        ]
+      },
+      "properties": {
+        "code": "longmen-grottoes",
+        "name": "Longmen Grottoes",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

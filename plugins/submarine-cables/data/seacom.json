@@ -1,0 +1,20 @@
+{
+  "code": "seacom",
+  "name": "SEACOM",
+  "capacityTbps": 1.28,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2008,
+  "rfsDate": "2009-07",
+  "owner": "SEACOM",
+  "landingPoints": [
+    "Marseille, France",
+    "Mumbai, India",
+    "Mombasa, Kenya",
+    "Dar es Salaam, Tanzania",
+    "Maputo, Mozambique",
+    "Mtunzini, South Africa"
+  ],
+  "description": "One of the first cables to connect East Africa to global internet via India and Europe.",
+  "geojson": "seacom.geojson"
+}

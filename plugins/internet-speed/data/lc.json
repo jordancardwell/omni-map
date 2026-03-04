@@ -1,0 +1,17 @@
+{
+  "code": "lc",
+  "name": "Saint Lucia",
+  "avgDownloadMbps": 22.8,
+  "avgUploadMbps": 8.4,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 16.6,
+  "mobileUploadMbps": 3.8,
+  "fixedDownloadMbps": 22.8,
+  "fixedUploadMbps": 8.4,
+  "rank": 105,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Tourism-driven island connectivity. ~10% year-over-year growth.",
+  "geojson": "lc.geojson"
+}

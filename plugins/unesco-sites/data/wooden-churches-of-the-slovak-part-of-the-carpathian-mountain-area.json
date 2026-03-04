@@ -1,0 +1,15 @@
+{
+  "code": "wooden-churches-of-the-slovak-part-of-the-carpathian-mountain-area",
+  "name": "Wooden Churches of the Slovak part of the Carpathian Mountain Area",
+  "type": "Cultural",
+  "country": "Slovakia",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Wooden Churches of the Slovak part of Carpathian Mountain Area inscribed on the World Heritage List consist of two Roman Catholic, three Protestant and three Greek Orthodox churches built between the 16th and 18th centuries. The property presents good examples of a rich local tradition of religious architecture, marked by the meeting of Latin and Byzantine cultures. The edifices exhibit some typological variations in their floor plans, interior spaces and external appearance due to their respective religious practices. They bear testimony to the development of major architectural and artistic trends during the period of construction and to their interpretation and adaptation to a specific geographical and cultural context. Interiors are decorated with paintings on the walls and ceilings and other works of art that enrich the cultural significance of the properties.",
+  "danger": false,
+  "geojson": "wooden-churches-of-the-slovak-part-of-the-carpathian-mountain-area.geojson"
+}

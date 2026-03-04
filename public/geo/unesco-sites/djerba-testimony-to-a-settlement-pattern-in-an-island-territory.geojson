@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0039583333,
+          33.7924194444
+        ]
+      },
+      "properties": {
+        "code": "djerba-testimony-to-a-settlement-pattern-in-an-island-territory",
+        "name": "Djerba: Testimony to a settlement pattern in an island territory",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

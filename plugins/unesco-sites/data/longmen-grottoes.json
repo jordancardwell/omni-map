@@ -1,0 +1,16 @@
+{
+  "code": "longmen-grottoes",
+  "name": "Longmen Grottoes",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The grottoes and niches of Longmen contain the largest and most impressive collection of Chinese art of the late Northern Wei and Tang Dynasties (316-907). These works, entirely devoted to the Buddhist religion, represent the high point of Chinese stone carving.",
+  "danger": false,
+  "geojson": "longmen-grottoes.geojson"
+}

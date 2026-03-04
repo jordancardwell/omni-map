@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[140.874,27.247]},"properties":{"code":"nishinoshima","name":"Nishinoshima","volcanoType":"Submarine volcano","status":"Erupting/Recent","elevation":100,"lastEruption":"2023","vei":2}}]}

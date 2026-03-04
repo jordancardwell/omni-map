@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.22527,
+          51.20891
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-brugge",
+        "name": "Historic Centre of Brugge",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

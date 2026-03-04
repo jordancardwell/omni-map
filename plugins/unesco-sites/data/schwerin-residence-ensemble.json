@@ -1,0 +1,14 @@
+{
+  "code": "schwerin-residence-ensemble",
+  "name": "Schwerin Residence Ensemble",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Established on the shores of Lake Schwerin in northeast Germany, the Schwerin Residence Ensemble is an architectural and landscape ensemble, which fits very precisely within the context of the emergence and development of the historicist style in Europe. Created for the most part in the 19th century in what was then the capital of the Grand Duchy of Mecklenburg-Schwerin in northeast Germany, the property comprises 38 elements, including the Grand Duke’s Residence Palace and manor houses, cultural and sacred buildings, and the Pfaffenteich ornamental lake. But it also fulfils all the functions required of a ducal capital in terms of administration, defence, service infrastructure, transportation, prestige and cultural activities, with parks, canals, ponds and lakes, and public spaces. The buildings form an exceptional architectural ensemble, ranging from Neo­-Classical to Neo-Baroque and Neo-Renaissance and even includes in certain cases references to the more regional Neo-Renaissance Johann-Albrecht style, with influences from the Italian Renaissance.",
+  "danger": false,
+  "geojson": "schwerin-residence-ensemble.geojson"
+}

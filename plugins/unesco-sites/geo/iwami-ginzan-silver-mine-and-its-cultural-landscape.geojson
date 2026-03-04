@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.435,
+          35.1127777777
+        ]
+      },
+      "properties": {
+        "code": "iwami-ginzan-silver-mine-and-its-cultural-landscape",
+        "name": "Iwami Ginzan Silver Mine and its Cultural Landscape",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

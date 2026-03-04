@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sin","name":"Singapore Changi","featureType":"airport","iataCode":"SIN","annualPassengers":62500000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[103.9915,1.3644]}}]}

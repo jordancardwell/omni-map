@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "code": "national-day-spain",
+        "name": "Fiesta Nacional de España",
+        "festivalType": "National",
+        "dateOrSeason": "October 12",
+        "location": "Madrid, Spain"
+      }
+    }
+  ]
+}

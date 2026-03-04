@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.5166666667,
+          36.5391666667
+        ]
+      },
+      "properties": {
+        "code": "historic-villages-of-korea-hahoe-and-yangdong",
+        "name": "Historic Villages of Korea: Hahoe and Yangdong",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

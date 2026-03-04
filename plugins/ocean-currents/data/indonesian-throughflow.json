@@ -1,0 +1,21 @@
+{
+  "code": "indonesian-throughflow",
+  "name": "Indonesian Throughflow",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "Western Pacific",
+  "destination": "Indian Ocean",
+  "climateEffects": [
+    "Transfers Pacific heat to Indian Ocean",
+    "Influences Indian Ocean Dipole",
+    "Modulates regional monsoons"
+  ],
+  "connectedEcosystems": [
+    "Coral Triangle",
+    "Indonesian reef systems",
+    "Java Sea biodiversity"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Indonesian Throughflow carries warm, low-salinity Pacific Ocean water through the Indonesian archipelago into the Indian Ocean. It is the only low-latitude connection between ocean basins and plays a critical role in global heat transport.",
+  "geojson": "indonesian-throughflow.geojson"
+}

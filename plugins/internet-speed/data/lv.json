@@ -1,0 +1,17 @@
+{
+  "code": "lv",
+  "name": "Latvia",
+  "avgDownloadMbps": 135.6,
+  "avgUploadMbps": 68.2,
+  "avgLatencyMs": 11,
+  "mobileDownloadMbps": 42.3,
+  "mobileUploadMbps": 9.8,
+  "fixedDownloadMbps": 135.6,
+  "fixedUploadMbps": 68.2,
+  "rank": 33,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Good fiber coverage in cities. ~8% year-over-year growth.",
+  "geojson": "lv.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "maya-site-of-copan",
+  "name": "Maya Site of Copan",
+  "type": "Cultural",
+  "country": "Honduras",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Discovered in 1570 by Diego García de Palacio, the ruins of Copán, one of the most important sites of the Mayan civilization, were not excavated until the 19th century. The ruined citadel and imposing public squares reveal the three main stages of development before the city was abandoned in the early 10th century.",
+  "danger": false,
+  "geojson": "maya-site-of-copan.geojson"
+}

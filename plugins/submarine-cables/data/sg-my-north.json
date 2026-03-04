@@ -1,0 +1,16 @@
+{
+  "code": "sg-my-north",
+  "name": "SG-MY North",
+  "capacityTbps": 59,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11426,
+  "yearLaid": 2011,
+  "rfsDate": "2011-06",
+  "owner": "TM",
+  "landingPoints": [
+    "Singapore",
+    "Penang, Malaysia"
+  ],
+  "description": "SG-MY North connecting Singapore to Penang.",
+  "geojson": "sg-my-north.geojson"
+}

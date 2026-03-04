@@ -1,0 +1,17 @@
+{
+  "code": "gru-fco",
+  "name": "São Paulo — Rome",
+  "airports": [
+    "GRU",
+    "FCO"
+  ],
+  "distanceKm": 9433,
+  "weeklyFlights": 15,
+  "airlines": [
+    "ITA Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–FCO route between São Paulo and Rome. Distance: 9,433 km. ~15 weekly flights operated by ITA Airways.",
+  "geojson": "gru-fco.geojson"
+}

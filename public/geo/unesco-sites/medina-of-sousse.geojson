@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.63861,
+          35.82778
+        ]
+      },
+      "properties": {
+        "code": "medina-of-sousse",
+        "name": "Medina of Sousse",
+        "type": "Cultural",
+        "country": "Tunisia",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "fkp",
+  "name": "Falkland Islands Pound",
+  "isoCode": "FKP",
+  "symbol": "FK£",
+  "region": "Americas",
+  "centralBank": "Falkland Islands Government",
+  "exchangeRateEra": "Pegged to GBP at par",
+  "countries": [
+    "Falkland Islands"
+  ],
+  "countryCount": 1,
+  "description": "The Falkland Islands Pound is pegged at par with the British Pound Sterling. The islands are a British Overseas Territory in the South Atlantic.",
+  "historicalNotes": "The Falklands have used their own currency since 1899. The 1982 Falklands War between the UK and Argentina made the islands internationally prominent.",
+  "geojson": "fkp.geojson"
+}

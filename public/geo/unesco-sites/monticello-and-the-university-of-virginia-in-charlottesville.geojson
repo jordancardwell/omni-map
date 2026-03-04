@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.50388889,
+          38.03277778
+        ]
+      },
+      "properties": {
+        "code": "monticello-and-the-university-of-virginia-in-charlottesville",
+        "name": "Monticello and the University of Virginia in Charlottesville",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

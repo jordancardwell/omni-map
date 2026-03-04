@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"greek","name":"Greek Cuisine","region":"Greece","country":"GR"},"geometry":{"type":"Polygon","coordinates":[[[19.4,34.8],[19.4,41.8],[29.6,41.8],[29.6,34.8],[19.4,34.8]]]}}]}

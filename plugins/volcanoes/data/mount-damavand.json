@@ -1,0 +1,20 @@
+{
+  "code": "mount-damavand",
+  "name": "Mount Damavand",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 5610,
+  "lastEruption": "-5350",
+  "vei": 0,
+  "country": "Iran",
+  "region": "Alborz",
+  "location": "Alborz, Iran",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Volcanic gases",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Last erupted approximately 7,300 years ago. Active fumaroles near the summit indicate ongoing magmatic activity.",
+  "description": "Mount Damavand is the highest volcano in Asia and a prominent symbol in Persian mythology. Active fumaroles suggest it is dormant rather than extinct.",
+  "geojson": "mount-damavand.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "old-city-of-acre",
+  "name": "Old City of Acre",
+  "type": "Cultural",
+  "country": "Israel",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem.",
+  "danger": false,
+  "geojson": "old-city-of-acre.geojson"
+}

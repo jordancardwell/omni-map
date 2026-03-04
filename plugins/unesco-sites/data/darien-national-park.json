@@ -1,0 +1,16 @@
+{
+  "code": "darien-national-park",
+  "name": "Darien National Park",
+  "type": "Natural",
+  "country": "Panama",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park.",
+  "danger": false,
+  "geojson": "darien-national-park.geojson"
+}

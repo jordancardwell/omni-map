@@ -1,0 +1,17 @@
+{
+  "code": "lc-39b",
+  "name": "Launch Complex 39B (Kennedy Space Center)",
+  "country": "United States",
+  "operator": "NASA",
+  "coordinates": "28.6272°N, 80.6208°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Apollo 10",
+    "Multiple Shuttle missions",
+    "Artemis I (SLS maiden flight)"
+  ],
+  "orbitalInclinationRange": "28.5°–57°",
+  "location": "Launch Complex 39B (Kennedy Space Center), United States",
+  "description": "One of two Apollo-era launch pads at KSC. Modified for Space Launch System (SLS). Launched Artemis I, the first uncrewed Orion mission around the Moon. NASA's pad for Artemis lunar missions.",
+  "geojson": "lc-39b.geojson"
+}

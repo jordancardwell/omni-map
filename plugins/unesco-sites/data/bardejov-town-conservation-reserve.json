@@ -1,0 +1,15 @@
+{
+  "code": "bardejov-town-conservation-reserve",
+  "name": "Bardejov Town Conservation Reserve",
+  "type": "Cultural",
+  "country": "Slovakia",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Bardejov is a small but exceptionally complete and well-preserved example of a fortified medieval town, which typifies the urbanisation in this region. Among other remarkable features, it also contains a small Jewish quarter around a fine 18th-century synagogue.",
+  "danger": false,
+  "geojson": "bardejov-town-conservation-reserve.geojson"
+}

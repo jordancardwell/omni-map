@@ -1,0 +1,8 @@
+{
+  "code": "pacific-islands-route",
+  "name": "Pacific Islands Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Connects major Pacific island nations with Australia, New Zealand, and mainland Asian ports. Essential lifeline for remote island economies.",
+  "geojson": "pacific-islands-route.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "isk",
+  "name": "Icelandic Króna",
+  "isoCode": "ISK",
+  "symbol": "kr",
+  "region": "Europe",
+  "centralBank": "Central Bank of Iceland",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Iceland"
+  ],
+  "countryCount": 1,
+  "description": "The Icelandic Króna is the currency of one of the world's smallest economies to have its own independent currency and monetary policy.",
+  "historicalNotes": "Iceland adopted its own króna in 1918 when it gained sovereignty from Denmark. The 2008 financial crisis severely affected the currency, which lost about half its value.",
+  "geojson": "isk.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07036111,
+          13.80708333
+        ]
+      },
+      "properties": {
+        "code": "pitons-management-area",
+        "name": "Pitons Management Area",
+        "type": "Natural",
+        "country": "Saint Lucia",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

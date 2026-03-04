@@ -1,0 +1,21 @@
+{
+  "code": "pelee",
+  "name": "Mount Pelée",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 1397,
+  "lastEruption": "1932",
+  "vei": 4,
+  "country": "Martinique",
+  "region": "Caribbean",
+  "location": "Caribbean, Martinique",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "The 1902 eruption destroyed the city of Saint-Pierre, killing approximately 29,000 people — the deadliest volcanic eruption of the 20th century. Small eruption in 1929-1932.",
+  "description": "Mount Pelée's 1902 eruption was the deadliest of the 20th century. The pyroclastic flow that destroyed Saint-Pierre in minutes left only 2-3 survivors and introduced the term 'nuée ardente.'",
+  "geojson": "pelee.geojson"
+}

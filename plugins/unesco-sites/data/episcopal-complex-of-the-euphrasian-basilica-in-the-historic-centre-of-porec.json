@@ -1,0 +1,16 @@
+{
+  "code": "episcopal-complex-of-the-euphrasian-basilica-in-the-historic-centre-of-porec",
+  "name": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+  "type": "Cultural",
+  "country": "Croatia",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The group of religious monuments in Porec, where Christianity was established as early as the 4th century, constitutes the most complete surviving complex of its type. The basilica, atrium, baptistery and episcopal palace are outstanding examples of religious architecture, while the basilica itself combines classical and Byzantine elements in an exceptional manner.",
+  "danger": false,
+  "geojson": "episcopal-complex-of-the-euphrasian-basilica-in-the-historic-centre-of-porec.geojson"
+}

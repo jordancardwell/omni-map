@@ -1,0 +1,20 @@
+{
+  "code": "new-guinea-rainforest",
+  "name": "New Guinea Rainforest",
+  "country": "Papua New Guinea, Indonesia (Papua)",
+  "forestType": "Tropical",
+  "areaKm2": 545000,
+  "intactness": "Mostly Intact",
+  "changeSince2000": "-4.8% (approximately 26,000 km² lost)",
+  "annualLossRate": "0.2% per year",
+  "threats": [
+    "Logging concessions",
+    "Palm oil expansion",
+    "Mining",
+    "Road construction",
+    "Population growth"
+  ],
+  "conservationStatus": "Customary land tenure protects much of the forest through indigenous ownership (~97% of land in PNG is customary). Limited formal protected area coverage (~3%). YUS Conservation Area established as PNG's first conservation area through voluntary landowner commitment.",
+  "description": "The **New Guinea Rainforest** is the world's third-largest tropical rainforest, covering the island of New Guinea. It is one of the most biologically diverse places on Earth and remains largely intact due to rugged terrain and customary land ownership.\n\n### Key Statistics\n- **Biodiversity**: ~20,000 plant species, 800+ bird species (including birds of paradise), 300+ mammal species\n- **Endemic species**: ~5% of the world's species on 0.5% of Earth's land\n- **Indigenous peoples**: Over 1,000 distinct language groups\n- **Altitude range**: Sea level to 4,884m (Puncak Jaya)\n\n### Deforestation Trends\nThe IFL 2020 analysis shows New Guinea retains the largest intact forest landscapes in the Asia-Pacific region. However, industrial logging concessions, particularly in PNG, and palm oil expansion in Indonesian Papua are emerging threats.",
+  "geojson": "new-guinea-rainforest.geojson"
+}

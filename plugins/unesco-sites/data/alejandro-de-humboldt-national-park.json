@@ -1,0 +1,15 @@
+{
+  "code": "alejandro-de-humboldt-national-park",
+  "name": "Alejandro de Humboldt National Park",
+  "type": "Natural",
+  "country": "Cuba",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Complex geology and varied topography have given rise to a diversity of ecosystems and species unmatched in the insular Caribbean and created one of the most biologically diverse tropical island sites on earth. Many of the underlying rocks are toxic to plants so species have had to adapt to survive in these hostile conditions. This unique process of evolution has resulted in the development of many new species and the park is one of the most important sites in the Western Hemisphere for the conservation of endemic flora. Endemism of vertebrates and invertebrates is also very high.",
+  "danger": false,
+  "geojson": "alejandro-de-humboldt-national-park.geojson"
+}

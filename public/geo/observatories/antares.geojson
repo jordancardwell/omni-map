@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1667,42.8]},"properties":{"code":"antares","name":"ANTARES Neutrino Telescope","observatoryType":"Multi-messenger","status":"Decommissioned","country":"France"}}]}

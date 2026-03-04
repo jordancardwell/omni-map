@@ -1,0 +1,18 @@
+{
+  "code": "ord-ams",
+  "name": "Chicago — Amsterdam",
+  "airports": [
+    "ORD",
+    "AMS"
+  ],
+  "distanceKm": 6613,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ORD–AMS route between Chicago and Amsterdam. Distance: 6,613 km. ~40 weekly flights operated by United, KLM.",
+  "geojson": "ord-ams.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.08494,
+          42.18318
+        ]
+      },
+      "properties": {
+        "code": "kunya-urgench",
+        "name": "Kunya-Urgench",
+        "type": "Cultural",
+        "country": "Turkmenistan",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

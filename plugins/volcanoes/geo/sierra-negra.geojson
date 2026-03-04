@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.17,-0.83]},"properties":{"code":"sierra-negra","name":"Sierra Negra","volcanoType":"Shield volcano","status":"Erupting/Recent","elevation":1124,"lastEruption":"2018","vei":2}}]}

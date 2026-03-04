@@ -1,0 +1,16 @@
+{
+  "code": "cw-tt-cable",
+  "name": "CW-TT Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2021,
+  "yearLaid": 2014,
+  "rfsDate": "2014-06",
+  "owner": "UTS",
+  "landingPoints": [
+    "Willemstad, Curaçao",
+    "Port of Spain, Trinidad"
+  ],
+  "description": "CW-TT Cable connecting Willemstad to Port of Spain in the Caribbean region.",
+  "geojson": "cw-tt-cable.geojson"
+}

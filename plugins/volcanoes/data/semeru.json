@@ -1,0 +1,21 @@
+{
+  "code": "semeru",
+  "name": "Mount Semeru",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3676,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Java",
+  "location": "Java, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "The highest volcano in Java. Has been in near-continuous eruption since 1967. A major eruption in December 2021 killed over 50 people.",
+  "description": "Mount Semeru is Java's highest peak and one of the most active volcanoes in Indonesia. It is named after Meru, the central mountain of the universe in Hindu-Buddhist cosmology.",
+  "geojson": "semeru.geojson"
+}

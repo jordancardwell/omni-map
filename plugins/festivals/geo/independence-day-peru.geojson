@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0428,
+          -12.0464
+        ]
+      },
+      "properties": {
+        "code": "independence-day-peru",
+        "name": "Fiestas Patrias (Peru)",
+        "festivalType": "National",
+        "dateOrSeason": "July 28–29",
+        "location": "Lima, Peru"
+      }
+    }
+  ]
+}

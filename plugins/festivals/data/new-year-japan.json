@@ -1,0 +1,14 @@
+{
+  "code": "new-year-japan",
+  "name": "Oshogatsu (Japanese New Year)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "January 1–3",
+  "origin": "Japanese tradition",
+  "estimatedAttendance": "126+ million in Japan",
+  "unescoICH": "Not inscribed",
+  "traditions": "Hatsumode (first shrine visit); eating osechi-ryori (traditional foods); mochi (rice cakes); kadomatsu decorations; nengajo greeting cards.",
+  "historicalBackground": "Japanese New Year (Shōgatsu) switched from lunar to January 1 in 1873 during the Meiji Restoration. Traditional customs remain deeply observed.",
+  "description": "Japan's most important holiday, a serene celebration of renewal with shrine visits, traditional feasts, and the quiet beauty of winter.",
+  "location": "Tokyo, Japan",
+  "geojson": "new-year-japan.geojson"
+}

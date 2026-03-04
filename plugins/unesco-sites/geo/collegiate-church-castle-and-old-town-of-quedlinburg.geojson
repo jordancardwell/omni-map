@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          51.78333
+        ]
+      },
+      "properties": {
+        "code": "collegiate-church-castle-and-old-town-of-quedlinburg",
+        "name": "Collegiate Church, Castle and Old Town of Quedlinburg",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "tng",
+  "name": "Telescopio Nazionale Galileo",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2370,
+  "aperture": "3.58 m",
+  "telescopes": [
+    "TNG",
+    "HARPS-N"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet mass measurements",
+    "Transiting exoplanet follow-up",
+    "Stellar abundances"
+  ],
+  "location": "Telescopio Nazionale Galileo, Spain",
+  "description": "Italian national telescope on La Palma. HARPS-N, its high-precision spectrograph, has been crucial for measuring masses of transiting exoplanets discovered by Kepler and TESS.",
+  "geojson": "tng.geojson"
+}

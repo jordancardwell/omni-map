@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1155555556,
+          40.4525
+        ]
+      },
+      "properties": {
+        "code": "shirakami-sanchi",
+        "name": "Shirakami-Sanchi",
+        "type": "Natural",
+        "country": "Japan",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

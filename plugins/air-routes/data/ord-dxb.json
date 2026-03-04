@@ -1,0 +1,17 @@
+{
+  "code": "ord-dxb",
+  "name": "Chicago — Dubai",
+  "airports": [
+    "ORD",
+    "DXB"
+  ],
+  "distanceKm": 11641,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ORD–DXB route between Chicago and Dubai. Distance: 11,641 km. ~25 weekly flights operated by Emirates.",
+  "geojson": "ord-dxb.geojson"
+}

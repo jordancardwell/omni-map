@@ -1,0 +1,14 @@
+{
+  "code": "bilbao",
+  "name": "Port of Bilbao",
+  "country": "Spain",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route"
+  ],
+  "description": "Port of Bilbao in Spain. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+  "geojson": "bilbao.geojson"
+}

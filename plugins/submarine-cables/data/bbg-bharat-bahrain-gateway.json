@@ -1,0 +1,16 @@
+{
+  "code": "bbg-bharat-bahrain-gateway",
+  "name": "BBG (Bharat-Bahrain Gateway)",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3200,
+  "yearLaid": 2021,
+  "rfsDate": "2023-06",
+  "owner": "Reliance Jio, GBI",
+  "landingPoints": [
+    "Mumbai, India",
+    "Manama, Bahrain"
+  ],
+  "description": "Direct cable connecting India to Bahrain.",
+  "geojson": "bbg-bharat-bahrain-gateway.geojson"
+}

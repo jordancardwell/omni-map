@@ -1,0 +1,14 @@
+{
+  "code": "nanjing",
+  "name": "Port of Nanjing",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 270,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Nanjing in China. Annual cargo throughput: ~270 million tons. Type: Multi-Purpose Port.",
+  "geojson": "nanjing.geojson"
+}

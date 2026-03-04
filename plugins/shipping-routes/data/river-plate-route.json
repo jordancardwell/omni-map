@@ -1,0 +1,8 @@
+{
+  "code": "river-plate-route",
+  "name": "River Plate & South Atlantic",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Shipping corridor serving the River Plate estuary (Buenos Aires, Montevideo) and connecting to European, African, and intra-South American routes.",
+  "geojson": "river-plate-route.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "chan-chan-archaeological-zone",
+  "name": "Chan Chan Archaeological Zone",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Chimu Kingdom, with Chan Chan as its capital, reached its apogee in the 15th century, not long before falling to the Incas. The planning of this huge city, the largest in pre-Columbian America, reflects a strict political and social strategy, marked by the city's division into nine 'citadels' or 'palaces' forming autonomous units.",
+  "danger": true,
+  "geojson": "chan-chan-archaeological-zone.geojson"
+}

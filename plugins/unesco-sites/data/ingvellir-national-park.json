@@ -1,0 +1,14 @@
+{
+  "code": "ingvellir-national-park",
+  "name": "Þingvellir National Park",
+  "type": "Cultural",
+  "country": "Iceland",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years.",
+  "danger": false,
+  "geojson": "ingvellir-national-park.geojson"
+}

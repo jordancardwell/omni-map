@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55,
+          -27.8388888889
+        ]
+      },
+      "properties": {
+        "code": "isimangaliso-wetland-park-maputo-national-park",
+        "name": "iSimangaliso Wetland Park – Maputo National Park",
+        "type": "Natural",
+        "country": "Mozambique, South Africa",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

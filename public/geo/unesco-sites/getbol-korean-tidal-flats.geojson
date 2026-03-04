@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1044444444,
+          34.8288222222
+        ]
+      },
+      "properties": {
+        "code": "getbol-korean-tidal-flats",
+        "name": "Getbol, Korean Tidal Flats",
+        "type": "Natural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

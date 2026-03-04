@@ -1,0 +1,38 @@
+{
+  "id": "currencies",
+  "name": "World Currencies",
+  "description": "Geographic distribution of world currencies and monetary systems",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#16A34A",
+  "categories": ["economics", "finance"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Economics & Finance",
+  "thumbnail": "#16A34A",
+  "schema": "CurrencyMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "symbol", "countries", "centralBank"],
+    "groupBy": "region",
+    "titleField": "name",
+    "subtitleField": "symbol",
+    "badgeField": "countryCount",
+    "badgeFormat": "number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "symbol"
+  },
+  "detailFields": [
+    { "key": "isoCode", "label": "ISO 4217 Code", "type": "text" },
+    { "key": "symbol", "label": "Symbol", "type": "text" },
+    { "key": "region", "label": "Region", "type": "text" },
+    { "key": "centralBank", "label": "Central Bank", "type": "text" },
+    { "key": "countries", "label": "Countries", "type": "tags" },
+    { "key": "exchangeRateEra", "label": "Exchange Rate Regime", "type": "text" },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "historicalNotes", "label": "Historical Notes", "type": "markdown" }
+  ]
+}

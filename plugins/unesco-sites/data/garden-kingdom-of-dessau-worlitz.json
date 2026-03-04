@@ -1,0 +1,15 @@
+{
+  "code": "garden-kingdom-of-dessau-worlitz",
+  "name": "Garden Kingdom of Dessau-Wörlitz",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Garden Kingdom of Dessau-Wörlitz is an exceptional example of landscape design and planning of the Age of the Enlightenment, the 18th century. Its diverse components - outstanding buildings, landscaped parks and gardens in the English style, and subtly modified expanses of agricultural land - serve aesthetic, educational, and economic purposes in an exemplary manner.",
+  "danger": false,
+  "geojson": "garden-kingdom-of-dessau-worlitz.geojson"
+}

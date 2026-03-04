@@ -1,0 +1,18 @@
+{
+  "code": "hnd-sin",
+  "name": "Tokyo — Singapore",
+  "airports": [
+    "HND",
+    "SIN"
+  ],
+  "distanceKm": 5299,
+  "weeklyFlights": 30,
+  "airlines": [
+    "ANA",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HND–SIN route between Tokyo and Singapore. Distance: 5,299 km. ~30 weekly flights operated by ANA, Singapore Airlines.",
+  "geojson": "hnd-sin.geojson"
+}

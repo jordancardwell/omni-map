@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[2.3364,48.8361]},"properties":{"code":"paris-observatory","name":"Observatoire de Paris","observatoryType":"Optical","status":"Operational","country":"France"}}]}

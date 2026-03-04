@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mxn","name":"Mexican Peso","country":"MX","region":"Americas"},"geometry":{"type":"Polygon","coordinates":[[[-117.1,14.5],[-117.1,32.7],[-86.7,32.7],[-86.7,14.5],[-117.1,14.5]]]}}]}

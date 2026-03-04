@@ -1,0 +1,16 @@
+{
+  "code": "in-hk-cable",
+  "name": "IN-HK Cable",
+  "capacityTbps": 64,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7855,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "Tata",
+  "landingPoints": [
+    "Chennai, India",
+    "Hong Kong, China"
+  ],
+  "description": "IN-HK Cable connecting Chennai to Hong Kong.",
+  "geojson": "in-hk-cable.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "east-australian",
+  "name": "East Australian Current",
+  "currentType": "Warm",
+  "speedRange": "0.5–1.5 m/s",
+  "origin": "Coral Sea",
+  "destination": "Tasman Sea",
+  "climateEffects": [
+    "Warms eastern Australia",
+    "Influences rainfall patterns",
+    "Strengthening due to climate change"
+  ],
+  "connectedEcosystems": [
+    "Great Barrier Reef",
+    "Tasman Sea marine life",
+    "Lord Howe Island ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The East Australian Current (EAC) flows southward along the eastern coast of Australia, made famous by the film Finding Nemo. It transports warm Coral Sea water into the Tasman Sea and has been strengthening and extending further south in recent decades.",
+  "geojson": "east-australian.geojson"
+}

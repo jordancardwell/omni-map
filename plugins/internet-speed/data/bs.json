@@ -1,0 +1,17 @@
+{
+  "code": "bs",
+  "name": "Bahamas",
+  "avgDownloadMbps": 32.6,
+  "avgUploadMbps": 12.4,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 22.8,
+  "mobileUploadMbps": 5.2,
+  "fixedDownloadMbps": 32.6,
+  "fixedUploadMbps": 12.4,
+  "rank": 91,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Island tourism economy with good connectivity. ~10% year-over-year growth.",
+  "geojson": "bs.geojson"
+}

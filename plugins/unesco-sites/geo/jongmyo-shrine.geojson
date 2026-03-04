@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9936111111,
+          37.5747222222
+        ]
+      },
+      "properties": {
+        "code": "jongmyo-shrine",
+        "name": "Jongmyo Shrine",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

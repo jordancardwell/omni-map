@@ -1,0 +1,16 @@
+{
+  "code": "dr-jm-cable",
+  "name": "DR-JM Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1965,
+  "yearLaid": 2015,
+  "rfsDate": "2021-06",
+  "owner": "Claro",
+  "landingPoints": [
+    "Santo Domingo, Dominican Republic",
+    "Kingston, Jamaica"
+  ],
+  "description": "DR-JM Cable connecting Santo Domingo to Kingston in the Caribbean region.",
+  "geojson": "dr-jm-cable.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "muc-fco",
+  "name": "Munich — Rome",
+  "airports": [
+    "MUC",
+    "FCO"
+  ],
+  "distanceKm": 730,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Lufthansa",
+    "ITA Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MUC–FCO route between Munich and Rome. Distance: 730 km. ~70 weekly flights operated by Lufthansa, ITA Airways.",
+  "geojson": "muc-fco.geojson"
+}

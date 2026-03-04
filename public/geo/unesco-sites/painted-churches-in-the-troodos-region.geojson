@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.09583333,
+          34.92027778
+        ]
+      },
+      "properties": {
+        "code": "painted-churches-in-the-troodos-region",
+        "name": "Painted Churches in the Troodos Region",
+        "type": "Cultural",
+        "country": "Cyprus",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

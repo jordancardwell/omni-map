@@ -1,0 +1,20 @@
+{
+  "code": "sulu-sea-reef",
+  "name": "Sulu Sea Reef System",
+  "location": "Philippines, Malaysia",
+  "areaKm2": 5800,
+  "reefType": "Fringing",
+  "healthStatus": "Vulnerable",
+  "coralSpecies": 450,
+  "marineSpecies": 1200,
+  "threats": [
+    "Blast fishing",
+    "Cyanide fishing",
+    "Overfishing",
+    "Coral bleaching",
+    "Sedimentation"
+  ],
+  "conservationStatus": "Sulu-Sulawesi Marine Ecoregion conservation program. Part of the Coral Triangle Initiative. Multiple marine protected areas including Tubbataha (separate entry) and Jessie Beazley Reef.",
+  "description": "The Sulu Sea contains some of the highest coral diversity in the world, lying at the heart of the Coral Triangle between the Philippines and Malaysian Borneo. Its reef systems range from tiny patch reefs to extensive fringing reefs around hundreds of islands.\n\nDespite exceptionally high biodiversity, the Sulu Sea faces severe threats from destructive fishing practices. Blast fishing and cyanide fishing, though illegal, remain persistent problems. The area is also critical for marine turtle nesting and shark nursery habitats. Cross-border cooperation between the Philippines and Malaysia is essential for effective conservation.",
+  "geojson": "sulu-sea-reef.geojson"
+}

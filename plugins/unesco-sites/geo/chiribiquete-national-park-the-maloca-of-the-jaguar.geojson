@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7972222222,
+          0.5252777778
+        ]
+      },
+      "properties": {
+        "code": "chiribiquete-national-park-the-maloca-of-the-jaguar",
+        "name": "Chiribiquete National Park – “The Maloca of the Jaguar”",
+        "type": "Mixed",
+        "country": "Colombia",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

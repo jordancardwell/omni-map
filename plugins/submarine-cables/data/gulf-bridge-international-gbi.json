@@ -1,0 +1,21 @@
+{
+  "code": "gulf-bridge-international-gbi",
+  "name": "Gulf Bridge International (GBI)",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2200,
+  "yearLaid": 2011,
+  "rfsDate": "2012-09",
+  "owner": "Gulf Bridge International",
+  "landingPoints": [
+    "Muscat, Oman",
+    "Fujairah, UAE",
+    "Dubai, UAE",
+    "Doha, Qatar",
+    "Manama, Bahrain",
+    "Kuwait City, Kuwait",
+    "Basra, Iraq"
+  ],
+  "description": "Submarine cable connecting all Gulf Cooperation Council countries to Iraq.",
+  "geojson": "gulf-bridge-international-gbi.geojson"
+}

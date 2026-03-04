@@ -1,0 +1,20 @@
+{
+  "code": "springbrook",
+  "name": "Springbrook Research Observatory",
+  "country": "Australia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 914,
+  "aperture": "0.35 m",
+  "telescopes": [
+    "Planewave CDK14"
+  ],
+  "keyDiscoveries": [
+    "Student research projects",
+    "Variable star monitoring",
+    "Asteroid tracking"
+  ],
+  "location": "Springbrook Research Observatory, Australia",
+  "description": "University of Southern Queensland observatory in the Gold Coast hinterland. Used for research training and robotic monitoring observations.",
+  "geojson": "springbrook.geojson"
+}

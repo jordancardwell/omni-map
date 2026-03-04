@@ -1,0 +1,18 @@
+{
+  "code": "venezuela-colombia",
+  "name": "Venezuela \u2192 Colombia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Venezuela \u2192 Colombia",
+  "badgeValue": "~2.5 million",
+  "origin": "Venezuela",
+  "destination": "Colombia",
+  "estimatedMigrants": "~2.5 million",
+  "drivers": [
+    "Economic collapse",
+    "Political crisis",
+    "Hyperinflation",
+    "Food insecurity"
+  ],
+  "description": "The Venezuelan displacement crisis is one of the largest in modern history. Since 2015, over 7 million Venezuelans have left their country, with Colombia absorbing the most. Drivers include economic collapse, hyperinflation, food and medicine shortages, and political repression. Colombia has granted Temporary Protection Status to over 2 million Venezuelans. Many cross the border at C\u00facuta, creating one of the most active land border crossings in the Americas.",
+  "geojson": "venezuela-colombia.geojson"
+}

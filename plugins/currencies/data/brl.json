@@ -1,0 +1,16 @@
+{
+  "code": "brl",
+  "name": "Brazilian Real",
+  "isoCode": "BRL",
+  "symbol": "R$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Brazil",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Brazil"
+  ],
+  "countryCount": 1,
+  "description": "The Brazilian Real is the most traded currency in Latin America. Brazil's economy is the largest in South America and among the top ten globally.",
+  "historicalNotes": "Brazil has had multiple currencies due to inflation. The real was introduced in 1994 as part of the Plano Real economic stabilization plan, which successfully curbed hyperinflation.",
+  "geojson": "brl.geojson"
+}

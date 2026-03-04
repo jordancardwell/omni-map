@@ -1,0 +1,23 @@
+{
+  "code": "smw4-sea-me-we-4",
+  "name": "SMW4 (SEA-ME-WE 4)",
+  "capacityTbps": 1.28,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 18800,
+  "yearLaid": 2005,
+  "rfsDate": "2005-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Marseille, France",
+    "Palermo, Italy",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Djibouti, Djibouti",
+    "Mumbai, India",
+    "Colombo, Sri Lanka",
+    "Chennai, India",
+    "Singapore"
+  ],
+  "description": "SEA-ME-WE 4 linking Europe, Middle East and Asia.",
+  "geojson": "smw4-sea-me-we-4.geojson"
+}

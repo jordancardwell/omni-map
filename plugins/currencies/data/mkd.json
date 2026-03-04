@@ -1,0 +1,16 @@
+{
+  "code": "mkd",
+  "name": "Macedonian Denar",
+  "isoCode": "MKD",
+  "symbol": "ден",
+  "region": "Europe",
+  "centralBank": "National Bank of North Macedonia",
+  "exchangeRateEra": "De facto peg to EUR",
+  "countries": [
+    "North Macedonia"
+  ],
+  "countryCount": 1,
+  "description": "The Macedonian Denar is named after the ancient Roman denarius coin. North Macedonia is a candidate for EU membership.",
+  "historicalNotes": "Introduced in 1992 when North Macedonia declared independence from Yugoslavia.",
+  "geojson": "mkd.geojson"
+}

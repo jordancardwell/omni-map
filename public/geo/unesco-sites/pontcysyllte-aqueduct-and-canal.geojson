@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0877777778,
+          52.9702777778
+        ]
+      },
+      "properties": {
+        "code": "pontcysyllte-aqueduct-and-canal",
+        "name": "Pontcysyllte Aqueduct and Canal",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

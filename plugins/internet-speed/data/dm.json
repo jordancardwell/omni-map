@@ -1,0 +1,17 @@
+{
+  "code": "dm",
+  "name": "Dominica",
+  "avgDownloadMbps": 22.4,
+  "avgUploadMbps": 8.2,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 16.2,
+  "mobileUploadMbps": 3.6,
+  "fixedDownloadMbps": 22.4,
+  "fixedUploadMbps": 8.2,
+  "rank": 108,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Small Caribbean market. ~12% year-over-year growth.",
+  "geojson": "dm.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "kyd",
+  "name": "Cayman Islands Dollar",
+  "isoCode": "KYD",
+  "symbol": "CI$",
+  "region": "Americas",
+  "centralBank": "Cayman Islands Monetary Authority",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Cayman Islands"
+  ],
+  "countryCount": 1,
+  "description": "The Cayman Islands Dollar is pegged to the US Dollar. The Cayman Islands are one of the world's largest offshore financial centers.",
+  "historicalNotes": "Introduced in 1972, replacing the Jamaican dollar. The Cayman Islands have no direct taxation.",
+  "geojson": "kyd.geojson"
+}

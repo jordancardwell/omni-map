@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4188888889,
+          53.6241666667
+        ]
+      },
+      "properties": {
+        "code": "schwerin-residence-ensemble",
+        "name": "Schwerin Residence Ensemble",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

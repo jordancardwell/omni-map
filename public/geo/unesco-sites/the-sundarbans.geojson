@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.18333,
+          21.95
+        ]
+      },
+      "properties": {
+        "code": "the-sundarbans",
+        "name": "The Sundarbans",
+        "type": "Natural",
+        "country": "Bangladesh",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

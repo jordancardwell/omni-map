@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.05,
+          -28.25
+        ]
+      },
+      "properties": {
+        "code": "gondwana-rainforests-of-australia",
+        "name": "Gondwana Rainforests of Australia",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

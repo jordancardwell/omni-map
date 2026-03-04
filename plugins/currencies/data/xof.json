@@ -1,0 +1,23 @@
+{
+  "code": "xof",
+  "name": "West African CFA Franc",
+  "isoCode": "XOF",
+  "symbol": "CFA",
+  "region": "Africa",
+  "centralBank": "Central Bank of West African States (BCEAO)",
+  "exchangeRateEra": "Pegged to EUR",
+  "countries": [
+    "Benin",
+    "Burkina Faso",
+    "Côte d'Ivoire",
+    "Guinea-Bissau",
+    "Mali",
+    "Niger",
+    "Senegal",
+    "Togo"
+  ],
+  "countryCount": 8,
+  "description": "The West African CFA Franc is shared by eight West African nations and is guaranteed by the French Treasury at a fixed rate to the Euro.",
+  "historicalNotes": "Created in 1945 as the 'Franc of the French Colonies of Africa'. The CFA arrangement has been controversial, with critics arguing it limits monetary sovereignty. Plans for a new currency called the 'Eco' have been discussed.",
+  "geojson": "xof.geojson"
+}

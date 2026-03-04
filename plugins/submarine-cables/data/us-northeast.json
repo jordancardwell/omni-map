@@ -1,0 +1,16 @@
+{
+  "code": "us-northeast",
+  "name": "US Northeast",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 861,
+  "yearLaid": 2012,
+  "rfsDate": "2022-06",
+  "owner": "Zayo",
+  "landingPoints": [
+    "New York, USA",
+    "Lynn, USA"
+  ],
+  "description": "US Northeast connecting New York to Lynn.",
+  "geojson": "us-northeast.geojson"
+}

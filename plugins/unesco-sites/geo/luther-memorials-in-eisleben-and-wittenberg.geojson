@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65278,
+          51.86472
+        ]
+      },
+      "properties": {
+        "code": "luther-memorials-in-eisleben-and-wittenberg",
+        "name": "Luther Memorials in Eisleben and Wittenberg",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

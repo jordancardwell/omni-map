@@ -1,0 +1,16 @@
+{
+  "code": "centennial-hall-in-wrocaw",
+  "name": "Centennial Hall in Wrocław",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Centennial Hall, a landmark in the history of reinforced concrete architecture, was erected in 1911-1913 by the architect Max Berg as a multi-purpose recreational building, situated in the Exhibition Grounds. In form it is a symmetrical quatrefoil with a vast circular central space that can seat some 6,000 persons. The 23m-high dome is topped with a lantern in steel and glass. The Centennial Hall is a pioneering work of modern engineering and architecture, which exhibits an important interchange of influences in the early 20th century, becoming a key reference in the later development of reinforced concrete structures.",
+  "danger": false,
+  "geojson": "centennial-hall-in-wrocaw.geojson"
+}

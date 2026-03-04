@@ -1,0 +1,29 @@
+{
+  "code": "raga",
+  "name": "Raga (Hindustani Classical)",
+  "region": "Northern India",
+  "traditionFamily": "South Asian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Sitar",
+    "Tabla",
+    "Sarangi",
+    "Tanpura",
+    "Bansuri"
+  ],
+  "keyArtists": [
+    "Ravi Shankar",
+    "Zakir Hussain",
+    "Hariprasad Chaurasia",
+    "Ali Akbar Khan",
+    "Bismillah Khan"
+  ],
+  "description": "Hindustani classical music is the North Indian tradition of Indian classical music based on the raga (melodic framework) and tala (rhythmic cycle) system. Ragas are associated with specific times of day, seasons, and emotions. Performances feature elaborate improvisations (alap, jor, jhala) followed by rhythmic compositions (gat). The tradition traces back to Vedic chanting and the treatise Natyashastra.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Indian Classical",
+      "url": "https://folkways.si.edu/search?query=raga"
+    }
+  ],
+  "geojson": "raga.geojson"
+}

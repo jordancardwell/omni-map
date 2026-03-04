@@ -1,0 +1,18 @@
+{
+  "code": "cdg-dxb",
+  "name": "Paris — Dubai",
+  "airports": [
+    "CDG",
+    "DXB"
+  ],
+  "distanceKm": 5239,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Emirates",
+    "Air France"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CDG–DXB route between Paris and Dubai. Distance: 5,239 km. ~50 weekly flights operated by Emirates, Air France.",
+  "geojson": "cdg-dxb.geojson"
+}

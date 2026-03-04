@@ -1,0 +1,22 @@
+{
+  "code": "vulcano",
+  "name": "Vulcano",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 500,
+  "lastEruption": "1890",
+  "vei": 3,
+  "country": "Italy",
+  "region": "Aeolian Islands",
+  "location": "Aeolian Islands, Italy",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic surges",
+    "Ashfall",
+    "Volcanic gases",
+    "Tsunami"
+  ],
+  "eruptionHistory": "Last erupted 1888-1890. The word 'volcano' itself derives from this island's Latin name Vulcanus. Active fumaroles and hydrothermal vents.",
+  "description": "Vulcano gave its name to all volcanoes. The island has been a natural laboratory for studying volcanic phenomena since Roman times.",
+  "geojson": "vulcano.geojson"
+}

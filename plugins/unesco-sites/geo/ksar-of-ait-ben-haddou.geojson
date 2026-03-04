@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.12889,
+          31.04722
+        ]
+      },
+      "properties": {
+        "code": "ksar-of-ait-ben-haddou",
+        "name": "Ksar of Ait-Ben-Haddou",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

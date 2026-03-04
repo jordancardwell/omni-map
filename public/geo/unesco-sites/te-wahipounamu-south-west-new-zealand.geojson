@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.3196111,
+          -45.03602778
+        ]
+      },
+      "properties": {
+        "code": "te-wahipounamu-south-west-new-zealand",
+        "name": "Te Wahipounamu – South West New Zealand",
+        "type": "Natural",
+        "country": "New Zealand",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

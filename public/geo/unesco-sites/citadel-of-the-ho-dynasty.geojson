@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6047222222,
+          20.0780555556
+        ]
+      },
+      "properties": {
+        "code": "citadel-of-the-ho-dynasty",
+        "name": "Citadel of the Ho Dynasty",
+        "type": "Cultural",
+        "country": "Viet Nam",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

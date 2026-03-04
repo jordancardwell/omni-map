@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"lb","name":"Lebanon","country":"LB","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[35.1,33.1],[35.1,34.7],[36.6,34.7],[36.6,33.1],[35.1,33.1]]]}}]}

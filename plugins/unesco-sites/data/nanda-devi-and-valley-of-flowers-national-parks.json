@@ -1,0 +1,15 @@
+{
+  "code": "nanda-devi-and-valley-of-flowers-national-parks",
+  "name": "Nanda Devi and Valley of Flowers National Parks",
+  "type": "Natural",
+  "country": "India",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Nestled high in West Himalaya, India’s Valley of Flowers National Park is renowned for its meadows of endemic alpine flowers and outstanding natural beauty. This richly diverse area is also home to rare and endangered animals, including the Asiatic black bear, snow leopard, brown bear and blue sheep. The gentle landscape of the Valley of Flowers National Park complements the rugged mountain wilderness of Nanda Devi National Park. Together they encompass a unique transition zone between the mountain ranges of the Zanskar and Great Himalaya, praised by mountaineers and botanists for over a century and in Hindu mythology for much longer.",
+  "danger": false,
+  "geojson": "nanda-devi-and-valley-of-flowers-national-parks.geojson"
+}

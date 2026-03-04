@@ -1,0 +1,16 @@
+{
+  "code": "tmt",
+  "name": "Turkmenistani Manat",
+  "isoCode": "TMT",
+  "symbol": "T",
+  "region": "Asia",
+  "centralBank": "Central Bank of Turkmenistan",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Turkmenistan"
+  ],
+  "countryCount": 1,
+  "description": "The Turkmenistani Manat is the currency of one of the world's most closed economies, rich in natural gas reserves.",
+  "historicalNotes": "The current 'new manat' was introduced in 2009, replacing the old manat at 5,000:1.",
+  "geojson": "tmt.geojson"
+}

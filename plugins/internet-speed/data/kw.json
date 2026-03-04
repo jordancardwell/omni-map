@@ -1,0 +1,17 @@
+{
+  "code": "kw",
+  "name": "Kuwait",
+  "avgDownloadMbps": 76.8,
+  "avgUploadMbps": 12.4,
+  "avgLatencyMs": 11,
+  "mobileDownloadMbps": 42.3,
+  "mobileUploadMbps": 8.6,
+  "fixedDownloadMbps": 76.8,
+  "fixedUploadMbps": 12.4,
+  "rank": 57,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "5G and fiber investments ongoing. ~10% year-over-year growth.",
+  "geojson": "kw.geojson"
+}

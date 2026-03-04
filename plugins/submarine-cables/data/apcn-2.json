@@ -1,0 +1,22 @@
+{
+  "code": "apcn-2",
+  "name": "APCN-2",
+  "capacityTbps": 2.56,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 19000,
+  "yearLaid": 2001,
+  "rfsDate": "2001-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Busan, South Korea",
+    "Taipei, Taiwan",
+    "Manila, Philippines",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "Asia Pacific Cable Network 2 connecting major Asian markets.",
+  "geojson": "apcn-2.geojson"
+}

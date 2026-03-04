@@ -1,0 +1,19 @@
+{
+  "code": "arabian-oryx",
+  "name": "Arabian Oryx",
+  "scientificName": "Oryx leucoryx",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,200 in wild",
+  "populationTrend": "Increasing",
+  "habitatType": "Desert",
+  "threats": [
+    "Poaching",
+    "Habitat loss",
+    "Hybridization",
+    "Drought"
+  ],
+  "conservationEfforts": "Extinct in the wild by 1972, reintroduced from captive herds starting in 1982. Populations established in Oman, Saudi Arabia, Israel, Jordan, and the UAE. First species to return from EW to VU on the IUCN Red List.",
+  "description": "A stunning white antelope adapted to Arabian deserts. It was the first species to be reclassified from Extinct in the Wild back to Vulnerable — a triumph of captive breeding and reintroduction.",
+  "geojson": "arabian-oryx.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "bhangra",
+  "name": "Bhangra",
+  "region": "Punjab, India & Pakistan",
+  "traditionFamily": "South Asian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Dhol",
+    "Tumbi",
+    "Chimta",
+    "Algoza",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Gurdas Maan",
+    "Daler Mehndi",
+    "Alam Lohar",
+    "Jazzy B",
+    "Panjabi MC"
+  ],
+  "description": "Bhangra is a lively music and dance form originating from the Punjab region of India and Pakistan. Originally performed during the Vaisakhi harvest festival, bhangra features the powerful dhol drum, energetic dance movements, and call-and-response singing. In the 1980s-90s, British Punjabi communities created a fusion of traditional bhangra with electronic music that gained global popularity.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Punjabi Music",
+      "url": "https://folkways.si.edu/search?query=punjabi"
+    }
+  ],
+  "geojson": "bhangra.geojson"
+}

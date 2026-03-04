@@ -1,0 +1,32 @@
+{
+  "code": "african",
+  "name": "African Plate",
+  "plateClass": "Major",
+  "crustType": "Mixed",
+  "area": 61.3,
+  "movementDirection": "Northeast",
+  "movementRate": "21–25",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "eurasian",
+    "north-american",
+    "south-american",
+    "antarctic",
+    "indo-australian",
+    "arabian"
+  ],
+  "notableFeatures": [
+    "East African Rift",
+    "Mid-Atlantic Ridge (eastern)",
+    "Atlas Mountains",
+    "Red Sea Rift",
+    "Great Rift Valley"
+  ],
+  "description": "The African Plate encompasses the entire African continent and adjacent ocean floor. It is notable for the East African Rift System — an active continental rift zone where the plate is slowly splitting apart. The northern boundary with the Eurasian Plate has created the Mediterranean Sea and the Atlas Mountains. The Red Sea represents an advanced stage of continental rifting where the Arabian Plate has separated from Africa.",
+  "geologicalHistory": "Africa was at the center of the supercontinent Pangaea and has remained relatively stationary compared to other continents. The East African Rift began forming about 25 million years ago and may eventually split the continent. Africa's collision with Europe created the Alps and is slowly closing the Mediterranean Sea. The separation of Madagascar occurred about 160 million years ago.",
+  "geojson": "african.geojson"
+}

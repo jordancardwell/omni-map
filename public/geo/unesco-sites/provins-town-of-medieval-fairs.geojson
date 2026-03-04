@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.298888889,
+          48.55972222
+        ]
+      },
+      "properties": {
+        "code": "provins-town-of-medieval-fairs",
+        "name": "Provins, Town of Medieval Fairs",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

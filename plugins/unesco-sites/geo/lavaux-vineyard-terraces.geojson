@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7461111111,
+          46.4919444444
+        ]
+      },
+      "properties": {
+        "code": "lavaux-vineyard-terraces",
+        "name": "Lavaux, Vineyard Terraces",
+        "type": "Cultural",
+        "country": "Switzerland",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

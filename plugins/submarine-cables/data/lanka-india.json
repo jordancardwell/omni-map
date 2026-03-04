@@ -1,0 +1,16 @@
+{
+  "code": "lanka-india",
+  "name": "Lanka-India",
+  "capacityTbps": 1.28,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 300,
+  "yearLaid": 2006,
+  "rfsDate": "2006-12",
+  "owner": "Lanka Bell",
+  "landingPoints": [
+    "Chennai, India",
+    "Colombo, Sri Lanka"
+  ],
+  "description": "Short cable connecting India and Sri Lanka.",
+  "geojson": "lanka-india.geojson"
+}

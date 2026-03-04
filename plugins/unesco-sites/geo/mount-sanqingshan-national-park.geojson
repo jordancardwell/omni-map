@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0644444444,
+          28.9158333333
+        ]
+      },
+      "properties": {
+        "code": "mount-sanqingshan-national-park",
+        "name": "Mount Sanqingshan National Park",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "semana-santa-seville",
+  "name": "Semana Santa (Seville)",
+  "festivalType": "Religious",
+  "dateOrSeason": "March–April (Holy Week)",
+  "origin": "Catholic tradition",
+  "estimatedAttendance": "1+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Elaborate paso (float) processions with religious statues; hooded penitent brotherhoods (nazarenos); saetas (devotional songs); incense.",
+  "historicalBackground": "Seville's Semana Santa dates to the 16th century when religious brotherhoods began organizing elaborate processions through the city's medieval streets.",
+  "description": "Spain's most famous Holy Week celebration, featuring hauntingly beautiful processions of religious brotherhoods through Seville's historic streets.",
+  "location": "Seville, Spain",
+  "geojson": "semana-santa-seville.geojson"
+}

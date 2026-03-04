@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.0883333,
+          -31.56555556
+        ]
+      },
+      "properties": {
+        "code": "lord-howe-island-group",
+        "name": "Lord Howe Island Group",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

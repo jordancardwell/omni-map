@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0341666667,
+          44.0258333333
+        ]
+      },
+      "properties": {
+        "code": "cold-winter-deserts-of-turan",
+        "name": "Cold Winter Deserts of Turan",
+        "type": "Natural",
+        "country": "Kazakhstan, Uzbekistan, Turkmenistan",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

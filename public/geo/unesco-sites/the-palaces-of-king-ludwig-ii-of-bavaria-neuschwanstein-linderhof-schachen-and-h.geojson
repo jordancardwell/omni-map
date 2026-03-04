@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7494444444,
+          47.5575
+        ]
+      },
+      "properties": {
+        "code": "the-palaces-of-king-ludwig-ii-of-bavaria-neuschwanstein-linderhof-schachen-and-h",
+        "name": "The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

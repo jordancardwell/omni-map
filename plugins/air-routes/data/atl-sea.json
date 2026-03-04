@@ -1,0 +1,18 @@
+{
+  "code": "atl-sea",
+  "name": "Atlanta — Seattle",
+  "airports": [
+    "ATL",
+    "SEA"
+  ],
+  "distanceKm": 3505,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Delta",
+    "Alaska"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–SEA route between Atlanta and Seattle. Distance: 3,505 km. ~50 weekly flights operated by Delta, Alaska.",
+  "geojson": "atl-sea.geojson"
+}

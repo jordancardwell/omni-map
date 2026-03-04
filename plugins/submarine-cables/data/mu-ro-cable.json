@@ -1,0 +1,16 @@
+{
+  "code": "mu-ro-cable",
+  "name": "MU-RO Cable",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2209,
+  "yearLaid": 2021,
+  "rfsDate": "2011-06",
+  "owner": "Mauritius Telecom",
+  "landingPoints": [
+    "Port Louis, Mauritius",
+    "Rodrigues, Mauritius"
+  ],
+  "description": "MU-RO Cable connecting Port Louis to Rodrigues in East Africa/Indian Ocean.",
+  "geojson": "mu-ro-cable.geojson"
+}

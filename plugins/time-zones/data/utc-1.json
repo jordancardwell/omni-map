@@ -1,0 +1,22 @@
+{
+  "code": "utc-1",
+  "name": "Azores Standard Time",
+  "nativeName": "UTC-01:00",
+  "utcOffset": "UTC-01:00",
+  "utcOffsetHours": -1,
+  "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+  "ianaNames": [
+    "Atlantic/Azores",
+    "Atlantic/Cape_Verde"
+  ],
+  "countries": [
+    "Portugal (Azores)",
+    "Cape Verde"
+  ],
+  "dstRules": "Azores observe DST (UTC±0 in summer); Cape Verde does not",
+  "description": "Covers the Azores archipelago in the mid-Atlantic and the Cape Verde islands off West Africa. The Azores serve as a crucial waypoint for transatlantic travel and are known for their volcanic landscapes and mild maritime climate.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-1.geojson"
+}

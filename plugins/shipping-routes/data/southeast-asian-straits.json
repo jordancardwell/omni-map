@@ -1,0 +1,8 @@
+{
+  "code": "southeast-asian-straits",
+  "name": "Southeast Asian Straits",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Network of strategic straits (Malacca, Sunda, Lombok, Makassar) connecting the Indian and Pacific Oceans through the Indonesian archipelago. Alternative routes when Malacca is congested.",
+  "geojson": "southeast-asian-straits.geojson"
+}

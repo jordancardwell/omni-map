@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6054,19.4756]},"properties":{"code":"mauna-loa","name":"Mauna Loa","volcanoType":"Shield volcano","status":"Erupting/Recent","elevation":4169,"lastEruption":"2022","vei":0}}]}

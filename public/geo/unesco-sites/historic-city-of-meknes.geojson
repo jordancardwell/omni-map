@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.55833,
+          33.88333
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-meknes",
+        "name": "Historic City of Meknes",
+        "type": "Cultural",
+        "country": "Morocco",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

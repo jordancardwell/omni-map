@@ -1,0 +1,17 @@
+{
+  "code": "medina-of-marrakesh",
+  "name": "Medina of Marrakesh",
+  "type": "Cultural",
+  "country": "Morocco",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Founded in 1070–72 by the Almoravids, Marrakesh remained a political, economic and cultural centre for a long period. Its influence was felt throughout the western Muslim world, from North Africa to Andalusia. It has several impressive monuments dating from that period: the Koutoubiya Mosque, the Kasbah, the battlements, monumental doors, gardens, etc. Later architectural jewels include the Bandiâ Palace, the Ben Youssef Madrasa, the Saadian Tombs, several great residences and Place Jamaâ El Fna, a veritable open-air theatre.",
+  "danger": false,
+  "geojson": "medina-of-marrakesh.geojson"
+}

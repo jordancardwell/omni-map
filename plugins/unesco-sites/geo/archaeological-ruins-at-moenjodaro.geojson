@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.13888889,
+          27.32916667
+        ]
+      },
+      "properties": {
+        "code": "archaeological-ruins-at-moenjodaro",
+        "name": "Archaeological Ruins at Moenjodaro",
+        "type": "Cultural",
+        "country": "Pakistan",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

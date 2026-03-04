@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.766,
+          7.433
+        ]
+      },
+      "properties": {
+        "code": "coiba-national-park-and-its-special-zone-of-marine-protection",
+        "name": "Coiba National Park and its Special Zone of Marine Protection",
+        "type": "Natural",
+        "country": "Panama",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

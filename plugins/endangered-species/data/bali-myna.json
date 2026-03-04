@@ -1,0 +1,18 @@
+{
+  "code": "bali-myna",
+  "name": "Bali Myna",
+  "scientificName": "Leucopsar rothschildi",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~100 in wild",
+  "populationTrend": "Increasing",
+  "habitatType": "Dry lowland forest and savanna",
+  "threats": [
+    "Illegal trapping for cage bird trade",
+    "Habitat loss",
+    "Small range"
+  ],
+  "conservationEfforts": "West Bali National Park breeding facility. Community-based release programs. Temple release programs have boosted wild numbers. Friend of the National Parks Foundation releases captive-bred birds.",
+  "description": "One of the rarest birds in the world, with brilliant white plumage and a bright blue eye patch. Endemic to Bali, Indonesia, it was nearly driven extinct by the cage bird trade.",
+  "geojson": "bali-myna.geojson"
+}

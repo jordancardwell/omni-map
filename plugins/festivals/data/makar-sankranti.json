@@ -1,0 +1,14 @@
+{
+  "code": "makar-sankranti",
+  "name": "Makar Sankranti",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "January 14–15",
+  "origin": "Hindu tradition",
+  "estimatedAttendance": "Hundreds of millions across India",
+  "unescoICH": "Not inscribed",
+  "traditions": "Kite flying festivals; sesame and jaggery sweets (tilgul); holy river bathing; bonfires; Pongal rice offerings in South India.",
+  "historicalBackground": "Makar Sankranti marks the sun's transition into Capricorn (Makara), signaling longer days. It's one of the few Hindu festivals following the solar calendar.",
+  "description": "India's great kite-flying harvest festival, marking the sun's northward journey with colorful skies, river bathing, and sesame sweets.",
+  "location": "Pune, India",
+  "geojson": "makar-sankranti.geojson"
+}

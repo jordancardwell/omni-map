@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6333333333,
+          49.075
+        ]
+      },
+      "properties": {
+        "code": "writing-on-stone-aisinaipi",
+        "name": "Writing-on-Stone / Áísínai’pi",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

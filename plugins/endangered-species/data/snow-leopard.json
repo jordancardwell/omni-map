@@ -1,0 +1,19 @@
+{
+  "code": "snow-leopard",
+  "name": "Snow Leopard",
+  "scientificName": "Panthera uncia",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~4,000-6,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Alpine and subalpine zones",
+  "threats": [
+    "Habitat loss",
+    "Poaching",
+    "Retaliatory killing",
+    "Climate change"
+  ],
+  "conservationEfforts": "Snow Leopard Trust works with herding communities. GSLEP (Global Snow Leopard and Ecosystem Protection) program coordinates 12 range countries.",
+  "description": "The ghost of the mountains, snow leopards inhabit high-altitude regions across Central Asia. Their thick fur and long tail provide warmth and balance on steep rocky terrain.",
+  "geojson": "snow-leopard.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "pa",
+  "name": "Panama",
+  "avgDownloadMbps": 66.8,
+  "avgUploadMbps": 18.4,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 28.4,
+  "mobileUploadMbps": 6.2,
+  "fixedDownloadMbps": 66.8,
+  "fixedUploadMbps": 18.4,
+  "rank": 62,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Central America",
+  "dataYear": 2024,
+  "trendDescription": "Hub city with good connectivity. ~10% year-over-year growth.",
+  "geojson": "pa.geojson"
+}

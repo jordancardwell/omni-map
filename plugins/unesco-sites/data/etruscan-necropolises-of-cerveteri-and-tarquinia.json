@@ -1,0 +1,16 @@
+{
+  "code": "etruscan-necropolises-of-cerveteri-and-tarquinia",
+  "name": "Etruscan Necropolises of Cerveteri and Tarquinia",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "These two large Etruscan cemeteries reflect different types of burial practices from the 9th to the 1st century BC, and bear witness to the achievements of Etruscan culture. Which over nine centuries developed the earliest urban civilization in the northern Mediterranean. Some of the tombs are monumental, cut in rock and topped by impressive tumuli (burial mounds). Many feature carvings on their walls, others have wall paintings of outstanding quality. The necropolis near Cerveteri, known as Banditaccia, contains thousands of tombs organized in a city-like plan, with streets, small squares and neighbourhoods. The site contains very different types of tombs: trenches cut in rock; tumuli; and some, also carved in rock, in the shape of huts or houses with a wealth of structural details. These provide the only surviving evidence of Etruscan residential architecture. The necropolis of Tarquinia, also known as Monterozzi, contains 6,000 graves cut in the rock. It is famous for its 200 painted tombs, the earliest of which date from the 7th century BC.",
+  "danger": false,
+  "geojson": "etruscan-necropolises-of-cerveteri-and-tarquinia.geojson"
+}

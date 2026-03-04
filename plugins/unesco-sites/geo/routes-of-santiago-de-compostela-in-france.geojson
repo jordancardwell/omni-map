@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3489166667,
+          48.8579722222
+        ]
+      },
+      "properties": {
+        "code": "routes-of-santiago-de-compostela-in-france",
+        "name": "Routes of Santiago de Compostela in France",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

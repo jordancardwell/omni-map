@@ -1,0 +1,17 @@
+{
+  "code": "tw",
+  "name": "Taiwan",
+  "avgDownloadMbps": 96.4,
+  "avgUploadMbps": 48.2,
+  "avgLatencyMs": 10,
+  "mobileDownloadMbps": 58.6,
+  "mobileUploadMbps": 12.4,
+  "fixedDownloadMbps": 96.4,
+  "fixedUploadMbps": 48.2,
+  "rank": 48,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "Dense fiber and 5G network. ~6% year-over-year growth.",
+  "geojson": "tw.geojson"
+}

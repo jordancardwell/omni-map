@@ -1,0 +1,16 @@
+{
+  "code": "royal-botanic-gardens-kew",
+  "name": "Royal Botanic Gardens, Kew",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This historic landscape garden features elements that illustrate significant periods of the art of gardens from the 18th to the 20th centuries. The gardens house botanic collections (conserved plants, living plants and documents) that have been considerably enriched through the centuries. Since their creation in 1759, the gardens have made a significant and uninterrupted contribution to the study of plant diversity and economic botany.",
+  "danger": false,
+  "geojson": "royal-botanic-gardens-kew.geojson"
+}

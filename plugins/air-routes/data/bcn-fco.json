@@ -1,0 +1,18 @@
+{
+  "code": "bcn-fco",
+  "name": "Barcelona — Rome",
+  "airports": [
+    "BCN",
+    "FCO"
+  ],
+  "distanceKm": 846,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Ryanair",
+    "Vueling"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "BCN–FCO route between Barcelona and Rome. Distance: 846 km. ~80 weekly flights operated by Ryanair, Vueling.",
+  "geojson": "bcn-fco.geojson"
+}

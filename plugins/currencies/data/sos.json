@@ -1,0 +1,16 @@
+{
+  "code": "sos",
+  "name": "Somali Shilling",
+  "isoCode": "SOS",
+  "symbol": "Sh.So.",
+  "region": "Africa",
+  "centralBank": "Central Bank of Somalia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Somalia"
+  ],
+  "countryCount": 1,
+  "description": "The Somali Shilling has been affected by decades of civil conflict. Multiple currencies including US dollars circulate in different regions.",
+  "historicalNotes": "Introduced in 1962. During the civil war, counterfeiting and the absence of central banking led to massive inflation.",
+  "geojson": "sos.geojson"
+}

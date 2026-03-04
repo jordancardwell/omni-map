@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1667,
+          50.4111
+        ]
+      },
+      "properties": {
+        "code": "carnival-binche",
+        "name": "Carnival of Binche",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Shrove Tuesday",
+        "location": "Binche, Belgium"
+      }
+    }
+  ]
+}

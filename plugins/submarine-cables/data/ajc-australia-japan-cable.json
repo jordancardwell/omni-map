@@ -1,0 +1,17 @@
+{
+  "code": "ajc-australia-japan-cable",
+  "name": "AJC (Australia-Japan Cable)",
+  "capacityTbps": 0.64,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 12700,
+  "yearLaid": 2000,
+  "rfsDate": "2001-12",
+  "owner": "Telstra, others",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Guam",
+    "Tokyo, Japan"
+  ],
+  "description": "Australia-Japan Cable system via Guam.",
+  "geojson": "ajc-australia-japan-cable.geojson"
+}

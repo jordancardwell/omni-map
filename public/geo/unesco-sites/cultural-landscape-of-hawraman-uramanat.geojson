@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.47785,
+          35.1073583333
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-hawraman-uramanat",
+        "name": "Cultural Landscape of Hawraman/Uramanat",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

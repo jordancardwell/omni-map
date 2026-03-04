@@ -1,0 +1,15 @@
+{
+  "code": "amazon-arc-of-deforestation",
+  "name": "Amazon Arc of Deforestation",
+  "region": "South America",
+  "riskGroup": "2. High",
+  "riskLevel": "High",
+  "fireFrequency": "High — annual agricultural burning with increasing forest fires",
+  "dominantVegetation": "Tropical rainforest, savanna transition zone",
+  "fireSeasonMonths": "July – October",
+  "areaBurnedAnnual": "~400,000 ha average; 906,000 ha in 2019",
+  "seasonalPattern": "Fire season coincides with the dry season (July–October) and peak deforestation activity. Most fires are set intentionally to clear land for cattle ranching and agriculture, but increasingly escape into standing forest. Drought years — especially during El Niño — see dramatic increases in uncontrolled forest fires.",
+  "historicalFires": ["2019 Amazon Crisis (906K ha)", "2020 Pantanal-Amazon Fires (850K ha)", "2010 Drought Fires (600K ha)", "2005 Record Drought (500K ha)"],
+  "description": "The 'Arc of Deforestation' stretches along the southern and eastern edges of the Amazon rainforest, from Maranhão through Mato Grosso to Rondônia and Acre. This 2,500 km frontier zone sees the highest rates of forest clearing and burning in the Amazon. Fire is used as a cheap tool for land conversion, but climate change and deforestation are creating a dangerous feedback loop — drier forests burn more easily, releasing carbon that drives further warming. Scientists warn that continued burning could push the Amazon past a tipping point into savanna-like conditions.",
+  "geojson": "amazon-arc-of-deforestation.geojson"
+}

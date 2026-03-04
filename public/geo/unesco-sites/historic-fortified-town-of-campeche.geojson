@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.53722,
+          19.84639
+        ]
+      },
+      "properties": {
+        "code": "historic-fortified-town-of-campeche",
+        "name": "Historic Fortified Town of Campeche",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

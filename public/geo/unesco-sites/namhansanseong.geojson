@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1811111111,
+          37.4788888889
+        ]
+      },
+      "properties": {
+        "code": "namhansanseong",
+        "name": "Namhansanseong",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

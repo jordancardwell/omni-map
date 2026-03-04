@@ -1,0 +1,17 @@
+{
+  "code": "canaima-national-park",
+  "name": "Canaima National Park",
+  "type": "Natural",
+  "country": "Venezuela (Bolivarian Republic of)",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape.",
+  "danger": false,
+  "geojson": "canaima-national-park.geojson"
+}

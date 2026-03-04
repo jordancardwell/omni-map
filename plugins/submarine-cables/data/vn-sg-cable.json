@@ -1,0 +1,16 @@
+{
+  "code": "vn-sg-cable",
+  "name": "VN-SG Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 633,
+  "yearLaid": 2020,
+  "rfsDate": "2021-06",
+  "owner": "Viettel",
+  "landingPoints": [
+    "Da Nang, Vietnam",
+    "Singapore"
+  ],
+  "description": "VN-SG Cable connecting Da Nang to Singapore.",
+  "geojson": "vn-sg-cable.geojson"
+}

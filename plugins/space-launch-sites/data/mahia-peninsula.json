@@ -1,0 +1,16 @@
+{
+  "code": "mahia-peninsula",
+  "name": "Rocket Lab LC-1 Pad B",
+  "country": "New Zealand",
+  "operator": "Rocket Lab",
+  "coordinates": "39.2620°S, 177.8645°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Electron missions from second pad",
+    "Increased launch cadence"
+  ],
+  "orbitalInclinationRange": "39°–98°",
+  "location": "Rocket Lab LC-1 Pad B, New Zealand",
+  "description": "Second launch pad at Rocket Lab's New Zealand facility, enabling higher launch frequency. Part of the company's strategy to achieve weekly launch cadence.",
+  "geojson": "mahia-peninsula.geojson"
+}

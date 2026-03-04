@@ -1,0 +1,14 @@
+{
+  "code": "keelung",
+  "name": "Port of Keelung",
+  "country": "Taiwan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 45,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Keelung in Taiwan. Annual cargo throughput: ~45 million tons. Type: Container Port.",
+  "geojson": "keelung.geojson"
+}

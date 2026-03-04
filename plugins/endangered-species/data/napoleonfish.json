@@ -1,0 +1,19 @@
+{
+  "code": "napoleonfish",
+  "name": "Humphead Wrasse",
+  "scientificName": "Cheilinus undulatus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coral reef",
+  "threats": [
+    "Overfishing",
+    "Live reef fish trade",
+    "Cyanide fishing",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "CITES Appendix II listing regulates trade. Marine protected areas. Indonesia and Malaysia have national protections. Live fish trade monitoring.",
+  "description": "The largest member of the wrasse family at 2 meters, named for the prominent hump on adult males' foreheads. They are a luxury food item in Asia, driving overfishing across their range.",
+  "geojson": "napoleonfish.geojson"
+}

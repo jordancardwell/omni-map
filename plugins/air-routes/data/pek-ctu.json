@@ -1,0 +1,19 @@
+{
+  "code": "pek-ctu",
+  "name": "Beijing — Chengdu",
+  "airports": [
+    "PEK",
+    "CTU"
+  ],
+  "distanceKm": 1575,
+  "weeklyFlights": 300,
+  "airlines": [
+    "Air China",
+    "Sichuan Airlines",
+    "China Eastern"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "PEK–CTU route between Beijing and Chengdu. Distance: 1,575 km. ~300 weekly flights operated by Air China, Sichuan Airlines, China Eastern.",
+  "geojson": "pek-ctu.geojson"
+}

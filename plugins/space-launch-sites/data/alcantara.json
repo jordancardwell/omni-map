@@ -1,0 +1,17 @@
+{
+  "code": "alcantara",
+  "name": "Alcantara Launch Center",
+  "country": "Brazil",
+  "operator": "AEB / Brazilian Air Force",
+  "coordinates": "2.3733°S, 44.3964°W",
+  "status": "Active",
+  "notableLaunches": [
+    "VLS-1 attempts",
+    "Sounding rockets",
+    "Planned commercial launches"
+  ],
+  "orbitalInclinationRange": "2°–100°",
+  "location": "Alcantara Launch Center, Brazil",
+  "description": "Brazil's primary launch center in Maranhao state, near the equator. Offers excellent GTO payload performance due to equatorial location. Being developed for commercial launches.",
+  "geojson": "alcantara.geojson"
+}

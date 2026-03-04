@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6947222222,
+          39.7308333333
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-the-serra-de-tramuntana",
+        "name": "Cultural Landscape of the Serra de Tramuntana",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

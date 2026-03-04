@@ -1,0 +1,12 @@
+{
+  "code": "iah",
+  "name": "George Bush Intercontinental",
+  "iataCode": "IAH",
+  "city": "Houston",
+  "country": "United States",
+  "annualPassengers": 35000000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "George Bush Intercontinental (IAH) in Houston, United States. Annual passengers: ~35M. Classification: Regional Hub.",
+  "geojson": "iah.geojson"
+}

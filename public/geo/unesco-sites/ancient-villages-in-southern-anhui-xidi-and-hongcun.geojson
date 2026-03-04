@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9875,
+          29.90444444
+        ]
+      },
+      "properties": {
+        "code": "ancient-villages-in-southern-anhui-xidi-and-hongcun",
+        "name": "Ancient Villages in Southern Anhui – Xidi and Hongcun",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "las-bos",
+  "name": "Las Vegas — Boston",
+  "airports": [
+    "LAS",
+    "BOS"
+  ],
+  "distanceKm": 3822,
+  "weeklyFlights": 25,
+  "airlines": [
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAS–BOS route between Las Vegas and Boston. Distance: 3,822 km. ~25 weekly flights operated by JetBlue.",
+  "geojson": "las-bos.geojson"
+}

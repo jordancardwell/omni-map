@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "ukraine-russia", "name": "Ukraine \u2192 Russia", "migrantVolume": 5}, "geometry": {"type": "LineString", "coordinates": [[32, 50], [35, 52], [38, 54], [42, 55], [48, 56]]}}]}

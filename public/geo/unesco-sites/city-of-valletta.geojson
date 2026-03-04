@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51444,
+          35.90056
+        ]
+      },
+      "properties": {
+        "code": "city-of-valletta",
+        "name": "City of Valletta",
+        "type": "Cultural",
+        "country": "Malta",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

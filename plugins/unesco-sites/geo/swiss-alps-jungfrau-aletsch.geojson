@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0333333333,
+          46.5
+        ]
+      },
+      "properties": {
+        "code": "swiss-alps-jungfrau-aletsch",
+        "name": "Swiss Alps Jungfrau-Aletsch",
+        "type": "Natural",
+        "country": "Switzerland",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

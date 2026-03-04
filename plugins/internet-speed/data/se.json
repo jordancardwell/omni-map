@@ -1,0 +1,17 @@
+{
+  "code": "se",
+  "name": "Sweden",
+  "avgDownloadMbps": 198.6,
+  "avgUploadMbps": 95.2,
+  "avgLatencyMs": 9,
+  "mobileDownloadMbps": 98.7,
+  "mobileUploadMbps": 17.3,
+  "fixedDownloadMbps": 198.6,
+  "fixedUploadMbps": 95.2,
+  "rank": 12,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Well-established broadband infrastructure. ~8% year-over-year growth.",
+  "geojson": "se.geojson"
+}

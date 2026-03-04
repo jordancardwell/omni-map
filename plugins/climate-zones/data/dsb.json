@@ -1,0 +1,16 @@
+{
+  "code": "dsb",
+  "name": "Warm-Summer Continental (Dry Summer)",
+  "group": "D - Continental",
+  "temperatureRange": "Warmest month <22°C; coldest month <0°C",
+  "precipitationPattern": "Dry summers, wet winters with heavy snowfall",
+  "vegetation": "Mountain conifer forest, alpine meadow, mixed woodland",
+  "exampleCities": [
+    "South Lake Tahoe",
+    "Flagstaff",
+    "Sivas (Turkey)"
+  ],
+  "description": "Warm-summer continental climate with dry summers (Dsb) occurs in mountainous regions where altitude creates continental cold winters while maintaining dry summer patterns. Found in the western US mountains and Turkish/Iranian highlands.",
+  "typicalWeather": "Warm but not hot summers (15-22°C) and cold, snowy winters (-5 to -15°C). Summer days are sunny with cool nights. Heavy winter snowpack is critical for water supply. Clear autumn days with rapid cooling.",
+  "geojson": "dsb.geojson"
+}

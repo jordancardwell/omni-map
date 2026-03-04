@@ -1,0 +1,21 @@
+{
+  "code": "mauna-loa-solar",
+  "name": "Mauna Loa Solar Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 3397,
+  "aperture": "0.46 m (K-Cor)",
+  "telescopes": [
+    "K-Cor",
+    "COSMO"
+  ],
+  "keyDiscoveries": [
+    "Solar corona monitoring",
+    "Coronal mass ejection tracking",
+    "Solar wind studies"
+  ],
+  "location": "Mauna Loa Solar Observatory, United States",
+  "description": "HAO/NCAR facility monitoring the solar corona and chromosphere. Provides continuous observations of the Sun crucial for space weather forecasting.",
+  "geojson": "mauna-loa-solar.geojson"
+}

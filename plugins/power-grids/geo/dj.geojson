@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"dj","name":"Djibouti","country":"DJ","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[41.8,10.9],[41.8,12.7],[43.5,12.7],[43.5,10.9],[41.8,10.9]]]}}]}

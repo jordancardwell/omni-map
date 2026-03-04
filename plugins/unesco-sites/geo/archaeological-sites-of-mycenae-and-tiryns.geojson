@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75,
+          37.73333333
+        ]
+      },
+      "properties": {
+        "code": "archaeological-sites-of-mycenae-and-tiryns",
+        "name": "Archaeological Sites of Mycenae and Tiryns",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

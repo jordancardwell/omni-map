@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-riga",
+  "name": "Historic Centre of Riga",
+  "type": "Cultural",
+  "country": "Latvia",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Riga was a major centre of the Hanseatic League, deriving its prosperity in the 13th–15th centuries from the trade with central and eastern Europe. The urban fabric of its medieval centre reflects this prosperity, though most of the earliest buildings were destroyed by fire or war. Riga became an important economic centre in the 19th century, when the suburbs surrounding the medieval town were laid out, first with imposing wooden buildings in neoclassical style and then in Jugendstil . It is generally recognized that Riga has the finest collection of art nouveau buildings in Europe.",
+  "danger": false,
+  "geojson": "historic-centre-of-riga.geojson"
+}

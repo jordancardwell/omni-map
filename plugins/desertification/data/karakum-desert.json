@@ -1,0 +1,24 @@
+{
+  "code": "karakum-desert",
+  "name": "Karakum Desert",
+  "region": "Central Asia",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.05–0.15 — arid continental desert",
+  "area": "350,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 5000000,
+  "affectedCountries": [
+    "Turkmenistan",
+    "Uzbekistan"
+  ],
+  "desertificationDrivers": [
+    "Aral Sea desiccation",
+    "Irrigation diversion",
+    "Salinization",
+    "Overgrazing"
+  ],
+  "desertFrontier": "Expanding toward former Aral Sea basin; new Aralkum Desert forming",
+  "description": "The Karakum covers ~70% of Turkmenistan. The catastrophic shrinkage of the Aral Sea — caused by Soviet-era irrigation diversions from the Amu Darya and Syr Darya rivers — has created the new 'Aralkum' desert on the former seabed, spreading toxic salt and dust across the region. Salinization affects millions of hectares of irrigated farmland.",
+  "geojson": "karakum-desert.geojson"
+}

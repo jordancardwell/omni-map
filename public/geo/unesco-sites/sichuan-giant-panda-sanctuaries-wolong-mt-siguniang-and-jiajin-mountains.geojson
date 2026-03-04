@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0,
+          30.8333333333
+        ]
+      },
+      "properties": {
+        "code": "sichuan-giant-panda-sanctuaries-wolong-mt-siguniang-and-jiajin-mountains",
+        "name": "Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

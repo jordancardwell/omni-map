@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.29306,
+          37.05944
+        ]
+      },
+      "properties": {
+        "code": "syracuse-and-the-rocky-necropolis-of-pantalica",
+        "name": "Syracuse and the Rocky Necropolis of Pantalica",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

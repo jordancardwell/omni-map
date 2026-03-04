@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2655277778,
+          42.6451666667
+        ]
+      },
+      "properties": {
+        "code": "boyana-church",
+        "name": "Boyana Church",
+        "type": "Cultural",
+        "country": "Bulgaria",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

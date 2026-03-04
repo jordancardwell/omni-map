@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9426,
+          64.1466
+        ]
+      },
+      "properties": {
+        "code": "yule-iceland",
+        "name": "Yule (Jól)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "December 12–January 6",
+        "location": "Reykjavik, Iceland"
+      }
+    }
+  ]
+}

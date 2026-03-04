@@ -1,0 +1,16 @@
+{
+  "code": "ga-cg-cable",
+  "name": "GA-CG Cable",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 518,
+  "yearLaid": 2016,
+  "rfsDate": "2018-06",
+  "owner": "MTN",
+  "landingPoints": [
+    "Libreville, Gabon",
+    "Pointe-Noire, Congo"
+  ],
+  "description": "GA-CG Cable connecting Libreville to Pointe-Noire along the West African coast.",
+  "geojson": "ga-cg-cable.geojson"
+}

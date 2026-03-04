@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2930555556,
+          38.0813888889
+        ]
+      },
+      "properties": {
+        "code": "tabriz-historic-bazaar-complex",
+        "name": "Tabriz Historic Bazaar Complex",
+        "type": "Cultural",
+        "country": "Iran (Islamic Republic of)",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

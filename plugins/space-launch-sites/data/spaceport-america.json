@@ -1,0 +1,17 @@
+{
+  "code": "spaceport-america",
+  "name": "Spaceport America",
+  "country": "United States",
+  "operator": "New Mexico Spaceport Authority",
+  "coordinates": "32.9903°N, 106.9750°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Virgin Galactic SpaceShipTwo flights",
+    "UP Aerospace launches",
+    "SpinLaunch tests"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Spaceport America, United States",
+  "description": "The world's first purpose-built commercial spaceport in New Mexico. Home base for Virgin Galactic's suborbital tourism flights. Also hosts UP Aerospace sounding rockets and SpinLaunch testing.",
+  "geojson": "spaceport-america.geojson"
+}

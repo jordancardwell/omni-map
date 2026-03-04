@@ -1,0 +1,16 @@
+{
+  "code": "aec-2",
+  "name": "AEC-2",
+  "capacityTbps": 25,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1100,
+  "yearLaid": 2018,
+  "rfsDate": "2019-04",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Dublin, Ireland",
+    "Katwijk, Netherlands"
+  ],
+  "description": "Direct submarine cable connecting Ireland to the Netherlands.",
+  "geojson": "aec-2.geojson"
+}

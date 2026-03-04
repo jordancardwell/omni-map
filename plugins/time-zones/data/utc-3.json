@@ -1,0 +1,27 @@
+{
+  "code": "utc-3",
+  "name": "Brasília Time",
+  "nativeName": "UTC-03:00",
+  "utcOffset": "UTC-03:00",
+  "utcOffsetHours": -3,
+  "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+  "ianaNames": [
+    "America/Sao_Paulo",
+    "America/Argentina/Buenos_Aires",
+    "America/Montevideo"
+  ],
+  "countries": [
+    "Brazil (eastern)",
+    "Argentina",
+    "Uruguay",
+    "Suriname",
+    "French Guiana",
+    "Greenland (most)"
+  ],
+  "dstRules": "Generally no DST; Greenland observes DST in some areas",
+  "description": "Covers eastern South America including Brazil's most populous regions. São Paulo and Buenos Aires, two of the largest cities in the Southern Hemisphere, operate on this time. Brazil abandoned DST in 2019.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-3.geojson"
+}

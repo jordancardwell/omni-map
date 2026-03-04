@@ -1,0 +1,15 @@
+{
+  "code": "new-york-new-jersey",
+  "name": "Port of New York/New Jersey",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "Panama Canal Route"
+  ],
+  "description": "Port of New York/New Jersey in United States. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+  "geojson": "new-york-new-jersey.geojson"
+}

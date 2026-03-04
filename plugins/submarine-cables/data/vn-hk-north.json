@@ -1,0 +1,16 @@
+{
+  "code": "vn-hk-north",
+  "name": "VN-HK North",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 920,
+  "yearLaid": 2022,
+  "rfsDate": "2017-06",
+  "owner": "VNPT",
+  "landingPoints": [
+    "Hai Phong, Vietnam",
+    "Hong Kong, China"
+  ],
+  "description": "VN-HK North connecting Hai Phong to Hong Kong.",
+  "geojson": "vn-hk-north.geojson"
+}

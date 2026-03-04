@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73667,
+          36.32056
+        ]
+      },
+      "properties": {
+        "code": "djemila",
+        "name": "Djémila",
+        "type": "Cultural",
+        "country": "Algeria",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

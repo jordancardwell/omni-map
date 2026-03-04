@@ -1,0 +1,16 @@
+{
+  "code": "id-java-coast",
+  "name": "ID Java Coast",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2896,
+  "yearLaid": 2013,
+  "rfsDate": "2013-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Jakarta, Indonesia",
+    "Surabaya, Indonesia"
+  ],
+  "description": "ID Java Coast connecting Jakarta to Surabaya.",
+  "geojson": "id-java-coast.geojson"
+}

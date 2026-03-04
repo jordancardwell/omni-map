@@ -1,0 +1,14 @@
+{
+  "code": "landscape-of-grand-pre",
+  "name": "Landscape of Grand Pré",
+  "type": "Cultural",
+  "country": "Canada",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated in the southern Minas Basin of Nova Scotia, the Grand Pré marshland and archaeological sites constitute a cultural landscape bearing testimony to the development of agricultural farmland using dykes and the aboiteau wooden sluice system, started by the Acadians in the 17th century and further developed and maintained by the Planters and present-day inhabitants. Over 1,300 ha, the cultural landscape encompasses a large expanse of polder farmland and archaeological elements of the towns of Grand Pré and Hortonville, which were built by the Acadians and their successors. The landscape is an exceptional example of the adaptation of the first European settlers to the conditions of the North American Atlantic coast. The site – marked by one of the most extreme tidal ranges in the world, averaging 11.6 m – is also inscribed as a memorial to Acadian way of life and deportation, which started in 1755, known as the Grand Dérangement.",
+  "danger": false,
+  "geojson": "landscape-of-grand-pre.geojson"
+}

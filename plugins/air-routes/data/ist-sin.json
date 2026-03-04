@@ -1,0 +1,18 @@
+{
+  "code": "ist-sin",
+  "name": "Istanbul — Singapore",
+  "airports": [
+    "IST",
+    "SIN"
+  ],
+  "distanceKm": 8678,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Turkish Airlines",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IST–SIN route between Istanbul and Singapore. Distance: 8,678 km. ~30 weekly flights operated by Turkish Airlines, Singapore Airlines.",
+  "geojson": "ist-sin.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"doh","name":"Hamad International","featureType":"airport","iataCode":"DOH","annualPassengers":40500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[51.6081,25.2731]}}]}

@@ -1,0 +1,18 @@
+{
+  "code": "ibiza-biodiversity-and-culture",
+  "name": "Ibiza, Biodiversity and Culture",
+  "type": "Mixed",
+  "country": "Spain",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Ibiza provides an excellent example of the interaction between the marine and coastal ecosystems. The dense prairies of oceanic Posidonia (seagrass), an important endemic species found only in the Mediterranean basin, contain and support a diversity of marine life. Ibiza preserves considerable evidence of its long history. The archaeological sites at Sa Caleta (settlement) and Puig des Molins (necropolis) testify to the important role played by the island in the Mediterranean economy in protohistory, particularly during the Phoenician-Carthaginian period. The fortified Upper Town (Alta Vila) is an outstanding example of Renaissance military architecture; it had a profound influence on the development of fortifications in the Spanish settlements of the New World.",
+  "danger": false,
+  "geojson": "ibiza-biodiversity-and-culture.geojson"
+}

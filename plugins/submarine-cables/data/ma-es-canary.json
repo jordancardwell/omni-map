@@ -1,0 +1,16 @@
+{
+  "code": "ma-es-canary",
+  "name": "MA-ES Canary",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1587,
+  "yearLaid": 2015,
+  "rfsDate": "2021-06",
+  "owner": "Maroc Telecom",
+  "landingPoints": [
+    "Casablanca, Morocco",
+    "Las Palmas, Spain"
+  ],
+  "description": "MA-ES Canary connecting Casablanca to Las Palmas along the West African coast.",
+  "geojson": "ma-es-canary.geojson"
+}

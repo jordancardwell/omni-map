@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4101666667,
+          10.4903166667
+        ]
+      },
+      "properties": {
+        "code": "sudanese-style-mosques-in-northern-cote-divoire",
+        "name": "Sudanese style mosques in northern Côte d’Ivoire",
+        "type": "Cultural",
+        "country": "Côte d'Ivoire",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "red-panda",
+  "name": "Red Panda",
+  "scientificName": "Ailurus fulgens",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~10,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Temperate broadleaf and bamboo forest",
+  "threats": [
+    "Habitat loss",
+    "Poaching",
+    "Inbreeding",
+    "Bamboo die-off"
+  ],
+  "conservationEfforts": "Red Panda Network supports community-based conservation in Nepal. Forest guardians program employs local people to protect habitat. Captive breeding programs in over 80 zoos.",
+  "description": "Despite its name, the red panda is not closely related to the giant panda. This cat-sized mammal is the only living member of its family and spends most of its life in trees eating bamboo.",
+  "geojson": "red-panda.geojson"
+}

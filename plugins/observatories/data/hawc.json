@@ -1,0 +1,20 @@
+{
+  "code": "hawc",
+  "name": "HAWC Observatory",
+  "country": "Mexico",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 4100,
+  "aperture": "300 water Cherenkov detectors",
+  "telescopes": [
+    "HAWC"
+  ],
+  "keyDiscoveries": [
+    "Extended gamma-ray sources",
+    "Cosmic ray anisotropy",
+    "Multi-TeV gamma-ray sky"
+  ],
+  "location": "HAWC Observatory, Mexico",
+  "description": "High-Altitude Water Cherenkov observatory on the slopes of Sierra Negra volcano. 300 large water tanks detect air showers from gamma rays and cosmic rays 24/7.",
+  "geojson": "hawc.geojson"
+}

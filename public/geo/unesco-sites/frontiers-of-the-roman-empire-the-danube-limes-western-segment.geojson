@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8613888889,
+          48.1151944444
+        ]
+      },
+      "properties": {
+        "code": "frontiers-of-the-roman-empire-the-danube-limes-western-segment",
+        "name": "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
+        "type": "Cultural",
+        "country": "Austria, Slovakia, Germany",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tallinn","name":"Port of Tallinn","featureType":"port","portType":"Multi-Purpose Port","country":"Estonia"},"geometry":{"type":"Point","coordinates":[24.75,59.44]}}]}

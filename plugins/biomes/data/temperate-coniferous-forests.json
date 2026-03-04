@@ -1,0 +1,13 @@
+{
+  "code": "temperate-coniferous-forests",
+  "name": "Temperate Coniferous Forests",
+  "biomeType": "Forest",
+  "areaKm2": 5000000,
+  "keyCharacteristics": "Evergreen conifer-dominated forests with moderate temperatures and high rainfall. Some of the tallest and oldest trees on Earth.",
+  "typicalFlora": ["Douglas fir", "Coast redwood", "Western red cedar", "Sitka spruce", "Giant sequoia", "Hemlock"],
+  "typicalFauna": ["Roosevelt elk", "Spotted owl", "Mountain lion", "Pacific salmon", "Bald eagle", "Marbled murrelet"],
+  "threatLevel": "Moderate",
+  "conservationStatus": "Old-growth stands significantly reduced by logging. Protected areas preserve some of the most iconic forests. Climate change alters fire regimes and pest dynamics.",
+  "description": "Temperate coniferous forests include some of the most impressive forests on Earth, from the towering coast redwoods of California to the ancient temperate rainforests of the Pacific Northwest. They are dominated by evergreen conifers adapted to cooler temperatures.\n\nThese forests receive significant precipitation, often exceeding 2000mm annually in coastal regions, much of it as fog drip. The mild, wet conditions support lush undergrowth of ferns, mosses, and lichens.\n\nFound primarily along the western coast of North America, southern Chile, New Zealand, and parts of Europe and East Asia. They include temperate rainforests, which are among the most productive ecosystems on Earth.",
+  "geojson": "temperate-coniferous-forests.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "archaeological-site-of-leptis-magna",
+  "name": "Archaeological Site of Leptis Magna",
+  "type": "Cultural",
+  "country": "Libya",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts.",
+  "danger": true,
+  "geojson": "archaeological-site-of-leptis-magna.geojson"
+}

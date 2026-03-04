@@ -1,0 +1,14 @@
+{
+  "code": "tower-of-hercules",
+  "name": "Tower of Hercules",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Tower of Hercules has served as a lighthouse and landmark at the entrance of La Coruña harbour in north-western Spain since the late 1st century A.D. when the Romans built the Farum Brigantium. The Tower, built on a 57 metre high rock, rises a further 55 metres, of which 34 metres correspond to the Roman masonry and 21 meters to the restoration directed by architect Eustaquio Giannini in the 18th century, who augmented the Roman core with two octagonal forms. Immediately adjacent to the base of the Tower, is a small rectangular Roman building. The site also features a sculpture park, the Monte dos Bicos rock carvings from the Iron Age and a Muslim cemetery. The Roman foundations of the building were revealed in excavations conducted in the 1990s. Many legends from the Middle Ages to the 19th century surround the Tower of Hercules, which is unique as it is the only lighthouse of Greco-Roman antiquity to have retained a measure of structural integrity and functional continuity.",
+  "danger": false,
+  "geojson": "tower-of-hercules.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "den-las",
+  "name": "Denver — Las Vegas",
+  "airports": [
+    "DEN",
+    "LAS"
+  ],
+  "distanceKm": 1009,
+  "weeklyFlights": 90,
+  "airlines": [
+    "United",
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–LAS route between Denver and Las Vegas. Distance: 1,009 km. ~90 weekly flights operated by United, Southwest, Spirit.",
+  "geojson": "den-las.geojson"
+}

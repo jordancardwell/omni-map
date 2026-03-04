@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.67777778,
+          32.37944444
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-st-george-and-related-fortifications-bermuda",
+        "name": "Historic Town of St George and Related Fortifications, Bermuda",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

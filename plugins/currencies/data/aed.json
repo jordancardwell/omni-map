@@ -1,0 +1,16 @@
+{
+  "code": "aed",
+  "name": "UAE Dirham",
+  "isoCode": "AED",
+  "symbol": "د.إ",
+  "region": "Middle East",
+  "centralBank": "Central Bank of the UAE",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "United Arab Emirates"
+  ],
+  "countryCount": 1,
+  "description": "The UAE Dirham has been pegged to the US Dollar since 1997. The UAE has diversified its economy beyond oil into tourism, finance, and logistics.",
+  "historicalNotes": "Introduced in 1973, replacing the Bahraini dinar (in Abu Dhabi) and the Qatar and Dubai riyal. The UAE has become a global financial hub, particularly Dubai.",
+  "geojson": "aed.geojson"
+}

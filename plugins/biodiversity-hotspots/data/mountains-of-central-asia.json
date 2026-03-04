@@ -1,0 +1,29 @@
+{
+  "code": "mountains-of-central-asia",
+  "name": "Mountains of Central Asia",
+  "location": "Central Asia (Kyrgyzstan, Tajikistan, China, Kazakhstan, Uzbekistan, Afghanistan)",
+  "areaKm2": 863362,
+  "habitatRemaining": "21.5%",
+  "plantSpecies": 5500,
+  "endemicPlants": 1500,
+  "vertebrateSpecies": 573,
+  "endemicVertebrates": 52,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Snow leopard",
+    "Marco Polo sheep",
+    "Bukhara deer",
+    "Saker falcon",
+    "Wild apple tree"
+  ],
+  "threats": [
+    "Overgrazing",
+    "Mining",
+    "Deforestation",
+    "Climate change",
+    "Poaching"
+  ],
+  "conservationEfforts": "Snow leopard conservation programs span multiple countries. Wild apple forest protection in Kazakhstan's Ile-Alatau National Park. Global Snow Leopard and Ecosystem Protection Program coordinates 12 range countries. Community-based conservation in Kyrgyz and Tajik mountains.",
+  "description": "The Mountains of Central Asia hotspot covers the Tien Shan, Pamir, and associated mountain ranges of Central Asia. These mountains rise dramatically from surrounding deserts and steppes, creating isolated islands of biodiversity.\n\nThe region is globally significant as the origin of many cultivated fruit and nut trees. Wild ancestors of apples, walnuts, plums, and apricots grow in the mountain forests of Kazakhstan and Kyrgyzstan. The fruit and nut forests of the western Tien Shan represent an irreplaceable genetic resource. Snow leopards patrol the highest ridges, while the valleys support distinctive juniper and pistachio woodlands.",
+  "geojson": "mountains-of-central-asia.geojson"
+}

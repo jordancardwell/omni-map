@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.67389,
+          55.65556
+        ]
+      },
+      "properties": {
+        "code": "church-of-the-ascension-kolomenskoye",
+        "name": "Church of the Ascension, Kolomenskoye",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

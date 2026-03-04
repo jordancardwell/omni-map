@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.13278,
+          19.41833
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-mexico-city-and-xochimilco",
+        "name": "Historic Centre of Mexico City and Xochimilco",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

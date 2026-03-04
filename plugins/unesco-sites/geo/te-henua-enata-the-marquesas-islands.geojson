@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.6460475,
+          -7.9698944444
+        ]
+      },
+      "properties": {
+        "code": "te-henua-enata-the-marquesas-islands",
+        "name": "Te Henua Enata – The Marquesas Islands",
+        "type": "Mixed",
+        "country": "France",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

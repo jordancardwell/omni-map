@@ -1,0 +1,15 @@
+{
+  "code": "callao",
+  "name": "Port of Callao",
+  "country": "Peru",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West Coast Americas Route",
+    "Trans-Pacific Southern Route"
+  ],
+  "description": "Port of Callao in Peru. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "callao.geojson"
+}

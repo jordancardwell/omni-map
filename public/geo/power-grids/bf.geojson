@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bf","name":"Burkina Faso","country":"BF","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-5.5,9.4],[-5.5,15.1],[2.4,15.1],[2.4,9.4],[-5.5,9.4]]]}}]}

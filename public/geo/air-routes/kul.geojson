@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"kul","name":"Kuala Lumpur International","featureType":"airport","iataCode":"KUL","annualPassengers":41500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[101.7072,2.7456]}}]}

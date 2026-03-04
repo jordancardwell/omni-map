@@ -1,0 +1,16 @@
+{
+  "code": "jp-ph-direct",
+  "name": "JP-PH Direct",
+  "capacityTbps": 56,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 12593,
+  "yearLaid": 2011,
+  "rfsDate": "2023-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Manila, Philippines"
+  ],
+  "description": "JP-PH Direct connecting Tokyo to Manila.",
+  "geojson": "jp-ph-direct.geojson"
+}

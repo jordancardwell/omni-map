@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6333,
+          -23.5505
+        ]
+      },
+      "properties": {
+        "code": "festa-junina",
+        "name": "Festa Junina",
+        "festivalType": "Cultural",
+        "dateOrSeason": "June",
+        "location": "São Paulo, Brazil"
+      }
+    }
+  ]
+}

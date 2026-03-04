@@ -1,0 +1,15 @@
+{
+  "code": "yangtze-basin",
+  "name": "Yangtze Basin",
+  "region": "East Asia",
+  "stressGroup": "2. Low-Medium (10-20%)",
+  "waterStressLevel": "Low-Medium",
+  "waterStressRatio": "~18% — withdrawal-to-availability",
+  "depletionRate": "Low-Moderate — glacier retreat reducing dry-season base flow",
+  "droughtRisk": "Moderate",
+  "seasonalVariability": "High",
+  "affectedPopulation": 400000000,
+  "riskFactors": ["Glacier retreat", "Industrial pollution", "Three Gorges impacts", "Urbanization"],
+  "description": "The Yangtze is China's longest river, supporting over 400 million people and one-third of China's GDP. While overall water availability is high, the 2022 drought — the worst in 60 years — caused hydropower shortfalls and exposed Poyang Lake bed. Tibetan glacier retreat threatens long-term dry-season base flows.",
+  "geojson": "yangtze-basin.geojson"
+}

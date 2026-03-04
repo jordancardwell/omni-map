@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8166667,
+          -7.4
+        ]
+      },
+      "properties": {
+        "code": "sangiran-early-man-site",
+        "name": "Sangiran Early Man Site",
+        "type": "Cultural",
+        "country": "Indonesia",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

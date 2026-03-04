@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.70012,
+          40.65645
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-avila-with-its-extra-muros-churches",
+        "name": "Old Town of Ávila with its Extra-Muros Churches",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

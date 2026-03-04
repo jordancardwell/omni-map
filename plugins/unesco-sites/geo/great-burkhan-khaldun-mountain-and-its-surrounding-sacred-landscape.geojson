@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.0093277778,
+          48.7619777778
+        ]
+      },
+      "properties": {
+        "code": "great-burkhan-khaldun-mountain-and-its-surrounding-sacred-landscape",
+        "name": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
+        "type": "Cultural",
+        "country": "Mongolia",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4254444444,
+          49.9302222222
+        ]
+      },
+      "properties": {
+        "code": "landscapes-of-dauria",
+        "name": "Landscapes of Dauria",
+        "type": "Natural",
+        "country": "Mongolia, Russian Federation",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

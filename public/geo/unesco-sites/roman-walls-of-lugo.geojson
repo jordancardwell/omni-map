@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5530699413,
+          43.0106407944
+        ]
+      },
+      "properties": {
+        "code": "roman-walls-of-lugo",
+        "name": "Roman Walls of Lugo",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

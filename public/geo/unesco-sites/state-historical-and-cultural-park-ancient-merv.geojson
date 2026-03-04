@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1775,
+          37.70083
+        ]
+      },
+      "properties": {
+        "code": "state-historical-and-cultural-park-ancient-merv",
+        "name": "State Historical and Cultural Park “Ancient Merv”",
+        "type": "Cultural",
+        "country": "Turkmenistan",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

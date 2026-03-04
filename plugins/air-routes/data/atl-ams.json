@@ -1,0 +1,18 @@
+{
+  "code": "atl-ams",
+  "name": "Atlanta — Amsterdam",
+  "airports": [
+    "ATL",
+    "AMS"
+  ],
+  "distanceKm": 7066,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "ATL–AMS route between Atlanta and Amsterdam. Distance: 7,066 km. ~40 weekly flights operated by Delta, KLM.",
+  "geojson": "atl-ams.geojson"
+}

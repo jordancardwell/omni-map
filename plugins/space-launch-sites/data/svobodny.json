@@ -1,0 +1,16 @@
+{
+  "code": "svobodny",
+  "name": "Svobodny Cosmodrome",
+  "country": "Russia",
+  "operator": "Russian Strategic Rocket Forces",
+  "coordinates": "51.7000°N, 128.0000°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "Start-1 rockets",
+    "Early Russian commercial launches"
+  ],
+  "orbitalInclinationRange": "51°–98°",
+  "location": "Svobodny Cosmodrome, Russia",
+  "description": "Former Russian launch facility near Tsiolkovsky in the Amur Oblast. Operated from 1996-2007 as a stopgap before Vostochny was built. Used converted ICBMs for satellite launches.",
+  "geojson": "svobodny.geojson"
+}

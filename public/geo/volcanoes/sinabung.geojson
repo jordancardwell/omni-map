@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[98.392,3.17]},"properties":{"code":"sinabung","name":"Mount Sinabung","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2460,"lastEruption":"2021","vei":4}}]}

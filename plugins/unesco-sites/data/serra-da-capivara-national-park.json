@@ -1,0 +1,14 @@
+{
+  "code": "serra-da-capivara-national-park",
+  "name": "Serra da Capivara National Park",
+  "type": "Cultural",
+  "country": "Brazil",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Many of the numerous rock shelters in the Serra da Capivara National Park are decorated with cave paintings, some more than 25,000 years old. They are an outstanding testimony to one of the oldest human communities of South America.",
+  "danger": false,
+  "geojson": "serra-da-capivara-national-park.geojson"
+}

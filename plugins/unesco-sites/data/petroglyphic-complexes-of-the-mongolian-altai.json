@@ -1,0 +1,14 @@
+{
+  "code": "petroglyphic-complexes-of-the-mongolian-altai",
+  "name": "Petroglyphic Complexes of the Mongolian Altai",
+  "type": "Cultural",
+  "country": "Mongolia",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The numerous rock carvings and funerary monuments found in these three sites illustrate the development of culture in Mongolia over a period of 12,000 years. The earliest images reflect a time (11,000 - 6,000 BC) when the area was partly forested and the valley provided a habitat for hunters of large game. Later images show the transition to herding as the dominant way of life. The most recent images show the transition to a horse-dependent nomadic lifestyle during the early 1st millennium BC, the Scythian period and the later Turkic period (7th and 8th centuries AD). The carvings contribute valuably to our understanding of pre-historic communities in northern Asia.",
+  "danger": false,
+  "geojson": "petroglyphic-complexes-of-the-mongolian-altai.geojson"
+}

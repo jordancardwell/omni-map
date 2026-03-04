@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.648,
+          0.113
+        ]
+      },
+      "properties": {
+        "code": "ivindo-national-park",
+        "name": "Ivindo National Park",
+        "type": "Natural",
+        "country": "Gabon",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

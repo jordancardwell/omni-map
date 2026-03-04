@@ -1,0 +1,17 @@
+{
+  "code": "gw",
+  "name": "Guinea-Bissau",
+  "avgDownloadMbps": 4.2,
+  "avgUploadMbps": 1.2,
+  "avgLatencyMs": 54,
+  "mobileDownloadMbps": 5.8,
+  "mobileUploadMbps": 1.4,
+  "fixedDownloadMbps": 4.2,
+  "fixedUploadMbps": 1.2,
+  "rank": 185,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Very limited infrastructure. ~10% year-over-year growth.",
+  "geojson": "gw.geojson"
+}

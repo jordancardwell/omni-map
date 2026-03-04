@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"fi","name":"Finland","country":"FI","speedTier":"Fast (75–150 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[20.6,59.8],[20.6,70.1],[31.6,70.1],[31.6,59.8],[20.6,59.8]]]}}]}

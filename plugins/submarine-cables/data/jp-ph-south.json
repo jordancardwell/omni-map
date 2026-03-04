@@ -1,0 +1,16 @@
+{
+  "code": "jp-ph-south",
+  "name": "JP-PH South",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4158,
+  "yearLaid": 2020,
+  "rfsDate": "2017-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Naha, Japan",
+    "Manila, Philippines"
+  ],
+  "description": "JP-PH South connecting Naha to Manila in the Pacific.",
+  "geojson": "jp-ph-south.geojson"
+}

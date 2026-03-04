@@ -1,0 +1,12 @@
+{
+  "code": "bcn",
+  "name": "Barcelona-El Prat",
+  "iataCode": "BCN",
+  "city": "Barcelona",
+  "country": "Spain",
+  "annualPassengers": 47500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Barcelona-El Prat (BCN) in Barcelona, Spain. Annual passengers: ~47.5M. Classification: International Hub.",
+  "geojson": "bcn.geojson"
+}

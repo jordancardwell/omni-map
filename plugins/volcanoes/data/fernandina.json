@@ -1,0 +1,20 @@
+{
+  "code": "fernandina",
+  "name": "La Cumbre (Fernandina)",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1476,
+  "lastEruption": "2024",
+  "vei": 2,
+  "country": "Ecuador",
+  "region": "Galápagos",
+  "location": "Galápagos, Ecuador",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Caldera collapse"
+  ],
+  "eruptionHistory": "The most active volcano in the Galápagos. Erupts every few years with effusive lava flows. The 1968 eruption caused dramatic caldera collapse.",
+  "description": "La Cumbre on Fernandina Island is the most volcanically active of the Galápagos volcanoes and sits on one of the most pristine major islands, home to flightless cormorants and marine iguanas.",
+  "geojson": "fernandina.geojson"
+}

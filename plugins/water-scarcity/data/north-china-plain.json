@@ -1,0 +1,15 @@
+{
+  "code": "north-china-plain",
+  "name": "North China Plain",
+  "region": "East Asia",
+  "stressGroup": "5. Extremely High (>80%)",
+  "waterStressLevel": "Extremely High",
+  "waterStressRatio": "> 85% — withdrawal far exceeds renewable supply",
+  "depletionRate": "Critical — water table dropping 1-3 m/year",
+  "droughtRisk": "Extreme",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 400000000,
+  "riskFactors": ["Groundwater over-pumping", "Land subsidence", "Industrial pollution", "Population pressure", "Food security"],
+  "description": "The North China Plain — including Beijing, Tianjin, and Hebei — holds 400 million people with per-capita water resources one-fifth of the global average. Groundwater levels are falling 1-3 meters annually, causing land subsidence up to 2.5 m in parts of Tianjin. China's South-North Water Transfer Project moves 9.5 billion m³/year northward but covers only a fraction of the deficit. This region produces 60% of China's wheat on rapidly depleting aquifers.",
+  "geojson": "north-china-plain.geojson"
+}

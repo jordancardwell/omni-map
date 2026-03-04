@@ -1,0 +1,15 @@
+{
+  "code": "old-towns-of-djenne",
+  "name": "Old Towns of Djenné",
+  "type": "Cultural",
+  "country": "Mali",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks (toguere) as protection from the seasonal floods.",
+  "danger": true,
+  "geojson": "old-towns-of-djenne.geojson"
+}

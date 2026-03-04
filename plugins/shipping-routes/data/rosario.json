@@ -1,0 +1,14 @@
+{
+  "code": "rosario",
+  "name": "Port of Rosario",
+  "country": "Argentina",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 20,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "River Plate & South Atlantic"
+  ],
+  "description": "Port of Rosario in Argentina. Annual cargo throughput: ~20 million tons. Type: Bulk Port.",
+  "geojson": "rosario.geojson"
+}

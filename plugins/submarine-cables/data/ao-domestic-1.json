@@ -1,0 +1,16 @@
+{
+  "code": "ao-domestic-1",
+  "name": "AO Domestic-1",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 640,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "Angola Cables",
+  "landingPoints": [
+    "Luanda, Angola",
+    "Lobito, Angola"
+  ],
+  "description": "AO Domestic-1 connecting Luanda to Lobito along the West African coast.",
+  "geojson": "ao-domestic-1.geojson"
+}

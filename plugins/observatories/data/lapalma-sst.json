@@ -1,0 +1,20 @@
+{
+  "code": "lapalma-sst",
+  "name": "Swedish 1-m Solar Telescope",
+  "country": "Spain",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2360,
+  "aperture": "1 m",
+  "telescopes": [
+    "SST"
+  ],
+  "keyDiscoveries": [
+    "Solar surface fine structure",
+    "Chromospheric dynamics",
+    "Magnetic flux emergence"
+  ],
+  "location": "Swedish 1-m Solar Telescope, Spain",
+  "description": "A vacuum solar telescope on La Palma achieving diffraction-limited observations through adaptive optics. Produces remarkably detailed solar images.",
+  "geojson": "lapalma-sst.geojson"
+}

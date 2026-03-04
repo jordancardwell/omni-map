@@ -1,0 +1,14 @@
+{
+  "code": "cherry-blossom-dc",
+  "name": "National Cherry Blossom Festival",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Late March–April",
+  "origin": "Japanese-American tradition",
+  "estimatedAttendance": "1.5+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Cherry blossom viewing along the Tidal Basin; parade; kite festival; fireworks; Japanese cultural performances; lantern lighting.",
+  "historicalBackground": "The festival celebrates the 1912 gift of 3,000 cherry trees from Tokyo Mayor Yukio Ozaki to Washington, D.C. as a symbol of friendship.",
+  "description": "Washington D.C.'s annual celebration of the gift of cherry trees from Japan, transforming the Tidal Basin into a pink wonderland.",
+  "location": "Washington D.C., USA",
+  "geojson": "cherry-blossom-dc.geojson"
+}

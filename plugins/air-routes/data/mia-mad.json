@@ -1,0 +1,18 @@
+{
+  "code": "mia-mad",
+  "name": "Miami — Madrid",
+  "airports": [
+    "MIA",
+    "MAD"
+  ],
+  "distanceKm": 7106,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Iberia",
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MIA–MAD route between Miami and Madrid. Distance: 7,106 km. ~40 weekly flights operated by Iberia, American.",
+  "geojson": "mia-mad.geojson"
+}

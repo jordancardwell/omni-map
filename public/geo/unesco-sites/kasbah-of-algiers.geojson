@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.06028,
+          36.78333
+        ]
+      },
+      "properties": {
+        "code": "kasbah-of-algiers",
+        "name": "Kasbah of Algiers",
+        "type": "Cultural",
+        "country": "Algeria",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

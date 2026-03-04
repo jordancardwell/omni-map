@@ -1,0 +1,15 @@
+{
+  "code": "iguazu-national-park",
+  "name": "Iguazu National Park",
+  "type": "Natural",
+  "country": "Argentina",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The semicircular waterfall at the heart of this site is some 80 m high and 2,700 m in diameter and is situated on a basaltic line spanning the border between Argentina and Brazil. Made up of many cascades producing vast sprays of water, it is one of the most spectacular waterfalls in the world. The surrounding subtropical rainforest has over 2,000 species of vascular plants and is home to the typical wildlife of the region: tapirs, giant anteaters, howler monkeys, ocelots, jaguars and caymans.",
+  "danger": false,
+  "geojson": "iguazu-national-park.geojson"
+}

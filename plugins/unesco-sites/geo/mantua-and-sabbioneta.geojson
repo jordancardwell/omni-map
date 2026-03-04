@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7944444444,
+          45.1594444444
+        ]
+      },
+      "properties": {
+        "code": "mantua-and-sabbioneta",
+        "name": "Mantua and Sabbioneta",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

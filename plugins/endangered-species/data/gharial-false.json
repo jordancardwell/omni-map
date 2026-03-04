@@ -1,0 +1,18 @@
+{
+  "code": "gharial-false",
+  "name": "False Gharial",
+  "scientificName": "Tomistoma schlegelii",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~2,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater swamp and river",
+  "threats": [
+    "Habitat loss",
+    "Peat swamp drainage",
+    "Fishing nets"
+  ],
+  "conservationEfforts": "Protected in Indonesian and Malaysian national parks. Research programs study ecology and distribution. Captive breeding at several facilities.",
+  "description": "A large crocodilian with a slender snout, found in Southeast Asian peat swamps and rivers. Despite its name, recent research suggests it may actually be a true gharial relative.",
+  "geojson": "gharial-false.geojson"
+}

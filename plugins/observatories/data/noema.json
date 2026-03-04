@@ -1,0 +1,20 @@
+{
+  "code": "noema",
+  "name": "NOEMA",
+  "country": "France",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 2550,
+  "aperture": "12 × 15 m dishes",
+  "telescopes": [
+    "NOEMA"
+  ],
+  "keyDiscoveries": [
+    "Galaxy evolution at high redshift",
+    "Protoplanetary chemistry",
+    "Molecular gas surveys"
+  ],
+  "location": "NOEMA, France",
+  "description": "IRAM's Northern Extended Millimeter Array on the Plateau de Bure in the French Alps. The most powerful millimeter interferometer in the Northern Hemisphere.",
+  "geojson": "noema.geojson"
+}

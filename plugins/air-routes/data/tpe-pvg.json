@@ -1,0 +1,18 @@
+{
+  "code": "tpe-pvg",
+  "name": "Taipei — Shanghai",
+  "airports": [
+    "TPE",
+    "PVG"
+  ],
+  "distanceKm": 677,
+  "weeklyFlights": 60,
+  "airlines": [
+    "China Airlines",
+    "China Eastern"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "TPE–PVG route between Taipei and Shanghai. Distance: 677 km. ~60 weekly flights operated by China Airlines, China Eastern.",
+  "geojson": "tpe-pvg.geojson"
+}

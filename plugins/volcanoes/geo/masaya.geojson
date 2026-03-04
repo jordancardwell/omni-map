@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.161,11.984]},"properties":{"code":"masaya","name":"Masaya","volcanoType":"Caldera","status":"Erupting/Recent","elevation":635,"lastEruption":"2023","vei":1}}]}

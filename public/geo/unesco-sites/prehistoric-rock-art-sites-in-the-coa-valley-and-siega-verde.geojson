@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6611111111,
+          40.6975
+        ]
+      },
+      "properties": {
+        "code": "prehistoric-rock-art-sites-in-the-coa-valley-and-siega-verde",
+        "name": "Prehistoric Rock Art Sites in the Côa Valley and Siega Verde",
+        "type": "Cultural",
+        "country": "Spain, Portugal",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "waitangi-day",
+  "name": "Waitangi Day",
+  "festivalType": "National",
+  "dateOrSeason": "February 6",
+  "origin": "New Zealand national",
+  "estimatedAttendance": "5+ million New Zealanders",
+  "unescoICH": "Not inscribed",
+  "traditions": "Treaty commemorations; Māori cultural performances; waka (war canoe) ceremonies; hāngi (earth oven feast); official speeches.",
+  "historicalBackground": "Waitangi Day marks the signing of the Treaty of Waitangi in 1840 between Māori chiefs and the British Crown, establishing New Zealand.",
+  "description": "New Zealand's national day commemorating the founding treaty between Māori and the Crown, celebrated with cultural performances and reflection.",
+  "location": "Waitangi, New Zealand",
+  "geojson": "waitangi-day.geojson"
+}

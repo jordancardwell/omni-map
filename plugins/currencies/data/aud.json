@@ -1,0 +1,19 @@
+{
+  "code": "aud",
+  "name": "Australian Dollar",
+  "isoCode": "AUD",
+  "symbol": "A$",
+  "region": "Oceania",
+  "centralBank": "Reserve Bank of Australia",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Australia",
+    "Kiribati",
+    "Nauru",
+    "Tuvalu"
+  ],
+  "countryCount": 4,
+  "description": "The Australian Dollar is the fifth most traded currency globally. Australia pioneered polymer banknotes, now used by over 50 countries.",
+  "historicalNotes": "Introduced in 1966, replacing the Australian pound. Australia was the first country to issue polymer banknotes in 1988, which are more durable and harder to counterfeit.",
+  "geojson": "aud.geojson"
+}

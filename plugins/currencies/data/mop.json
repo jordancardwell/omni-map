@@ -1,0 +1,16 @@
+{
+  "code": "mop",
+  "name": "Macanese Pataca",
+  "isoCode": "MOP",
+  "symbol": "MOP$",
+  "region": "Asia",
+  "centralBank": "Monetary Authority of Macao",
+  "exchangeRateEra": "Pegged to HKD",
+  "countries": [
+    "Macau"
+  ],
+  "countryCount": 1,
+  "description": "The Macanese Pataca is pegged to the Hong Kong Dollar. Macau is the world's largest gambling center by revenue.",
+  "historicalNotes": "The pataca was introduced during Portuguese administration. Macau returned to Chinese sovereignty in 1999 but maintains its own currency as a Special Administrative Region.",
+  "geojson": "mop.geojson"
+}

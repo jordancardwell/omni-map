@@ -1,0 +1,15 @@
+{
+  "code": "durban",
+  "name": "Port of Durban",
+  "country": "South Africa",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 90,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Cape of Good Hope Route",
+    "East African Coastal Route"
+  ],
+  "description": "Port of Durban in South Africa. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+  "geojson": "durban.geojson"
+}

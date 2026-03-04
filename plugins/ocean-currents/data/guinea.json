@@ -1,0 +1,21 @@
+{
+  "code": "guinea",
+  "name": "Guinea Current",
+  "currentType": "Warm",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "North Equatorial Counter Current",
+  "destination": "Gulf of Guinea",
+  "climateEffects": [
+    "Warms West African coast",
+    "Influences tropical rainfall",
+    "Drives Gulf of Guinea upwelling"
+  ],
+  "connectedEcosystems": [
+    "Gulf of Guinea fisheries",
+    "West African mangroves",
+    "Niger Delta ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Guinea Current flows eastward along the coast of West Africa into the Gulf of Guinea. It carries warm water and influences the climate and ecosystems of the tropical West African coast.",
+  "geojson": "guinea.geojson"
+}

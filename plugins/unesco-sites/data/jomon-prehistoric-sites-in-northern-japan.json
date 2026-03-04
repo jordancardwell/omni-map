@@ -1,0 +1,15 @@
+{
+  "code": "jomon-prehistoric-sites-in-northern-japan",
+  "name": "Jomon Prehistoric Sites in Northern Japan",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property consists of 17 archaeological sites in the southern part of Hokkaido Island and northern Tohoku in geographical settings ranging from mountains and hills to plains and lowlands, from inland bays to lakes, and rivers. They bear a unique testimony to the development over some 10,000 years of the pre-agricultural yet sedentary Jomon culture and its complex spiritual belief system and rituals. It attests to the emergence, development, maturity and adaptability to environmental changes of a sedentary hunter-fisher-gatherer society which developed from about 13,000 BCE. Expressions of Jomon spirituality were given tangible form in objects such as lacquered pots, clay tablets with the impression of feet, the famous goggle eyed dogu figurines, as well as in ritual places including earthworks and large stone circles reaching diameters of more than 50 metres. The serial property testifies to the rare and very early development of pre-agricultural sedentism from emergence to maturity.",
+  "danger": false,
+  "geojson": "jomon-prehistoric-sites-in-northern-japan.geojson"
+}

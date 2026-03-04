@@ -1,0 +1,18 @@
+{
+  "code": "ewr-ist",
+  "name": "Newark — Istanbul",
+  "airports": [
+    "EWR",
+    "IST"
+  ],
+  "distanceKm": 8049,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Turkish Airlines",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "EWR–IST route between Newark and Istanbul. Distance: 8,049 km. ~35 weekly flights operated by Turkish Airlines, United.",
+  "geojson": "ewr-ist.geojson"
+}

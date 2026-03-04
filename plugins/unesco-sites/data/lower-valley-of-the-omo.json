@@ -1,0 +1,15 @@
+{
+  "code": "lower-valley-of-the-omo",
+  "name": "Lower Valley of the Omo",
+  "type": "Cultural",
+  "country": "Ethiopia",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Africa",
+  "description": "A prehistoric site near Lake Turkana, the lower valley of the Omo is renowned the world over. The discovery of many fossils there, especially Homo gracilis, has been of fundamental importance in the study of human evolution.",
+  "danger": false,
+  "geojson": "lower-valley-of-the-omo.geojson"
+}

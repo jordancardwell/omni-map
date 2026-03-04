@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.06138889,
+          38.65861111
+        ]
+      },
+      "properties": {
+        "code": "cahokia-mounds-state-historic-site",
+        "name": "Cahokia Mounds State Historic Site",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

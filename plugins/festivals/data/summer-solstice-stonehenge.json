@@ -1,0 +1,14 @@
+{
+  "code": "summer-solstice-stonehenge",
+  "name": "Summer Solstice at Stonehenge",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "June 20–21",
+  "origin": "Druidic/Neo-pagan tradition",
+  "estimatedAttendance": "30,000+ visitors",
+  "unescoICH": "Stonehenge is UNESCO WHS",
+  "traditions": "Watching sunrise over the Heel Stone; drumming and chanting; Druidic ceremonies; all-night celebrations; traditional music.",
+  "historicalBackground": "Stonehenge was aligned to the summer solstice sunrise around 3000 BCE. Modern celebrations resumed in 1999 after access was restricted in 1985.",
+  "description": "The magical dawn gathering at Stonehenge, where thousands watch the midsummer sunrise align with the ancient stones.",
+  "location": "Stonehenge, UK",
+  "geojson": "summer-solstice-stonehenge.geojson"
+}

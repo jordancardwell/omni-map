@@ -1,0 +1,20 @@
+{
+  "code": "chikurachki",
+  "name": "Chikurachki",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1816,
+  "lastEruption": "2022",
+  "vei": 3,
+  "country": "Russia",
+  "region": "Kuril Islands",
+  "location": "Kuril Islands, Russia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "The most active volcano in the northern Kuril Islands with eruptions every few years.",
+  "description": "Chikurachki is the highest and most active volcano on Paramushir Island in the northern Kuril chain.",
+  "geojson": "chikurachki.geojson"
+}

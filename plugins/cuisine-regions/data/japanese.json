@@ -1,0 +1,38 @@
+{
+  "code": "japanese",
+  "name": "Japanese Cuisine",
+  "cuisineFamily": "East Asian",
+  "description": "Japanese cuisine (washoku) emphasizes seasonality, presentation, and umami-rich flavors. It reflects a deep respect for ingredients and a philosophy of balance among the five tastes. From the precision of sushi to the comfort of ramen, Japanese food culture is both an art form and a daily practice.",
+  "signatureDishes": [
+    "Sushi",
+    "Ramen",
+    "Tempura",
+    "Miso Soup",
+    "Tonkatsu",
+    "Kaiseki"
+  ],
+  "keyIngredients": [
+    "Rice",
+    "Soy Sauce",
+    "Dashi",
+    "Mirin",
+    "Wasabi",
+    "Nori"
+  ],
+  "cookingTechniques": [
+    "Raw preparation (sashimi)",
+    "Deep frying (tempura)",
+    "Grilling (yakitori)",
+    "Fermentation",
+    "Steaming"
+  ],
+  "unescoRecognition": "Washoku inscribed on UNESCO Intangible Cultural Heritage list (2013)",
+  "keyRegions": [
+    "Kanto",
+    "Kansai",
+    "Hokkaido",
+    "Kyushu",
+    "Okinawa"
+  ],
+  "geojson": "japanese.geojson"
+}

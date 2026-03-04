@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8780555556,
+          12.435
+        ]
+      },
+      "properties": {
+        "code": "leon-cathedral",
+        "name": "León Cathedral",
+        "type": "Cultural",
+        "country": "Nicaragua",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

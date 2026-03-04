@@ -1,0 +1,14 @@
+{
+  "code": "diwali",
+  "name": "Diwali",
+  "festivalType": "Religious",
+  "dateOrSeason": "October–November",
+  "origin": "Hindu, Jain, Sikh, Buddhist traditions",
+  "estimatedAttendance": "Millions across India and diaspora",
+  "unescoICH": "Inscribed 2021 (proposed)",
+  "traditions": "Oil lamps (diyas) line homes and streets; fireworks displays; rangoli art; exchange of sweets and gifts; Lakshmi puja ceremonies; new clothes and family gatherings.",
+  "historicalBackground": "Diwali's origins trace to ancient India, symbolizing the victory of light over darkness and good over evil. Associated with the return of Lord Rama to Ayodhya after 14 years of exile.",
+  "description": "The Festival of Lights celebrated across South Asia and the global diaspora, marking the triumph of light over darkness with spectacular illuminations.",
+  "location": "India",
+  "geojson": "diwali.geojson"
+}

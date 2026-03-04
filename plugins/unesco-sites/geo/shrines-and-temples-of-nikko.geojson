@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6105556,
+          36.7475
+        ]
+      },
+      "properties": {
+        "code": "shrines-and-temples-of-nikko",
+        "name": "Shrines and Temples of Nikko",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98444444,
+          21.80305556
+        ]
+      },
+      "properties": {
+        "code": "trinidad-and-the-valley-de-los-ingenios",
+        "name": "Trinidad and the Valley de los Ingenios",
+        "type": "Cultural",
+        "country": "Cuba",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

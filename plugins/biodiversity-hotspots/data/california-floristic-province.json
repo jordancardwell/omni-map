@@ -1,0 +1,29 @@
+{
+  "code": "california-floristic-province",
+  "name": "California Floristic Province",
+  "location": "Western North America (USA, Mexico)",
+  "areaKm2": 293804,
+  "habitatRemaining": "24.7%",
+  "plantSpecies": 3488,
+  "endemicPlants": 2124,
+  "vertebrateSpecies": 584,
+  "endemicVertebrates": 71,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "California condor",
+    "Island fox",
+    "Giant sequoia",
+    "Torrey pine",
+    "Desert tortoise"
+  ],
+  "threats": [
+    "Urban sprawl",
+    "Wildfires",
+    "Agriculture",
+    "Climate change",
+    "Invasive species"
+  ],
+  "conservationEfforts": "Extensive protected area network including Yosemite, Sequoia, and Channel Islands national parks. California condor recovery program brought species from 22 individuals to over 500. California's 30x30 initiative aims to conserve 30% of lands and waters by 2030.",
+  "description": "The California Floristic Province stretches along the Pacific coast from southern Oregon through California to northern Baja California, Mexico. This Mediterranean-climate region is characterized by hot, dry summers and cool, wet winters.\n\nThe province supports remarkable plant diversity with over 3,400 vascular plant species, 61% of which are endemic. Iconic habitats include coastal sage scrub, chaparral, oak woodlands, and ancient redwood and sequoia forests containing the tallest and most massive trees on Earth.",
+  "geojson": "california-floristic-province.geojson"
+}

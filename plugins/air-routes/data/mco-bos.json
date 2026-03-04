@@ -1,0 +1,17 @@
+{
+  "code": "mco-bos",
+  "name": "Orlando — Boston",
+  "airports": [
+    "MCO",
+    "BOS"
+  ],
+  "distanceKm": 1806,
+  "weeklyFlights": 50,
+  "airlines": [
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MCO–BOS route between Orlando and Boston. Distance: 1,806 km. ~50 weekly flights operated by JetBlue.",
+  "geojson": "mco-bos.geojson"
+}

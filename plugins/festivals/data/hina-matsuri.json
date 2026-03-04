@@ -1,0 +1,14 @@
+{
+  "code": "hina-matsuri",
+  "name": "Hina Matsuri (Girls' Day)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "March 3",
+  "origin": "Japanese tradition",
+  "estimatedAttendance": "Millions of families in Japan",
+  "unescoICH": "Not inscribed",
+  "traditions": "Displaying elaborate ornamental dolls (hina ningyō); eating chirashi sushi and hina arare rice crackers; drinking shirozake; peach blossoms.",
+  "historicalBackground": "Hina Matsuri originated from Chinese purification rituals. By the Edo period (1603–1868), it evolved into a celebration of girls' health and happiness.",
+  "description": "Japan's enchanting Dolls' Festival, where families display exquisite tiered doll sets to pray for girls' health and happiness.",
+  "location": "Tokyo, Japan",
+  "geojson": "hina-matsuri.geojson"
+}

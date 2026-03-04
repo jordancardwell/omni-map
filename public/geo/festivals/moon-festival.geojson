@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "code": "moon-festival",
+        "name": "Mid-Autumn Festival",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "15th of 8th lunar month",
+        "location": "Beijing, China"
+      }
+    }
+  ]
+}

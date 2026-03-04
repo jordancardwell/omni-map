@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"nrt","name":"Narita International","featureType":"airport","iataCode":"NRT","annualPassengers":42000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[140.3929,35.772]}}]}

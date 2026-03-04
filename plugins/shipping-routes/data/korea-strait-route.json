@@ -1,0 +1,8 @@
+{
+  "code": "korea-strait-route",
+  "name": "Korea Strait Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Narrow strait between South Korea and Japan, one of the busiest short-sea shipping lanes in Asia. Critical for trade between Korean and Japanese ports.",
+  "geojson": "korea-strait-route.geojson"
+}

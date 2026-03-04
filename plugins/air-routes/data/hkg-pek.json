@@ -1,0 +1,19 @@
+{
+  "code": "hkg-pek",
+  "name": "Hong Kong — Beijing",
+  "airports": [
+    "HKG",
+    "PEK"
+  ],
+  "distanceKm": 1992,
+  "weeklyFlights": 180,
+  "airlines": [
+    "Cathay Pacific",
+    "Air China",
+    "HK Express"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "HKG–PEK route between Hong Kong and Beijing. Distance: 1,992 km. ~180 weekly flights operated by Cathay Pacific, Air China, HK Express.",
+  "geojson": "hkg-pek.geojson"
+}

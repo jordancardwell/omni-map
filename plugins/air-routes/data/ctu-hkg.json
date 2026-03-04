@@ -1,0 +1,18 @@
+{
+  "code": "ctu-hkg",
+  "name": "Chengdu — Hong Kong",
+  "airports": [
+    "CTU",
+    "HKG"
+  ],
+  "distanceKm": 1330,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Sichuan Airlines",
+    "Cathay Pacific"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CTU–HKG route between Chengdu and Hong Kong. Distance: 1,330 km. ~40 weekly flights operated by Sichuan Airlines, Cathay Pacific.",
+  "geojson": "ctu-hkg.geojson"
+}

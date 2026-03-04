@@ -1,0 +1,16 @@
+{
+  "code": "hk-jp-express",
+  "name": "HK-JP Express",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2148,
+  "yearLaid": 2019,
+  "rfsDate": "2023-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Tokyo, Japan"
+  ],
+  "description": "HK-JP Express connecting Hong Kong to Tokyo.",
+  "geojson": "hk-jp-express.geojson"
+}

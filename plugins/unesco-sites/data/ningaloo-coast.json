@@ -1,0 +1,15 @@
+{
+  "code": "ningaloo-coast",
+  "name": "Ningaloo Coast",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The 604,500 hectare marine and terrestrial property of Ningaloo Coast, on the remote western coast of Australia, includes one of the longest near-shore reefs in the world. On land the site features an extensive karst system and network of underground caves and water courses. Annual gatherings of whale sharks occur at Ningaloo Coast, which is home to numerous marine species, among them a wealth of sea turtles. The terrestrial part of the site features subterranean water bodies with a substantial network of caves, conduits, and groundwater streams. They support a variety of rare species that contribute to the exceptional biodiversity of the marine and terrestrial site",
+  "danger": false,
+  "geojson": "ningaloo-coast.geojson"
+}

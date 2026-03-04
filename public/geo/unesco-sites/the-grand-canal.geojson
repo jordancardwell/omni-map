@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4683333333,
+          34.6938888889
+        ]
+      },
+      "properties": {
+        "code": "the-grand-canal",
+        "name": "The Grand Canal",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

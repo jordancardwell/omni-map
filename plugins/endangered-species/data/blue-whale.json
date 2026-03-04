@@ -1,0 +1,19 @@
+{
+  "code": "blue-whale",
+  "name": "Blue Whale",
+  "scientificName": "Balaenoptera musculus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~10,000-25,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Open ocean",
+  "threats": [
+    "Ship strikes",
+    "Ocean noise",
+    "Entanglement",
+    "Climate change"
+  ],
+  "conservationEfforts": "International whaling moratorium since 1986. Critical habitat designations in feeding and breeding areas. Ship speed reductions in whale-rich waters.",
+  "description": "The largest animal ever to have lived on Earth, reaching up to 30 meters long. Blue whale populations were decimated by commercial whaling but have slowly begun to recover since the 1986 moratorium.",
+  "geojson": "blue-whale.geojson"
+}

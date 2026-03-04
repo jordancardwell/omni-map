@@ -1,0 +1,18 @@
+{
+  "code": "chinese-alligator",
+  "name": "Chinese Alligator",
+  "scientificName": "Alligator sinensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~150 in wild",
+  "populationTrend": "Stable",
+  "habitatType": "Freshwater wetland and pond",
+  "threats": [
+    "Habitat loss",
+    "Pollution",
+    "Human persecution"
+  ],
+  "conservationEfforts": "National Nature Reserve in Anhui Province. Over 20,000 in captive breeding programs. Small-scale reintroductions to restored wetlands.",
+  "description": "One of the world's most endangered crocodilians, surviving in small ponds and marshes in eastern China. It is the only alligator species found outside the Americas.",
+  "geojson": "chinese-alligator.geojson"
+}

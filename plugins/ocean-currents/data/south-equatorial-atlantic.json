@@ -1,0 +1,21 @@
+{
+  "code": "south-equatorial-atlantic",
+  "name": "South Equatorial Current (Atlantic)",
+  "currentType": "Warm",
+  "speedRange": "0.3–0.6 m/s",
+  "origin": "Gulf of Guinea",
+  "destination": "Brazil coast (splits north/south)",
+  "climateEffects": [
+    "Feeds both North and South Atlantic gyres",
+    "Influences Amazon discharge mixing",
+    "Drives equatorial upwelling"
+  ],
+  "connectedEcosystems": [
+    "Gulf of Guinea fisheries",
+    "Brazilian coastal ecosystems",
+    "Fernando de Noronha marine life"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Atlantic South Equatorial Current flows westward across the tropical Atlantic from the African coast to Brazil, where it bifurcates into the northward North Brazil Current and southward Brazil Current.",
+  "geojson": "south-equatorial-atlantic.geojson"
+}

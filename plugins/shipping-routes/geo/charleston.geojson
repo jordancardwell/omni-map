@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"charleston","name":"Port of Charleston","featureType":"port","portType":"Container Port","country":"United States"},"geometry":{"type":"Point","coordinates":[-79.93,32.78]}}]}

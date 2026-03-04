@@ -1,0 +1,17 @@
+{
+  "code": "jo",
+  "name": "Jordan",
+  "avgDownloadMbps": 49.2,
+  "avgUploadMbps": 10.8,
+  "avgLatencyMs": 24,
+  "mobileDownloadMbps": 26.8,
+  "mobileUploadMbps": 5.6,
+  "fixedDownloadMbps": 49.2,
+  "fixedUploadMbps": 10.8,
+  "rank": 73,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Fiber deployment underway. ~14% year-over-year growth.",
+  "geojson": "jo.geojson"
+}

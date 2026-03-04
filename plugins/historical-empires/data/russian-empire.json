@@ -1,0 +1,25 @@
+{
+  "code": "russian-empire",
+  "name": "Russian Empire",
+  "era": "Modern",
+  "peakYear": "1866 CE",
+  "areaAtPeakKm2": 22800000,
+  "populationEstimate": "176 million",
+  "capital": "Saint Petersburg",
+  "keyAchievements": [
+    "Trans-Siberian Railway",
+    "Arctic exploration",
+    "Literary golden age",
+    "Scientific contributions",
+    "Expansion to Pacific"
+  ],
+  "declineFactors": [
+    "Crimean War defeat",
+    "Emancipation challenges",
+    "1905 Revolution",
+    "World War I losses",
+    "Bolshevik Revolution"
+  ],
+  "description": "The Russian Empire was the third-largest empire in history, stretching from Eastern Europe across Siberia to Alaska and into Central Asia. Under the Romanov dynasty, Russia transformed from a medieval principality into a major European power.\n\nThe empire produced a remarkable literary and artistic tradition (Tolstoy, Dostoevsky, Tchaikovsky) and made significant scientific contributions. However, its autocratic system and failure to modernize led to the 1917 Revolution and the rise of the Soviet Union.",
+  "geojson": "russian-empire.geojson"
+}

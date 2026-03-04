@@ -1,0 +1,16 @@
+{
+  "code": "lyd",
+  "name": "Libyan Dinar",
+  "isoCode": "LYD",
+  "symbol": "ل.د",
+  "region": "Africa",
+  "centralBank": "Central Bank of Libya",
+  "exchangeRateEra": "Pegged to SDR",
+  "countries": [
+    "Libya"
+  ],
+  "countryCount": 1,
+  "description": "The Libyan Dinar is the currency of Libya, which holds Africa's largest proven oil reserves.",
+  "historicalNotes": "Introduced in 1971, replacing the Libyan pound. Political instability since 2011 has created competing monetary authorities.",
+  "geojson": "lyd.geojson"
+}

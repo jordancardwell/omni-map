@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8597,
+          39.9334
+        ]
+      },
+      "properties": {
+        "code": "independence-day-turkey",
+        "name": "Republic Day (Turkey)",
+        "festivalType": "National",
+        "dateOrSeason": "October 29",
+        "location": "Ankara, Turkey"
+      }
+    }
+  ]
+}

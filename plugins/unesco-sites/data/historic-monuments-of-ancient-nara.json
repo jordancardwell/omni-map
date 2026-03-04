@@ -1,0 +1,16 @@
+{
+  "code": "historic-monuments-of-ancient-nara",
+  "name": "Historic Monuments of Ancient Nara",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Nara was the capital of Japan from 710 to 784. During this period the framework of national government was consolidated and Nara enjoyed great prosperity, emerging as the fountainhead of Japanese culture. The city's historic monuments – Buddhist temples, Shinto shrines and the excavated remains of the great Imperial Palace – provide a vivid picture of life in the Japanese capital in the 8th century, a period of profound political and cultural change.",
+  "danger": false,
+  "geojson": "historic-monuments-of-ancient-nara.geojson"
+}

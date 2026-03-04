@@ -1,0 +1,14 @@
+{
+  "code": "obon",
+  "name": "Obon",
+  "festivalType": "Religious",
+  "dateOrSeason": "August 13–16",
+  "origin": "Japanese Buddhist tradition",
+  "estimatedAttendance": "Tens of millions in Japan",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bon Odori folk dances; floating paper lanterns (toro nagashi); visiting family graves; making food offerings; lighting mukaebi welcome fires.",
+  "historicalBackground": "Obon originated from the Buddhist Ullambana Sutra. It evolved in Japan over 500 years, blending Buddhist ancestor veneration with native Shinto practices.",
+  "description": "A Japanese Buddhist festival honoring the spirits of deceased ancestors, celebrated with traditional dances and floating lantern ceremonies.",
+  "location": "Kyoto, Japan",
+  "geojson": "obon.geojson"
+}

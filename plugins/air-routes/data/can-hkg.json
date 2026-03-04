@@ -1,0 +1,17 @@
+{
+  "code": "can-hkg",
+  "name": "Guangzhou — Hong Kong",
+  "airports": [
+    "CAN",
+    "HKG"
+  ],
+  "distanceKm": 136,
+  "weeklyFlights": 100,
+  "airlines": [
+    "China Southern"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CAN–HKG route between Guangzhou and Hong Kong. Distance: 136 km. ~100 weekly flights operated by China Southern.",
+  "geojson": "can-hkg.geojson"
+}

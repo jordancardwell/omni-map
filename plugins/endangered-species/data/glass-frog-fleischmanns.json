@@ -1,0 +1,19 @@
+{
+  "code": "glass-frog-fleischmanns",
+  "name": "Fleischmann's Glass Frog",
+  "scientificName": "Hyalinobatrachium fleischmanni",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining in parts",
+  "populationTrend": "Decreasing",
+  "habitatType": "Humid tropical forest near streams",
+  "threats": [
+    "Habitat loss",
+    "Chytrid fungus",
+    "Climate change",
+    "Pollution"
+  ],
+  "conservationEfforts": "Protected within Central American national parks and reserves. Research into glass frog ecology. Stream habitat conservation.",
+  "description": "Named for their translucent bellies through which internal organs, including a beating heart, are visible. They lay eggs on leaves overhanging streams, and tadpoles drop into the water upon hatching.",
+  "geojson": "glass-frog-fleischmanns.geojson"
+}

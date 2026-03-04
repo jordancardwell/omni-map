@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.82694,
+          39.65778
+        ]
+      },
+      "properties": {
+        "code": "monastery-of-batalha",
+        "name": "Monastery of Batalha",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

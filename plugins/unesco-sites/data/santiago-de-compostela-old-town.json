@@ -1,0 +1,15 @@
+{
+  "code": "santiago-de-compostela-old-town",
+  "name": "Santiago de Compostela (Old Town)",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This famous pilgrimage site in north-west Spain became a symbol in the Spanish Christians' struggle against Islam. Destroyed by the Muslims at the end of the 10th century, it was completely rebuilt in the following century. With its Romanesque, Gothic and Baroque buildings, the Old Town of Santiago is one of the world's most beautiful urban areas. The oldest monuments are grouped around the tomb of St James and the cathedral, which contains the remarkable Pórtico de la Gloria.",
+  "danger": false,
+  "geojson": "santiago-de-compostela-old-town.geojson"
+}

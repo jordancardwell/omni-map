@@ -1,0 +1,14 @@
+{
+  "code": "rosh-hashanah",
+  "name": "Rosh Hashanah",
+  "festivalType": "Religious",
+  "dateOrSeason": "September–October (Tishrei 1–2)",
+  "origin": "Jewish tradition",
+  "estimatedAttendance": "14+ million Jews worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Blowing the shofar (ram's horn); eating apples dipped in honey; round challah bread; Tashlich ceremony casting bread on water; festive meals.",
+  "historicalBackground": "Rosh Hashanah marks the Jewish New Year and the creation of Adam and Eve. It begins the High Holy Days, the ten Days of Awe leading to Yom Kippur.",
+  "description": "The Jewish New Year, a two-day celebration marking the beginning of the High Holy Days with symbolic foods and the sounding of the shofar.",
+  "location": "Jerusalem, Israel",
+  "geojson": "rosh-hashanah.geojson"
+}

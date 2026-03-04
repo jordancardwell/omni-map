@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53333333,
+          22.48333333
+        ]
+      },
+      "properties": {
+        "code": "champaner-pavagadh-archaeological-park",
+        "name": "Champaner-Pavagadh Archaeological Park",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

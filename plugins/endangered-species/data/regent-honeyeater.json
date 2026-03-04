@@ -1,0 +1,18 @@
+{
+  "code": "regent-honeyeater",
+  "name": "Regent Honeyeater",
+  "scientificName": "Anthochaera phrygia",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~350 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Temperate eucalypt woodland",
+  "threats": [
+    "Habitat loss",
+    "Competition from aggressive honeyeaters",
+    "Small population size"
+  ],
+  "conservationEfforts": "Captive breeding and release program at Taronga Zoo. Habitat restoration planting millions of eucalyptus trees. Song tutoring program teaches captive birds wild songs.",
+  "description": "An Australian songbird so rare that many young birds can no longer learn their species' song, instead mimicking other species. This cultural loss of song threatens breeding success.",
+  "geojson": "regent-honeyeater.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "bordeaux-port-of-the-moon",
+  "name": "Bordeaux, Port of the Moon",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Port of the Moon, port city of Bordeaux in south-west France, is inscribed as an inhabited historic city, an outstanding urban and architectural ensemble, created in the age of the Enlightenment, whose values continued up to the first half of the 20th century, with more protected buildings than any other French city except Paris. It is also recognized for its historic role as a place of exchange of cultural values over more than 2,000 years, particularly since the 12th century due to commercial links with Britain and the Low Lands. Urban plans and architectural ensembles of the early 18th century onwards place the city as an outstanding example of innovative classical and neoclassical trends and give it an exceptional urban and architectural unity and coherence. Its urban form represents the success of philosophers who wanted to make towns into melting pots of humanism, universality and culture.",
+  "danger": false,
+  "geojson": "bordeaux-port-of-the-moon.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"san-juan","name":"Port of San Juan","featureType":"port","portType":"Container Port","country":"Puerto Rico"},"geometry":{"type":"Point","coordinates":[-66.1,18.47]}}]}

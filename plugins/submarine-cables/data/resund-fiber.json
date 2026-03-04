@@ -1,0 +1,16 @@
+{
+  "code": "resund-fiber",
+  "name": "Öresund Fiber",
+  "capacityTbps": 15,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 317,
+  "yearLaid": 2019,
+  "rfsDate": "2021-06",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Copenhagen, Denmark",
+    "Karlshamn, Sweden"
+  ],
+  "description": "Öresund Fiber submarine cable connecting Copenhagen to Karlshamn.",
+  "geojson": "resund-fiber.geojson"
+}

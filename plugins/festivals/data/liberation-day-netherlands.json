@@ -1,0 +1,14 @@
+{
+  "code": "liberation-day-netherlands",
+  "name": "Liberation Day",
+  "festivalType": "National",
+  "dateOrSeason": "May 5",
+  "origin": "Dutch national",
+  "estimatedAttendance": "17+ million Dutch",
+  "unescoICH": "Not inscribed",
+  "traditions": "Liberation festivals across 14 cities; concerts; veteran tributes; freedom fires; educational events; street parties.",
+  "historicalBackground": "Liberation Day marks the end of Nazi occupation in the Netherlands on May 5, 1945, when German forces surrendered to the Canadian Army.",
+  "description": "The Netherlands' celebration of freedom from Nazi occupation, with liberation festivals, concerts, and tributes across 14 cities.",
+  "location": "Utrecht, Netherlands",
+  "geojson": "liberation-day-netherlands.geojson"
+}

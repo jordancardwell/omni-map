@@ -1,0 +1,14 @@
+{
+  "code": "messel-pit-fossil-site",
+  "name": "Messel Pit Fossil Site",
+  "type": "Natural",
+  "country": "Germany",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Messel Pit is the richest site in the world for understanding the living environment of the Eocene, between 57 million and 36 million years ago. In particular, it provides unique information about the early stages of the evolution of mammals and includes exceptionally well-preserved mammal fossils, ranging from fully articulated skeletons to the contents of stomachs of animals of this period.",
+  "danger": false,
+  "geojson": "messel-pit-fossil-site.geojson"
+}

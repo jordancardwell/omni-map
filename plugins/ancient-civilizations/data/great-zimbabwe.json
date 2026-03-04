@@ -1,0 +1,12 @@
+{
+  "code": "great-zimbabwe",
+  "name": "Great Zimbabwe",
+  "period": "c. 1100–1450 CE",
+  "region": "Africa",
+  "type": "Civilization",
+  "writingSystem": "None (oral tradition)",
+  "majorAchievements": ["Dry-stone architecture", "Gold and ivory trade", "Regional political center", "Sophisticated social hierarchy", "Cattle herding economy", "Long-distance trade networks"],
+  "keyCities": ["Great Zimbabwe", "Mapungubwe", "Khami", "Danangombe"],
+  "description": "Great Zimbabwe was the capital of a thriving kingdom in southeastern Africa, known for its impressive dry-stone walls built without mortar. The ruins of the Great Enclosure represent the largest ancient stone structure south of the Sahara. The kingdom controlled the gold and ivory trade between the interior of Africa and the Swahili coast, connecting to Indian Ocean trade networks.",
+  "geojson": "great-zimbabwe.geojson"
+}

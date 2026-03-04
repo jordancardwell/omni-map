@@ -1,0 +1,15 @@
+{
+  "code": "gough-and-inaccessible-islands",
+  "name": "Gough and Inaccessible Islands",
+  "type": "Natural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The site, located in the south Atlantic, is one of the least-disrupted island and marine ecosystems in the cool temperate zone. The spectacular cliffs of Gough and Inaccessible Islands, towering above the ocean, are free of introduced mammals and home to one of the world’s largest colonies of sea birds. Gough Island is home to two endemic species of land birds, the gallinule and the Gough rowettie, as well as to 12 endemic species of plants, while Inaccessible Island boasts two birds, eight plants and at least 10 invertebrates endemic to the island.",
+  "danger": false,
+  "geojson": "gough-and-inaccessible-islands.geojson"
+}

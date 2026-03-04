@@ -1,0 +1,14 @@
+{
+  "code": "cultural-and-historic-ensemble-of-the-solovetsky-islands",
+  "name": "Cultural and Historic Ensemble of the Solovetsky Islands",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Solovetsky archipelago comprises six islands in the western part of the White Sea, covering about 300 km2 . They have been inhabited since the 5th century B.C. and important traces of a human presence from as far back as the 5th millennium B.C. can be found there. The archipelago has been the site of fervent monastic activity since the 15th century, and there are several churches dating from the 16th to the 19th century.",
+  "danger": false,
+  "geojson": "cultural-and-historic-ensemble-of-the-solovetsky-islands.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "veracruz",
+  "name": "Port of Veracruz",
+  "country": "Mexico",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Veracruz in Mexico. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+  "geojson": "veracruz.geojson"
+}

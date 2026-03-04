@@ -1,0 +1,15 @@
+{
+  "code": "komodo-national-park",
+  "name": "Komodo National Park",
+  "type": "Natural",
+  "country": "Indonesia",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "These volcanic islands are inhabited by a population of around 5,700 giant lizards, whose appearance and aggressive behaviour have led to them being called 'Komodo dragons'. They exist nowhere else in the world and are of great interest to scientists studying the theory of evolution. The rugged hillsides of dry savannah and pockets of thorny green vegetation contrast starkly with the brilliant white sandy beaches and the blue waters surging over coral.",
+  "danger": false,
+  "geojson": "komodo-national-park.geojson"
+}

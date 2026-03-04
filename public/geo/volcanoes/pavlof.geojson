@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-161.8937,55.4173]},"properties":{"code":"pavlof","name":"Pavlof Volcano","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2519,"lastEruption":"2023","vei":3}}]}

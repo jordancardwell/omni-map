@@ -1,0 +1,27 @@
+{
+  "code": "bortle-7-suburban-urban",
+  "name": "Suburban/Urban Transition",
+  "bortleGroup": "4. Urban (Class 7-8)",
+  "bortleClass": "Class 7 — Suburban/Urban Transition",
+  "skyBrightness": "18.94–19.50 mag/arcsec²",
+  "limitingMagnitude": "4.6–5.0",
+  "milkyWayVisibility": "Invisible — Milky Way completely invisible to naked eye",
+  "visibleObjects": [
+    "Bright planets only",
+    "Brightest constellations recognizable",
+    "M45 invisible to most",
+    "Orion's Belt visible"
+  ],
+  "exampleLocations": [
+    "Medium city centers",
+    "Dense suburbs of major metros",
+    "Suburban Seoul",
+    "Birmingham, UK suburbs"
+  ],
+  "nearestDarkSkyReserves": [
+    "Brecon Beacons International Dark Sky Reserve",
+    "Eifel National Park Dark Sky"
+  ],
+  "description": "Skies typical of the transition zone between suburbs and urban areas. The Milky Way is completely invisible. The sky background is a uniform grayish-white glow. Only the brightest constellations are recognizable, and fainter stars in familiar patterns are missing. Clouds are brilliantly lit from below and are brighter than the sky background. The night sky never appears truly dark. This represents the experience of roughly 25% of humanity, particularly in the dense suburbs and exurbs of major metropolitan areas.",
+  "geojson": "bortle-7-suburban-urban.geojson"
+}

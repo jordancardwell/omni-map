@@ -1,0 +1,16 @@
+{
+  "code": "urnes-stave-church",
+  "name": "Urnes Stave Church",
+  "type": "Cultural",
+  "country": "Norway",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The wooden church of Urnes (the stavkirke) stands in the natural setting of Sogn og Fjordane. It was built in the 12th and 13th centuries and is an outstanding example of traditional Scandinavian wooden architecture. It brings together traces of Celtic art, Viking traditions and Romanesque spatial structures.",
+  "danger": false,
+  "geojson": "urnes-stave-church.geojson"
+}

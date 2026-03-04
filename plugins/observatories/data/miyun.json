@@ -1,0 +1,20 @@
+{
+  "code": "miyun",
+  "name": "Miyun Station",
+  "country": "China",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 150,
+  "aperture": "50m equivalent",
+  "telescopes": [
+    "Miyun Synthesis Array"
+  ],
+  "keyDiscoveries": [
+    "Radio source surveys",
+    "Solar radio observations",
+    "21cm surveys"
+  ],
+  "location": "Miyun Station, China",
+  "description": "NAOC radio astronomy station northeast of Beijing. Operates a radio interferometric array for solar and cosmic radio observations.",
+  "geojson": "miyun.geojson"
+}

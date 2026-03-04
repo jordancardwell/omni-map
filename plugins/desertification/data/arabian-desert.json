@@ -1,0 +1,30 @@
+{
+  "code": "arabian-desert",
+  "name": "Arabian Desert",
+  "region": "Middle East",
+  "aridityGroup": "1. Hyper-Arid",
+  "aridityClassification": "Hyper-Arid",
+  "aridityIndex": "< 0.05 — extreme aridity",
+  "area": "2,330,000 km²",
+  "degradationTrend": "Severe — Expanding",
+  "populationAffected": 5000000,
+  "affectedCountries": [
+    "Saudi Arabia",
+    "Yemen",
+    "Oman",
+    "UAE",
+    "Qatar",
+    "Kuwait",
+    "Iraq",
+    "Jordan"
+  ],
+  "desertificationDrivers": [
+    "Extreme heat",
+    "Aquifer depletion",
+    "Overgrazing",
+    "Urbanization pressure"
+  ],
+  "desertFrontier": "Expanding into northern Arabian steppe zones",
+  "description": "The Arabian Desert encompasses the Rub' al Khali (Empty Quarter), the largest contiguous sand desert on Earth, and the An Nafud desert. Temperatures exceed 50°C in summer. Ancient aquifers are being depleted at unsustainable rates for agriculture and urban use, with Saudi Arabia having exhausted most of its fossil water reserves.",
+  "geojson": "arabian-desert.geojson"
+}

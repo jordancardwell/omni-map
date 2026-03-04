@@ -1,0 +1,16 @@
+{
+  "code": "cup",
+  "name": "Cuban Peso",
+  "isoCode": "CUP",
+  "symbol": "₱",
+  "region": "Americas",
+  "centralBank": "Central Bank of Cuba",
+  "exchangeRateEra": "Fixed",
+  "countries": [
+    "Cuba"
+  ],
+  "countryCount": 1,
+  "description": "The Cuban Peso is the official currency of Cuba. For decades Cuba operated a dual currency system with the convertible peso (CUC).",
+  "historicalNotes": "Cuba unified its dual currency system in January 2021, eliminating the convertible peso (CUC) and leaving only the Cuban peso (CUP).",
+  "geojson": "cup.geojson"
+}

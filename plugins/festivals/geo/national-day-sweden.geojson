@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "code": "national-day-sweden",
+        "name": "National Day of Sweden",
+        "festivalType": "National",
+        "dateOrSeason": "June 6",
+        "location": "Stockholm, Sweden"
+      }
+    }
+  ]
+}

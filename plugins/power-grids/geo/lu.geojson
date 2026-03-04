@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"lu","name":"Luxembourg","country":"LU","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[5.7,49.4],[5.7,50.2],[6.5,50.2],[6.5,49.4],[5.7,49.4]]]}}]}

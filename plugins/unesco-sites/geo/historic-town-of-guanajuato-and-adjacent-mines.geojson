@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.25556,
+          21.01694
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-guanajuato-and-adjacent-mines",
+        "name": "Historic Town of Guanajuato and Adjacent Mines",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

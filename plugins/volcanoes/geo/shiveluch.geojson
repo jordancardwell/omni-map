@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[161.36,56.6533]},"properties":{"code":"shiveluch","name":"Shiveluch","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3283,"lastEruption":"2023","vei":5}}]}

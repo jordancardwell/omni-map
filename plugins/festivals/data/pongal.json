@@ -1,0 +1,14 @@
+{
+  "code": "pongal",
+  "name": "Pongal",
+  "festivalType": "Religious",
+  "dateOrSeason": "January 14–17",
+  "origin": "Hindu Tamil tradition",
+  "estimatedAttendance": "Millions in Tamil Nadu",
+  "unescoICH": "Not inscribed",
+  "traditions": "Cooking rice in new pots until it overflows (pongal); decorating cattle (Mattu Pongal); kolam floor designs; bonfire of old items (Bhogi).",
+  "historicalBackground": "Pongal is a harvest thanksgiving festival dating back over 2,000 years in Tamil culture. It honors the Sun God and marks the start of Uttarayan.",
+  "description": "A four-day Tamil harvest festival giving thanks to the Sun God, nature, and cattle, celebrated with overflowing pots of rice and colorful traditions.",
+  "location": "Chennai, India",
+  "geojson": "pongal.geojson"
+}

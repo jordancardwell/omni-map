@@ -1,0 +1,18 @@
+{
+  "code": "hkg-icn",
+  "name": "Hong Kong — Seoul",
+  "airports": [
+    "HKG",
+    "ICN"
+  ],
+  "distanceKm": 2068,
+  "weeklyFlights": 120,
+  "airlines": [
+    "Cathay Pacific",
+    "Korean Air"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "HKG–ICN route between Hong Kong and Seoul. Distance: 2,068 km. ~120 weekly flights operated by Cathay Pacific, Korean Air.",
+  "geojson": "hkg-icn.geojson"
+}

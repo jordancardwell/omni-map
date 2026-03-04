@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.8955556,
+          -54.59472222
+        ]
+      },
+      "properties": {
+        "code": "macquarie-island",
+        "name": "Macquarie Island",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

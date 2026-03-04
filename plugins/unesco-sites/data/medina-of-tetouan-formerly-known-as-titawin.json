@@ -1,0 +1,16 @@
+{
+  "code": "medina-of-tetouan-formerly-known-as-titawin",
+  "name": "Medina of Tétouan (formerly known as Titawin)",
+  "type": "Cultural",
+  "country": "Morocco",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "Tétouan was of particular importance in the Islamic period, from the 8th century onwards, since it served as the main point of contact between Morocco and Andalusia. After the Reconquest, the town was rebuilt by Andalusian refugees who had been expelled by the Spanish. This is well illustrated by its art and architecture, which reveal clear Andalusian influence. Although one of the smallest of the Moroccan medinas, Tétouan is unquestionably the most complete and it has been largely untouched by subsequent outside influences.",
+  "danger": false,
+  "geojson": "medina-of-tetouan-formerly-known-as-titawin.geojson"
+}

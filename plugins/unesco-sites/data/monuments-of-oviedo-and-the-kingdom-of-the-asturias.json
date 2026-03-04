@@ -1,0 +1,16 @@
+{
+  "code": "monuments-of-oviedo-and-the-kingdom-of-the-asturias",
+  "name": "Monuments of Oviedo and the Kingdom of the Asturias",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the 9th century the flame of Christianity was kept alive in the Iberian peninsula in the tiny Kingdom of the Asturias. Here an innovative pre-Romanesque architectural style was created that was to play a significant role in the development of the religious architecture of the peninsula. Its highest achievements can be seen in the churches of Santa María del Naranco, San Miguel de Lillo, Santa Cristina de Lena, the Cámara Santa and San Julián de los Prados, in and around the ancient capital city of Oviedo. Associated with them is the remarkable contemporary hydraulic engineering structure known as La Foncalada.",
+  "danger": false,
+  "geojson": "monuments-of-oviedo-and-the-kingdom-of-the-asturias.geojson"
+}

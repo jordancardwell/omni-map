@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.09472,
+          19.8875
+        ]
+      },
+      "properties": {
+        "code": "sun-temple-konarak",
+        "name": "Sun Temple, Konârak",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

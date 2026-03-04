@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ss","name":"South Sudan","country":"SS","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[23.9,3.5],[23.9,12.2],[36,12.2],[36,3.5],[23.9,3.5]]]}}]}

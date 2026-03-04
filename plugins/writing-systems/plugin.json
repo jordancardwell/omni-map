@@ -1,0 +1,48 @@
+{
+  "id": "writing-systems",
+  "name": "Writing Systems",
+  "description": "Geographic distribution of major writing scripts used around the world",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "globe",
+  "defaultColor": "#7C3AED",
+  "categories": ["linguistics", "culture"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Linguistics",
+  "thumbnail": "#7C3AED",
+  "schema": "WritingSystemMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["name", "scriptType", "direction"],
+    "groupBy": "scriptType",
+    "titleField": "name",
+    "subtitleField": "sampleText",
+    "badgeField": "characters",
+    "badgeFormat": "number"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "scriptType"
+  },
+  "detailFields": [
+    { "key": "scriptType", "label": "Script Type", "type": "text" },
+    { "key": "characters", "label": "Number of Characters", "type": "number" },
+    {
+      "key": "direction",
+      "label": "Writing Direction",
+      "type": "status-badge",
+      "statusColors": {
+        "LTR": "#3B82F6",
+        "RTL": "#F59E0B",
+        "Vertical": "#8B5CF6",
+        "LTR / Vertical": "#6366F1"
+      }
+    },
+    { "key": "originDate", "label": "Approximate Origin", "type": "text" },
+    { "key": "sampleText", "label": "Sample Text", "type": "text" },
+    { "key": "relatedScripts", "label": "Related Scripts", "type": "tags", "referenceItems": true },
+    { "key": "description", "label": "Description", "type": "markdown" },
+    { "key": "historicalNotes", "label": "Historical Notes", "type": "markdown" }
+  ]
+}

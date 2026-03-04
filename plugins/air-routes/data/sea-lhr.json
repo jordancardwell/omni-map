@@ -1,0 +1,18 @@
+{
+  "code": "sea-lhr",
+  "name": "Seattle — London",
+  "airports": [
+    "SEA",
+    "LHR"
+  ],
+  "distanceKm": 7702,
+  "weeklyFlights": 25,
+  "airlines": [
+    "British Airways",
+    "Delta"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SEA–LHR route between Seattle and London. Distance: 7,702 km. ~25 weekly flights operated by British Airways, Delta.",
+  "geojson": "sea-lhr.geojson"
+}

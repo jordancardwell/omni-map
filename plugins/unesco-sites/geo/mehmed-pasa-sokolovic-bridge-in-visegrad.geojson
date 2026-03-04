@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.288025,
+          43.7814444444
+        ]
+      },
+      "properties": {
+        "code": "mehmed-pasa-sokolovic-bridge-in-visegrad",
+        "name": "Mehmed Paša Sokolović Bridge in Višegrad",
+        "type": "Cultural",
+        "country": "Bosnia and Herzegovina",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

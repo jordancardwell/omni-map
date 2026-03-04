@@ -1,0 +1,18 @@
+{
+  "code": "round-island-boa",
+  "name": "Round Island Boa",
+  "scientificName": "Casarea dussumieri",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Palm savanna on volcanic rock",
+  "threats": [
+    "Invasive rabbits and goats (historic)",
+    "Small range",
+    "Low genetic diversity"
+  ],
+  "conservationEfforts": "Invasive species eradicated from Round Island in the 1980s-90s. Durrell Wildlife Conservation Trust captive breeding. Habitat restoration allowed native palm woodland to recover.",
+  "description": "Found only on Round Island off Mauritius, this boa's jaw structure is unique — the upper jaw can move independently of the skull. Removal of invasive goats and rabbits allowed dramatic habitat recovery.",
+  "geojson": "round-island-boa.geojson"
+}

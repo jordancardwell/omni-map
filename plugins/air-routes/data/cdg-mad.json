@@ -1,0 +1,18 @@
+{
+  "code": "cdg-mad",
+  "name": "Paris — Madrid",
+  "airports": [
+    "CDG",
+    "MAD"
+  ],
+  "distanceKm": 1062,
+  "weeklyFlights": 120,
+  "airlines": [
+    "Air France",
+    "Iberia"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "CDG–MAD route between Paris and Madrid. Distance: 1,062 km. ~120 weekly flights operated by Air France, Iberia.",
+  "geojson": "cdg-mad.geojson"
+}

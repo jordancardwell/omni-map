@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.66667,
+          30.71667
+        ]
+      },
+      "properties": {
+        "code": "nanda-devi-and-valley-of-flowers-national-parks",
+        "name": "Nanda Devi and Valley of Flowers National Parks",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

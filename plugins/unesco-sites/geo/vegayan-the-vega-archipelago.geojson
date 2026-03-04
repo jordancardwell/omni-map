@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75,
+          65.61667
+        ]
+      },
+      "properties": {
+        "code": "vegayan-the-vega-archipelago",
+        "name": "Vegaøyan – The Vega Archipelago",
+        "type": "Cultural",
+        "country": "Norway",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

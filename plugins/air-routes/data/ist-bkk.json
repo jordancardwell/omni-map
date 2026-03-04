@@ -1,0 +1,18 @@
+{
+  "code": "ist-bkk",
+  "name": "Istanbul — Bangkok",
+  "airports": [
+    "IST",
+    "BKK"
+  ],
+  "distanceKm": 7512,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Turkish Airlines",
+    "Thai Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IST–BKK route between Istanbul and Bangkok. Distance: 7,512 km. ~30 weekly flights operated by Turkish Airlines, Thai Airways.",
+  "geojson": "ist-bkk.geojson"
+}

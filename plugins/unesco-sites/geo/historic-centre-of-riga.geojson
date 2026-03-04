@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11667,
+          56.95417
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-riga",
+        "name": "Historic Centre of Riga",
+        "type": "Cultural",
+        "country": "Latvia",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

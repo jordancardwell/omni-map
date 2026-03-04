@@ -1,0 +1,21 @@
+{
+  "code": "ondrejov",
+  "name": "Ondřejov Observatory",
+  "country": "Czech Republic",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 528,
+  "aperture": "2 m (Perek)",
+  "telescopes": [
+    "Perek 2m",
+    "Solar telescope"
+  ],
+  "keyDiscoveries": [
+    "Meteor studies",
+    "Solar physics",
+    "Stellar spectroscopy"
+  ],
+  "location": "Ondřejov Observatory, Czech Republic",
+  "description": "The primary observatory of the Czech Academy of Sciences. The Perek 2m telescope and stellar department are among the most productive in Central Europe.",
+  "geojson": "ondrejov.geojson"
+}

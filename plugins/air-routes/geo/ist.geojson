@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ist","name":"Istanbul Airport","featureType":"airport","iataCode":"IST","annualPassengers":71500000,"classification":"Mega Hub"},"geometry":{"type":"Point","coordinates":[28.7519,41.2753]}}]}

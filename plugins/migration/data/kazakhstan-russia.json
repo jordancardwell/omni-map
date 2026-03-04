@@ -1,0 +1,18 @@
+{
+  "code": "kazakhstan-russia",
+  "name": "Kazakhstan \u2192 Russia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Kazakhstan \u2192 Russia",
+  "badgeValue": "~2.6 million",
+  "origin": "Kazakhstan",
+  "destination": "Russia",
+  "estimatedMigrants": "~2.6 million",
+  "drivers": [
+    "Post-Soviet migration",
+    "Ethnic Russian return",
+    "Economic ties",
+    "Language and culture"
+  ],
+  "description": "Migration from Kazakhstan to Russia is largely a legacy of the Soviet era, when ethnic Russians and other Slavic populations moved to Central Asia. After independence in 1991, many ethnic Russians returned to Russia, constituting a major post-Soviet migration wave. Economic ties, shared language, and membership in the Eurasian Economic Union continue to facilitate movement.",
+  "geojson": "kazakhstan-russia.geojson"
+}

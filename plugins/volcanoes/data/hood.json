@@ -1,0 +1,21 @@
+{
+  "code": "hood",
+  "name": "Mount Hood",
+  "volcanoType": "Stratovolcano",
+  "status": "Dormant",
+  "elevation": 3429,
+  "lastEruption": "1866",
+  "vei": 2,
+  "country": "United States",
+  "region": "Cascades",
+  "location": "Cascades, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Last significant eruption around 1781-1782 with a lahar reaching the Columbia River. Minor steam emissions in 1859 and 1865-1866.",
+  "description": "Mount Hood is Oregon's highest peak and a prominent landmark visible from Portland. While currently dormant, it is considered potentially active with fumaroles near the summit.",
+  "geojson": "hood.geojson"
+}

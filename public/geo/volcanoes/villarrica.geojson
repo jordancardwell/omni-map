@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9392,-39.4208]},"properties":{"code":"villarrica","name":"Villarrica","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":2847,"lastEruption":"2023","vei":2}}]}

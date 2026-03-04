@@ -1,0 +1,15 @@
+{
+  "code": "abbey-and-altenmunster-of-lorsch",
+  "name": "Abbey and Altenmünster of Lorsch",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+  "danger": false,
+  "geojson": "abbey-and-altenmunster-of-lorsch.geojson"
+}

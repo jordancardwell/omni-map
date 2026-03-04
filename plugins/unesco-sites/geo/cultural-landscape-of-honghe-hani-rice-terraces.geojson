@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7799805556,
+          23.0932777778
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-honghe-hani-rice-terraces",
+        "name": "Cultural Landscape of Honghe Hani Rice Terraces",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

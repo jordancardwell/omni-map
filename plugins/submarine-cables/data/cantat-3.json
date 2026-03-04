@@ -1,0 +1,19 @@
+{
+  "code": "cantat-3",
+  "name": "Cantat-3",
+  "capacityTbps": 2.5,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 7500,
+  "yearLaid": 1994,
+  "rfsDate": "1994-11",
+  "owner": "Telecom Denmark, others",
+  "landingPoints": [
+    "Halifax, Canada",
+    "Vestmannaeyjar, Iceland",
+    "Tórshavn, Faroe Islands",
+    "Blaabjerg, Denmark",
+    "Norden, Germany"
+  ],
+  "description": "Canada-Transatlantic cable connecting North America to Scandinavia via Iceland and Faroe Islands.",
+  "geojson": "cantat-3.geojson"
+}

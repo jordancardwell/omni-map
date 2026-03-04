@@ -1,0 +1,14 @@
+{
+  "code": "gobustan-rock-art-cultural-landscape",
+  "name": "Gobustan Rock Art Cultural Landscape",
+  "type": "Cultural",
+  "country": "Azerbaijan",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Gobustan Rock Art Cultural Landscape covers three areas of a plateau of rocky boulders rising out of the semi-desert of central Azerbaijan, with an outstanding collection of more than 6,000 rock engravings bearing testimony to 40,000 years of rock art. The site also features the remains of inhabited caves, settlements and burials, all reflecting an intensive human use by the inhabitants of the area during the wet period that followed the last Ice Age, from the Upper Paleolithic to the Middle Ages. The site, which covers an area of 537 ha, is part of the larger protected Gobustan Reservation.",
+  "danger": false,
+  "geojson": "gobustan-rock-art-cultural-landscape.geojson"
+}

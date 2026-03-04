@@ -1,0 +1,34 @@
+{
+  "code": "chinese-fujian",
+  "name": "Fujian Cuisine (Min)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Fujian cuisine excels in soups and broths, using umami-rich ingredients from both land and sea. The coastal province's culinary tradition combines delicate seasoning with complex layered flavors, particularly in its renowned 'Buddha Jumps Over the Wall' soup.",
+  "signatureDishes": [
+    "Buddha Jumps Over the Wall",
+    "Oyster Omelette",
+    "Fujian Red Wine Chicken",
+    "Bian Rou"
+  ],
+  "keyIngredients": [
+    "Seafood",
+    "Mushrooms",
+    "Red Rice Wine",
+    "Fish Sauce",
+    "Bamboo Shoots",
+    "Taro"
+  ],
+  "cookingTechniques": [
+    "Slow-simmering broths",
+    "Red wine lees cooking",
+    "Braising",
+    "Pickling"
+  ],
+  "unescoRecognition": "None specific",
+  "keyRegions": [
+    "Fujian Province",
+    "Fuzhou",
+    "Xiamen",
+    "Quanzhou"
+  ],
+  "geojson": "chinese-fujian.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "md-tf-cable",
+  "name": "MD-TF Cable",
+  "capacityTbps": 5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2271,
+  "yearLaid": 2021,
+  "rfsDate": "2012-06",
+  "owner": "Canalink",
+  "landingPoints": [
+    "Funchal, Portugal",
+    "Santa Cruz, Spain"
+  ],
+  "description": "MD-TF Cable connecting Funchal to Santa Cruz in Europe.",
+  "geojson": "md-tf-cable.geojson"
+}

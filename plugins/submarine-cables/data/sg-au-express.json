@@ -1,0 +1,16 @@
+{
+  "code": "sg-au-express",
+  "name": "SG-AU Express",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 561,
+  "yearLaid": 2021,
+  "rfsDate": "2012-06",
+  "owner": "Singtel",
+  "landingPoints": [
+    "Singapore",
+    "Sydney, Australia"
+  ],
+  "description": "SG-AU Express connecting Singapore to Sydney.",
+  "geojson": "sg-au-express.geojson"
+}

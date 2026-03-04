@@ -1,0 +1,16 @@
+{
+  "code": "br-uk-direct",
+  "name": "BR-UK Direct",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11277,
+  "yearLaid": 2016,
+  "rfsDate": "2019-06",
+  "owner": "Seabras-1",
+  "landingPoints": [
+    "Fortaleza, Brazil",
+    "Bude, UK"
+  ],
+  "description": "BR-UK Direct connecting Fortaleza to Bude.",
+  "geojson": "br-uk-direct.geojson"
+}

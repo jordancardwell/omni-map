@@ -1,0 +1,16 @@
+{
+  "code": "old-town-of-regensburg-with-stadtamhof",
+  "name": "Old town of Regensburg with Stadtamhof",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located on the Danube River in Bavaria, this medieval town contains many buildings of exceptional quality that testify to its history as a trading centre and to its influence on the region from the 9th century. A notable number of historic structures span some two millennia and include ancient Roman, Romanesque and Gothic buildings. Regensburg’s 11th- to 13th-century architecture – including the market, city hall and cathedral – still defines the character of the town marked by tall buildings, dark and narrow lanes, and strong fortifications. The buildings include medieval patrician houses and towers, a large number of churches and monastic ensembles as well as the 12th-century Old Bridge. The town is also remarkable for the vestiges testifing to its rich history as one of the centres of the Holy Roman Empire that turned to Protestantism.",
+  "danger": false,
+  "geojson": "old-town-of-regensburg-with-stadtamhof.geojson"
+}

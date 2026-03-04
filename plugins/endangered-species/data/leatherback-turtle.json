@@ -1,0 +1,19 @@
+{
+  "code": "leatherback-turtle",
+  "name": "Leatherback Sea Turtle",
+  "scientificName": "Dermochelys coriacea",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~34,000-94,000 nesting females",
+  "populationTrend": "Decreasing",
+  "habitatType": "Open ocean and sandy beaches",
+  "threats": [
+    "Bycatch",
+    "Plastic ingestion",
+    "Egg collection",
+    "Coastal development"
+  ],
+  "conservationEfforts": "Turtle Excluder Devices (TEDs) required in shrimp trawls. Nesting beach protection programs worldwide. Plastic pollution reduction campaigns.",
+  "description": "The largest living turtle, reaching 2 meters and 700 kg. It can dive to 1,200 meters and maintain body temperature in near-freezing water. Their population has declined 40% in 15 years.",
+  "geojson": "leatherback-turtle.geojson"
+}

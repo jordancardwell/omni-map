@@ -1,0 +1,17 @@
+{
+  "code": "ad",
+  "name": "Andorra",
+  "avgDownloadMbps": 118.6,
+  "avgUploadMbps": 48.4,
+  "avgLatencyMs": 12,
+  "mobileDownloadMbps": 56.8,
+  "mobileUploadMbps": 11.2,
+  "fixedDownloadMbps": 118.6,
+  "fixedUploadMbps": 48.4,
+  "rank": 39,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Pyrenean microstate with good connectivity. ~7% year-over-year growth.",
+  "geojson": "ad.geojson"
+}

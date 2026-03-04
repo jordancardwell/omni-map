@@ -1,0 +1,16 @@
+{
+  "code": "buddhist-monuments-in-the-horyu-ji-area",
+  "name": "Buddhist Monuments in the Horyu-ji Area",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "There are around 48 Buddhist monuments in the Horyu-ji area, in Nara Prefecture. Several date from the late 7th or early 8th century, making them some of the oldest surviving wooden buildings in the world. These masterpieces of wooden architecture are important not only for the history of art, since they illustrate the adaptation of Chinese Buddhist architecture and layout to Japanese culture, but also for the history of religion, since their construction coincided with the introduction of Buddhism to Japan from China by way of the Korean peninsula.",
+  "danger": false,
+  "geojson": "buddhist-monuments-in-the-horyu-ji-area.geojson"
+}

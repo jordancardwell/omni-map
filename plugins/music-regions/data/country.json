@@ -1,0 +1,29 @@
+{
+  "code": "country",
+  "name": "Country Music",
+  "region": "Appalachia & Nashville, United States",
+  "traditionFamily": "North American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Acoustic Guitar",
+    "Fiddle",
+    "Banjo",
+    "Pedal Steel Guitar",
+    "Mandolin"
+  ],
+  "keyArtists": [
+    "Hank Williams",
+    "Johnny Cash",
+    "Dolly Parton",
+    "Patsy Cline",
+    "Willie Nelson"
+  ],
+  "description": "Country music evolved in the rural Southern United States in the 1920s from a blend of Appalachian folk, Celtic immigrant music, African-American blues, and gospel. Nashville, Tennessee became its commercial center, earning the nickname 'Music City.' The genre's storytelling tradition, string-band instrumentation, and themes of heartbreak, faith, and rural life have made it one of America's most enduring musical forms.",
+  "resources": [
+    {
+      "title": "Country Music Hall of Fame",
+      "url": "https://countrymusichalloffame.org/"
+    }
+  ],
+  "geojson": "country.geojson"
+}

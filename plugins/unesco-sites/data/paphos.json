@@ -1,0 +1,14 @@
+{
+  "code": "paphos",
+  "name": "Paphos",
+  "type": "Cultural",
+  "country": "Cyprus",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world.",
+  "danger": false,
+  "geojson": "paphos.geojson"
+}

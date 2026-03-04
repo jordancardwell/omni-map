@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.53138889,
+          49.6125
+        ]
+      },
+      "properties": {
+        "code": "gros-morne-national-park",
+        "name": "Gros Morne National Park",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

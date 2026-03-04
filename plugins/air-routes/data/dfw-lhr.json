@@ -1,0 +1,18 @@
+{
+  "code": "dfw-lhr",
+  "name": "Dallas — London",
+  "airports": [
+    "DFW",
+    "LHR"
+  ],
+  "distanceKm": 7628,
+  "weeklyFlights": 45,
+  "airlines": [
+    "American",
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DFW–LHR route between Dallas and London. Distance: 7,628 km. ~45 weekly flights operated by American, British Airways.",
+  "geojson": "dfw-lhr.geojson"
+}

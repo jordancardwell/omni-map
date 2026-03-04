@@ -1,0 +1,17 @@
+{
+  "code": "historic-centre-of-cordoba",
+  "name": "Historic Centre of Cordoba",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1984",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Cordoba's period of greatest glory began in the 8th century after the Moorish conquest, when some 300 mosques and innumerable palaces and public buildings were built to rival the splendours of Constantinople, Damascus and Baghdad. In the 13th century, under Ferdinand III, the Saint, Cordoba's Great Mosque was turned into a cathedral and new defensive structures, particularly the Alcázar de los Reyes Cristianos and the Torre Fortaleza de la Calahorra, were erected.",
+  "danger": false,
+  "geojson": "historic-centre-of-cordoba.geojson"
+}

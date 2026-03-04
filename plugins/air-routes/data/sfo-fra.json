@@ -1,0 +1,18 @@
+{
+  "code": "sfo-fra",
+  "name": "San Francisco — Frankfurt",
+  "airports": [
+    "SFO",
+    "FRA"
+  ],
+  "distanceKm": 9148,
+  "weeklyFlights": 25,
+  "airlines": [
+    "United",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SFO–FRA route between San Francisco and Frankfurt. Distance: 9,148 km. ~25 weekly flights operated by United, Lufthansa.",
+  "geojson": "sfo-fra.geojson"
+}

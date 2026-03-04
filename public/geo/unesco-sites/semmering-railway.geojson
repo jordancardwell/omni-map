@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.82797222,
+          47.64877778
+        ]
+      },
+      "properties": {
+        "code": "semmering-railway",
+        "name": "Semmering Railway",
+        "type": "Cultural",
+        "country": "Austria",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "zwl",
+  "name": "Zimbabwe Gold (ZiG)",
+  "isoCode": "ZWL",
+  "symbol": "ZiG",
+  "region": "Africa",
+  "centralBank": "Reserve Bank of Zimbabwe",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Zimbabwe"
+  ],
+  "countryCount": 1,
+  "description": "Zimbabwe introduced the gold-backed ZiG currency in 2024 after years of hyperinflation destroyed previous currencies. The US dollar remains widely used.",
+  "historicalNotes": "Zimbabwe experienced the world's second-worst hyperinflation in 2008, with prices doubling every 24 hours. After abandoning the Zimbabwe dollar and using foreign currencies, the ZiG was introduced in 2024.",
+  "geojson": "zwl.geojson"
+}

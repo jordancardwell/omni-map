@@ -1,0 +1,19 @@
+{
+  "code": "banteng",
+  "name": "Banteng",
+  "scientificName": "Bos javanicus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~5,000-8,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical forest and grassland",
+  "threats": [
+    "Habitat loss",
+    "Hunting",
+    "Hybridization with domestic cattle",
+    "Disease"
+  ],
+  "conservationEfforts": "Huai Kha Khaeng Wildlife Sanctuary in Thailand protects a key population. Captive breeding in Australia where feral populations exist. Anti-poaching patrols in Southeast Asian reserves.",
+  "description": "A wild ox of Southeast Asia, the ancestor of domestic Bali cattle. Wild bulls are jet black with white stockings, while cows are reddish-brown. They are active mainly at night to avoid hunters.",
+  "geojson": "banteng.geojson"
+}

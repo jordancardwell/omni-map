@@ -1,0 +1,19 @@
+{
+  "code": "whale-shark",
+  "name": "Whale Shark",
+  "scientificName": "Rhincodon typus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical and warm temperate ocean",
+  "threats": [
+    "Bycatch",
+    "Ship strikes",
+    "Fishing",
+    "Plastic ingestion"
+  ],
+  "conservationEfforts": "Protected in many countries' waters. Whale shark tourism provides economic incentive. Satellite tracking identifies migration corridors and aggregation sites.",
+  "description": "The world's largest fish, reaching 18 meters. Despite their enormous size, they are gentle filter feeders that eat plankton. Each whale shark has a unique pattern of spots, like a fingerprint.",
+  "geojson": "whale-shark.geojson"
+}

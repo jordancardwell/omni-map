@@ -1,0 +1,18 @@
+{
+  "code": "lhr-dxb",
+  "name": "London — Dubai",
+  "airports": [
+    "LHR",
+    "DXB"
+  ],
+  "distanceKm": 5497,
+  "weeklyFlights": 100,
+  "airlines": [
+    "Emirates",
+    "British Airways"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–DXB route between London and Dubai. Distance: 5,497 km. ~100 weekly flights operated by Emirates, British Airways.",
+  "geojson": "lhr-dxb.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "klezmer",
+  "name": "Klezmer",
+  "region": "Eastern Europe (Ashkenazi Diaspora)",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Clarinet",
+    "Violin",
+    "Accordion",
+    "Tsimbl (Hammered Dulcimer)",
+    "Double Bass"
+  ],
+  "keyArtists": [
+    "Giora Feidman",
+    "The Klezmatics",
+    "David Krakauer",
+    "Naftule Brandwein",
+    "Dave Tarras"
+  ],
+  "description": "Klezmer is the instrumental musical tradition of the Ashkenazi Jews of Eastern Europe. The word derives from the Hebrew 'kley zemer' (vessels of song). Characterized by expressive melodies that mimic laughter and crying, klezmer was traditionally played at weddings and celebrations. The genre was nearly lost during the Holocaust but experienced a revival in the 1970s and 1980s.",
+  "resources": [
+    {
+      "title": "YIVO Encyclopedia – Klezmer",
+      "url": "https://yivoencyclopedia.org/article.aspx/Klezmer"
+    }
+  ],
+  "geojson": "klezmer.geojson"
+}

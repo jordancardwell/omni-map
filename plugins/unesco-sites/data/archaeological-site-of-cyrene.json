@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-site-of-cyrene",
+  "name": "Archaeological Site of Cyrene",
+  "type": "Cultural",
+  "country": "Libya",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century.",
+  "danger": true,
+  "geojson": "archaeological-site-of-cyrene.geojson"
+}

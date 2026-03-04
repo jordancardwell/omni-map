@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6305694444,
+          25.4021666667
+        ]
+      },
+      "properties": {
+        "code": "al-ahsa-oasis-an-evolving-cultural-landscape",
+        "name": "Al-Ahsa Oasis, an Evolving Cultural Landscape",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

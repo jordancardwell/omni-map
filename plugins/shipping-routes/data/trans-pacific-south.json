@@ -1,0 +1,8 @@
+{
+  "code": "trans-pacific-south",
+  "name": "Trans-Pacific Southern Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Southern Pacific shipping corridor connecting Southeast Asian ports and Australia with the Americas. Key route for bulk commodities and manufactured goods.",
+  "geojson": "trans-pacific-south.geojson"
+}

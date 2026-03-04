@@ -1,0 +1,18 @@
+{
+  "code": "safe-south-africa-far-east",
+  "name": "SAFE (South Africa Far East)",
+  "capacityTbps": 0.44,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 13500,
+  "yearLaid": 2001,
+  "rfsDate": "2002-12",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Cape Town, South Africa",
+    "Cochin, India",
+    "Port Louis, Mauritius",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "description": "South Africa-Far East cable via Indian Ocean.",
+  "geojson": "safe-south-africa-far-east.geojson"
+}

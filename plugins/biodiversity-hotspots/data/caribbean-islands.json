@@ -1,0 +1,29 @@
+{
+  "code": "caribbean-islands",
+  "name": "Caribbean Islands",
+  "location": "Caribbean Sea (Greater and Lesser Antilles)",
+  "areaKm2": 229549,
+  "habitatRemaining": "11.3%",
+  "plantSpecies": 13000,
+  "endemicPlants": 6550,
+  "vertebrateSpecies": 916,
+  "endemicVertebrates": 484,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Cuban solenodon",
+    "Jamaican hutia",
+    "Puerto Rican parrot",
+    "Hispaniolan solenodon",
+    "Cuban crocodile"
+  ],
+  "threats": [
+    "Tourism development",
+    "Deforestation",
+    "Invasive species",
+    "Hurricanes",
+    "Agriculture"
+  ],
+  "conservationEfforts": "Caribbean Challenge Initiative targets protecting 20% of marine and coastal habitats. Puerto Rican parrot recovery program has increased population. Multiple national parks across islands. Island-specific invasive species eradication programs.",
+  "description": "The Caribbean Islands hotspot encompasses all the islands in the Caribbean Sea, including the Greater Antilles (Cuba, Jamaica, Hispaniola, Puerto Rico), the Lesser Antilles, and the Bahamas. This island archipelago has been isolated long enough for spectacular evolutionary radiation.\n\nThe hotspot contains over 13,000 plant species with 50% endemism and extraordinary vertebrate endemism at 53%. The islands are particularly important for reptile and amphibian diversity. However, Caribbean islands have already experienced the highest documented extinction rates of any hotspot.",
+  "geojson": "caribbean-islands.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "coro-and-its-port",
+  "name": "Coro and its Port",
+  "type": "Cultural",
+  "country": "Venezuela (Bolivarian Republic of)",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "With its earthen constructions unique to the Caribbean, Coro is the only surviving example of a rich fusion of local traditions with Spanish Mudéjar and Dutch architectural techniques. One of the first colonial towns (founded in 1527), it has some 602 historic buildings.",
+  "danger": true,
+  "geojson": "coro-and-its-port.geojson"
+}

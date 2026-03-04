@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ewr","name":"Newark Liberty International","featureType":"airport","iataCode":"EWR","annualPassengers":43500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[-74.1745,40.6895]}}]}

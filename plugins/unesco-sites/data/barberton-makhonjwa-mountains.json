@@ -1,0 +1,14 @@
+{
+  "code": "barberton-makhonjwa-mountains",
+  "name": "Barberton Makhonjwa Mountains",
+  "type": "Natural",
+  "country": "South Africa",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Africa",
+  "description": "Situated in north-eastern South Africa, the Barberton Makhonjwa Mountains comprises 40% of the Barberton Greenstone Belt, one of the world’s oldest geological structures. The property represents the best-preserved succession of volcanic and sedimentary rock dating back 3.6 to 3.25 billion years and forms a diverse repository of information on surface conditions, meteorite impacts, volcanism, continent-building processes and the environment of early life.",
+  "danger": false,
+  "geojson": "barberton-makhonjwa-mountains.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "us-br-east",
+  "name": "US-BR East",
+  "capacityTbps": 45,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13757,
+  "yearLaid": 2013,
+  "rfsDate": "2013-06",
+  "owner": "Algar",
+  "landingPoints": [
+    "Jacksonville, USA",
+    "Fortaleza, Brazil"
+  ],
+  "description": "US-BR East connecting Jacksonville to Fortaleza.",
+  "geojson": "us-br-east.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4440555556,
+          31.8713055556
+        ]
+      },
+      "properties": {
+        "code": "ancient-jericho-tell-es-sultan",
+        "name": "Ancient Jericho/Tell es-Sultan",
+        "type": "Cultural",
+        "country": "State of Palestine",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

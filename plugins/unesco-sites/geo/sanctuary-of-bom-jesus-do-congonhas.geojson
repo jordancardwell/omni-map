@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.860806,
+          -20.508201
+        ]
+      },
+      "properties": {
+        "code": "sanctuary-of-bom-jesus-do-congonhas",
+        "name": "Sanctuary of Bom Jesus do Congonhas",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

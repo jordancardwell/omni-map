@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.779722222,
+          37.87919444
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-cordoba",
+        "name": "Historic Centre of Cordoba",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

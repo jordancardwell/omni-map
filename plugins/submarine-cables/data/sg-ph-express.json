@@ -1,0 +1,16 @@
+{
+  "code": "sg-ph-express",
+  "name": "SG-PH Express",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4749,
+  "yearLaid": 2015,
+  "rfsDate": "2016-06",
+  "owner": "PLDT",
+  "landingPoints": [
+    "Singapore",
+    "Manila, Philippines"
+  ],
+  "description": "SG-PH Express connecting Singapore to Manila.",
+  "geojson": "sg-ph-express.geojson"
+}

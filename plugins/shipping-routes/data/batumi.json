@@ -1,0 +1,14 @@
+{
+  "code": "batumi",
+  "name": "Port of Batumi",
+  "country": "Georgia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 10,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Black Sea Shipping Route"
+  ],
+  "description": "Port of Batumi in Georgia. Annual cargo throughput: ~10 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "batumi.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "euler",
+  "name": "Swiss 1.2m Euler Telescope",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2375,
+  "aperture": "1.2 m",
+  "telescopes": [
+    "Euler",
+    "CORALIE"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet discoveries (CORALIE)",
+    "Transiting planet confirmation",
+    "Stellar chemical abundances"
+  ],
+  "location": "Swiss 1.2m Euler Telescope, Chile",
+  "description": "Geneva Observatory telescope at La Silla. CORALIE spectrograph has discovered and characterized numerous exoplanets, complementing the HARPS program.",
+  "geojson": "euler.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "stonehenge-avebury-and-associated-sites",
+  "name": "Stonehenge, Avebury and Associated Sites",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Stonehenge and Avebury, in Wiltshire, are among the most famous groups of megaliths in the world. The two sanctuaries consist of circles of menhirs arranged in a pattern whose astronomical significance is still being explored. These holy places and the nearby Neolithic sites are an incomparable testimony to prehistoric times.",
+  "danger": false,
+  "geojson": "stonehenge-avebury-and-associated-sites.geojson"
+}

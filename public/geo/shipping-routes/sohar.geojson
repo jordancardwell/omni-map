@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sohar","name":"Port of Sohar","featureType":"port","portType":"Multi-Purpose Port","country":"Oman"},"geometry":{"type":"Point","coordinates":[56.73,24.35]}}]}

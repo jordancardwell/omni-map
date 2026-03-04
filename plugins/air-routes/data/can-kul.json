@@ -1,0 +1,18 @@
+{
+  "code": "can-kul",
+  "name": "Guangzhou — Kuala Lumpur",
+  "airports": [
+    "CAN",
+    "KUL"
+  ],
+  "distanceKm": 2614,
+  "weeklyFlights": 35,
+  "airlines": [
+    "China Southern",
+    "AirAsia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CAN–KUL route between Guangzhou and Kuala Lumpur. Distance: 2,614 km. ~35 weekly flights operated by China Southern, AirAsia.",
+  "geojson": "can-kul.geojson"
+}

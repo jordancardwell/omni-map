@@ -1,0 +1,18 @@
+{
+  "code": "yyz-ewr",
+  "name": "Toronto — Newark",
+  "airports": [
+    "YYZ",
+    "EWR"
+  ],
+  "distanceKm": 558,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Air Canada",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "YYZ–EWR route between Toronto and Newark. Distance: 558 km. ~50 weekly flights operated by Air Canada, United.",
+  "geojson": "yyz-ewr.geojson"
+}

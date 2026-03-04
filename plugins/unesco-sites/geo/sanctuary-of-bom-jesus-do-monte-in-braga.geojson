@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3770277778,
+          41.5549444444
+        ]
+      },
+      "properties": {
+        "code": "sanctuary-of-bom-jesus-do-monte-in-braga",
+        "name": "Sanctuary of Bom Jesus do Monte in Braga",
+        "type": "Cultural",
+        "country": "Portugal",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

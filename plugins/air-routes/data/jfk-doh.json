@@ -1,0 +1,17 @@
+{
+  "code": "jfk-doh",
+  "name": "New York — Doha",
+  "airports": [
+    "JFK",
+    "DOH"
+  ],
+  "distanceKm": 10769,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JFK–DOH route between New York and Doha. Distance: 10,769 km. ~35 weekly flights operated by Qatar Airways.",
+  "geojson": "jfk-doh.geojson"
+}

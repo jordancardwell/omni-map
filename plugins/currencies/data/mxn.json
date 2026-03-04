@@ -1,0 +1,16 @@
+{
+  "code": "mxn",
+  "name": "Mexican Peso",
+  "isoCode": "MXN",
+  "symbol": "Mex$",
+  "region": "Americas",
+  "centralBank": "Bank of Mexico",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Mexico"
+  ],
+  "countryCount": 1,
+  "description": "The Mexican Peso is one of the most traded currencies in the Americas and among emerging market currencies globally. Mexico was one of the first countries to use the dollar sign '$'.",
+  "historicalNotes": "The peso has its origins in the Spanish real de a ocho (piece of eight). After hyperinflation in the 1980s, the 'nuevo peso' was introduced in 1993, dropping three zeros. It reverted to simply 'peso' in 1996.",
+  "geojson": "mxn.geojson"
+}

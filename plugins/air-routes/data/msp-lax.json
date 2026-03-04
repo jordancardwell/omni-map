@@ -1,0 +1,18 @@
+{
+  "code": "msp-lax",
+  "name": "Minneapolis — Los Angeles",
+  "airports": [
+    "MSP",
+    "LAX"
+  ],
+  "distanceKm": 2467,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Delta",
+    "Sun Country"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MSP–LAX route between Minneapolis and Los Angeles. Distance: 2,467 km. ~40 weekly flights operated by Delta, Sun Country.",
+  "geojson": "msp-lax.geojson"
+}

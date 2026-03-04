@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "poland-uk", "name": "Poland \u2192 United Kingdom", "migrantVolume": 3}, "geometry": {"type": "LineString", "coordinates": [[20, 52], [15, 52], [8, 52], [2, 52], [-1, 52]]}}]}

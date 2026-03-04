@@ -1,0 +1,16 @@
+{
+  "code": "sgd",
+  "name": "Singapore Dollar",
+  "isoCode": "SGD",
+  "symbol": "S$",
+  "region": "Asia",
+  "centralBank": "Monetary Authority of Singapore",
+  "exchangeRateEra": "Managed float (NEER basket)",
+  "countries": [
+    "Singapore"
+  ],
+  "countryCount": 1,
+  "description": "The Singapore Dollar is managed through a unique exchange rate-based monetary policy rather than interest rate targeting.",
+  "historicalNotes": "Introduced in 1967 after Singapore's separation from Malaysia. Singapore and Brunei maintain a Currency Interchangeability Agreement, accepting each other's currency at par.",
+  "geojson": "sgd.geojson"
+}

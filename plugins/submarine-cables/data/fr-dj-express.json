@@ -1,0 +1,16 @@
+{
+  "code": "fr-dj-express",
+  "name": "FR-DJ Express",
+  "capacityTbps": 13,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1191,
+  "yearLaid": 2013,
+  "rfsDate": "2022-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Marseille, France",
+    "Djibouti, Djibouti"
+  ],
+  "description": "FR-DJ Express connecting Marseille to Djibouti.",
+  "geojson": "fr-dj-express.geojson"
+}

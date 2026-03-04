@@ -1,0 +1,15 @@
+{
+  "code": "tajik-national-park-mountains-of-the-pamirs",
+  "name": "Tajik National Park (Mountains of the Pamirs)",
+  "type": "Natural",
+  "country": "Tajikistan",
+  "yearInscribed": "2013",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Tajikistan National Park covers more than 2.5 million hectares in the east of the country, at the centre of the so-called “Pamir Knot”, a meeting point of the highest mountain ranges on the Eurasian continent. It consists of high plateaux in the east and, to the west, rugged peaks, some of them over 7,000 meters high, and features extreme seasonal variations of temperature. The longest valley glacier outside the Polar region is located among the 1,085 glaciers inventoried in the site, which also numbers 170 rivers and more than 400 lakes. Rich flora species of both the south-western and central Asian floristic regions grow in the Park which shelters nationally rare and threatened birds and mammals (Marco Polo Argali sheep, Snow Leopards and Siberian Ibex and more). Subject to frequent strong earthquakes, the Park is sparsely inhabited, and virtually unaffected by agriculture and permanent human settlements. It offers a unique opportunity for the study of plate tectonics and subduction phenomena.",
+  "danger": false,
+  "geojson": "tajik-national-park-mountains-of-the-pamirs.geojson"
+}

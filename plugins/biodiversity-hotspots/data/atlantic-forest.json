@@ -1,0 +1,28 @@
+{
+  "code": "atlantic-forest",
+  "name": "Atlantic Forest",
+  "location": "Eastern South America (Brazil, Paraguay, Argentina)",
+  "areaKm2": 1233875,
+  "habitatRemaining": "11.7%",
+  "plantSpecies": 20000,
+  "endemicPlants": 8000,
+  "vertebrateSpecies": 1361,
+  "endemicVertebrates": 567,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Golden lion tamarin",
+    "Muriqui",
+    "Harpy eagle",
+    "Maned sloth",
+    "Black lion tamarin"
+  ],
+  "threats": [
+    "Deforestation",
+    "Agriculture expansion",
+    "Urbanization",
+    "Logging"
+  ],
+  "conservationEfforts": "Brazil's Atlantic Forest Law (2006) protects remaining fragments. Restoration initiatives aim to restore 15 million hectares by 2050. The Lion Tamarin Conservation Program has increased golden lion tamarin populations from 200 to over 3,700.",
+  "description": "The Atlantic Forest once stretched along Brazil's entire Atlantic coast and extended inland to eastern Paraguay and northeastern Argentina. Today only about 12% of the original forest remains, making it one of the most threatened biodiversity hotspots on Earth.\n\nDespite massive habitat loss, the Atlantic Forest harbors extraordinary biodiversity with over 20,000 plant species, 40% of which are found nowhere else. It is home to more than 260 species of mammals, including iconic species like the golden lion tamarin and the woolly spider monkey (muriqui), both of which are endangered.",
+  "geojson": "atlantic-forest.geojson"
+}

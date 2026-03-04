@@ -1,0 +1,22 @@
+{
+  "code": "shishaldin",
+  "name": "Shishaldin Volcano",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2857,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lava flows",
+    "Lahars",
+    "Pyroclastic flows"
+  ],
+  "eruptionHistory": "One of the most active Aleutian volcanoes. The 2023 eruption produced lava flows and ash plumes over 40,000 feet.",
+  "description": "Shishaldin is the highest peak in the Aleutian Islands and has the most symmetrical cone of any Aleutian volcano. Its near-constant steam plume is a prominent landmark.",
+  "geojson": "shishaldin.geojson"
+}

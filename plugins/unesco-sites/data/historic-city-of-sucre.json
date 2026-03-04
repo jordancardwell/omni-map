@@ -1,0 +1,14 @@
+{
+  "code": "historic-city-of-sucre",
+  "name": "Historic City of Sucre",
+  "type": "Cultural",
+  "country": "Bolivia (Plurinational State of)",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Sucre, the first capital of Bolivia, was founded by the Spanish in the first half of the 16th century. Its many well-preserved 16th-century religious buildings, such as San Lázaro, San Francisco and Santo Domingo, illustrate the blending of local architectural traditions with styles imported from Europe.",
+  "danger": false,
+  "geojson": "historic-city-of-sucre.geojson"
+}

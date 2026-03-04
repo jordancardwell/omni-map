@@ -1,0 +1,16 @@
+{
+  "code": "itsukushima-shinto-shrine",
+  "name": "Itsukushima Shinto Shrine",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The island of Itsukushima, in the Seto inland sea, has been a holy place of Shintoism since the earliest times. The first shrine buildings here were probably erected in the 6th century. The present shrine dates from the 12th century and the harmoniously arranged buildings reveal great artistic and technical skill. The shrine plays on the contrasts in colour and form between mountains and sea and illustrates the Japanese concept of scenic beauty, which combines nature and human creativity.",
+  "danger": false,
+  "geojson": "itsukushima-shinto-shrine.geojson"
+}

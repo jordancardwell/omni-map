@@ -1,0 +1,16 @@
+{
+  "code": "apollo-north",
+  "name": "Apollo North",
+  "capacityTbps": 3.2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 5600,
+  "yearLaid": 2002,
+  "rfsDate": "2003-04",
+  "owner": "Apollo Submarine Cable System",
+  "landingPoints": [
+    "Bude, UK",
+    "Shirley, USA"
+  ],
+  "description": "Transatlantic cable connecting the UK to North America.",
+  "geojson": "apollo-north.geojson"
+}

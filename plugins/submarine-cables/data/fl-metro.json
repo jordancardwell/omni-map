@@ -1,0 +1,16 @@
+{
+  "code": "fl-metro",
+  "name": "FL Metro",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1122,
+  "yearLaid": 2020,
+  "rfsDate": "2015-06",
+  "owner": "Comcast",
+  "landingPoints": [
+    "Hollywood, USA",
+    "Miami, USA"
+  ],
+  "description": "FL Metro connecting Hollywood to Miami.",
+  "geojson": "fl-metro.geojson"
+}

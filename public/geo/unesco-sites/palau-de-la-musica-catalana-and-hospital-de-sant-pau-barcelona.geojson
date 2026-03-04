@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175,
+          41.38778
+        ]
+      },
+      "properties": {
+        "code": "palau-de-la-musica-catalana-and-hospital-de-sant-pau-barcelona",
+        "name": "Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

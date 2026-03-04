@@ -1,0 +1,18 @@
+{
+  "code": "kz",
+  "name": "Kazakhstan",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "F"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European-style plugs. Same as Russia.",
+  "geojson": "kz.geojson"
+}

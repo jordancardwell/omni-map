@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8262,
+          51.1789
+        ]
+      },
+      "properties": {
+        "code": "autumn-equinox-mabon",
+        "name": "Mabon (Autumn Equinox)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "September 21–23",
+        "location": "Stonehenge, UK"
+      }
+    }
+  ]
+}

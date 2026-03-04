@@ -1,0 +1,12 @@
+{
+  "code": "viking-routes",
+  "name": "Viking Trade Routes",
+  "routeType": "Mixed",
+  "era": "Medieval",
+  "period": "c. 800 – 1100 CE",
+  "commodities": ["Furs", "Amber", "Walrus ivory", "Slaves", "Honey", "Wax", "Silver", "Silk", "Spices", "Swords"],
+  "majorStops": ["Birka", "Hedeby", "Novgorod", "Kiev", "Constantinople", "Baghdad", "Dublin", "York", "Reykjavik"],
+  "significance": "Viking traders created a vast network spanning from North America to Baghdad, connecting the Norse world with Byzantine and Islamic civilizations via Russian river systems",
+  "description": "Viking trade routes formed an extensive network stretching from Newfoundland in the west to Baghdad in the east, making the Norse some of the most far-reaching traders of the medieval world.\n\nThe eastern routes (Varangian routes) followed Russian rivers — the Dnieper to Constantinople and the Volga to the Caspian Sea and Baghdad. Swedish Vikings (Varangians) established trading posts at Novgorod and Kiev, which grew into the foundations of Kievan Rus. Arab sources describe encountering Norse merchants trading furs, slaves, and amber for silver dirhams and silk.\n\nThe western routes connected Scandinavia to the British Isles, Iceland, Greenland, and briefly North America (Vinland). Dublin, York, and other Viking-founded cities became thriving commercial centers. Hedeby and Birka in Scandinavia served as major entrepôts linking eastern and western trade networks.\n\nViking trade was inseparable from raiding and colonization — the same longships served all three purposes, and many settlements began as seasonal trading posts.",
+  "geojson": "viking-routes.geojson"
+}

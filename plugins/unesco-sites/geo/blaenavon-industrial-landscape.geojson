@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.088055556,
+          51.77638889
+        ]
+      },
+      "properties": {
+        "code": "blaenavon-industrial-landscape",
+        "name": "Blaenavon Industrial Landscape",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

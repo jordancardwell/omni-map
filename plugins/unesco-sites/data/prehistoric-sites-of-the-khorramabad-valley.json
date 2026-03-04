@@ -1,0 +1,14 @@
+{
+  "code": "prehistoric-sites-of-the-khorramabad-valley",
+  "name": "Prehistoric Sites of the Khorramabad Valley",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The prehistoric sites of the Khorramabad Valley include five caves and one rock shelter within a narrow ecological corridor rich in water, flora, and fauna. Human occupation dates back 63,000 years, with evidence from the Middle to Upper Palaeolithic periods. These sites reveal Mousterian and Baradostian cultures, offering insights into early human evolution and migration from Africa to Eurasia. Artifacts such as decorative objects and advanced stone tools highlight the cognitive and technological development of early humans in the Zagros Mountains. The area remains underexplored, holding significant potential for future archaeological discoveries.",
+  "danger": false,
+  "geojson": "prehistoric-sites-of-the-khorramabad-valley.geojson"
+}

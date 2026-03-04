@@ -1,0 +1,14 @@
+{
+  "code": "hakata",
+  "name": "Port of Hakata",
+  "country": "Japan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Hakata in Japan. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "hakata.geojson"
+}

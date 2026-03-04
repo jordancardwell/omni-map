@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.121826,
+          39.371271
+        ]
+      },
+      "properties": {
+        "code": "great-mosque-and-hospital-of-divrigi",
+        "name": "Great Mosque and Hospital of Divriği",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

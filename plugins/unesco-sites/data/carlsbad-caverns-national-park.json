@@ -1,0 +1,15 @@
+{
+  "code": "carlsbad-caverns-national-park",
+  "name": "Carlsbad Caverns National Park",
+  "type": "Natural",
+  "country": "United States of America",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This karst landscape in the state of New Mexico comprises over 80 recognized caves. They are outstanding not only for their size but also for the profusion, diversity and beauty of their mineral formations. Lechuguilla Cave stands out from the others, providing an underground laboratory where geological and biological processes can be studied in a pristine setting.",
+  "danger": false,
+  "geojson": "carlsbad-caverns-national-park.geojson"
+}

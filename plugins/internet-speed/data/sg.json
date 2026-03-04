@@ -1,0 +1,17 @@
+{
+  "code": "sg",
+  "name": "Singapore",
+  "avgDownloadMbps": 283.6,
+  "avgUploadMbps": 256.3,
+  "avgLatencyMs": 4,
+  "mobileDownloadMbps": 104.2,
+  "mobileUploadMbps": 22.8,
+  "fixedDownloadMbps": 283.6,
+  "fixedUploadMbps": 256.3,
+  "rank": 1,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "World leader in fixed broadband with near-universal fiber coverage. Speeds grew ~8% year-over-year.",
+  "geojson": "sg.geojson"
+}

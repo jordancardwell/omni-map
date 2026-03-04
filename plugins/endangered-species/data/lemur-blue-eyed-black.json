@@ -1,0 +1,18 @@
+{
+  "code": "lemur-blue-eyed-black",
+  "name": "Blue-eyed Black Lemur",
+  "scientificName": "Eulemur flavifrons",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~2,780 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical moist forest",
+  "threats": [
+    "Slash-and-burn agriculture",
+    "Logging",
+    "Hunting"
+  ],
+  "conservationEfforts": "Sahamalaza-Iles Radama National Park protects core habitat. Community-based conservation programs. One of the few non-human primates with blue eyes.",
+  "description": "The only non-human primate besides humans to consistently have blue eyes. Males are jet black while females are reddish-brown. Found only in a small area of northwestern Madagascar.",
+  "geojson": "lemur-blue-eyed-black.geojson"
+}

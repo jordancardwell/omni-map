@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9716488888,
+          32.8293966667
+        ]
+      },
+      "properties": {
+        "code": "bahai-holy-places-in-haifa-and-the-western-galilee",
+        "name": "Bahá’i Holy Places in Haifa and the Western Galilee",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

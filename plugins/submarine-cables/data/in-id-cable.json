@@ -1,0 +1,16 @@
+{
+  "code": "in-id-cable",
+  "name": "IN-ID Cable",
+  "capacityTbps": 45,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3288,
+  "yearLaid": 2015,
+  "rfsDate": "2023-06",
+  "owner": "Tata",
+  "landingPoints": [
+    "Chennai, India",
+    "Jakarta, Indonesia"
+  ],
+  "description": "IN-ID Cable connecting Chennai to Jakarta.",
+  "geojson": "in-id-cable.geojson"
+}

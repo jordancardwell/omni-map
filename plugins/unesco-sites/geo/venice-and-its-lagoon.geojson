@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33894444,
+          45.43430556
+        ]
+      },
+      "properties": {
+        "code": "venice-and-its-lagoon",
+        "name": "Venice and its Lagoon",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

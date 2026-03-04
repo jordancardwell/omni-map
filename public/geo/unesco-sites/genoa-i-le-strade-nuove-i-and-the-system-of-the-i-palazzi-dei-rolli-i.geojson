@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93,
+          44.412
+        ]
+      },
+      "properties": {
+        "code": "genoa-i-le-strade-nuove-i-and-the-system-of-the-i-palazzi-dei-rolli-i",
+        "name": "Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

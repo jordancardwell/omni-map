@@ -1,0 +1,17 @@
+{
+  "code": "tg",
+  "name": "Togo",
+  "avgDownloadMbps": 6.8,
+  "avgUploadMbps": 2.2,
+  "avgLatencyMs": 44,
+  "mobileDownloadMbps": 8.8,
+  "mobileUploadMbps": 2.4,
+  "fixedDownloadMbps": 6.8,
+  "fixedUploadMbps": 2.2,
+  "rank": 163,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Small West African market developing. ~12% year-over-year growth.",
+  "geojson": "tg.geojson"
+}

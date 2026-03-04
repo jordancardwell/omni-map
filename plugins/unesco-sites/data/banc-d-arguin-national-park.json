@@ -1,0 +1,15 @@
+{
+  "code": "banc-d-arguin-national-park",
+  "name": "Banc d'Arguin National Park",
+  "type": "Natural",
+  "country": "Mauritania",
+  "yearInscribed": "1989",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Arab States",
+  "description": "Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found.",
+  "danger": false,
+  "geojson": "banc-d-arguin-national-park.geojson"
+}

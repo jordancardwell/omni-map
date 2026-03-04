@@ -1,0 +1,17 @@
+{
+  "code": "no",
+  "name": "Norway",
+  "avgDownloadMbps": 222.4,
+  "avgUploadMbps": 112.3,
+  "avgLatencyMs": 10,
+  "mobileDownloadMbps": 120.8,
+  "mobileUploadMbps": 19.4,
+  "fixedDownloadMbps": 222.4,
+  "fixedUploadMbps": 112.3,
+  "rank": 8,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Northern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Excellent connectivity even in rural areas. ~10% year-over-year growth.",
+  "geojson": "no.geojson"
+}

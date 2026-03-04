@@ -1,0 +1,15 @@
+{
+  "code": "tubarao",
+  "name": "Port of Tubarão",
+  "country": "Brazil",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 115,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Trans-Atlantic Southern Route",
+    "Brazil–Europe Route"
+  ],
+  "description": "Port of Tubarão in Brazil. Annual cargo throughput: ~115 million tons. Type: Bulk Port.",
+  "geojson": "tubarao.geojson"
+}

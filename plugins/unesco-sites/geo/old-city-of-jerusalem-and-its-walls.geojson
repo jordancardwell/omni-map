@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2316666667,
+          31.7777777778
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-jerusalem-and-its-walls",
+        "name": "Old City of Jerusalem and its Walls",
+        "type": "Cultural",
+        "country": "Jerusalem (Site proposed by Jordan)",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "rock-art-of-the-mediterranean-basin-on-the-iberian-peninsula",
+  "name": "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The late prehistoric rock-art sites of the Mediterranean seaboard of the Iberian peninsula form an exceptionally large group. Here the way of life during a critical phase of human development is vividly and graphically depicted in paintings whose style and subject matter are unique.",
+  "danger": false,
+  "geojson": "rock-art-of-the-mediterranean-basin-on-the-iberian-peninsula.geojson"
+}

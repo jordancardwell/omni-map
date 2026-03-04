@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2117916667,
+          -25.7406916667
+        ]
+      },
+      "properties": {
+        "code": "human-rights-liberation-and-reconciliation-nelson-mandela-legacy-sites",
+        "name": "Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

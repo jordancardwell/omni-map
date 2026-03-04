@@ -1,0 +1,20 @@
+{
+  "code": "askap-site",
+  "name": "ASKAP (Australian SKA Pathfinder)",
+  "country": "Australia",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 377,
+  "aperture": "36 × 12 m dishes",
+  "telescopes": [
+    "ASKAP"
+  ],
+  "keyDiscoveries": [
+    "RACS all-sky survey",
+    "Fast radio burst detections",
+    "HI surveys"
+  ],
+  "location": "ASKAP (Australian SKA Pathfinder), Australia",
+  "description": "36-dish radio telescope array in Western Australia's Murchison region. ASKAP's phased array feeds provide an exceptionally wide field of view.",
+  "geojson": "askap-site.geojson"
+}

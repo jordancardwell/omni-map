@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4330555556,
+          46.0941666667
+        ]
+      },
+      "properties": {
+        "code": "longobards-in-italy-places-of-the-power-568-774-a-d",
+        "name": "Longobards in Italy. Places of the Power (568-774 A.D.)",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "cu-jm-cable",
+  "name": "CU-JM Cable",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 966,
+  "yearLaid": 2021,
+  "rfsDate": "2013-06",
+  "owner": "ALBA-1",
+  "landingPoints": [
+    "Havana, Cuba",
+    "Kingston, Jamaica"
+  ],
+  "description": "CU-JM Cable connecting Havana to Kingston.",
+  "geojson": "cu-jm-cable.geojson"
+}

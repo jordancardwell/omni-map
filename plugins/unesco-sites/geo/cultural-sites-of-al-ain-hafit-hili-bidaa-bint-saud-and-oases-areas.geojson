@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8063888889,
+          24.0677777778
+        ]
+      },
+      "properties": {
+        "code": "cultural-sites-of-al-ain-hafit-hili-bidaa-bint-saud-and-oases-areas",
+        "name": "Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+        "type": "Cultural",
+        "country": "United Arab Emirates",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

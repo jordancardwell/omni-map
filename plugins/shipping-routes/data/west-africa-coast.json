@@ -1,0 +1,8 @@
+{
+  "code": "west-africa-coast",
+  "name": "West African Coastal Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Coastal shipping route along West Africa from Morocco to Angola. Serves oil exports from Nigeria and Angola, and general cargo to/from rapidly growing West African economies.",
+  "geojson": "west-africa-coast.geojson"
+}

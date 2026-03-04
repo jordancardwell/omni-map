@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9913888889,
+          16.9736111111
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-agadez",
+        "name": "Historic Centre of Agadez",
+        "type": "Cultural",
+        "country": "Niger",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

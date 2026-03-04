@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.552,14.757]},"properties":{"code":"santa-maria","name":"Santa María","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":3772,"lastEruption":"2023","vei":6}}]}

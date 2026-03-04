@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.7603,46.8523]},"properties":{"code":"rainier","name":"Mount Rainier","volcanoType":"Stratovolcano","status":"Dormant","elevation":4392,"lastEruption":"1894","vei":3}}]}

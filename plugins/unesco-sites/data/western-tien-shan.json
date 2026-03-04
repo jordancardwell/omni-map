@@ -1,0 +1,14 @@
+{
+  "code": "western-tien-shan",
+  "name": "Western Tien-Shan",
+  "type": "Natural",
+  "country": "Kyrgyzstan, Kazakhstan, Uzbekistan",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The transnational property is located in the Tien-Shan mountain system, one of the largest mountain ranges in the world. Western Tien-Shan ranges in altitude from 700 to 4,503 m. It features diverse landscapes, which are home to exceptionally rich biodiversity. It is of global importance as a centre of origin for a number of cultivated fruit crops and is home to a great diversity of forest types and unique plant community associations.",
+  "danger": false,
+  "geojson": "western-tien-shan.geojson"
+}

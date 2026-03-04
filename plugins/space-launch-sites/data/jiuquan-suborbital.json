@@ -1,0 +1,16 @@
+{
+  "code": "jiuquan-suborbital",
+  "name": "Jiuquan Sounding Rocket Range",
+  "country": "China",
+  "operator": "CASC",
+  "coordinates": "40.9580°N, 100.2980°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Tianying sounding rockets",
+    "T-series rockets for atmospheric research"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital)",
+  "location": "Jiuquan Sounding Rocket Range, China",
+  "description": "Sounding rocket launch area within the Jiuquan complex. Used for atmospheric research, microgravity experiments, and technology demonstration missions.",
+  "geojson": "jiuquan-suborbital.geojson"
+}

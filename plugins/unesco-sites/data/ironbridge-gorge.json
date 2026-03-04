@@ -1,0 +1,16 @@
+{
+  "code": "ironbridge-gorge",
+  "name": "Ironbridge Gorge",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Ironbridge is known throughout the world as the symbol of the Industrial Revolution. It contains all the elements of progress that contributed to the rapid development of this industrial region in the 18th century, from the mines themselves to the railway lines. Nearby, the blast furnace of Coalbrookdale, built in 1708, is a reminder of the discovery of coke. The bridge at Ironbridge, the world's first bridge constructed of iron, had a considerable influence on developments in the fields of technology and architecture.",
+  "danger": false,
+  "geojson": "ironbridge-gorge.geojson"
+}

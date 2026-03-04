@@ -1,0 +1,25 @@
+{
+  "code": "gupta-empire",
+  "name": "Gupta Empire",
+  "era": "Ancient",
+  "peakYear": "400 CE",
+  "areaAtPeakKm2": 3500000,
+  "populationEstimate": "35 million",
+  "capital": "Pataliputra",
+  "keyAchievements": [
+    "Zero and decimal system",
+    "Sanskrit literature golden age",
+    "Nalanda University",
+    "Iron pillar metallurgy",
+    "Ayurvedic medicine advances"
+  ],
+  "declineFactors": [
+    "Hunnic invasions",
+    "Provincial governors' autonomy",
+    "Succession disputes",
+    "Economic disruption",
+    "Loss of trade routes"
+  ],
+  "description": "The Gupta Empire (320–550 CE) presided over the Indian Golden Age, a period of extraordinary advances in science, mathematics, astronomy, philosophy, literature, and art. India under the Guptas was one of the world's most advanced civilizations.\n\nGupta scholars invented the numeral system (including zero) that the entire world uses today, made advances in astronomy that predated Copernicus, and developed Sanskrit literature to its highest form. The iron pillar of Delhi, which has resisted corrosion for 1,600 years, demonstrates their metallurgical sophistication.",
+  "geojson": "gupta-empire.geojson"
+}

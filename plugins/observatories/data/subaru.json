@@ -1,0 +1,20 @@
+{
+  "code": "subaru",
+  "name": "Subaru Telescope",
+  "country": "Japan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 4163,
+  "aperture": "8.2 m",
+  "telescopes": [
+    "Subaru"
+  ],
+  "keyDiscoveries": [
+    "Most distant galaxy clusters",
+    "Hyper Suprime-Cam survey",
+    "Kuiper Belt objects"
+  ],
+  "location": "Subaru Telescope, Japan",
+  "description": "National Astronomical Observatory of Japan's 8.2m telescope on Mauna Kea. Known for its wide-field imaging capability with the Hyper Suprime-Cam.",
+  "geojson": "subaru.geojson"
+}

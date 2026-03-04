@@ -1,0 +1,17 @@
+{
+  "code": "lc-46",
+  "name": "Space Launch Complex 46 (Cape Canaveral)",
+  "country": "United States",
+  "operator": "Space Florida / US Navy",
+  "coordinates": "28.4650°N, 80.5660°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Trident missile tests",
+    "Minotaur launches",
+    "L-1011 Pegasus drops"
+  ],
+  "orbitalInclinationRange": "28°–57°",
+  "location": "Space Launch Complex 46 (Cape Canaveral), United States",
+  "description": "Multi-use launch complex at Cape Canaveral originally built for Navy Trident missile testing. Now operated by Space Florida for small launch vehicles.",
+  "geojson": "lc-46.geojson"
+}

@@ -1,0 +1,30 @@
+{
+  "code": "utc+4",
+  "name": "Gulf Standard Time",
+  "nativeName": "UTC+04:00",
+  "utcOffset": "UTC+04:00",
+  "utcOffsetHours": 4,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Asia/Dubai",
+    "Asia/Baku",
+    "Asia/Tbilisi",
+    "Indian/Mauritius"
+  ],
+  "countries": [
+    "United Arab Emirates",
+    "Oman",
+    "Azerbaijan",
+    "Georgia",
+    "Armenia",
+    "Mauritius",
+    "Réunion (France)",
+    "Seychelles"
+  ],
+  "dstRules": "Generally no DST observed in this zone",
+  "description": "Covers the Persian Gulf states, South Caucasus, and western Indian Ocean islands. Dubai and Abu Dhabi have become global hubs for commerce and aviation, strategically positioned between European and Asian time zones.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+4.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "bb",
+  "name": "Barbados",
+  "avgDownloadMbps": 34.8,
+  "avgUploadMbps": 14.2,
+  "avgLatencyMs": 26,
+  "mobileDownloadMbps": 24.6,
+  "mobileUploadMbps": 5.4,
+  "fixedDownloadMbps": 34.8,
+  "fixedUploadMbps": 14.2,
+  "rank": 87,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Well-connected Caribbean island. ~10% year-over-year growth.",
+  "geojson": "bb.geojson"
+}

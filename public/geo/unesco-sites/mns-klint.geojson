@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5502777778,
+          54.9677777778
+        ]
+      },
+      "properties": {
+        "code": "mns-klint",
+        "name": "Møns Klint",
+        "type": "Natural",
+        "country": "Denmark",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

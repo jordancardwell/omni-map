@@ -1,0 +1,19 @@
+{
+  "code": "green-turtle",
+  "name": "Green Sea Turtle",
+  "scientificName": "Chelonia mydas",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~85,000-90,000 nesting females",
+  "populationTrend": "Decreasing",
+  "habitatType": "Seagrass beds and coral reefs",
+  "threats": [
+    "Bycatch",
+    "Coastal development",
+    "Pollution",
+    "Egg collection"
+  ],
+  "conservationEfforts": "Tortuguero National Park in Costa Rica protects the largest Atlantic nesting colony. Community-based egg collection management. Satellite tracking reveals migration routes.",
+  "description": "Named for the green color of their body fat (from their herbivorous diet of seagrass), green turtles are vital for maintaining healthy seagrass ecosystems through their grazing.",
+  "geojson": "green-turtle.geojson"
+}

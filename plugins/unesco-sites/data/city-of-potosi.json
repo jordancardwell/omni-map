@@ -1,0 +1,15 @@
+{
+  "code": "city-of-potosi",
+  "name": "City of Potosí",
+  "type": "Cultural",
+  "country": "Bolivia (Plurinational State of)",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived.",
+  "danger": true,
+  "geojson": "city-of-potosi.geojson"
+}

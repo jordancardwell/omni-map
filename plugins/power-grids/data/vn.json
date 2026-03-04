@@ -1,0 +1,20 @@
+{
+  "code": "vn",
+  "name": "Vietnam",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "C",
+    "F"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of US-shaped and European outlets at 220V. Verify device voltage!",
+  "geojson": "vn.geojson"
+}

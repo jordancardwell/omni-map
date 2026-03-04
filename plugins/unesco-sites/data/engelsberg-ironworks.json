@@ -1,0 +1,14 @@
+{
+  "code": "engelsberg-ironworks",
+  "name": "Engelsberg Ironworks",
+  "type": "Cultural",
+  "country": "Sweden",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Sweden's production of superior grades of iron made it a leader in this field in the 17th and 18th centuries. This site is the best-preserved and most complete example of this type of Swedish ironworks.",
+  "danger": false,
+  "geojson": "engelsberg-ironworks.geojson"
+}

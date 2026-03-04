@@ -1,0 +1,14 @@
+{
+  "code": "arica",
+  "name": "Port of Arica",
+  "country": "Chile",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 4,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West Coast Americas Route"
+  ],
+  "description": "Port of Arica in Chile. Annual cargo throughput: ~4 million tons. Type: Multi-Purpose Port.",
+  "geojson": "arica.geojson"
+}

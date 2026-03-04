@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9966666667,
+          37.7561111111
+        ]
+      },
+      "properties": {
+        "code": "mount-etna",
+        "name": "Mount Etna",
+        "type": "Natural",
+        "country": "Italy",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

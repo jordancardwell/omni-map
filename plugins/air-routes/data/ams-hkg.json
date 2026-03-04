@@ -1,0 +1,18 @@
+{
+  "code": "ams-hkg",
+  "name": "Amsterdam — Hong Kong",
+  "airports": [
+    "AMS",
+    "HKG"
+  ],
+  "distanceKm": 9274,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Cathay Pacific",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "AMS–HKG route between Amsterdam and Hong Kong. Distance: 9,274 km. ~25 weekly flights operated by Cathay Pacific, KLM.",
+  "geojson": "ams-hkg.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "coral-sea-reef",
+  "name": "Coral Sea Reefs",
+  "location": "Australia, Papua New Guinea",
+  "areaKm2": 35000,
+  "reefType": "Barrier",
+  "healthStatus": "Near Threatened",
+  "coralSpecies": 370,
+  "marineSpecies": 1100,
+  "threats": [
+    "Climate change",
+    "Illegal fishing",
+    "Marine debris",
+    "Ocean acidification",
+    "Coral bleaching"
+  ],
+  "conservationStatus": "Coral Sea Commonwealth Marine Reserve established in 2012 — one of the world's largest marine parks at 989,842 km². Remote reefs receive minimal direct human impact.",
+  "description": "The Coral Sea contains a vast system of remote reef platforms, cays, and atolls east of Australia's Great Barrier Reef. These offshore reefs include the spectacular Osprey Reef, Holmes Reef, and the Lihou Reef — one of the largest atoll systems in the world.\n\nDue to their extreme remoteness, Coral Sea reefs are among the most pristine in the world. They support significant populations of pelagic predators including sharks, tuna, and billfish. The reefs serve as important stepping-stones for larval connectivity between the Great Barrier Reef and Pacific reef systems, making their health critical for broader regional reef resilience.",
+  "geojson": "coral-sea-reef.geojson"
+}

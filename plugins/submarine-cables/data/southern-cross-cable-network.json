@@ -1,0 +1,18 @@
+{
+  "code": "southern-cross-cable-network",
+  "name": "Southern Cross Cable Network",
+  "capacityTbps": 3.2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 30500,
+  "yearLaid": 1999,
+  "rfsDate": "2000-11",
+  "owner": "Southern Cross Cables",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Auckland, New Zealand",
+    "Suva, Fiji",
+    "Honolulu, USA"
+  ],
+  "description": "Major trans-Pacific cable system providing connectivity for Australia and New Zealand to the US.",
+  "geojson": "southern-cross-cable-network.geojson"
+}

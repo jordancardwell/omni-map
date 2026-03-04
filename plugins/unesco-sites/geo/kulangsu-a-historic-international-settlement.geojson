@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0619444444,
+          24.4475
+        ]
+      },
+      "properties": {
+        "code": "kulangsu-a-historic-international-settlement",
+        "name": "Kulangsu, a Historic International Settlement",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

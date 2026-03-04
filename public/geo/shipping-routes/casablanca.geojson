@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"casablanca","name":"Port of Casablanca","featureType":"port","portType":"Multi-Purpose Port","country":"Morocco"},"geometry":{"type":"Point","coordinates":[-7.62,33.6]}}]}

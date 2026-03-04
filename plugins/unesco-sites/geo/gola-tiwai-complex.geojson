@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3478888889,
+          7.5411666667
+        ]
+      },
+      "properties": {
+        "code": "gola-tiwai-complex",
+        "name": "Gola-Tiwai Complex",
+        "type": "Natural",
+        "country": "Sierra Leone",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

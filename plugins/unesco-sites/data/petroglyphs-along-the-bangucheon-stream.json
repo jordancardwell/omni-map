@@ -1,0 +1,15 @@
+{
+  "code": "petroglyphs-along-the-bangucheon-stream",
+  "name": "Petroglyphs along the Bangucheon Stream",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property is located along the Bangucheon Stream on the Republic of Korea’s southeastern coast, spanning about three kilometers through a landscape of stratified cliffs. It features two significant rock art sites: the Daegok-ri and Cheonjeon-ri Petroglyphs. These panels contain dense concentrations of engravings created by successive generations from 5,000 BCE to the 9th century CE. Carved using stone and metal tools, the petroglyphs depict a wide range of imagery and reflect both prehistoric and historic cultural expressions.",
+  "danger": false,
+  "geojson": "petroglyphs-along-the-bangucheon-stream.geojson"
+}

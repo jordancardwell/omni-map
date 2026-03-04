@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7694444,
+          34.98055556
+        ]
+      },
+      "properties": {
+        "code": "historic-monuments-of-ancient-kyoto-kyoto-uji-and-otsu-cities",
+        "name": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

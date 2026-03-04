@@ -1,0 +1,20 @@
+{
+  "code": "gcn-global-caribbean-network",
+  "name": "GCN (Global Caribbean Network)",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 5800,
+  "yearLaid": 2011,
+  "rfsDate": "2012-06",
+  "owner": "GCN",
+  "landingPoints": [
+    "Miami, USA",
+    "Santo Domingo, Dominican Republic",
+    "Port-au-Prince, Haiti",
+    "Willemstad, Curaçao",
+    "Oranjestad, Aruba",
+    "Cartagena, Colombia"
+  ],
+  "description": "Caribbean cable system connecting the US to Colombia via island states.",
+  "geojson": "gcn-global-caribbean-network.geojson"
+}

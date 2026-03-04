@@ -1,0 +1,18 @@
+{
+  "code": "mex-ord",
+  "name": "Mexico City — Chicago",
+  "airports": [
+    "MEX",
+    "ORD"
+  ],
+  "distanceKm": 2718,
+  "weeklyFlights": 30,
+  "airlines": [
+    "United",
+    "Aeromexico"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–ORD route between Mexico City and Chicago. Distance: 2,718 km. ~30 weekly flights operated by United, Aeromexico.",
+  "geojson": "mex-ord.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "kuroshio",
+  "name": "Kuroshio Current",
+  "currentType": "Warm",
+  "speedRange": "1.0–2.0 m/s",
+  "origin": "Philippine Sea",
+  "destination": "North Pacific",
+  "climateEffects": [
+    "Warms southern Japan",
+    "Influences East Asian monsoons",
+    "Feeds Pacific typhoons"
+  ],
+  "connectedEcosystems": [
+    "Japanese coral reefs",
+    "Kuroshio fisheries",
+    "East China Sea biodiversity"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Kuroshio (Black Current) is the Pacific equivalent of the Gulf Stream, flowing northeast from the Philippines past Japan. It is one of the strongest currents in the world, transporting about 25 million cubic meters per second.",
+  "geojson": "kuroshio.geojson"
+}

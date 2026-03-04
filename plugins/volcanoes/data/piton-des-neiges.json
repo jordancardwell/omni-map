@@ -1,0 +1,19 @@
+{
+  "code": "piton-des-neiges",
+  "name": "Piton des Neiges",
+  "volcanoType": "Shield volcano",
+  "status": "Dormant",
+  "elevation": 3069,
+  "lastEruption": "-10000",
+  "vei": 0,
+  "country": "France",
+  "region": "Réunion",
+  "location": "Réunion, France",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Sector collapse"
+  ],
+  "eruptionHistory": "Last erupted approximately 12,000 years ago. Now deeply eroded with three spectacular amphitheater-like cirques.",
+  "description": "Piton des Neiges is the highest point on Réunion Island and the highest peak in the Indian Ocean. The extinct volcano's three dramatic cirques are a UNESCO World Heritage Site.",
+  "geojson": "piton-des-neiges.geojson"
+}

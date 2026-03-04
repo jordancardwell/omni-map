@@ -1,0 +1,14 @@
+{
+  "code": "seattle-tacoma",
+  "name": "Seattle-Tacoma (NWSA)",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Seattle-Tacoma (NWSA) in United States. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+  "geojson": "seattle-tacoma.geojson"
+}

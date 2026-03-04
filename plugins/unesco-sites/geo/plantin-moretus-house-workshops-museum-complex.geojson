@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39778,
+          51.21833
+        ]
+      },
+      "properties": {
+        "code": "plantin-moretus-house-workshops-museum-complex",
+        "name": "Plantin-Moretus House-Workshops-Museum Complex",
+        "type": "Cultural",
+        "country": "Belgium",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

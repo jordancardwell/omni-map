@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8854,
+          40.7059
+        ]
+      },
+      "properties": {
+        "code": "cultural-landscape-of-khinalig-people-and-koc-yolu-transhumance-route",
+        "name": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+        "type": "Cultural",
+        "country": "Azerbaijan",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

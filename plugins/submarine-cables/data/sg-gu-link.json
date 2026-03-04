@@ -1,0 +1,16 @@
+{
+  "code": "sg-gu-link",
+  "name": "SG-GU Link",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7175,
+  "yearLaid": 2018,
+  "rfsDate": "2013-06",
+  "owner": "RTI",
+  "landingPoints": [
+    "Singapore",
+    "Guam"
+  ],
+  "description": "SG-GU Link connecting Singapore to Guam.",
+  "geojson": "sg-gu-link.geojson"
+}

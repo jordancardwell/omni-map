@@ -1,0 +1,17 @@
+{
+  "code": "chf",
+  "name": "Swiss Franc",
+  "isoCode": "CHF",
+  "symbol": "CHF",
+  "region": "Europe",
+  "centralBank": "Swiss National Bank",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Switzerland",
+    "Liechtenstein"
+  ],
+  "countryCount": 2,
+  "description": "The Swiss Franc is considered one of the world's strongest and most stable currencies, and serves as a global safe-haven currency.",
+  "historicalNotes": "The franc was introduced in 1850, unifying the currencies of the Swiss cantons. Switzerland has maintained a tradition of monetary stability and banking secrecy, though banking transparency has increased in recent decades.",
+  "geojson": "chf.geojson"
+}

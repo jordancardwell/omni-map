@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1376,
+          25.6093
+        ]
+      },
+      "properties": {
+        "code": "chhath-puja",
+        "name": "Chhath Puja",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "October–November",
+        "location": "Patna, India"
+      }
+    }
+  ]
+}

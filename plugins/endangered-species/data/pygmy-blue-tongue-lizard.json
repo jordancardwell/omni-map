@@ -1,0 +1,18 @@
+{
+  "code": "pygmy-blue-tongue-lizard",
+  "name": "Pygmy Blue-tongue Lizard",
+  "scientificName": "Tiliqua adelaidensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~5,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Native grassland with spider burrows",
+  "threats": [
+    "Habitat loss",
+    "Overgrazing",
+    "Agricultural chemicals"
+  ],
+  "conservationEfforts": "Rediscovered in 1992 in a dead snake's stomach after 33 years of presumed extinction. Managed under a recovery plan in South Australia. Rock placement programs create habitat.",
+  "description": "This tiny Australian skink was thought extinct until 1992 when one was found in a dead snake's stomach. It lives exclusively in abandoned spider burrows in native grasslands.",
+  "geojson": "pygmy-blue-tongue-lizard.geojson"
+}

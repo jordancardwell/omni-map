@@ -1,0 +1,16 @@
+{
+  "code": "camp-cactus",
+  "name": "Overberg Test Range (Denel OTB)",
+  "country": "South Africa",
+  "operator": "Denel Dynamics",
+  "coordinates": "34.6150°S, 20.3160°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "RSA-3 (South African orbital attempt)",
+    "Missile tests"
+  ],
+  "orbitalInclinationRange": "34°–98° (polar)",
+  "location": "Overberg Test Range (Denel OTB), South Africa",
+  "description": "South Africa's rocket test range near Arniston. Used for the RSA series of launch vehicles in the 1980s-90s apartheid-era space program. The orbital program was cancelled; now used for missile testing.",
+  "geojson": "camp-cactus.geojson"
+}

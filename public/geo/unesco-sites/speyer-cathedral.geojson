@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4423888889,
+          49.3172222222
+        ]
+      },
+      "properties": {
+        "code": "speyer-cathedral",
+        "name": "Speyer Cathedral",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

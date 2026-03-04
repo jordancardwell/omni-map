@@ -1,0 +1,22 @@
+{
+  "code": "chaiten",
+  "name": "Chaitén",
+  "volcanoType": "Caldera",
+  "status": "Historically Active",
+  "elevation": 1122,
+  "lastEruption": "2011",
+  "vei": 4,
+  "country": "Chile",
+  "region": "Los Lagos",
+  "location": "Los Lagos, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars",
+    "Lava domes"
+  ],
+  "eruptionHistory": "Erupted unexpectedly in 2008 after being dormant for over 9,000 years. The eruption forced complete evacuation of the nearby town of Chaitén.",
+  "description": "Chaitén's 2008 eruption was remarkable for occurring with almost no warning after millennia of dormancy. It produced a massive rhyolite lava dome and destroyed the nearby town.",
+  "geojson": "chaiten.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5983333333,
+          19.3638888889
+        ]
+      },
+      "properties": {
+        "code": "uruq-bani-maarid",
+        "name": "‘Uruq Bani Ma’arid",
+        "type": "Natural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

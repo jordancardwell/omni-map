@@ -1,0 +1,21 @@
+{
+  "code": "yunnan",
+  "name": "Yunnan Astronomical Observatory",
+  "country": "China",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2000,
+  "aperture": "2.4 m",
+  "telescopes": [
+    "2.4m Lijiang",
+    "1m solar telescope"
+  ],
+  "keyDiscoveries": [
+    "Binary star systems",
+    "Active galactic nuclei monitoring",
+    "Solar physics"
+  ],
+  "location": "Yunnan Astronomical Observatory, China",
+  "description": "CAS observatory in Kunming operating the 2.4m telescope at Lijiang and a 1m solar telescope. Focus on time-domain astronomy and solar activity.",
+  "geojson": "yunnan.geojson"
+}

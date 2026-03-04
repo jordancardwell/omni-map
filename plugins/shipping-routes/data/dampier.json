@@ -1,0 +1,14 @@
+{
+  "code": "dampier",
+  "name": "Port of Dampier",
+  "country": "Australia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 190,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Japan–Australia Route"
+  ],
+  "description": "Port of Dampier in Australia. Annual cargo throughput: ~190 million tons. Type: Bulk Port.",
+  "geojson": "dampier.geojson"
+}

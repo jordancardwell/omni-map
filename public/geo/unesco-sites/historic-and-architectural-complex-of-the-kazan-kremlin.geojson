@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1064602384,
+          55.7994526626
+        ]
+      },
+      "properties": {
+        "code": "historic-and-architectural-complex-of-the-kazan-kremlin",
+        "name": "Historic and Architectural Complex of the Kazan Kremlin",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

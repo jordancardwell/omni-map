@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3561944444,
+          43.8382222222
+        ]
+      },
+      "properties": {
+        "code": "the-maison-carree-of-nimes",
+        "name": "The Maison Carrée of Nîmes",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

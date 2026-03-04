@@ -1,0 +1,14 @@
+{
+  "code": "day-of-the-dead-mixquic",
+  "name": "Día de los Muertos (Mixquic)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "November 1–2",
+  "origin": "Nahua/Aztec tradition",
+  "estimatedAttendance": "Hundreds of thousands",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "La Alumbrada (thousands of candles in cemetery); silent vigil through the night; traditional food offerings; music by candlelight.",
+  "historicalBackground": "Mixquic's celebration is among Mexico's most traditional, preserving Nahua customs in the ancient cemetery. The village was an island in Lake Chalco in Aztec times.",
+  "description": "One of Mexico's most atmospheric Day of the Dead celebrations, where the ancient cemetery of Mixquic glows with thousands of candles.",
+  "location": "San Andrés Mixquic, Mexico",
+  "geojson": "day-of-the-dead-mixquic.geojson"
+}

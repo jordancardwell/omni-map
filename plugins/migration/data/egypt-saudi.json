@@ -1,0 +1,18 @@
+{
+  "code": "egypt-saudi",
+  "name": "Egypt \u2192 Saudi Arabia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Egypt \u2192 Saudi Arabia",
+  "badgeValue": "~1.3 million",
+  "origin": "Egypt",
+  "destination": "Saudi Arabia",
+  "estimatedMigrants": "~1.3 million",
+  "drivers": [
+    "Oil economy employment",
+    "Wage differential",
+    "Cultural proximity",
+    "Youth unemployment"
+  ],
+  "description": "Egyptian workers in Saudi Arabia work across education, engineering, healthcare, and services. Arabic language commonality facilitates integration. Migration has been a safety valve for Egypt's chronic youth unemployment. Remittances from Saudi Arabia are among the largest sources of foreign currency for Egypt.",
+  "geojson": "egypt-saudi.geojson"
+}

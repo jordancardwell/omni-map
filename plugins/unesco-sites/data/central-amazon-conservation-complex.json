@@ -1,0 +1,15 @@
+{
+  "code": "central-amazon-conservation-complex",
+  "name": "Central Amazon Conservation Complex",
+  "type": "Natural",
+  "country": "Brazil",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Central Amazon Conservation Complex makes up the largest protected area in the Amazon Basin and is one of the planet’s richest regions in terms of biodiversity. It also includes an important sample of varzea ecosystems, igapó forests, lakes and channels which take the form of a constantly evolving aquatic mosaic that is home to the largest array of electric fish in the world. The site protects key threatened species, including giant arapaima fish, the Amazonian manatee, the black caiman and two species of river dolphin.",
+  "danger": false,
+  "geojson": "central-amazon-conservation-complex.geojson"
+}

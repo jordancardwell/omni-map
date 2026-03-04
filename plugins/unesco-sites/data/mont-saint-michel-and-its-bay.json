@@ -1,0 +1,15 @@
+{
+  "code": "mont-saint-michel-and-its-bay",
+  "name": "Mont-Saint-Michel and its Bay",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Perched on a rocky islet in the midst of vast sandbanks exposed to powerful tides between Normandy and Brittany stand the 'Wonder of the West', a Gothic-style Benedictine abbey dedicated to the archangel St Michael, and the village that grew up in the shadow of its great walls. Built between the 11th and 16th centuries, the abbey is a technical and artistic tour de force, having had to adapt to the problems posed by this unique natural site.",
+  "danger": false,
+  "geojson": "mont-saint-michel-and-its-bay.geojson"
+}

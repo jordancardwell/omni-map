@@ -1,0 +1,15 @@
+{
+  "code": "mumbai-nhava-sheva",
+  "name": "Nhava Sheva (JNPT)",
+  "country": "India",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 80,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "India–Persian Gulf Route",
+    "Suez Canal Route"
+  ],
+  "description": "Nhava Sheva (JNPT) in India. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+  "geojson": "mumbai-nhava-sheva.geojson"
+}

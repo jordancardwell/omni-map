@@ -1,0 +1,14 @@
+{
+  "code": "seowon-korean-neo-confucian-academies",
+  "name": "Seowon, Korean Neo-Confucian Academies",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property is located in central and southern parts of the Republic of Korea, and comprises nine seowon, representing a type of Neo-Confucian academy of the Joseon dynasty (15th -19th centuries CE). Learning, veneration of scholars and interaction with the environment were the essential functions of the seowons, expressed in their design. Situated near mountains and water sources, they favoured the appreciation of nature and cultivation of mind and body. The pavilion-style buildings were intended to facilitate connections to the landscape. The seowons illustrate a historical process in which Neo-Confucianism from China was adapted to Korean conditions.",
+  "danger": false,
+  "geojson": "seowon-korean-neo-confucian-academies.geojson"
+}

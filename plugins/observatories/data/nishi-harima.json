@@ -1,0 +1,20 @@
+{
+  "code": "nishi-harima",
+  "name": "Nishi-Harima Astronomical Observatory",
+  "country": "Japan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 449,
+  "aperture": "2 m (Nayuta)",
+  "telescopes": [
+    "Nayuta 2m"
+  ],
+  "keyDiscoveries": [
+    "Public outreach astronomy",
+    "Stellar observations",
+    "Adaptive optics testing"
+  ],
+  "location": "Nishi-Harima Astronomical Observatory, Japan",
+  "description": "Japan's largest publicly accessible telescope in Hyogo Prefecture. The Nayuta 2m telescope is used for both research and extensive public engagement.",
+  "geojson": "nishi-harima.geojson"
+}

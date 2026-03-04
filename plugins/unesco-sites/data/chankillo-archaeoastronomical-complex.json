@@ -1,0 +1,15 @@
+{
+  "code": "chankillo-archaeoastronomical-complex",
+  "name": "Chankillo Archaeoastronomical Complex",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Chankillo Archaeoastronomical Complex is a prehistoric site (250-200 BC), located on the north-central coast of Peru, in the Casma Valley, comprising a set of constructions in a desert landscape that, together with natural features, functioned as a calendrical instrument, using the sun to define dates throughout the year. The site includes a triple-walled hilltop complex, known as the Fortified Temple, two building complexes called Observatory and Administrative Centre, a line of 13 cuboidal towers stretching along the ridge of a hill, and the Cerro Mucho Malo that complements the Thirteen Towers as a natural marker. The ceremonial centre was probably dedicated to a solar cult, and the presence of an observation point on either side of the north-south line of the Thirteen Towers allows the observation both of the solar rising and setting points throughout the whole year. The site shows great innovation by using the solar cycle and an artificial horizon to mark the solstices, the equinoxes, and every other date within the year with a precision of 1-2 days. It is thus a testimony of the culmination of a long historical evolution of astronomical practices in the Casma Valley.",
+  "danger": false,
+  "geojson": "chankillo-archaeoastronomical-complex.geojson"
+}

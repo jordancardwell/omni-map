@@ -1,0 +1,28 @@
+{
+  "code": "aboriginal",
+  "name": "Aboriginal Australian Music",
+  "region": "Northern Australia",
+  "traditionFamily": "Oceanian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Didgeridoo",
+    "Clapsticks",
+    "Vocals",
+    "Body Percussion"
+  ],
+  "keyArtists": [
+    "Yothu Yindi",
+    "Geoffrey Gurrumul Yunupingu",
+    "David Hudson",
+    "Archie Roach",
+    "Baker Boy"
+  ],
+  "description": "Aboriginal Australian music is one of the oldest continuous musical traditions on Earth, dating back over 40,000 years. The didgeridoo (yidaki), one of the world's oldest wind instruments, produces a deep drone through circular breathing. Songlines (dreaming tracks) are oral maps encoded in song that describe ancestral creation journeys across the landscape, serving as both navigation and spiritual practice.",
+  "resources": [
+    {
+      "title": "AIATSIS – Aboriginal Music",
+      "url": "https://aiatsis.gov.au/"
+    }
+  ],
+  "geojson": "aboriginal.geojson"
+}

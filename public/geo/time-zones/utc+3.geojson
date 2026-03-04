@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc+3","name":"Moscow Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[37.5,-60],[52.5,-60],[52.5,84],[37.5,84],[37.5,-60]]]}}]}

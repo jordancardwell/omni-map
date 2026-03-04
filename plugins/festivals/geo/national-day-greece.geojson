@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275,
+          37.9838
+        ]
+      },
+      "properties": {
+        "code": "national-day-greece",
+        "name": "Oxi Day",
+        "festivalType": "National",
+        "dateOrSeason": "October 28",
+        "location": "Athens, Greece"
+      }
+    }
+  ]
+}

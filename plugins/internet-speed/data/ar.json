@@ -1,0 +1,17 @@
+{
+  "code": "ar",
+  "name": "Argentina",
+  "avgDownloadMbps": 63.4,
+  "avgUploadMbps": 22.6,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 24.8,
+  "mobileUploadMbps": 5.6,
+  "fixedDownloadMbps": 63.4,
+  "fixedUploadMbps": 22.6,
+  "rank": 64,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Infrastructure investment increasing. ~12% year-over-year growth.",
+  "geojson": "ar.geojson"
+}

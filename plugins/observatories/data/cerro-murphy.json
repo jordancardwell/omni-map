@@ -1,0 +1,21 @@
+{
+  "code": "cerro-murphy",
+  "name": "Cerro Murphy Observatory",
+  "country": "Namibia",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1800,
+  "aperture": "0.6 m",
+  "telescopes": [
+    "IAS 0.6m",
+    "Various"
+  ],
+  "keyDiscoveries": [
+    "Variable star monitoring",
+    "Exoplanet transits",
+    "Southern sky surveys"
+  ],
+  "location": "Cerro Murphy Observatory, Namibia",
+  "description": "Observatory site in the Namibian highlands with exceptional seeing and dark skies, operated by the International Amateur Sternwarte.",
+  "geojson": "cerro-murphy.geojson"
+}

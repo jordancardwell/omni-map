@@ -1,0 +1,18 @@
+{
+  "code": "myanmar-thailand",
+  "name": "Myanmar \u2192 Thailand",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Myanmar \u2192 Thailand",
+  "badgeValue": "~1.9 million",
+  "origin": "Myanmar",
+  "destination": "Thailand",
+  "estimatedMigrants": "~1.9 million",
+  "drivers": [
+    "Political persecution",
+    "Economic opportunity",
+    "Ethnic conflict",
+    "Labor demand"
+  ],
+  "description": "Thailand hosts a large Myanmar migrant population working in fishing, agriculture, manufacturing, and domestic services. Migration has been driven by ethnic conflict, military rule, and economic disparity. The 2021 military coup caused a new wave of displacement. Many migrants have irregular status, making them vulnerable to exploitation. Migrant workers contribute significantly to Thailand's fishing and food processing industries.",
+  "geojson": "myanmar-thailand.geojson"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "boreal-forests",
+  "name": "Boreal Forests/Taiga",
+  "biomeType": "Forest",
+  "areaKm2": 14000000,
+  "keyCharacteristics": "Vast coniferous forests spanning the northern latitudes. Long, cold winters and short growing seasons. Largest terrestrial biome by area.",
+  "typicalFlora": ["Spruce", "Larch", "Birch", "Pine", "Sphagnum moss", "Lichen"],
+  "typicalFauna": ["Moose", "Brown bear", "Wolf", "Lynx", "Wolverine", "Snowy owl"],
+  "threatLevel": "Moderate",
+  "conservationStatus": "Relatively intact compared to other forest biomes, but industrial logging, oil extraction, and climate change pose growing threats. Permafrost thaw is altering ecosystem dynamics.",
+  "description": "The boreal forest, or taiga, forms an immense circumpolar band across North America, Europe, and Asia, making it the largest terrestrial biome. It is dominated by cold-tolerant coniferous species, primarily spruce, pine, and larch.\n\nWinters are long and severe, with temperatures dropping below -40\u00b0C, while summers are brief but can be surprisingly warm. The growing season lasts only 50-100 days. Permafrost underlies much of the biome, particularly in Siberia.\n\nBoreal forests store enormous quantities of carbon, both in trees and in vast peatlands. They represent approximately 30% of the world's forest area and are critical for global climate regulation.",
+  "geojson": "boreal-forests.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5,
+          -16.0
+        ]
+      },
+      "properties": {
+        "code": "jesuit-missions-of-the-chiquitos",
+        "name": "Jesuit Missions of the Chiquitos",
+        "type": "Cultural",
+        "country": "Bolivia (Plurinational State of)",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

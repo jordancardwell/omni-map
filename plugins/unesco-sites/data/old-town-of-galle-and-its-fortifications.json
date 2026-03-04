@@ -1,0 +1,14 @@
+{
+  "code": "old-town-of-galle-and-its-fortifications",
+  "name": "Old Town of Galle and its Fortifications",
+  "type": "Cultural",
+  "country": "Sri Lanka",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions.",
+  "danger": false,
+  "geojson": "old-town-of-galle-and-its-fortifications.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "central-highlands-of-sri-lanka",
+  "name": "Central Highlands of Sri Lanka",
+  "type": "Natural",
+  "country": "Sri Lanka",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot.",
+  "danger": false,
+  "geojson": "central-highlands-of-sri-lanka.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "bbd",
+  "name": "Barbadian Dollar",
+  "isoCode": "BBD",
+  "symbol": "Bds$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Barbados",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Barbados"
+  ],
+  "countryCount": 1,
+  "description": "The Barbadian Dollar has been pegged to the US Dollar at 2:1 since 1975. Barbados became a republic in 2021.",
+  "historicalNotes": "Introduced in 1973, replacing the East Caribbean dollar. Barbados is the easternmost Caribbean island.",
+  "geojson": "bbd.geojson"
+}

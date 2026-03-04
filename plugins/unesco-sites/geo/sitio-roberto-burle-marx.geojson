@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5462222222,
+          -23.0223777778
+        ]
+      },
+      "properties": {
+        "code": "sitio-roberto-burle-marx",
+        "name": "Sítio Roberto Burle Marx",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

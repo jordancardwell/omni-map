@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.27611,
+          27.46889
+        ]
+      },
+      "properties": {
+        "code": "lumbini-the-birthplace-of-the-lord-buddha",
+        "name": "Lumbini, the Birthplace of the Lord Buddha",
+        "type": "Cultural",
+        "country": "Nepal",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

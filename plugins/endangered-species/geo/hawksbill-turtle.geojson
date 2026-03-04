@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"hawksbill-turtle","name":"Hawksbill Sea Turtle"},"geometry":{"type":"Polygon","coordinates":[[[30,-30],[160,-30],[170,0],[160,30],[30,30],[25,0],[30,-30]]]}}]}

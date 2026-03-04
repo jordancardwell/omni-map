@@ -1,0 +1,15 @@
+{
+  "code": "abbey-church-of-saint-savin-sur-gartempe",
+  "name": "Abbey Church of Saint-Savin sur Gartempe",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
+  "danger": false,
+  "geojson": "abbey-church-of-saint-savin-sur-gartempe.geojson"
+}

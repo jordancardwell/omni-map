@@ -1,0 +1,15 @@
+{
+  "code": "saint-hilarion-monastery-tell-umm-amer",
+  "name": "Saint Hilarion Monastery/ Tell Umm Amer",
+  "type": "Cultural",
+  "country": "State of Palestine",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "Situated on the coastal dunes in Nuseirat Municipality, the ruins of Saint Hilarion Monastery/ Tell Umm Amer represent one of the earliest monastic sites in the Middle East, dating back to the 4th century. Founded by Saint Hilarion, the monastery began with solitary hermits and evolved into a coenobitic community. It was the first monastic community in the Holy Land, laying the groundwork for the spread of monastic practices in the region. The monastery occupied a strategic position at the crossroads of major trade and communication routes between Asia and Africa. This prime location facilitated its role as a hub of religious, cultural, and economic interchange, exemplifying the flourishing of monastic desert centres during the Byzantine period.",
+  "danger": true,
+  "geojson": "saint-hilarion-monastery-tell-umm-amer.geojson"
+}

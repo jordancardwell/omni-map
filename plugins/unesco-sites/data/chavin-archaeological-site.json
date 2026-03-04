@@ -1,0 +1,14 @@
+{
+  "code": "chavin-archaeological-site",
+  "name": "Chavin (Archaeological Site)",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "1985",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The archaeological site of Chavin gave its name to the culture that developed between 1500 and 300 B.C. in this high valley of the Peruvian Andes. This former place of worship is one of the earliest and best-known pre-Columbian sites. Its appearance is striking, with the complex of terraces and squares, surrounded by structures of dressed stone, and the mainly zoomorphic ornamentation.",
+  "danger": false,
+  "geojson": "chavin-archaeological-site.geojson"
+}

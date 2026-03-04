@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.119444444,
+          48.805
+        ]
+      },
+      "properties": {
+        "code": "palace-and-park-of-versailles",
+        "name": "Palace and Park of Versailles",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

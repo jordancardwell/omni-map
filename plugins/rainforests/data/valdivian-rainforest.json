@@ -1,0 +1,20 @@
+{
+  "code": "valdivian-rainforest",
+  "name": "Valdivian Temperate Rainforest",
+  "country": "Chile, Argentina",
+  "forestType": "Temperate",
+  "areaKm2": 248100,
+  "intactness": "Moderately Degraded",
+  "changeSince2000": "-7.5% (approximately 18,600 km² lost)",
+  "annualLossRate": "0.3% per year",
+  "threats": [
+    "Timber plantations (eucalyptus, pine)",
+    "Wildfires",
+    "Agricultural conversion",
+    "Hydroelectric projects",
+    "Invasive species"
+  ],
+  "conservationStatus": "Multiple national parks and reserves including Alerce Andino, Pumalín Douglas Tompkins, and Huilo-Huilo. Chilean native forest law (Ley de Bosque Nativo) provides some protection. Tompkins Conservation land donations have expanded protected areas significantly.",
+  "description": "The **Valdivian Temperate Rainforest** is one of the world's few temperate rainforests, stretching along the Chilean and Argentine coasts and Andean slopes. It is an ecoregion of global importance with exceptional endemism.\n\n### Key Statistics\n- **Biodiversity**: ~5,000 plant species (50% endemic), including ancient alerce trees\n- **Ancient trees**: Alerce (Fitzroya cupressoides) specimens over 3,600 years old\n- **Endemic species**: Monito del monte (living fossil marsupial), Darwin's frog\n- **Rainfall**: 2,000–6,000 mm annually\n\n### Deforestation Trends\nThe IFL 2020 analysis shows fragmentation from plantation forestry, particularly in Chile's central valley. The replacement of native forest with fast-growing pine and eucalyptus plantations is the greatest ongoing threat. Wildfire frequency has increased with climate change.",
+  "geojson": "valdivian-rainforest.geojson"
+}

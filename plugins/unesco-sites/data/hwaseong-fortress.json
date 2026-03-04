@@ -1,0 +1,15 @@
+{
+  "code": "hwaseong-fortress",
+  "name": "Hwaseong Fortress",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "When the Joseon King Jeongjo moved his father's tomb to Suwon at the end of the 18th century, he surrounded it with strong defensive works, laid out according to the precepts of an influential military architect of the period, who brought together the latest developments in the field from both East and West. The massive walls, extending for nearly 6 km, still survive; they are pierced by four gates and equipped with bastions, artillery towers and other features.",
+  "danger": false,
+  "geojson": "hwaseong-fortress.geojson"
+}

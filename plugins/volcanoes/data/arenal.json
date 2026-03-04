@@ -1,0 +1,21 @@
+{
+  "code": "arenal",
+  "name": "Arenal Volcano",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1670,
+  "lastEruption": "2010",
+  "vei": 3,
+  "country": "Costa Rica",
+  "region": "Alajuela",
+  "location": "Alajuela, Costa Rica",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lava flows",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Erupted nearly continuously from 1968 to 2010. The 1968 eruption destroyed the village of Tabacón and killed 87 people.",
+  "description": "Arenal was Costa Rica's most active volcano for over four decades. Its near-perfect conical shape and frequent lava flows made it one of the country's top tourist destinations.",
+  "geojson": "arenal.geojson"
+}

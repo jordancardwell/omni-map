@@ -1,0 +1,16 @@
+{
+  "code": "my-east-coast",
+  "name": "MY East Coast",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1792,
+  "yearLaid": 2017,
+  "rfsDate": "2019-06",
+  "owner": "TM",
+  "landingPoints": [
+    "Kuantan, Malaysia",
+    "Cherating, Malaysia"
+  ],
+  "description": "MY East Coast connecting Kuantan to Cherating in Southeast Asia.",
+  "geojson": "my-east-coast.geojson"
+}

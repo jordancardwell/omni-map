@@ -1,0 +1,29 @@
+{
+  "code": "highlife",
+  "name": "Highlife",
+  "region": "Ghana & Nigeria",
+  "traditionFamily": "West African",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Trumpet",
+    "Guitar",
+    "Percussion",
+    "Saxophone",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "E.T. Mensah",
+    "King Sunny Adé",
+    "Osibisa",
+    "Pat Thomas",
+    "Ebo Taylor"
+  ],
+  "description": "Highlife is a music genre that originated in Ghana and spread to Nigeria and other West African nations in the early 20th century. It fuses traditional Akan music with Western instruments and jazz influences, creating a danceable, brass-driven sound. Highlife was the dominant popular music of West Africa from the 1930s to 1970s and remains a foundational influence on Afrobeat and Afropop.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – West African Music",
+      "url": "https://folkways.si.edu/search?query=highlife"
+    }
+  ],
+  "geojson": "highlife.geojson"
+}

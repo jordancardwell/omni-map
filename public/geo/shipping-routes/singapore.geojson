@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"singapore","name":"Port of Singapore","featureType":"port","portType":"Container Port","country":"Singapore"},"geometry":{"type":"Point","coordinates":[103.84,1.26]}}]}

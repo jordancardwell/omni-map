@@ -1,0 +1,25 @@
+{
+  "code": "maurya-empire",
+  "name": "Maurya Empire",
+  "era": "Ancient",
+  "peakYear": "250 BCE",
+  "areaAtPeakKm2": 5000000,
+  "populationEstimate": "68 million",
+  "capital": "Pataliputra",
+  "keyAchievements": [
+    "Ashoka's edicts",
+    "Buddhism spread",
+    "Arthashastra political treatise",
+    "Unified Indian subcontinent",
+    "Advanced road network"
+  ],
+  "declineFactors": [
+    "Weak successors after Ashoka",
+    "Economic strain",
+    "Regional rebellion",
+    "Brahmanical revival",
+    "Military fragmentation"
+  ],
+  "description": "The Maurya Empire (322–185 BCE) was the first empire to unify most of the Indian subcontinent. Founded by Chandragupta Maurya with the guidance of his advisor Kautilya (author of the Arthashastra), it reached its zenith under Emperor Ashoka.\n\nAshoka's conversion to Buddhism after the bloody Kalinga War led to one of history's most remarkable transformations — a warrior emperor becoming a promoter of peace, dharma, and non-violence. His rock edicts, found across the subcontinent, remain some of the earliest written records of Indian history.",
+  "geojson": "maurya-empire.geojson"
+}

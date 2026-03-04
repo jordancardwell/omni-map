@@ -1,0 +1,17 @@
+{
+  "code": "pe",
+  "name": "Peru",
+  "avgDownloadMbps": 50.8,
+  "avgUploadMbps": 22.4,
+  "avgLatencyMs": 34,
+  "mobileDownloadMbps": 22.6,
+  "mobileUploadMbps": 5.4,
+  "fixedDownloadMbps": 50.8,
+  "fixedUploadMbps": 22.4,
+  "rank": 72,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "South America",
+  "dataYear": 2024,
+  "trendDescription": "Improving urban connectivity. ~18% year-over-year growth.",
+  "geojson": "pe.geojson"
+}

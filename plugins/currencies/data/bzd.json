@@ -1,0 +1,16 @@
+{
+  "code": "bzd",
+  "name": "Belize Dollar",
+  "isoCode": "BZD",
+  "symbol": "BZ$",
+  "region": "Americas",
+  "centralBank": "Central Bank of Belize",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Belize"
+  ],
+  "countryCount": 1,
+  "description": "The Belize Dollar has been pegged to the US Dollar at a rate of 2:1 since 1978. Belize is the only English-speaking country in Central America.",
+  "historicalNotes": "Introduced in 1973 when British Honduras was renamed Belize, replacing the British Honduras dollar at par.",
+  "geojson": "bzd.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "lax-ist",
+  "name": "Los Angeles — Istanbul",
+  "airports": [
+    "LAX",
+    "IST"
+  ],
+  "distanceKm": 11002,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Turkish Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAX–IST route between Los Angeles and Istanbul. Distance: 11,002 km. ~25 weekly flights operated by Turkish Airlines.",
+  "geojson": "lax-ist.geojson"
+}

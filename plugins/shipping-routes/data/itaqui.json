@@ -1,0 +1,14 @@
+{
+  "code": "itaqui",
+  "name": "Port of Itaqui",
+  "country": "Brazil",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Trans-Atlantic Southern Route"
+  ],
+  "description": "Port of Itaqui in Brazil. Annual cargo throughput: ~30 million tons. Type: Bulk Port.",
+  "geojson": "itaqui.geojson"
+}

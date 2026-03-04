@@ -1,0 +1,14 @@
+{
+  "code": "day-of-german-unity",
+  "name": "Day of German Unity",
+  "festivalType": "National",
+  "dateOrSeason": "October 3",
+  "origin": "German national",
+  "estimatedAttendance": "83+ million Germans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Official ceremony at Brandenburg Gate; citizen festival (Bürgerfest); cultural events; concerts; fireworks.",
+  "historicalBackground": "The Day of German Unity marks the reunification of East and West Germany on October 3, 1990, following the fall of the Berlin Wall.",
+  "description": "Germany's national holiday celebrating the reunification of East and West Germany with festivities at the Brandenburg Gate.",
+  "location": "Berlin, Germany",
+  "geojson": "day-of-german-unity.geojson"
+}

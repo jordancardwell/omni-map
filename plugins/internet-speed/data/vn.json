@@ -1,0 +1,17 @@
+{
+  "code": "vn",
+  "name": "Vietnam",
+  "avgDownloadMbps": 43.2,
+  "avgUploadMbps": 28.6,
+  "avgLatencyMs": 15,
+  "mobileDownloadMbps": 42.8,
+  "mobileUploadMbps": 8.4,
+  "fixedDownloadMbps": 43.2,
+  "fixedUploadMbps": 28.6,
+  "rank": 78,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Rapid digital transformation. ~22% year-over-year growth.",
+  "geojson": "vn.geojson"
+}

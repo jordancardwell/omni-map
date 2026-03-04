@@ -1,0 +1,15 @@
+{
+  "code": "taputapuatea",
+  "name": "Taputapuātea",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2017",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Taputapuātea on Ra’iātea Island is at the centre of the ‘Polynesian Triangle’, a vast portion of the Pacific Ocean, dotted with islands, and the last part of the globe to be settled by humans. The property includes two forested valleys, a portion of lagoon and coral reef and a strip of open ocean. At the heart of the property is the Taputapuātea marae complex, a political, ceremonial and funerary centre. It is characterized by several marae, with different functions. Widespread in Polynesia, the marae were places where the world of the living intersected the world of the ancestors and the gods. Taputapuātea is an exceptional testimony to 1,000 years of mā'ohi civilization.",
+  "danger": false,
+  "geojson": "taputapuatea.geojson"
+}

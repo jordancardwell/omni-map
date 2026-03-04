@@ -1,0 +1,21 @@
+{
+  "code": "bagana",
+  "name": "Bagana",
+  "volcanoType": "Lava cone",
+  "status": "Erupting/Recent",
+  "elevation": 1750,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Papua New Guinea",
+  "region": "Bougainville",
+  "location": "Bougainville, Papua New Guinea",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lava flows",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Has been in near-continuous eruption since 1972. One of Melanesia's most active volcanoes.",
+  "description": "Bagana on Bougainville Island has been in near-continuous effusive eruption since 1972, slowly building one of the youngest volcanic edifices on Earth.",
+  "geojson": "bagana.geojson"
+}

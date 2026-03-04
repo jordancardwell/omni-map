@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.96666667,
+          4.8
+        ]
+      },
+      "properties": {
+        "code": "lower-valley-of-the-omo",
+        "name": "Lower Valley of the Omo",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

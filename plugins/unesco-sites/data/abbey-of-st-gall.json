@@ -1,0 +1,15 @@
+{
+  "code": "abbey-of-st-gall",
+  "name": "Abbey of St Gall",
+  "type": "Cultural",
+  "country": "Switzerland",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
+  "danger": false,
+  "geojson": "abbey-of-st-gall.geojson"
+}

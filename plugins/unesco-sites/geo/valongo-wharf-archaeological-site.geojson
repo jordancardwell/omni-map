@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1873944444,
+          -22.8971111111
+        ]
+      },
+      "properties": {
+        "code": "valongo-wharf-archaeological-site",
+        "name": "Valongo Wharf Archaeological Site",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

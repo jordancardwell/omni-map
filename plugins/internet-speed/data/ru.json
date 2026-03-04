@@ -1,0 +1,17 @@
+{
+  "code": "ru",
+  "name": "Russia",
+  "avgDownloadMbps": 54.2,
+  "avgUploadMbps": 38.6,
+  "avgLatencyMs": 18,
+  "mobileDownloadMbps": 28.4,
+  "mobileUploadMbps": 6.8,
+  "fixedDownloadMbps": 54.2,
+  "fixedUploadMbps": 38.6,
+  "rank": 69,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Vast geography creates uneven connectivity. ~8% year-over-year growth.",
+  "geojson": "ru.geojson"
+}

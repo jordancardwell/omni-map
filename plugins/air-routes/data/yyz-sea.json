@@ -1,0 +1,17 @@
+{
+  "code": "yyz-sea",
+  "name": "Toronto — Seattle",
+  "airports": [
+    "YYZ",
+    "SEA"
+  ],
+  "distanceKm": 3307,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Air Canada"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "YYZ–SEA route between Toronto and Seattle. Distance: 3,307 km. ~15 weekly flights operated by Air Canada.",
+  "geojson": "yyz-sea.geojson"
+}

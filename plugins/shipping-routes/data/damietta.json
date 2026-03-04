@@ -1,0 +1,14 @@
+{
+  "code": "damietta",
+  "name": "Port of Damietta",
+  "country": "Egypt",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Suez Canal Route"
+  ],
+  "description": "Port of Damietta in Egypt. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "damietta.geojson"
+}

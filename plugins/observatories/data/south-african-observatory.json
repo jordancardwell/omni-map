@@ -1,0 +1,20 @@
+{
+  "code": "south-african-observatory",
+  "name": "South African Astronomical Observatory",
+  "country": "South Africa",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 15,
+  "aperture": "N/A (headquarters)",
+  "telescopes": [
+    "Headquarters operations"
+  ],
+  "keyDiscoveries": [
+    "Stellar photometry standards",
+    "Cape Photographic Durchmusterung",
+    "Binary star systems"
+  ],
+  "location": "South African Astronomical Observatory, South Africa",
+  "description": "SAAO headquarters in Cape Town, coordinating South African optical astronomy. The observing station at Sutherland hosts SALT and other telescopes.",
+  "geojson": "south-african-observatory.geojson"
+}

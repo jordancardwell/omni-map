@@ -1,0 +1,21 @@
+{
+  "code": "sundarbans",
+  "name": "Sundarbans Mangrove Forest",
+  "country": "Bangladesh, India",
+  "forestType": "Tropical",
+  "areaKm2": 10000,
+  "intactness": "Moderately Degraded",
+  "changeSince2000": "-6.1% (approximately 610 km² lost or degraded)",
+  "annualLossRate": "0.3% per year",
+  "threats": [
+    "Sea level rise",
+    "Cyclone intensification",
+    "Upstream water diversion",
+    "Pollution",
+    "Shrimp farming",
+    "Illegal logging"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site. Sundarbans Reserve Forest managed jointly by Bangladesh and India. Ramsar Wetland of International Importance. Tiger conservation priority area. Threatened by Rampal coal power plant proximity.",
+  "description": "The **Sundarbans** is the world's largest contiguous mangrove forest, spanning the delta of the Ganges, Brahmaputra, and Meghna rivers. It is a unique tidal forest ecosystem critical for coastal protection and biodiversity.\n\n### Key Statistics\n- **Biodiversity**: 334 plant species, 693 wildlife species including Bengal tigers\n- **Bengal tigers**: ~100 individuals in Bangladesh, ~96 in India (largest mangrove tiger population)\n- **Coastal protection**: Shields 40 million people from cyclones and storm surges\n- **Carbon storage**: Among the most carbon-dense ecosystems per hectare\n\n### Deforestation Trends\nThe IFL 2020 data shows the Sundarbans are under severe climate pressure. Sea level rise of 3–5 mm per year is causing saltwater intrusion and land erosion. Cyclone frequency and intensity have increased. Upstream freshwater diversion reduces water flow essential for the ecosystem.",
+  "geojson": "sundarbans.geojson"
+}

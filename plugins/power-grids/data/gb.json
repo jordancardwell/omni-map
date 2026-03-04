@@ -1,0 +1,16 @@
+{
+  "code": "gb",
+  "name": "United Kingdom",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "G"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "British three-pin rectangular plugs. Adapter needed for all non-UK devices.",
+  "geojson": "gb.geojson"
+}

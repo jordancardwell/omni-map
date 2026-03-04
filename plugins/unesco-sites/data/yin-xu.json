@@ -1,0 +1,16 @@
+{
+  "code": "yin-xu",
+  "name": "Yin Xu",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2006",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The archaeological site of Yin Xu, close to Anyang City, some 500 km south of Beijing, is an ancient capital city of the late Shang Dynasty (1300 - 1046 BC). It testifies to the golden age of early Chinese culture, crafts and sciences, a time of great prosperity of the Chinese Bronze Age. A number of royal tombs and palaces, prototypes of later Chinese architecture, have been unearthed on the site, including the Palace and Royal Ancestral Shrines Area, with more than 80 house foundations, and the only tomb of a member of the royal family of the Shang Dynasty to have remained intact, the Tomb of Fu Hao. The large number and superb craftsmanship of the burial accessories found there bear testimony to the advanced level of Shang crafts industry. Inscriptions on oracle bones found in Yin Xu bear invaluable testimony to the development of one of the world’s oldest writing systems, ancient beliefs and social systems.",
+  "danger": false,
+  "geojson": "yin-xu.geojson"
+}

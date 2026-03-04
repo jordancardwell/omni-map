@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-area-and-the-patriarchal-basilica-of-aquileia",
+  "name": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Aquileia (in Friuli-Venezia Giulia), one of the largest and wealthiest cities of the Early Roman Empire, was destroyed by Attila in the mid-5th century. Most of it still lies unexcavated beneath the fields, and as such it constitutes the greatest archaeological reserve of its kind. The patriarchal basilica, an outstanding building with an exceptional mosaic pavement, played a key role in the evangelization of a large region of central Europe.",
+  "danger": false,
+  "geojson": "archaeological-area-and-the-patriarchal-basilica-of-aquileia.geojson"
+}

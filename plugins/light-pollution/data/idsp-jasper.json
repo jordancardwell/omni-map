@@ -1,0 +1,23 @@
+{
+  "code": "idsp-jasper",
+  "name": "Jasper Dark Sky Preserve",
+  "bortleGroup": "6. Dark Sky Places",
+  "bortleClass": "International Dark Sky Place",
+  "designation": "Dark Sky Preserve",
+  "designationYear": "2011",
+  "areaSqKm": 11228,
+  "visibleObjects": [
+    "Milky Way",
+    "Northern lights (aurora)",
+    "Andromeda Galaxy",
+    "Deep-sky objects"
+  ],
+  "exampleLocations": [
+    "Jasper National Park, Alberta, Canada"
+  ],
+  "nearestDarkSkyReserves": [
+    "Jasper (this site)"
+  ],
+  "description": "The largest accessible dark sky preserve in the world, encompassing the entirety of Jasper National Park in the Canadian Rockies. The preserve hosts the annual Jasper Dark Sky Festival, one of the largest astronomical events in Canada. Its high latitude also makes it a premier aurora viewing location. The combination of mountain scenery, dark skies, and northern lights draws visitors from around the world and has become a significant contributor to the local tourism economy.",
+  "geojson": "idsp-jasper.geojson"
+}

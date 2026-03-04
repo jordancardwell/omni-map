@@ -1,0 +1,14 @@
+{
+  "code": "australian-convict-sites",
+  "name": "Australian Convict Sites",
+  "type": "Cultural",
+  "country": "Australia",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property includes a selection of eleven penal sites, among the thousands established by the British Empire on Australian soil in the 18th and 19th centuries. The sites are spread across Australia, from Fremantle in Western Australia to Kingston and Arthur's Vale on Norfolk Island in the east; and from areas around Sydney in New South Wales in the north, to sites located in Tasmania in the south. Around 166,000 men, women and children were sent to Australia over 80 years between 1787 and 1868, condemned by British justice to transportation to the convict colonies. Each of the sites had a specific purpose, in terms both of punitive imprisonment and of rehabilitation through forced labour to help build the colony. The Australian Convict Sites presents the best surviving examples of large-scale convict transportation and the colonial expansion of European powers through the presence and labour of convicts.",
+  "danger": false,
+  "geojson": "australian-convict-sites.geojson"
+}

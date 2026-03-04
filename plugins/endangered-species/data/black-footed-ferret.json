@@ -1,0 +1,19 @@
+{
+  "code": "black-footed-ferret",
+  "name": "Black-footed Ferret",
+  "scientificName": "Mustela nigripes",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~350 in wild",
+  "populationTrend": "Increasing",
+  "habitatType": "Prairie grassland",
+  "threats": [
+    "Sylvatic plague",
+    "Prairie dog decline",
+    "Habitat loss",
+    "Small population size"
+  ],
+  "conservationEfforts": "Reintroduced from a captive population descended from 18 individuals. Plague vaccines developed for both ferrets and prairie dogs. 29 reintroduction sites across the western US.",
+  "description": "North America's most endangered mammal, declared extinct twice before being rediscovered. They depend entirely on prairie dog colonies for food and shelter.",
+  "geojson": "black-footed-ferret.geojson"
+}

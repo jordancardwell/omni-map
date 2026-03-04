@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3833333,
+          32.16666667
+        ]
+      },
+      "properties": {
+        "code": "carlsbad-caverns-national-park",
+        "name": "Carlsbad Caverns National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

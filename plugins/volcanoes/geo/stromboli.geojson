@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[15.2132,38.7891]},"properties":{"code":"stromboli","name":"Stromboli","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":924,"lastEruption":"2023","vei":2}}]}

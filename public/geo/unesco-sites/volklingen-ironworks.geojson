@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8442222222,
+          49.2487222222
+        ]
+      },
+      "properties": {
+        "code": "volklingen-ironworks",
+        "name": "Völklingen Ironworks",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

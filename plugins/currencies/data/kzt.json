@@ -1,0 +1,16 @@
+{
+  "code": "kzt",
+  "name": "Kazakhstani Tenge",
+  "isoCode": "KZT",
+  "symbol": "₸",
+  "region": "Asia",
+  "centralBank": "National Bank of Kazakhstan",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Kazakhstan"
+  ],
+  "countryCount": 1,
+  "description": "The Kazakhstani Tenge is the currency of Central Asia's largest economy, rich in oil and mineral resources.",
+  "historicalNotes": "Introduced in 1993 after Kazakhstan's independence from the Soviet Union. The currency was allowed to float freely in 2015 after years of managed exchange rates.",
+  "geojson": "kzt.geojson"
+}

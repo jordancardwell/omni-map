@@ -1,0 +1,16 @@
+{
+  "code": "ci-gh-west",
+  "name": "CI-GH West",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 897,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "MTN",
+  "landingPoints": [
+    "Abidjan, Ivory Coast",
+    "Takoradi, Ghana"
+  ],
+  "description": "CI-GH West connecting Abidjan to Takoradi along the West African coast.",
+  "geojson": "ci-gh-west.geojson"
+}

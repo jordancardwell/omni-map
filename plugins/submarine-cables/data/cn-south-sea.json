@@ -1,0 +1,16 @@
+{
+  "code": "cn-south-sea",
+  "name": "CN South Sea",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1403,
+  "yearLaid": 2016,
+  "rfsDate": "2013-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Haikou, China",
+    "Zhuhai, China"
+  ],
+  "description": "CN South Sea connecting Haikou to Zhuhai.",
+  "geojson": "cn-south-sea.geojson"
+}

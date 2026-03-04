@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mn","name":"Mongolia","country":"MN","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[87.8,41.6],[87.8,52.2],[119.9,52.2],[119.9,41.6],[87.8,41.6]]]}}]}

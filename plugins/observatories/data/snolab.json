@@ -1,0 +1,22 @@
+{
+  "code": "snolab",
+  "name": "SNOLAB",
+  "country": "Canada",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": -2070,
+  "aperture": "Various detectors",
+  "telescopes": [
+    "SNO+",
+    "DEAP-3600",
+    "PICO"
+  ],
+  "keyDiscoveries": [
+    "Solar neutrino problem solution (Nobel Prize 2015)",
+    "Dark matter searches",
+    "Neutrino mass measurements"
+  ],
+  "location": "SNOLAB, Canada",
+  "description": "The world's deepest underground physics laboratory, 2 km below surface in Sudbury, Ontario. Expanded from the original SNO experiment that solved the solar neutrino problem.",
+  "geojson": "snolab.geojson"
+}

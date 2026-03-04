@@ -1,0 +1,15 @@
+{
+  "code": "rock-paintings-of-the-sierra-de-san-francisco",
+  "name": "Rock Paintings of the Sierra de San Francisco",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "From c. 100 B.C. to A.D. 1300, the Sierra de San Francisco (in the El Vizcaino reserve, in Baja California) was home to a people who have now disappeared but who left one of the most outstanding collections of rock paintings in the world. They are remarkably well-preserved because of the dry climate and the inaccessibility of the site. Showing human figures and many animal species and illustrating the relationship between humans and their environment, the paintings reveal a highly sophisticated culture. Their composition and size, as well as the precision of the outlines and the variety of colours, but especially the number of sites, make this an impressive testimony to a unique artistic tradition.",
+  "danger": false,
+  "geojson": "rock-paintings-of-the-sierra-de-san-francisco.geojson"
+}

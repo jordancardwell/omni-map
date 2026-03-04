@@ -1,0 +1,15 @@
+{
+  "code": "prehistoric-sites-and-decorated-caves-of-the-vezere-valley",
+  "name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Vézère valley contains 147 prehistoric sites dating from the Palaeolithic and 25 decorated caves. It is particularly interesting from an ethnological and anthropological, as well as an aesthetic point of view because of its cave paintings, especially those of the Lascaux Cave, whose discovery in 1940 was of great importance for the history of prehistoric art. The hunting scenes show some 100 animal figures, which are remarkable for their detail, rich colours and lifelike quality.",
+  "danger": false,
+  "geojson": "prehistoric-sites-and-decorated-caves-of-the-vezere-valley.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1871527778,
+          17.9899611111
+        ]
+      },
+      "properties": {
+        "code": "tehuacan-cuicatlan-valley-originary-habitat-of-mesoamerica",
+        "name": "Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica",
+        "type": "Mixed",
+        "country": "Mexico",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

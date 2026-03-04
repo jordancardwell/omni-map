@@ -1,0 +1,15 @@
+{
+  "code": "california-chaparral",
+  "name": "California Chaparral & Forests",
+  "region": "North America",
+  "riskGroup": "1. Extreme",
+  "riskLevel": "Extreme",
+  "fireFrequency": "Very High — significant fires annually",
+  "dominantVegetation": "Chaparral shrubland, mixed conifer forest, coastal sage scrub",
+  "fireSeasonMonths": "June – November",
+  "areaBurnedAnnual": "~300,000 ha average; over 1.7 million ha in 2020",
+  "seasonalPattern": "Peak fire danger occurs during autumn Santa Ana and Diablo wind events — hot, dry offshore winds that can drive fires at extreme rates. Summer lightning fires in mountain forests are also common. The fire season has lengthened by 75 days since the 1970s due to warming and earlier snowmelt.",
+  "historicalFires": ["2020 August Complex (417K ha)", "2021 Dixie Fire (390K ha)", "2018 Camp Fire (62K ha)", "2017 Thomas Fire (114K ha)", "2003 Cedar Fire (113K ha)"],
+  "description": "California's chaparral and mixed conifer ecosystems experience some of the most destructive wildfire conditions on Earth. The combination of Mediterranean climate, prolonged drought, Santa Ana winds, and expanding wildland-urban interface creates extreme fire risk. Over 11,000 structures were destroyed in the 2018 Camp Fire alone. California now experiences year-round fire risk in many areas, with climate models projecting a 50-100% increase in burned area by 2050.",
+  "geojson": "california-chaparral.geojson"
+}

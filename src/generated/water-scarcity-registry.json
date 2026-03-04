@@ -1,0 +1,472 @@
+[
+  {
+    "code": "amazon-basin",
+    "name": "Amazon Basin",
+    "region": "South America",
+    "stressGroup": "1. Low (<10%)",
+    "waterStressLevel": "Low",
+    "waterStressRatio": "< 5% — withdrawal-to-availability",
+    "depletionRate": "Negligible — vast renewable supply exceeds demand",
+    "droughtRisk": "Low",
+    "seasonalVariability": "Moderate",
+    "affectedPopulation": 40000000,
+    "riskFactors": [
+      "Deforestation",
+      "Mining contamination",
+      "Hydropower dams",
+      "Agricultural expansion"
+    ],
+    "description": "The Amazon Basin holds roughly 20% of the world's freshwater discharge. Water stress remains minimal at the basin scale, though localized deforestation-driven dry-season intensification threatens sub-basins in the eastern arc. WRI Aqueduct 4.0 rates overall baseline water stress below 10%.",
+    "geojson": "amazon-basin.geojson"
+  },
+  {
+    "code": "amu-darya-basin",
+    "name": "Amu Darya Basin",
+    "region": "Central Asia",
+    "stressGroup": "4. High (40-80%)",
+    "waterStressLevel": "High",
+    "waterStressRatio": "~75% — withdrawal-to-availability",
+    "depletionRate": "Very High — primary cause of Aral Sea desiccation",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 45000000,
+    "riskFactors": [
+      "Cotton irrigation",
+      "Aral Sea crisis",
+      "Glacier retreat",
+      "Transboundary disputes",
+      "Salinization"
+    ],
+    "description": "The Amu Darya — Central Asia's largest river — once sustained the Aral Sea. Soviet-era cotton irrigation diverted nearly all flow, causing the Aral Sea to lose 90% of its volume by 2010. Uzbekistan and Turkmenistan extract over 75% of river flow for agriculture, leaving downstream ecosystems devastated. Pamir glacier retreat threatens the long-term water source.",
+    "geojson": "amu-darya-basin.geojson"
+  },
+  {
+    "code": "arabian-peninsula-basin",
+    "name": "Arabian Peninsula Basin",
+    "region": "Middle East",
+    "stressGroup": "5. Extremely High (>80%)",
+    "waterStressLevel": "Extremely High",
+    "waterStressRatio": "> 95% — near-total dependence on non-renewable sources",
+    "depletionRate": "Critical — fossil aquifers depleting with no recharge",
+    "droughtRisk": "Extreme",
+    "seasonalVariability": "Low",
+    "affectedPopulation": 60000000,
+    "riskFactors": [
+      "Fossil aquifer depletion",
+      "Desalination dependence",
+      "Extreme heat",
+      "Agricultural groundwater mining",
+      "Energy-water nexus"
+    ],
+    "description": "The Arabian Peninsula is the most water-stressed large landmass on Earth. Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, Oman, and Yemen rely almost entirely on desalination and non-renewable fossil groundwater. Saudi Arabia exhausted its wheat-irrigation aquifer reserves after depleting an estimated 80% of the Saq-Ram aquifer system. Yemen's capital Sana'a may become the first capital city to run out of water.",
+    "geojson": "arabian-peninsula-basin.geojson"
+  },
+  {
+    "code": "aral-sea-basin",
+    "name": "Aral Sea Basin",
+    "region": "Central Asia",
+    "stressGroup": "5. Extremely High (>80%)",
+    "waterStressLevel": "Extremely High",
+    "waterStressRatio": "> 90% — virtually all inflow consumed before reaching lake",
+    "depletionRate": "Critical — Aral Sea lost 90% of volume since 1960",
+    "droughtRisk": "Extreme",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 8000000,
+    "riskFactors": [
+      "Irrigation diversion",
+      "Salt/dust storms",
+      "Pesticide legacy",
+      "Fishery collapse",
+      "Health crisis"
+    ],
+    "description": "The Aral Sea basin represents the world's most dramatic water catastrophe. Once the fourth-largest lake on Earth, the Aral Sea lost 90% of its volume as the Syr Darya and Amu Darya were diverted for cotton irrigation. The exposed seabed — the Aralkum desert — generates toxic salt and pesticide dust storms affecting 5 million people. Kazakhstan's North Aral Sea has partially recovered thanks to the Kok-Aral Dam, but the South Aral is effectively gone.",
+    "geojson": "aral-sea-basin.geojson"
+  },
+  {
+    "code": "colorado-river-basin",
+    "name": "Colorado River Basin",
+    "region": "North America",
+    "stressGroup": "3. Medium-High (20-40%)",
+    "waterStressLevel": "Medium-High",
+    "waterStressRatio": "~37% — withdrawal-to-availability",
+    "depletionRate": "High — Lake Mead at historic lows since 2020",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "High",
+    "affectedPopulation": 40000000,
+    "riskFactors": [
+      "Over-allocation",
+      "Megadrought",
+      "Reservoir depletion",
+      "Agricultural demand",
+      "Urban growth"
+    ],
+    "description": "The Colorado River is allocated to 40 million people and 2.2 million hectares of farmland across seven US states and Mexico — but the river is over-allocated by roughly 20%. A 23-year megadrought (the worst in 1,200 years) drove Lake Mead to 25% capacity by 2022. Emergency conservation agreements and mandatory cuts have stabilized levels, but long-term supply-demand imbalance persists.",
+    "geojson": "colorado-river-basin.geojson"
+  },
+  {
+    "code": "congo-basin",
+    "name": "Congo Basin",
+    "region": "Central Africa",
+    "stressGroup": "1. Low (<10%)",
+    "waterStressLevel": "Low",
+    "waterStressRatio": "< 5% — withdrawal-to-availability",
+    "depletionRate": "Negligible — abundant precipitation year-round",
+    "droughtRisk": "Low",
+    "seasonalVariability": "Low",
+    "affectedPopulation": 75000000,
+    "riskFactors": [
+      "Deforestation",
+      "Mining runoff",
+      "Urbanization",
+      "Climate variability"
+    ],
+    "description": "The Congo Basin is the second largest river basin on Earth and drains the world's second largest tropical rainforest. Annual rainfall exceeds 1,500 mm across most of the basin, keeping water stress extremely low. WRI Aqueduct 4.0 classifies the region as low stress, though governance challenges affect water quality.",
+    "geojson": "congo-basin.geojson"
+  },
+  {
+    "code": "danube-basin",
+    "name": "Danube Basin",
+    "region": "Europe",
+    "stressGroup": "2. Low-Medium (10-20%)",
+    "waterStressLevel": "Low-Medium",
+    "waterStressRatio": "~12% — withdrawal-to-availability",
+    "depletionRate": "Low — alpine snowmelt provides reliable recharge",
+    "droughtRisk": "Moderate",
+    "seasonalVariability": "Moderate",
+    "affectedPopulation": 80000000,
+    "riskFactors": [
+      "Industrial pollution",
+      "Climate warming",
+      "Reduced snowpack",
+      "Nutrient loading"
+    ],
+    "description": "The Danube traverses 10 countries from the Black Forest to the Black Sea. Water stress is generally low-medium thanks to alpine and Carpathian recharge, but climate projections show declining summer flows by 15-25% by 2050. The 2022 drought exposed barges and WWII munitions on the riverbed across multiple countries.",
+    "geojson": "danube-basin.geojson"
+  },
+  {
+    "code": "euphrates-tigris-basin",
+    "name": "Euphrates-Tigris Basin",
+    "region": "Middle East",
+    "stressGroup": "3. Medium-High (20-40%)",
+    "waterStressLevel": "Medium-High",
+    "waterStressRatio": "~40% — withdrawal-to-availability",
+    "depletionRate": "High — GRACE satellites show 144 km³ lost 2003-2013",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "High",
+    "affectedPopulation": 70000000,
+    "riskFactors": [
+      "Upstream dam construction",
+      "Transboundary disputes",
+      "Marshland drainage",
+      "Climate aridification"
+    ],
+    "description": "The Euphrates-Tigris system — cradle of civilization — is now one of the fastest-depleting basins on Earth. Turkey's GAP dam project reduced downstream flows by 40-50%. Iraq's Mesopotamian Marshes, once 20,000 km², shrank to 10% of their extent. GRACE satellite data shows the basin lost 144 km³ of stored freshwater between 2003 and 2013, equivalent to the volume of the Dead Sea.",
+    "geojson": "euphrates-tigris-basin.geojson"
+  },
+  {
+    "code": "ganges-basin",
+    "name": "Ganges Basin",
+    "region": "South Asia",
+    "stressGroup": "3. Medium-High (20-40%)",
+    "waterStressLevel": "Medium-High",
+    "waterStressRatio": "~35% — withdrawal-to-availability",
+    "depletionRate": "Moderate — groundwater tables declining 1-3 m per decade",
+    "droughtRisk": "High",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 600000000,
+    "riskFactors": [
+      "Groundwater over-extraction",
+      "Monsoon dependence",
+      "Glacier retreat",
+      "Industrial pollution",
+      "Population density"
+    ],
+    "description": "The Ganges basin supports over 600 million people — the most densely populated river basin on Earth. Water stress is medium-high and rising due to groundwater over-extraction for irrigation. The Indo-Gangetic aquifer is depleting at 6-10 km³/year. Himalayan glacier melt currently buffers dry-season flows, but glaciers have lost 40% of their area since the Little Ice Age.",
+    "geojson": "ganges-basin.geojson"
+  },
+  {
+    "code": "helmand-basin",
+    "name": "Helmand Basin",
+    "region": "Central-South Asia",
+    "stressGroup": "5. Extremely High (>80%)",
+    "waterStressLevel": "Extremely High",
+    "waterStressRatio": "> 85% — virtually all flow consumed by irrigation",
+    "depletionRate": "Critical — Hamun wetlands have dried completely in drought years",
+    "droughtRisk": "Extreme",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 12000000,
+    "riskFactors": [
+      "Transboundary dispute",
+      "Climate aridification",
+      "Conflict impacts",
+      "Wetland destruction",
+      "Opium irrigation"
+    ],
+    "description": "The Helmand River is Afghanistan's longest, flowing into Iran's Sistan-Baluchestan province and the Hamun wetlands — once a UNESCO Biosphere Reserve. Upstream irrigation and dam construction have reduced cross-border flows by over 80%, causing the Hamun lakes to dry completely during drought years and displacing Iranian communities. The 1973 Helmand River Treaty remains a source of tension. Decades of conflict have degraded water infrastructure across Afghanistan.",
+    "geojson": "helmand-basin.geojson"
+  },
+  {
+    "code": "indus-basin",
+    "name": "Indus Basin",
+    "region": "South Asia",
+    "stressGroup": "4. High (40-80%)",
+    "waterStressLevel": "High",
+    "waterStressRatio": "~70% — withdrawal-to-availability",
+    "depletionRate": "Very High — world's largest contiguous irrigation system",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 300000000,
+    "riskFactors": [
+      "Glacier dependence",
+      "Irrigation over-extraction",
+      "Groundwater collapse",
+      "Transboundary tension",
+      "Extreme flooding"
+    ],
+    "description": "The Indus basin is among the most water-stressed major basins on Earth. Pakistan's Indus irrigation network — the world's largest contiguous system — withdraws over 70% of available flow. Karakoram and Hindu Kush glaciers provide 40% of dry-season flow but face uncertain futures. The 2022 floods (displacing 33 million) paradoxically occurred in a chronically water-scarce basin, illustrating extreme variability.",
+    "geojson": "indus-basin.geojson"
+  },
+  {
+    "code": "jordan-river-basin",
+    "name": "Jordan River Basin",
+    "region": "Middle East",
+    "stressGroup": "4. High (40-80%)",
+    "waterStressLevel": "High",
+    "waterStressRatio": "~78% — withdrawal-to-availability",
+    "depletionRate": "Very High — Dead Sea dropping 1 m/year",
+    "droughtRisk": "Extreme",
+    "seasonalVariability": "High",
+    "affectedPopulation": 15000000,
+    "riskFactors": [
+      "Transboundary conflict",
+      "Dead Sea shrinkage",
+      "Aquifer depletion",
+      "Climate aridification",
+      "Refugee influx"
+    ],
+    "description": "The Jordan River basin is shared by Israel, Jordan, Palestine, Syria, and Lebanon in one of the world's most water-scarce and politically contested regions. The lower Jordan has lost 90% of its historic flow. The Dead Sea is dropping roughly 1 meter per year, with sinkholes proliferating along retreating shorelines. Israel's desalination capacity partially offsets scarcity, but Jordan faces acute shortage exacerbated by Syrian refugee influx.",
+    "geojson": "jordan-river-basin.geojson"
+  },
+  {
+    "code": "mekong-basin",
+    "name": "Mekong Basin",
+    "region": "Southeast Asia",
+    "stressGroup": "1. Low (<10%)",
+    "waterStressLevel": "Low",
+    "waterStressRatio": "~8% — withdrawal-to-availability",
+    "depletionRate": "Low — monsoon recharge maintains supply",
+    "droughtRisk": "Moderate",
+    "seasonalVariability": "High",
+    "affectedPopulation": 60000000,
+    "riskFactors": [
+      "Upstream dam construction",
+      "Monsoon variability",
+      "Saltwater intrusion",
+      "Sediment trapping"
+    ],
+    "description": "The Mekong supports 60 million people across six countries. While overall stress remains low thanks to monsoon recharge, dry-season flows have declined sharply due to upstream hydropower development in China and Laos. The Tonle Sap flood pulse — critical for Cambodia's fisheries — has weakened measurably since 2010.",
+    "geojson": "mekong-basin.geojson"
+  },
+  {
+    "code": "mississippi-basin",
+    "name": "Mississippi Basin",
+    "region": "North America",
+    "stressGroup": "2. Low-Medium (10-20%)",
+    "waterStressLevel": "Low-Medium",
+    "waterStressRatio": "~15% — withdrawal-to-availability",
+    "depletionRate": "Low — Ogallala Aquifer drawdown in western tributaries",
+    "droughtRisk": "Moderate",
+    "seasonalVariability": "Moderate",
+    "affectedPopulation": 90000000,
+    "riskFactors": [
+      "Agricultural runoff",
+      "Aquifer depletion",
+      "Gulf hypoxia",
+      "Flood-drought cycles"
+    ],
+    "description": "The Mississippi-Missouri system drains 40% of the contiguous United States. Overall stress is low-medium, but western sub-basins overlying the Ogallala Aquifer face accelerating groundwater depletion. Nutrient loading from corn-belt agriculture drives a seasonal dead zone in the Gulf of Mexico exceeding 15,000 km².",
+    "geojson": "mississippi-basin.geojson"
+  },
+  {
+    "code": "murray-darling-basin",
+    "name": "Murray-Darling Basin",
+    "region": "Oceania",
+    "stressGroup": "3. Medium-High (20-40%)",
+    "waterStressLevel": "Medium-High",
+    "waterStressRatio": "~30% — withdrawal-to-availability",
+    "depletionRate": "Moderate — severe during Millennium Drought (1997-2009)",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 3300000,
+    "riskFactors": [
+      "Irrigation over-allocation",
+      "Extreme drought cycles",
+      "Salinity",
+      "Climate change"
+    ],
+    "description": "The Murray-Darling produces 40% of Australia's agricultural output from a basin that receives relatively low rainfall. The Millennium Drought (1997-2009) exposed catastrophic over-allocation — Adelaide nearly ran out of water. The 2012 Basin Plan attempted to claw back water for environmental flows, but compliance remains politically contentious. Recent La Niña flooding masked underlying structural stress.",
+    "geojson": "murray-darling-basin.geojson"
+  },
+  {
+    "code": "nile-basin",
+    "name": "Nile Basin",
+    "region": "East Africa",
+    "stressGroup": "4. High (40-80%)",
+    "waterStressLevel": "High",
+    "waterStressRatio": "~65% — withdrawal-to-availability",
+    "depletionRate": "High — Egypt uses 97% of its Nile allocation",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "High",
+    "affectedPopulation": 250000000,
+    "riskFactors": [
+      "GERD dam dispute",
+      "Population growth",
+      "Desert encroachment",
+      "Transboundary conflict"
+    ],
+    "description": "The Nile sustains 250 million people across 11 countries in the world's longest river basin. Egypt depends on the Nile for 97% of its water supply. Ethiopia's Grand Ethiopian Renaissance Dam (GERD) — Africa's largest hydropower project — has reshaped basin geopolitics. With Egypt's population projected to reach 160 million by 2050, per-capita water availability is dropping below the UN scarcity threshold of 1,000 m³/year.",
+    "geojson": "nile-basin.geojson"
+  },
+  {
+    "code": "north-china-plain",
+    "name": "North China Plain",
+    "region": "East Asia",
+    "stressGroup": "5. Extremely High (>80%)",
+    "waterStressLevel": "Extremely High",
+    "waterStressRatio": "> 85% — withdrawal far exceeds renewable supply",
+    "depletionRate": "Critical — water table dropping 1-3 m/year",
+    "droughtRisk": "Extreme",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 400000000,
+    "riskFactors": [
+      "Groundwater over-pumping",
+      "Land subsidence",
+      "Industrial pollution",
+      "Population pressure",
+      "Food security"
+    ],
+    "description": "The North China Plain — including Beijing, Tianjin, and Hebei — holds 400 million people with per-capita water resources one-fifth of the global average. Groundwater levels are falling 1-3 meters annually, causing land subsidence up to 2.5 m in parts of Tianjin. China's South-North Water Transfer Project moves 9.5 billion m³/year northward but covers only a fraction of the deficit. This region produces 60% of China's wheat on rapidly depleting aquifers.",
+    "geojson": "north-china-plain.geojson"
+  },
+  {
+    "code": "orinoco-basin",
+    "name": "Orinoco Basin",
+    "region": "South America",
+    "stressGroup": "1. Low (<10%)",
+    "waterStressLevel": "Low",
+    "waterStressRatio": "< 3% — withdrawal-to-availability",
+    "depletionRate": "Negligible — extremely high renewable supply",
+    "droughtRisk": "Low",
+    "seasonalVariability": "Moderate",
+    "affectedPopulation": 30000000,
+    "riskFactors": [
+      "Oil extraction pollution",
+      "Mining contamination",
+      "Deforestation",
+      "Agricultural runoff"
+    ],
+    "description": "The Orinoco is the fourth largest river by discharge volume globally. Its basin covers most of Venezuela and eastern Colombia. Water stress is among the lowest on Earth, though petroleum extraction and artisanal mining create localized water-quality concerns in tributary sub-basins.",
+    "geojson": "orinoco-basin.geojson"
+  },
+  {
+    "code": "parana-basin",
+    "name": "Paraná Basin",
+    "region": "South America",
+    "stressGroup": "2. Low-Medium (10-20%)",
+    "waterStressLevel": "Low-Medium",
+    "waterStressRatio": "~14% — withdrawal-to-availability",
+    "depletionRate": "Low — Guarani Aquifer provides deep groundwater buffer",
+    "droughtRisk": "Moderate",
+    "seasonalVariability": "High",
+    "affectedPopulation": 70000000,
+    "riskFactors": [
+      "Agricultural expansion",
+      "Deforestation",
+      "Hydropower regulation",
+      "Soy cultivation"
+    ],
+    "description": "The Paraná-La Plata system drains southeastern South America including parts of Brazil, Paraguay, Argentina, and Uruguay. The Guarani Aquifer — one of the world's largest — underlies much of the basin. Soy and cattle expansion are converting cerrado and Atlantic Forest, increasing runoff variability and sediment loads.",
+    "geojson": "parana-basin.geojson"
+  },
+  {
+    "code": "rajasthan-basin",
+    "name": "Rajasthan Basin",
+    "region": "South Asia",
+    "stressGroup": "5. Extremely High (>80%)",
+    "waterStressLevel": "Extremely High",
+    "waterStressRatio": "> 80% — Thar Desert and irrigated agriculture",
+    "depletionRate": "Critical — tube well depths increasing by 2-5 m/year",
+    "droughtRisk": "Extreme",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 80000000,
+    "riskFactors": [
+      "Tube well proliferation",
+      "Monsoon failure",
+      "Fluoride contamination",
+      "Thar Desert expansion",
+      "Indira Gandhi Canal dependence"
+    ],
+    "description": "Rajasthan is India's driest state, with the Thar Desert covering its western half. Groundwater extraction via millions of unregulated tube wells has caused water tables to plummet. Many districts now drill beyond 150 m depth, encountering fluoride-contaminated water causing skeletal fluorosis. The Indira Gandhi Canal brings Himalayan water 650 km into the desert but serves only a fraction of demand. Monsoon failure years trigger acute agricultural and drinking-water crises.",
+    "geojson": "rajasthan-basin.geojson"
+  },
+  {
+    "code": "rio-grande-basin",
+    "name": "Rio Grande Basin",
+    "region": "North America",
+    "stressGroup": "4. High (40-80%)",
+    "waterStressLevel": "High",
+    "waterStressRatio": "~60% — withdrawal-to-availability",
+    "depletionRate": "High — stretches regularly run dry",
+    "droughtRisk": "Very High",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 13000000,
+    "riskFactors": [
+      "Over-allocation",
+      "Transboundary treaty obligations",
+      "Agricultural demand",
+      "Drought intensification"
+    ],
+    "description": "The Rio Grande/Río Bravo forms 2,000 km of the US-Mexico border and is heavily over-allocated. Stretches of the river regularly run dry between Albuquerque and El Paso. The 1944 US-Mexico water treaty allocations assume flows that no longer exist. Groundwater pumping from the Hueco Bolson aquifer — serving El Paso and Ciudad Juárez — faces depletion within decades.",
+    "geojson": "rio-grande-basin.geojson"
+  },
+  {
+    "code": "yangtze-basin",
+    "name": "Yangtze Basin",
+    "region": "East Asia",
+    "stressGroup": "2. Low-Medium (10-20%)",
+    "waterStressLevel": "Low-Medium",
+    "waterStressRatio": "~18% — withdrawal-to-availability",
+    "depletionRate": "Low-Moderate — glacier retreat reducing dry-season base flow",
+    "droughtRisk": "Moderate",
+    "seasonalVariability": "High",
+    "affectedPopulation": 400000000,
+    "riskFactors": [
+      "Glacier retreat",
+      "Industrial pollution",
+      "Three Gorges impacts",
+      "Urbanization"
+    ],
+    "description": "The Yangtze is China's longest river, supporting over 400 million people and one-third of China's GDP. While overall water availability is high, the 2022 drought — the worst in 60 years — caused hydropower shortfalls and exposed Poyang Lake bed. Tibetan glacier retreat threatens long-term dry-season base flows.",
+    "geojson": "yangtze-basin.geojson"
+  },
+  {
+    "code": "yellow-river-basin",
+    "name": "Yellow River Basin",
+    "region": "East Asia",
+    "stressGroup": "3. Medium-High (20-40%)",
+    "waterStressLevel": "Medium-High",
+    "waterStressRatio": "~38% — withdrawal-to-availability",
+    "depletionRate": "High — the river ran dry 226 days in 1997",
+    "droughtRisk": "High",
+    "seasonalVariability": "Very High",
+    "affectedPopulation": 190000000,
+    "riskFactors": [
+      "Over-allocation",
+      "Loess Plateau erosion",
+      "Industrial demand",
+      "Climate aridification"
+    ],
+    "description": "The Yellow River (Huang He) is China's second longest river but carries water for 12% of China's population with only 2% of its water resources. Extreme over-allocation caused the river to fail to reach the sea for most of the 1990s. Government flow-management reforms since 1999 have maintained minimum flows, but climate projections indicate 10-20% precipitation declines across the basin by 2050.",
+    "geojson": "yellow-river-basin.geojson"
+  }
+]

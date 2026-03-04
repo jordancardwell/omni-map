@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.825,
+          26.9247222222
+        ]
+      },
+      "properties": {
+        "code": "the-jantar-mantar-jaipur",
+        "name": "The Jantar Mantar, Jaipur",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

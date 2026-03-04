@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.15,
+          5.82611
+        ]
+      },
+      "properties": {
+        "code": "historic-inner-city-of-paramaribo",
+        "name": "Historic Inner City of Paramaribo",
+        "type": "Cultural",
+        "country": "Suriname",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

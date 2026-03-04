@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.190376,
+          19.700927
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-morelia",
+        "name": "Historic Centre of Morelia",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

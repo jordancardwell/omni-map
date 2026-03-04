@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0091666667,
+          36.1911111111
+        ]
+      },
+      "properties": {
+        "code": "erbil-citadel",
+        "name": "Erbil Citadel",
+        "type": "Cultural",
+        "country": "Iraq",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

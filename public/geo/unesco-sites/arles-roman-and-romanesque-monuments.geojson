@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.630694444,
+          43.67763889
+        ]
+      },
+      "properties": {
+        "code": "arles-roman-and-romanesque-monuments",
+        "name": "Arles, Roman and Romanesque Monuments",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

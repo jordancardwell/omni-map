@@ -1,0 +1,21 @@
+{
+  "code": "telescope-array",
+  "name": "Telescope Array",
+  "country": "United States",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 1400,
+  "aperture": "762 km² area",
+  "telescopes": [
+    "Surface Detectors",
+    "Fluorescence Detectors"
+  ],
+  "keyDiscoveries": [
+    "Cosmic ray hotspot",
+    "Highest-energy cosmic rays",
+    "Ultra-high-energy cosmic ray composition"
+  ],
+  "location": "Telescope Array, United States",
+  "description": "Largest cosmic ray observatory in the Northern Hemisphere, in the Utah desert. Detected the Amaterasu particle, one of the highest-energy cosmic rays ever observed.",
+  "geojson": "telescope-array.geojson"
+}

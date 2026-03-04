@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92917,
+          34.96667
+        ]
+      },
+      "properties": {
+        "code": "gochang-hwasun-and-ganghwa-dolmen-sites",
+        "name": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

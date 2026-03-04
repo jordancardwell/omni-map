@@ -1,0 +1,14 @@
+{
+  "code": "city-of-luxembourg-its-old-quarters-and-fortifications",
+  "name": "City of Luxembourg: its Old Quarters and Fortifications",
+  "type": "Cultural",
+  "country": "Luxembourg",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Because of its strategic position, Luxembourg was, from the 16th century until 1867, when its walls were dismantled, one of Europe's greatest fortified sites. It was repeatedly reinforced as it passed from one great European power to another: the Holy Roman Emperors, the House of Burgundy, the Habsburgs, the French and Spanish kings, and finally the Prussians. Until their partial demolition, the fortifications were a fine example of military architecture spanning several centuries.",
+  "danger": false,
+  "geojson": "city-of-luxembourg-its-old-quarters-and-fortifications.geojson"
+}

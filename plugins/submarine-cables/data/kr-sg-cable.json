@@ -1,0 +1,16 @@
+{
+  "code": "kr-sg-cable",
+  "name": "KR-SG Cable",
+  "capacityTbps": 29,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 12189,
+  "yearLaid": 2017,
+  "rfsDate": "2019-06",
+  "owner": "KT",
+  "landingPoints": [
+    "Busan, South Korea",
+    "Singapore"
+  ],
+  "description": "KR-SG Cable connecting Busan to Singapore.",
+  "geojson": "kr-sg-cable.geojson"
+}

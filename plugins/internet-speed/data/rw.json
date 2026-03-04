@@ -1,0 +1,17 @@
+{
+  "code": "rw",
+  "name": "Rwanda",
+  "avgDownloadMbps": 8.8,
+  "avgUploadMbps": 4.6,
+  "avgLatencyMs": 30,
+  "mobileDownloadMbps": 14.6,
+  "mobileUploadMbps": 3.4,
+  "fixedDownloadMbps": 8.8,
+  "fixedUploadMbps": 4.6,
+  "rank": 145,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Vision 2020 tech investments showing results. ~22% year-over-year growth.",
+  "geojson": "rw.geojson"
+}

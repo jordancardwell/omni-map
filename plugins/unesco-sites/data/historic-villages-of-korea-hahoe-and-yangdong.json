@@ -1,0 +1,15 @@
+{
+  "code": "historic-villages-of-korea-hahoe-and-yangdong",
+  "name": "Historic Villages of Korea: Hahoe and Yangdong",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "2010",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Founded in the 14th-15th centuries, Hahoe and Yangdong are seen as the two most representative historic clan villages in the Republic of Korea. Their layout and location - sheltered by forested mountains and facing out onto a river and open agricultural fields – reflect the distinctive aristocratic Confucian culture of the early part of the Joseon Dynasty (1392-1910). The villages were located to provide both physical and spiritual nourishment from their surrounding landscapes. They include residences of the head families, together with substantial timber framed houses of other clan members, also pavilions, study halls, Confucian academies for learning, and clusters of one story mud-walled, thatched-roofed houses, formerly for commoners. The landscapes of mountains, trees and water around the village, framed in views from pavilions and retreats, were celebrated for their beauty by 17th and 18th century poets.",
+  "danger": false,
+  "geojson": "historic-villages-of-korea-hahoe-and-yangdong.geojson"
+}

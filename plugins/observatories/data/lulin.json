@@ -1,0 +1,21 @@
+{
+  "code": "lulin",
+  "name": "Lulin Observatory",
+  "country": "Taiwan",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2862,
+  "aperture": "1 m (LOT)",
+  "telescopes": [
+    "Lulin One-meter Telescope",
+    "SLT 0.4m"
+  ],
+  "keyDiscoveries": [
+    "Comet discoveries",
+    "Near-Earth asteroids",
+    "Supernovae surveys"
+  ],
+  "location": "Lulin Observatory, Taiwan",
+  "description": "National Central University observatory in Yushan National Park, the best astronomical site in East Asia. Active in comet and asteroid surveys.",
+  "geojson": "lulin.geojson"
+}

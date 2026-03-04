@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-peru",
+  "name": "Fiestas Patrias (Peru)",
+  "festivalType": "National",
+  "dateOrSeason": "July 28–29",
+  "origin": "Peruvian national",
+  "estimatedAttendance": "33+ million Peruvians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military parade; presidential address; flag ceremonies; traditional food festivals; fireworks; marinera dance.",
+  "historicalBackground": "Peru's Independence Day marks July 28, 1821, when José de San Martín declared Peru's independence from Spain in Lima's Plaza Mayor.",
+  "description": "Peru's two-day independence celebration, with grand military parades and traditional festivities honoring liberation from Spanish rule.",
+  "location": "Lima, Peru",
+  "geojson": "independence-day-peru.geojson"
+}

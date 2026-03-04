@@ -1,0 +1,16 @@
+{
+  "code": "fj-tv-cable",
+  "name": "FJ-TV Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 451,
+  "yearLaid": 2020,
+  "rfsDate": "2016-06",
+  "owner": "Tuvalu Telecom",
+  "landingPoints": [
+    "Suva, Fiji",
+    "Funafuti, Tuvalu"
+  ],
+  "description": "FJ-TV Cable connecting Suva to Funafuti in the Pacific.",
+  "geojson": "fj-tv-cable.geojson"
+}

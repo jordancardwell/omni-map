@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6685277778,
+          -20.5650277778
+        ]
+      },
+      "properties": {
+        "code": "murujuga-cultural-landscape",
+        "name": "Murujuga Cultural Landscape",
+        "type": "Cultural",
+        "country": "Australia",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

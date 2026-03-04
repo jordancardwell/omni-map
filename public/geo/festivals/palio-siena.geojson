@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3308,
+          43.3188
+        ]
+      },
+      "properties": {
+        "code": "palio-siena",
+        "name": "Palio di Siena",
+        "festivalType": "Cultural",
+        "dateOrSeason": "July 2 and August 16",
+        "location": "Siena, Italy"
+      }
+    }
+  ]
+}

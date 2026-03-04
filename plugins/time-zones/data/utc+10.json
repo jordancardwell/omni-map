@@ -1,0 +1,27 @@
+{
+  "code": "utc+10",
+  "name": "Australian Eastern Standard Time",
+  "nativeName": "UTC+10:00",
+  "utcOffset": "UTC+10:00",
+  "utcOffsetHours": 10,
+  "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+  "ianaNames": [
+    "Australia/Sydney",
+    "Australia/Brisbane",
+    "Pacific/Guam",
+    "Pacific/Port_Moresby"
+  ],
+  "countries": [
+    "Australia (NSW, Victoria, Tasmania, Queensland, ACT)",
+    "Papua New Guinea",
+    "Guam (US)",
+    "Northern Mariana Islands (US)",
+    "Russia (Vladivostok)"
+  ],
+  "dstRules": "NSW/Victoria/Tasmania/ACT observe DST (UTC+11 in summer, Oct–Apr); Queensland, Guam, and PNG do not",
+  "description": "Covers Australia's most populous eastern states and major Pacific territories. Sydney and Melbourne are in this zone, though Queensland notably refuses DST, creating seasonal time differences between Brisbane and Sydney.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+10.geojson"
+}

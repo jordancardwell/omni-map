@@ -1,0 +1,14 @@
+{
+  "code": "higan",
+  "name": "Higan (Equinox Week)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "March and September equinoxes",
+  "origin": "Japanese Buddhist tradition",
+  "estimatedAttendance": "Tens of millions in Japan",
+  "unescoICH": "Not inscribed",
+  "traditions": "Visiting family graves (ohaka-mairi); offering ohagi/botamochi rice cakes; temple services; contemplation of impermanence.",
+  "historicalBackground": "Higan means 'the other shore' in Buddhism, referring to enlightenment. The equinox symbolizes the balance between this world and the next.",
+  "description": "Japan's contemplative equinox week, when families tend ancestral graves and reflect on the Buddhist teachings of impermanence.",
+  "location": "Tokyo, Japan",
+  "geojson": "higan.geojson"
+}

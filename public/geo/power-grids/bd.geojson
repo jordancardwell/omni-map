@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bd","name":"Bangladesh","country":"BD","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[88,20.7],[88,26.6],[92.7,26.6],[92.7,20.7],[88,20.7]]]}}]}

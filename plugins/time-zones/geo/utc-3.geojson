@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-3","name":"Brasília Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-52.5,-60],[-37.5,-60],[-37.5,84],[-52.5,84],[-52.5,-60]]]}}]}

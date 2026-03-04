@@ -1,0 +1,15 @@
+{
+  "code": "prambanan-temple-compounds",
+  "name": "Prambanan Temple Compounds",
+  "type": "Cultural",
+  "country": "Indonesia",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Built in the 10th century, this is the largest temple compound dedicated to Shiva in Indonesia. Rising above the centre of the last of these concentric squares are three temples decorated with reliefs illustrating the epic of the Ramayana, dedicated to the three great Hindu divinities (Shiva, Vishnu and Brahma) and three temples dedicated to the animals who serve them.",
+  "danger": false,
+  "geojson": "prambanan-temple-compounds.geojson"
+}

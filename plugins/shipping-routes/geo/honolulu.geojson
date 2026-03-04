@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"honolulu","name":"Port of Honolulu","featureType":"port","portType":"Multi-Purpose Port","country":"United States"},"geometry":{"type":"Point","coordinates":[-157.87,21.31]}}]}

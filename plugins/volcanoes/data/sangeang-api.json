@@ -1,0 +1,21 @@
+{
+  "code": "sangeang-api",
+  "name": "Sangeang Api",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1949,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Indonesia",
+  "region": "Sumbawa",
+  "location": "Sumbawa, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "The 2014 eruption produced spectacular ash plumes photographed from aircraft. Has erupted numerous times since 1512.",
+  "description": "Sangeang Api is a small volcanic island north of Sumbawa. Its 2014 eruption produced dramatic ash columns captured in widely shared photographs.",
+  "geojson": "sangeang-api.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "bsd",
+  "name": "Bahamian Dollar",
+  "isoCode": "BSD",
+  "symbol": "B$",
+  "region": "Americas",
+  "centralBank": "Central Bank of The Bahamas",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Bahamas"
+  ],
+  "countryCount": 1,
+  "description": "The Bahamian Dollar is pegged at par with the US Dollar. The Bahamas launched the world's first central bank digital currency, the Sand Dollar, in 2020.",
+  "historicalNotes": "Introduced in 1966, replacing the Bahamian pound at a rate of 1 dollar = 7 shillings.",
+  "geojson": "bsd.geojson"
+}

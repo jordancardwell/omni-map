@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32861,
+          50.9775
+        ]
+      },
+      "properties": {
+        "code": "classical-weimar",
+        "name": "Classical Weimar",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

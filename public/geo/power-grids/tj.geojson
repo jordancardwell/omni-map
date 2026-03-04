@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"tj","name":"Tajikistan","country":"TJ","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[67.4,36.7],[67.4,41.1],[75,41.1],[75,36.7],[67.4,36.7]]]}}]}

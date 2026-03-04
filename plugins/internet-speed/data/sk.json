@@ -1,0 +1,17 @@
+{
+  "code": "sk",
+  "name": "Slovakia",
+  "avgDownloadMbps": 102.8,
+  "avgUploadMbps": 38.6,
+  "avgLatencyMs": 17,
+  "mobileDownloadMbps": 39.8,
+  "mobileUploadMbps": 8.8,
+  "fixedDownloadMbps": 102.8,
+  "fixedUploadMbps": 38.6,
+  "rank": 45,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Fiber expansion in progress. ~11% year-over-year growth.",
+  "geojson": "sk.geojson"
+}

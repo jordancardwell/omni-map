@@ -1,0 +1,21 @@
+{
+  "code": "globenet",
+  "name": "GlobeNet",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 22000,
+  "yearLaid": 2000,
+  "rfsDate": "2000-12",
+  "owner": "Lumen Technologies",
+  "landingPoints": [
+    "Miami, USA",
+    "Fortaleza, Brazil",
+    "Rio de Janeiro, Brazil",
+    "Santos, Brazil",
+    "Bogotá, Colombia",
+    "Barranquilla, Colombia",
+    "Caracas, Venezuela"
+  ],
+  "description": "GlobeNet cable system connecting the US to Brazil via the Caribbean.",
+  "geojson": "globenet.geojson"
+}

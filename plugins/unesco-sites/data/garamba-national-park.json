@@ -1,0 +1,15 @@
+{
+  "code": "garamba-national-park",
+  "name": "Garamba National Park",
+  "type": "Natural",
+  "country": "Democratic Republic of the Congo",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(vii)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The park's immense savannahs, grasslands and woodlands, interspersed with gallery forests along the river banks and the swampy depressions, are home to four large mammals: the elephant, giraffe, hippopotamus and above all the white rhinoceros. Though much larger than the black rhino, it is harmless; only some 30 individuals remain.",
+  "danger": true,
+  "geojson": "garamba-national-park.geojson"
+}

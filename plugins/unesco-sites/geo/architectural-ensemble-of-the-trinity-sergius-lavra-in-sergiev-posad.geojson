@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1312,
+          56.31035
+        ]
+      },
+      "properties": {
+        "code": "architectural-ensemble-of-the-trinity-sergius-lavra-in-sergiev-posad",
+        "name": "Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

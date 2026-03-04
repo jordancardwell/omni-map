@@ -1,0 +1,12 @@
+{
+  "code": "inca",
+  "name": "Inca Empire",
+  "period": "c. 1438–1533 CE",
+  "region": "South America",
+  "type": "Civilization",
+  "writingSystem": "Quipu (knotted string records)",
+  "majorAchievements": ["Machu Picchu", "Road network (Qhapaq Ñan)", "Terrace farming", "Suspension bridges", "Freeze-drying food preservation", "Brain surgery (trepanation)"],
+  "keyCities": ["Cusco", "Machu Picchu", "Quito", "Chan Chan", "Ollantaytambo"],
+  "description": "The Inca Empire was the largest empire in pre-Columbian America, stretching along the western coast of South America. Despite lacking writing, wheeled vehicles, or iron tools, the Inca built an extraordinary civilization with a road network spanning over 40,000 km, sophisticated agricultural terracing, and monumental stone architecture. Their engineering achievements at sites like Machu Picchu continue to astound modern observers.",
+  "geojson": "inca.geojson"
+}

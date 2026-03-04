@@ -1,0 +1,17 @@
+{
+  "code": "hibernia-atlantic",
+  "name": "Hibernia Atlantic",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4700,
+  "yearLaid": 2000,
+  "rfsDate": "2001-01",
+  "owner": "GTT Communications",
+  "landingPoints": [
+    "Halifax, Canada",
+    "Southport, UK",
+    "Dublin, Ireland"
+  ],
+  "description": "Transatlantic fiber system connecting North America and Europe.",
+  "geojson": "hibernia-atlantic.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-namib-rand",
+        "name": "NamibRand Nature Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.96,
+          -25.12
+        ]
+      }
+    }
+  ]
+}

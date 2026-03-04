@@ -1,0 +1,18 @@
+{
+  "code": "lax-mco",
+  "name": "Los Angeles — Orlando",
+  "airports": [
+    "LAX",
+    "MCO"
+  ],
+  "distanceKm": 3562,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LAX–MCO route between Los Angeles and Orlando. Distance: 3,562 km. ~50 weekly flights operated by Delta, JetBlue.",
+  "geojson": "lax-mco.geojson"
+}

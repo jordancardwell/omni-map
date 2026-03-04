@@ -1,0 +1,8 @@
+{
+  "code": "east-coast-americas",
+  "name": "East Coast Americas Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "Coastal shipping connecting US/Canadian East Coast ports with Caribbean and South American destinations. Major corridor for containerized trade and cruise shipping.",
+  "geojson": "east-coast-americas.geojson"
+}

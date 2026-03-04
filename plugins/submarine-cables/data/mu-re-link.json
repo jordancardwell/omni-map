@@ -1,0 +1,16 @@
+{
+  "code": "mu-re-link",
+  "name": "MU-RE Link",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2953,
+  "yearLaid": 2019,
+  "rfsDate": "2022-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Port Louis, Mauritius",
+    "Saint-Denis, Réunion"
+  ],
+  "description": "MU-RE Link connecting Port Louis to Saint-Denis along the African coast.",
+  "geojson": "mu-re-link.geojson"
+}

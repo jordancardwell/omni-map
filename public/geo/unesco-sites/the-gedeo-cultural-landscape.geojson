@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2877777778,
+          6.2488888889
+        ]
+      },
+      "properties": {
+        "code": "the-gedeo-cultural-landscape",
+        "name": "The Gedeo Cultural Landscape",
+        "type": "Cultural",
+        "country": "Ethiopia",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

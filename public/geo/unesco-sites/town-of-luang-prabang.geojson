@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.13333,
+          19.88889
+        ]
+      },
+      "properties": {
+        "code": "town-of-luang-prabang",
+        "name": "Town of Luang Prabang",
+        "type": "Cultural",
+        "country": "Lao People's Democratic Republic",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

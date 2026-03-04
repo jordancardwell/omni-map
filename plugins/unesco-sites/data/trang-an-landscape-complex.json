@@ -1,0 +1,16 @@
+{
+  "code": "trang-an-landscape-complex",
+  "name": "Trang An Landscape Complex",
+  "type": "Mixed",
+  "country": "Viet Nam",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(v)",
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated near the southern margin of the Red River Delta, the Trang An Landscape Complex is a spectacular landscape of limestone karst peaks permeated with valleys, many of them partly submerged and surrounded by steep, almost vertical cliffs. Exploration of caves at different altitudes has revealed archaeological traces of human activity over a continuous period of more than 30,000 years. They illustrate the occupation of these mountains by seasonal hunter-gatherers and how they adapted to major climatic and environmental changes, especially the repeated inundation of the landscape by the sea after the last ice age. The story of human occupation continues through the Neolithic and Bronze Ages to the historical era. Hoa Lu, the ancient capital of Viet Nam, was strategically established here in the 10th and 11th centuries AD. The property also contains temples, pagodas, paddy-fields and small villages.",
+  "danger": false,
+  "geojson": "trang-an-landscape-complex.geojson"
+}

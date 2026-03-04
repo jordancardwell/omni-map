@@ -1,0 +1,14 @@
+{
+  "code": "national-day-sweden",
+  "name": "National Day of Sweden",
+  "festivalType": "National",
+  "dateOrSeason": "June 6",
+  "origin": "Swedish national",
+  "estimatedAttendance": "10.4+ million Swedes",
+  "unescoICH": "Not inscribed",
+  "traditions": "Flag Day celebrations; folk music and dancing; citizenship ceremonies at Skansen; Swedish flag displays; royal ceremonies.",
+  "historicalBackground": "June 6 commemorates Gustav Vasa's election as king in 1523, establishing Swedish independence. It became an official public holiday in 2005.",
+  "description": "Sweden's National Day celebrating independence and democracy, with folk music, flag ceremonies, and citizenship celebrations at Skansen.",
+  "location": "Stockholm, Sweden",
+  "geojson": "national-day-sweden.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "cyrillic",
+  "name": "Cyrillic",
+  "scriptType": "Alphabet",
+  "characters": 33,
+  "direction": "LTR",
+  "originDate": "9th century CE",
+  "sampleText": "Съешь ещё этих мягких французских булок, да выпей чаю",
+  "relatedScripts": [
+    "latin",
+    "greek"
+  ],
+  "description": "The Cyrillic script is used for writing many Slavic languages as well as several non-Slavic languages across Eastern Europe and Central Asia. The Russian alphabet, with 33 letters, is the most widely known variant. Other major users include Ukrainian, Bulgarian, Serbian, Kazakh, and Mongolian.",
+  "historicalNotes": "Cyrillic was developed in the First Bulgarian Empire during the 9th century CE, traditionally attributed to Saints Cyril and Methodius's disciples. It was based on the Greek uncial script with additions for Slavic sounds. The script spread with the adoption of Orthodox Christianity. Peter the Great reformed the Russian variant in 1708, and Soviet-era policies extended Cyrillic to many Central Asian and Siberian languages.",
+  "geojson": "cyrillic.geojson"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "independence-hall",
+  "name": "Independence Hall",
+  "type": "Cultural",
+  "country": "United States of America",
+  "yearInscribed": "1979",
+  "criteria": [],
+  "region": "Europe and North America",
+  "description": "The Declaration of Independence (1776) and the Constitution of the United States (1787) were both signed in this building in Philadelphia. The universal principles of freedom and democracy set forth in these documents are of fundamental importance to American history and have also had a profound impact on law-makers around the world.",
+  "danger": false,
+  "geojson": "independence-hall.geojson"
+}

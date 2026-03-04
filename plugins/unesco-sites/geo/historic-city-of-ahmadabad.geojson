@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5880555556,
+          23.0263888889
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-ahmadabad",
+        "name": "Historic City of Ahmadabad",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

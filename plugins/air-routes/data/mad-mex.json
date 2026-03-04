@@ -1,0 +1,18 @@
+{
+  "code": "mad-mex",
+  "name": "Madrid — Mexico City",
+  "airports": [
+    "MAD",
+    "MEX"
+  ],
+  "distanceKm": 9066,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Iberia",
+    "Aeromexico"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MAD–MEX route between Madrid and Mexico City. Distance: 9,066 km. ~30 weekly flights operated by Iberia, Aeromexico.",
+  "geojson": "mad-mex.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "cn-hainan",
+  "name": "CN Hainan",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2577,
+  "yearLaid": 2015,
+  "rfsDate": "2013-06",
+  "owner": "China Mobile",
+  "landingPoints": [
+    "Haikou, China",
+    "Hong Kong, China"
+  ],
+  "description": "CN Hainan connecting Haikou to Hong Kong.",
+  "geojson": "cn-hainan.geojson"
+}

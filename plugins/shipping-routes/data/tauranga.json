@@ -1,0 +1,14 @@
+{
+  "code": "tauranga",
+  "name": "Port of Tauranga",
+  "country": "New Zealand",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 27,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "New Zealand Trade Route"
+  ],
+  "description": "Port of Tauranga in New Zealand. Annual cargo throughput: ~27 million tons. Type: Multi-Purpose Port.",
+  "geojson": "tauranga.geojson"
+}

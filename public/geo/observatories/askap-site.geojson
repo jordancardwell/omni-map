@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[116.6317,-26.6972]},"properties":{"code":"askap-site","name":"ASKAP (Australian SKA Pathfinder)","observatoryType":"Radio","status":"Operational","country":"Australia"}}]}

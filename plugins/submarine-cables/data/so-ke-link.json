@@ -1,0 +1,16 @@
+{
+  "code": "so-ke-link",
+  "name": "SO-KE Link",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2226,
+  "yearLaid": 2011,
+  "rfsDate": "2023-06",
+  "owner": "Hormuud",
+  "landingPoints": [
+    "Mogadishu, Somalia",
+    "Lamu, Kenya"
+  ],
+  "description": "SO-KE Link connecting Mogadishu to Lamu in East Africa/Indian Ocean.",
+  "geojson": "so-ke-link.geojson"
+}

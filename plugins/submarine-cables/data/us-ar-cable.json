@@ -1,0 +1,16 @@
+{
+  "code": "us-ar-cable",
+  "name": "US-AR Cable",
+  "capacityTbps": 17,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3227,
+  "yearLaid": 2014,
+  "rfsDate": "2012-06",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Buenos Aires, Argentina"
+  ],
+  "description": "US-AR Cable connecting Virginia Beach to Buenos Aires.",
+  "geojson": "us-ar-cable.geojson"
+}

@@ -1,0 +1,37 @@
+{
+  "code": "moroccan",
+  "name": "Moroccan Cuisine",
+  "cuisineFamily": "North African",
+  "description": "Moroccan cuisine is a sensory journey of aromatic spices, slow-cooked tagines, and sweet-savory flavor combinations. Influenced by Berber, Arab, Andalusian, and French traditions, it masterfully balances warm spices like cinnamon and cumin with dried fruits and preserved lemons.",
+  "signatureDishes": [
+    "Tagine",
+    "Couscous",
+    "Pastilla",
+    "Harira",
+    "Mechoui",
+    "Moroccan Mint Tea"
+  ],
+  "keyIngredients": [
+    "Ras el Hanout",
+    "Preserved Lemons",
+    "Saffron",
+    "Cumin",
+    "Argan Oil",
+    "Dates"
+  ],
+  "cookingTechniques": [
+    "Tagine slow-cooking",
+    "Couscous steaming",
+    "Spice blending",
+    "Pastry layering"
+  ],
+  "unescoRecognition": "None specific; Moroccan culinary traditions widely celebrated",
+  "keyRegions": [
+    "Fez",
+    "Marrakech",
+    "Casablanca",
+    "Essaouira",
+    "Atlas Mountains"
+  ],
+  "geojson": "moroccan.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "amiens-cathedral",
+  "name": "Amiens Cathedral",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Amiens Cathedral, in the heart of Picardy, is one of the largest 'classic' Gothic churches of the 13th century. It is notable for the coherence of its plan, the beauty of its three-tier interior elevation and the particularly fine display of sculptures on the principal facade and in the south transept.",
+  "danger": false,
+  "geojson": "amiens-cathedral.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.259951,
+          34.381311
+        ]
+      },
+      "properties": {
+        "code": "mausoleum-of-the-first-qin-emperor",
+        "name": "Mausoleum of the First Qin Emperor",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "gobi-desert",
+  "name": "Gobi Desert",
+  "region": "East Asia",
+  "aridityGroup": "2. Arid",
+  "aridityClassification": "Arid",
+  "aridityIndex": "0.05–0.20 — cold continental desert",
+  "area": "1,295,000 km²",
+  "degradationTrend": "Severe — Expanding",
+  "populationAffected": 3000000,
+  "affectedCountries": [
+    "Mongolia",
+    "China"
+  ],
+  "desertificationDrivers": [
+    "Overgrazing",
+    "Climate change",
+    "Wind erosion",
+    "Mining",
+    "Loss of grassland cover"
+  ],
+  "desertFrontier": "Expanding southward into Chinese grasslands at ~3,600 km²/year",
+  "description": "The Gobi is Asia's largest desert and one of the fastest-expanding. It grows by approximately 3,600 km² annually, driven by overgrazing from nomadic herders and climate change. Dust storms from the Gobi affect Beijing, Seoul, and even reach North America. China's 'Three-North Shelter Forest Program' (Great Green Wall of China) attempts to halt the advance.",
+  "geojson": "gobi-desert.geojson"
+}

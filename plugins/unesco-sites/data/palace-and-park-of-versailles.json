@@ -1,0 +1,15 @@
+{
+  "code": "palace-and-park-of-versailles",
+  "name": "Palace and Park of Versailles",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Palace of Versailles was the principal residence of the French kings from the time of Louis XIV to Louis XVI. Embellished by several generations of architects, sculptors, decorators and landscape architects, it provided Europe with a model of the ideal royal residence for over a century.",
+  "danger": false,
+  "geojson": "palace-and-park-of-versailles.geojson"
+}

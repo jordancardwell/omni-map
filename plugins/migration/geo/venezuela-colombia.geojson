@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "venezuela-colombia", "name": "Venezuela \u2192 Colombia", "migrantVolume": 4}, "geometry": {"type": "LineString", "coordinates": [[-66, 10], [-68, 9], [-70, 8], [-72, 7]]}}]}

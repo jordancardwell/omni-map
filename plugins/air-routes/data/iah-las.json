@@ -1,0 +1,18 @@
+{
+  "code": "iah-las",
+  "name": "Houston — Las Vegas",
+  "airports": [
+    "IAH",
+    "LAS"
+  ],
+  "distanceKm": 1963,
+  "weeklyFlights": 40,
+  "airlines": [
+    "United",
+    "Southwest"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IAH–LAS route between Houston and Las Vegas. Distance: 1,963 km. ~40 weekly flights operated by United, Southwest.",
+  "geojson": "iah-las.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.34,-2.002]},"properties":{"code":"sangay","name":"Sangay","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":5230,"lastEruption":"2023","vei":3}}]}

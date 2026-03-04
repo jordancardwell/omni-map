@@ -1,0 +1,16 @@
+{
+  "code": "vu-domestic",
+  "name": "VU Domestic",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1993,
+  "yearLaid": 2018,
+  "rfsDate": "2018-06",
+  "owner": "TVL",
+  "landingPoints": [
+    "Port Vila, Vanuatu",
+    "Luganville, Vanuatu"
+  ],
+  "description": "VU Domestic connecting Port Vila to Luganville in the Pacific.",
+  "geojson": "vu-domestic.geojson"
+}

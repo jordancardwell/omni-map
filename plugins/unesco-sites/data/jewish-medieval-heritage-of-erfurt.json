@@ -1,0 +1,14 @@
+{
+  "code": "jewish-medieval-heritage-of-erfurt",
+  "name": "Jewish-Medieval Heritage of Erfurt",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in the medieval historic centre of Erfurt, the capital city of Thuringia, the property comprises three monuments: the Old Synagogue, the Mikveh, and the Stone House. They illustrate the life of the local Jewish community and its coexistence with a Christian majority in Central Europe during the Middle Ages, between the end of the 11th and the mid-14th century.",
+  "danger": false,
+  "geojson": "jewish-medieval-heritage-of-erfurt.geojson"
+}

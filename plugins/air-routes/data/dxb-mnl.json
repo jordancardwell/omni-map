@@ -1,0 +1,18 @@
+{
+  "code": "dxb-mnl",
+  "name": "Dubai — Manila",
+  "airports": [
+    "DXB",
+    "MNL"
+  ],
+  "distanceKm": 6906,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Emirates",
+    "Philippine Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DXB–MNL route between Dubai and Manila. Distance: 6,906 km. ~50 weekly flights operated by Emirates, Philippine Airlines.",
+  "geojson": "dxb-mnl.geojson"
+}

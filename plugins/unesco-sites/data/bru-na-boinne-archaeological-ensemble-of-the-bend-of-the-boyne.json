@@ -1,0 +1,16 @@
+{
+  "code": "bru-na-boinne-archaeological-ensemble-of-the-bend-of-the-boyne",
+  "name": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+  "type": "Cultural",
+  "country": "Ireland",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The three main prehistoric sites of the Brú na Bóinne Complex, Newgrange, Knowth and Dowth, are situated on the north bank of the River Boyne 50 km north of Dublin. This is Europe's largest and most important concentration of prehistoric megalithic art. The monuments there had social, economic, religious and funerary functions.",
+  "danger": false,
+  "geojson": "bru-na-boinne-archaeological-ensemble-of-the-bend-of-the-boyne.geojson"
+}

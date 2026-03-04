@@ -1,0 +1,14 @@
+{
+  "code": "national-day-italy",
+  "name": "Republic Day (Italy)",
+  "festivalType": "National",
+  "dateOrSeason": "June 2",
+  "origin": "Italian national",
+  "estimatedAttendance": "60+ million Italians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Military parade along Via dei Fori Imperiali; aerial display by Frecce Tricolori; wreath-laying at Altare della Patria.",
+  "historicalBackground": "Republic Day marks the 1946 referendum when Italians voted to abolish the monarchy and establish a republic after World War II.",
+  "description": "Italy's national day celebrating the birth of the Republic, with a grand military parade through Rome's ancient heart.",
+  "location": "Rome, Italy",
+  "geojson": "national-day-italy.geojson"
+}

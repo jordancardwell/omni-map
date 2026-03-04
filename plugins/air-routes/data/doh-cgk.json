@@ -1,0 +1,17 @@
+{
+  "code": "doh-cgk",
+  "name": "Doha — Jakarta",
+  "airports": [
+    "DOH",
+    "CGK"
+  ],
+  "distanceKm": 6894,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–CGK route between Doha and Jakarta. Distance: 6,894 km. ~20 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-cgk.geojson"
+}

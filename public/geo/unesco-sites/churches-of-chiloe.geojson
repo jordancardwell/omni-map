@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.76666667,
+          -42.5
+        ]
+      },
+      "properties": {
+        "code": "churches-of-chiloe",
+        "name": "Churches of Chiloé",
+        "type": "Cultural",
+        "country": "Chile",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "markhor",
+  "name": "Markhor",
+  "scientificName": "Capra falconeri",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~5,700 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Steep mountain terrain",
+  "threats": [
+    "Hunting",
+    "Habitat loss",
+    "Military conflict",
+    "Disease from livestock"
+  ],
+  "conservationEfforts": "Trophy hunting programs in Pakistan generate conservation revenue for communities. Population has recovered significantly. National animal of Pakistan.",
+  "description": "A large wild goat with dramatic corkscrew horns up to 1.6 meters long. Its name is said to mean 'snake eater' in Persian, though it actually eats grasses, leaves, and acorns.",
+  "geojson": "markhor.geojson"
+}

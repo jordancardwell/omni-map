@@ -1,0 +1,18 @@
+{
+  "code": "southern-cross-next",
+  "name": "Southern Cross NEXT",
+  "capacityTbps": 72,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 13000,
+  "yearLaid": 2022,
+  "rfsDate": "2022-07",
+  "owner": "Southern Cross Cables",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Auckland, New Zealand",
+    "Suva, Fiji",
+    "Los Angeles, USA"
+  ],
+  "description": "New trans-Pacific cable adding diverse routing between Australia/NZ and the US West Coast.",
+  "geojson": "southern-cross-next.geojson"
+}

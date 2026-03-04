@@ -1,0 +1,21 @@
+{
+  "code": "agulhas",
+  "name": "Agulhas Current",
+  "currentType": "Warm",
+  "speedRange": "1.5–2.5 m/s",
+  "origin": "Mozambique Channel / Indian Ocean",
+  "destination": "South Africa / South Atlantic",
+  "climateEffects": [
+    "Warms southeastern Africa",
+    "Creates extreme rogue waves",
+    "Leaks warm water into Atlantic via Agulhas rings"
+  ],
+  "connectedEcosystems": [
+    "East African coral reefs",
+    "South African marine habitats",
+    "Indian Ocean pelagic zone"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Agulhas Current is the western boundary current of the Indian Ocean, flowing southward along the east coast of Africa. It is one of the fastest ocean currents, notorious for producing dangerous rogue waves where it meets the Southern Ocean.",
+  "geojson": "agulhas.geojson"
+}

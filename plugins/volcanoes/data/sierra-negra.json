@@ -1,0 +1,20 @@
+{
+  "code": "sierra-negra",
+  "name": "Sierra Negra",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1124,
+  "lastEruption": "2018",
+  "vei": 2,
+  "country": "Ecuador",
+  "region": "Galápagos",
+  "location": "Galápagos, Ecuador",
+  "tectonicSetting": "Hot spot",
+  "hazards": [
+    "Lava flows",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Has one of the largest calderas in the Galápagos. Erupted in 2005 and 2018 with extensive lava flows.",
+  "description": "Sierra Negra on Isabela Island has one of the largest basaltic calderas in the world. Its eruptions produce impressive lava flows on the Galápagos landscape.",
+  "geojson": "sierra-negra.geojson"
+}

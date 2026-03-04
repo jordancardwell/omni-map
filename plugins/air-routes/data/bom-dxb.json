@@ -1,0 +1,20 @@
+{
+  "code": "bom-dxb",
+  "name": "Mumbai — Dubai",
+  "airports": [
+    "BOM",
+    "DXB"
+  ],
+  "distanceKm": 1926,
+  "weeklyFlights": 230,
+  "airlines": [
+    "IndiGo",
+    "Air India",
+    "Emirates",
+    "SpiceJet"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "BOM–DXB route between Mumbai and Dubai. Distance: 1,926 km. ~230 weekly flights operated by IndiGo, Air India, Emirates, SpiceJet.",
+  "geojson": "bom-dxb.geojson"
+}

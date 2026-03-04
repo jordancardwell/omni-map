@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.37666667,
+          -20.15833333
+        ]
+      },
+      "properties": {
+        "code": "khami-ruins-national-monument",
+        "name": "Khami Ruins National Monument",
+        "type": "Cultural",
+        "country": "Zimbabwe",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

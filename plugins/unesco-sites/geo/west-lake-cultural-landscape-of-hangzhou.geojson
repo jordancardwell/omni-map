@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1408333333,
+          30.2375
+        ]
+      },
+      "properties": {
+        "code": "west-lake-cultural-landscape-of-hangzhou",
+        "name": "West Lake Cultural Landscape of Hangzhou",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

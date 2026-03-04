@@ -1,0 +1,16 @@
+{
+  "code": "tw-ph-cable",
+  "name": "TW-PH Cable",
+  "capacityTbps": 9,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 712,
+  "yearLaid": 2013,
+  "rfsDate": "2021-06",
+  "owner": "Far EasTone",
+  "landingPoints": [
+    "Taipei, Taiwan",
+    "Manila, Philippines"
+  ],
+  "description": "TW-PH Cable connecting Taipei to Manila in East Asia.",
+  "geojson": "tw-ph-cable.geojson"
+}

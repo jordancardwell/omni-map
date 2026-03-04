@@ -1,0 +1,14 @@
+{
+  "code": "the-flow-country",
+  "name": "The Flow Country",
+  "type": "Natural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2024",
+  "criteria": [
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "The serial property, located in the Highland Region of Scotland, is considered the most outstanding example of an actively accumulating blanket bog landscape. This peatland ecosystem, which has been accumulating for the past 9,000 years, provides a diversity of habitats home to a distinct combination of bird species and displays a remarkable diversity of features not found anywhere else on Earth. Peatlands play an important role in storing carbon and the property’s ongoing peat-forming ecological processes continue to sequester carbon on a very large scale, representing a significant research and educational resource.",
+  "danger": false,
+  "geojson": "the-flow-country.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ambae",
+  "name": "Ambae (Aoba)",
+  "volcanoType": "Shield volcano",
+  "status": "Erupting/Recent",
+  "elevation": 1496,
+  "lastEruption": "2019",
+  "vei": 3,
+  "country": "Vanuatu",
+  "region": "Ambae Island",
+  "location": "Ambae Island, Vanuatu",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Lahars",
+    "Acid rain",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Major eruptions in 2017-2018 forced complete evacuation of the island's 11,000 residents. Contains an acidic crater lake.",
+  "description": "Ambae is one of the largest volcanoes in the southwest Pacific. Its 2017-2018 eruptions forced the unprecedented evacuation of the entire island population.",
+  "geojson": "ambae.geojson"
+}

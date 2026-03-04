@@ -1,0 +1,18 @@
+{
+  "code": "szx-sin",
+  "name": "Shenzhen — Singapore",
+  "airports": [
+    "SZX",
+    "SIN"
+  ],
+  "distanceKm": 2593,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Shenzhen Airlines",
+    "Singapore Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SZX–SIN route between Shenzhen and Singapore. Distance: 2,593 km. ~30 weekly flights operated by Shenzhen Airlines, Singapore Airlines.",
+  "geojson": "szx-sin.geojson"
+}

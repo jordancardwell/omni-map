@@ -1,0 +1,18 @@
+{
+  "code": "orangutan-tapanuli",
+  "name": "Sunda Colugo",
+  "scientificName": "Galeopterus variegatus",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest",
+  "threats": [
+    "Deforestation",
+    "Hunting",
+    "Habitat fragmentation"
+  ],
+  "conservationEfforts": "Protected within national parks across Southeast Asia. Forest connectivity programs help maintain viable populations.",
+  "description": "Also known as the Malayan flying lemur (though it neither flies nor is a lemur), this mammal glides up to 136 meters between trees using a membrane stretching from face to tail tip.",
+  "geojson": "orangutan-tapanuli.geojson"
+}

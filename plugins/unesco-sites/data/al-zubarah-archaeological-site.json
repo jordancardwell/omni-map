@@ -1,0 +1,16 @@
+{
+  "code": "al-zubarah-archaeological-site",
+  "name": "Al Zubarah Archaeological Site",
+  "type": "Cultural",
+  "country": "Qatar",
+  "yearInscribed": "2013",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "The walled coastal town of Al Zubarah in the Persian Gulf flourished as a pearling and trading centre in the late 18th century and early 19th centuries, before it was destroyed in 1811 and abandoned in the early 1900s. Founded by merchants from Kuwait, Al Zubarah had trading links across the Indian Ocean, Arabia and Western Asia. A layer of sand blown from the desert has protected the remains of the site’s palaces, mosques, streets, courtyard houses, and fishermen’s huts; its harbour and double defensive walls, a canal, walls, and cemeteries. Excavation has only taken place over a small part of the site, which offers an outstanding testimony to an urban trading and pearl-diving tradition which sustained the region’s major coastal towns and led to the development of small independent states that flourished outside the control of the Ottoman, European, and Persian empires and eventually led to the emergence of modern day Gulf States.",
+  "danger": false,
+  "geojson": "al-zubarah-archaeological-site.geojson"
+}

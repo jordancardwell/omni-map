@@ -1,0 +1,17 @@
+{
+  "code": "ae",
+  "name": "United Arab Emirates",
+  "avgDownloadMbps": 261.5,
+  "avgUploadMbps": 188.2,
+  "avgLatencyMs": 5,
+  "mobileDownloadMbps": 238.1,
+  "mobileUploadMbps": 33.4,
+  "fixedDownloadMbps": 261.5,
+  "fixedUploadMbps": 188.2,
+  "rank": 3,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Continued investment in fiber and 5G infrastructure has kept the UAE among the world's fastest. Speeds increased ~12% year-over-year.",
+  "geojson": "ae.geojson"
+}

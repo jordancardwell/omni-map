@@ -1,0 +1,15 @@
+{
+  "code": "port-hedland",
+  "name": "Port Hedland",
+  "country": "Australia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 570,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Japan–Australia Route",
+    "China–India Shipping Route"
+  ],
+  "description": "Port Hedland in Australia. Annual cargo throughput: ~570 million tons. Type: Bulk Port.",
+  "geojson": "port-hedland.geojson"
+}

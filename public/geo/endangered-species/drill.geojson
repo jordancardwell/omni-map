@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"drill","name":"Drill"},"geometry":{"type":"Polygon","coordinates":[[[8,4],[10,4],[10.5,5.5],[10,7],[8.5,7],[7.5,5.5],[8,4]]]}}]}

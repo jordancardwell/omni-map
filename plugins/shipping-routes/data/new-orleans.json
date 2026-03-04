@@ -1,0 +1,14 @@
+{
+  "code": "new-orleans",
+  "name": "Port of New Orleans",
+  "country": "United States",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 95,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of New Orleans in United States. Annual cargo throughput: ~95 million tons. Type: Multi-Purpose Port.",
+  "geojson": "new-orleans.geojson"
+}

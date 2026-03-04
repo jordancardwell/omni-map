@@ -1,0 +1,17 @@
+{
+  "code": "historic-centre-of-florence",
+  "name": "Historic Centre of Florence",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Built on the site of an Etruscan settlement, Florence, the symbol of the Renaissance, rose to economic and cultural pre-eminence under the Medici in the 15th and 16th centuries. Its 600 years of extraordinary artistic activity can be seen above all in the 13th-century cathedral (Santa Maria del Fiore), the Church of Santa Croce, the Uffizi and the Pitti Palace, the work of great masters such as Giotto, Brunelleschi, Botticelli and Michelangelo.",
+  "danger": false,
+  "geojson": "historic-centre-of-florence.geojson"
+}

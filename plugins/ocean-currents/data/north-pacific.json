@@ -1,0 +1,21 @@
+{
+  "code": "north-pacific",
+  "name": "North Pacific Current",
+  "currentType": "Warm",
+  "speedRange": "0.1–0.3 m/s",
+  "origin": "Western North Pacific (Kuroshio extension)",
+  "destination": "Eastern North Pacific",
+  "climateEffects": [
+    "Moderates Pacific Northwest climate",
+    "Drives North Pacific gyre",
+    "Influences Pacific weather patterns"
+  ],
+  "connectedEcosystems": [
+    "North Pacific gyre",
+    "Pacific salmon habitats",
+    "Aleutian marine ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The North Pacific Current flows eastward across the Pacific Ocean, carrying warm water from the Kuroshio Extension toward North America. It divides into the Alaska Current (north) and California Current (south).",
+  "geojson": "north-pacific.geojson"
+}

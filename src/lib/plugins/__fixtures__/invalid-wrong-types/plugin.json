@@ -6,5 +6,9 @@
   "version": "1.0.0",
   "icon": "star",
   "defaultColor": "#000000",
-  "categories": "not-an-array"
+  "categories": "not-an-array",
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "test",
+  "thumbnail": "#000"
 }

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0081,
+          27.1767
+        ]
+      },
+      "properties": {
+        "code": "holi",
+        "name": "Holi",
+        "festivalType": "Religious",
+        "dateOrSeason": "March (full moon)",
+        "location": "Agra, India"
+      }
+    }
+  ]
+}

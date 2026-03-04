@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"bcn","name":"Barcelona-El Prat","featureType":"airport","iataCode":"BCN","annualPassengers":47500000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[2.0833,41.2974]}}]}

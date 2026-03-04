@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"xiamen","name":"Port of Xiamen","featureType":"port","portType":"Container Port","country":"China"},"geometry":{"type":"Point","coordinates":[118.08,24.45]}}]}

@@ -1,0 +1,27 @@
+{
+  "code": "middle-east-fertile-crescent",
+  "name": "Fertile Crescent Degradation Zone",
+  "region": "Middle East",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — degraded semi-arid zone",
+  "area": "500,000 km²",
+  "degradationTrend": "Severe — Expanding",
+  "populationAffected": 40000000,
+  "affectedCountries": [
+    "Iraq",
+    "Syria",
+    "Turkey",
+    "Iran"
+  ],
+  "desertificationDrivers": [
+    "Conflict",
+    "Dam construction",
+    "Irrigation mismanagement",
+    "Soil salinization",
+    "Drought"
+  ],
+  "desertFrontier": "Tigris-Euphrates marshlands collapsing; Iraqi breadbasket turning to dust",
+  "description": "The Fertile Crescent, birthplace of agriculture 10,000 years ago, is experiencing devastating desertification. Iraq has lost 40% of its agricultural land. The 2007–2010 drought was the worst in 900 years, displacing 1.5 million Iraqi farmers. Turkey's GAP dam project has reduced Euphrates flow to Iraq and Syria. Salinization affects 70% of irrigated land in central and southern Iraq.",
+  "geojson": "middle-east-fertile-crescent.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "sanctuary-of-asklepios-at-epidaurus",
+  "name": "Sanctuary of Asklepios at Epidaurus",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In a small valley in the Peloponnesus, the shrine of Asklepios, the god of medicine, developed out of a much earlier cult of Apollo (Maleatas), during the 6th century BC at the latest, as the official cult of the city state of Epidaurus. Its principal monuments, particularly the temple of Asklepios, the Tholos and the Theatre - considered one of the purest masterpieces of Greek architecture – date from the 4th century. The vast site, with its temples and hospital buildings devoted to its healing gods, provides valuable insight into the healing cults of Greek and Roman times.",
+  "danger": false,
+  "geojson": "sanctuary-of-asklepios-at-epidaurus.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8333333333,
+          12.5
+        ]
+      },
+      "properties": {
+        "code": "socotra-archipelago",
+        "name": "Socotra Archipelago",
+        "type": "Natural",
+        "country": "Yemen",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

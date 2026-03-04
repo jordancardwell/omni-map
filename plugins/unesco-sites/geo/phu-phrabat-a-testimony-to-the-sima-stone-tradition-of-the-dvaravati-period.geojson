@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3562666667,
+          17.7310583333
+        ]
+      },
+      "properties": {
+        "code": "phu-phrabat-a-testimony-to-the-sima-stone-tradition-of-the-dvaravati-period",
+        "name": "Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period",
+        "type": "Cultural",
+        "country": "Thailand",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

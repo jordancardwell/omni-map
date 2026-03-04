@@ -1,0 +1,17 @@
+{
+  "code": "den-nrt",
+  "name": "Denver — Tokyo",
+  "airports": [
+    "DEN",
+    "NRT"
+  ],
+  "distanceKm": 9292,
+  "weeklyFlights": 20,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DEN–NRT route between Denver and Tokyo. Distance: 9,292 km. ~20 weekly flights operated by United.",
+  "geojson": "den-nrt.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6675,
+          49.8763888889
+        ]
+      },
+      "properties": {
+        "code": "mathildenhohe-darmstadt",
+        "name": "Mathildenhöhe Darmstadt",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

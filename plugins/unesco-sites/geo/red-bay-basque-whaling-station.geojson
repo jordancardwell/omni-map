@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4295222222,
+          51.726925
+        ]
+      },
+      "properties": {
+        "code": "red-bay-basque-whaling-station",
+        "name": "Red Bay Basque Whaling Station",
+        "type": "Cultural",
+        "country": "Canada",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

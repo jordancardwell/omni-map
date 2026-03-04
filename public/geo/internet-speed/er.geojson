@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"er","name":"Eritrea","country":"ER","speedTier":"Very Slow (<10 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[36.4,12.4],[36.4,18.1],[43.1,18.1],[43.1,12.4],[36.4,12.4]]]}}]}

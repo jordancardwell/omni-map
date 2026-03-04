@@ -1,0 +1,15 @@
+{
+  "code": "faya-palaeolandscape",
+  "name": "Faya Palaeolandscape",
+  "type": "Cultural",
+  "country": "United Arab Emirates",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "Located between the Persian Gulf and Arabian Sea, the property preserves evidence of human occupation from the Middle Palaeolithic and Neolithic periods (210,000–6,000 years ago). Archaeological layers reveal how hunter-gatherers and pastoralists adapted to extreme climates, alternating between arid and rainy periods every 20,000 years. Beyond subsistence activities, early human groups utilized the site's geomorphological features for resource extraction. With diverse water sources and raw materials, Faya provides valuable insights into human resilience in hyper-arid environments.",
+  "danger": false,
+  "geojson": "faya-palaeolandscape.geojson"
+}

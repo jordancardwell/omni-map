@@ -1,0 +1,18 @@
+{
+  "code": "ukraine-russia",
+  "name": "Ukraine \u2192 Russia",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Ukraine \u2192 Russia",
+  "badgeValue": "~3.3 million",
+  "origin": "Ukraine",
+  "destination": "Russia",
+  "estimatedMigrants": "~3.3 million",
+  "drivers": [
+    "Conflict displacement",
+    "Historical ties",
+    "Labor migration",
+    "Language affinity"
+  ],
+  "description": "Ukrainian migration to Russia spans economic labor migration and conflict-driven displacement. The 2014 conflict in eastern Ukraine and the 2022 full-scale invasion caused massive displacement in both directions. Pre-conflict, many Ukrainians worked seasonally in Russia in construction and services. Cultural and linguistic proximity facilitated integration.",
+  "geojson": "ukraine-russia.geojson"
+}

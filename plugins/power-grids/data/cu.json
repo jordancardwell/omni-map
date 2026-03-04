@@ -1,0 +1,22 @@
+{
+  "code": "cu",
+  "name": "Cuba",
+  "voltage": "110V/220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "C",
+    "L"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type L — Three round pins in a line (Italian style)"
+  ],
+  "voltageStandard": "Dual",
+  "adapterNotes": "Dual voltage system. Hotels often have 220V outlets. Bring a universal adapter and check voltage.",
+  "geojson": "cu.geojson"
+}

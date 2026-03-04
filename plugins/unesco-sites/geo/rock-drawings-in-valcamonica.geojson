@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.29733333,
+          45.95705556
+        ]
+      },
+      "properties": {
+        "code": "rock-drawings-in-valcamonica",
+        "name": "Rock Drawings in Valcamonica",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

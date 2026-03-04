@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-pic-du-midi",
+        "name": "Pic du Midi Dark Sky Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.142,
+          42.937
+        ]
+      }
+    }
+  ]
+}

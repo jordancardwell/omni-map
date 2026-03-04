@@ -1,0 +1,14 @@
+{
+  "code": "paradip",
+  "name": "Port of Paradip",
+  "country": "India",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 130,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Paradip in India. Annual cargo throughput: ~130 million tons. Type: Bulk Port.",
+  "geojson": "paradip.geojson"
+}

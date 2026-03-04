@@ -1,0 +1,29 @@
+{
+  "code": "chilean-winter-rainfall",
+  "name": "Chilean Winter Rainfall-Valdivian Forests",
+  "location": "Central and Southern Chile",
+  "areaKm2": 397142,
+  "habitatRemaining": "30.3%",
+  "plantSpecies": 3892,
+  "endemicPlants": 1957,
+  "vertebrateSpecies": 335,
+  "endemicVertebrates": 81,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Darwin's fox",
+    "Chilean wine palm",
+    "Monkey puzzle tree",
+    "Pudu deer",
+    "Huemul deer"
+  ],
+  "threats": [
+    "Forestry plantations",
+    "Agriculture",
+    "Urbanization",
+    "Mining",
+    "Fire"
+  ],
+  "conservationEfforts": "Chile's national parks protect key areas including Torres del Paine and Alerce Costero. The Route of Parks initiative created a 2,800 km trail connecting 17 national parks. Monkey puzzle tree is legally protected.",
+  "description": "This hotspot extends along central and southern Chile, encompassing Mediterranean-climate scrublands in the north and the lush Valdivian temperate rainforests in the south. The Andes mountains and Pacific Ocean create extreme isolation, driving high endemism.\n\nThe Valdivian forests are among the world's few temperate rainforests, home to ancient alerce trees (Fitzroya cupressoides) that can live over 3,600 years. The Mediterranean zone supports unique matorral vegetation adapted to seasonal drought.",
+  "geojson": "chilean-winter-rainfall.geojson"
+}

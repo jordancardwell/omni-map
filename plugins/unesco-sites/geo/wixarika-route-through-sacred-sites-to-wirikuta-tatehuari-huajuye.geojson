@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2801527778,
+          22.5978638889
+        ]
+      },
+      "properties": {
+        "code": "wixarika-route-through-sacred-sites-to-wirikuta-tatehuari-huajuye",
+        "name": "Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé)",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

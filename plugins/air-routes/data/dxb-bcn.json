@@ -1,0 +1,17 @@
+{
+  "code": "dxb-bcn",
+  "name": "Dubai — Barcelona",
+  "airports": [
+    "DXB",
+    "BCN"
+  ],
+  "distanceKm": 5175,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–BCN route between Dubai and Barcelona. Distance: 5,175 km. ~25 weekly flights operated by Emirates.",
+  "geojson": "dxb-bcn.geojson"
+}

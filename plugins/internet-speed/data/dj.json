@@ -1,0 +1,17 @@
+{
+  "code": "dj",
+  "name": "Djibouti",
+  "avgDownloadMbps": 12.6,
+  "avgUploadMbps": 4.8,
+  "avgLatencyMs": 28,
+  "mobileDownloadMbps": 18.4,
+  "mobileUploadMbps": 4.2,
+  "fixedDownloadMbps": 12.6,
+  "fixedUploadMbps": 4.8,
+  "rank": 132,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Strategic submarine cable hub. ~16% year-over-year growth.",
+  "geojson": "dj.geojson"
+}

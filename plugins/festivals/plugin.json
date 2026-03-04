@@ -1,0 +1,37 @@
+{
+  "id": "festivals",
+  "name": "Festivals & Celebrations",
+  "description": "Major cultural festivals and celebrations worldwide — religious, cultural, seasonal, and national celebrations curated from UNESCO Intangible Cultural Heritage list and major world events",
+  "type": "points",
+  "version": "1.0.0",
+  "icon": "party-popper",
+  "defaultColor": "#E91E63",
+  "categories": ["culture", "celebrations", "heritage"],
+  "dataType": "points",
+  "dataSource": "static",
+  "category": "Culture & Heritage",
+  "thumbnail": "#E91E63",
+  "schema": "FestivalMetadata",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "festivalType", "location", "dateOrSeason", "origin", "description"],
+    "groupBy": "festivalType",
+    "titleField": "name",
+    "subtitleField": "location",
+    "badgeField": "dateOrSeason"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "location"
+  },
+  "detailFields": [
+    { "key": "festivalType", "label": "Type", "type": "status-badge", "statusColors": { "Religious": "#8B5CF6", "Cultural": "#E91E63", "Seasonal": "#22C55E", "National": "#3B82F6" } },
+    { "key": "dateOrSeason", "label": "Date / Season", "type": "text" },
+    { "key": "origin", "label": "Origin", "type": "text" },
+    { "key": "estimatedAttendance", "label": "Estimated Attendance", "type": "text" },
+    { "key": "unescoICH", "label": "UNESCO ICH Status", "type": "text" },
+    { "key": "traditions", "label": "Traditions", "type": "markdown" },
+    { "key": "historicalBackground", "label": "Historical Background", "type": "markdown" },
+    { "key": "description", "label": "Description", "type": "markdown" }
+  ]
+}

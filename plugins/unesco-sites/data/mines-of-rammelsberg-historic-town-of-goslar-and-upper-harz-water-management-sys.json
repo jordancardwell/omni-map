@@ -1,0 +1,17 @@
+{
+  "code": "mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys",
+  "name": "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+  "type": "Cultural",
+  "country": "Germany",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Upper Harz mining water management system, which lies south of the Rammelsberg mines and the town of Goslar, has been developed over a period of some 800 years to assist in the process of extracting ore for the production of non-ferrous metals. Its construction was first undertaken in the Middle Ages by Cistercian monks, and it was then developed on a vast scale from the end of the 16th century until the 19th century. It is made up of an extremely complex but perfectly coherent system of artificial ponds, small channels, tunnels and underground drains. It enabled the development of water power for use in mining and metallurgical processes. It is a major site for mining innovation in the western world.",
+  "danger": false,
+  "geojson": "mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "lianyungang",
+  "name": "Port of Lianyungang",
+  "country": "China",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 260,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Lianyungang in China. Annual cargo throughput: ~260 million tons. Type: Multi-Purpose Port.",
+  "geojson": "lianyungang.geojson"
+}

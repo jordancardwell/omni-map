@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.92222,
+          24.85222
+        ]
+      },
+      "properties": {
+        "code": "khajuraho-group-of-monuments",
+        "name": "Khajuraho Group of Monuments",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

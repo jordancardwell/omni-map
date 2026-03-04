@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "pacific-northwest", "name": "Pacific Northwest Forests" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[-124,49],[-122,49],[-120,48],[-118,47],[-117,46],[-117,44],[-118,43],[-120,42],[-122,43],[-123,44],[-124,46],[-124,49]]]
+    }
+  }]
+}

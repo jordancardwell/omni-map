@@ -1,0 +1,21 @@
+{
+  "code": "kampo",
+  "name": "Kampo",
+  "tradition": "East Asian",
+  "originRegion": "Japan",
+  "estimatedPractitioners": 150000,
+  "whoRecognition": "Partially recognized — Integrated into Japan's national health insurance; referenced in WHO traditional medicine strategies",
+  "keyPractices": [
+    "Herbal formulas (standardized)",
+    "Abdominal diagnosis (Fukushin)",
+    "Pattern-based prescribing",
+    "Acupuncture (adapted)",
+    "Moxibustion"
+  ],
+  "regionsOfPractice": [
+    "Japan"
+  ],
+  "description": "Kampo is Japan's adaptation of traditional Chinese medical practices, refined over 1,500 years into a distinct system. Unlike TCM, Kampo uses standardized herbal formulas (about 148 approved by Japan's health ministry) that are prescribed based on a patient's overall pattern (sho) rather than disease name. Abdominal palpation (Fukushin) is a key diagnostic technique unique to Kampo. Over 80% of Japanese physicians prescribe Kampo medicines, which are covered by national health insurance.",
+  "historicalNotes": "Chinese medicine arrived in Japan in the 5th–6th centuries via Korea. During the Edo period (1603–1868), Japanese physicians like Todo Yoshimasu developed distinct diagnostic methods emphasizing empirical observation over theoretical frameworks. The Meiji Restoration (1868) initially suppressed Kampo in favor of Western medicine, but it revived in the 20th century. In 1976, Japan's health insurance began covering Kampo extracts, leading to widespread integration with modern medicine.",
+  "geojson": "kampo.geojson"
+}

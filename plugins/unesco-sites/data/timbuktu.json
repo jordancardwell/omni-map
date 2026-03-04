@@ -1,0 +1,16 @@
+{
+  "code": "timbuktu",
+  "name": "Timbuktu",
+  "type": "Cultural",
+  "country": "Mali",
+  "yearInscribed": "1988",
+  "criteria": [
+    "(ii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "Home of the prestigious Koranic Sankore University and other madrasas, Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification.",
+  "danger": true,
+  "geojson": "timbuktu.geojson"
+}

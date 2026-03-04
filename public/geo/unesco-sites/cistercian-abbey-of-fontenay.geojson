@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38911,
+          47.63944
+        ]
+      },
+      "properties": {
+        "code": "cistercian-abbey-of-fontenay",
+        "name": "Cistercian Abbey of Fontenay",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

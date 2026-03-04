@@ -1,0 +1,14 @@
+{
+  "code": "cultural-landscape-of-maymand",
+  "name": "Cultural Landscape of Maymand",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Maymand is a self-contained, semi-arid area at the end of a valley at the southern extremity of Iran’s central mountains. The villagers are semi-nomadic agro-pastoralists. They raise their animals on mountain pastures, living in temporary settlements in spring and autumn. During the winter months they live lower down the valley in cave dwellings carved out of the soft rock (kamar), an unusual form of housing in a dry, desert environment. This cultural landscape is an example of a system that appears to have been more widespread in the past and involves the movement of people rather than animals.",
+  "danger": false,
+  "geojson": "cultural-landscape-of-maymand.geojson"
+}

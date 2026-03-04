@@ -1,0 +1,14 @@
+{
+  "code": "nakhodka",
+  "name": "Port of Nakhodka",
+  "country": "Russia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Arctic Northern Sea Route"
+  ],
+  "description": "Port of Nakhodka in Russia. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+  "geojson": "nakhodka.geojson"
+}

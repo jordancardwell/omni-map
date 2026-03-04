@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19167,
+          12.61667
+        ]
+      },
+      "properties": {
+        "code": "group-of-monuments-at-mahabalipuram",
+        "name": "Group of Monuments at Mahabalipuram",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

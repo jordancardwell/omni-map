@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9784,
+          41.0082
+        ]
+      },
+      "properties": {
+        "code": "feast-of-sacrifice-istanbul",
+        "name": "Kurban Bayramı (Istanbul)",
+        "festivalType": "Religious",
+        "dateOrSeason": "10th Dhul Hijjah (varies)",
+        "location": "Istanbul, Turkey"
+      }
+    }
+  ]
+}

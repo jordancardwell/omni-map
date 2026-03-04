@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4332055556,
+          67.0639305556
+        ]
+      },
+      "properties": {
+        "code": "aasivissuit-nipisat-inuit-hunting-ground-between-ice-and-sea",
+        "name": "Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

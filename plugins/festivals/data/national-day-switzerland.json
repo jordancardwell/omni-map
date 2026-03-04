@@ -1,0 +1,14 @@
+{
+  "code": "national-day-switzerland",
+  "name": "Swiss National Day",
+  "festivalType": "National",
+  "dateOrSeason": "August 1",
+  "origin": "Swiss national",
+  "estimatedAttendance": "8.7+ million Swiss",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bonfires on mountains; fireworks; lantern processions; Federal Council address; Swiss flag displays; community barbecues.",
+  "historicalBackground": "Swiss National Day commemorates the Federal Charter of 1291, when three founding cantons pledged mutual defense — the birth of the Swiss Confederation.",
+  "description": "Switzerland's National Day, celebrating the founding of the Confederation with mountain bonfires, fireworks, and alpine community gatherings.",
+  "location": "Rütli Meadow, Switzerland",
+  "geojson": "national-day-switzerland.geojson"
+}

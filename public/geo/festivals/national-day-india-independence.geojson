@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.241,
+          28.6562
+        ]
+      },
+      "properties": {
+        "code": "national-day-india-independence",
+        "name": "Independence Day (India)",
+        "festivalType": "National",
+        "dateOrSeason": "August 15",
+        "location": "New Delhi, India"
+      }
+    }
+  ]
+}

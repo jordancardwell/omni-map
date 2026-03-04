@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-ruins-of-liangzhu-city",
+  "name": "Archaeological Ruins of Liangzhu City",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the Yangtze River Basin on the south-eastern coast of the country, the archaeological ruins of Liangzhu (about 3,300-2,300 BCE) reveal an early regional state with a unified belief system based on rice cultivation in Late Neolithic China. The property is composed of four areas – the Area of Yaoshan Site, the Area of High-dam at the Mouth of the Valley, the Area of Low-dam on the Plain and the Area of City Site. These ruins are an outstanding example of early urban civilization expressed in earthen monuments, urban planning, a water conservation system and a social hierarchy expressed in differentiated burials in cemeteries within the property.",
+  "danger": false,
+  "geojson": "archaeological-ruins-of-liangzhu-city.geojson"
+}

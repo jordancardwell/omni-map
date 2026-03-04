@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.3246389,
+          34.29441667
+        ]
+      },
+      "properties": {
+        "code": "itsukushima-shinto-shrine",
+        "name": "Itsukushima Shinto Shrine",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

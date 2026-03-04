@@ -1,0 +1,14 @@
+{
+  "code": "douala",
+  "name": "Port of Douala",
+  "country": "Cameroon",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Douala in Cameroon. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+  "geojson": "douala.geojson"
+}

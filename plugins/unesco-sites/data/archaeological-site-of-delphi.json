@@ -1,0 +1,17 @@
+{
+  "code": "archaeological-site-of-delphi",
+  "name": "Archaeological Site of Delphi",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The pan-Hellenic sanctuary of Delphi, where the oracle of Apollo spoke, was the site of the omphalos, the 'navel of the world'. Blending harmoniously with the superb landscape and charged with sacred meaning, Delphi in the 6th century B.C. was indeed the religious centre and symbol of unity of the ancient Greek world.",
+  "danger": false,
+  "geojson": "archaeological-site-of-delphi.geojson"
+}

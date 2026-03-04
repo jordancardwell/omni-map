@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[116.46,-8.42]},"properties":{"code":"gunung-rinjani","name":"Mount Rinjani","volcanoType":"Stratovolcano","status":"Historically Active","elevation":3726,"lastEruption":"2016","vei":2}}]}

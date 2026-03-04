@@ -1,0 +1,14 @@
+{
+  "code": "zeebrugge",
+  "name": "Port of Zeebrugge",
+  "country": "Belgium",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 40,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "English Channel Route"
+  ],
+  "description": "Port of Zeebrugge in Belgium. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+  "geojson": "zeebrugge.geojson"
+}

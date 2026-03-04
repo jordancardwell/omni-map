@@ -1,0 +1,16 @@
+{
+  "code": "in-sg-express-2",
+  "name": "IN-SG Express-2",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1866,
+  "yearLaid": 2022,
+  "rfsDate": "2021-06",
+  "owner": "Jio",
+  "landingPoints": [
+    "Mumbai, India",
+    "Singapore"
+  ],
+  "description": "IN-SG Express-2 connecting Mumbai to Singapore.",
+  "geojson": "in-sg-express-2.geojson"
+}

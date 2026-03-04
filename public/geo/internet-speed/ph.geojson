@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ph","name":"Philippines","country":"PH","speedTier":"Moderate (30–75 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[117,4.6],[117,21.1],[126.6,21.1],[126.6,4.6],[117,4.6]]]}}]}

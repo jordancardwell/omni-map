@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6527777778,
+          55.7702777778
+        ]
+      },
+      "properties": {
+        "code": "assumption-cathedral-and-monastery-of-the-town-island-of-sviyazhsk",
+        "name": "Assumption Cathedral and Monastery of the town-island of Sviyazhsk",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

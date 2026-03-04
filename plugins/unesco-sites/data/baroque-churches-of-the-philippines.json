@@ -1,0 +1,15 @@
+{
+  "code": "baroque-churches-of-the-philippines",
+  "name": "Baroque Churches of the Philippines",
+  "type": "Cultural",
+  "country": "Philippines",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "These four churches, the first of which was built by the Spanish in the late 16th century, are located in Manila, Santa Maria, Paoay and Miag-ao. Their unique architectural style is a reinterpretation of European Baroque by Chinese and Philippine craftsmen.",
+  "danger": false,
+  "geojson": "baroque-churches-of-the-philippines.geojson"
+}

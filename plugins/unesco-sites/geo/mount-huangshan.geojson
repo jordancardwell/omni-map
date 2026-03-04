@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.155083,
+          30.145333
+        ]
+      },
+      "properties": {
+        "code": "mount-huangshan",
+        "name": "Mount Huangshan",
+        "type": "Mixed",
+        "country": "China",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

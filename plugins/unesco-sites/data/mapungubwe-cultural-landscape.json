@@ -1,0 +1,17 @@
+{
+  "code": "mapungubwe-cultural-landscape",
+  "name": "Mapungubwe Cultural Landscape",
+  "type": "Cultural",
+  "country": "South Africa",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Africa",
+  "description": "Mapungubwe is set hard against the northern border of South Africa, joining Zimbabwe and Botswana. It is an open, expansive savannah landscape at the confluence of the Limpopo and Shashe rivers. Mapungubwe developed into the largest kingdom in the sub-continent before it was abandoned in the 14th century. What survives are the almost untouched remains of the palace sites and also the entire settlement area dependent upon them, as well as two earlier capital sites, the whole presenting an unrivalled picture of the development of social and political structures over some 400 years.",
+  "danger": false,
+  "geojson": "mapungubwe-cultural-landscape.geojson"
+}

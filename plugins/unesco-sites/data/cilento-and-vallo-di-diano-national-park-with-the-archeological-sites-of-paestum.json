@@ -1,0 +1,15 @@
+{
+  "code": "cilento-and-vallo-di-diano-national-park-with-the-archeological-sites-of-paestum",
+  "name": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Cilento is an outstanding cultural landscape. The dramatic groups of sanctuaries and settlements along its three east–west mountain ridges vividly portray the area's historical evolution: it was a major route not only for trade, but also for cultural and political interaction during the prehistoric and medieval periods. The Cilento was also the boundary between the Greek colonies of Magna Graecia and the indigenous Etruscan and Lucanian peoples. The remains of two major cities from classical times, Paestum and Velia, are found there.",
+  "danger": false,
+  "geojson": "cilento-and-vallo-di-diano-national-park-with-the-archeological-sites-of-paestum.geojson"
+}

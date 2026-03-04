@@ -1,0 +1,14 @@
+{
+  "code": "huanglong-scenic-and-historic-interest-area",
+  "name": "Huanglong Scenic and Historic Interest Area",
+  "type": "Natural",
+  "country": "China",
+  "yearInscribed": "1992",
+  "criteria": [
+    "(vii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Situated in the north-west of Sichuan Province, the Huanglong valley is made up of snow-capped peaks and the easternmost of all the Chinese glaciers. In addition to its mountain landscape, diverse forest ecosystems can be found, as well as spectacular limestone formations, waterfalls and hot springs. The area also has a population of endangered animals, including the giant panda and the Sichuan golden snub-nosed monkey.",
+  "danger": false,
+  "geojson": "huanglong-scenic-and-historic-interest-area.geojson"
+}

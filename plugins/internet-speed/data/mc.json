@@ -1,0 +1,17 @@
+{
+  "code": "mc",
+  "name": "Monaco",
+  "avgDownloadMbps": 168.4,
+  "avgUploadMbps": 72.6,
+  "avgLatencyMs": 8,
+  "mobileDownloadMbps": 82.4,
+  "mobileUploadMbps": 16.8,
+  "fixedDownloadMbps": 168.4,
+  "fixedUploadMbps": 72.6,
+  "rank": 22,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Dense urban fiber network. ~5% year-over-year growth.",
+  "geojson": "mc.geojson"
+}

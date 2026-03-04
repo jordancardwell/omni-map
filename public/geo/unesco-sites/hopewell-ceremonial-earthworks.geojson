@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4460611111,
+          40.0536583333
+        ]
+      },
+      "properties": {
+        "code": "hopewell-ceremonial-earthworks",
+        "name": "Hopewell Ceremonial Earthworks",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

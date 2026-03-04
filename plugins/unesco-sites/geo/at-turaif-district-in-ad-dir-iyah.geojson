@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5724666667,
+          24.7341333333
+        ]
+      },
+      "properties": {
+        "code": "at-turaif-district-in-ad-dir-iyah",
+        "name": "At-Turaif District in ad-Dir'iyah",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.02861,
+          65.64611
+        ]
+      },
+      "properties": {
+        "code": "church-town-of-gammelstad-lulea",
+        "name": "Church Town of Gammelstad, Luleå",
+        "type": "Cultural",
+        "country": "Sweden",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

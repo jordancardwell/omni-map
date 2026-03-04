@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7378833333,
+          -0.7666255556
+        ]
+      },
+      "properties": {
+        "code": "ombilin-coal-mining-heritage-of-sawahlunto",
+        "name": "Ombilin Coal Mining Heritage of Sawahlunto",
+        "type": "Cultural",
+        "country": "Indonesia",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

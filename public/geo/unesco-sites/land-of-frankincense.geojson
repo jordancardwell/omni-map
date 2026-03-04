@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.64759,
+          18.25333
+        ]
+      },
+      "properties": {
+        "code": "land-of-frankincense",
+        "name": "Land of Frankincense",
+        "type": "Cultural",
+        "country": "Oman",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

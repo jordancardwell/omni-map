@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.423084,
+          9.240492
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-santa-cruz-de-mompox",
+        "name": "Historic Centre of Santa Cruz de Mompox",
+        "type": "Cultural",
+        "country": "Colombia",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

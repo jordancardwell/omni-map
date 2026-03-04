@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "code": "national-day-poland",
+        "name": "Constitution Day (Poland)",
+        "festivalType": "National",
+        "dateOrSeason": "May 3",
+        "location": "Warsaw, Poland"
+      }
+    }
+  ]
+}

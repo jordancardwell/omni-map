@@ -1,0 +1,17 @@
+{
+  "code": "buddhist-monuments-at-sanchi",
+  "name": "Buddhist Monuments at Sanchi",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1989",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "On a hill overlooking the plain and about 40 km from Bhopal, the site of Sanchi comprises a group of Buddhist monuments (monolithic pillars, palaces, temples and monasteries) all in different states of conservation most of which date back to the 2nd and 1st centuries B.C. It is the oldest Buddhist sanctuary in existence and was a major Buddhist centre in India until the 12th century A.D.",
+  "danger": false,
+  "geojson": "buddhist-monuments-at-sanchi.geojson"
+}

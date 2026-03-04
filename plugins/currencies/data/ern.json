@@ -1,0 +1,16 @@
+{
+  "code": "ern",
+  "name": "Eritrean Nakfa",
+  "isoCode": "ERN",
+  "symbol": "Nfk",
+  "region": "Africa",
+  "centralBank": "Bank of Eritrea",
+  "exchangeRateEra": "Fixed peg to USD",
+  "countries": [
+    "Eritrea"
+  ],
+  "countryCount": 1,
+  "description": "The Eritrean Nakfa is named after the town of Nakfa, symbolic of Eritrea's independence struggle.",
+  "historicalNotes": "Introduced in 1997, replacing the Ethiopian birr, four years after Eritrea gained independence from Ethiopia.",
+  "geojson": "ern.geojson"
+}

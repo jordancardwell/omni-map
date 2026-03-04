@@ -1,0 +1,20 @@
+{
+  "code": "observatorio-del-pangue",
+  "name": "Observatorio Cerro Mamalluca & Pangue",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1200,
+  "aperture": "0.6 m",
+  "telescopes": [
+    "Various research and outreach"
+  ],
+  "keyDiscoveries": [
+    "Public engagement",
+    "Astrotourism",
+    "Small body follow-up"
+  ],
+  "location": "Observatorio Cerro Mamalluca & Pangue, Chile",
+  "description": "Public and scientific observatories in the Elqui Valley, taking advantage of some of the clearest skies in the world for both research and astrotourism.",
+  "geojson": "observatorio-del-pangue.geojson"
+}

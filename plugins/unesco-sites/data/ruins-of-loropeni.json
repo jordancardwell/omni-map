@@ -1,0 +1,14 @@
+{
+  "code": "ruins-of-loropeni",
+  "name": "Ruins of Loropéni",
+  "type": "Cultural",
+  "country": "Burkina Faso",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The 11,130m2 property, the first to be inscribed in the country, with its imposing stone walls is the best preserved of ten fortresses in the Lobi area and is part of a larger group of 100 stone enclosures that bear testimony to the power of the trans-Saharan gold trade. Situated near the borders of Côte d’Ivoire, Ghana and Togo, the ruins have recently been shown to be at least 1,000 years old. The settlement was occupied by the Lohron or Koulango peoples, who controlled the extraction and transformation of gold in the region when it reached its apogee from the 14th to the 17th century. Much mystery surrounds this site large parts of which have yet to be excavated. The settlement seems to have been abandoned during some periods during its long history. The property which was finally deserted in the early 19th century is expected to yield much more information.",
+  "danger": false,
+  "geojson": "ruins-of-loropeni.geojson"
+}

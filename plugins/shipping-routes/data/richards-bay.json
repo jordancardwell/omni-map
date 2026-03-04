@@ -1,0 +1,14 @@
+{
+  "code": "richards-bay",
+  "name": "Richards Bay",
+  "country": "South Africa",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Cape of Good Hope Route"
+  ],
+  "description": "Richards Bay in South Africa. Annual cargo throughput: ~100 million tons. Type: Bulk Port.",
+  "geojson": "richards-bay.geojson"
+}

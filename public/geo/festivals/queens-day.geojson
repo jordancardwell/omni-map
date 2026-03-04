@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "code": "queens-day",
+        "name": "King's Day",
+        "festivalType": "Cultural",
+        "dateOrSeason": "April 27",
+        "location": "Amsterdam, Netherlands"
+      }
+    }
+  ]
+}

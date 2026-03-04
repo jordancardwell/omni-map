@@ -1,0 +1,22 @@
+{
+  "code": "utc-2",
+  "name": "South Georgia Time",
+  "nativeName": "UTC-02:00",
+  "utcOffset": "UTC-02:00",
+  "utcOffsetHours": -2,
+  "offsetGroup": "3. Mid-West (UTC-4 to -1)",
+  "ianaNames": [
+    "Atlantic/South_Georgia",
+    "America/Noronha"
+  ],
+  "countries": [
+    "South Georgia and the South Sandwich Islands (UK)",
+    "Brazil (Fernando de Noronha)"
+  ],
+  "dstRules": "No DST observed",
+  "description": "One of the least populated time zones, covering primarily the remote South Atlantic islands. Fernando de Noronha, a Brazilian archipelago known for its pristine beaches, and the sub-Antarctic South Georgia island are the main inhabited territories.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-2.geojson"
+}

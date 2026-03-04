@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5,
+          29.33333
+        ]
+      },
+      "properties": {
+        "code": "wulingyuan-scenic-and-historic-interest-area",
+        "name": "Wulingyuan Scenic and Historic Interest Area",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "1992"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "dj-so-north",
+  "name": "DJ-SO North",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2211,
+  "yearLaid": 2016,
+  "rfsDate": "2013-06",
+  "owner": "Djibouti Telecom",
+  "landingPoints": [
+    "Djibouti, Djibouti",
+    "Berbera, Somalia"
+  ],
+  "description": "DJ-SO North connecting Djibouti to Berbera in East Africa/Indian Ocean.",
+  "geojson": "dj-so-north.geojson"
+}

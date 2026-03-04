@@ -1,0 +1,16 @@
+{
+  "code": "lagoons-of-new-caledonia-reef-diversity-and-associated-ecosystems",
+  "name": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+  "type": "Natural",
+  "country": "France",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "This serial site comprises six marine clusters that represent the main diversity of coral reefs and associated ecosystems in the French Pacific Ocean archipelago of New Caledonia and one of the three most extensive reef systems in the world. These Lagoons are of exceptional natural beauty. They feature an exceptional diversity of coral and fish species and a continuum of habitats from mangroves to seagrasses with the world’s most diverse concentration of reef structures. The Lagoons of New Caledonia display intact ecosystems, with healthy populations of large predators, and a great number and diversity of big fish. They provide habitat to a number of emblematic or threatened marine species such as turtles, whales or dugongs whose population here is the third largest in the world.",
+  "danger": false,
+  "geojson": "lagoons-of-new-caledonia-reef-diversity-and-associated-ecosystems.geojson"
+}

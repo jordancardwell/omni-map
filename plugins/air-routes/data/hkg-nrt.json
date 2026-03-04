@@ -1,0 +1,19 @@
+{
+  "code": "hkg-nrt",
+  "name": "Hong Kong — Tokyo",
+  "airports": [
+    "HKG",
+    "NRT"
+  ],
+  "distanceKm": 2963,
+  "weeklyFlights": 90,
+  "airlines": [
+    "Cathay Pacific",
+    "ANA",
+    "JAL"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "HKG–NRT route between Hong Kong and Tokyo. Distance: 2,963 km. ~90 weekly flights operated by Cathay Pacific, ANA, JAL.",
+  "geojson": "hkg-nrt.geojson"
+}

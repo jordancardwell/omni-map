@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      },
+      "properties": {
+        "code": "pongal",
+        "name": "Pongal",
+        "festivalType": "Religious",
+        "dateOrSeason": "January 14–17",
+        "location": "Chennai, India"
+      }
+    }
+  ]
+}

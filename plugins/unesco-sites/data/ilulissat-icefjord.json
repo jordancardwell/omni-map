@@ -1,0 +1,15 @@
+{
+  "code": "ilulissat-icefjord",
+  "name": "Ilulissat Icefjord",
+  "type": "Natural",
+  "country": "Denmark",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located on the west coast of Greenland, 250 km north of the Arctic Circle, Greenland’s Ilulissat Icefjord is the sea mouth of Sermeq Kujalleq, one of the few glaciers through which the Greenland ice cap reaches the sea. Sermeq Kujalleq is one of the fastest and most active glaciers in the world. It annually calves over 35 km3 of ice, i.e. 10% of the production of all Greenland calf ice and more than any other glacier outside Antarctica. Studied for over 250 years, it has helped to develop our understanding of climate change and icecap glaciology. The combination of a huge ice-sheet and the dramatic sounds of a fast-moving glacial ice-stream calving into a fjord covered by icebergs makes for a dramatic and awe-inspiring natural phenomenon.",
+  "danger": false,
+  "geojson": "ilulissat-icefjord.geojson"
+}

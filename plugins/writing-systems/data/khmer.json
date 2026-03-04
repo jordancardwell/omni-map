@@ -1,0 +1,16 @@
+{
+  "code": "khmer",
+  "name": "Khmer",
+  "scriptType": "Abugida",
+  "characters": 33,
+  "direction": "LTR",
+  "originDate": "7th century CE",
+  "sampleText": "ព្រះរាជាណាចក្រកម្ពុជា",
+  "relatedScripts": [
+    "thai",
+    "lao"
+  ],
+  "description": "The Khmer script is an abugida with 33 consonants and a rich system of dependent vowels, subscript consonants, and diacritics. It holds a Guinness World Record for the largest alphabet. Khmer is notable for its elaborate ligatures and stacked subscript forms used for consonant clusters.",
+  "historicalNotes": "The Khmer script descended from the Pallava script of South India through the Brahmi tradition. The earliest known Khmer inscription dates to 611 CE. The script was used extensively in the Angkor Empire (9th–15th centuries) for temple inscriptions, including those at Angkor Wat. The Thai and Lao scripts were derived from Khmer. Modern Khmer underwent reforms in the 20th century.",
+  "geojson": "khmer.geojson"
+}

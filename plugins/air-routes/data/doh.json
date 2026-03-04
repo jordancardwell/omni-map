@@ -1,0 +1,12 @@
+{
+  "code": "doh",
+  "name": "Hamad International",
+  "iataCode": "DOH",
+  "city": "Doha",
+  "country": "Qatar",
+  "annualPassengers": 40500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Hamad International (DOH) in Doha, Qatar. Annual passengers: ~40.5M. Classification: International Hub.",
+  "geojson": "doh.geojson"
+}

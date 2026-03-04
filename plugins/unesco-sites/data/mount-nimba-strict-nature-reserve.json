@@ -1,0 +1,15 @@
+{
+  "code": "mount-nimba-strict-nature-reserve",
+  "name": "Mount Nimba Strict Nature Reserve",
+  "type": "Natural",
+  "country": "Guinea, Côte d'Ivoire",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools.",
+  "danger": true,
+  "geojson": "mount-nimba-strict-nature-reserve.geojson"
+}

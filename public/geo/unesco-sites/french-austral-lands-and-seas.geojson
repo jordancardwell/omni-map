@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3528055556,
+          -49.3803611111
+        ]
+      },
+      "properties": {
+        "code": "french-austral-lands-and-seas",
+        "name": "French Austral Lands and Seas",
+        "type": "Natural",
+        "country": "France",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

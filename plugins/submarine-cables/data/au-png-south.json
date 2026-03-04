@@ -1,0 +1,16 @@
+{
+  "code": "au-png-south",
+  "name": "AU-PNG South",
+  "capacityTbps": 24,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4927,
+  "yearLaid": 2013,
+  "rfsDate": "2013-06",
+  "owner": "DataCo",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Port Moresby, Papua New Guinea"
+  ],
+  "description": "AU-PNG South connecting Sydney to Port Moresby.",
+  "geojson": "au-png-south.geojson"
+}

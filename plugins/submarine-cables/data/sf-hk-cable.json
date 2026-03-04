@@ -1,0 +1,16 @@
+{
+  "code": "sf-hk-cable",
+  "name": "SF-HK Cable",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10241,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "HGC",
+  "landingPoints": [
+    "San Francisco, USA",
+    "Hong Kong, China"
+  ],
+  "description": "SF-HK Cable connecting San Francisco to Hong Kong.",
+  "geojson": "sf-hk-cable.geojson"
+}

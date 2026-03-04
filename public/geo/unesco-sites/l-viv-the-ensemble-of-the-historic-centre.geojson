@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03198,
+          49.84163
+        ]
+      },
+      "properties": {
+        "code": "l-viv-the-ensemble-of-the-historic-centre",
+        "name": "L'viv – the Ensemble of the Historic Centre",
+        "type": "Cultural",
+        "country": "Ukraine",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

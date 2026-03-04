@@ -1,0 +1,12 @@
+{
+  "code": "gru",
+  "name": "São Paulo-Guarulhos International",
+  "iataCode": "GRU",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "annualPassengers": 38500000,
+  "classification": "Regional Hub",
+  "itemCategory": "Regional Hub",
+  "description": "São Paulo-Guarulhos International (GRU) in São Paulo, Brazil. Annual passengers: ~38.5M. Classification: Regional Hub.",
+  "geojson": "gru.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.399172,
+          42.625774
+        ]
+      },
+      "properties": {
+        "code": "thracian-tomb-of-kazanlak",
+        "name": "Thracian Tomb of Kazanlak",
+        "type": "Cultural",
+        "country": "Bulgaria",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

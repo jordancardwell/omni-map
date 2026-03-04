@@ -1,0 +1,12 @@
+{
+  "code": "event-2020-pantanal-fires",
+  "name": "2020 Pantanal Fires",
+  "region": "Mato Grosso do Sul, Brazil",
+  "riskGroup": "5. Recent Major Fires",
+  "riskLevel": "Extreme",
+  "yearOfEvent": "2020",
+  "areaBurned": 4200000,
+  "cause": "Severe drought, agricultural burning, record low water levels",
+  "description": "The 2020 Pantanal fires were the worst environmental disaster in the wetland's history. Approximately 30% of the world's largest tropical wetland burned — 4.2 million hectares — as the worst drought in 50 years left the normally flooded landscape bone-dry. The fires killed millions of animals, including significant populations of jaguars, giant anteaters, and hyacinth macaws. Most fires were started by ranchers clearing land, but spread uncontrollably due to extreme drought conditions. The Pantanal had never experienced fire on this scale.",
+  "geojson": "event-2020-pantanal-fires.geojson"
+}

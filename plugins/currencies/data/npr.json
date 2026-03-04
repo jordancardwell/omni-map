@@ -1,0 +1,16 @@
+{
+  "code": "npr",
+  "name": "Nepalese Rupee",
+  "isoCode": "NPR",
+  "symbol": "NRs",
+  "region": "Asia",
+  "centralBank": "Nepal Rastra Bank",
+  "exchangeRateEra": "Pegged to INR",
+  "countries": [
+    "Nepal"
+  ],
+  "countryCount": 1,
+  "description": "The Nepalese Rupee is pegged to the Indian Rupee at 1.6 NPR per 1 INR, reflecting the close economic ties between the two countries.",
+  "historicalNotes": "Introduced in 1932, replacing the Nepalese mohar. Nepal is the only country with a non-rectangular national flag.",
+  "geojson": "npr.geojson"
+}

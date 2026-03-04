@@ -1,0 +1,17 @@
+{
+  "code": "early-christian-monuments-of-ravenna",
+  "name": "Early Christian Monuments of Ravenna",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Ravenna was the seat of the Roman Empire in the 5th century and then of Byzantine Italy until the 8th century. It has a unique collection of early Christian mosaics and monuments. All eight buildings – the Mausoleum of Galla Placidia, the Neonian Baptistery, the Basilica of Sant'Apollinare Nuovo, the Arian Baptistery, the Archiepiscopal Chapel, the Mausoleum of Theodoric, the Church of San Vitale and the Basilica of Sant'Apollinare in Classe – were constructed in the 5th and 6th centuries. They show great artistic skill, including a wonderful blend of Graeco-Roman tradition, Christian iconography and oriental and Western styles.",
+  "danger": false,
+  "geojson": "early-christian-monuments-of-ravenna.geojson"
+}

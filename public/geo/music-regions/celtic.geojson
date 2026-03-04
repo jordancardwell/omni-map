@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"celtic","name":"Celtic Music","region":"Ireland, Scotland, Wales, Brittany","traditionFamily":"European"},"geometry":{"type":"Polygon","coordinates":[[[-11,56],[-11,51],[-5,51],[-5,56],[-11,56]]]}}]}

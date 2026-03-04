@@ -1,0 +1,15 @@
+{
+  "code": "mekong-basin",
+  "name": "Mekong Basin",
+  "region": "Southeast Asia",
+  "stressGroup": "1. Low (<10%)",
+  "waterStressLevel": "Low",
+  "waterStressRatio": "~8% — withdrawal-to-availability",
+  "depletionRate": "Low — monsoon recharge maintains supply",
+  "droughtRisk": "Moderate",
+  "seasonalVariability": "High",
+  "affectedPopulation": 60000000,
+  "riskFactors": ["Upstream dam construction", "Monsoon variability", "Saltwater intrusion", "Sediment trapping"],
+  "description": "The Mekong supports 60 million people across six countries. While overall stress remains low thanks to monsoon recharge, dry-season flows have declined sharply due to upstream hydropower development in China and Laos. The Tonle Sap flood pulse — critical for Cambodia's fisheries — has weakened measurably since 2010.",
+  "geojson": "mekong-basin.geojson"
+}

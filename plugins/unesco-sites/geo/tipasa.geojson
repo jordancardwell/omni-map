@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383333333,
+          36.55
+        ]
+      },
+      "properties": {
+        "code": "tipasa",
+        "name": "Tipasa",
+        "type": "Cultural",
+        "country": "Algeria",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "gondwana-rainforests-of-australia",
+  "name": "Gondwana Rainforests of Australia",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "This site, comprising several protected areas, is situated predominantly along the Great Escarpment on Australia’s east coast. The outstanding geological features displayed around shield volcanic craters and the high number of rare and threatened rainforest species are of international significance for science and conservation.",
+  "danger": false,
+  "geojson": "gondwana-rainforests-of-australia.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.955,
+          26.7836111111
+        ]
+      },
+      "properties": {
+        "code": "hegra-archaeological-site-al-hijr-mada-in-salih",
+        "name": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)",
+        "type": "Cultural",
+        "country": "Saudi Arabia",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

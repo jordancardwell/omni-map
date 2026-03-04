@@ -1,0 +1,17 @@
+{
+  "code": "doh-syd",
+  "name": "Doha — Sydney",
+  "airports": [
+    "DOH",
+    "SYD"
+  ],
+  "distanceKm": 12375,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Qatar Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DOH–SYD route between Doha and Sydney. Distance: 12,375 km. ~15 weekly flights operated by Qatar Airways.",
+  "geojson": "doh-syd.geojson"
+}

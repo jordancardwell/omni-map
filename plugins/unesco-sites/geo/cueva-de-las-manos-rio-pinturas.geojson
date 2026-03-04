@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66666667,
+          -47.15
+        ]
+      },
+      "properties": {
+        "code": "cueva-de-las-manos-rio-pinturas",
+        "name": "Cueva de las Manos, Río Pinturas",
+        "type": "Cultural",
+        "country": "Argentina",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

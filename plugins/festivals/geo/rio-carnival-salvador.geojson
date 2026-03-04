@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5124,
+          -12.9714
+        ]
+      },
+      "properties": {
+        "code": "rio-carnival-salvador",
+        "name": "Carnival of Salvador",
+        "festivalType": "Cultural",
+        "dateOrSeason": "February–March (before Lent)",
+        "location": "Salvador, Brazil"
+      }
+    }
+  ]
+}

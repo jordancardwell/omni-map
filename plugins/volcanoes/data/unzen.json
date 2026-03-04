@@ -1,0 +1,21 @@
+{
+  "code": "unzen",
+  "name": "Mount Unzen",
+  "volcanoType": "Complex volcano",
+  "status": "Historically Active",
+  "elevation": 1500,
+  "lastEruption": "1995",
+  "vei": 4,
+  "country": "Japan",
+  "region": "Kyushu",
+  "location": "Kyushu, Japan",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Lava domes"
+  ],
+  "eruptionHistory": "The 1991-1995 eruption produced a lava dome and devastating pyroclastic flows that killed 43 people including volcanologists. The 1792 eruption triggered a tsunami killing ~15,000.",
+  "description": "Mount Unzen is a group of stratovolcanoes on the Shimabara Peninsula. The 1792 sector collapse and resulting tsunami was the worst volcanic disaster in Japan's history.",
+  "geojson": "unzen.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "european-sturgeon",
+  "name": "European Sturgeon",
+  "scientificName": "Acipenser sturio",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~20-750 adults",
+  "populationTrend": "Stable",
+  "habitatType": "River and coastal waters",
+  "threats": [
+    "Historical overfishing",
+    "Dam construction",
+    "Habitat degradation",
+    "Pollution"
+  ],
+  "conservationEfforts": "Last natural population in the Gironde River, France. IRSTEA leads captive breeding. Reintroduction efforts in the Elbe and other historic rivers. International action plan.",
+  "description": "Once found in every major European river, this sturgeon is now confined to the Gironde estuary in France. It is the most endangered fish species in Europe.",
+  "geojson": "european-sturgeon.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "cape-canaveral-slc41",
+  "name": "Space Launch Complex 41 (Cape Canaveral)",
+  "country": "United States",
+  "operator": "ULA",
+  "coordinates": "28.5834°N, 80.5831°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Mars Science Lab (Curiosity)",
+    "Juno",
+    "Perseverance rover",
+    "Vulcan Centaur maiden flight"
+  ],
+  "orbitalInclinationRange": "28.5°–57°",
+  "location": "Space Launch Complex 41 (Cape Canaveral), United States",
+  "description": "ULA's primary Atlas V and Vulcan Centaur launch pad. Originally built for Titan rockets. Has launched many high-profile NASA science missions including multiple Mars rovers.",
+  "geojson": "cape-canaveral-slc41.geojson"
+}

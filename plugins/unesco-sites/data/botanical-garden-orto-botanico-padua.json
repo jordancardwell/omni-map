@@ -1,0 +1,15 @@
+{
+  "code": "botanical-garden-orto-botanico-padua",
+  "name": "Botanical Garden (Orto Botanico), Padua",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The world's first botanical garden was created in Padua in 1545. It still preserves its original layout – a circular central plot, symbolizing the world, surrounded by a ring of water. Other elements were added later, some architectural (ornamental entrances and balustrades) and some practical (pumping installations and greenhouses). It continues to serve its original purpose as a centre for scientific research.",
+  "danger": false,
+  "geojson": "botanical-garden-orto-botanico-padua.geojson"
+}

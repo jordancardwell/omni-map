@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9944444444,
+          -33.3783333333
+        ]
+      },
+      "properties": {
+        "code": "australian-convict-sites",
+        "name": "Australian Convict Sites",
+        "type": "Cultural",
+        "country": "Australia",
+        "yearInscribed": "2010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "atl-dfw",
+  "name": "Atlanta — Dallas",
+  "airports": [
+    "ATL",
+    "DFW"
+  ],
+  "distanceKm": 1175,
+  "weeklyFlights": 120,
+  "airlines": [
+    "Delta",
+    "American"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "ATL–DFW route between Atlanta and Dallas. Distance: 1,175 km. ~120 weekly flights operated by Delta, American.",
+  "geojson": "atl-dfw.geojson"
+}

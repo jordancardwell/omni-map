@@ -1,0 +1,16 @@
+{
+  "code": "no-domestic",
+  "name": "NO Domestic",
+  "capacityTbps": 18,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1921,
+  "yearLaid": 2020,
+  "rfsDate": "2013-06",
+  "owner": "Altibox",
+  "landingPoints": [
+    "Stavanger, Norway",
+    "Kristiansand, Norway"
+  ],
+  "description": "NO Domestic connecting Stavanger to Kristiansand in Europe.",
+  "geojson": "no-domestic.geojson"
+}

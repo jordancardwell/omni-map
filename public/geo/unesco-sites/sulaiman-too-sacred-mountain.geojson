@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7827777778,
+          40.5311111111
+        ]
+      },
+      "properties": {
+        "code": "sulaiman-too-sacred-mountain",
+        "name": "Sulaiman-Too Sacred Mountain",
+        "type": "Cultural",
+        "country": "Kyrgyzstan",
+        "yearInscribed": "2009"
+      }
+    }
+  ]
+}

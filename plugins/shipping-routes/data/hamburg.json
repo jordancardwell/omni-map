@@ -1,0 +1,15 @@
+{
+  "code": "hamburg",
+  "name": "Port of Hamburg",
+  "country": "Germany",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 130,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route",
+    "Trans-Atlantic Northern Route"
+  ],
+  "description": "Port of Hamburg in Germany. Annual cargo throughput: ~130 million tons. Type: Container Port.",
+  "geojson": "hamburg.geojson"
+}

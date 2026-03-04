@@ -1,0 +1,16 @@
+{
+  "code": "cad",
+  "name": "Canadian Dollar",
+  "isoCode": "CAD",
+  "symbol": "C$",
+  "region": "Americas",
+  "centralBank": "Bank of Canada",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Canada"
+  ],
+  "countryCount": 1,
+  "description": "The Canadian Dollar, often called the 'loonie' after the common loon depicted on its one-dollar coin, is the fifth most held reserve currency in the world.",
+  "historicalNotes": "Canada adopted the dollar in 1858, replacing the Canadian pound. The currency was pegged to the US dollar from 1962 to 1970, after which it returned to a floating exchange rate.",
+  "geojson": "cad.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "loop-current",
+  "name": "Loop Current",
+  "currentType": "Warm",
+  "speedRange": "0.5–1.8 m/s",
+  "origin": "Yucatan Channel",
+  "destination": "Florida Strait (becomes Gulf Stream)",
+  "climateEffects": [
+    "Drives Gulf of Mexico circulation",
+    "Intensifies hurricanes in the Gulf",
+    "Transports warm water to Atlantic"
+  ],
+  "connectedEcosystems": [
+    "Gulf of Mexico deep reefs",
+    "Florida Keys coral reefs",
+    "Mississippi Delta ecosystem"
+  ],
+  "itemCategory": "Warm",
+  "description": "The Loop Current enters the Gulf of Mexico through the Yucatan Channel, loops northward, and exits through the Florida Strait. Its warm waters are a major factor in intensifying Gulf hurricanes.",
+  "geojson": "loop-current.geojson"
+}

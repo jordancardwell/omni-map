@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.63333,
+          43.725
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-urbino",
+        "name": "Historic Centre of Urbino",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

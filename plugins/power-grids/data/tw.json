@@ -1,0 +1,18 @@
+{
+  "code": "tw",
+  "name": "Taiwan",
+  "voltage": "110V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "A",
+    "B"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)"
+  ],
+  "voltageStandard": "110V",
+  "adapterNotes": "Same as US/Japan. No adapter needed for North American devices.",
+  "geojson": "tw.geojson"
+}

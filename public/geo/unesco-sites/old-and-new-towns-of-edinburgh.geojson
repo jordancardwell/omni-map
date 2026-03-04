@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.216666667,
+          55.95
+        ]
+      },
+      "properties": {
+        "code": "old-and-new-towns-of-edinburgh",
+        "name": "Old and New Towns of Edinburgh",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

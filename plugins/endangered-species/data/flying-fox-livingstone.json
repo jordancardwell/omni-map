@@ -1,0 +1,19 @@
+{
+  "code": "flying-fox-livingstone",
+  "name": "Livingstone's Fruit Bat",
+  "scientificName": "Pteropus livingstonii",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,400 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Montane moist forest",
+  "threats": [
+    "Habitat loss",
+    "Cyclones",
+    "Volcanic activity",
+    "Hunting"
+  ],
+  "conservationEfforts": "Durrell Wildlife Conservation Trust captive breeding in Jersey. Forest restoration on Anjouan and Mohéli islands. Community engagement reduces persecution.",
+  "description": "One of the world's largest and rarest fruit bats with a wingspan of 1.4 meters. Found only on two small islands in the Comoros archipelago between Madagascar and Mozambique.",
+  "geojson": "flying-fox-livingstone.geojson"
+}

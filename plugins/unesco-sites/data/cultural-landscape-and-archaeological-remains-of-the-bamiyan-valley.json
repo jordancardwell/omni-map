@@ -1,0 +1,17 @@
+{
+  "code": "cultural-landscape-and-archaeological-remains-of-the-bamiyan-valley",
+  "name": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+  "type": "Cultural",
+  "country": "Afghanistan",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art. The area contains numerous Buddhist monastic ensembles and sanctuaries, as well as fortified edifices from the Islamic period. The site is also testimony to the tragic destruction by the Taliban of the two standing Buddha statues, which shook the world in March 2001.",
+  "danger": true,
+  "geojson": "cultural-landscape-and-archaeological-remains-of-the-bamiyan-valley.geojson"
+}

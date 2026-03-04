@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-4-rural-suburban",
+        "name": "Rural/Suburban Transition",
+        "region": "Exurban USA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76,
+              40
+            ],
+            [
+              -73,
+              40
+            ],
+            [
+              -73,
+              43
+            ],
+            [
+              -76,
+              43
+            ],
+            [
+              -76,
+              40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-4-rural-suburban",
+        "name": "Rural/Suburban Transition",
+        "region": "Rural UK villages"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1,
+              43
+            ],
+            [
+              4,
+              43
+            ],
+            [
+              4,
+              45
+            ],
+            [
+              1,
+              45
+            ],
+            [
+              1,
+              43
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-4-rural-suburban",
+        "name": "Rural/Suburban Transition",
+        "region": "Southern France countryside"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134,
+              33
+            ],
+            [
+              137,
+              33
+            ],
+            [
+              137,
+              36
+            ],
+            [
+              134,
+              36
+            ],
+            [
+              134,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-4-rural-suburban",
+        "name": "Rural/Suburban Transition",
+        "region": "Rural Japan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4,
+              50
+            ],
+            [
+              -1,
+              50
+            ],
+            [
+              -1,
+              52
+            ],
+            [
+              -4,
+              52
+            ],
+            [
+              -4,
+              50
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

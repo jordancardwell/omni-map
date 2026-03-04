@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2666666667,
+          34.5541666667
+        ]
+      },
+      "properties": {
+        "code": "site-of-palmyra",
+        "name": "Site of Palmyra",
+        "type": "Cultural",
+        "country": "Syrian Arab Republic",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

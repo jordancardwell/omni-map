@@ -1,0 +1,15 @@
+{
+  "code": "kernave-archaeological-site-cultural-reserve-of-kernave",
+  "name": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+  "type": "Cultural",
+  "country": "Lithuania",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Kernavė Archaeological site, about 35 km north-west of Vilnius in eastern Lithuania, represents an exceptional testimony to some 10 millennia of human settlements in this region. Situated in the valley of the River Neris, the site is a complex ensemble of archaeological properties, encompassing the town of Kernavė, forts, some unfortified settlements, burial sites and other archaeological, historical and cultural monuments from the late Palaeolithic Period to the Middle Ages. The site of 194,4 ha has preserved the traces of ancient land-use, as well as remains of five impressive hill forts, part of an exceptionally large defence system. Kernavė was an important feudal town in the Middle Ages. The town was destroyed by the Teutonic Order in the late 14th century, however the site remained in use until modern times.",
+  "danger": false,
+  "geojson": "kernave-archaeological-site-cultural-reserve-of-kernave.geojson"
+}

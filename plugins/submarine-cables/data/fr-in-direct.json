@@ -1,0 +1,16 @@
+{
+  "code": "fr-in-direct",
+  "name": "FR-IN Direct",
+  "capacityTbps": 27,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 2054,
+  "yearLaid": 2021,
+  "rfsDate": "2021-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Marseille, France",
+    "Mumbai, India"
+  ],
+  "description": "FR-IN Direct connecting Marseille to Mumbai.",
+  "geojson": "fr-in-direct.geojson"
+}

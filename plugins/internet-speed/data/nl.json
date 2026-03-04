@@ -1,0 +1,17 @@
+{
+  "code": "nl",
+  "name": "Netherlands",
+  "avgDownloadMbps": 193.4,
+  "avgUploadMbps": 87.6,
+  "avgLatencyMs": 10,
+  "mobileDownloadMbps": 81.4,
+  "mobileUploadMbps": 14.2,
+  "fixedDownloadMbps": 193.4,
+  "fixedUploadMbps": 87.6,
+  "rank": 14,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Western Europe",
+  "dataYear": 2024,
+  "trendDescription": "Dense cable and fiber networks. ~7% year-over-year improvement.",
+  "geojson": "nl.geojson"
+}

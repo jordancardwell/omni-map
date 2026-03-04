@@ -1,0 +1,16 @@
+{
+  "code": "ny-ie-cable",
+  "name": "NY-IE Cable",
+  "capacityTbps": 22,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3848,
+  "yearLaid": 2023,
+  "rfsDate": "2011-06",
+  "owner": "GTT",
+  "landingPoints": [
+    "New York, USA",
+    "Dublin, Ireland"
+  ],
+  "description": "NY-IE Cable connecting New York to Dublin.",
+  "geojson": "ny-ie-cable.geojson"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "mcmath-pierce",
+  "name": "McMath-Pierce Solar Telescope",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2096,
+  "aperture": "1.6 m",
+  "telescopes": [
+    "McMath-Pierce"
+  ],
+  "keyDiscoveries": [
+    "Solar infrared spectroscopy",
+    "Planetary observations",
+    "Solar magnetism"
+  ],
+  "location": "McMath-Pierce Solar Telescope, United States",
+  "description": "Located at Kitt Peak, it was the world's largest solar telescope for decades. A distinctive design with a heliostat feeding a 60m underground optical path.",
+  "geojson": "mcmath-pierce.geojson"
+}

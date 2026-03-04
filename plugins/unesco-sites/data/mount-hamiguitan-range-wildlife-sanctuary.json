@@ -1,0 +1,14 @@
+{
+  "code": "mount-hamiguitan-range-wildlife-sanctuary",
+  "name": "Mount Hamiguitan Range Wildlife Sanctuary",
+  "type": "Natural",
+  "country": "Philippines",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Forming a mountain ridge running north-south along the Pujada Peninsula in the south-eastern part of the Eastern Mindanao Biodiversity Corridor, the Mount Hamiguitan Range Wildlife Sanctuary has an elevation range of 75–1,637 m above sea level and provides critical habitat for a range of plant and animal species. The property showcases terrestrial and aquatic habitats at different elevations, and includes threatened and endemic flora and fauna species, eight of which are found only at Mount Hamiguitan. These include critically endangered trees, plants and the iconic Philippine eagle and Philippine cockatoo.",
+  "danger": false,
+  "geojson": "mount-hamiguitan-range-wildlife-sanctuary.geojson"
+}

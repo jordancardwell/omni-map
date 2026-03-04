@@ -1,0 +1,14 @@
+{
+  "code": "carnival-oruro",
+  "name": "Carnival of Oruro",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February–March (before Lent)",
+  "origin": "Andean/Bolivian tradition",
+  "estimatedAttendance": "400,000+ participants",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "Diablada (devil dance); Morenada; 4km procession; elaborate costumes with masks; brass bands; offerings to Pachamama.",
+  "historicalBackground": "Oruro Carnival blends Catholic Candlemas celebrations with Andean cosmology. The Diablada represents the battle between good and evil.",
+  "description": "Bolivia's UNESCO-recognized carnival masterpiece, featuring the spectacular Diablada devil dance through Oruro's mining-town streets.",
+  "location": "Oruro, Bolivia",
+  "geojson": "carnival-oruro.geojson"
+}

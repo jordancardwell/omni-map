@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      },
+      "properties": {
+        "code": "makha-bucha",
+        "name": "Makha Bucha",
+        "festivalType": "Religious",
+        "dateOrSeason": "February–March (full moon)",
+        "location": "Bangkok, Thailand"
+      }
+    }
+  ]
+}

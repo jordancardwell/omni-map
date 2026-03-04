@@ -1,0 +1,15 @@
+{
+  "code": "shrines-and-temples-of-nikko",
+  "name": "Shrines and Temples of Nikko",
+  "type": "Cultural",
+  "country": "Japan",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The shrines and temples of Nikko, together with their natural surroundings, have for centuries been a sacred site known for its architectural and decorative masterpieces. They are closely associated with the history of the Tokugawa Shoguns.",
+  "danger": false,
+  "geojson": "shrines-and-temples-of-nikko.geojson"
+}

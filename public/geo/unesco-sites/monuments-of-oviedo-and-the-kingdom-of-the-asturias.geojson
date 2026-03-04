@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.84303,
+          43.36262
+        ]
+      },
+      "properties": {
+        "code": "monuments-of-oviedo-and-the-kingdom-of-the-asturias",
+        "name": "Monuments of Oviedo and the Kingdom of the Asturias",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1985"
+      }
+    }
+  ]
+}

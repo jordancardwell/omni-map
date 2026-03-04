@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.5,
+          -17.5
+        ]
+      },
+      "properties": {
+        "code": "purnululu-national-park",
+        "name": "Purnululu National Park",
+        "type": "Natural",
+        "country": "Australia",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

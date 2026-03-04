@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"shanghai","name":"Port of Shanghai","featureType":"port","portType":"Container Port","country":"China"},"geometry":{"type":"Point","coordinates":[121.47,31.23]}}]}

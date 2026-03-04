@@ -1,0 +1,12 @@
+{
+  "code": "del",
+  "name": "Indira Gandhi International",
+  "iataCode": "DEL",
+  "city": "Delhi",
+  "country": "India",
+  "annualPassengers": 46500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Indira Gandhi International (DEL) in Delhi, India. Annual passengers: ~46.5M. Classification: International Hub.",
+  "geojson": "del.geojson"
+}

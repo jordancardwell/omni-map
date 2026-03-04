@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"msp","name":"Minneapolis-Saint Paul International","featureType":"airport","iataCode":"MSP","annualPassengers":35500000,"classification":"Regional Hub"},"geometry":{"type":"Point","coordinates":[-93.2223,44.8848]}}]}

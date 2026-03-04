@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ni","name":"Nicaragua","country":"NI","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[-87.7,10.7],[-87.7,15],[-83,15],[-83,10.7],[-87.7,10.7]]]}}]}

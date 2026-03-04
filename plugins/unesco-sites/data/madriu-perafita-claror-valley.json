@@ -1,0 +1,14 @@
+{
+  "code": "madriu-perafita-claror-valley",
+  "name": "Madriu-Perafita-Claror Valley",
+  "type": "Cultural",
+  "country": "Andorra",
+  "yearInscribed": "2004",
+  "criteria": [
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "The cultural landscape of Madriu-Perafita-Claror Valley offers a microcosmic perspective of the way people have harvested the resources of the high Pyrenees over millennia. Its dramatic glacial landscapes of craggy cliffs and glaciers, with high open pastures and steep wooded valleys, covers an area of 4,247 ha, 9% of the total area of the principality. It reflects past changes in climate, economic fortune and social systems, as well as the persistence of pastoralism and a strong mountain culture, notably the survival of a communal land-ownership system dating back to the 13th century. The site features houses, notably summer settlements, terraced fields, stone tracks and evidence of iron smelting.",
+  "danger": false,
+  "geojson": "madriu-perafita-claror-valley.geojson"
+}

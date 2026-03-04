@@ -1,0 +1,15 @@
+{
+  "code": "historic-fortified-city-of-carcassonne",
+  "name": "Historic Fortified City of Carcassonne",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Since the pre-Roman period, a fortified settlement has existed on the hill where Carcassonne now stands. In its present form it is an outstanding example of a medieval fortified town, with its massive defences encircling the castle and the surrounding buildings, its streets and its fine Gothic cathedral. Carcassonne is also of exceptional importance because of the lengthy restoration campaign undertaken by Viollet-le-Duc, one of the founders of the modern science of conservation.",
+  "danger": false,
+  "geojson": "historic-fortified-city-of-carcassonne.geojson"
+}

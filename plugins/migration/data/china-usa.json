@@ -1,0 +1,18 @@
+{
+  "code": "china-usa",
+  "name": "China \u2192 United States",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "China \u2192 United States",
+  "badgeValue": "~2.9 million",
+  "origin": "China",
+  "destination": "United States",
+  "estimatedMigrants": "~2.9 million",
+  "drivers": [
+    "Education",
+    "Economic opportunity",
+    "Family reunification",
+    "Investment migration"
+  ],
+  "description": "Chinese migration to the US encompasses diverse flows: students (the largest international student population), skilled professionals in technology and science, family-sponsored immigrants, and investor migrants. Chinese Americans are the largest Asian American ethnic group. Historical migration dates to the Gold Rush era, with modern waves accelerating after China's economic opening in the 1980s.",
+  "geojson": "china-usa.geojson"
+}

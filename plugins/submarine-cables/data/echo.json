@@ -1,0 +1,17 @@
+{
+  "code": "echo",
+  "name": "Echo",
+  "capacityTbps": 16.5,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 15400,
+  "yearLaid": 2023,
+  "rfsDate": "2026-01",
+  "owner": "Google, Meta",
+  "landingPoints": [
+    "Singapore",
+    "Guam",
+    "Los Angeles, USA"
+  ],
+  "description": "Trans-Pacific cable connecting Singapore to the US through Guam.",
+  "geojson": "echo.geojson"
+}

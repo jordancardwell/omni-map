@@ -1,0 +1,18 @@
+{
+  "code": "kul-del",
+  "name": "Kuala Lumpur — Delhi",
+  "airports": [
+    "KUL",
+    "DEL"
+  ],
+  "distanceKm": 3876,
+  "weeklyFlights": 40,
+  "airlines": [
+    "AirAsia X",
+    "IndiGo"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "KUL–DEL route between Kuala Lumpur and Delhi. Distance: 3,876 km. ~40 weekly flights operated by AirAsia X, IndiGo.",
+  "geojson": "kul-del.geojson"
+}

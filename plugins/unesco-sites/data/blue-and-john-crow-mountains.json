@@ -1,0 +1,15 @@
+{
+  "code": "blue-and-john-crow-mountains",
+  "name": "Blue and John Crow Mountains",
+  "type": "Mixed",
+  "country": "Jamaica",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(iii)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge first for the indigenous Tainos fleeing slavery and then for Maroons (former enslaved peoples). They resisted the European colonial system in this isolated region by establishing a network of trails, hiding places and settlements, which form the Nanny Town Heritage Route. The forests offered the Maroons everything they needed for their survival. They developed strong spiritual connections with the mountains, still manifest through the intangible cultural legacy of, for example, religious rites, traditional medicine and dances. The site is also a biodiversity hotspot for the Caribbean Islands with a high proportion of endemic plant species, especially lichens, mosses and certain flowering plants.",
+  "danger": false,
+  "geojson": "blue-and-john-crow-mountains.geojson"
+}

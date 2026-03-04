@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8525,38.9914]},"properties":{"code":"gsfc-fermi","name":"Goddard Space Flight Center (Fermi)","observatoryType":"Space-based","status":"Operational","country":"United States"}}]}

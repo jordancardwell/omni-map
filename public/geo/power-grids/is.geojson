@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"is","name":"Iceland","country":"IS","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[-24.5,63.3],[-24.5,66.5],[-13.5,66.5],[-13.5,63.3],[-24.5,63.3]]]}}]}

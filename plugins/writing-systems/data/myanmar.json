@@ -1,0 +1,16 @@
+{
+  "code": "myanmar",
+  "name": "Myanmar (Burmese)",
+  "scriptType": "Abugida",
+  "characters": 33,
+  "direction": "LTR",
+  "originDate": "~11th century CE",
+  "sampleText": "မြန်မာအက္ခရာ",
+  "relatedScripts": [
+    "thai",
+    "khmer"
+  ],
+  "description": "The Myanmar script is an abugida with distinctive circular letterforms, reflecting its historical origin of being inscribed on palm leaves where straight lines would tear the leaf. It has 33 consonants and a complex system of vowel diacritics, tone marks, and medial consonants.",
+  "historicalNotes": "The Myanmar script was adapted from the Mon script, which in turn derived from South Indian Pallava script. The earliest known inscription in Myanmar script dates to 1035 CE from the Bagan period. The circular shapes of the letters are attributed to the use of palm leaves as a writing medium. The script was standardized by the Myanmar Language Commission in the 20th century.",
+  "geojson": "myanmar.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "griot",
+  "name": "Griot Tradition",
+  "region": "West Africa (Mande Region)",
+  "traditionFamily": "West African",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Kora",
+    "Balafon",
+    "Djembe",
+    "Ngoni",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Toumani Diabaté",
+    "Salif Keita",
+    "Ali Farka Touré",
+    "Oumou Sangaré",
+    "Youssou N'Dour"
+  ],
+  "description": "The Griot tradition is the hereditary oral history and music practice of the Mande peoples of West Africa. Griots (also known as jeli or djeli) serve as historians, storytellers, praise singers, and musicians. Their epic narratives, such as the Sundiata Keita epic, preserve centuries of history. The Manding musical tradition was inscribed on the UNESCO ICH list.",
+  "resources": [
+    {
+      "title": "Alan Lomax Archive – West Africa",
+      "url": "https://archive.culturalequity.org/explore-tag/region/africa"
+    }
+  ],
+  "geojson": "griot.geojson"
+}

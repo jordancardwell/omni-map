@@ -1,0 +1,18 @@
+{
+  "code": "kul-syd",
+  "name": "Kuala Lumpur — Sydney",
+  "airports": [
+    "KUL",
+    "SYD"
+  ],
+  "distanceKm": 6585,
+  "weeklyFlights": 30,
+  "airlines": [
+    "AirAsia X",
+    "Malaysia Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "KUL–SYD route between Kuala Lumpur and Sydney. Distance: 6,585 km. ~30 weekly flights operated by AirAsia X, Malaysia Airlines.",
+  "geojson": "kul-syd.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "land-of-frankincense",
+  "name": "Land of Frankincense",
+  "type": "Cultural",
+  "country": "Oman",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The frankincense trees of Wadi Dawkah and the remains of the caravan oasis of Shisr/Wubar and the affiliated ports of Khor Rori and Al-Baleed vividly illustrate the trade in frankincense that flourished in this region for many centuries, as one of the most important trading activities of the ancient and medieval world.",
+  "danger": false,
+  "geojson": "land-of-frankincense.geojson"
+}

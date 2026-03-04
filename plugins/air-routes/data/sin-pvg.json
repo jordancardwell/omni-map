@@ -1,0 +1,18 @@
+{
+  "code": "sin-pvg",
+  "name": "Singapore — Shanghai",
+  "airports": [
+    "SIN",
+    "PVG"
+  ],
+  "distanceKm": 3805,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Singapore Airlines",
+    "China Eastern"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SIN–PVG route between Singapore and Shanghai. Distance: 3,805 km. ~40 weekly flights operated by Singapore Airlines, China Eastern.",
+  "geojson": "sin-pvg.geojson"
+}

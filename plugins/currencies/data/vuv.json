@@ -1,0 +1,16 @@
+{
+  "code": "vuv",
+  "name": "Vanuatu Vatu",
+  "isoCode": "VUV",
+  "symbol": "VT",
+  "region": "Oceania",
+  "centralBank": "Reserve Bank of Vanuatu",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Vanuatu"
+  ],
+  "countryCount": 1,
+  "description": "The Vanuatu Vatu has no subdivision — it is one of the few currencies not divided into smaller units.",
+  "historicalNotes": "Introduced in 1981, a year after Vanuatu gained independence from joint British-French administration. Vanuatu is the only country in the world to have been governed by two colonial powers simultaneously.",
+  "geojson": "vuv.geojson"
+}

@@ -1,0 +1,28 @@
+{
+  "code": "naturopathy",
+  "name": "Naturopathy / Western Herbalism",
+  "tradition": "Western",
+  "originRegion": "Europe / North America",
+  "estimatedPractitioners": 90000,
+  "whoRecognition": "Partially recognized — WHO benchmarks for naturopathy training published 2010; regulated in several countries",
+  "keyPractices": [
+    "Western herbal medicine",
+    "Nutrition therapy",
+    "Hydrotherapy",
+    "Physical manipulation",
+    "Homeopathy",
+    "Lifestyle counseling",
+    "Detoxification"
+  ],
+  "regionsOfPractice": [
+    "United States",
+    "Canada",
+    "Germany",
+    "United Kingdom",
+    "Australia",
+    "India"
+  ],
+  "description": "Naturopathy is a system of medicine based on the healing power of nature (vis medicatrix naturae). It emphasizes prevention and uses natural therapies including botanical medicine, nutrition, hydrotherapy, physical manipulation, and lifestyle counseling. Western Herbalism, closely related, focuses specifically on plant-based remedies drawn from European, Native American, and eclectic medical traditions. Naturopathic doctors (NDs) in regulated jurisdictions complete four-year graduate medical programs. The system is licensed or regulated in over 20 countries, with formal education and professional standards established in North America, Europe, and Australasia.",
+  "historicalNotes": "Naturopathy emerged from European natural healing movements of the 19th century, drawing on Sebastian Kneipp's hydrotherapy, the Eclectic medical movement in the US, and traditional European herbalism. Benedict Lust, a German immigrant, founded the American School of Naturopathy in 1901. The movement declined mid-20th century with the rise of pharmaceutical medicine but experienced a significant revival from the 1970s onward. Germany's Heilpraktiker tradition and the UK's herbal medicine heritage represent longstanding Western practices. The WHO published benchmark documents for naturopathy training in 2010.",
+  "geojson": "naturopathy.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "gd",
+  "name": "Grenada",
+  "avgDownloadMbps": 20.6,
+  "avgUploadMbps": 7.4,
+  "avgLatencyMs": 36,
+  "mobileDownloadMbps": 14.8,
+  "mobileUploadMbps": 3.2,
+  "fixedDownloadMbps": 20.6,
+  "fixedUploadMbps": 7.4,
+  "rank": 112,
+  "speedTier": "Slow (10–30 Mbps)",
+  "region": "Caribbean",
+  "dataYear": 2024,
+  "trendDescription": "Small island developing connectivity. ~10% year-over-year growth.",
+  "geojson": "gd.geojson"
+}

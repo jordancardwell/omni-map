@@ -1,0 +1,18 @@
+{
+  "code": "cgk-icn",
+  "name": "Jakarta — Seoul",
+  "airports": [
+    "CGK",
+    "ICN"
+  ],
+  "distanceKm": 5263,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Garuda Indonesia",
+    "Korean Air"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CGK–ICN route between Jakarta and Seoul. Distance: 5,263 km. ~30 weekly flights operated by Garuda Indonesia, Korean Air.",
+  "geojson": "cgk-icn.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "helmand-basin",
+  "name": "Helmand Basin",
+  "region": "Central-South Asia",
+  "stressGroup": "5. Extremely High (>80%)",
+  "waterStressLevel": "Extremely High",
+  "waterStressRatio": "> 85% — virtually all flow consumed by irrigation",
+  "depletionRate": "Critical — Hamun wetlands have dried completely in drought years",
+  "droughtRisk": "Extreme",
+  "seasonalVariability": "Very High",
+  "affectedPopulation": 12000000,
+  "riskFactors": ["Transboundary dispute", "Climate aridification", "Conflict impacts", "Wetland destruction", "Opium irrigation"],
+  "description": "The Helmand River is Afghanistan's longest, flowing into Iran's Sistan-Baluchestan province and the Hamun wetlands — once a UNESCO Biosphere Reserve. Upstream irrigation and dam construction have reduced cross-border flows by over 80%, causing the Hamun lakes to dry completely during drought years and displacing Iranian communities. The 1973 Helmand River Treaty remains a source of tension. Decades of conflict have degraded water infrastructure across Afghanistan.",
+  "geojson": "helmand-basin.geojson"
+}

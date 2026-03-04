@@ -1,0 +1,22 @@
+{
+  "code": "soufriere-hills",
+  "name": "Soufrière Hills",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 1050,
+  "lastEruption": "2013",
+  "vei": 3,
+  "country": "Montserrat",
+  "region": "Caribbean",
+  "location": "Caribbean, Montserrat",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lahars",
+    "Lava domes"
+  ],
+  "eruptionHistory": "Began erupting in 1995 after centuries of dormancy. Pyroclastic flows destroyed the capital Plymouth in 1997, rendering the southern half of the island uninhabitable.",
+  "description": "The eruption of Soufrière Hills volcano has transformed Montserrat. The destruction of Plymouth made it the only modern capital city to be abandoned due to volcanic activity.",
+  "geojson": "soufriere-hills.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "syria-turkey",
+  "name": "Syria \u2192 Turkey",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Syria \u2192 Turkey",
+  "badgeValue": "~3.6 million",
+  "origin": "Syria",
+  "destination": "Turkey",
+  "estimatedMigrants": "~3.6 million",
+  "drivers": [
+    "Civil war displacement",
+    "Geographic proximity",
+    "Refugee protection",
+    "Cultural ties"
+  ],
+  "description": "Turkey hosts the largest refugee population in the world, predominantly from Syria. Mass displacement began in 2011 with the Syrian civil war. Most refugees live in urban areas rather than camps, primarily in southeastern Turkey and Istanbul. Turkey provides temporary protection status rather than full refugee status under the 1951 Convention.",
+  "geojson": "syria-turkey.geojson"
+}

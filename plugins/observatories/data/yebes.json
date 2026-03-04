@@ -1,0 +1,21 @@
+{
+  "code": "yebes",
+  "name": "Yebes Observatory",
+  "country": "Spain",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 980,
+  "aperture": "40 m",
+  "telescopes": [
+    "Yebes 40m",
+    "13.2m RAEGE"
+  ],
+  "keyDiscoveries": [
+    "Molecular spectroscopy",
+    "VLBI astrometry",
+    "Interstellar chemistry"
+  ],
+  "location": "Yebes Observatory, Spain",
+  "description": "IGN observatory in Guadalajara province. The 40m telescope specializes in molecular spectroscopy and VLBI. Part of the RAEGE geodetic network.",
+  "geojson": "yebes.geojson"
+}

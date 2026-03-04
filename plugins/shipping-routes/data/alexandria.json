@@ -1,0 +1,14 @@
+{
+  "code": "alexandria",
+  "name": "Port of Alexandria",
+  "country": "Egypt",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 45,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route"
+  ],
+  "description": "Port of Alexandria in Egypt. Annual cargo throughput: ~45 million tons. Type: Multi-Purpose Port.",
+  "geojson": "alexandria.geojson"
+}

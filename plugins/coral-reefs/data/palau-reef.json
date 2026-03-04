@@ -1,0 +1,20 @@
+{
+  "code": "palau-reef",
+  "name": "Palau Reef System",
+  "location": "Palau, Western Pacific",
+  "areaKm2": 1580,
+  "reefType": "Barrier",
+  "healthStatus": "Near Threatened",
+  "coralSpecies": 400,
+  "marineSpecies": 1500,
+  "threats": [
+    "Climate change",
+    "Typhoons",
+    "Illegal fishing",
+    "Sedimentation",
+    "Tourism pressure"
+  ],
+  "conservationStatus": "Palau National Marine Sanctuary protects 80% of the nation's exclusive economic zone. Rock Islands Southern Lagoon is a UNESCO World Heritage Site.",
+  "description": "Palau's reef system encompasses over 700 islands and features an extraordinary diversity of marine habitats including barrier reefs, fringing reefs, atolls, patch reefs, and over 50 marine lakes. The Rock Islands are ancient coral reef uplifts creating mushroom-shaped limestone islands.\n\nPalau made global headlines in 2015 by creating one of the world's largest marine sanctuaries. The nation's marine biodiversity is exceptional, with 400 coral species and 1,500 fish species in a relatively small area. Palau's traditional conservation practice of 'bul' (temporary reef closures) predates modern marine conservation.",
+  "geojson": "palau-reef.geojson"
+}

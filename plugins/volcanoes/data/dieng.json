@@ -1,0 +1,21 @@
+{
+  "code": "dieng",
+  "name": "Dieng Volcanic Complex",
+  "volcanoType": "Complex volcano",
+  "status": "Erupting/Recent",
+  "elevation": 2565,
+  "lastEruption": "2021",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Java",
+  "location": "Java, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Phreatic eruptions",
+    "Volcanic gases",
+    "Lahars"
+  ],
+  "eruptionHistory": "Known for deadly CO2 gas emissions. A 1979 phreatic eruption and gas cloud killed 149 people. Contains numerous craters and geothermal areas.",
+  "description": "The Dieng Plateau hosts a complex of volcanic craters famous for deadly CO2 gas emissions, colorful volcanic lakes, and ancient Hindu temples.",
+  "geojson": "dieng.geojson"
+}

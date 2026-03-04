@@ -1,0 +1,16 @@
+{
+  "code": "sn-gm-cable",
+  "name": "SN-GM Cable",
+  "capacityTbps": 8,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 708,
+  "yearLaid": 2014,
+  "rfsDate": "2020-06",
+  "owner": "Sonatel",
+  "landingPoints": [
+    "Dakar, Senegal",
+    "Banjul, Gambia"
+  ],
+  "description": "SN-GM Cable connecting Dakar to Banjul along the African coast.",
+  "geojson": "sn-gm-cable.geojson"
+}

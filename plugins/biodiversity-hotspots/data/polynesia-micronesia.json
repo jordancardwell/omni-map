@@ -1,0 +1,29 @@
+{
+  "code": "polynesia-micronesia",
+  "name": "Polynesia-Micronesia",
+  "location": "Central and South Pacific Ocean",
+  "areaKm2": 47239,
+  "habitatRemaining": "21.0%",
+  "plantSpecies": 5330,
+  "endemicPlants": 3074,
+  "vertebrateSpecies": 342,
+  "endemicVertebrates": 168,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Hawaiian monk seal",
+    "Nene goose",
+    "Coconut crab",
+    "Tuatara relative",
+    "Hawaiian honeycreepers"
+  ],
+  "threats": [
+    "Invasive species",
+    "Climate change",
+    "Sea level rise",
+    "Tourism",
+    "Overexploitation"
+  ],
+  "conservationEfforts": "Papahānaumokuākea Marine National Monument is one of the world's largest protected areas. Hawaiian forest bird conservation programs. Invasive species eradication on key islands. Pacific Islands Managed and Protected Area Community coordinates regional efforts.",
+  "description": "Polynesia-Micronesia encompasses thousands of islands scattered across the vast central and south Pacific Ocean, including Hawaii, Fiji, Samoa, Tonga, French Polynesia, and Micronesian nations. These islands range from high volcanic peaks to low coral atolls.\n\nThe hotspot has suffered the highest documented extinction rate of any region, particularly among birds. Hawaii alone has lost over 70 bird species since human arrival. The remaining species show extraordinary adaptive radiation — Hawaiian honeycreepers evolved from a single ancestor into over 50 species. Climate change and sea level rise pose existential threats to low-lying atoll nations.",
+  "geojson": "polynesia-micronesia.geojson"
+}

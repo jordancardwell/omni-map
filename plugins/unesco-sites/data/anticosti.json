@@ -1,0 +1,14 @@
+{
+  "code": "anticosti",
+  "name": "Anticosti",
+  "type": "Natural",
+  "country": "Canada",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the island of Anticosti, the largest island in Quebec, this property is the most complete and best preserved palaeontological record of the first mass extinction of animal life, 447-437 million years ago. It contains the best preserved fossil record of marine life covering 10 million years of Earth history. The abundance, diversity, and exquisite preservation of the fossils are exceptional and allow for world-class scientific work. Thousands of large bedding surfaces allow the observation and study of shell and sometimes soft-bodied animals that lived on the shallow sea floor of an ancient tropical sea.",
+  "danger": false,
+  "geojson": "anticosti.geojson"
+}

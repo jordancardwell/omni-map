@@ -1,0 +1,16 @@
+{
+  "code": "yp-pn-cable",
+  "name": "YP-PN Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4145,
+  "yearLaid": 2014,
+  "rfsDate": "2015-06",
+  "owner": "FSM Telecom",
+  "landingPoints": [
+    "Yap, FSM",
+    "Pohnpei, FSM"
+  ],
+  "description": "YP-PN Cable connecting Yap to Pohnpei in the Pacific.",
+  "geojson": "yp-pn-cable.geojson"
+}

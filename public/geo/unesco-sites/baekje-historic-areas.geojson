@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1272222222,
+          36.4619444444
+        ]
+      },
+      "properties": {
+        "code": "baekje-historic-areas",
+        "name": "Baekje Historic Areas",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

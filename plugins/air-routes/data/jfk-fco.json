@@ -1,0 +1,19 @@
+{
+  "code": "jfk-fco",
+  "name": "New York — Rome",
+  "airports": [
+    "JFK",
+    "FCO"
+  ],
+  "distanceKm": 6866,
+  "weeklyFlights": 55,
+  "airlines": [
+    "Delta",
+    "ITA Airways",
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "JFK–FCO route between New York and Rome. Distance: 6,866 km. ~55 weekly flights operated by Delta, ITA Airways, American.",
+  "geojson": "jfk-fco.geojson"
+}

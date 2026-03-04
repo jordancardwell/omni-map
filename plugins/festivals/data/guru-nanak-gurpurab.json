@@ -1,0 +1,14 @@
+{
+  "code": "guru-nanak-gurpurab",
+  "name": "Guru Nanak Gurpurab",
+  "festivalType": "Religious",
+  "dateOrSeason": "November (varies)",
+  "origin": "Sikh tradition",
+  "estimatedAttendance": "30+ million Sikhs worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Akhand Path (48-hour scripture reading); Nagar Kirtan processions; langar (communal meals); fireworks; gurdwara decorations with lights.",
+  "historicalBackground": "Guru Nanak Gurpurab celebrates the birth of Guru Nanak, the founder of Sikhism, in 1469. It is the most important Sikh festival.",
+  "description": "The celebration of the birth of Guru Nanak Dev Ji, the founder of Sikhism, marked with processions, prayers, and communal feasts.",
+  "location": "Lahore, Pakistan",
+  "geojson": "guru-nanak-gurpurab.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.453611,
+          34.395556
+        ]
+      },
+      "properties": {
+        "code": "hiroshima-peace-memorial-genbaku-dome",
+        "name": "Hiroshima Peace Memorial (Genbaku Dome)",
+        "type": "Cultural",
+        "country": "Japan",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

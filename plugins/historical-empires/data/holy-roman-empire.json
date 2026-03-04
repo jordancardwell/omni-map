@@ -1,0 +1,25 @@
+{
+  "code": "holy-roman-empire",
+  "name": "Holy Roman Empire",
+  "era": "Medieval",
+  "peakYear": "1050 CE",
+  "areaAtPeakKm2": 950000,
+  "populationEstimate": "25 million",
+  "capital": "Aachen / Prague / Vienna",
+  "keyAchievements": [
+    "University founding",
+    "Gothic cathedral architecture",
+    "Hanseatic League trade",
+    "Imperial Diet governance",
+    "Cultural patronage"
+  ],
+  "declineFactors": [
+    "Religious fragmentation",
+    "Thirty Years' War",
+    "Princely autonomy growth",
+    "Napoleonic dissolution",
+    "Rise of Prussia and Austria"
+  ],
+  "description": "The Holy Roman Empire (800/962–1806) was a multi-ethnic complex of territories in Western and Central Europe. Despite Voltaire's famous quip that it was 'neither holy, nor Roman, nor an empire,' it was the dominant political structure in central Europe for centuries.\n\nThe empire fostered the development of universities, Gothic architecture, and the Hanseatic trading network. Its decentralized structure, while often seen as a weakness, allowed for diverse cultural development and laid the groundwork for modern European federalism.",
+  "geojson": "holy-roman-empire.geojson"
+}

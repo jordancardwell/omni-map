@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[118,-8.25]},"properties":{"code":"tambora","name":"Mount Tambora","volcanoType":"Stratovolcano","status":"Dormant","elevation":2850,"lastEruption":"1967","vei":7}}]}

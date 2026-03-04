@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"jpy","name":"Japanese Yen","country":"JP","region":"Asia"},"geometry":{"type":"Polygon","coordinates":[[[129.4,30],[129.4,45.5],[145.8,45.5],[145.8,30],[129.4,30]]]}}]}

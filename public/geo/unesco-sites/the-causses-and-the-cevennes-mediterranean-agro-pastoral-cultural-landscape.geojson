@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4730555556,
+          44.2202777778
+        ]
+      },
+      "properties": {
+        "code": "the-causses-and-the-cevennes-mediterranean-agro-pastoral-cultural-landscape",
+        "name": "The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2011"
+      }
+    }
+  ]
+}

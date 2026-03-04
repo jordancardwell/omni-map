@@ -1,0 +1,14 @@
+{
+  "code": "caucedo",
+  "name": "Port of Caucedo",
+  "country": "Dominican Republic",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Caucedo in Dominican Republic. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+  "geojson": "caucedo.geojson"
+}

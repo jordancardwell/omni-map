@@ -1,0 +1,24 @@
+{
+  "code": "lb",
+  "name": "Lebanon",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "G"
+  ],
+  "plugTypeCount": 5,
+  "plugDescriptions": [
+    "Type A — Two flat parallel pins (North American/Japanese style)",
+    "Type B — Two flat parallel pins + grounding pin (North American style)",
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type G — Three rectangular pins (British style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Multiple plug types in use. Universal adapter recommended.",
+  "geojson": "lb.geojson"
+}

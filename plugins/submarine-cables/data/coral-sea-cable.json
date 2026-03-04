@@ -1,0 +1,16 @@
+{
+  "code": "coral-sea-cable",
+  "name": "Coral Sea Cable",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4700,
+  "yearLaid": 2019,
+  "rfsDate": "2020-01",
+  "owner": "Vocus",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Port Moresby, Papua New Guinea"
+  ],
+  "description": "Cable connecting Australia to Papua New Guinea.",
+  "geojson": "coral-sea-cable.geojson"
+}

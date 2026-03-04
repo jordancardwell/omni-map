@@ -1,0 +1,18 @@
+{
+  "code": "mnl-icn",
+  "name": "Manila — Seoul",
+  "airports": [
+    "MNL",
+    "ICN"
+  ],
+  "distanceKm": 2608,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Philippine Airlines",
+    "Korean Air"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "MNL–ICN route between Manila and Seoul. Distance: 2,608 km. ~60 weekly flights operated by Philippine Airlines, Korean Air.",
+  "geojson": "mnl-icn.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "place-stanislas-place-de-la-carriere-and-place-d-alliance-in-nancy",
+  "name": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1983",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Nancy, the temporary residence of a king without a kingdom – Stanislas Leszczynski, later to become Duke of Lorraine – is paradoxically the oldest and most typical example of a modern capital where an enlightened monarch proved to be sensitive to the needs of the public. Built between 1752 and 1756 by a brilliant team led by the architect Héré, this was a carefully conceived project that succeeded in creating a capital that not only enhanced the sovereign's prestige but was also functional.",
+  "danger": false,
+  "geojson": "place-stanislas-place-de-la-carriere-and-place-d-alliance-in-nancy.geojson"
+}

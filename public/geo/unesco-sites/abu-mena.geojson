@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.66666667,
+          30.8358333333
+        ]
+      },
+      "properties": {
+        "code": "abu-mena",
+        "name": "Abu Mena",
+        "type": "Cultural",
+        "country": "Egypt",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

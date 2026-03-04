@@ -1,0 +1,19 @@
+{
+  "code": "jfk-cdg",
+  "name": "New York — Paris",
+  "airports": [
+    "JFK",
+    "CDG"
+  ],
+  "distanceKm": 5833,
+  "weeklyFlights": 110,
+  "airlines": [
+    "Air France",
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "JFK–CDG route between New York and Paris. Distance: 5,833 km. ~110 weekly flights operated by Air France, Delta, JetBlue.",
+  "geojson": "jfk-cdg.geojson"
+}

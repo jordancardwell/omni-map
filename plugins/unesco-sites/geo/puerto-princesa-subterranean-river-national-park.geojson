@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.9166667,
+          10.16666667
+        ]
+      },
+      "properties": {
+        "code": "puerto-princesa-subterranean-river-national-park",
+        "name": "Puerto-Princesa Subterranean River National Park",
+        "type": "Natural",
+        "country": "Philippines",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

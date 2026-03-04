@@ -1,0 +1,17 @@
+{
+  "code": "rs",
+  "name": "Serbia",
+  "avgDownloadMbps": 108.2,
+  "avgUploadMbps": 48.6,
+  "avgLatencyMs": 16,
+  "mobileDownloadMbps": 35.2,
+  "mobileUploadMbps": 8.4,
+  "fixedDownloadMbps": 108.2,
+  "fixedUploadMbps": 48.6,
+  "rank": 43,
+  "speedTier": "Fast (75–150 Mbps)",
+  "region": "Eastern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Growing broadband market. ~14% year-over-year improvement.",
+  "geojson": "rs.geojson"
+}

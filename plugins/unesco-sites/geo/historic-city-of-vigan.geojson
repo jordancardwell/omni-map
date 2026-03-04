@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3875,
+          17.575
+        ]
+      },
+      "properties": {
+        "code": "historic-city-of-vigan",
+        "name": "Historic City of Vigan",
+        "type": "Cultural",
+        "country": "Philippines",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

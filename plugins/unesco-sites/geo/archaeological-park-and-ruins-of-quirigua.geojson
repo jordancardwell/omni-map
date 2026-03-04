@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04025,
+          15.27059
+        ]
+      },
+      "properties": {
+        "code": "archaeological-park-and-ruins-of-quirigua",
+        "name": "Archaeological Park and Ruins of Quirigua",
+        "type": "Cultural",
+        "country": "Guatemala",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

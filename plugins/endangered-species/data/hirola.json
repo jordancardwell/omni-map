@@ -1,0 +1,19 @@
+{
+  "code": "hirola",
+  "name": "Hirola",
+  "scientificName": "Beatragus hunteri",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Arid grassland and savanna",
+  "threats": [
+    "Habitat loss",
+    "Drought",
+    "Disease",
+    "Competition with livestock"
+  ],
+  "conservationEfforts": "Hirola Conservation Programme in Kenya. Community conservancies provide habitat. Captive breeding program at Tsavo East National Park.",
+  "description": "Known as the four-eyed antelope due to distinctive preorbital glands beneath their eyes. The world's most endangered antelope, found only along the Kenya-Somalia border.",
+  "geojson": "hirola.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "cgk-hkg",
+  "name": "Jakarta — Hong Kong",
+  "airports": [
+    "CGK",
+    "HKG"
+  ],
+  "distanceKm": 3259,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Cathay Pacific",
+    "Garuda Indonesia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "CGK–HKG route between Jakarta and Hong Kong. Distance: 3,259 km. ~40 weekly flights operated by Cathay Pacific, Garuda Indonesia.",
+  "geojson": "cgk-hkg.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "leoncito",
+  "name": "Leoncito Astronomical Complex",
+  "country": "Argentina",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2552,
+  "aperture": "2.15 m",
+  "telescopes": [
+    "Jorge Sahade 2.15m",
+    "Astrograph"
+  ],
+  "keyDiscoveries": [
+    "Southern stellar spectroscopy",
+    "Astrometry",
+    "Binary systems"
+  ],
+  "location": "Leoncito Astronomical Complex, Argentina",
+  "description": "CASLEO observatory in San Juan province near the Andes, combining excellent high-altitude conditions with dark skies for southern hemisphere observations.",
+  "geojson": "leoncito.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4147222222,
+          43.335
+        ]
+      },
+      "properties": {
+        "code": "routes-of-santiago-de-compostela-i-camino-frances-i-and-routes-of-northern-spain",
+        "name": "Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

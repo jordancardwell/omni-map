@@ -1,0 +1,18 @@
+{
+  "code": "cuban-crocodile",
+  "name": "Cuban Crocodile",
+  "scientificName": "Crocodylus rhombifer",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~3,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Freshwater swamp",
+  "threats": [
+    "Hybridization with American crocs",
+    "Illegal hunting",
+    "Small range"
+  ],
+  "conservationEfforts": "Zapata Swamp National Park protects the main population. Captive breeding program. Genetic studies identify pure Cuban crocodiles for conservation priority.",
+  "description": "Has the smallest natural range of any living crocodilian, restricted primarily to Cuba's Zapata Swamp. Known for their aggression and ability to leap from water to catch prey from overhanging branches.",
+  "geojson": "cuban-crocodile.geojson"
+}

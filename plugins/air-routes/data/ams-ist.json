@@ -1,0 +1,18 @@
+{
+  "code": "ams-ist",
+  "name": "Amsterdam — Istanbul",
+  "airports": [
+    "AMS",
+    "IST"
+  ],
+  "distanceKm": 2184,
+  "weeklyFlights": 70,
+  "airlines": [
+    "KLM",
+    "Turkish Airlines"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "AMS–IST route between Amsterdam and Istanbul. Distance: 2,184 km. ~70 weekly flights operated by KLM, Turkish Airlines.",
+  "geojson": "ams-ist.geojson"
+}

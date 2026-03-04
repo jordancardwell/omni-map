@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"mco","name":"Orlando International","featureType":"airport","iataCode":"MCO","annualPassengers":47000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[-81.3081,28.4312]}}]}

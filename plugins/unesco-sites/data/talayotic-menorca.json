@@ -1,0 +1,15 @@
+{
+  "code": "talayotic-menorca",
+  "name": "Talayotic Menorca",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located on the island of Menorca in the western Mediterranean Sea, these archaeological sites are situated in agro-pastoral landscapes. A testimony to the occupation of the island by prehistoric communities, these sites display a diversity of prehistoric settlements and burial places. The materials, forms and locations of structures dating from the Bronze Age (1600 BCE) to the Late Iron Age (123 BCE) show the evolution of a “cyclopean” architecture built with very large blocks of stone. Astronomical orientations and visual interconnections between prehistoric structures indicate networks with possible cosmological meanings.",
+  "danger": false,
+  "geojson": "talayotic-menorca.geojson"
+}

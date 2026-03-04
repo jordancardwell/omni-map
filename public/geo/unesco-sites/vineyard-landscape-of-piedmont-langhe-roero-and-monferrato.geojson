@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9636111111,
+          44.6086111111
+        ]
+      },
+      "properties": {
+        "code": "vineyard-landscape-of-piedmont-langhe-roero-and-monferrato",
+        "name": "Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

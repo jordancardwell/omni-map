@@ -1,0 +1,21 @@
+{
+  "code": "tgn-eurasia-tgnea",
+  "name": "TGN-Eurasia (TGNEA)",
+  "capacityTbps": 3.84,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 12000,
+  "yearLaid": 2001,
+  "rfsDate": "2002-01",
+  "owner": "Telia Carrier",
+  "landingPoints": [
+    "London, UK",
+    "Lisbon, Portugal",
+    "Barcelona, Spain",
+    "Marseille, France",
+    "Genoa, Italy",
+    "Istanbul, Turkey",
+    "Mumbai, India"
+  ],
+  "description": "TGN-Eurasia connecting Western Europe to India.",
+  "geojson": "tgn-eurasia-tgnea.geojson"
+}

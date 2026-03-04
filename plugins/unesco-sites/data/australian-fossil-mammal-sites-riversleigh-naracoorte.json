@@ -1,0 +1,15 @@
+{
+  "code": "australian-fossil-mammal-sites-riversleigh-naracoorte",
+  "name": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(viii)",
+    "(ix)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Riversleigh and Naracoorte, situated in the north and south respectively of eastern Australia, are among the world’s 10 greatest fossil sites. They are a superb illustration of the key stages of evolution of Australia’s unique fauna.",
+  "danger": false,
+  "geojson": "australian-fossil-mammal-sites-riversleigh-naracoorte.geojson"
+}

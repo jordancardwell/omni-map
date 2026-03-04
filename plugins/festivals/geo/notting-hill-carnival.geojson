@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2046,
+          51.5172
+        ]
+      },
+      "properties": {
+        "code": "notting-hill-carnival",
+        "name": "Notting Hill Carnival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "Last weekend of August",
+        "location": "London, UK"
+      }
+    }
+  ]
+}

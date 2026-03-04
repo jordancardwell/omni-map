@@ -1,0 +1,24 @@
+{
+  "code": "central-asian",
+  "name": "Central Asian Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Siberia to Indian Subcontinent",
+  "badgeValue": "~280 species",
+  "speciesCount": "~280 migratory species including bar-headed geese, demoiselle cranes, and raptors",
+  "keyStopoverSites": [
+    "Qinghai Lake China",
+    "Ladakh Wetlands",
+    "Chilika Lake India",
+    "Rann of Kutch",
+    "Indus Flyway Wetlands"
+  ],
+  "threats": [
+    "Himalayan development",
+    "Wetland pollution",
+    "Power lines",
+    "Poisoning",
+    "Climate change"
+  ],
+  "description": "The Central Asian Flyway crosses some of the most extreme terrain on Earth, as birds migrate over the Himalayas and Hindu Kush between Siberian breeding grounds and the Indian subcontinent. The Bar-headed Goose is famous for flying over Mount Everest at altitudes exceeding 7,000 meters. Demoiselle Cranes cross the Himalayas at Khichan, Rajasthan, where local communities have fed migrating flocks for generations. The flyway's wetlands are under severe pressure from agricultural expansion and industrial pollution.",
+  "geojson": "central-asian.geojson"
+}

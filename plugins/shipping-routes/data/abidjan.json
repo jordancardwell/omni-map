@@ -1,0 +1,14 @@
+{
+  "code": "abidjan",
+  "name": "Port of Abidjan",
+  "country": "Ivory Coast",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Abidjan in Ivory Coast. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+  "geojson": "abidjan.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "nz-au-express",
+  "name": "NZ-AU Express",
+  "capacityTbps": 23,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7298,
+  "yearLaid": 2016,
+  "rfsDate": "2019-06",
+  "owner": "Vodafone NZ",
+  "landingPoints": [
+    "Auckland, New Zealand",
+    "Sydney, Australia"
+  ],
+  "description": "NZ-AU Express connecting Auckland to Sydney.",
+  "geojson": "nz-au-express.geojson"
+}

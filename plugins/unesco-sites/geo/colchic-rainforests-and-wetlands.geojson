@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9512,
+          41.7022777778
+        ]
+      },
+      "properties": {
+        "code": "colchic-rainforests-and-wetlands",
+        "name": "Colchic Rainforests and Wetlands",
+        "type": "Natural",
+        "country": "Georgia",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

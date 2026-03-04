@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04333333,
+          47.80055556
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-the-city-of-salzburg",
+        "name": "Historic Centre of the City of Salzburg",
+        "type": "Cultural",
+        "country": "Austria",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

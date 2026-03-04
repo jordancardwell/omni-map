@@ -1,0 +1,14 @@
+{
+  "code": "bahla-fort",
+  "name": "Bahla Fort",
+  "type": "Cultural",
+  "country": "Oman",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The oasis of Bahla owes its prosperity to the Banu Nebhan, the dominant tribe in the area from the 12th to the end of the 15th century. The ruins of the immense fort, with its walls and towers of unbaked brick and its stone foundations, is a remarkable example of this type of fortification and attests to the power of the Banu Nebhan.",
+  "danger": false,
+  "geojson": "bahla-fort.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "fra-doh",
+  "name": "Frankfurt — Doha",
+  "airports": [
+    "FRA",
+    "DOH"
+  ],
+  "distanceKm": 4588,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Qatar Airways",
+    "Lufthansa"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "FRA–DOH route between Frankfurt and Doha. Distance: 4,588 km. ~35 weekly flights operated by Qatar Airways, Lufthansa.",
+  "geojson": "fra-doh.geojson"
+}

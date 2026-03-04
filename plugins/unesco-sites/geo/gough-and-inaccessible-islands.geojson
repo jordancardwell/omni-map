@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.928611111,
+          -40.32472222
+        ]
+      },
+      "properties": {
+        "code": "gough-and-inaccessible-islands",
+        "name": "Gough and Inaccessible Islands",
+        "type": "Natural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

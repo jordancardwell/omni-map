@@ -1,0 +1,15 @@
+{
+  "code": "mount-qingcheng-and-the-dujiangyan-irrigation-system",
+  "name": "Mount Qingcheng and the Dujiangyan Irrigation System",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Construction of the Dujiangyan irrigation system began in the 3rd century B.C. This system still controls the waters of the Minjiang River and distributes it to the fertile farmland of the Chengdu plains. Mount Qingcheng was the birthplace of Taoism, which is celebrated in a series of ancient temples.",
+  "danger": false,
+  "geojson": "mount-qingcheng-and-the-dujiangyan-irrigation-system.geojson"
+}

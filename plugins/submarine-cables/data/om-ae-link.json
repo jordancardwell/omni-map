@@ -1,0 +1,16 @@
+{
+  "code": "om-ae-link",
+  "name": "OM-AE Link",
+  "capacityTbps": 16,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1630,
+  "yearLaid": 2012,
+  "rfsDate": "2022-06",
+  "owner": "Omantel",
+  "landingPoints": [
+    "Barka, Oman",
+    "Fujairah, UAE"
+  ],
+  "description": "OM-AE Link connecting Barka to Fujairah in the Middle East.",
+  "geojson": "om-ae-link.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "palomar",
+  "name": "Palomar Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1713,
+  "aperture": "5.1 m",
+  "telescopes": [
+    "Hale 200-inch",
+    "P48 Samuel Oschin",
+    "P60"
+  ],
+  "keyDiscoveries": [
+    "Quasars",
+    "Cosmic distance scale",
+    "Zwicky Transient Facility"
+  ],
+  "location": "Palomar Observatory, United States",
+  "description": "Home of the historic Hale 200-inch telescope that dominated astronomy for decades. Now hosts the Zwicky Transient Facility for time-domain astronomy.",
+  "geojson": "palomar.geojson"
+}

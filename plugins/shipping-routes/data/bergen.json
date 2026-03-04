@@ -1,0 +1,14 @@
+{
+  "code": "bergen",
+  "name": "Port of Bergen",
+  "country": "Norway",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 8,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Bergen in Norway. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+  "geojson": "bergen.geojson"
+}

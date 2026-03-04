@@ -1,0 +1,18 @@
+{
+  "code": "lax-fra",
+  "name": "Los Angeles — Frankfurt",
+  "airports": [
+    "LAX",
+    "FRA"
+  ],
+  "distanceKm": 9321,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Lufthansa",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAX–FRA route between Los Angeles and Frankfurt. Distance: 9,321 km. ~30 weekly flights operated by Lufthansa, United.",
+  "geojson": "lax-fra.geojson"
+}

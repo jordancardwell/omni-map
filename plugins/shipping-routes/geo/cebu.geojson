@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cebu","name":"Port of Cebu","featureType":"port","portType":"Multi-Purpose Port","country":"Philippines"},"geometry":{"type":"Point","coordinates":[123.9,10.3]}}]}

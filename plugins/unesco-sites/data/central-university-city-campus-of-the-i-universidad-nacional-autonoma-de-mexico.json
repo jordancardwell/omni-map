@@ -1,0 +1,16 @@
+{
+  "code": "central-university-city-campus-of-the-i-universidad-nacional-autonoma-de-mexico",
+  "name": "Central University City Campus of the Universidad Nacional Autónoma de México (UNAM)",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The ensemble of buildings, sports facilities and open spaces of the Central University City Campus of the Universidad Nacional Autónoma de México (UNAM), was built from 1949 to 1952 by more than 60 architects, engineers and artists who were involved in the project. As a result, the campus constitutes a unique example of 20th-century modernism integrating urbanism, architecture, engineering, landscape design and fine arts with references to local traditions, especially to Mexico’s pre-Hispanic past. The ensemble embodies social and cultural values of universal significance and is one of the most significant icons of modernity in Latin America.",
+  "danger": false,
+  "geojson": "central-university-city-campus-of-the-i-universidad-nacional-autonoma-de-mexico.geojson"
+}

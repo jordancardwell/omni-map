@@ -1,0 +1,22 @@
+{
+  "code": "puyehue-cordon-caulle",
+  "name": "Puyehue-Cordón Caulle",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 2236,
+  "lastEruption": "2012",
+  "vei": 5,
+  "country": "Chile",
+  "region": "Los Ríos",
+  "location": "Los Ríos, Chile",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lava flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "The 2011-2012 eruption produced massive ash clouds that disrupted aviation across the southern hemisphere and deposited heavy ashfall on Argentine Patagonia.",
+  "description": "The 2011 eruption of Puyehue-Cordón Caulle was one of the most significant Chilean eruptions in decades, producing rhyolite lava flows and ash that affected Argentina and beyond.",
+  "geojson": "puyehue-cordon-caulle.geojson"
+}

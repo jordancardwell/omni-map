@@ -1,0 +1,8 @@
+{
+  "code": "caribbean-gulf-mexico",
+  "name": "Caribbean–Gulf of Mexico Route",
+  "classification": "Minor",
+  "itemCategory": "Minor Lane",
+  "description": "Network connecting US Gulf ports (Houston, New Orleans) with Caribbean islands and Central American nations. Major petroleum and petrochemical shipping corridor.",
+  "geojson": "caribbean-gulf-mexico.geojson"
+}

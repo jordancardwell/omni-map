@@ -1,0 +1,12 @@
+{
+  "code": "nrt",
+  "name": "Narita International",
+  "iataCode": "NRT",
+  "city": "Tokyo",
+  "country": "Japan",
+  "annualPassengers": 42000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Narita International (NRT) in Tokyo, Japan. Annual passengers: ~42M. Classification: International Hub.",
+  "geojson": "nrt.geojson"
+}

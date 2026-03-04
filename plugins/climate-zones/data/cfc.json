@@ -1,0 +1,17 @@
+{
+  "code": "cfc",
+  "name": "Subpolar Oceanic",
+  "group": "C - Temperate",
+  "temperatureRange": "Warmest month <22°C; 1-3 months >10°C",
+  "precipitationPattern": "Year-round precipitation; cool and wet",
+  "vegetation": "Stunted forest, heath, bog, moss-covered landscapes",
+  "exampleCities": [
+    "Reykjavik",
+    "Tórshavn",
+    "Punta Arenas",
+    "Ushuaia"
+  ],
+  "description": "Subpolar oceanic climate (Cfc) is found at high latitudes where ocean influence prevents extreme cold but summers remain cool. Iceland, the Faroe Islands, and southern Patagonia are classic examples. Strong winds and persistent cloudiness are characteristic.",
+  "typicalWeather": "Cool to cold year-round. Summers are brief and mild (8-14°C). Winters are raw and windy (0-5°C). Persistent overcast with frequent drizzle and mist. Strong gales are common, especially in winter. Snow is possible but rarely persistent at sea level.",
+  "geojson": "cfc.geojson"
+}

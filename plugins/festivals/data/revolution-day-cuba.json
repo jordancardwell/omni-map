@@ -1,0 +1,14 @@
+{
+  "code": "revolution-day-cuba",
+  "name": "Revolution Day (Cuba)",
+  "festivalType": "National",
+  "dateOrSeason": "January 1",
+  "origin": "Cuban national",
+  "estimatedAttendance": "11+ million Cubans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Rally at Revolution Square; speeches; cultural performances; military displays; community celebrations.",
+  "historicalBackground": "Revolution Day marks January 1, 1959, when Fidel Castro's 26th of July Movement overthrew the Batista government after years of guerrilla warfare.",
+  "description": "Cuba's celebration of the 1959 Revolution, with rallies and cultural events at Havana's iconic Revolution Square.",
+  "location": "Havana, Cuba",
+  "geojson": "revolution-day-cuba.geojson"
+}

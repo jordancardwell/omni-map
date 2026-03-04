@@ -1,0 +1,21 @@
+{
+  "code": "sabancaya",
+  "name": "Sabancaya",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 5976,
+  "lastEruption": "2023",
+  "vei": 3,
+  "country": "Peru",
+  "region": "Arequipa",
+  "location": "Arequipa, Peru",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "Has been in continuous eruption since 2016 with daily ash emissions.",
+  "description": "Sabancaya has been erupting since 2016, producing daily ash plumes that affect communities in the Colca Valley region.",
+  "geojson": "sabancaya.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "san-millan-yuso-and-suso-monasteries",
+  "name": "San Millán Yuso and Suso Monasteries",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The monastic community founded by St Millán in the mid-6th century became a place of pilgrimage. A fine Romanesque church built in honour of the holy man still stands at the site of Suso. It was here that the first literature was produced in Castilian, from which one of the most widely spoken languages in the world today is derived. In the early 16th century the community was housed in the fine new monastery of Yuso, below the older complex; it is still a thriving community today.",
+  "danger": false,
+  "geojson": "san-millan-yuso-and-suso-monasteries.geojson"
+}

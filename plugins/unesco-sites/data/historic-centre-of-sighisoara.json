@@ -1,0 +1,15 @@
+{
+  "code": "historic-centre-of-sighisoara",
+  "name": "Historic Centre of Sighişoara",
+  "type": "Cultural",
+  "country": "Romania",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded by German craftsmen and merchants known as the Saxons of Transylvania, Sighişoara is a fine example of a small, fortified medieval town which played an important strategic and commercial role on the fringes of central Europe for several centuries.",
+  "danger": false,
+  "geojson": "historic-centre-of-sighisoara.geojson"
+}

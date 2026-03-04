@@ -1,0 +1,18 @@
+{
+  "code": "giant-panda",
+  "name": "Giant Panda",
+  "scientificName": "Ailuropoda melanoleuca",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,860 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Temperate bamboo forest",
+  "threats": [
+    "Habitat fragmentation",
+    "Climate change",
+    "Low reproductive rate"
+  ],
+  "conservationEfforts": "China's national reserve system protects 67% of panda habitat. Captive breeding programs have been highly successful. Bamboo corridor restoration connects isolated populations.",
+  "description": "An iconic symbol of conservation, the giant panda lives in bamboo forests of central China. Their classification was downgraded from Endangered to Vulnerable in 2016 thanks to decades of intensive conservation.",
+  "geojson": "giant-panda.geojson"
+}

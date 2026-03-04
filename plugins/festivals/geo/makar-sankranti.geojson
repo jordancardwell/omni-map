@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      },
+      "properties": {
+        "code": "makar-sankranti",
+        "name": "Makar Sankranti",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "January 14–15",
+        "location": "Pune, India"
+      }
+    }
+  ]
+}

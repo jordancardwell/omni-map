@@ -1,0 +1,21 @@
+{
+  "code": "grimsvotn",
+  "name": "Grímsvötn",
+  "volcanoType": "Subglacial volcano",
+  "status": "Historically Active",
+  "elevation": 1725,
+  "lastEruption": "2011",
+  "vei": 4,
+  "country": "Iceland",
+  "region": "Vatnajökull",
+  "location": "Vatnajökull, Iceland",
+  "tectonicSetting": "Hot spot + divergent",
+  "hazards": [
+    "Jökulhlaup",
+    "Ashfall",
+    "Aviation hazards"
+  ],
+  "eruptionHistory": "Iceland's most frequently erupting volcano. Major eruptions in 1996, 1998, 2004, and 2011. The 2011 ash cloud caused flight cancellations.",
+  "description": "Grímsvötn is Iceland's most active volcano, located beneath the Vatnajökull ice cap. Its eruptions produce glacial floods and ash clouds that can disrupt aviation.",
+  "geojson": "grimsvotn.geojson"
+}

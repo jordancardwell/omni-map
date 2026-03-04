@@ -1,0 +1,18 @@
+{
+  "code": "monte-iberia-eleuth",
+  "name": "Monte Iberia Eleuth",
+  "scientificName": "Eleutherodactylus iberia",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, small range",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest floor",
+  "threats": [
+    "Habitat loss",
+    "Climate change",
+    "Small range"
+  ],
+  "conservationEfforts": "Parque Nacional Alejandro de Humboldt protects habitat. Research by Cuban herpetologists. No captive populations exist due to extreme difficulty of husbandry.",
+  "description": "One of the smallest frogs in the world at just 10 mm long. Found only on a single mountain in eastern Cuba. It is toxic, using alkaloids similar to poison dart frogs for defense.",
+  "geojson": "monte-iberia-eleuth.geojson"
+}

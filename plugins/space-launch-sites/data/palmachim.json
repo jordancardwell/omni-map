@@ -1,0 +1,16 @@
+{
+  "code": "palmachim",
+  "name": "Palmachim Airbase",
+  "country": "Israel",
+  "operator": "Israel Aerospace Industries / Israel MOD",
+  "coordinates": "31.8848°N, 34.6826°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Shavit launches",
+    "Ofeq reconnaissance satellites"
+  ],
+  "orbitalInclinationRange": "143°–145° (retrograde due to westward launch)",
+  "location": "Palmachim Airbase, Israel",
+  "description": "Israel's launch site on the Mediterranean coast. Uniquely launches westward (retrograde orbit) over the Mediterranean to avoid overflying hostile neighboring countries.",
+  "geojson": "palmachim.geojson"
+}

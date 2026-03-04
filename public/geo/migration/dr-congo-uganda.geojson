@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "dr-congo-uganda", "name": "DR Congo \u2192 Uganda", "migrantVolume": 2}, "geometry": {"type": "LineString", "coordinates": [[28, -1], [29, 0], [30, 1], [31, 1]]}}]}

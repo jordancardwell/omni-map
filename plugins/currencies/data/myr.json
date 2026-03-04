@@ -1,0 +1,16 @@
+{
+  "code": "myr",
+  "name": "Malaysian Ringgit",
+  "isoCode": "MYR",
+  "symbol": "RM",
+  "region": "Asia",
+  "centralBank": "Bank Negara Malaysia",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Malaysia"
+  ],
+  "countryCount": 1,
+  "description": "The Malaysian Ringgit means 'jagged' in Malay, referring to the jagged edges of Spanish silver dollars that once circulated in the region.",
+  "historicalNotes": "The ringgit replaced the Malaya and British Borneo dollar in 1967. During the 1997 Asian Financial Crisis, Malaysia controversially pegged the ringgit to the US dollar and imposed capital controls.",
+  "geojson": "myr.geojson"
+}

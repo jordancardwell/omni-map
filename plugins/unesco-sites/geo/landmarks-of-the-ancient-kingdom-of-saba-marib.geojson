@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3352277778,
+          15.4268777778
+        ]
+      },
+      "properties": {
+        "code": "landmarks-of-the-ancient-kingdom-of-saba-marib",
+        "name": "Landmarks of the Ancient Kingdom of Saba, Marib",
+        "type": "Cultural",
+        "country": "Yemen",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

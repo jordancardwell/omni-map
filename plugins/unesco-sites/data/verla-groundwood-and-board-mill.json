@@ -1,0 +1,14 @@
+{
+  "code": "verla-groundwood-and-board-mill",
+  "name": "Verla Groundwood and Board Mill",
+  "type": "Cultural",
+  "country": "Finland",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Verla groundwood and board mill and its associated residential area is an outstanding, remarkably well-preserved example of the small-scale rural industrial settlements associated with pulp, paper and board production that flourished in northern Europe and North America in the 19th and early 20th centuries. Only a handful of such settlements survive to the present day.",
+  "danger": false,
+  "geojson": "verla-groundwood-and-board-mill.geojson"
+}

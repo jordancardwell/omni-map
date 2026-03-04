@@ -1,0 +1,17 @@
+{
+  "code": "las-medulas",
+  "name": "Las Médulas",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "In the 1st century A.D. the Roman Imperial authorities began to exploit the gold deposits of this region in north-west Spain, using a technique based on hydraulic power. After two centuries of working the deposits, the Romans withdrew, leaving a devastated landscape. Since there was no subsequent industrial activity, the dramatic traces of this remarkable ancient technology are visible everywhere as sheer faces in the mountainsides and the vast areas of tailings, now used for agriculture.",
+  "danger": false,
+  "geojson": "las-medulas.geojson"
+}

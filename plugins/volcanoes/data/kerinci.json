@@ -1,0 +1,21 @@
+{
+  "code": "kerinci",
+  "name": "Mount Kerinci",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3805,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Sumatra",
+  "location": "Sumatra, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "The highest volcano in Sumatra. Frequent ash emissions and occasional larger eruptions.",
+  "description": "Mount Kerinci is the highest peak in Sumatra and one of the most active volcanoes in Indonesia. It sits within Kerinci Seblat National Park, home to endangered tigers.",
+  "geojson": "kerinci.geojson"
+}

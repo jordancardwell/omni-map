@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.41667,
+          14.33333
+        ]
+      },
+      "properties": {
+        "code": "cliff-of-bandiagara-land-of-the-dogons",
+        "name": "Cliff of Bandiagara (Land of the Dogons)",
+        "type": "Mixed",
+        "country": "Mali",
+        "yearInscribed": "1989"
+      }
+    }
+  ]
+}

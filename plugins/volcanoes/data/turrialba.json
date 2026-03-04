@@ -1,0 +1,21 @@
+{
+  "code": "turrialba",
+  "name": "Turrialba",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3340,
+  "lastEruption": "2020",
+  "vei": 2,
+  "country": "Costa Rica",
+  "region": "Cartago",
+  "location": "Cartago, Costa Rica",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Volcanic gases",
+    "Acid rain"
+  ],
+  "eruptionHistory": "Reactivated in 2010 after 150 years of quiet. Frequent ash emissions through 2020.",
+  "description": "Turrialba reawakened in 2010 and has been producing frequent ash emissions that occasionally reach the capital San José.",
+  "geojson": "turrialba.geojson"
+}

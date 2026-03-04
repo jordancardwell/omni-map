@@ -1,0 +1,19 @@
+{
+  "code": "sin-mnl",
+  "name": "Singapore — Manila",
+  "airports": [
+    "SIN",
+    "MNL"
+  ],
+  "distanceKm": 2374,
+  "weeklyFlights": 200,
+  "airlines": [
+    "Singapore Airlines",
+    "Philippine Airlines",
+    "Cebu Pacific"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "SIN–MNL route between Singapore and Manila. Distance: 2,374 km. ~200 weekly flights operated by Singapore Airlines, Philippine Airlines, Cebu Pacific.",
+  "geojson": "sin-mnl.geojson"
+}

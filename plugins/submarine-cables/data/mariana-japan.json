@@ -1,0 +1,16 @@
+{
+  "code": "mariana-japan",
+  "name": "Mariana-Japan",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2269,
+  "yearLaid": 2021,
+  "rfsDate": "2013-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Guam",
+    "Tokyo, Japan"
+  ],
+  "description": "Mariana-Japan connecting Guam to Tokyo in the Pacific.",
+  "geojson": "mariana-japan.geojson"
+}

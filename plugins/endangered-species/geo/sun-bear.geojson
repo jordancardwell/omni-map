@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"sun-bear","name":"Sun Bear"},"geometry":{"type":"Polygon","coordinates":[[[95,-5],[115,-5],[118,5],[115,15],[105,20],[95,15],[92,5],[95,-5]]]}}]}

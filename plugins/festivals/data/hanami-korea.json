@@ -1,0 +1,14 @@
+{
+  "code": "hanami-korea",
+  "name": "Cherry Blossom Festival (Jinhae)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "Late March–April",
+  "origin": "Korean tradition",
+  "estimatedAttendance": "2+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Cherry blossom tunnels along Yeojwacheon Stream; Gyeonghwa Station viewing; military band parades; cultural performances.",
+  "historicalBackground": "The Jinhae Cherry Blossom Festival began in 1952 as a memorial for Admiral Yi Sun-sin. The area has 360,000 cherry trees, the most in South Korea.",
+  "description": "South Korea's largest cherry blossom festival, where 360,000 trees create magical pink tunnels along streams and railway stations.",
+  "location": "Jinhae, South Korea",
+  "geojson": "hanami-korea.geojson"
+}

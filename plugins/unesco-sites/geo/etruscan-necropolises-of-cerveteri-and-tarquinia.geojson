@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10188889,
+          42.00683333
+        ]
+      },
+      "properties": {
+        "code": "etruscan-necropolises-of-cerveteri-and-tarquinia",
+        "name": "Etruscan Necropolises of Cerveteri and Tarquinia",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

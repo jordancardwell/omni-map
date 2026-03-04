@@ -1,0 +1,16 @@
+{
+  "code": "mill-network-at-kinderdijk-elshout",
+  "name": "Mill Network at Kinderdijk-Elshout",
+  "type": "Cultural",
+  "country": "Netherlands (Kingdom of the)",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The outstanding contribution made by the people of the Netherlands to the technology of handling water is admirably demonstrated by the installations in the Kinderdijk-Elshout area. Construction of hydraulic works for the drainage of land for agriculture and settlement began in the Middle Ages and have continued uninterruptedly to the present day. The site illustrates all the typical features associated with this technology – dykes, reservoirs, pumping stations, administrative buildings and a series of beautifully preserved windmills.",
+  "danger": false,
+  "geojson": "mill-network-at-kinderdijk-elshout.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "chittagong",
+  "name": "Port of Chittagong",
+  "country": "Bangladesh",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 110,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Indian Ocean Crossings"
+  ],
+  "description": "Port of Chittagong in Bangladesh. Annual cargo throughput: ~110 million tons. Type: Multi-Purpose Port.",
+  "geojson": "chittagong.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "the-grand-canal",
+  "name": "The Grand Canal",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "2014",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Grand Canal is a vast waterway system in the north-eastern and central-eastern plains of China, running from Beijing in the north to Zhejiang province in the south. Constructed in sections from the 5th century BC onwards, it was conceived as a unified means of communication for the Empire for the first time in the 7th century AD (Sui dynasty). This led to a series of gigantic construction sites, creating the world’s largest and most extensive civil engineering project prior to the Industrial Revolution. It formed the backbone of the Empire’s inland communication system, transporting grain and strategic raw materials, and supplying rice to feed the population. By the 13th century it consisted of more than 2,000 km of artificial waterways, linking five of China’s main river basins. It has played an important role in ensuring the country’s economic prosperity and stability and is still in use today as a major means of communication.",
+  "danger": false,
+  "geojson": "the-grand-canal.geojson"
+}

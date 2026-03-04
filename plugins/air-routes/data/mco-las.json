@@ -1,0 +1,18 @@
+{
+  "code": "mco-las",
+  "name": "Orlando — Las Vegas",
+  "airports": [
+    "MCO",
+    "LAS"
+  ],
+  "distanceKm": 3276,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Southwest",
+    "Spirit"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MCO–LAS route between Orlando and Las Vegas. Distance: 3,276 km. ~35 weekly flights operated by Southwest, Spirit.",
+  "geojson": "mco-las.geojson"
+}

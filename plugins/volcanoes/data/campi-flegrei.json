@@ -1,0 +1,22 @@
+{
+  "code": "campi-flegrei",
+  "name": "Campi Flegrei",
+  "volcanoType": "Caldera",
+  "status": "Historically Active",
+  "elevation": 458,
+  "lastEruption": "1538",
+  "vei": 7,
+  "country": "Italy",
+  "region": "Campania",
+  "location": "Campania, Italy",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Ashfall",
+    "Ground uplift",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "A supervolcano caldera. The Campanian Ignimbrite eruption 39,000 years ago was one of the largest in European history. Ongoing bradyseism (ground uplift) since 2005 has raised concern.",
+  "description": "Campi Flegrei is a supervolcano caldera west of Naples. Ongoing ground uplift and seismic activity have raised alarm about a potential future eruption threatening the Naples metropolitan area.",
+  "geojson": "campi-flegrei.geojson"
+}

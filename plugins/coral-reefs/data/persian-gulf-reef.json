@@ -1,0 +1,20 @@
+{
+  "code": "persian-gulf-reef",
+  "name": "Persian Gulf Reef",
+  "location": "UAE, Bahrain, Qatar, Iran, Saudi Arabia",
+  "areaKm2": 2800,
+  "reefType": "Fringing",
+  "healthStatus": "Critical",
+  "coralSpecies": 60,
+  "marineSpecies": 350,
+  "threats": [
+    "Extreme temperatures",
+    "Desalination brine discharge",
+    "Oil industry pollution",
+    "Dredging and reclamation",
+    "Hypersalinity"
+  ],
+  "conservationStatus": "Limited protection through ROPME (Regional Organization for the Protection of the Marine Environment). Some marine protected areas in UAE, Bahrain, and Saudi Arabia. Al Yasat Marine Protected Area in Abu Dhabi.",
+  "description": "The Persian Gulf contains the world's most thermally extreme coral reefs, surviving summer temperatures exceeding 36°C — conditions that would kill corals elsewhere. These heat-adapted corals are of immense scientific interest for understanding thermal tolerance.\n\nDespite their resilience to heat, Persian Gulf corals face extreme stress from coastal development, land reclamation projects, desalination plant discharges, and oil industry activities. The rapid urbanization along Gulf coasts, particularly in the UAE and Qatar, has destroyed significant reef areas. An estimated 70% of coral cover has been lost in some areas since the 1990s.",
+  "geojson": "persian-gulf-reef.geojson"
+}

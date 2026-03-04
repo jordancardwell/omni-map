@@ -1,0 +1,14 @@
+{
+  "code": "fossil-hominid-sites-of-south-africa",
+  "name": "Fossil Hominid Sites of South Africa",
+  "type": "Cultural",
+  "country": "South Africa",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The Taung Skull Fossil Site, part of the extension to the site inscribed in 1999, is the place where in 1924 the celebrated Taung Skull – a specimen of the species Australopithecus africanus – was found. Makapan Valley, also in the site, features in its many archaeological caves traces of human occupation and evolution dating back some 3.3 million years. The area contains essential elements that define the origin and evolution of humanity. Fossils found there have enabled the identification of several specimens of early hominids, more particularly of Paranthropus, dating back between 4.5 million and 2.5 million years, as well as evidence of the domestication of fire 1.8 million to 1 million years ago.",
+  "danger": false,
+  "geojson": "fossil-hominid-sites-of-south-africa.geojson"
+}

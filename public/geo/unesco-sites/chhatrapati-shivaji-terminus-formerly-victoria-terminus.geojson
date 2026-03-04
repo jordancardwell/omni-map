@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8362027777,
+          18.9401222222
+        ]
+      },
+      "properties": {
+        "code": "chhatrapati-shivaji-terminus-formerly-victoria-terminus",
+        "name": "Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

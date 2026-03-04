@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301666667,
+          49.895
+        ]
+      },
+      "properties": {
+        "code": "amiens-cathedral",
+        "name": "Amiens Cathedral",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

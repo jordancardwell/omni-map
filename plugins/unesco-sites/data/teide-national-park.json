@@ -1,0 +1,15 @@
+{
+  "code": "teide-national-park",
+  "name": "Teide National Park",
+  "type": "Natural",
+  "country": "Spain",
+  "yearInscribed": "2007",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated on the island of Tenerife, Teide National Park features the Teide-Pico Viejo stratovolcano that, at 3,718 m, is the highest peak on Spanish soil. Rising 7,500 m above the ocean floor, it is regarded as the world’s third-tallest volcanic structure and stands in a spectacular environment. The visual impact of the site is all the greater due to atmospheric conditions that create constantly changing textures and tones in the landscape and a ‘sea of clouds’ that forms a visually impressive backdrop to the mountain. Teide is of global importance in providing evidence of the geological processes that underpin the evolution of oceanic islands.",
+  "danger": false,
+  "geojson": "teide-national-park.geojson"
+}

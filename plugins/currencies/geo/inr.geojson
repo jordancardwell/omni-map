@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"inr","name":"Indian Rupee","country":"IN","region":"Asia"},"geometry":{"type":"Polygon","coordinates":[[[68.2,6.8],[68.2,35.5],[97.4,35.5],[97.4,6.8],[68.2,6.8]]]}}]}

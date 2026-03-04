@@ -1,0 +1,21 @@
+{
+  "code": "pierre-auger",
+  "name": "Pierre Auger Observatory",
+  "country": "Argentina",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": 1400,
+  "aperture": "3000 km² area",
+  "telescopes": [
+    "Surface Detector Array",
+    "Fluorescence Detector"
+  ],
+  "keyDiscoveries": [
+    "Ultra-high-energy cosmic ray origin correlation",
+    "Cosmic ray composition",
+    "Anisotropy of highest-energy particles"
+  ],
+  "location": "Pierre Auger Observatory, Argentina",
+  "description": "The world's largest cosmic ray observatory, covering 3000 km² in Mendoza province. Uses 1600 water-Cherenkov detectors and fluorescence telescopes.",
+  "geojson": "pierre-auger.geojson"
+}

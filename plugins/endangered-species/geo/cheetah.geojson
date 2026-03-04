@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cheetah","name":"Cheetah"},"geometry":{"type":"Polygon","coordinates":[[[15,-25],[40,-25],[45,-5],[50,10],[40,15],[30,10],[15,5],[10,-10],[15,-25]]]}}]}

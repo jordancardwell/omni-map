@@ -1,0 +1,15 @@
+{
+  "code": "manzanillo-mexico",
+  "name": "Port of Manzanillo",
+  "country": "Mexico",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West Coast Americas Route",
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Manzanillo in Mexico. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+  "geojson": "manzanillo-mexico.geojson"
+}

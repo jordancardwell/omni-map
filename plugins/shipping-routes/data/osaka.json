@@ -1,0 +1,14 @@
+{
+  "code": "osaka",
+  "name": "Port of Osaka",
+  "country": "Japan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 90,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route"
+  ],
+  "description": "Port of Osaka in Japan. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+  "geojson": "osaka.geojson"
+}

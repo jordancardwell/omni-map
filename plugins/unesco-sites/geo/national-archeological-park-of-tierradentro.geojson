@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.03333333,
+          2.583333333
+        ]
+      },
+      "properties": {
+        "code": "national-archeological-park-of-tierradentro",
+        "name": "National Archeological Park of Tierradentro",
+        "type": "Cultural",
+        "country": "Colombia",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

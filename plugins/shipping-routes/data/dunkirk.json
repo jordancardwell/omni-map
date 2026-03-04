@@ -1,0 +1,14 @@
+{
+  "code": "dunkirk",
+  "name": "Port of Dunkirk",
+  "country": "France",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 50,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "English Channel Route"
+  ],
+  "description": "Port of Dunkirk in France. Annual cargo throughput: ~50 million tons. Type: Bulk Port.",
+  "geojson": "dunkirk.geojson"
+}

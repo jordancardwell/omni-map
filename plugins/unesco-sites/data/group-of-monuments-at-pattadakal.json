@@ -1,0 +1,15 @@
+{
+  "code": "group-of-monuments-at-pattadakal",
+  "name": "Group of Monuments at Pattadakal",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South.",
+  "danger": false,
+  "geojson": "group-of-monuments-at-pattadakal.geojson"
+}

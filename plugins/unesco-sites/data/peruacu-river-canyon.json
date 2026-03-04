@@ -1,0 +1,15 @@
+{
+  "code": "peruacu-river-canyon",
+  "name": "Peruaçu River Canyon",
+  "type": "Natural",
+  "country": "Brazil",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(vii)",
+    "(viii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Located in northern Minas Gerais and featuring dramatic karst landscapes, vast caves, and rich biodiversity, the park’s horizontal cave systems, formed in carbonate rock, reveal striking speleothems, collapsed dolines, limestone arches, and underground rivers. Developed in the stable São Francisco craton, the landscape reflects major climatic and geological changes from the Plio-Pleistocene. The park lies at the intersection of the Cerrado, Caatinga, and Atlantic Forest biomes, supporting over 2,000 plant and animal species, including many threatened ones.",
+  "danger": false,
+  "geojson": "peruacu-river-canyon.geojson"
+}

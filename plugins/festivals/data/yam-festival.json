@@ -1,0 +1,14 @@
+{
+  "code": "yam-festival",
+  "name": "New Yam Festival (Iri Ji)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "August–October",
+  "origin": "Igbo Nigerian tradition",
+  "estimatedAttendance": "Millions across Igboland",
+  "unescoICH": "Not inscribed",
+  "traditions": "Offering the first yams to ancestors and deities; communal feasting; masquerade dances; wrestling matches; palm wine drinking.",
+  "historicalBackground": "The New Yam Festival (Iri Ji Ohuru) predates colonialism and marks the end of a farming cycle. Yam is the king of crops in Igbo culture.",
+  "description": "The Igbo harvest thanksgiving, celebrating the sacred first yam of the season with ancestral offerings, masquerades, and communal feasts.",
+  "location": "Enugu, Nigeria",
+  "geojson": "yam-festival.geojson"
+}

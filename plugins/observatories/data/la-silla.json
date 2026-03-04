@@ -1,0 +1,22 @@
+{
+  "code": "la-silla",
+  "name": "La Silla Observatory",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2400,
+  "aperture": "3.6 m",
+  "telescopes": [
+    "ESO 3.6m",
+    "NTT",
+    "HARPS"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet discoveries (HARPS)",
+    "Supernovae observations",
+    "Gamma-ray burst afterglows"
+  ],
+  "location": "La Silla Observatory, Chile",
+  "description": "ESO's first observatory site in Chile. Home to HARPS, the world's most successful exoplanet-hunting spectrograph, and the New Technology Telescope.",
+  "geojson": "la-silla.geojson"
+}

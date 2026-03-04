@@ -1,0 +1,16 @@
+{
+  "code": "wadden-sea",
+  "name": "Wadden Sea",
+  "type": "Natural",
+  "country": "Denmark, Netherlands (Kingdom of the), Germany",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Wadden Sea is the largest unbroken system of intertidal sand and mud flats in the world. The site covers the Dutch Wadden Sea Conservation Area, the German Wadden Sea National Parks of Lower Saxony and Schleswig-Holstein, and most of the Danish Wadden Sea maritime conservation area. It is a large, temperate, relatively flat coastal wetland environment, formed by the intricate interactions between physical and biological factors that have given rise to a multitude of transitional habitats with tidal channels, sandy shoals, sea-grass meadows, mussel beds, sandbars, mudflats, salt marshes, estuaries, beaches and dunes. The area is home to numerous plant and animal species, including marine mammals such as the harbour seal, grey seal and harbour porpoise. Wadden Sea is one of the last remaining large-scale, intertidal ecosystems where natural processes continue to function largely undisturbed.",
+  "danger": false,
+  "geojson": "wadden-sea.geojson"
+}

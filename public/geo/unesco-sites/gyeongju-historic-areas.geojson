@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.22667,
+          35.78889
+        ]
+      },
+      "properties": {
+        "code": "gyeongju-historic-areas",
+        "name": "Gyeongju Historic Areas",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

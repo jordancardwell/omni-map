@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6645,
+          40.96525
+        ]
+      },
+      "properties": {
+        "code": "old-city-of-salamanca",
+        "name": "Old City of Salamanca",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1988"
+      }
+    }
+  ]
+}

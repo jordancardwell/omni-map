@@ -1,0 +1,15 @@
+{
+  "code": "vlkolinec",
+  "name": "Vlkolínec",
+  "type": "Cultural",
+  "country": "Slovakia",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Vlkolínec, situated in the centre of Slovakia, is a remarkably intact settlement of 45 buildings with the traditional features of a central European village. It is the region’s most complete group of these kinds of traditional log houses, often found in mountainous areas.",
+  "danger": false,
+  "geojson": "vlkolinec.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "le-havre-the-city-rebuilt-by-auguste-perret",
+  "name": "Le Havre, the City Rebuilt by Auguste Perret",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2005",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The city of Le Havre, on the English Channel in Normandy, was severely bombed during the Second World War. The destroyed area was rebuilt according to the plan of a team headed by Auguste Perret, from 1945 to 1964. The site forms the administrative, commercial and cultural centre of Le Havre. Le Havre is exceptional among many reconstructed cities for its unity and integrity. It combines a reflection of the earlier pattern of the town and its extant historic structures with the new ideas of town planning and construction technology. It is an outstanding post-war example of urban planning and architecture based on the unity of methodology and the use of prefabrication, the systematic utilization of a modular grid, and the innovative exploitation of the potential of concrete.",
+  "danger": false,
+  "geojson": "le-havre-the-city-rebuilt-by-auguste-perret.geojson"
+}

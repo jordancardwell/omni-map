@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.15678,
+          47.59458
+        ]
+      },
+      "properties": {
+        "code": "hortobagy-national-park-the-i-puszta-i",
+        "name": "Hortobágy National Park - the Puszta",
+        "type": "Cultural",
+        "country": "Hungary",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

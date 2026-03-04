@@ -1,0 +1,14 @@
+{
+  "code": "johor",
+  "name": "Port of Johor",
+  "country": "Malaysia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 35,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Strait of Malacca Route"
+  ],
+  "description": "Port of Johor in Malaysia. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+  "geojson": "johor.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ca-central",
+  "name": "CA Central",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 495,
+  "yearLaid": 2018,
+  "rfsDate": "2022-06",
+  "owner": "AT&T",
+  "landingPoints": [
+    "San Luis Obispo, USA",
+    "Los Angeles, USA"
+  ],
+  "description": "CA Central connecting San Luis Obispo to Los Angeles.",
+  "geojson": "ca-central.geojson"
+}

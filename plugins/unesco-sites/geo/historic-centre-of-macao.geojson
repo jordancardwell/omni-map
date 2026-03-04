@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5364611111,
+          22.1912919444
+        ]
+      },
+      "properties": {
+        "code": "historic-centre-of-macao",
+        "name": "Historic Centre of Macao",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

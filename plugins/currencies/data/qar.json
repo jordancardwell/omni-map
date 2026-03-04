@@ -1,0 +1,16 @@
+{
+  "code": "qar",
+  "name": "Qatari Riyal",
+  "isoCode": "QAR",
+  "symbol": "﷼",
+  "region": "Middle East",
+  "centralBank": "Qatar Central Bank",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Qatar"
+  ],
+  "countryCount": 1,
+  "description": "The Qatari Riyal is pegged to the US Dollar. Qatar has the world's highest GDP per capita, driven by natural gas exports.",
+  "historicalNotes": "Introduced in 1973, replacing the Qatar and Dubai riyal after the UAE was formed.",
+  "geojson": "qar.geojson"
+}

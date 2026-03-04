@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5961111111,
+          -3.9319444444
+        ]
+      },
+      "properties": {
+        "code": "sacred-mijikenda-kaya-forests",
+        "name": "Sacred Mijikenda Kaya Forests",
+        "type": "Cultural",
+        "country": "Kenya",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

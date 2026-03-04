@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-152.7438,60.4852]},"properties":{"code":"redoubt","name":"Mount Redoubt","volcanoType":"Stratovolcano","status":"Historically Active","elevation":3108,"lastEruption":"2009","vei":3}}]}

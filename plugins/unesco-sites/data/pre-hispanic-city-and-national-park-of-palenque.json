@@ -1,0 +1,17 @@
+{
+  "code": "pre-hispanic-city-and-national-park-of-palenque",
+  "name": "Pre-Hispanic City and National Park of Palenque",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "A prime example of a Mayan sanctuary of the classical period, Palenque was at its height between AD 500 and 700, when its influence extended throughout the basin of the Usumacinta River. The elegance and craftsmanship of the buildings, as well as the lightness of the sculpted reliefs with their Mayan mythological themes, attest to the creative genius of this civilization.",
+  "danger": false,
+  "geojson": "pre-hispanic-city-and-national-park-of-palenque.geojson"
+}

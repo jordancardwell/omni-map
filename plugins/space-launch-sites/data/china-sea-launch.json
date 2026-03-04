@@ -1,0 +1,16 @@
+{
+  "code": "china-sea-launch",
+  "name": "China Sea Launch (Offshore Platform)",
+  "country": "China",
+  "operator": "CASC / Haiyan",
+  "coordinates": "34.9000°N, 121.1900°E",
+  "status": "Active",
+  "notableLaunches": [
+    "CZ-11 sea launch (2019)",
+    "CZ-11 Shandong offshore launches"
+  ],
+  "orbitalInclinationRange": "0°–45°",
+  "location": "China Sea Launch (Offshore Platform), China",
+  "description": "China's offshore launch capability using sea-based platforms in the Yellow Sea. Long March 11 rockets launch from modified barges, offering flexible positioning for equatorial and low-inclination orbits.",
+  "geojson": "china-sea-launch.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.818525,
+          40.140439
+        ]
+      },
+      "properties": {
+        "code": "monastery-of-geghard-and-the-upper-azat-valley",
+        "name": "Monastery of Geghard and the Upper Azat Valley",
+        "type": "Cultural",
+        "country": "Armenia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

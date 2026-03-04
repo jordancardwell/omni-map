@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.738,
+          -4.331
+        ]
+      },
+      "properties": {
+        "code": "vallee-de-mai-nature-reserve",
+        "name": "Vallée de Mai Nature Reserve",
+        "type": "Natural",
+        "country": "Seychelles",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

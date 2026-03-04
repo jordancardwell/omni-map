@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "kazakhstan-russia", "name": "Kazakhstan \u2192 Russia", "migrantVolume": 4}, "geometry": {"type": "LineString", "coordinates": [[68, 48], [64, 50], [60, 52], [56, 54], [52, 55]]}}]}

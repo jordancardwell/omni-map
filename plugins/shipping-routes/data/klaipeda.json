@@ -1,0 +1,14 @@
+{
+  "code": "klaipeda",
+  "name": "Port of Klaipeda",
+  "country": "Lithuania",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 45,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "North Sea–Baltic Route"
+  ],
+  "description": "Port of Klaipeda in Lithuania. Annual cargo throughput: ~45 million tons. Type: Multi-Purpose Port.",
+  "geojson": "klaipeda.geojson"
+}

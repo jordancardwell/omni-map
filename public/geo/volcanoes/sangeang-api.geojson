@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[119.07,-8.2]},"properties":{"code":"sangeang-api","name":"Sangeang Api","volcanoType":"Complex volcano","status":"Erupting/Recent","elevation":1949,"lastEruption":"2023","vei":3}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc+5","name":"Pakistan Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[67.5,-60],[82.5,-60],[82.5,84],[67.5,84],[67.5,-60]]]}}]}

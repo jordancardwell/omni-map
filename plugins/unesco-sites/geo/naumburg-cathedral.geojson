@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.804,
+          51.1548055556
+        ]
+      },
+      "properties": {
+        "code": "naumburg-cathedral",
+        "name": "Naumburg Cathedral",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

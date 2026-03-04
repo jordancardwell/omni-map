@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.62667,
+          15.92694
+        ]
+      },
+      "properties": {
+        "code": "old-walled-city-of-shibam",
+        "name": "Old Walled City of Shibam",
+        "type": "Cultural",
+        "country": "Yemen",
+        "yearInscribed": "1982"
+      }
+    }
+  ]
+}

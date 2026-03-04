@@ -1,0 +1,16 @@
+{
+  "code": "tasman-2",
+  "name": "Tasman-2",
+  "capacityTbps": 10,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3612,
+  "yearLaid": 2021,
+  "rfsDate": "2013-06",
+  "owner": "Spark NZ",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Auckland, New Zealand"
+  ],
+  "description": "Tasman-2 connecting Sydney to Auckland in the Pacific.",
+  "geojson": "tasman-2.geojson"
+}

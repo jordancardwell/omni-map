@@ -1,0 +1,29 @@
+{
+  "code": "southwest-australia",
+  "name": "Southwest Australia",
+  "location": "Southwestern Australia",
+  "areaKm2": 356717,
+  "habitatRemaining": "30.0%",
+  "plantSpecies": 5571,
+  "endemicPlants": 2948,
+  "vertebrateSpecies": 456,
+  "endemicVertebrates": 100,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Numbat",
+    "Western swamp tortoise",
+    "Honey possum",
+    "Carnaby's cockatoo",
+    "Quokka"
+  ],
+  "threats": [
+    "Land clearing",
+    "Salinity",
+    "Invasive species",
+    "Climate change",
+    "Dieback disease"
+  ],
+  "conservationEfforts": "Extensive nature reserve system managed by DBCA. Numbat recovery program. Western swamp tortoise captive breeding. Phytophthora dieback management programs. Southwest Australia Ecoregion Initiative coordinates landscape-scale conservation.",
+  "description": "Southwest Australia is an ancient, flat landscape that has remained above sea level and unglaciated for hundreds of millions of years. This geological stability, combined with nutrient-poor soils and Mediterranean climate, has driven extraordinary plant speciation.\n\nThe region is a global center of plant diversity, with over 5,500 plant species in an area the size of Germany. The kwongan heathlands rival South Africa's fynbos in their floral richness. Many plants have evolved remarkable adaptations to nutrient-poor soils, including carnivorous sundews (with over 100 species) and elaborate root structures.",
+  "geojson": "southwest-australia.geojson"
+}

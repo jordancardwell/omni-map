@@ -1,0 +1,16 @@
+{
+  "code": "ngn",
+  "name": "Nigerian Naira",
+  "isoCode": "NGN",
+  "symbol": "₦",
+  "region": "Africa",
+  "centralBank": "Central Bank of Nigeria",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Nigeria"
+  ],
+  "countryCount": 1,
+  "description": "The Nigerian Naira is the currency of Africa's largest economy and most populous country. Nigeria is a major oil producer.",
+  "historicalNotes": "Introduced in 1973, replacing the Nigerian pound. Nigeria has maintained various exchange rate regimes and multiple rates over the decades.",
+  "geojson": "ngn.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "yellow-breasted-bunting",
+  "name": "Yellow-breasted Bunting",
+  "scientificName": "Emberiza aureola",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Wetland edge and agricultural fields",
+  "threats": [
+    "Massive trapping for food in China",
+    "Habitat loss",
+    "Pesticides"
+  ],
+  "conservationEfforts": "China banned hunting and trade in 2017. BirdLife International raised awareness of the crisis. Enforcement of hunting bans in key migration stopover sites.",
+  "description": "Once among the most abundant songbirds in Eurasia, numbering in the hundreds of millions. Considered a delicacy in southern China, it has suffered a 90% population crash in just 20 years.",
+  "geojson": "yellow-breasted-bunting.geojson"
+}

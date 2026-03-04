@@ -1,0 +1,16 @@
+{
+  "code": "cobracable-fiber",
+  "name": "COBRAcable Fiber",
+  "capacityTbps": 14,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 826,
+  "yearLaid": 2018,
+  "rfsDate": "2018-06",
+  "owner": "TenneT",
+  "landingPoints": [
+    "Blaabjerg, Denmark",
+    "Katwijk, Netherlands"
+  ],
+  "description": "COBRAcable Fiber submarine cable connecting Blaabjerg to Katwijk.",
+  "geojson": "cobracable-fiber.geojson"
+}

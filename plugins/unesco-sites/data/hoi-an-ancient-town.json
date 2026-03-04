@@ -1,0 +1,15 @@
+{
+  "code": "hoi-an-ancient-town",
+  "name": "Hoi An Ancient Town",
+  "type": "Cultural",
+  "country": "Viet Nam",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site.",
+  "danger": false,
+  "geojson": "hoi-an-ancient-town.geojson"
+}

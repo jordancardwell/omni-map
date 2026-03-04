@@ -1,0 +1,20 @@
+{
+  "code": "mesoamerican-barrier-reef",
+  "name": "Mesoamerican Barrier Reef",
+  "location": "Mexico, Belize, Guatemala, Honduras",
+  "areaKm2": 96300,
+  "reefType": "Barrier",
+  "healthStatus": "Vulnerable",
+  "coralSpecies": 65,
+  "marineSpecies": 1400,
+  "threats": [
+    "Coastal development",
+    "Overfishing",
+    "Sargassum seaweed influx",
+    "Coral disease",
+    "Climate change"
+  ],
+  "conservationStatus": "Belize Barrier Reef Reserve System is a UNESCO World Heritage Site. The Mesoamerican Reef Fund coordinates transboundary conservation across all four countries.",
+  "description": "The Mesoamerican Barrier Reef System is the largest barrier reef in the Western Hemisphere and the second-largest in the world, extending over 1,000 km from the tip of the Yucatán Peninsula to the Bay Islands of Honduras.\n\nThe reef supports critical fisheries for the region's coastal communities and is a major driver of tourism revenue. Recent conservation efforts, including the removal of the Belize Barrier Reef from the UNESCO endangered list in 2018, show progress, though threats from development and climate change persist.",
+  "geojson": "mesoamerican-barrier-reef.geojson"
+}

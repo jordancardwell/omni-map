@@ -1,0 +1,18 @@
+{
+  "code": "semnan",
+  "name": "Semnan Space Center (Imam Khomeini)",
+  "country": "Iran",
+  "operator": "ISA",
+  "coordinates": "35.2346°N, 53.9210°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Omid (Iran's first satellite)",
+    "Noor-1 (military satellite)",
+    "Zafar",
+    "Nahid-1"
+  ],
+  "orbitalInclinationRange": "55°–80°",
+  "location": "Semnan Space Center (Imam Khomeini), Iran",
+  "description": "Iran's primary civilian space launch facility in Semnan province. Launches Safir and Simorgh rockets for satellite deployment. Subject to international scrutiny regarding dual-use technology.",
+  "geojson": "semnan.geojson"
+}

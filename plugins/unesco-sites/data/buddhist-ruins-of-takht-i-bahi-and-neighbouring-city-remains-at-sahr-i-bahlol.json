@@ -1,0 +1,14 @@
+{
+  "code": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+  "name": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+  "type": "Cultural",
+  "country": "Pakistan",
+  "yearInscribed": "1980",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Buddhist monastic complex of Takht-i-Bahi (Throne of Origins) was founded in the early 1st century. Owing to its location on the crest of a high hill, it escaped successive invasions and is still exceptionally well preserved. Nearby are the ruins of Sahr-i-Bahlol, a small fortified city dating from the same period.",
+  "danger": false,
+  "geojson": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol.geojson"
+}

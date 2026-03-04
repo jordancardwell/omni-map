@@ -1,0 +1,17 @@
+{
+  "code": "dxb-sfo",
+  "name": "Dubai — San Francisco",
+  "airports": [
+    "DXB",
+    "SFO"
+  ],
+  "distanceKm": 13020,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Emirates"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "DXB–SFO route between Dubai and San Francisco. Distance: 13,020 km. ~20 weekly flights operated by Emirates.",
+  "geojson": "dxb-sfo.geojson"
+}

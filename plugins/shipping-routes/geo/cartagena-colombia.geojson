@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cartagena-colombia","name":"Port of Cartagena","featureType":"port","portType":"Container Port","country":"Colombia"},"geometry":{"type":"Point","coordinates":[-75.51,10.39]}}]}

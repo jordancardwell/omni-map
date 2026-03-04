@@ -1,0 +1,19 @@
+{
+  "code": "eastern-indigo-snake",
+  "name": "Eastern Indigo Snake",
+  "scientificName": "Drymarchon couperi",
+  "iucnStatus": "Vulnerable",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Pine flatwoods and sandhills",
+  "threats": [
+    "Habitat loss",
+    "Road mortality",
+    "Collection for pet trade",
+    "Gopher tortoise burrow destruction"
+  ],
+  "conservationEfforts": "Protected under US Endangered Species Act. Captive breeding and reintroduction in Alabama and Florida. Habitat restoration of longleaf pine ecosystems.",
+  "description": "The longest native snake in North America, reaching 2.6 meters. It is non-venomous and immune to rattlesnake venom, even preying on venomous snakes.",
+  "geojson": "eastern-indigo-snake.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "uae-pk-link",
+  "name": "UAE-PK Link",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 4112,
+  "yearLaid": 2015,
+  "rfsDate": "2013-06",
+  "owner": "PTCL",
+  "landingPoints": [
+    "Dubai, UAE",
+    "Karachi, Pakistan"
+  ],
+  "description": "UAE-PK Link connecting Dubai to Karachi.",
+  "geojson": "uae-pk-link.geojson"
+}

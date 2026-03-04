@@ -1,0 +1,15 @@
+{
+  "code": "kobe",
+  "name": "Port of Kobe",
+  "country": "Japan",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Kobe in Japan. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+  "geojson": "kobe.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3816,
+          -34.6037
+        ]
+      },
+      "properties": {
+        "code": "tango-festival",
+        "name": "Buenos Aires Tango Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "August",
+        "location": "Buenos Aires, Argentina"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "cape-floristic-region",
+  "name": "Cape Floristic Region",
+  "location": "Southwestern South Africa",
+  "areaKm2": 78555,
+  "habitatRemaining": "29.5%",
+  "plantSpecies": 9000,
+  "endemicPlants": 6210,
+  "vertebrateSpecies": 562,
+  "endemicVertebrates": 53,
+  "threatLevel": "Endangered",
+  "keySpecies": [
+    "Cape sugarbird",
+    "Geometric tortoise",
+    "Table Mountain ghost frog",
+    "King protea",
+    "Cape mountain zebra"
+  ],
+  "threats": [
+    "Agriculture",
+    "Urban expansion",
+    "Invasive alien species",
+    "Climate change",
+    "Too-frequent fires"
+  ],
+  "conservationEfforts": "UNESCO World Heritage Site since 2004. The Cape Action for People and the Environment (CAPE) program coordinates conservation efforts. CapeNature manages extensive protected areas. Working for Water program removes invasive species.",
+  "description": "The Cape Floristic Region at the southwestern tip of Africa is the smallest of the world's six floral kingdoms yet contains the highest known concentration of plant species per unit area. The fynbos biome is its most iconic habitat — a shrubland ecosystem adapted to nutrient-poor soils and periodic fire.\n\nWith over 9,000 plant species and 69% endemism, this region's botanical richness rivals tropical rainforests. The protea family is especially diverse here, with South Africa's national flower, the king protea, being one of 330 protea species in the region.",
+  "geojson": "cape-floristic-region.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "gu-ph-cable",
+  "name": "GU-PH Cable",
+  "capacityTbps": 1,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1937,
+  "yearLaid": 2022,
+  "rfsDate": "2013-06",
+  "owner": "Globe Telecom",
+  "landingPoints": [
+    "Guam",
+    "Manila, Philippines"
+  ],
+  "description": "GU-PH Cable connecting Guam to Manila in the Pacific.",
+  "geojson": "gu-ph-cable.geojson"
+}

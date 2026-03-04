@@ -1,0 +1,22 @@
+{
+  "code": "pinatubo",
+  "name": "Mount Pinatubo",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1486,
+  "lastEruption": "1991",
+  "vei": 6,
+  "country": "Philippines",
+  "region": "Luzon",
+  "location": "Luzon, Philippines",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Tephra"
+  ],
+  "eruptionHistory": "The June 1991 eruption was the second largest of the 20th century (VEI 6). It ejected ~10 km³ of material and lowered global temperatures by 0.5°C for a year.",
+  "description": "Mount Pinatubo's cataclysmic 1991 eruption was one of the largest and most well-studied eruptions of the 20th century. The eruption produced massive pyroclastic flows and a global climate impact.",
+  "geojson": "pinatubo.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "syd-hkg",
+  "name": "Sydney — Hong Kong",
+  "airports": [
+    "SYD",
+    "HKG"
+  ],
+  "distanceKm": 7393,
+  "weeklyFlights": 70,
+  "airlines": [
+    "Cathay Pacific",
+    "Qantas"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SYD–HKG route between Sydney and Hong Kong. Distance: 7,393 km. ~70 weekly flights operated by Cathay Pacific, Qantas.",
+  "geojson": "syd-hkg.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-chile",
+  "name": "Fiestas Patrias (Chile)",
+  "festivalType": "National",
+  "dateOrSeason": "September 18–19",
+  "origin": "Chilean national",
+  "estimatedAttendance": "19+ million Chileans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Fondas (food and drink stalls); cueca dancing; kite flying; empanadas and chicha; rodeo; parades.",
+  "historicalBackground": "Chile's Fiestas Patrias celebrate the First Government Junta of September 18, 1810, which began the process of independence from Spain.",
+  "description": "Chile's beloved independence celebrations, where the nation gathers in fondas for cueca dancing, empanadas, and chicha.",
+  "location": "Santiago, Chile",
+  "geojson": "independence-day-chile.geojson"
+}

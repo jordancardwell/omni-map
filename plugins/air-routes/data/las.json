@@ -1,0 +1,12 @@
+{
+  "code": "las",
+  "name": "Harry Reid International",
+  "iataCode": "LAS",
+  "city": "Las Vegas",
+  "country": "United States",
+  "annualPassengers": 44000000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Harry Reid International (LAS) in Las Vegas, United States. Annual passengers: ~44M. Classification: International Hub.",
+  "geojson": "las.geojson"
+}

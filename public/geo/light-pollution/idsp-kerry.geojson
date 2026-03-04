@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-kerry",
+        "name": "Kerry International Dark Sky Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10,
+          51.77
+        ]
+      }
+    }
+  ]
+}

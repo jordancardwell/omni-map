@@ -1,0 +1,29 @@
+{
+  "code": "gospel",
+  "name": "Gospel Music",
+  "region": "Southern United States",
+  "traditionFamily": "African-American",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Organ",
+    "Piano",
+    "Choir Vocals",
+    "Drums",
+    "Bass Guitar"
+  ],
+  "keyArtists": [
+    "Mahalia Jackson",
+    "Thomas A. Dorsey",
+    "Aretha Franklin",
+    "Kirk Franklin",
+    "The Staple Singers"
+  ],
+  "description": "Gospel music is a genre of Christian music rooted in African-American spirituals, hymns, and the Black church tradition of the American South. Developed in the early 20th century by Thomas A. Dorsey and others who blended sacred lyrics with blues and jazz elements, gospel is characterized by powerful vocals, emotional delivery, call-and-response patterns, and the use of the Hammond organ.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Gospel",
+      "url": "https://folkways.si.edu/search?query=gospel"
+    }
+  ],
+  "geojson": "gospel.geojson"
+}

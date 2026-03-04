@@ -1,0 +1,14 @@
+{
+  "code": "national-archeological-park-of-tierradentro",
+  "name": "National Archeological Park of Tierradentro",
+  "type": "Cultural",
+  "country": "Colombia",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Several monumental statues of human figures can be seen in the park, which also contains many hypogea dating from the 6th to the 10th century. These huge underground tombs (some burial chambers are up to 12 m wide) are decorated with motifs that reproduce the internal decor of homes of the period. They reveal the social complexity and cultural wealth of a pre-Hispanic society in the northern Andes.",
+  "danger": false,
+  "geojson": "national-archeological-park-of-tierradentro.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "pe-ec-cable",
+  "name": "PE-EC Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1733,
+  "yearLaid": 2020,
+  "rfsDate": "2023-06",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Lima, Peru",
+    "Guayaquil, Ecuador"
+  ],
+  "description": "PE-EC Cable connecting Lima to Guayaquil in South America.",
+  "geojson": "pe-ec-cable.geojson"
+}

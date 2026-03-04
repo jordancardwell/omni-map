@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"zw","name":"Zimbabwe","country":"ZW","voltageStandard":"220V"},"geometry":{"type":"Polygon","coordinates":[[[25.2,-22.4],[25.2,-15.6],[33,-15.6],[33,-22.4],[25.2,-22.4]]]}}]}

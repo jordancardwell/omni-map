@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "site-mohenjo-daro", "name": "Mohenjo-daro" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.1386, 27.3242]
+    }
+  }]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1611111111,
+          20.8327777778
+        ]
+      },
+      "properties": {
+        "code": "ha-long-bay-cat-ba-archipelago",
+        "name": "Ha Long Bay - Cat Ba Archipelago",
+        "type": "Natural",
+        "country": "Viet Nam",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

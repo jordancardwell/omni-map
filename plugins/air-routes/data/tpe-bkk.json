@@ -1,0 +1,19 @@
+{
+  "code": "tpe-bkk",
+  "name": "Taipei — Bangkok",
+  "airports": [
+    "TPE",
+    "BKK"
+  ],
+  "distanceKm": 2489,
+  "weeklyFlights": 50,
+  "airlines": [
+    "China Airlines",
+    "EVA Air",
+    "Thai Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "TPE–BKK route between Taipei and Bangkok. Distance: 2,489 km. ~50 weekly flights operated by China Airlines, EVA Air, Thai Airways.",
+  "geojson": "tpe-bkk.geojson"
+}

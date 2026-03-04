@@ -1,0 +1,16 @@
+{
+  "code": "gn-sl-cable",
+  "name": "GN-SL Cable",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 902,
+  "yearLaid": 2013,
+  "rfsDate": "2016-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Conakry, Guinea",
+    "Freetown, Sierra Leone"
+  ],
+  "description": "GN-SL Cable connecting Conakry to Freetown along the African coast.",
+  "geojson": "gn-sl-cable.geojson"
+}

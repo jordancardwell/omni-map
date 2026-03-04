@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1269444444,
+          32.7022222222
+        ]
+      },
+      "properties": {
+        "code": "necropolis-of-bet-shearim-a-landmark-of-jewish-renewal",
+        "name": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

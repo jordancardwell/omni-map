@@ -1,0 +1,16 @@
+{
+  "code": "tz-zz-cable",
+  "name": "TZ-ZZ Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 600,
+  "yearLaid": 2014,
+  "rfsDate": "2011-06",
+  "owner": "TTCL",
+  "landingPoints": [
+    "Dar es Salaam, Tanzania",
+    "Zanzibar, Tanzania"
+  ],
+  "description": "TZ-ZZ Cable connecting Dar es Salaam to Zanzibar in East Africa/Indian Ocean.",
+  "geojson": "tz-zz-cable.geojson"
+}

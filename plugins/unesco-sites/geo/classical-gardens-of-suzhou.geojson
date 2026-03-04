@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45,
+          31.31666667
+        ]
+      },
+      "properties": {
+        "code": "classical-gardens-of-suzhou",
+        "name": "Classical Gardens of Suzhou",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

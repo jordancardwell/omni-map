@@ -1,0 +1,17 @@
+{
+  "code": "ewr-ams",
+  "name": "Newark — Amsterdam",
+  "airports": [
+    "EWR",
+    "AMS"
+  ],
+  "distanceKm": 5869,
+  "weeklyFlights": 45,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "EWR–AMS route between Newark and Amsterdam. Distance: 5,869 km. ~45 weekly flights operated by United.",
+  "geojson": "ewr-ams.geojson"
+}

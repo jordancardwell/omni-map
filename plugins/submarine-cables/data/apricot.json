@@ -1,0 +1,19 @@
+{
+  "code": "apricot",
+  "name": "Apricot",
+  "capacityTbps": 190,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 12000,
+  "yearLaid": 2023,
+  "rfsDate": "2025-01",
+  "owner": "Google, Meta",
+  "landingPoints": [
+    "Singapore",
+    "Guam",
+    "Tokyo, Japan",
+    "Manila, Philippines",
+    "Jakarta, Indonesia"
+  ],
+  "description": "Intra-Asia and US-Asia cable connecting key markets in the Pacific.",
+  "geojson": "apricot.geojson"
+}

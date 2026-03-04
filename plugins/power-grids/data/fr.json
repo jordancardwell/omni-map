@@ -1,0 +1,18 @@
+{
+  "code": "fr",
+  "name": "France",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "E"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "French/European-style plugs. Type C (Europlug) fits most European outlets.",
+  "geojson": "fr.geojson"
+}

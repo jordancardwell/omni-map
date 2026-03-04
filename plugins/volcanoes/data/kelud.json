@@ -1,0 +1,21 @@
+{
+  "code": "kelud",
+  "name": "Kelud",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1731,
+  "lastEruption": "2014",
+  "vei": 4,
+  "country": "Indonesia",
+  "region": "Java",
+  "location": "Java, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall"
+  ],
+  "eruptionHistory": "Known for explosive eruptions. The 2014 eruption destroyed the lava dome that had filled the crater lake. Historical eruptions in 1919 and 1586 were highly destructive.",
+  "description": "Kelud is one of the most active and dangerous volcanoes in Java. Its crater lake makes eruptions particularly hazardous due to the generation of lahars.",
+  "geojson": "kelud.geojson"
+}

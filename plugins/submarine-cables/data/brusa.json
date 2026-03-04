@@ -1,0 +1,17 @@
+{
+  "code": "brusa",
+  "name": "BRUSA",
+  "capacityTbps": 70,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 11000,
+  "yearLaid": 2018,
+  "rfsDate": "2018-10",
+  "owner": "Telxius",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Fortaleza, Brazil",
+    "San Juan, Puerto Rico"
+  ],
+  "description": "Brazil-US cable with landing in Puerto Rico, connecting Latin America to the US.",
+  "geojson": "brusa.geojson"
+}

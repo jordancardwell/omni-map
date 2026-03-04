@@ -1,0 +1,15 @@
+{
+  "code": "medieval-town-of-torun",
+  "name": "Medieval Town of Toruń",
+  "type": "Cultural",
+  "country": "Poland",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Torun owes its origins to the Teutonic Order, which built a castle there in the mid-13th century as a base for the conquest and evangelization of Prussia. It soon developed a commercial role as part of the Hanseatic League. In the Old and New Town, the many imposing public and private buildings from the 14th and 15th centuries (among them the house of Copernicus) are striking evidence of Torun's importance.",
+  "danger": false,
+  "geojson": "medieval-town-of-torun.geojson"
+}

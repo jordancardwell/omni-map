@@ -1,0 +1,16 @@
+{
+  "code": "krw",
+  "name": "South Korean Won",
+  "isoCode": "KRW",
+  "symbol": "₩",
+  "region": "Asia",
+  "centralBank": "Bank of Korea",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "South Korea"
+  ],
+  "countryCount": 1,
+  "description": "The South Korean Won is the currency of the world's 10th-largest economy, known for technology exports from companies like Samsung and Hyundai.",
+  "historicalNotes": "The current won was introduced in 1962. South Korea's rapid economic development from the 1960s ('Miracle on the Han River') transformed it from one of the world's poorest countries to a high-income economy.",
+  "geojson": "krw.geojson"
+}

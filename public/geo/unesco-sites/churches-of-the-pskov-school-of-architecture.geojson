@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3285555556,
+          57.8071944444
+        ]
+      },
+      "properties": {
+        "code": "churches-of-the-pskov-school-of-architecture",
+        "name": "Churches of the Pskov School of Architecture",
+        "type": "Cultural",
+        "country": "Russian Federation",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

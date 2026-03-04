@@ -1,0 +1,15 @@
+{
+  "code": "jewish-quarter-and-st-procopius-basilica-in-trebic",
+  "name": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The ensemble of the Jewish Quarter, the old Jewish cemetery and the Basilica of St Procopius in Třebíč are reminders of the co-existence of Jewish and Christian cultures from the Middle Ages to the 20th century. The Jewish Quarter bears outstanding testimony to the different aspects of the life of this community. St Procopius' Basilica, built as part of the Benedictine monastery in the early 13th century, is a remarkable example of the influence of Western European architectural heritage in this region.",
+  "danger": false,
+  "geojson": "jewish-quarter-and-st-procopius-basilica-in-trebic.geojson"
+}

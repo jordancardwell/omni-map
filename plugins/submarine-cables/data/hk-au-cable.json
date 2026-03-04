@@ -1,0 +1,16 @@
+{
+  "code": "hk-au-cable",
+  "name": "HK-AU Cable",
+  "capacityTbps": 37,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 10934,
+  "yearLaid": 2011,
+  "rfsDate": "2023-06",
+  "owner": "Telstra",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Sydney, Australia"
+  ],
+  "description": "HK-AU Cable connecting Hong Kong to Sydney.",
+  "geojson": "hk-au-cable.geojson"
+}

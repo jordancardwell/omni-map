@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "mexico-usa", "name": "Mexico \u2192 United States", "migrantVolume": 5}, "geometry": {"type": "LineString", "coordinates": [[-102, 23], [-100, 26], [-98, 29], [-96, 32], [-94, 35], [-92, 38]]}}]}

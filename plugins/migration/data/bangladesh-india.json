@@ -1,0 +1,18 @@
+{
+  "code": "bangladesh-india",
+  "name": "Bangladesh \u2192 India",
+  "layerGroup": "Human Migration Corridors",
+  "subtitle": "Bangladesh \u2192 India",
+  "badgeValue": "~3.1 million",
+  "origin": "Bangladesh",
+  "destination": "India",
+  "estimatedMigrants": "~3.1 million",
+  "drivers": [
+    "Economic opportunity",
+    "Environmental displacement",
+    "Historical ties",
+    "Porous border"
+  ],
+  "description": "Migration from Bangladesh to India is driven by economic factors and environmental pressures including flooding and cyclones. The 4,096 km border is one of the longest in the world. Historical partition-era movements and cultural ties across Bengal facilitate ongoing migration. Much of this migration is irregular, making accurate counts difficult.",
+  "geojson": "bangladesh-india.geojson"
+}

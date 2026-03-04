@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8796111111,
+          45.4118888889
+        ]
+      },
+      "properties": {
+        "code": "paduas-fourteenth-century-fresco-cycles",
+        "name": "Padua’s fourteenth-century fresco cycles",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

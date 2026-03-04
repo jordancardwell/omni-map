@@ -1,0 +1,16 @@
+{
+  "code": "fortifications-of-vauban",
+  "name": "Fortifications of Vauban",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Fortifications of Vauban consists of 12 groups of fortified buildings and sites along the western, northern and eastern borders of France. They represent the finest examples of the work of Sébastien Le Prestre de Vauban (1633-1707), a military engineer of King Louis XIV. The serial property includes towns built from scratch by Vauban, citadels, urban bastion walls and bastion towers. There are also mountain forts, sea forts, a mountain battery and two mountain communication structures. This property is inscribed as bearing witness to the peak of classic fortifications, typical of western military architecture. Vauban also played a major role in the history of fortification in Europe and on other continents until the mid-19th century.",
+  "danger": false,
+  "geojson": "fortifications-of-vauban.geojson"
+}

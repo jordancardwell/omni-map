@@ -1,0 +1,15 @@
+{
+  "code": "volcanoes-and-forests-of-mount-pelee-and-the-pitons-of-northern-martinique",
+  "name": "Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique",
+  "type": "Natural",
+  "country": "France",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(viii)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The global significance of Mount Pelée and Pitons du Carbet is based on its representation of volcanic processes and forest types. The 1902 eruption is considered the deadliest volcanic event of the 20th century, and a worldwide reference for the history of volcanology. All the forest types and the diversity of endemic plants of the Lesser Antilles are represented in the serial property, within forest continuums ranging from the seashore to the volcanic summits. The property is home to globally threatened species such as the Martinique Volcano Frog (Allobates chalcopis) and the Martinique Oriole (Icterus bonana), two strict endemics.",
+  "danger": false,
+  "geojson": "volcanoes-and-forests-of-mount-pelee-and-the-pitons-of-northern-martinique.geojson"
+}

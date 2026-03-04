@@ -1,0 +1,18 @@
+{
+  "code": "cape-canaveral-sfs",
+  "name": "Cape Canaveral Space Force Station",
+  "country": "United States",
+  "operator": "USSF / ULA / SpaceX",
+  "coordinates": "28.4889°N, 80.5778°W",
+  "status": "Active",
+  "notableLaunches": [
+    "Mercury-Atlas 6 (first US orbital)",
+    "Mariner 2",
+    "Mars Reconnaissance Orbiter",
+    "Parker Solar Probe"
+  ],
+  "orbitalInclinationRange": "28.5°–57°",
+  "location": "Cape Canaveral Space Force Station, United States",
+  "description": "Adjacent to Kennedy Space Center, this military spaceport has hosted launches since 1950. Multiple active pads support Atlas V, Falcon 9, and Vulcan Centaur missions.",
+  "geojson": "cape-canaveral-sfs.geojson"
+}

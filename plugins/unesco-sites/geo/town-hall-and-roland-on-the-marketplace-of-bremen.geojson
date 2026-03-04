@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.807472222,
+          53.07597222
+        ]
+      },
+      "properties": {
+        "code": "town-hall-and-roland-on-the-marketplace-of-bremen",
+        "name": "Town Hall and Roland on the Marketplace of Bremen",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

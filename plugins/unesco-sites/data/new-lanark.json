@@ -1,0 +1,15 @@
+{
+  "code": "new-lanark",
+  "name": "New Lanark",
+  "type": "Cultural",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "New Lanark is a small 18th- century village set in a sublime Scottish landscape where the philanthropist and Utopian idealist Robert Owen moulded a model industrial community in the early 19th century. The imposing cotton mill buildings, the spacious and well-designed workers' housing, and the dignified educational institute and school still testify to Owen's humanism.",
+  "danger": false,
+  "geojson": "new-lanark.geojson"
+}

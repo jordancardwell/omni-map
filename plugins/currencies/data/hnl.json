@@ -1,0 +1,16 @@
+{
+  "code": "hnl",
+  "name": "Honduran Lempira",
+  "isoCode": "HNL",
+  "symbol": "L",
+  "region": "Americas",
+  "centralBank": "Central Bank of Honduras",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Honduras"
+  ],
+  "countryCount": 1,
+  "description": "The Lempira is named after a 16th-century indigenous leader who resisted Spanish conquest.",
+  "historicalNotes": "Introduced in 1931, replacing the peso at a rate of 1:1. Honduras has maintained relatively stable monetary policy compared to some regional peers.",
+  "geojson": "hnl.geojson"
+}

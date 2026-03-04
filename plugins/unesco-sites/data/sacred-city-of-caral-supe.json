@@ -1,0 +1,16 @@
+{
+  "code": "sacred-city-of-caral-supe",
+  "name": "Sacred City of Caral-Supe",
+  "type": "Cultural",
+  "country": "Peru",
+  "yearInscribed": "2009",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The 5000-year-old 626-hectare archaeological site of The Sacred City of Caral-Supe is situated on a dry desert terrace overlooking the green valley of the Supe river. It dates back to the Late Archaic Period of the Central Andes and is the oldest centre of civilization in the Americas. Exceptionally well-preserved, the site is impressive in terms of its design and the complexity of its architectural, especially its monumental stone and earthen platform mounts and sunken circular courts. One of 18 urban settlements situated in the same area, Caral features complex and monumental architecture, including six large pyramidal structures. A quipu (the knot system used in Andean civilizations to record information) found on the site testifies to the development and complexity of Caral society. The city’s plan and some of its components, including pyramidal structures and residence of the elite, show clear evidence of ceremonial functions, signifying a powerful religious ideology.",
+  "danger": false,
+  "geojson": "sacred-city-of-caral-supe.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40805556,
+          -15.81944444
+        ]
+      },
+      "properties": {
+        "code": "mana-pools-national-park-sapi-and-chewore-safari-areas",
+        "name": "Mana Pools National Park, Sapi and Chewore Safari Areas",
+        "type": "Natural",
+        "country": "Zimbabwe",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "irr",
+  "name": "Iranian Rial",
+  "isoCode": "IRR",
+  "symbol": "﷼",
+  "region": "Middle East",
+  "centralBank": "Central Bank of Iran",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Iran"
+  ],
+  "countryCount": 1,
+  "description": "The Iranian Rial is one of the world's lowest-valued currencies. Iranians commonly use the 'toman' (1 toman = 10 rials) in daily transactions.",
+  "historicalNotes": "The rial has been used since 1798. International sanctions have significantly affected the currency's value since 2012.",
+  "geojson": "irr.geojson"
+}

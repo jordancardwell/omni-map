@@ -1,0 +1,14 @@
+{
+  "code": "fuzhou",
+  "name": "Port of Fuzhou",
+  "country": "China",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 200,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "South China Sea Route"
+  ],
+  "description": "Port of Fuzhou in China. Annual cargo throughput: ~200 million tons. Type: Container Port.",
+  "geojson": "fuzhou.geojson"
+}

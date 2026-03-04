@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4855556,
+          37.26166667
+        ]
+      },
+      "properties": {
+        "code": "mesa-verde-national-park",
+        "name": "Mesa Verde National Park",
+        "type": "Cultural",
+        "country": "United States of America",
+        "yearInscribed": "1978"
+      }
+    }
+  ]
+}

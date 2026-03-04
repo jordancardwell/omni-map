@@ -1,0 +1,18 @@
+{
+  "code": "lhr-mad",
+  "name": "London — Madrid",
+  "airports": [
+    "LHR",
+    "MAD"
+  ],
+  "distanceKm": 1244,
+  "weeklyFlights": 130,
+  "airlines": [
+    "British Airways",
+    "Iberia"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "LHR–MAD route between London and Madrid. Distance: 1,244 km. ~130 weekly flights operated by British Airways, Iberia.",
+  "geojson": "lhr-mad.geojson"
+}

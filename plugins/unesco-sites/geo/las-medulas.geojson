@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77075,
+          42.46939
+        ]
+      },
+      "properties": {
+        "code": "las-medulas",
+        "name": "Las Médulas",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.23889,
+          -22.1925
+        ]
+      },
+      "properties": {
+        "code": "mapungubwe-cultural-landscape",
+        "name": "Mapungubwe Cultural Landscape",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "carnival-binche",
+  "name": "Carnival of Binche",
+  "festivalType": "Cultural",
+  "dateOrSeason": "Shrove Tuesday",
+  "origin": "Walloon Belgian tradition",
+  "estimatedAttendance": "100,000+ visitors",
+  "unescoICH": "Inscribed 2008",
+  "traditions": "Gilles dancers in wax masks and ostrich-feather hats; orange throwing; rondeau dances; drumming processions; traditional waffles.",
+  "historicalBackground": "Binche Carnival dates to the 14th century and is one of Europe's oldest surviving carnivals. The iconic Gilles costume may reference the Spanish conquest of Peru.",
+  "description": "Belgium's ancient carnival tradition featuring the iconic Gilles dancers in their wax masks and ostrich-feather hats, a UNESCO Masterpiece.",
+  "location": "Binche, Belgium",
+  "geojson": "carnival-binche.geojson"
+}

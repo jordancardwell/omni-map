@@ -1,0 +1,20 @@
+{
+  "code": "great-barrier-reef",
+  "name": "Great Barrier Reef",
+  "location": "Queensland, Australia",
+  "areaKm2": 344400,
+  "reefType": "Barrier",
+  "healthStatus": "Endangered",
+  "coralSpecies": 600,
+  "marineSpecies": 4000,
+  "threats": [
+    "Ocean warming",
+    "Coral bleaching",
+    "Crown-of-thorns starfish",
+    "Agricultural runoff",
+    "Coastal development"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site. Great Barrier Reef Marine Park Authority manages the reef with zoning plans. Reef 2050 Long-Term Sustainability Plan in effect.",
+  "description": "The Great Barrier Reef is the world's largest coral reef system, stretching over 2,300 km along the northeast coast of Australia. Composed of nearly 3,000 individual reef systems and hundreds of islands, it is visible from space and is one of Earth's most complex natural ecosystems.\n\nThe reef has suffered multiple mass bleaching events since 2016, with warming ocean temperatures being the primary threat. Despite conservation efforts, an estimated 50% of its coral cover has been lost since the 1990s. It remains critically important for marine biodiversity and supports a $6.4 billion tourism industry.",
+  "geojson": "great-barrier-reef.geojson"
+}

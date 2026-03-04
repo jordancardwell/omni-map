@@ -1,0 +1,17 @@
+{
+  "code": "the-great-wall",
+  "name": "The Great Wall",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "In c. 220 B.C., under Qin Shi Huang, sections of earlier fortifications were joined together to form a united defence system against invasions from the north. Construction continued up to the Ming dynasty (1368–1644), when the Great Wall became the world's largest military structure. Its historic and strategic importance is matched only by its architectural significance.",
+  "danger": false,
+  "geojson": "the-great-wall.geojson"
+}

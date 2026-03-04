@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "site-giza", "name": "Pyramids of Giza" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [31.1342, 29.9792]
+    }
+  }]
+}

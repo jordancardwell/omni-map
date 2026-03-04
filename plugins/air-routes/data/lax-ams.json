@@ -1,0 +1,18 @@
+{
+  "code": "lax-ams",
+  "name": "Los Angeles — Amsterdam",
+  "airports": [
+    "LAX",
+    "AMS"
+  ],
+  "distanceKm": 8956,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Delta",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAX–AMS route between Los Angeles and Amsterdam. Distance: 8,956 km. ~25 weekly flights operated by Delta, KLM.",
+  "geojson": "lax-ams.geojson"
+}

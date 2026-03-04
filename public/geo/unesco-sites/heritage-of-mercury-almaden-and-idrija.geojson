@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8388888889,
+          38.7752777778
+        ]
+      },
+      "properties": {
+        "code": "heritage-of-mercury-almaden-and-idrija",
+        "name": "Heritage of Mercury. Almadén and Idrija",
+        "type": "Cultural",
+        "country": "Spain, Slovenia",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

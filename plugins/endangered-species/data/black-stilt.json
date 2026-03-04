@@ -1,0 +1,18 @@
+{
+  "code": "black-stilt",
+  "name": "Black Stilt",
+  "scientificName": "Himantopus novaezelandiae",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~170 adults",
+  "populationTrend": "Increasing",
+  "habitatType": "Braided river and wetland",
+  "threats": [
+    "Predation by invasive mammals",
+    "Habitat loss",
+    "Hybridization with pied stilts"
+  ],
+  "conservationEfforts": "Department of Conservation captive breeding. Predator control in the Mackenzie Basin. Nest protection from floods. Population slowly increasing from a low of 23 adults in 1981.",
+  "description": "The world's rarest wading bird, found only in the braided rivers of New Zealand's South Island Mackenzie Basin. Its jet-black plumage is unique among stilts.",
+  "geojson": "black-stilt.geojson"
+}

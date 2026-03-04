@@ -1,0 +1,29 @@
+{
+  "code": "son-cubano",
+  "name": "Son Cubano",
+  "region": "Eastern Cuba",
+  "traditionFamily": "Caribbean",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Tres",
+    "Bongos",
+    "Maracas",
+    "Clave",
+    "Double Bass"
+  ],
+  "keyArtists": [
+    "Compay Segundo",
+    "Ibrahim Ferrer",
+    "Arsenio Rodríguez",
+    "Beny Moré",
+    "Buena Vista Social Club"
+  ],
+  "description": "Son cubano is the most influential Cuban music genre, originating in the eastern provinces (Oriente) in the late 19th century. It combines Spanish verse and guitar traditions with African-derived rhythms and percussion. The son is the foundation of salsa, mambo, and cha-cha-chá. The clave rhythm pattern is its rhythmic cornerstone.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Cuban Music",
+      "url": "https://folkways.si.edu/search?query=son+cubano"
+    }
+  ],
+  "geojson": "son-cubano.geojson"
+}

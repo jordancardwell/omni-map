@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7266,
+          17.0732
+        ]
+      },
+      "properties": {
+        "code": "night-of-radishes",
+        "name": "Night of the Radishes",
+        "festivalType": "Cultural",
+        "dateOrSeason": "December 23",
+        "location": "Oaxaca, Mexico"
+      }
+    }
+  ]
+}

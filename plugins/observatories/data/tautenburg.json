@@ -1,0 +1,20 @@
+{
+  "code": "tautenburg",
+  "name": "Thüringer Landessternwarte",
+  "country": "Germany",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 341,
+  "aperture": "2 m (Alfred Jensch)",
+  "telescopes": [
+    "Alfred Jensch 2m"
+  ],
+  "keyDiscoveries": [
+    "Exoplanet discoveries",
+    "Comet studies",
+    "Variable stars"
+  ],
+  "location": "Thüringer Landessternwarte, Germany",
+  "description": "Thuringian State Observatory near Tautenburg, housing the Alfred Jensch telescope, the largest optical instrument in Germany.",
+  "geojson": "tautenburg.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "jfk-dxb",
+  "name": "New York — Dubai",
+  "airports": [
+    "JFK",
+    "DXB"
+  ],
+  "distanceKm": 11001,
+  "weeklyFlights": 45,
+  "airlines": [
+    "Emirates",
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JFK–DXB route between New York and Dubai. Distance: 11,001 km. ~45 weekly flights operated by Emirates, JetBlue.",
+  "geojson": "jfk-dxb.geojson"
+}

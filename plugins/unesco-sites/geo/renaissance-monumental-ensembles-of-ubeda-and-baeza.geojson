@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.37122,
+          38.01131
+        ]
+      },
+      "properties": {
+        "code": "renaissance-monumental-ensembles-of-ubeda-and-baeza",
+        "name": "Renaissance Monumental Ensembles of Úbeda and Baeza",
+        "type": "Cultural",
+        "country": "Spain",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

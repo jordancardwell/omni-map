@@ -1,0 +1,17 @@
+{
+  "code": "saex1",
+  "name": "SAEx1",
+  "capacityTbps": 100,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6700,
+  "yearLaid": 2020,
+  "rfsDate": "2021-11",
+  "owner": "SAEx",
+  "landingPoints": [
+    "Virginia Beach, USA",
+    "Sesimbra, Portugal",
+    "Sines, Portugal"
+  ],
+  "description": "South Atlantic Express cable connecting North America to Portugal.",
+  "geojson": "saex1.geojson"
+}

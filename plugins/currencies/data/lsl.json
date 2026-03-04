@@ -1,0 +1,16 @@
+{
+  "code": "lsl",
+  "name": "Lesotho Loti",
+  "isoCode": "LSL",
+  "symbol": "L",
+  "region": "Africa",
+  "centralBank": "Central Bank of Lesotho",
+  "exchangeRateEra": "Pegged to ZAR at par",
+  "countries": [
+    "Lesotho"
+  ],
+  "countryCount": 1,
+  "description": "The Lesotho Loti (plural: maloti) is pegged at par with the South African Rand. Lesotho is entirely surrounded by South Africa.",
+  "historicalNotes": "Introduced in 1980. Lesotho is the only country in the world that lies entirely above 1,000 meters in elevation.",
+  "geojson": "lsl.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ellalink",
+  "name": "EllaLink",
+  "capacityTbps": 72,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6200,
+  "yearLaid": 2020,
+  "rfsDate": "2021-06",
+  "owner": "EllaLink",
+  "landingPoints": [
+    "Sines, Portugal",
+    "Fortaleza, Brazil"
+  ],
+  "description": "First direct submarine cable linking Europe to Latin America with ultra-low latency.",
+  "geojson": "ellalink.geojson"
+}

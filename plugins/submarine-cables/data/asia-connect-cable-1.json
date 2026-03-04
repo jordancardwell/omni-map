@@ -1,0 +1,20 @@
+{
+  "code": "asia-connect-cable-1",
+  "name": "Asia Connect Cable-1",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7500,
+  "yearLaid": 2019,
+  "rfsDate": "2021-12",
+  "owner": "Asia Connect Cable",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Tokyo, Japan",
+    "Batangas, Philippines",
+    "Kota Kinabalu, Malaysia",
+    "Batam, Indonesia"
+  ],
+  "description": "Pan-Asian cable system.",
+  "geojson": "asia-connect-cable-1.geojson"
+}

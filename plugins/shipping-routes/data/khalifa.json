@@ -1,0 +1,14 @@
+{
+  "code": "khalifa",
+  "name": "Khalifa Port",
+  "country": "UAE",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 45,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Khalifa Port in UAE. Annual cargo throughput: ~45 million tons. Type: Container Port.",
+  "geojson": "khalifa.geojson"
+}

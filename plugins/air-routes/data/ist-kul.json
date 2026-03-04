@@ -1,0 +1,17 @@
+{
+  "code": "ist-kul",
+  "name": "Istanbul — Kuala Lumpur",
+  "airports": [
+    "IST",
+    "KUL"
+  ],
+  "distanceKm": 8387,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Turkish Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "IST–KUL route between Istanbul and Kuala Lumpur. Distance: 8,387 km. ~25 weekly flights operated by Turkish Airlines.",
+  "geojson": "ist-kul.geojson"
+}

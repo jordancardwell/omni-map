@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681,
+          35.0116
+        ]
+      },
+      "properties": {
+        "code": "autumn-leaves-kyoto",
+        "name": "Koyo (Autumn Leaves)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "November–December",
+        "location": "Kyoto, Japan"
+      }
+    }
+  ]
+}

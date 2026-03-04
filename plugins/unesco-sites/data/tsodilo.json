@@ -1,0 +1,15 @@
+{
+  "code": "tsodilo",
+  "name": "Tsodilo",
+  "type": "Cultural",
+  "country": "Botswana",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "With one of the highest concentrations of rock art in the world, Tsodilo has been called the ''Louvre of the Desert''. Over 4,500 paintings are preserved in an area of only 10 km2 of the Kalahari Desert. The archaeological record of the area gives a chronological account of human activities and environmental changes over at least 100,000 years. Local communities in this hostile environment respect Tsodilo as a place of worship frequented by ancestral spirits.",
+  "danger": false,
+  "geojson": "tsodilo.geojson"
+}

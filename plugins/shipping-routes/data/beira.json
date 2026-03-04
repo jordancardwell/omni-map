@@ -1,0 +1,14 @@
+{
+  "code": "beira",
+  "name": "Port of Beira",
+  "country": "Mozambique",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "East African Coastal Route"
+  ],
+  "description": "Port of Beira in Mozambique. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+  "geojson": "beira.geojson"
+}

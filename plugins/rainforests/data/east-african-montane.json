@@ -1,0 +1,21 @@
+{
+  "code": "east-african-montane",
+  "name": "East African Montane Forests",
+  "country": "Tanzania, Kenya, Uganda, Rwanda, Democratic Republic of Congo, Ethiopia",
+  "forestType": "Tropical",
+  "areaKm2": 65000,
+  "intactness": "Severely Degraded",
+  "changeSince2000": "-9.4% (approximately 6,100 km² lost)",
+  "annualLossRate": "0.4–0.5% per year",
+  "threats": [
+    "Agricultural encroachment",
+    "Charcoal production",
+    "Illegal logging",
+    "Population pressure",
+    "Fire",
+    "Climate change"
+  ],
+  "conservationStatus": "Critical conservation zone with multiple protected areas: Bwindi Impenetrable Forest (gorillas), Mt. Kilimanjaro National Park, Eastern Arc Mountains. Eastern Arc recognized as a global biodiversity hotspot. REDD+ programs active. Community forest management expanding in Tanzania and Kenya.",
+  "description": "The **East African Montane Forests** are scattered along the highlands of East Africa, from the Ethiopian Highlands to the Eastern Arc Mountains of Tanzania. Despite their small total area, they harbor extraordinary biodiversity, particularly the ancient Eastern Arc Mountains.\n\n### Key Statistics\n- **Biodiversity**: ~4,000 plant species (30% endemic in Eastern Arc), mountain gorillas, endemic chameleons\n- **Mountain gorillas**: ~1,000 individuals in Virunga and Bwindi forests\n- **Eastern Arc**: Often called the \"Galápagos of Africa\" for extreme endemism\n- **Water provision**: Critical water towers for 30+ million people\n\n### Deforestation Trends\nThe IFL 2020 data shows highly fragmented forest patches across East Africa. Population growth and agricultural expansion continue to reduce forest area, though some countries (particularly Rwanda and Kenya) have launched ambitious tree planting programs. The montane forests' role as water catchments provides strong economic arguments for their protection.",
+  "geojson": "east-african-montane.geojson"
+}

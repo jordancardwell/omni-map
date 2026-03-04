@@ -1,0 +1,27 @@
+{
+  "code": "bortle-5-suburban",
+  "name": "Suburban Sky",
+  "bortleGroup": "3. Suburban (Class 5-6)",
+  "bortleClass": "Class 5 — Suburban Sky",
+  "skyBrightness": "20.49–21.25 mag/arcsec²",
+  "limitingMagnitude": "5.6–6.0",
+  "milkyWayVisibility": "Marginal — Milky Way visible overhead only on best nights; washed out near horizon",
+  "visibleObjects": [
+    "Milky Way (overhead only, faint)",
+    "Bright Messier objects",
+    "Bright planets obvious",
+    "Only brightest stars near horizon"
+  ],
+  "exampleLocations": [
+    "Outer suburbs of medium cities",
+    "Small towns near highways",
+    "Suburban Connecticut, USA",
+    "Outer suburbs of European cities"
+  ],
+  "nearestDarkSkyReserves": [
+    "South Downs National Park Dark Sky Reserve",
+    "Cranborne Chase Dark Sky"
+  ],
+  "description": "Typical suburban skies. The Milky Way is only marginally visible overhead on the clearest nights and is invisible near the horizon. Only the brightest deep-sky objects can be detected with the naked eye. Light pollution creates a noticeable overall sky glow, and clouds are noticeably brighter than the sky background. This is the most common sky quality for suburban residents in developed countries. About 30% of the global population lives under Class 5 skies. The naked-eye star count drops from thousands in dark skies to roughly 500-1000 visible stars.",
+  "geojson": "bortle-5-suburban.geojson"
+}

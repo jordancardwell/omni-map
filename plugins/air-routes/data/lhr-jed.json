@@ -1,0 +1,18 @@
+{
+  "code": "lhr-jed",
+  "name": "London — Jeddah",
+  "airports": [
+    "LHR",
+    "JED"
+  ],
+  "distanceKm": 4748,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Saudia",
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LHR–JED route between London and Jeddah. Distance: 4,748 km. ~35 weekly flights operated by Saudia, British Airways.",
+  "geojson": "lhr-jed.geojson"
+}

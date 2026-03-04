@@ -1,0 +1,15 @@
+{
+  "code": "stone-town-of-zanzibar",
+  "name": "Stone Town of Zanzibar",
+  "type": "Cultural",
+  "country": "United Republic of Tanzania",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Africa",
+  "description": "The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.",
+  "danger": false,
+  "geojson": "stone-town-of-zanzibar.geojson"
+}

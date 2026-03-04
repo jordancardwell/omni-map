@@ -1,0 +1,20 @@
+{
+  "code": "gn",
+  "name": "Guinea",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "F",
+    "K"
+  ],
+  "plugTypeCount": 3,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)",
+    "Type K — Three round pins (Danish style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European-style plugs.",
+  "geojson": "gn.geojson"
+}

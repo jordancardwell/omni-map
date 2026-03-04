@@ -1,0 +1,16 @@
+{
+  "code": "cm-ga-cable",
+  "name": "CM-GA Cable",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1537,
+  "yearLaid": 2015,
+  "rfsDate": "2022-06",
+  "owner": "Camtel",
+  "landingPoints": [
+    "Kribi, Cameroon",
+    "Libreville, Gabon"
+  ],
+  "description": "CM-GA Cable connecting Kribi to Libreville along the West African coast.",
+  "geojson": "cm-ga-cable.geojson"
+}

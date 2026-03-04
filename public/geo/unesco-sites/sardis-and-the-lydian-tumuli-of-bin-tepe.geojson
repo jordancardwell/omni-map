@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0452777778,
+          38.4819444444
+        ]
+      },
+      "properties": {
+        "code": "sardis-and-the-lydian-tumuli-of-bin-tepe",
+        "name": "Sardis and the Lydian Tumuli of Bin Tepe",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "trans-iranian-railway",
+  "name": "Trans-Iranian Railway",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2021",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Trans-Iranian Railway connects the Caspian Sea in the northeast with the Persian Gulf in the southwest crossing two mountain ranges as well as rivers, highlands, forests and plains, and four different climatic areas. Started in 1927 and completed in 1938, the 1,394-kilometre-long railway was designed and executed in a successful collaboration between the Iranian government and 43 construction contractors from many countries. The railway is notable for its scale and the engineering works it required to overcome steep routes and other difficulties. Its construction involved extensive mountain cutting in some areas, while the rugged terrain in others dictated the construction of 174 large bridges, 186 small bridges and 224 tunnels, including 11 spiral tunnels. Unlike most early railway projects, construction of the Trans-Iranian Railway was funded by national taxes to avoid foreign investment and control.",
+  "danger": false,
+  "geojson": "trans-iranian-railway.geojson"
+}

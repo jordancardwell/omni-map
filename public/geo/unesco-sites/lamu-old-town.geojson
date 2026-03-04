@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.8525,
+          -2.284444444
+        ]
+      },
+      "properties": {
+        "code": "lamu-old-town",
+        "name": "Lamu Old Town",
+        "type": "Cultural",
+        "country": "Kenya",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

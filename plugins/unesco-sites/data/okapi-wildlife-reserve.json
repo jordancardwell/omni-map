@@ -1,0 +1,14 @@
+{
+  "code": "okapi-wildlife-reserve",
+  "name": "Okapi Wildlife Reserve",
+  "type": "Natural",
+  "country": "Democratic Republic of the Congo",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "The Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-east of the Democratic Republic of the Congo. The Congo river basin, of which the reserve and forest are a part, is one of the largest drainage systems in Africa. The reserve contains threatened species of primates and birds and about 5,000 of the estimated 30,000 okapi surviving in the wild. It also has some dramatic scenery, including waterfalls on the Ituri and Epulu rivers. The reserve is inhabited by traditional nomadic pygmy Mbuti and Efe hunters.",
+  "danger": true,
+  "geojson": "okapi-wildlife-reserve.geojson"
+}

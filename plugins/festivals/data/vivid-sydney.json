@@ -1,0 +1,14 @@
+{
+  "code": "vivid-sydney",
+  "name": "Vivid Sydney",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "May–June",
+  "origin": "Australian tradition",
+  "estimatedAttendance": "2.5+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Light projections on Sydney Opera House and buildings; light sculptures; music performances; creative industry talks.",
+  "historicalBackground": "Vivid Sydney began in 2009 as a creative industries event. It has grown into the world's largest festival of light, music, and ideas.",
+  "description": "The world's largest festival of light, transforming Sydney's harbor and Opera House into a dazzling canvas of projected art.",
+  "location": "Sydney, Australia",
+  "geojson": "vivid-sydney.geojson"
+}

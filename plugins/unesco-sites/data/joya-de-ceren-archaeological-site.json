@@ -1,0 +1,15 @@
+{
+  "code": "joya-de-ceren-archaeological-site",
+  "name": "Joya de Cerén Archaeological Site",
+  "type": "Cultural",
+  "country": "El Salvador",
+  "yearInscribed": "1993",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Joya de Cerén was a pre-Hispanic farming community that, like Pompeii and Herculaneum in Italy, was buried under an eruption of the Laguna Caldera volcano c. AD 600. Because of the exceptional condition of the remains, they provide an insight into the daily lives of the Central American populations who worked the land at that time.",
+  "danger": false,
+  "geojson": "joya-de-ceren-archaeological-site.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc+1","name":"Central European Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[7.5,-60],[22.5,-60],[22.5,84],[7.5,84],[7.5,-60]]]}}]}

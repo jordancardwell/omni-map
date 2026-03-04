@@ -1,0 +1,17 @@
+{
+  "code": "kul-lhr",
+  "name": "Kuala Lumpur — London",
+  "airports": [
+    "KUL",
+    "LHR"
+  ],
+  "distanceKm": 10605,
+  "weeklyFlights": 20,
+  "airlines": [
+    "Malaysia Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "KUL–LHR route between Kuala Lumpur and London. Distance: 10,605 km. ~20 weekly flights operated by Malaysia Airlines.",
+  "geojson": "kul-lhr.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "andoya",
+  "name": "Andoya Spaceport",
+  "country": "Norway",
+  "operator": "Andoya Space",
+  "coordinates": "69.2945°N, 16.0209°E",
+  "status": "Active",
+  "notableLaunches": [
+    "Sounding rockets since 1962",
+    "Planned Isar Aerospace orbital launches"
+  ],
+  "orbitalInclinationRange": "87°–98° (polar/SSO)",
+  "location": "Andoya Spaceport, Norway",
+  "description": "Northern Norway's launch facility with over 1,200 sounding rocket launches since 1962. Being upgraded for orbital launches by commercial operators like Isar Aerospace.",
+  "geojson": "andoya.geojson"
+}

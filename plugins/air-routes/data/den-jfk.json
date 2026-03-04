@@ -1,0 +1,18 @@
+{
+  "code": "den-jfk",
+  "name": "Denver — New York",
+  "airports": [
+    "DEN",
+    "JFK"
+  ],
+  "distanceKm": 2610,
+  "weeklyFlights": 50,
+  "airlines": [
+    "United",
+    "Delta"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "DEN–JFK route between Denver and New York. Distance: 2,610 km. ~50 weekly flights operated by United, Delta.",
+  "geojson": "den-jfk.geojson"
+}

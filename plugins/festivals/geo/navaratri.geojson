@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5714,
+          23.0225
+        ]
+      },
+      "properties": {
+        "code": "navaratri",
+        "name": "Navaratri",
+        "festivalType": "Religious",
+        "dateOrSeason": "September–October",
+        "location": "Ahmedabad, India"
+      }
+    }
+  ]
+}

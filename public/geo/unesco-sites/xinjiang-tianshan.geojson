@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3541666667,
+          41.9683333333
+        ]
+      },
+      "properties": {
+        "code": "xinjiang-tianshan",
+        "name": "Xinjiang Tianshan",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "wallacea",
+  "name": "Wallacea",
+  "location": "Eastern Indonesia (Sulawesi, Lombok, Flores, Timor, Maluku)",
+  "areaKm2": 338494,
+  "habitatRemaining": "15.0%",
+  "plantSpecies": 10000,
+  "endemicPlants": 1500,
+  "vertebrateSpecies": 1142,
+  "endemicVertebrates": 490,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Anoa",
+    "Babirusa",
+    "Maleo bird",
+    "Komodo dragon",
+    "Red-knobbed hornbill"
+  ],
+  "threats": [
+    "Logging",
+    "Mining",
+    "Agriculture",
+    "Invasive species",
+    "Overexploitation"
+  ],
+  "conservationEfforts": "Komodo National Park protects the dragon's habitat. Tangkoko Nature Reserve in Sulawesi protects key species. Community-based marine management in Raja Ampat. Babirusa and anoa conservation breeding programs.",
+  "description": "Wallacea, named after naturalist Alfred Russel Wallace, encompasses the islands of eastern Indonesia between the Sunda Shelf and the Sahul Shelf. Never connected by land bridges to either Asia or Australia, these islands harbor a distinctive transitional fauna.\n\nWallace's Line, the biogeographic boundary that passes through this region, marks one of the sharpest faunal transitions on Earth. Sulawesi's fauna is particularly unusual, with species like the babirusa ('pig-deer') and anoa (dwarf buffalo) found nowhere else. The region also includes Komodo, home to the world's largest lizard, and Flores, where the diminutive 'Hobbit' hominin (Homo floresiensis) was discovered.",
+  "geojson": "wallacea.geojson"
+}

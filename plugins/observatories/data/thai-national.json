@@ -1,0 +1,20 @@
+{
+  "code": "thai-national",
+  "name": "Thai National Observatory",
+  "country": "Thailand",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2457,
+  "aperture": "2.4 m",
+  "telescopes": [
+    "Thai National Telescope 2.4m"
+  ],
+  "keyDiscoveries": [
+    "Transient follow-up",
+    "Stellar spectroscopy",
+    "Variable stars"
+  ],
+  "location": "Thai National Observatory, Thailand",
+  "description": "NARIT's flagship facility on Doi Inthanon, Thailand's highest peak. The 2.4m telescope is the largest in Southeast Asia.",
+  "geojson": "thai-national.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "atl-bos",
+  "name": "Atlanta — Boston",
+  "airports": [
+    "ATL",
+    "BOS"
+  ],
+  "distanceKm": 1521,
+  "weeklyFlights": 80,
+  "airlines": [
+    "Delta",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ATL–BOS route between Atlanta and Boston. Distance: 1,521 km. ~80 weekly flights operated by Delta, JetBlue.",
+  "geojson": "atl-bos.geojson"
+}

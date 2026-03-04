@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8669444444,
+          50.4922222222
+        ]
+      },
+      "properties": {
+        "code": "the-great-spa-towns-of-europe",
+        "name": "The Great Spa Towns of Europe",
+        "type": "Cultural",
+        "country": "Italy, France, Austria, Belgium, United Kingdom of Great Britain and Northern Ireland, Germany, Czechia",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

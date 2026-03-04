@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"cm","name":"Cameroon","country":"CM","speedTier":"Slow (10–30 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[8.5,1.7],[8.5,13.1],[16.2,13.1],[16.2,1.7],[8.5,1.7]]]}}]}

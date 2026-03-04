@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.409,-16.294]},"properties":{"code":"misti","name":"El Misti","volcanoType":"Stratovolcano","status":"Dormant","elevation":5822,"lastEruption":"1470","vei":3}}]}

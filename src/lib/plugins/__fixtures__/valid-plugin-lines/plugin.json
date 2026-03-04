@@ -1,0 +1,15 @@
+{
+  "id": "rivers",
+  "name": "Major Rivers",
+  "description": "Major rivers of the world",
+  "type": "lines",
+  "version": "1.0.0",
+  "icon": "waves",
+  "defaultColor": "#3498DB",
+  "categories": ["geography", "hydrology"],
+  "dataType": "lines",
+  "dataSource": "static",
+  "category": "geography",
+  "thumbnail": "#3498DB",
+  "schema": "RiverMetadata"
+}

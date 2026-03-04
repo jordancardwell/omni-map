@@ -1,0 +1,15 @@
+{
+  "code": "archaeological-site-of-aigai-modern-name-vergina",
+  "name": "Archaeological Site of Aigai (modern name Vergina)",
+  "type": "Cultural",
+  "country": "Greece",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The city of Aigai, the ancient first capital of the Kingdom of Macedonia, was discovered in the 19th century near Vergina, in northern Greece. The most important remains are the monumental palace, lavishly decorated with mosaics and painted stuccoes, and the burial ground with more than 300 tumuli, some of which date from the 11th century B.C. One of the royal tombs in the Great Tumulus is identified as that of Philip II, who conquered all the Greek cities, paving the way for his son Alexander and the expansion of the Hellenistic world.",
+  "danger": false,
+  "geojson": "archaeological-site-of-aigai-modern-name-vergina.geojson"
+}

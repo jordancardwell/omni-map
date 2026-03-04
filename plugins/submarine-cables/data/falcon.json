@@ -1,0 +1,21 @@
+{
+  "code": "falcon",
+  "name": "Falcon",
+  "capacityTbps": 5.12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 10800,
+  "yearLaid": 2006,
+  "rfsDate": "2006-09",
+  "owner": "FLAG Telecom (Reliance Globalcom)",
+  "landingPoints": [
+    "Mumbai, India",
+    "Fujairah, UAE",
+    "Muscat, Oman",
+    "Aden, Yemen",
+    "Djibouti, Djibouti",
+    "Suez, Egypt",
+    "Alexandria, Egypt"
+  ],
+  "description": "Falcon cable providing connectivity from India to Egypt via the Gulf.",
+  "geojson": "falcon.geojson"
+}

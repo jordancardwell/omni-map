@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3745833333,
+          -25.6876111111
+        ]
+      },
+      "properties": {
+        "code": "khomani-cultural-landscape",
+        "name": "ǂKhomani Cultural Landscape",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "2017"
+      }
+    }
+  ]
+}

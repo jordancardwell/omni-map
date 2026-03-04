@@ -1,0 +1,12 @@
+{
+  "code": "szx",
+  "name": "Shenzhen Bao'an International",
+  "iataCode": "SZX",
+  "city": "Shenzhen",
+  "country": "China",
+  "annualPassengers": 42500000,
+  "classification": "International Hub",
+  "itemCategory": "International Hub",
+  "description": "Shenzhen Bao'an International (SZX) in Shenzhen, China. Annual passengers: ~42.5M. Classification: International Hub.",
+  "geojson": "szx.geojson"
+}

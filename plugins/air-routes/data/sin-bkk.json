@@ -1,0 +1,19 @@
+{
+  "code": "sin-bkk",
+  "name": "Singapore — Bangkok",
+  "airports": [
+    "SIN",
+    "BKK"
+  ],
+  "distanceKm": 1416,
+  "weeklyFlights": 280,
+  "airlines": [
+    "Singapore Airlines",
+    "Thai Airways",
+    "Scoot"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "SIN–BKK route between Singapore and Bangkok. Distance: 1,416 km. ~280 weekly flights operated by Singapore Airlines, Thai Airways, Scoot.",
+  "geojson": "sin-bkk.geojson"
+}

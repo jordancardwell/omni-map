@@ -1,0 +1,21 @@
+{
+  "code": "vera-rubin",
+  "name": "Vera C. Rubin Observatory",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Under Construction",
+  "elevation": 2663,
+  "aperture": "8.4 m",
+  "telescopes": [
+    "Simonyi Survey Telescope",
+    "LSST Camera"
+  ],
+  "keyDiscoveries": [
+    "Expected: Legacy Survey of Space and Time",
+    "Dark energy/matter",
+    "Near-Earth objects"
+  ],
+  "location": "Vera C. Rubin Observatory, Chile",
+  "description": "Formerly LSST. Will photograph the entire visible sky every few nights for 10 years, producing a 500 petabyte dataset to revolutionize time-domain astronomy.",
+  "geojson": "vera-rubin.geojson"
+}

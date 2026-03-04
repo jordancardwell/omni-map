@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-philippines",
+  "name": "Independence Day (Philippines)",
+  "festivalType": "National",
+  "dateOrSeason": "June 12",
+  "origin": "Filipino national",
+  "estimatedAttendance": "115+ million Filipinos",
+  "unescoICH": "Not inscribed",
+  "traditions": "Flag-raising at Kawit; reenactment of independence declaration; parades; cultural performances; fireworks.",
+  "historicalBackground": "Philippine Independence Day marks June 12, 1898, when General Emilio Aguinaldo proclaimed independence from Spanish colonial rule.",
+  "description": "The Philippines' celebration of independence from Spain, with patriotic ceremonies reenacting the historic declaration at Kawit.",
+  "location": "Manila, Philippines",
+  "geojson": "independence-day-philippines.geojson"
+}

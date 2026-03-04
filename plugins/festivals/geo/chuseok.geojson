@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.5665
+        ]
+      },
+      "properties": {
+        "code": "chuseok",
+        "name": "Chuseok",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "15th of 8th lunar month",
+        "location": "Seoul, South Korea"
+      }
+    }
+  ]
+}

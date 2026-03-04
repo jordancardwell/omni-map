@@ -1,0 +1,22 @@
+{
+  "code": "mount-wilson",
+  "name": "Mount Wilson Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1742,
+  "aperture": "2.5 m",
+  "telescopes": [
+    "Hooker 100-inch",
+    "60-inch",
+    "CHARA Array"
+  ],
+  "keyDiscoveries": [
+    "Expanding universe (Hubble)",
+    "Stellar classification",
+    "Star diameters"
+  ],
+  "location": "Mount Wilson Observatory, United States",
+  "description": "Historic observatory where Edwin Hubble discovered the expanding universe. Now hosts the CHARA interferometric array achieving the highest angular resolution in optical astronomy.",
+  "geojson": "mount-wilson.geojson"
+}

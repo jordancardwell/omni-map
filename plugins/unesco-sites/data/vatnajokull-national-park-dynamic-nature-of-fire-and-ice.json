@@ -1,0 +1,14 @@
+{
+  "code": "vatnajokull-national-park-dynamic-nature-of-fire-and-ice",
+  "name": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+  "type": "Natural",
+  "country": "Iceland",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age.",
+  "danger": false,
+  "geojson": "vatnajokull-national-park-dynamic-nature-of-fire-and-ice.geojson"
+}

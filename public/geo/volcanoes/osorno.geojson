@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.493,-41.108]},"properties":{"code":"osorno","name":"Osorno","volcanoType":"Stratovolcano","status":"Dormant","elevation":2652,"lastEruption":"1869","vei":2}}]}

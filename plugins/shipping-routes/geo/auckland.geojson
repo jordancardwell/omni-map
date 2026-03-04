@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"auckland","name":"Port of Auckland","featureType":"port","portType":"Container Port","country":"New Zealand"},"geometry":{"type":"Point","coordinates":[174.77,-36.84]}}]}

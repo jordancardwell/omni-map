@@ -1,0 +1,16 @@
+{
+  "code": "ng-bj-cable",
+  "name": "NG-BJ Cable",
+  "capacityTbps": 2,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 4650,
+  "yearLaid": 2018,
+  "rfsDate": "2019-06",
+  "owner": "Glo",
+  "landingPoints": [
+    "Lagos, Nigeria",
+    "Cotonou, Benin"
+  ],
+  "description": "NG-BJ Cable connecting Lagos to Cotonou.",
+  "geojson": "ng-bj-cable.geojson"
+}

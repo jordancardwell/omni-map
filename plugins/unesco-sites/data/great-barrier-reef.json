@@ -1,0 +1,17 @@
+{
+  "code": "great-barrier-reef",
+  "name": "Great Barrier Reef",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Great Barrier Reef is a site of remarkable variety and beauty on the north-east coast of Australia. It contains the world’s largest collection of coral reefs, with 400 types of coral, 1,500 species of fish and 4,000 types of mollusc. It also holds great scientific interest as the habitat of species such as the dugong (‘sea cow’) and the large green turtle, which are threatened with extinction.",
+  "danger": false,
+  "geojson": "great-barrier-reef.geojson"
+}

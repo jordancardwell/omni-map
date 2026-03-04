@@ -1,0 +1,18 @@
+{
+  "code": "totoaba",
+  "name": "Totoaba",
+  "scientificName": "Totoaba macdonaldi",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely depleted",
+  "populationTrend": "Decreasing",
+  "habitatType": "Gulf of California",
+  "threats": [
+    "Illegal fishing for swim bladder",
+    "Bycatch",
+    "Habitat degradation"
+  ],
+  "conservationEfforts": "Swim bladder trade ban (each can sell for $46,000 in China). Captive breeding for population supplementation. Enforcement patrols in the upper Gulf of California.",
+  "description": "A large croaker fish whose swim bladder is worth more than gold by weight in Chinese traditional medicine markets. Illegal totoaba gillnets also kill the critically endangered vaquita porpoise.",
+  "geojson": "totoaba.geojson"
+}

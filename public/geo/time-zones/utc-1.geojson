@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"utc-1","name":"Azores Standard Time","region":"Main zone"},"geometry":{"type":"Polygon","coordinates":[[[-22.5,-60],[-7.5,-60],[-7.5,84],[-22.5,84],[-22.5,-60]]]}}]}

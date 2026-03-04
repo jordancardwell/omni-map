@@ -1,0 +1,17 @@
+{
+  "code": "cn",
+  "name": "China",
+  "avgDownloadMbps": 178.9,
+  "avgUploadMbps": 98.4,
+  "avgLatencyMs": 13,
+  "mobileDownloadMbps": 118.3,
+  "mobileUploadMbps": 22.6,
+  "fixedDownloadMbps": 178.9,
+  "fixedUploadMbps": 98.4,
+  "rank": 18,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "Massive 5G deployment and fiber expansion. ~12% year-over-year growth.",
+  "geojson": "cn.geojson"
+}

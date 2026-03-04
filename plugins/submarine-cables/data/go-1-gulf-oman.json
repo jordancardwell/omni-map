@@ -1,0 +1,19 @@
+{
+  "code": "go-1-gulf-oman",
+  "name": "GO-1 (Gulf-Oman)",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 1500,
+  "yearLaid": 2018,
+  "rfsDate": "2018-12",
+  "owner": "Gulf Bridge International",
+  "landingPoints": [
+    "Muscat, Oman",
+    "Fujairah, UAE",
+    "Doha, Qatar",
+    "Manama, Bahrain",
+    "Kuwait City, Kuwait"
+  ],
+  "description": "Gulf of Oman cable connecting Gulf states.",
+  "geojson": "go-1-gulf-oman.geojson"
+}

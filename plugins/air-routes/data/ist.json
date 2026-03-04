@@ -1,0 +1,12 @@
+{
+  "code": "ist",
+  "name": "Istanbul Airport",
+  "iataCode": "IST",
+  "city": "Istanbul",
+  "country": "Turkey",
+  "annualPassengers": 71500000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "Istanbul Airport (IST) in Istanbul, Turkey. Annual passengers: ~71.5M. Classification: Mega Hub.",
+  "geojson": "ist.geojson"
+}

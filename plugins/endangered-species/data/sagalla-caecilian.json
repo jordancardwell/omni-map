@@ -1,0 +1,18 @@
+{
+  "code": "sagalla-caecilian",
+  "name": "Sagalla Caecilian",
+  "scientificName": "Boulengerula niedeni",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Montane forest soil",
+  "threats": [
+    "Habitat loss",
+    "Agriculture",
+    "Eucalyptus plantations"
+  ],
+  "conservationEfforts": "Community reforestation project on Sagalla Hill replaces exotic trees with native species. Research at the National Museums of Kenya studies ecology and threats.",
+  "description": "A limbless amphibian that lives entirely underground in the soil of a single hill in southeastern Kenya. Mothers feed their young by allowing them to eat their own skin.",
+  "geojson": "sagalla-caecilian.geojson"
+}

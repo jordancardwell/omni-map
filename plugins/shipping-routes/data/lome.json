@@ -1,0 +1,14 @@
+{
+  "code": "lome",
+  "name": "Port of Lomé",
+  "country": "Togo",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "West African Coastal Route"
+  ],
+  "description": "Port of Lomé in Togo. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+  "geojson": "lome.geojson"
+}

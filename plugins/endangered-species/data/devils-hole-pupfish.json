@@ -1,0 +1,19 @@
+{
+  "code": "devils-hole-pupfish",
+  "name": "Devils Hole Pupfish",
+  "scientificName": "Cyprinodon diabolis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~175-263 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Single desert pool",
+  "threats": [
+    "Groundwater depletion",
+    "Climate change",
+    "Flash floods",
+    "Small population size"
+  ],
+  "conservationEfforts": "Devils Hole declared a national monument by President Truman in 1952. Supreme Court case protected water levels. Refuge populations established at Ash Meadows Fish Conservation Facility.",
+  "description": "Lives in a single water-filled cavern in the Nevada desert — the smallest known habitat of any vertebrate. The visible shelf they depend on for spawning is just 3.5 x 5.5 meters.",
+  "geojson": "devils-hole-pupfish.geojson"
+}

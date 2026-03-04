@@ -1,0 +1,16 @@
+{
+  "code": "crc",
+  "name": "Costa Rican Colón",
+  "isoCode": "CRC",
+  "symbol": "₡",
+  "region": "Americas",
+  "centralBank": "Central Bank of Costa Rica",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Costa Rica"
+  ],
+  "countryCount": 1,
+  "description": "The Colón is named after Christopher Columbus (Cristóbal Colón in Spanish). Costa Rica is known for its stable democracy and environmental conservation.",
+  "historicalNotes": "Introduced in 1896, replacing the peso. Costa Rica abolished its military in 1948, redirecting resources to education and healthcare.",
+  "geojson": "crc.geojson"
+}

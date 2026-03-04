@@ -1,0 +1,18 @@
+{
+  "code": "chinese-paddlefish",
+  "name": "Chinese Paddlefish",
+  "scientificName": "Psephurus gladius",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Declared extinct in 2020",
+  "populationTrend": "Decreasing",
+  "habitatType": "Large river (Yangtze)",
+  "threats": [
+    "Dam construction",
+    "Overfishing",
+    "Habitat loss"
+  ],
+  "conservationEfforts": "Declared functionally extinct in 2019 and officially extinct in 2022. The Gezhouba Dam blocked migration routes in 1981. Despite decades of conservation attempts, the species could not be saved.",
+  "description": "Once one of the world's largest freshwater fish at 7 meters long, the Chinese paddlefish was declared extinct in 2022. The last confirmed sighting was in 2003. Dam construction on the Yangtze sealed its fate.",
+  "geojson": "chinese-paddlefish.geojson"
+}

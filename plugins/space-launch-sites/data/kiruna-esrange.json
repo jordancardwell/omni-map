@@ -1,0 +1,16 @@
+{
+  "code": "kiruna-esrange",
+  "name": "Esrange Orbital Launch Pad",
+  "country": "Sweden",
+  "operator": "SSC / RFA",
+  "coordinates": "67.8900°N, 21.1100°E",
+  "status": "Planned",
+  "notableLaunches": [
+    "RFA ONE (planned)",
+    "Isar Aerospace Spectrum (considered)"
+  ],
+  "orbitalInclinationRange": "87°–98° (polar/SSO)",
+  "location": "Esrange Orbital Launch Pad, Sweden",
+  "description": "Planned orbital launch pad at Esrange Space Center for Rocket Factory Augsburg's RFA ONE small launch vehicle. Part of Europe's push for independent small-satellite launch capability.",
+  "geojson": "kiruna-esrange.geojson"
+}

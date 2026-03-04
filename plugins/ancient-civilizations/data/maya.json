@@ -1,0 +1,12 @@
+{
+  "code": "maya",
+  "name": "Maya Civilization",
+  "period": "c. 2000 BCE – 1500 CE",
+  "region": "Mesoamerica",
+  "type": "Civilization",
+  "writingSystem": "Maya hieroglyphs",
+  "majorAchievements": ["Calendar system", "Concept of zero", "Astronomical observations", "Stepped pyramids", "Hieroglyphic writing", "Advanced agriculture"],
+  "keyCities": ["Tikal", "Chichén Itzá", "Palenque", "Copán", "Calakmul"],
+  "description": "The Maya civilization of Mesoamerica developed one of the most sophisticated writing systems in the pre-Columbian Americas, along with remarkable achievements in mathematics, astronomy, and architecture. Maya city-states were connected through trade networks and shared cultural practices while maintaining distinct political identities. Their calendar system and astronomical knowledge were among the most precise in the ancient world.",
+  "geojson": "maya.geojson"
+}

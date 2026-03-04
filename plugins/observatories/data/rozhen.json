@@ -1,0 +1,22 @@
+{
+  "code": "rozhen",
+  "name": "Rozhen National Astronomical Observatory",
+  "country": "Bulgaria",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 1759,
+  "aperture": "2 m",
+  "telescopes": [
+    "Ritchey-Chrétien 2m",
+    "Schmidt",
+    "Coudé"
+  ],
+  "keyDiscoveries": [
+    "Spectropolarimetry of stars",
+    "Photometric monitoring",
+    "Asteroid observations"
+  ],
+  "location": "Rozhen National Astronomical Observatory, Bulgaria",
+  "description": "Bulgaria's national observatory in the Rhodope Mountains. The 2m Ritchey-Chrétien telescope is the largest in Southeastern Europe.",
+  "geojson": "rozhen.geojson"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "kagu",
+  "name": "Kagu",
+  "scientificName": "Rhynochetos jubatus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~2,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Montane rainforest",
+  "threats": [
+    "Predation by dogs and cats",
+    "Habitat loss",
+    "Introduced pigs and rats"
+  ],
+  "conservationEfforts": "Rivière Bleue Provincial Park is the stronghold. Dog control and exclusion fencing. Captive breeding for population supplementation. Predator control across range.",
+  "description": "Found only in the forests of New Caledonia, this nearly flightless bird with powder-blue plumage and a dramatic crest has no close living relatives. It stamps its feet to flush prey from leaf litter.",
+  "geojson": "kagu.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.05,
+          17.48333
+        ]
+      },
+      "properties": {
+        "code": "pre-hispanic-city-and-national-park-of-palenque",
+        "name": "Pre-Hispanic City and National Park of Palenque",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "yellow-ac-2",
+  "name": "Yellow/AC-2",
+  "capacityTbps": 2.56,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 6400,
+  "yearLaid": 2000,
+  "rfsDate": "2000-12",
+  "owner": "Level 3 Communications",
+  "landingPoints": [
+    "Brookhaven, USA",
+    "Bude, UK"
+  ],
+  "description": "Atlantic Crossing-2, one of the first private transatlantic cables.",
+  "geojson": "yellow-ac-2.geojson"
+}

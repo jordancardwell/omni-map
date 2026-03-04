@@ -1,0 +1,15 @@
+{
+  "code": "hallstatt-dachstein-salzkammergut-cultural-landscape",
+  "name": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+  "type": "Cultural",
+  "country": "Austria",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Human activity in the magnificent natural landscape of the Salzkammergut began in prehistoric times, with the salt deposits being exploited as early as the 2nd millennium BC. This resource formed the basis of the area’s prosperity up to the middle of the 20th century, a prosperity that is reflected in the fine architecture of the town of Hallstatt.",
+  "danger": false,
+  "geojson": "hallstatt-dachstein-salzkammergut-cultural-landscape.geojson"
+}

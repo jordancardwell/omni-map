@@ -1,0 +1,16 @@
+{
+  "code": "villa-romana-del-casale",
+  "name": "Villa Romana del Casale",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Roman exploitation of the countryside is symbolized by the Villa Romana del Casale (in Sicily), the centre of the large estate upon which the rural economy of the Western Empire was based. The villa is one of the most luxurious of its kind. It is especially noteworthy for the richness and quality of the mosaics which decorate almost every room; they are the finest mosaics in situ anywhere in the Roman world.",
+  "danger": false,
+  "geojson": "villa-romana-del-casale.geojson"
+}

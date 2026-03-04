@@ -1,0 +1,17 @@
+{
+  "code": "kapustin-yar",
+  "name": "Kapustin Yar",
+  "country": "Russia",
+  "operator": "Russian MOD",
+  "coordinates": "48.5700°N, 46.2530°E",
+  "status": "Historical",
+  "notableLaunches": [
+    "R-1 (first Soviet ballistic missile)",
+    "Cosmos-1 (first orbital)",
+    "Early ICBM tests"
+  ],
+  "orbitalInclinationRange": "48°–51°",
+  "location": "Kapustin Yar, Russia",
+  "description": "The Soviet Union's first rocket launch and test site. Established in 1946 for captured V-2 testing. Launched the first Soviet ballistic missiles and early Cosmos satellites. Mostly decommissioned for space launches.",
+  "geojson": "kapustin-yar.geojson"
+}

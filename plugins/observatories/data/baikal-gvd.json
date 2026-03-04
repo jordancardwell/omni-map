@@ -1,0 +1,20 @@
+{
+  "code": "baikal-gvd",
+  "name": "Baikal-GVD",
+  "country": "Russia",
+  "observatoryType": "Multi-messenger",
+  "status": "Operational",
+  "elevation": -1366,
+  "aperture": "~0.4 km³ (growing)",
+  "telescopes": [
+    "Baikal-GVD"
+  ],
+  "keyDiscoveries": [
+    "Deep underwater neutrino detection",
+    "Neutrino event candidates",
+    "Lake-based detection technology"
+  ],
+  "location": "Baikal-GVD, Russia",
+  "description": "A deep underwater neutrino telescope in Lake Baikal, Siberia. Uses strings of optical modules at depths up to 1366m to detect high-energy neutrinos.",
+  "geojson": "baikal-gvd.geojson"
+}

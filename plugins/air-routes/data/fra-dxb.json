@@ -1,0 +1,18 @@
+{
+  "code": "fra-dxb",
+  "name": "Frankfurt — Dubai",
+  "airports": [
+    "FRA",
+    "DXB"
+  ],
+  "distanceKm": 4844,
+  "weeklyFlights": 50,
+  "airlines": [
+    "Emirates",
+    "Lufthansa"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "FRA–DXB route between Frankfurt and Dubai. Distance: 4,844 km. ~50 weekly flights operated by Emirates, Lufthansa.",
+  "geojson": "fra-dxb.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "crespi-d-adda",
+  "name": "Crespi d'Adda",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Crespi d'Adda in Capriate San Gervasio in Lombardy is an outstanding example of the 19th- and early 20th-century 'company towns' built in Europe and North America by enlightened industrialists to meet the workers' needs. The site is still remarkably intact and is partly used for industrial purposes, although changing economic and social conditions now threaten its survival.",
+  "danger": false,
+  "geojson": "crespi-d-adda.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "fl-domestic",
+  "name": "FL Domestic",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1031,
+  "yearLaid": 2020,
+  "rfsDate": "2022-06",
+  "owner": "AT&T",
+  "landingPoints": [
+    "Miami, USA",
+    "Jacksonville, USA"
+  ],
+  "description": "FL Domestic connecting Miami to Jacksonville.",
+  "geojson": "fl-domestic.geojson"
+}

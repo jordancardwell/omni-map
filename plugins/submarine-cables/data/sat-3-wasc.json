@@ -1,0 +1,22 @@
+{
+  "code": "sat-3-wasc",
+  "name": "SAT-3/WASC",
+  "capacityTbps": 0.34,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 14300,
+  "yearLaid": 2001,
+  "rfsDate": "2002-05",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Dakar, Senegal",
+    "Abidjan, Ivory Coast",
+    "Accra, Ghana",
+    "Lagos, Nigeria",
+    "Douala, Cameroon",
+    "Libreville, Gabon",
+    "Cape Town, South Africa"
+  ],
+  "description": "South Atlantic 3/West Africa Submarine Cable, one of the first modern cables serving West Africa.",
+  "geojson": "sat-3-wasc.geojson"
+}

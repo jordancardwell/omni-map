@@ -1,0 +1,17 @@
+{
+  "code": "gru-ist",
+  "name": "São Paulo — Istanbul",
+  "airports": [
+    "GRU",
+    "IST"
+  ],
+  "distanceKm": 10559,
+  "weeklyFlights": 15,
+  "airlines": [
+    "Turkish Airlines"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–IST route between São Paulo and Istanbul. Distance: 10,559 km. ~15 weekly flights operated by Turkish Airlines.",
+  "geojson": "gru-ist.geojson"
+}

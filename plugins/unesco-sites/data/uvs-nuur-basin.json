@@ -1,0 +1,15 @@
+{
+  "code": "uvs-nuur-basin",
+  "name": "Uvs Nuur Basin",
+  "type": "Natural",
+  "country": "Mongolia, Russian Federation",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Uvs Nuur Basin (1,068,853 ha), is the northernmost of the enclosed basins of Central Asia. It takes its name from Uvs Nuur Lake, a large, shallow and very saline lake, important for migrating birds, waterfowl and seabirds. The site is made up of twelve protected areas representing the major biomes of eastern Eurasia. The steppe ecosystem supports a rich diversity of birds and the desert is home to a number of rare gerbil, jerboas and the marbled polecat. The mountains are an important refuge for the globally endangered snow leopard, mountain sheep (argali) and the Asiatic ibex.",
+  "danger": false,
+  "geojson": "uvs-nuur-basin.geojson"
+}

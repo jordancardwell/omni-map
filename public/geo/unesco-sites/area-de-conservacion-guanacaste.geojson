@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61666667,
+          10.85
+        ]
+      },
+      "properties": {
+        "code": "area-de-conservacion-guanacaste",
+        "name": "Area de Conservación Guanacaste",
+        "type": "Natural",
+        "country": "Costa Rica",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

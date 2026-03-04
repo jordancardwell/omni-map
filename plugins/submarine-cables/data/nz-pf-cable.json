@@ -1,0 +1,16 @@
+{
+  "code": "nz-pf-cable",
+  "name": "NZ-PF Cable",
+  "capacityTbps": 61,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5186,
+  "yearLaid": 2017,
+  "rfsDate": "2015-06",
+  "owner": "Southern Cross",
+  "landingPoints": [
+    "Auckland, New Zealand",
+    "Papeete, French Polynesia"
+  ],
+  "description": "NZ-PF Cable connecting Auckland to Papeete.",
+  "geojson": "nz-pf-cable.geojson"
+}

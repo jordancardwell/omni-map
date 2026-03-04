@@ -1,0 +1,16 @@
+{
+  "code": "biblical-tels-megiddo-hazor-beer-sheba",
+  "name": "Biblical Tels - Megiddo, Hazor, Beer Sheba",
+  "type": "Cultural",
+  "country": "Israel",
+  "yearInscribed": "2005",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Tels (prehistoric settlement mounds), are characteristic of the flatter lands of the eastern Mediterranean, particularly Lebanon, Syria, Israel and eastern Turkey. Of more than 200 tels in Israel, Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections. The three tels also present some of the best examples in the Levant of elaborate Iron Age, underground water-collecting systems, created to serve dense urban communities. Their traces of construction over the millennia reflect the existence of centralized authority, prosperous agricultural activity and the control of important trade routes.",
+  "danger": false,
+  "geojson": "biblical-tels-megiddo-hazor-beer-sheba.geojson"
+}

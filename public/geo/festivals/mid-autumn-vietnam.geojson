@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.0285
+        ]
+      },
+      "properties": {
+        "code": "mid-autumn-vietnam",
+        "name": "Mid-Autumn Festival (Tết Trung Thu)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "15th of 8th lunar month",
+        "location": "Hanoi, Vietnam"
+      }
+    }
+  ]
+}

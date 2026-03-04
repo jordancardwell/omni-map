@@ -1,0 +1,14 @@
+{
+  "code": "gelati-monastery",
+  "name": "Gelati Monastery",
+  "type": "Cultural",
+  "country": "Georgia",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia.",
+  "danger": false,
+  "geojson": "gelati-monastery.geojson"
+}

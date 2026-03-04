@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9680555556,
+          32.6686111111
+        ]
+      },
+      "properties": {
+        "code": "sites-of-human-evolution-at-mount-carmel-the-nahal-mearot-wadi-el-mughara-caves",
+        "name": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+        "type": "Cultural",
+        "country": "Israel",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

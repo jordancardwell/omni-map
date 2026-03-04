@@ -1,0 +1,18 @@
+{
+  "code": "iah-jfk",
+  "name": "Houston — New York",
+  "airports": [
+    "IAH",
+    "JFK"
+  ],
+  "distanceKm": 2278,
+  "weeklyFlights": 50,
+  "airlines": [
+    "United",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "IAH–JFK route between Houston and New York. Distance: 2,278 km. ~50 weekly flights operated by United, JetBlue.",
+  "geojson": "iah-jfk.geojson"
+}

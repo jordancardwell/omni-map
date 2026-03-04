@@ -1,0 +1,17 @@
+{
+  "code": "gru-dfw",
+  "name": "São Paulo — Dallas",
+  "airports": [
+    "GRU",
+    "DFW"
+  ],
+  "distanceKm": 8244,
+  "weeklyFlights": 15,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–DFW route between São Paulo and Dallas. Distance: 8,244 km. ~15 weekly flights operated by American.",
+  "geojson": "gru-dfw.geojson"
+}

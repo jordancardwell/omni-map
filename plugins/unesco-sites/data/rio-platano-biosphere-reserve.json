@@ -1,0 +1,17 @@
+{
+  "code": "rio-platano-biosphere-reserve",
+  "name": "Río Plátano Biosphere Reserve",
+  "type": "Natural",
+  "country": "Honduras",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Located on the watershed of the Río Plátano, the reserve is one of the few remains of a tropical rainforest in Central America and has an abundant and varied plant and wildlife. In its mountainous landscape sloping down to the Caribbean coast, over 2,000 indigenous people have preserved their traditional way of life.",
+  "danger": true,
+  "geojson": "rio-platano-biosphere-reserve.geojson"
+}

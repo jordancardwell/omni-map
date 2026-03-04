@@ -1,0 +1,15 @@
+{
+  "code": "pimachiowin-aki",
+  "name": "Pimachiowin Aki",
+  "type": "Mixed",
+  "country": "Canada",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(iii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "Pimachiowin Aki ('The Land That Gives Life') is a landscape of rivers, lakes, wetlands, and boreal forest. It forms part of the ancestral home of the Anishinaabeg, an indigenous people living from fishing, hunting and gathering. The site encompasses the traditional lands of four Anishinaabeg communities (Bloodvein River, Little Grand Rapids, Pauingassi and Poplar River). It is an exceptional example of the cultural tradition of Ji-ganawendamang Gidakiiminaan ('keeping the land'), which consists of honouring the gifts of the Creator, respecting all forms of life, and maintaining harmonious relations with others. A complex network of livelihood sites, habitation sites, travel routes and ceremonial sites, often linked by waterways, provides testimony to this ancient and continuing tradition.",
+  "danger": false,
+  "geojson": "pimachiowin-aki.geojson"
+}

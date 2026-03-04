@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7372833333,
+          18.0530277778
+        ]
+      },
+      "properties": {
+        "code": "ancient-maya-city-and-protected-tropical-forests-of-calakmul-campeche",
+        "name": "Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche",
+        "type": "Mixed",
+        "country": "Mexico",
+        "yearInscribed": "2002"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.576666667,
+          57.81722222
+        ]
+      },
+      "properties": {
+        "code": "st-kilda",
+        "name": "St Kilda",
+        "type": "Mixed",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1986"
+      }
+    }
+  ]
+}

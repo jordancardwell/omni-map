@@ -1,0 +1,18 @@
+{
+  "code": "lax-sin",
+  "name": "Los Angeles — Singapore",
+  "airports": [
+    "LAX",
+    "SIN"
+  ],
+  "distanceKm": 14101,
+  "weeklyFlights": 35,
+  "airlines": [
+    "Singapore Airlines",
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "LAX–SIN route between Los Angeles and Singapore. Distance: 14,101 km. ~35 weekly flights operated by Singapore Airlines, United.",
+  "geojson": "lax-sin.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "pipe-pacific-cable-1-ppc-1",
+  "name": "Pipe Pacific Cable-1 (PPC-1)",
+  "capacityTbps": 20,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7500,
+  "yearLaid": 2009,
+  "rfsDate": "2009-07",
+  "owner": "Pipe Networks (TPG)",
+  "landingPoints": [
+    "Sydney, Australia",
+    "Guam"
+  ],
+  "description": "Australia-Guam cable providing diverse transpacific routing.",
+  "geojson": "pipe-pacific-cable-1-ppc-1.geojson"
+}

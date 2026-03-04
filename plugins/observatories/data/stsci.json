@@ -1,0 +1,21 @@
+{
+  "code": "stsci",
+  "name": "Space Telescope Science Institute",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 100,
+  "aperture": "HST: 2.4 m / JWST: 6.5 m",
+  "telescopes": [
+    "Hubble Space Telescope",
+    "James Webb Space Telescope"
+  ],
+  "keyDiscoveries": [
+    "Hubble Deep Field",
+    "Accelerating expansion (Nobel Prize 2011)",
+    "Exoplanet atmospheres (JWST)"
+  ],
+  "location": "Space Telescope Science Institute, United States",
+  "description": "Operations center for both HST and JWST at Johns Hopkins University. These two telescopes have produced many of the most iconic astronomical images and discoveries.",
+  "geojson": "stsci.geojson"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "tcm",
+  "name": "Traditional Chinese Medicine",
+  "tradition": "East Asian",
+  "originRegion": "China",
+  "estimatedPractitioners": 1200000,
+  "whoRecognition": "Recognized — Included in ICD-11 Chapter 26; WHO supports integration into national health systems",
+  "keyPractices": [
+    "Acupuncture",
+    "Herbal medicine",
+    "Moxibustion",
+    "Cupping",
+    "Tui Na massage",
+    "Qigong",
+    "Tai Chi",
+    "Dietary therapy"
+  ],
+  "regionsOfPractice": [
+    "China",
+    "Taiwan",
+    "Singapore",
+    "Malaysia",
+    "Vietnam",
+    "Worldwide (diaspora communities)"
+  ],
+  "description": "Traditional Chinese Medicine (TCM) is a comprehensive medical system developed over more than 2,000 years in China. It is grounded in the concepts of Qi (vital energy), Yin-Yang balance, and the Five Elements (Wu Xing). Diagnosis involves pulse reading, tongue examination, and patient observation. TCM encompasses acupuncture, herbal formulas (often combining 5–15 herbs), moxibustion, cupping, Tui Na bodywork, and movement practices like Qigong and Tai Chi. China has over 4,000 TCM hospitals and more than 1.2 million licensed practitioners.",
+  "historicalNotes": "TCM's foundational text, the Huangdi Neijing (Yellow Emperor's Classic), dates to approximately 200 BCE. The Shennong Bencaojing catalogued 365 medicinal substances. Zhang Zhongjing's Shanghan Lun (c. 220 CE) established systematic diagnosis and herbal treatment protocols still used today. Li Shizhen's Bencao Gangmu (1578) documented 1,892 substances. In 2015, pharmacologist Tu Youyou received the Nobel Prize for discovering artemisinin from the herb Artemisia annua, guided by a 4th-century TCM text.",
+  "geojson": "tcm.geojson"
+}

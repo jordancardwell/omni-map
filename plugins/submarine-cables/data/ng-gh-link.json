@@ -1,0 +1,16 @@
+{
+  "code": "ng-gh-link",
+  "name": "NG-GH Link",
+  "capacityTbps": 7,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2094,
+  "yearLaid": 2019,
+  "rfsDate": "2018-06",
+  "owner": "MainOne",
+  "landingPoints": [
+    "Lagos, Nigeria",
+    "Accra, Ghana"
+  ],
+  "description": "NG-GH Link connecting Lagos to Accra along the African coast.",
+  "geojson": "ng-gh-link.geojson"
+}

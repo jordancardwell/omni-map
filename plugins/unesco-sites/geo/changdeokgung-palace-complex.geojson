@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9911111111,
+          37.5788888889
+        ]
+      },
+      "properties": {
+        "code": "changdeokgung-palace-complex",
+        "name": "Changdeokgung Palace Complex",
+        "type": "Cultural",
+        "country": "Republic of Korea",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

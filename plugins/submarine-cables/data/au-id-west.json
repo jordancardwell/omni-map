@@ -1,0 +1,16 @@
+{
+  "code": "au-id-west",
+  "name": "AU-ID West",
+  "capacityTbps": 34,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 3044,
+  "yearLaid": 2021,
+  "rfsDate": "2011-06",
+  "owner": "Telkom",
+  "landingPoints": [
+    "Perth, Australia",
+    "Jakarta, Indonesia"
+  ],
+  "description": "AU-ID West connecting Perth to Jakarta.",
+  "geojson": "au-id-west.geojson"
+}

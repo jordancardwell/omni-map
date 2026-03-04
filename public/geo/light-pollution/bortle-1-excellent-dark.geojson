@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-1-excellent-dark",
+        "name": "Excellent Dark Sky Sites",
+        "region": "Atacama Desert, Chile"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -27
+            ],
+            [
+              -69,
+              -27
+            ],
+            [
+              -69,
+              -24
+            ],
+            [
+              -70,
+              -24
+            ],
+            [
+              -70,
+              -27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-1-excellent-dark",
+        "name": "Excellent Dark Sky Sites",
+        "region": "NamibRand Nature Reserve, Namibia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16,
+              -26
+            ],
+            [
+              18,
+              -26
+            ],
+            [
+              18,
+              -24
+            ],
+            [
+              16,
+              -24
+            ],
+            [
+              16,
+              -26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-1-excellent-dark",
+        "name": "Excellent Dark Sky Sites",
+        "region": "Aoraki Mackenzie, New Zealand"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130,
+              -28
+            ],
+            [
+              135,
+              -28
+            ],
+            [
+              135,
+              -24
+            ],
+            [
+              130,
+              -24
+            ],
+            [
+              130,
+              -28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-1-excellent-dark",
+        "name": "Excellent Dark Sky Sites",
+        "region": "Cherry Springs State Park, USA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14,
+              22
+            ],
+            [
+              -10,
+              22
+            ],
+            [
+              -10,
+              25
+            ],
+            [
+              -14,
+              25
+            ],
+            [
+              -14,
+              22
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

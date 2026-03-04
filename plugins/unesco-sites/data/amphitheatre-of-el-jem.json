@@ -1,0 +1,14 @@
+{
+  "code": "amphitheatre-of-el-jem",
+  "name": "Amphitheatre of El Jem",
+  "type": "Cultural",
+  "country": "Tunisia",
+  "yearInscribed": "1979",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Arab States",
+  "description": "The impressive ruins of the largest colosseum in North Africa, a huge amphitheatre which could hold up to 35,000 spectators, are found in the small village of El Jem. This 3rd-century monument illustrates the grandeur and extent of Imperial Rome.",
+  "danger": false,
+  "geojson": "amphitheatre-of-el-jem.geojson"
+}

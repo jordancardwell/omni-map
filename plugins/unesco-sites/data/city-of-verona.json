@@ -1,0 +1,15 @@
+{
+  "code": "city-of-verona",
+  "name": "City of Verona",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The historic city of Verona was founded in the 1st century B.C. It particularly flourished under the rule of the Scaliger family in the 13th and 14th centuries and as part of the Republic of Venice from the 15th to 18th centuries. Verona has preserved a remarkable number of monuments from antiquity, the medieval and Renaissance periods, and represents an outstanding example of a military stronghold.",
+  "danger": false,
+  "geojson": "city-of-verona.geojson"
+}

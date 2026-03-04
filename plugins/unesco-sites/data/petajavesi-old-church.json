@@ -1,0 +1,14 @@
+{
+  "code": "petajavesi-old-church",
+  "name": "Petäjävesi Old Church",
+  "type": "Cultural",
+  "country": "Finland",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Petäjävesi Old Church, in central Finland, was built of logs between 1763 and 1765. This Lutheran country church is a typical example of an architectural tradition that is unique to eastern Scandinavia. It combines the Renaissance conception of a centrally planned church with older forms deriving from Gothic groin vaults.",
+  "danger": false,
+  "geojson": "petajavesi-old-church.geojson"
+}

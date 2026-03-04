@@ -1,0 +1,15 @@
+{
+  "code": "city-of-graz-historic-centre-and-schloss-eggenberg",
+  "name": "City of Graz – Historic Centre and Schloss Eggenberg",
+  "type": "Cultural",
+  "country": "Austria",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The City of Graz – Historic Centre and Schloss Eggenberg bear witness to an exemplary model of the living heritage of a central European urban complex influenced by the secular presence of the Habsburgs and the cultural and artistic role played by the main aristocratic families. They are a harmonious blend of the architectural styles and artistic movements that have succeeded each other from the Middle Ages until the 18th century, from the many neighbouring regions of Central and Mediterranean Europe. They embody a diversified and highly comprehensive ensemble of architectural, decorative and landscape examples of these interchanges of influence.",
+  "danger": false,
+  "geojson": "city-of-graz-historic-centre-and-schloss-eggenberg.geojson"
+}

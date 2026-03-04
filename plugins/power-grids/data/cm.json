@@ -1,0 +1,18 @@
+{
+  "code": "cm",
+  "name": "Cameroon",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "E"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type E — Two round pins + grounding pin hole (French style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "French-style plugs.",
+  "geojson": "cm.geojson"
+}

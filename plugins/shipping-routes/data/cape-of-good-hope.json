@@ -1,0 +1,8 @@
+{
+  "code": "cape-of-good-hope",
+  "name": "Cape of Good Hope Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "Alternative to the Suez Canal connecting Europe and Asia around the southern tip of Africa. Used by supertankers too large for the Suez Canal and as backup when the canal is disrupted.",
+  "geojson": "cape-of-good-hope.geojson"
+}

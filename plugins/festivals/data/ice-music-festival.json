@@ -1,0 +1,14 @@
+{
+  "code": "ice-music-festival",
+  "name": "Ice Music Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "February",
+  "origin": "Norwegian tradition",
+  "estimatedAttendance": "Thousands of visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Concerts performed entirely on instruments carved from ice; ice amphitheater; Northern Lights backdrop; ice sculpture workshops.",
+  "historicalBackground": "The Ice Music Festival was founded by Terje Isungset in 2005, combining Norwegian ice-carving traditions with experimental music performance.",
+  "description": "A magical Arctic festival where musicians perform on instruments carved entirely from ice, under the dancing Northern Lights.",
+  "location": "Tromsø, Norway",
+  "geojson": "ice-music-festival.geojson"
+}

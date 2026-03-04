@@ -1,0 +1,16 @@
+{
+  "code": "jp-gu-cable",
+  "name": "JP-GU Cable",
+  "capacityTbps": 17,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 3939,
+  "yearLaid": 2018,
+  "rfsDate": "2014-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Tokyo, Japan",
+    "Guam"
+  ],
+  "description": "JP-GU Cable connecting Tokyo to Guam.",
+  "geojson": "jp-gu-cable.geojson"
+}

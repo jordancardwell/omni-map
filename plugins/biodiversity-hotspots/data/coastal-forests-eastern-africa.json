@@ -1,0 +1,29 @@
+{
+  "code": "coastal-forests-eastern-africa",
+  "name": "Coastal Forests of Eastern Africa",
+  "location": "East African coast (Somalia to Mozambique)",
+  "areaKm2": 291250,
+  "habitatRemaining": "10.3%",
+  "plantSpecies": 4000,
+  "endemicPlants": 1750,
+  "vertebrateSpecies": 1019,
+  "endemicVertebrates": 198,
+  "threatLevel": "Critical",
+  "keySpecies": [
+    "Zanzibar red colobus",
+    "Aders' duiker",
+    "Tana River mangabey",
+    "African violet",
+    "Sokoke scops owl"
+  ],
+  "threats": [
+    "Agriculture",
+    "Logging",
+    "Charcoal production",
+    "Population growth",
+    "Fire"
+  ],
+  "conservationEfforts": "Critical Ecosystem Partnership Fund supports conservation projects. Arabuko-Sokoke Forest managed as a nature reserve. Community forest management programs in Tanzania. Eastern Arc Endowment Fund established for long-term conservation.",
+  "description": "The Coastal Forests of Eastern Africa form a narrow, fragmented strip along the Indian Ocean coast from southern Somalia through Kenya, Tanzania, and into northern Mozambique. These forests are remnants of a once-continuous tropical forest that covered eastern Africa.\n\nDespite their small and fragmented extent, these forests harbor remarkable levels of endemism, particularly among plants, reptiles, and amphibians. The region includes the Eastern Arc Mountains, sometimes called the 'Galápagos of Africa' for their exceptional concentration of endemic species.",
+  "geojson": "coastal-forests-eastern-africa.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "telugu",
+  "name": "Telugu",
+  "scriptType": "Abugida",
+  "characters": 56,
+  "direction": "LTR",
+  "originDate": "~7th century CE",
+  "sampleText": "తెలుగు లిపి అందమైనది",
+  "relatedScripts": [
+    "kannada",
+    "tamil"
+  ],
+  "description": "The Telugu script is an abugida with rounded letterforms, used for the Telugu language spoken in Andhra Pradesh and Telangana. It has 16 vowels, 36 consonants, and 4 additional characters. Telugu is sometimes called 'the Italian of the East' for the musicality of its vowel endings.",
+  "historicalNotes": "Telugu script evolved from the Bhattiprolu script through the Kadamba and Chalukya scripts, reaching its modern form by the 7th century CE. It shares a common ancestor with the Kannada script. Telugu inscriptions date back to the 6th century CE. The script was used extensively in the courts of the Vijayanagara Empire and the Kakatiya dynasty.",
+  "geojson": "telugu.geojson"
+}

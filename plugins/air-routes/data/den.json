@@ -1,0 +1,12 @@
+{
+  "code": "den",
+  "name": "Denver International",
+  "iataCode": "DEN",
+  "city": "Denver",
+  "country": "United States",
+  "annualPassengers": 74000000,
+  "classification": "Mega Hub",
+  "itemCategory": "Mega Hub",
+  "description": "Denver International (DEN) in Denver, United States. Annual passengers: ~74M. Classification: Mega Hub.",
+  "geojson": "den.geojson"
+}

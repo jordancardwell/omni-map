@@ -1,0 +1,21 @@
+{
+  "code": "canadian-boreal",
+  "name": "Canadian Boreal Forest",
+  "country": "Canada",
+  "forestType": "Boreal",
+  "areaKm2": 3100000,
+  "intactness": "Mostly Intact",
+  "changeSince2000": "-4.2% (approximately 130,000 km² lost)",
+  "annualLossRate": "0.2% per year",
+  "threats": [
+    "Oil sands extraction",
+    "Industrial logging",
+    "Hydroelectric development",
+    "Mining",
+    "Wildfires (increasing)",
+    "Climate change"
+  ],
+  "conservationStatus": "Canadian Boreal Forest Agreement (2010) committed to protect 72 million hectares. ~12% under formal protection. Indigenous Protected and Conserved Areas (IPCAs) expanding. Canada's Target 1 aims for 25% land protection by 2025. Caribou recovery plans require large intact areas.",
+  "description": "The **Canadian Boreal Forest** is one of the world's last great intact forest ecosystems, stretching from Yukon to Newfoundland. It is a critical carbon storehouse, water filter, and habitat for iconic Canadian wildlife.\n\n### Key Statistics\n- **Biodiversity**: ~600 plant species, woodland caribou, lynx, wolverine, billions of migratory birds\n- **Carbon storage**: ~186 billion tonnes of carbon (mostly in soils and peatlands)\n- **Water**: Contains 25% of the world's remaining wetlands\n- **Bird habitat**: Breeding ground for 1–3 billion birds annually\n\n### Deforestation Trends\nThe IFL 2020 data shows extensive intact forest in the northern boreal, but significant fragmentation in the southern managed forest zone. Wildfire seasons have lengthened and intensified. Oil sands development in Alberta has caused direct forest loss, and industrial forestry continues across much of the southern extent.",
+  "geojson": "canadian-boreal.geojson"
+}

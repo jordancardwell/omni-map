@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.54583,
+          27.62667
+        ]
+      },
+      "properties": {
+        "code": "islands-and-protected-areas-of-the-gulf-of-california",
+        "name": "Islands and Protected Areas of the Gulf of California",
+        "type": "Natural",
+        "country": "Mexico",
+        "yearInscribed": "2005"
+      }
+    }
+  ]
+}

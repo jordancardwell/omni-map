@@ -1,0 +1,26 @@
+{
+  "code": "south-asian-monsoon-margin",
+  "name": "South Asian Monsoon Margin",
+  "region": "South Asia",
+  "aridityGroup": "4. Dry Sub-Humid",
+  "aridityClassification": "Dry Sub-Humid",
+  "aridityIndex": "0.50–0.65 — variable monsoon rainfall",
+  "area": "800,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 200000000,
+  "affectedCountries": [
+    "India",
+    "Pakistan",
+    "Afghanistan"
+  ],
+  "desertificationDrivers": [
+    "Groundwater depletion",
+    "Erratic monsoon",
+    "Intensive agriculture",
+    "Soil exhaustion",
+    "Urbanization"
+  ],
+  "desertFrontier": "Thar Desert expanding into Punjab and Haryana; Indo-Gangetic soil degradation",
+  "description": "The dry sub-humid zone along India's monsoon margin supports some of the most intensive agriculture in the world. Over 70% of India's land area is degrading, according to ISRO. Punjab, once India's breadbasket, faces severe groundwater depletion — water tables dropping 1 meter per year. The monsoon is becoming increasingly erratic, with longer dry spells between intense rainfall events.",
+  "geojson": "south-asian-monsoon-margin.geojson"
+}

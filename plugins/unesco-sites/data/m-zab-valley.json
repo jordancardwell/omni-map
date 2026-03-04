@@ -1,0 +1,16 @@
+{
+  "code": "m-zab-valley",
+  "name": "M'Zab Valley",
+  "type": "Cultural",
+  "country": "Algeria",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(ii)",
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Arab States",
+  "description": "A traditional human habitat, created in the 10th century by the Ibadites around their five ksour (fortified cities), has been preserved intact in the M’Zab valley. Simple, functional and perfectly adapted to the environment, the architecture of M’Zab was designed for community living, while respecting the structure of the family. It is a source of inspiration for today’s urban planners.",
+  "danger": false,
+  "geojson": "m-zab-valley.geojson"
+}

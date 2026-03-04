@@ -1,0 +1,30 @@
+{
+  "code": "indo-australian",
+  "name": "Indo-Australian Plate",
+  "plateClass": "Major",
+  "crustType": "Mixed",
+  "area": 58.9,
+  "movementDirection": "North-Northeast",
+  "movementRate": "60–75",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "eurasian",
+    "pacific",
+    "antarctic",
+    "african"
+  ],
+  "notableFeatures": [
+    "Himalayas (Indian portion)",
+    "Java Trench",
+    "Southeast Indian Ridge",
+    "Great Barrier Reef",
+    "Sunda Arc"
+  ],
+  "description": "The Indo-Australian Plate carries Australia, New Zealand, and the Indian subcontinent along with surrounding ocean floor. There is ongoing scientific debate about whether this should be considered as two separate plates (Indian and Australian). The northern boundary features the Sunda Arc subduction zone, where the plate dives beneath the Eurasian Plate, generating devastating earthquakes and tsunamis including the 2004 Indian Ocean earthquake.",
+  "geologicalHistory": "India separated from Gondwana about 120 million years ago and traveled northward at remarkable speed (up to 150 mm/year) before colliding with Eurasia about 50 million years ago. Australia separated from Antarctica about 45 million years ago. The ongoing northward push of the Indian portion continues to uplift the Himalayas and Tibetan Plateau.",
+  "geojson": "indo-australian.geojson"
+}

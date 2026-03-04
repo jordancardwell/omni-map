@@ -1,0 +1,21 @@
+{
+  "code": "imewe",
+  "name": "IMEWE",
+  "capacityTbps": 3.84,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 12000,
+  "yearLaid": 2009,
+  "rfsDate": "2010-02",
+  "owner": "Consortium (9 operators)",
+  "landingPoints": [
+    "Marseille, France",
+    "Athens, Greece",
+    "Istanbul, Turkey",
+    "Alexandria, Egypt",
+    "Jeddah, Saudi Arabia",
+    "Fujairah, UAE",
+    "Mumbai, India"
+  ],
+  "description": "India Middle East Western Europe cable linking France to India via the Mediterranean and Middle East.",
+  "geojson": "imewe.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "african-wild-dog",
+  "name": "African Wild Dog",
+  "scientificName": "Lycaon pictus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~6,600 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Savanna and woodland",
+  "threats": [
+    "Habitat fragmentation",
+    "Human-wildlife conflict",
+    "Disease",
+    "Snaring"
+  ],
+  "conservationEfforts": "Painted Dog Conservation works in Zimbabwe. Reintroduction programs in fenced reserves. Livestock guarding programs reduce conflict with farmers.",
+  "description": "Africa's most efficient predator with an 80% hunt success rate. They live in tight-knit packs with complex social bonds and unique vocal communication.",
+  "geojson": "african-wild-dog.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "atisa",
+  "name": "Atisa",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 2712,
+  "yearLaid": 2017,
+  "rfsDate": "2014-06",
+  "owner": "Docomo Pacific",
+  "landingPoints": [
+    "Guam",
+    "Honolulu, USA"
+  ],
+  "description": "Atisa connecting Guam to Honolulu in the Pacific.",
+  "geojson": "atisa.geojson"
+}

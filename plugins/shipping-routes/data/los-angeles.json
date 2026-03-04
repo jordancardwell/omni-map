@@ -1,0 +1,15 @@
+{
+  "code": "los-angeles",
+  "name": "Port of Los Angeles",
+  "country": "United States",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 100,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Trans-Pacific Northern Route",
+    "Panama Canal Route"
+  ],
+  "description": "Port of Los Angeles in United States. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+  "geojson": "los-angeles.geojson"
+}

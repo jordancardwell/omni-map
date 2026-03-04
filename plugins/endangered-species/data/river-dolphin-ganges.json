@@ -1,0 +1,19 @@
+{
+  "code": "river-dolphin-ganges",
+  "name": "Ganges River Dolphin",
+  "scientificName": "Platanista gangetica",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~3,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater river",
+  "threats": [
+    "Water pollution",
+    "Dam construction",
+    "Bycatch",
+    "Habitat degradation"
+  ],
+  "conservationEfforts": "India's National Aquatic Animal. Vikramshila Gangetic Dolphin Sanctuary established. Dolphin Action Plan 2010-2020 coordinates conservation.",
+  "description": "Functionally blind, this freshwater dolphin navigates murky river waters using echolocation. It swims on its side with one flipper trailing along the bottom to find food.",
+  "geojson": "river-dolphin-ganges.geojson"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "goldstone",
+  "name": "Goldstone Deep Space Communications Complex",
+  "country": "United States",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 1031,
+  "aperture": "70 m (DSS-14)",
+  "telescopes": [
+    "DSS-14 70m",
+    "Various DSN dishes"
+  ],
+  "keyDiscoveries": [
+    "Asteroid radar imaging",
+    "Deep space communication",
+    "Planetary radar mapping"
+  ],
+  "location": "Goldstone Deep Space Communications Complex, United States",
+  "description": "Part of NASA's Deep Space Network in the Mojave Desert. DSS-14 is used for both spacecraft communication and planetary radar astronomy.",
+  "geojson": "goldstone.geojson"
+}

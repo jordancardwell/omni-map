@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8644444444,
+          47.0580555556
+        ]
+      },
+      "properties": {
+        "code": "the-climats-terroirs-of-burgundy",
+        "name": "The Climats, terroirs of Burgundy",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

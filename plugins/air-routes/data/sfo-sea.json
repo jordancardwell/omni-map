@@ -1,0 +1,19 @@
+{
+  "code": "sfo-sea",
+  "name": "San Francisco — Seattle",
+  "airports": [
+    "SFO",
+    "SEA"
+  ],
+  "distanceKm": 1093,
+  "weeklyFlights": 100,
+  "airlines": [
+    "United",
+    "Alaska",
+    "Delta"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "SFO–SEA route between San Francisco and Seattle. Distance: 1,093 km. ~100 weekly flights operated by United, Alaska, Delta.",
+  "geojson": "sfo-sea.geojson"
+}

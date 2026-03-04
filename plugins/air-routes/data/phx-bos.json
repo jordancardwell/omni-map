@@ -1,0 +1,17 @@
+{
+  "code": "phx-bos",
+  "name": "Phoenix — Boston",
+  "airports": [
+    "PHX",
+    "BOS"
+  ],
+  "distanceKm": 3693,
+  "weeklyFlights": 20,
+  "airlines": [
+    "JetBlue"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "PHX–BOS route between Phoenix and Boston. Distance: 3,693 km. ~20 weekly flights operated by JetBlue.",
+  "geojson": "phx-bos.geojson"
+}

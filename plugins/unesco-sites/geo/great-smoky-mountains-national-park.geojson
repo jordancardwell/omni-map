@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43555556,
+          35.59305556
+        ]
+      },
+      "properties": {
+        "code": "great-smoky-mountains-national-park",
+        "name": "Great Smoky Mountains National Park",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1983"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0322222222,
+          49.5338888889
+        ]
+      },
+      "properties": {
+        "code": "wooden-em-tserkvas-em-of-the-carpathian-region-in-poland-and-ukraine",
+        "name": "Wooden Tserkvas of the Carpathian Region in Poland and Ukraine",
+        "type": "Cultural",
+        "country": "Poland, Ukraine",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "silk-road-land",
+  "name": "Silk Road (Land)",
+  "routeType": "Land",
+  "era": "Ancient & Medieval",
+  "period": "c. 130 BCE – 1450s CE",
+  "commodities": ["Silk", "Spices", "Gold", "Jade", "Porcelain", "Glassware", "Wool", "Horses", "Precious stones"],
+  "majorStops": ["Chang'an (Xi'an)", "Dunhuang", "Kashgar", "Samarkand", "Bukhara", "Merv", "Baghdad", "Palmyra", "Antioch", "Constantinople"],
+  "significance": "The most famous overland trade network in history, connecting East Asia with the Mediterranean and facilitating exchange of goods, ideas, religions, and technologies across civilizations",
+  "description": "The Silk Road was a network of Eurasian trade routes active from the 2nd century BCE until the mid-15th century. Spanning over 6,400 km, it connected Chinese dynasties with the Roman Empire and later Byzantine and Islamic civilizations.\n\nNamed after the lucrative silk trade that drove much of the commerce, the route facilitated far more than material goods — it was a conduit for the spread of Buddhism, Islam, and Christianity, as well as technologies like papermaking, gunpowder, and the compass.\n\nKey sections included the Gansu Corridor, the Taklamakan Desert passages (northern and southern routes around the desert), the Pamir crossing, and the fertile oases of Central Asia. The route declined after the Ottoman Empire's rise disrupted overland trade, spurring European maritime exploration.",
+  "geojson": "silk-road-land.geojson"
+}

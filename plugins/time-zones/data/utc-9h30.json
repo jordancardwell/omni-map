@@ -1,0 +1,20 @@
+{
+  "code": "utc-9h30",
+  "name": "Marquesas Time",
+  "nativeName": "UTC-09:30",
+  "utcOffset": "UTC-09:30",
+  "utcOffsetHours": -9.5,
+  "offsetGroup": "1. Far West (UTC-12 to -9)",
+  "ianaNames": [
+    "Pacific/Marquesas"
+  ],
+  "countries": [
+    "Marquesas Islands (France)"
+  ],
+  "dstRules": "No DST observed",
+  "description": "One of the few half-hour offset time zones, used exclusively by the Marquesas Islands in French Polynesia. This remote archipelago in the South Pacific is known for its dramatic volcanic landscapes.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc-9h30.geojson"
+}

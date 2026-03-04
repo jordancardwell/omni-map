@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.5665
+        ]
+      },
+      "properties": {
+        "code": "independence-day-south-korea",
+        "name": "Liberation Day (South Korea)",
+        "festivalType": "National",
+        "dateOrSeason": "August 15",
+        "location": "Seoul, South Korea"
+      }
+    }
+  ]
+}

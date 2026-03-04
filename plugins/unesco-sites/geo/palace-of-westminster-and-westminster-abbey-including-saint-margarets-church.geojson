@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127,
+          51.499
+        ]
+      },
+      "properties": {
+        "code": "palace-of-westminster-and-westminster-abbey-including-saint-margarets-church",
+        "name": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
+        "type": "Cultural",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

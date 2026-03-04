@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2075,
+          31.7043527778
+        ]
+      },
+      "properties": {
+        "code": "birthplace-of-jesus-church-of-the-nativity-and-the-pilgrimage-route-bethlehem",
+        "name": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+        "type": "Cultural",
+        "country": "State of Palestine",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

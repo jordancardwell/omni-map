@@ -1,0 +1,21 @@
+{
+  "code": "humboldt",
+  "name": "Humboldt Current (Peru Current)",
+  "currentType": "Cold",
+  "speedRange": "0.2–0.5 m/s",
+  "origin": "Southern Ocean / Antarctic Circumpolar",
+  "destination": "South Equatorial Current (Pacific)",
+  "climateEffects": [
+    "Creates Atacama Desert conditions",
+    "Drives world's most productive fishery",
+    "Key factor in El Nino/La Nina"
+  ],
+  "connectedEcosystems": [
+    "Peru-Chile upwelling system",
+    "Galapagos marine ecosystem",
+    "South American seabird colonies"
+  ],
+  "itemCategory": "Cold",
+  "description": "The Humboldt Current (Peru Current) flows northward along the west coast of South America. Its powerful upwelling creates the world's most productive marine ecosystem, but it is periodically disrupted by El Nino events.",
+  "geojson": "humboldt.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "bsccl-bangladesh-india",
+  "name": "BSCCL (Bangladesh-India)",
+  "capacityTbps": 2.5,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1850,
+  "yearLaid": 2019,
+  "rfsDate": "2019-09",
+  "owner": "BSCCL",
+  "landingPoints": [
+    "Chennai, India",
+    "Cox's Bazar, Bangladesh"
+  ],
+  "description": "Bangladesh's first submarine cable connection.",
+  "geojson": "bsccl-bangladesh-india.geojson"
+}

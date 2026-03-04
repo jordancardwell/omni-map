@@ -1,0 +1,21 @@
+{
+  "code": "shintoism",
+  "name": "Shintoism",
+  "family": "East Asian",
+  "foundingPeriod": "c. 8th century CE (codified)",
+  "adherents": {
+    "estimated": 4000000,
+    "percentWorld": "0.05%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["Japan"],
+  "denominations": [
+    "Shrine Shinto",
+    "Sect Shinto",
+    "Folk Shinto",
+    "Imperial Shinto"
+  ],
+  "description": "Shinto is Japan's indigenous religion, centered on the worship of kami — spirits or divine forces found in nature, ancestors, and sacred places. It emphasizes ritual purity, reverence for nature, and harmony with the spiritual world. Shinto has no single founder, no central scripture, and no formal doctrine, making it a deeply practice-oriented tradition.",
+  "historicalNotes": "Shinto's origins are intertwined with Japanese prehistory and animistic folk practices. The Kojiki (712 CE) and Nihon Shoki (720 CE) codified Shinto mythology. Buddhism's arrival in the 6th century CE led to centuries of syncretism (shinbutsu-shūgō). The Meiji government (1868) separated Shinto from Buddhism and elevated it as State Shinto to foster national identity. After World War II, State Shinto was abolished, and Shinto returned to a decentralized, shrine-based practice.",
+  "geojson": "shintoism.geojson"
+}

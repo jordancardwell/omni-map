@@ -1,0 +1,3926 @@
+[
+  {
+    "code": "abidjan",
+    "name": "Port of Abidjan",
+    "country": "Ivory Coast",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Abidjan in Ivory Coast. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+    "geojson": "abidjan.geojson"
+  },
+  {
+    "code": "adelaide",
+    "name": "Port Adelaide",
+    "country": "Australia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Australia–Southeast Asia Route"
+    ],
+    "description": "Port Adelaide in Australia. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "adelaide.geojson"
+  },
+  {
+    "code": "aden",
+    "name": "Port of Aden",
+    "country": "Yemen",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Red Sea Route",
+      "Horn of Africa & Gulf of Aden"
+    ],
+    "description": "Port of Aden in Yemen. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "aden.geojson"
+  },
+  {
+    "code": "adriatic-route",
+    "name": "Adriatic Sea Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Connects Mediterranean shipping to northern Italian and Slovenian ports through the Adriatic Sea. Important corridor for Central European trade via rail connections from Trieste and Venice.",
+    "geojson": "adriatic-route.geojson"
+  },
+  {
+    "code": "alexandria",
+    "name": "Port of Alexandria",
+    "country": "Egypt",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 45,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Alexandria in Egypt. Annual cargo throughput: ~45 million tons. Type: Multi-Purpose Port.",
+    "geojson": "alexandria.geojson"
+  },
+  {
+    "code": "algeciras",
+    "name": "Port of Algeciras",
+    "country": "Spain",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 110,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route",
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Port of Algeciras in Spain. Annual cargo throughput: ~110 million tons. Type: Container Port.",
+    "geojson": "algeciras.geojson"
+  },
+  {
+    "code": "algiers",
+    "name": "Port of Algiers",
+    "country": "Algeria",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Algiers in Algeria. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "algiers.geojson"
+  },
+  {
+    "code": "amsterdam",
+    "name": "Port of Amsterdam",
+    "country": "Netherlands",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Amsterdam in Netherlands. Annual cargo throughput: ~100 million tons. Type: Bulk Port.",
+    "geojson": "amsterdam.geojson"
+  },
+  {
+    "code": "anchorage",
+    "name": "Port of Anchorage",
+    "country": "United States",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Port of Anchorage in United States. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "anchorage.geojson"
+  },
+  {
+    "code": "antofagasta",
+    "name": "Port of Antofagasta",
+    "country": "Chile",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "West Coast Americas Route",
+      "Trans-Pacific Southern Route"
+    ],
+    "description": "Port of Antofagasta in Chile. Annual cargo throughput: ~12 million tons. Type: Bulk Port.",
+    "geojson": "antofagasta.geojson"
+  },
+  {
+    "code": "antwerp",
+    "name": "Port of Antwerp-Bruges",
+    "country": "Belgium",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 290,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "Suez Canal Route"
+    ],
+    "description": "Port of Antwerp-Bruges in Belgium. Annual cargo throughput: ~290 million tons. Type: Container Port.",
+    "geojson": "antwerp.geojson"
+  },
+  {
+    "code": "apia",
+    "name": "Port of Apia",
+    "country": "Samoa",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 1,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Apia in Samoa. Annual cargo throughput: ~1 million tons. Type: Multi-Purpose Port.",
+    "geojson": "apia.geojson"
+  },
+  {
+    "code": "aqaba",
+    "name": "Port of Aqaba",
+    "country": "Jordan",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Red Sea Route"
+    ],
+    "description": "Port of Aqaba in Jordan. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "aqaba.geojson"
+  },
+  {
+    "code": "arctic-northern-sea-route",
+    "name": "Arctic Northern Sea Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Seasonal shipping route along Russia's Arctic coast connecting Europe to East Asia. Increasingly viable due to climate change, reducing transit time by 40% vs Suez route.",
+    "geojson": "arctic-northern-sea-route.geojson"
+  },
+  {
+    "code": "arica",
+    "name": "Port of Arica",
+    "country": "Chile",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 4,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Port of Arica in Chile. Annual cargo throughput: ~4 million tons. Type: Multi-Purpose Port.",
+    "geojson": "arica.geojson"
+  },
+  {
+    "code": "ashdod",
+    "name": "Port of Ashdod",
+    "country": "Israel",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Ashdod in Israel. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+    "geojson": "ashdod.geojson"
+  },
+  {
+    "code": "auckland",
+    "name": "Port of Auckland",
+    "country": "New Zealand",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "New Zealand Trade Route",
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Auckland in New Zealand. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "auckland.geojson"
+  },
+  {
+    "code": "australia-southeast-asia",
+    "name": "Australia–Southeast Asia Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Connects Australian ports with Southeast Asian hubs. Major corridor for Australian iron ore, coal, and LNG exports to manufacturing economies.",
+    "geojson": "australia-southeast-asia.geojson"
+  },
+  {
+    "code": "bahia-blanca",
+    "name": "Port of Bahía Blanca",
+    "country": "Argentina",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "River Plate & South Atlantic"
+    ],
+    "description": "Port of Bahía Blanca in Argentina. Annual cargo throughput: ~30 million tons. Type: Bulk Port.",
+    "geojson": "bahia-blanca.geojson"
+  },
+  {
+    "code": "balboa",
+    "name": "Port of Balboa",
+    "country": "Panama",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Panama Canal Route"
+    ],
+    "description": "Port of Balboa in Panama. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+    "geojson": "balboa.geojson"
+  },
+  {
+    "code": "balikpapan",
+    "name": "Port of Balikpapan",
+    "country": "Indonesia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 25,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Southeast Asian Straits"
+    ],
+    "description": "Port of Balikpapan in Indonesia. Annual cargo throughput: ~25 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "balikpapan.geojson"
+  },
+  {
+    "code": "bandar-abbas",
+    "name": "Bandar Abbas",
+    "country": "Iran",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 90,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Bandar Abbas in Iran. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+    "geojson": "bandar-abbas.geojson"
+  },
+  {
+    "code": "bangkok",
+    "name": "Bangkok Port",
+    "country": "Thailand",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Bangkok Port in Thailand. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "bangkok.geojson"
+  },
+  {
+    "code": "banjarmasin",
+    "name": "Port of Banjarmasin",
+    "country": "Indonesia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Southeast Asian Straits"
+    ],
+    "description": "Port of Banjarmasin in Indonesia. Annual cargo throughput: ~15 million tons. Type: Bulk Port.",
+    "geojson": "banjarmasin.geojson"
+  },
+  {
+    "code": "barcelona",
+    "name": "Port of Barcelona",
+    "country": "Spain",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 70,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Barcelona in Spain. Annual cargo throughput: ~70 million tons. Type: Container Port.",
+    "geojson": "barcelona.geojson"
+  },
+  {
+    "code": "batumi",
+    "name": "Port of Batumi",
+    "country": "Georgia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 10,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Black Sea Shipping Route"
+    ],
+    "description": "Port of Batumi in Georgia. Annual cargo throughput: ~10 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "batumi.geojson"
+  },
+  {
+    "code": "beaumont",
+    "name": "Port of Beaumont",
+    "country": "United States",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 100,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Beaumont in United States. Annual cargo throughput: ~100 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "beaumont.geojson"
+  },
+  {
+    "code": "beira",
+    "name": "Port of Beira",
+    "country": "Mozambique",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East African Coastal Route"
+    ],
+    "description": "Port of Beira in Mozambique. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "beira.geojson"
+  },
+  {
+    "code": "beirut",
+    "name": "Port of Beirut",
+    "country": "Lebanon",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Beirut in Lebanon. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+    "geojson": "beirut.geojson"
+  },
+  {
+    "code": "belawan",
+    "name": "Port of Belawan",
+    "country": "Indonesia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Strait of Malacca Route"
+    ],
+    "description": "Port of Belawan in Indonesia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "belawan.geojson"
+  },
+  {
+    "code": "berbera",
+    "name": "Port of Berbera",
+    "country": "Somalia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Horn of Africa & Gulf of Aden"
+    ],
+    "description": "Port of Berbera in Somalia. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "berbera.geojson"
+  },
+  {
+    "code": "bergen",
+    "name": "Port of Bergen",
+    "country": "Norway",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Bergen in Norway. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+    "geojson": "bergen.geojson"
+  },
+  {
+    "code": "bilbao",
+    "name": "Port of Bilbao",
+    "country": "Spain",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Port of Bilbao in Spain. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+    "geojson": "bilbao.geojson"
+  },
+  {
+    "code": "black-sea-route",
+    "name": "Black Sea Shipping Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Connects Mediterranean trade via the Turkish Straits (Bosphorus and Dardanelles) to Black Sea ports. Critical for Ukrainian/Russian grain exports and energy trade.",
+    "geojson": "black-sea-route.geojson"
+  },
+  {
+    "code": "brazil-europe-route",
+    "name": "Brazil–Europe Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Direct transatlantic route connecting Brazilian ports with Western European markets. Major corridor for Brazilian agricultural exports (soy, coffee, sugar) and manufactured imports.",
+    "geojson": "brazil-europe-route.geojson"
+  },
+  {
+    "code": "bremerhaven",
+    "name": "Port of Bremerhaven",
+    "country": "Germany",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 50,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Port of Bremerhaven in Germany. Annual cargo throughput: ~50 million tons. Type: Container Port.",
+    "geojson": "bremerhaven.geojson"
+  },
+  {
+    "code": "brisbane",
+    "name": "Port of Brisbane",
+    "country": "Australia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Australia–Southeast Asia Route",
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Brisbane in Australia. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+    "geojson": "brisbane.geojson"
+  },
+  {
+    "code": "buenaventura",
+    "name": "Port of Buenaventura",
+    "country": "Colombia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Port of Buenaventura in Colombia. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+    "geojson": "buenaventura.geojson"
+  },
+  {
+    "code": "buenos-aires",
+    "name": "Port of Buenos Aires",
+    "country": "Argentina",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "River Plate & South Atlantic",
+      "South America–Caribbean Route"
+    ],
+    "description": "Port of Buenos Aires in Argentina. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+    "geojson": "buenos-aires.geojson"
+  },
+  {
+    "code": "busan",
+    "name": "Port of Busan",
+    "country": "South Korea",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 470,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Busan in South Korea. Annual cargo throughput: ~470 million tons. Type: Container Port.",
+    "geojson": "busan.geojson"
+  },
+  {
+    "code": "callao",
+    "name": "Port of Callao",
+    "country": "Peru",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West Coast Americas Route",
+      "Trans-Pacific Southern Route"
+    ],
+    "description": "Port of Callao in Peru. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "callao.geojson"
+  },
+  {
+    "code": "cape-of-good-hope",
+    "name": "Cape of Good Hope Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Alternative to the Suez Canal connecting Europe and Asia around the southern tip of Africa. Used by supertankers too large for the Suez Canal and as backup when the canal is disrupted.",
+    "geojson": "cape-of-good-hope.geojson"
+  },
+  {
+    "code": "cape-town",
+    "name": "Port of Cape Town",
+    "country": "South Africa",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Cape of Good Hope Route"
+    ],
+    "description": "Port of Cape Town in South Africa. Annual cargo throughput: ~5 million tons. Type: Container Port.",
+    "geojson": "cape-town.geojson"
+  },
+  {
+    "code": "caribbean-gulf-mexico",
+    "name": "Caribbean–Gulf of Mexico Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Network connecting US Gulf ports (Houston, New Orleans) with Caribbean islands and Central American nations. Major petroleum and petrochemical shipping corridor.",
+    "geojson": "caribbean-gulf-mexico.geojson"
+  },
+  {
+    "code": "cartagena-colombia",
+    "name": "Port of Cartagena",
+    "country": "Colombia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South America–Caribbean Route",
+      "Panama Canal Route"
+    ],
+    "description": "Port of Cartagena in Colombia. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+    "geojson": "cartagena-colombia.geojson"
+  },
+  {
+    "code": "casablanca",
+    "name": "Port of Casablanca",
+    "country": "Morocco",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route",
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Casablanca in Morocco. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+    "geojson": "casablanca.geojson"
+  },
+  {
+    "code": "caucedo",
+    "name": "Port of Caucedo",
+    "country": "Dominican Republic",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Caucedo in Dominican Republic. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "caucedo.geojson"
+  },
+  {
+    "code": "cebu",
+    "name": "Port of Cebu",
+    "country": "Philippines",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Cebu in Philippines. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "cebu.geojson"
+  },
+  {
+    "code": "charleston",
+    "name": "Port of Charleston",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "East Coast Americas Route"
+    ],
+    "description": "Port of Charleston in United States. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "charleston.geojson"
+  },
+  {
+    "code": "chennai",
+    "name": "Port of Chennai",
+    "country": "India",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 60,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "China–India Shipping Route",
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Chennai in India. Annual cargo throughput: ~60 million tons. Type: Container Port.",
+    "geojson": "chennai.geojson"
+  },
+  {
+    "code": "chiba",
+    "name": "Port of Chiba",
+    "country": "Japan",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 160,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Port of Chiba in Japan. Annual cargo throughput: ~160 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "chiba.geojson"
+  },
+  {
+    "code": "china-india-route",
+    "name": "China–India Shipping Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Major trade corridor between the world's two most populous nations. Carries manufactured goods from China and raw materials/commodities between Chinese and Indian ports.",
+    "geojson": "china-india-route.geojson"
+  },
+  {
+    "code": "chittagong",
+    "name": "Port of Chittagong",
+    "country": "Bangladesh",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 110,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Chittagong in Bangladesh. Annual cargo throughput: ~110 million tons. Type: Multi-Purpose Port.",
+    "geojson": "chittagong.geojson"
+  },
+  {
+    "code": "cochin",
+    "name": "Port of Cochin",
+    "country": "India",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Cochin in India. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "cochin.geojson"
+  },
+  {
+    "code": "colombo",
+    "name": "Port of Colombo",
+    "country": "Sri Lanka",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings",
+      "Suez Canal Route"
+    ],
+    "description": "Port of Colombo in Sri Lanka. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+    "geojson": "colombo.geojson"
+  },
+  {
+    "code": "colon",
+    "name": "Port of Colón",
+    "country": "Panama",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Panama Canal Route",
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Colón in Panama. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "colon.geojson"
+  },
+  {
+    "code": "conakry",
+    "name": "Port of Conakry",
+    "country": "Guinea",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Conakry in Guinea. Annual cargo throughput: ~15 million tons. Type: Bulk Port.",
+    "geojson": "conakry.geojson"
+  },
+  {
+    "code": "constanta",
+    "name": "Port of Constanta",
+    "country": "Romania",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 70,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Black Sea Shipping Route"
+    ],
+    "description": "Port of Constanta in Romania. Annual cargo throughput: ~70 million tons. Type: Multi-Purpose Port.",
+    "geojson": "constanta.geojson"
+  },
+  {
+    "code": "corpus-christi",
+    "name": "Port of Corpus Christi",
+    "country": "United States",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 170,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Corpus Christi in United States. Annual cargo throughput: ~170 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "corpus-christi.geojson"
+  },
+  {
+    "code": "cotonou",
+    "name": "Port of Cotonou",
+    "country": "Benin",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Cotonou in Benin. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "cotonou.geojson"
+  },
+  {
+    "code": "da-nang",
+    "name": "Port of Da Nang",
+    "country": "Vietnam",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "South China Sea Route"
+    ],
+    "description": "Port of Da Nang in Vietnam. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "da-nang.geojson"
+  },
+  {
+    "code": "dakar",
+    "name": "Port of Dakar",
+    "country": "Senegal",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 20,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Dakar in Senegal. Annual cargo throughput: ~20 million tons. Type: Multi-Purpose Port.",
+    "geojson": "dakar.geojson"
+  },
+  {
+    "code": "dalian",
+    "name": "Port of Dalian",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 420,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route",
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Dalian in China. Annual cargo throughput: ~420 million tons. Type: Multi-Purpose Port.",
+    "geojson": "dalian.geojson"
+  },
+  {
+    "code": "damietta",
+    "name": "Port of Damietta",
+    "country": "Egypt",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Suez Canal Route"
+    ],
+    "description": "Port of Damietta in Egypt. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "damietta.geojson"
+  },
+  {
+    "code": "dampier",
+    "name": "Port of Dampier",
+    "country": "Australia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 190,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Japan–Australia Route"
+    ],
+    "description": "Port of Dampier in Australia. Annual cargo throughput: ~190 million tons. Type: Bulk Port.",
+    "geojson": "dampier.geojson"
+  },
+  {
+    "code": "dar-es-salaam",
+    "name": "Port of Dar es Salaam",
+    "country": "Tanzania",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 18,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East African Coastal Route"
+    ],
+    "description": "Port of Dar es Salaam in Tanzania. Annual cargo throughput: ~18 million tons. Type: Multi-Purpose Port.",
+    "geojson": "dar-es-salaam.geojson"
+  },
+  {
+    "code": "djibouti",
+    "name": "Port of Djibouti",
+    "country": "Djibouti",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Red Sea Route",
+      "Horn of Africa & Gulf of Aden"
+    ],
+    "description": "Port of Djibouti in Djibouti. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+    "geojson": "djibouti.geojson"
+  },
+  {
+    "code": "douala",
+    "name": "Port of Douala",
+    "country": "Cameroon",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Douala in Cameroon. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "douala.geojson"
+  },
+  {
+    "code": "dunkirk",
+    "name": "Port of Dunkirk",
+    "country": "France",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 50,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "English Channel Route"
+    ],
+    "description": "Port of Dunkirk in France. Annual cargo throughput: ~50 million tons. Type: Bulk Port.",
+    "geojson": "dunkirk.geojson"
+  },
+  {
+    "code": "durban",
+    "name": "Port of Durban",
+    "country": "South Africa",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 90,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Cape of Good Hope Route",
+      "East African Coastal Route"
+    ],
+    "description": "Port of Durban in South Africa. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+    "geojson": "durban.geojson"
+  },
+  {
+    "code": "dutch-harbor",
+    "name": "Dutch Harbor",
+    "country": "United States",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "Arctic Northern Sea Route"
+    ],
+    "description": "Dutch Harbor in United States. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "dutch-harbor.geojson"
+  },
+  {
+    "code": "east-africa-coast",
+    "name": "East African Coastal Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Runs along the East African coast from the Red Sea to Mozambique. Connects the Suez Canal route to South African ports, serving the growing East African trade.",
+    "geojson": "east-africa-coast.geojson"
+  },
+  {
+    "code": "east-china-sea-route",
+    "name": "East China Sea–Japan Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Dense shipping network in the East China Sea connecting Chinese manufacturing ports to Japanese and Korean ports. One of the world's most trafficked maritime areas.",
+    "geojson": "east-china-sea-route.geojson"
+  },
+  {
+    "code": "east-coast-americas",
+    "name": "East Coast Americas Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Coastal shipping connecting US/Canadian East Coast ports with Caribbean and South American destinations. Major corridor for containerized trade and cruise shipping.",
+    "geojson": "east-coast-americas.geojson"
+  },
+  {
+    "code": "english-channel-route",
+    "name": "English Channel Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "One of the world's busiest shipping lanes. Connects the North Sea to the Atlantic, with traffic separation schemes managing 500+ vessel movements daily.",
+    "geojson": "english-channel-route.geojson"
+  },
+  {
+    "code": "felixstowe",
+    "name": "Port of Felixstowe",
+    "country": "United Kingdom",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "English Channel Route"
+    ],
+    "description": "Port of Felixstowe in United Kingdom. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "felixstowe.geojson"
+  },
+  {
+    "code": "freeport",
+    "name": "Freeport Container Port",
+    "country": "Bahamas",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route",
+      "East Coast Americas Route"
+    ],
+    "description": "Freeport Container Port in Bahamas. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+    "geojson": "freeport.geojson"
+  },
+  {
+    "code": "freetown",
+    "name": "Port of Freetown",
+    "country": "Sierra Leone",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Freetown in Sierra Leone. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "freetown.geojson"
+  },
+  {
+    "code": "fremantle",
+    "name": "Port of Fremantle",
+    "country": "Australia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Australia–Southeast Asia Route",
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Fremantle in Australia. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+    "geojson": "fremantle.geojson"
+  },
+  {
+    "code": "fuzhou",
+    "name": "Port of Fuzhou",
+    "country": "China",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 200,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South China Sea Route"
+    ],
+    "description": "Port of Fuzhou in China. Annual cargo throughput: ~200 million tons. Type: Container Port.",
+    "geojson": "fuzhou.geojson"
+  },
+  {
+    "code": "gdansk",
+    "name": "Port of Gdansk",
+    "country": "Poland",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 55,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Gdansk in Poland. Annual cargo throughput: ~55 million tons. Type: Container Port.",
+    "geojson": "gdansk.geojson"
+  },
+  {
+    "code": "genoa",
+    "name": "Port of Genoa",
+    "country": "Italy",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 60,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Genoa in Italy. Annual cargo throughput: ~60 million tons. Type: Container Port.",
+    "geojson": "genoa.geojson"
+  },
+  {
+    "code": "gioia-tauro",
+    "name": "Gioia Tauro",
+    "country": "Italy",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Gioia Tauro in Italy. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "gioia-tauro.geojson"
+  },
+  {
+    "code": "gladstone",
+    "name": "Port of Gladstone",
+    "country": "Australia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 120,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Japan–Australia Route",
+      "Trans-Pacific Southern Route"
+    ],
+    "description": "Port of Gladstone in Australia. Annual cargo throughput: ~120 million tons. Type: Bulk Port.",
+    "geojson": "gladstone.geojson"
+  },
+  {
+    "code": "gothenburg",
+    "name": "Port of Gothenburg",
+    "country": "Sweden",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Gothenburg in Sweden. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "gothenburg.geojson"
+  },
+  {
+    "code": "great-lakes-seaway",
+    "name": "Great Lakes–St. Lawrence Seaway",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Inland waterway system connecting the Atlantic Ocean to the North American Great Lakes. Vital for grain, iron ore, and steel shipments within the US–Canada corridor.",
+    "geojson": "great-lakes-seaway.geojson"
+  },
+  {
+    "code": "guam",
+    "name": "Port of Guam",
+    "country": "United States",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 3,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Guam in United States. Annual cargo throughput: ~3 million tons. Type: Multi-Purpose Port.",
+    "geojson": "guam.geojson"
+  },
+  {
+    "code": "guangzhou",
+    "name": "Port of Guangzhou",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 630,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "South China Sea Route",
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Guangzhou in China. Annual cargo throughput: ~630 million tons. Type: Multi-Purpose Port.",
+    "geojson": "guangzhou.geojson"
+  },
+  {
+    "code": "guayaquil",
+    "name": "Port of Guayaquil",
+    "country": "Ecuador",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Port of Guayaquil in Ecuador. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "guayaquil.geojson"
+  },
+  {
+    "code": "gwadar",
+    "name": "Port of Gwadar",
+    "country": "Pakistan",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "India–Persian Gulf Route"
+    ],
+    "description": "Port of Gwadar in Pakistan. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "gwadar.geojson"
+  },
+  {
+    "code": "gwangyang",
+    "name": "Port of Gwangyang",
+    "country": "South Korea",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 290,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Gwangyang in South Korea. Annual cargo throughput: ~290 million tons. Type: Bulk Port.",
+    "geojson": "gwangyang.geojson"
+  },
+  {
+    "code": "hai-phong",
+    "name": "Port of Hai Phong",
+    "country": "Vietnam",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 150,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South China Sea Route"
+    ],
+    "description": "Port of Hai Phong in Vietnam. Annual cargo throughput: ~150 million tons. Type: Container Port.",
+    "geojson": "hai-phong.geojson"
+  },
+  {
+    "code": "haifa",
+    "name": "Port of Haifa",
+    "country": "Israel",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Haifa in Israel. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "haifa.geojson"
+  },
+  {
+    "code": "hakata",
+    "name": "Port of Hakata",
+    "country": "Japan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Hakata in Japan. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "hakata.geojson"
+  },
+  {
+    "code": "halifax",
+    "name": "Port of Halifax",
+    "country": "Canada",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Port of Halifax in Canada. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "halifax.geojson"
+  },
+  {
+    "code": "hamad",
+    "name": "Hamad Port",
+    "country": "Qatar",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Hamad Port in Qatar. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "hamad.geojson"
+  },
+  {
+    "code": "hambantota",
+    "name": "Port of Hambantota",
+    "country": "Sri Lanka",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Hambantota in Sri Lanka. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+    "geojson": "hambantota.geojson"
+  },
+  {
+    "code": "hamburg",
+    "name": "Port of Hamburg",
+    "country": "Germany",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 130,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route",
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Port of Hamburg in Germany. Annual cargo throughput: ~130 million tons. Type: Container Port.",
+    "geojson": "hamburg.geojson"
+  },
+  {
+    "code": "havana",
+    "name": "Port of Havana",
+    "country": "Cuba",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Havana in Cuba. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "havana.geojson"
+  },
+  {
+    "code": "hay-point",
+    "name": "Hay Point / Dalrymple Bay",
+    "country": "Australia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Japan–Australia Route"
+    ],
+    "description": "Hay Point / Dalrymple Bay in Australia. Annual cargo throughput: ~100 million tons. Type: Bulk Port.",
+    "geojson": "hay-point.geojson"
+  },
+  {
+    "code": "helsinki",
+    "name": "Port of Helsinki",
+    "country": "Finland",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Helsinki in Finland. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+    "geojson": "helsinki.geojson"
+  },
+  {
+    "code": "ho-chi-minh-city",
+    "name": "Ho Chi Minh City Port",
+    "country": "Vietnam",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 170,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network",
+      "South China Sea Route"
+    ],
+    "description": "Ho Chi Minh City Port in Vietnam. Annual cargo throughput: ~170 million tons. Type: Container Port.",
+    "geojson": "ho-chi-minh-city.geojson"
+  },
+  {
+    "code": "hodeidah",
+    "name": "Port of Hodeidah",
+    "country": "Yemen",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Red Sea Route"
+    ],
+    "description": "Port of Hodeidah in Yemen. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "hodeidah.geojson"
+  },
+  {
+    "code": "hong-kong",
+    "name": "Port of Hong Kong",
+    "country": "China",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 260,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South China Sea Route",
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Hong Kong in China. Annual cargo throughput: ~260 million tons. Type: Container Port.",
+    "geojson": "hong-kong.geojson"
+  },
+  {
+    "code": "honolulu",
+    "name": "Port of Honolulu",
+    "country": "United States",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Honolulu in United States. Annual cargo throughput: ~12 million tons. Type: Multi-Purpose Port.",
+    "geojson": "honolulu.geojson"
+  },
+  {
+    "code": "horn-of-africa-route",
+    "name": "Horn of Africa & Gulf of Aden",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Critical chokepoint at the Bab el-Mandeb strait connecting the Red Sea to the Indian Ocean. Historically affected by piracy, now heavily patrolled by international naval forces.",
+    "geojson": "horn-of-africa-route.geojson"
+  },
+  {
+    "code": "houston",
+    "name": "Port of Houston",
+    "country": "United States",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 275,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route",
+      "Panama Canal Route"
+    ],
+    "description": "Port of Houston in United States. Annual cargo throughput: ~275 million tons. Type: Multi-Purpose Port.",
+    "geojson": "houston.geojson"
+  },
+  {
+    "code": "incheon",
+    "name": "Port of Incheon",
+    "country": "South Korea",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 320,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Incheon in South Korea. Annual cargo throughput: ~320 million tons. Type: Multi-Purpose Port.",
+    "geojson": "incheon.geojson"
+  },
+  {
+    "code": "india-persian-gulf",
+    "name": "India–Persian Gulf Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Connects Indian subcontinent ports with Persian Gulf nations. Major corridor for oil imports to India and general trade with the UAE, Saudi Arabia, and other Gulf states.",
+    "geojson": "india-persian-gulf.geojson"
+  },
+  {
+    "code": "indian-ocean-crossings",
+    "name": "Indian Ocean Crossings",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Trans-Indian Ocean routes connecting East Africa, the Middle East, and India with Southeast Asia. Monsoon-influenced sailing routes used for millennia.",
+    "geojson": "indian-ocean-crossings.geojson"
+  },
+  {
+    "code": "intra-asian-route",
+    "name": "Intra-Asian Shipping Network",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Dense web of feeder and mainline services connecting East Asian manufacturing centers. Represents the fastest-growing segment of global container shipping.",
+    "geojson": "intra-asian-route.geojson"
+  },
+  {
+    "code": "iquique",
+    "name": "Port of Iquique",
+    "country": "Chile",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Port of Iquique in Chile. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "iquique.geojson"
+  },
+  {
+    "code": "iskenderun",
+    "name": "Port of Iskenderun",
+    "country": "Turkey",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Iskenderun in Turkey. Annual cargo throughput: ~35 million tons. Type: Bulk Port.",
+    "geojson": "iskenderun.geojson"
+  },
+  {
+    "code": "istanbul-ambarli",
+    "name": "Ambarli (Istanbul)",
+    "country": "Turkey",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 50,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Black Sea Shipping Route",
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Ambarli (Istanbul) in Turkey. Annual cargo throughput: ~50 million tons. Type: Container Port.",
+    "geojson": "istanbul-ambarli.geojson"
+  },
+  {
+    "code": "itaqui",
+    "name": "Port of Itaqui",
+    "country": "Brazil",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route"
+    ],
+    "description": "Port of Itaqui in Brazil. Annual cargo throughput: ~30 million tons. Type: Bulk Port.",
+    "geojson": "itaqui.geojson"
+  },
+  {
+    "code": "japan-australia-route",
+    "name": "Japan–Australia Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Connects Australian iron ore and coal ports with Japanese steel mills. One of the world's highest-volume bulk shipping corridors.",
+    "geojson": "japan-australia-route.geojson"
+  },
+  {
+    "code": "japan-korea-china-triangle",
+    "name": "Japan–Korea–China Triangle",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "High-density short-sea shipping triangle connecting the ports of Tokyo/Yokohama, Busan, and Shanghai. Among the most trafficked short-distance routes globally.",
+    "geojson": "japan-korea-china-triangle.geojson"
+  },
+  {
+    "code": "jebel-ali",
+    "name": "Jebel Ali (Dubai)",
+    "country": "UAE",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 160,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes",
+      "India–Persian Gulf Route"
+    ],
+    "description": "Jebel Ali (Dubai) in UAE. Annual cargo throughput: ~160 million tons. Type: Container Port.",
+    "geojson": "jebel-ali.geojson"
+  },
+  {
+    "code": "jeddah",
+    "name": "Jeddah Islamic Port",
+    "country": "Saudi Arabia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 75,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Red Sea Route",
+      "Suez Canal Route"
+    ],
+    "description": "Jeddah Islamic Port in Saudi Arabia. Annual cargo throughput: ~75 million tons. Type: Container Port.",
+    "geojson": "jeddah.geojson"
+  },
+  {
+    "code": "johor",
+    "name": "Port of Johor",
+    "country": "Malaysia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Strait of Malacca Route"
+    ],
+    "description": "Port of Johor in Malaysia. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+    "geojson": "johor.geojson"
+  },
+  {
+    "code": "jubail",
+    "name": "Port of Jubail",
+    "country": "Saudi Arabia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 100,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Port of Jubail in Saudi Arabia. Annual cargo throughput: ~100 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "jubail.geojson"
+  },
+  {
+    "code": "kandla",
+    "name": "Port of Kandla",
+    "country": "India",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 130,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "India–Persian Gulf Route"
+    ],
+    "description": "Port of Kandla in India. Annual cargo throughput: ~130 million tons. Type: Bulk Port.",
+    "geojson": "kandla.geojson"
+  },
+  {
+    "code": "kaohsiung",
+    "name": "Port of Kaohsiung",
+    "country": "Taiwan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 160,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South China Sea Route",
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Kaohsiung in Taiwan. Annual cargo throughput: ~160 million tons. Type: Container Port.",
+    "geojson": "kaohsiung.geojson"
+  },
+  {
+    "code": "karachi",
+    "name": "Port of Karachi",
+    "country": "Pakistan",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 60,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "India–Persian Gulf Route",
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Karachi in Pakistan. Annual cargo throughput: ~60 million tons. Type: Multi-Purpose Port.",
+    "geojson": "karachi.geojson"
+  },
+  {
+    "code": "keelung",
+    "name": "Port of Keelung",
+    "country": "Taiwan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 45,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Keelung in Taiwan. Annual cargo throughput: ~45 million tons. Type: Container Port.",
+    "geojson": "keelung.geojson"
+  },
+  {
+    "code": "khalifa",
+    "name": "Khalifa Port",
+    "country": "UAE",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 45,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Khalifa Port in UAE. Annual cargo throughput: ~45 million tons. Type: Container Port.",
+    "geojson": "khalifa.geojson"
+  },
+  {
+    "code": "king-abdullah",
+    "name": "King Abdullah Port",
+    "country": "Saudi Arabia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Red Sea Route",
+      "Suez Canal Route"
+    ],
+    "description": "King Abdullah Port in Saudi Arabia. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "king-abdullah.geojson"
+  },
+  {
+    "code": "kingston",
+    "name": "Port of Kingston",
+    "country": "Jamaica",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Kingston in Jamaica. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+    "geojson": "kingston.geojson"
+  },
+  {
+    "code": "kitakyushu",
+    "name": "Port of Kitakyushu",
+    "country": "Japan",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 110,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Kitakyushu in Japan. Annual cargo throughput: ~110 million tons. Type: Bulk Port.",
+    "geojson": "kitakyushu.geojson"
+  },
+  {
+    "code": "klaipeda",
+    "name": "Port of Klaipeda",
+    "country": "Lithuania",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 45,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Klaipeda in Lithuania. Annual cargo throughput: ~45 million tons. Type: Multi-Purpose Port.",
+    "geojson": "klaipeda.geojson"
+  },
+  {
+    "code": "kobe",
+    "name": "Port of Kobe",
+    "country": "Japan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Kobe in Japan. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+    "geojson": "kobe.geojson"
+  },
+  {
+    "code": "koper",
+    "name": "Port of Koper",
+    "country": "Slovenia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Adriatic Sea Route"
+    ],
+    "description": "Port of Koper in Slovenia. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+    "geojson": "koper.geojson"
+  },
+  {
+    "code": "korea-strait-route",
+    "name": "Korea Strait Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Narrow strait between South Korea and Japan, one of the busiest short-sea shipping lanes in Asia. Critical for trade between Korean and Japanese ports.",
+    "geojson": "korea-strait-route.geojson"
+  },
+  {
+    "code": "kuantan",
+    "name": "Port of Kuantan",
+    "country": "Malaysia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "South China Sea Route"
+    ],
+    "description": "Port of Kuantan in Malaysia. Annual cargo throughput: ~30 million tons. Type: Bulk Port.",
+    "geojson": "kuantan.geojson"
+  },
+  {
+    "code": "kuwait",
+    "name": "Port of Kuwait",
+    "country": "Kuwait",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Port of Kuwait in Kuwait. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+    "geojson": "kuwait.geojson"
+  },
+  {
+    "code": "la-guaira",
+    "name": "Puerto de La Guaira",
+    "country": "Venezuela",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "South America–Caribbean Route"
+    ],
+    "description": "Puerto de La Guaira in Venezuela. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "la-guaira.geojson"
+  },
+  {
+    "code": "lae",
+    "name": "Port of Lae",
+    "country": "Papua New Guinea",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Lae in Papua New Guinea. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "lae.geojson"
+  },
+  {
+    "code": "laem-chabang",
+    "name": "Laem Chabang",
+    "country": "Thailand",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 160,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Laem Chabang in Thailand. Annual cargo throughput: ~160 million tons. Type: Container Port.",
+    "geojson": "laem-chabang.geojson"
+  },
+  {
+    "code": "lagos-apapa",
+    "name": "Apapa Port (Lagos)",
+    "country": "Nigeria",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 75,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West African Coastal Route",
+      "Trans-Atlantic Southern Route"
+    ],
+    "description": "Apapa Port (Lagos) in Nigeria. Annual cargo throughput: ~75 million tons. Type: Container Port.",
+    "geojson": "lagos-apapa.geojson"
+  },
+  {
+    "code": "lattakia",
+    "name": "Port of Lattakia",
+    "country": "Syria",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Lattakia in Syria. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "lattakia.geojson"
+  },
+  {
+    "code": "lazaro-cardenas",
+    "name": "Lázaro Cárdenas",
+    "country": "Mexico",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Lázaro Cárdenas in Mexico. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "lazaro-cardenas.geojson"
+  },
+  {
+    "code": "le-havre",
+    "name": "Le Havre",
+    "country": "France",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 80,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "English Channel Route",
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Le Havre in France. Annual cargo throughput: ~80 million tons. Type: Multi-Purpose Port.",
+    "geojson": "le-havre.geojson"
+  },
+  {
+    "code": "lianyungang",
+    "name": "Port of Lianyungang",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 260,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Lianyungang in China. Annual cargo throughput: ~260 million tons. Type: Multi-Purpose Port.",
+    "geojson": "lianyungang.geojson"
+  },
+  {
+    "code": "libreville",
+    "name": "Port of Libreville",
+    "country": "Gabon",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 5,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Libreville in Gabon. Annual cargo throughput: ~5 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "libreville.geojson"
+  },
+  {
+    "code": "limon",
+    "name": "Port of Limón",
+    "country": "Costa Rica",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Limón in Costa Rica. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+    "geojson": "limon.geojson"
+  },
+  {
+    "code": "lisbon",
+    "name": "Port of Lisbon",
+    "country": "Portugal",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Lisbon in Portugal. Annual cargo throughput: ~15 million tons. Type: Container Port.",
+    "geojson": "lisbon.geojson"
+  },
+  {
+    "code": "lome",
+    "name": "Port of Lomé",
+    "country": "Togo",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Lomé in Togo. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "lome.geojson"
+  },
+  {
+    "code": "london-gateway",
+    "name": "London Gateway",
+    "country": "United Kingdom",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 20,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "English Channel Route"
+    ],
+    "description": "London Gateway in United Kingdom. Annual cargo throughput: ~20 million tons. Type: Container Port.",
+    "geojson": "london-gateway.geojson"
+  },
+  {
+    "code": "long-beach",
+    "name": "Port of Long Beach",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 90,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Long Beach in United States. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+    "geojson": "long-beach.geojson"
+  },
+  {
+    "code": "los-angeles",
+    "name": "Port of Los Angeles",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "Panama Canal Route"
+    ],
+    "description": "Port of Los Angeles in United States. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+    "geojson": "los-angeles.geojson"
+  },
+  {
+    "code": "luanda",
+    "name": "Port of Luanda",
+    "country": "Angola",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 10,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "West African Coastal Route",
+      "Trans-Atlantic Southern Route"
+    ],
+    "description": "Port of Luanda in Angola. Annual cargo throughput: ~10 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "luanda.geojson"
+  },
+  {
+    "code": "lyttelton",
+    "name": "Port of Lyttelton",
+    "country": "New Zealand",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "New Zealand Trade Route"
+    ],
+    "description": "Port of Lyttelton in New Zealand. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "lyttelton.geojson"
+  },
+  {
+    "code": "makassar",
+    "name": "Port of Makassar",
+    "country": "Indonesia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Southeast Asian Straits"
+    ],
+    "description": "Port of Makassar in Indonesia. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+    "geojson": "makassar.geojson"
+  },
+  {
+    "code": "manila",
+    "name": "Port of Manila",
+    "country": "Philippines",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 70,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South China Sea Route",
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Manila in Philippines. Annual cargo throughput: ~70 million tons. Type: Container Port.",
+    "geojson": "manila.geojson"
+  },
+  {
+    "code": "manzanillo-mexico",
+    "name": "Port of Manzanillo",
+    "country": "Mexico",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West Coast Americas Route",
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Manzanillo in Mexico. Annual cargo throughput: ~35 million tons. Type: Container Port.",
+    "geojson": "manzanillo-mexico.geojson"
+  },
+  {
+    "code": "manzanillo-panama",
+    "name": "Manzanillo Intl Terminal",
+    "country": "Panama",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Panama Canal Route"
+    ],
+    "description": "Manzanillo Intl Terminal in Panama. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "manzanillo-panama.geojson"
+  },
+  {
+    "code": "maputo",
+    "name": "Port of Maputo",
+    "country": "Mozambique",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 20,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East African Coastal Route"
+    ],
+    "description": "Port of Maputo in Mozambique. Annual cargo throughput: ~20 million tons. Type: Multi-Purpose Port.",
+    "geojson": "maputo.geojson"
+  },
+  {
+    "code": "marseille",
+    "name": "Port of Marseille",
+    "country": "France",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 80,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route",
+      "Suez Canal Route"
+    ],
+    "description": "Port of Marseille in France. Annual cargo throughput: ~80 million tons. Type: Multi-Purpose Port.",
+    "geojson": "marseille.geojson"
+  },
+  {
+    "code": "massawa",
+    "name": "Port of Massawa",
+    "country": "Eritrea",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 3,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Red Sea Route"
+    ],
+    "description": "Port of Massawa in Eritrea. Annual cargo throughput: ~3 million tons. Type: Multi-Purpose Port.",
+    "geojson": "massawa.geojson"
+  },
+  {
+    "code": "mediterranean-route",
+    "name": "Mediterranean Shipping Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "East–West corridor through the Mediterranean connecting the Strait of Gibraltar to the Suez Canal. One of the world's busiest waterways with major transshipment hubs.",
+    "geojson": "mediterranean-route.geojson"
+  },
+  {
+    "code": "melbourne",
+    "name": "Port of Melbourne",
+    "country": "Australia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Australia–Southeast Asia Route",
+      "New Zealand Trade Route"
+    ],
+    "description": "Port of Melbourne in Australia. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "melbourne.geojson"
+  },
+  {
+    "code": "mersin",
+    "name": "Port of Mersin",
+    "country": "Turkey",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Mersin in Turkey. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "mersin.geojson"
+  },
+  {
+    "code": "miami",
+    "name": "PortMiami",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route",
+      "East Coast Americas Route"
+    ],
+    "description": "PortMiami in United States. Annual cargo throughput: ~12 million tons. Type: Container Port.",
+    "geojson": "miami.geojson"
+  },
+  {
+    "code": "mogadishu",
+    "name": "Port of Mogadishu",
+    "country": "Somalia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Horn of Africa & Gulf of Aden"
+    ],
+    "description": "Port of Mogadishu in Somalia. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "mogadishu.geojson"
+  },
+  {
+    "code": "mombasa",
+    "name": "Port of Mombasa",
+    "country": "Kenya",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 35,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East African Coastal Route",
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Mombasa in Kenya. Annual cargo throughput: ~35 million tons. Type: Multi-Purpose Port.",
+    "geojson": "mombasa.geojson"
+  },
+  {
+    "code": "montevideo",
+    "name": "Port of Montevideo",
+    "country": "Uruguay",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "River Plate & South Atlantic"
+    ],
+    "description": "Port of Montevideo in Uruguay. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "montevideo.geojson"
+  },
+  {
+    "code": "montreal",
+    "name": "Port of Montreal",
+    "country": "Canada",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "Great Lakes–St. Lawrence Seaway"
+    ],
+    "description": "Port of Montreal in Canada. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "montreal.geojson"
+  },
+  {
+    "code": "mumbai-nhava-sheva",
+    "name": "Nhava Sheva (JNPT)",
+    "country": "India",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 80,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "India–Persian Gulf Route",
+      "Suez Canal Route"
+    ],
+    "description": "Nhava Sheva (JNPT) in India. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+    "geojson": "mumbai-nhava-sheva.geojson"
+  },
+  {
+    "code": "mundra",
+    "name": "Port of Mundra",
+    "country": "India",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 200,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "India–Persian Gulf Route"
+    ],
+    "description": "Port of Mundra in India. Annual cargo throughput: ~200 million tons. Type: Multi-Purpose Port.",
+    "geojson": "mundra.geojson"
+  },
+  {
+    "code": "murmansk",
+    "name": "Port of Murmansk",
+    "country": "Russia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 55,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Arctic Northern Sea Route"
+    ],
+    "description": "Port of Murmansk in Russia. Annual cargo throughput: ~55 million tons. Type: Multi-Purpose Port.",
+    "geojson": "murmansk.geojson"
+  },
+  {
+    "code": "muscat",
+    "name": "Port Sultan Qaboos",
+    "country": "Oman",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Port Sultan Qaboos in Oman. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+    "geojson": "muscat.geojson"
+  },
+  {
+    "code": "nacala",
+    "name": "Port of Nacala",
+    "country": "Mozambique",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East African Coastal Route"
+    ],
+    "description": "Port of Nacala in Mozambique. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "nacala.geojson"
+  },
+  {
+    "code": "nagoya",
+    "name": "Port of Nagoya",
+    "country": "Japan",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 200,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Nagoya in Japan. Annual cargo throughput: ~200 million tons. Type: Multi-Purpose Port.",
+    "geojson": "nagoya.geojson"
+  },
+  {
+    "code": "nakhodka",
+    "name": "Port of Nakhodka",
+    "country": "Russia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Arctic Northern Sea Route"
+    ],
+    "description": "Port of Nakhodka in Russia. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+    "geojson": "nakhodka.geojson"
+  },
+  {
+    "code": "nanjing",
+    "name": "Port of Nanjing",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 270,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Nanjing in China. Annual cargo throughput: ~270 million tons. Type: Multi-Purpose Port.",
+    "geojson": "nanjing.geojson"
+  },
+  {
+    "code": "new-mangalore",
+    "name": "New Mangalore Port",
+    "country": "India",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 45,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "New Mangalore Port in India. Annual cargo throughput: ~45 million tons. Type: Multi-Purpose Port.",
+    "geojson": "new-mangalore.geojson"
+  },
+  {
+    "code": "new-orleans",
+    "name": "Port of New Orleans",
+    "country": "United States",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 95,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of New Orleans in United States. Annual cargo throughput: ~95 million tons. Type: Multi-Purpose Port.",
+    "geojson": "new-orleans.geojson"
+  },
+  {
+    "code": "new-york-new-jersey",
+    "name": "Port of New York/New Jersey",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "Panama Canal Route"
+    ],
+    "description": "Port of New York/New Jersey in United States. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+    "geojson": "new-york-new-jersey.geojson"
+  },
+  {
+    "code": "new-zealand-trade-route",
+    "name": "New Zealand Trade Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Connects New Zealand with trading partners in Australia, Southeast Asia, and the Pacific. Vital for dairy, meat, and timber exports.",
+    "geojson": "new-zealand-trade-route.geojson"
+  },
+  {
+    "code": "ningbo-zhoushan",
+    "name": "Ningbo-Zhoushan",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 1240,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Ningbo-Zhoushan in China. Annual cargo throughput: ~1240 million tons. Type: Multi-Purpose Port.",
+    "geojson": "ningbo-zhoushan.geojson"
+  },
+  {
+    "code": "north-sea-baltic",
+    "name": "North Sea–Baltic Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Major European shipping corridor connecting North Sea ports to Baltic nations. Includes the Kiel Canal shortcut and Danish Straits. Vital for Scandinavian and Eastern European trade.",
+    "geojson": "north-sea-baltic.geojson"
+  },
+  {
+    "code": "northwest-passage",
+    "name": "Northwest Passage Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Arctic shipping route through Canadian Arctic Archipelago connecting Atlantic to Pacific. Limited by ice but opening more with climate change. Potential future shortcut between Europe and Asia.",
+    "geojson": "northwest-passage.geojson"
+  },
+  {
+    "code": "noumea",
+    "name": "Port of Nouméa",
+    "country": "New Caledonia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Nouméa in New Caledonia. Annual cargo throughput: ~5 million tons. Type: Bulk Port.",
+    "geojson": "noumea.geojson"
+  },
+  {
+    "code": "novorossiysk",
+    "name": "Port of Novorossiysk",
+    "country": "Russia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 160,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Black Sea Shipping Route"
+    ],
+    "description": "Port of Novorossiysk in Russia. Annual cargo throughput: ~160 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "novorossiysk.geojson"
+  },
+  {
+    "code": "oakland",
+    "name": "Port of Oakland",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Oakland in United States. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+    "geojson": "oakland.geojson"
+  },
+  {
+    "code": "odesa",
+    "name": "Port of Odesa",
+    "country": "Ukraine",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Black Sea Shipping Route"
+    ],
+    "description": "Port of Odesa in Ukraine. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "odesa.geojson"
+  },
+  {
+    "code": "osaka",
+    "name": "Port of Osaka",
+    "country": "Japan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 90,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Osaka in Japan. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+    "geojson": "osaka.geojson"
+  },
+  {
+    "code": "oslo",
+    "name": "Port of Oslo",
+    "country": "Norway",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Scandinavia–Russia Route"
+    ],
+    "description": "Port of Oslo in Norway. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+    "geojson": "oslo.geojson"
+  },
+  {
+    "code": "pacific-islands-route",
+    "name": "Pacific Islands Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Connects major Pacific island nations with Australia, New Zealand, and mainland Asian ports. Essential lifeline for remote island economies.",
+    "geojson": "pacific-islands-route.geojson"
+  },
+  {
+    "code": "panama-canal-route",
+    "name": "Panama Canal Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Connects the Atlantic and Pacific oceans through Central America. Critical for US intercoastal trade and Asia-to-US East Coast shipping. Expanded in 2016 to accommodate Neo-Panamax vessels.",
+    "geojson": "panama-canal-route.geojson"
+  },
+  {
+    "code": "papeete",
+    "name": "Port of Papeete",
+    "country": "French Polynesia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 2,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Papeete in French Polynesia. Annual cargo throughput: ~2 million tons. Type: Multi-Purpose Port.",
+    "geojson": "papeete.geojson"
+  },
+  {
+    "code": "paradip",
+    "name": "Port of Paradip",
+    "country": "India",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 130,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Paradip in India. Annual cargo throughput: ~130 million tons. Type: Bulk Port.",
+    "geojson": "paradip.geojson"
+  },
+  {
+    "code": "paranagua",
+    "name": "Port of Paranaguá",
+    "country": "Brazil",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 55,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route"
+    ],
+    "description": "Port of Paranaguá in Brazil. Annual cargo throughput: ~55 million tons. Type: Bulk Port.",
+    "geojson": "paranagua.geojson"
+  },
+  {
+    "code": "penang",
+    "name": "Port of Penang",
+    "country": "Malaysia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Strait of Malacca Route"
+    ],
+    "description": "Port of Penang in Malaysia. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+    "geojson": "penang.geojson"
+  },
+  {
+    "code": "persian-gulf-routes",
+    "name": "Persian Gulf Oil Routes",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Oil tanker superhighway from the Persian Gulf through the Strait of Hormuz. Carries ~20% of the world's oil supply. Routes branch to East Asia, Europe, and the Americas.",
+    "geojson": "persian-gulf-routes.geojson"
+  },
+  {
+    "code": "piraeus",
+    "name": "Port of Piraeus",
+    "country": "Greece",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 75,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route",
+      "Black Sea Shipping Route"
+    ],
+    "description": "Port of Piraeus in Greece. Annual cargo throughput: ~75 million tons. Type: Container Port.",
+    "geojson": "piraeus.geojson"
+  },
+  {
+    "code": "point-lisas",
+    "name": "Point Lisas",
+    "country": "Trinidad and Tobago",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "South America–Caribbean Route"
+    ],
+    "description": "Point Lisas in Trinidad and Tobago. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+    "geojson": "point-lisas.geojson"
+  },
+  {
+    "code": "pointe-noire",
+    "name": "Pointe-Noire",
+    "country": "Republic of Congo",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 10,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Pointe-Noire in Republic of Congo. Annual cargo throughput: ~10 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "pointe-noire.geojson"
+  },
+  {
+    "code": "port-hedland",
+    "name": "Port Hedland",
+    "country": "Australia",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 570,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Japan–Australia Route",
+      "China–India Shipping Route"
+    ],
+    "description": "Port Hedland in Australia. Annual cargo throughput: ~570 million tons. Type: Bulk Port.",
+    "geojson": "port-hedland.geojson"
+  },
+  {
+    "code": "port-klang",
+    "name": "Port Klang",
+    "country": "Malaysia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 260,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Strait of Malacca Route"
+    ],
+    "description": "Port Klang in Malaysia. Annual cargo throughput: ~260 million tons. Type: Container Port.",
+    "geojson": "port-klang.geojson"
+  },
+  {
+    "code": "port-louis",
+    "name": "Port Louis",
+    "country": "Mauritius",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port Louis in Mauritius. Annual cargo throughput: ~8 million tons. Type: Container Port.",
+    "geojson": "port-louis.geojson"
+  },
+  {
+    "code": "port-moresby",
+    "name": "Port Moresby",
+    "country": "Papua New Guinea",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Australia–Southeast Asia Route"
+    ],
+    "description": "Port Moresby in Papua New Guinea. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+    "geojson": "port-moresby.geojson"
+  },
+  {
+    "code": "port-said",
+    "name": "Port Said",
+    "country": "Egypt",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Suez Canal Route",
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port Said in Egypt. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "port-said.geojson"
+  },
+  {
+    "code": "port-sudan",
+    "name": "Port Sudan",
+    "country": "Sudan",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Red Sea Route"
+    ],
+    "description": "Port Sudan in Sudan. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+    "geojson": "port-sudan.geojson"
+  },
+  {
+    "code": "primorsk",
+    "name": "Port of Primorsk",
+    "country": "Russia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 60,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Primorsk in Russia. Annual cargo throughput: ~60 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "primorsk.geojson"
+  },
+  {
+    "code": "prince-rupert",
+    "name": "Port of Prince Rupert",
+    "country": "Canada",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Prince Rupert in Canada. Annual cargo throughput: ~30 million tons. Type: Container Port.",
+    "geojson": "prince-rupert.geojson"
+  },
+  {
+    "code": "puerto-cortes",
+    "name": "Puerto Cortés",
+    "country": "Honduras",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Puerto Cortés in Honduras. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "puerto-cortes.geojson"
+  },
+  {
+    "code": "puerto-quetzal",
+    "name": "Puerto Quetzal",
+    "country": "Guatemala",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Puerto Quetzal in Guatemala. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+    "geojson": "puerto-quetzal.geojson"
+  },
+  {
+    "code": "qingdao",
+    "name": "Port of Qingdao",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 630,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Qingdao in China. Annual cargo throughput: ~630 million tons. Type: Multi-Purpose Port.",
+    "geojson": "qingdao.geojson"
+  },
+  {
+    "code": "ras-tanura",
+    "name": "Ras Tanura",
+    "country": "Saudi Arabia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 250,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Ras Tanura in Saudi Arabia. Annual cargo throughput: ~250 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "ras-tanura.geojson"
+  },
+  {
+    "code": "ravenna",
+    "name": "Port of Ravenna",
+    "country": "Italy",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Adriatic Sea Route"
+    ],
+    "description": "Port of Ravenna in Italy. Annual cargo throughput: ~25 million tons. Type: Bulk Port.",
+    "geojson": "ravenna.geojson"
+  },
+  {
+    "code": "red-sea-route",
+    "name": "Red Sea Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Connects the Suez Canal to the Gulf of Aden through the Bab el-Mandeb strait. A critical chokepoint for Europe–Asia trade carrying ~10% of global maritime commerce.",
+    "geojson": "red-sea-route.geojson"
+  },
+  {
+    "code": "richards-bay",
+    "name": "Richards Bay",
+    "country": "South Africa",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Cape of Good Hope Route"
+    ],
+    "description": "Richards Bay in South Africa. Annual cargo throughput: ~100 million tons. Type: Bulk Port.",
+    "geojson": "richards-bay.geojson"
+  },
+  {
+    "code": "riga",
+    "name": "Port of Riga",
+    "country": "Latvia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Riga in Latvia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "riga.geojson"
+  },
+  {
+    "code": "rijeka",
+    "name": "Port of Rijeka",
+    "country": "Croatia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Adriatic Sea Route"
+    ],
+    "description": "Port of Rijeka in Croatia. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+    "geojson": "rijeka.geojson"
+  },
+  {
+    "code": "rio-de-janeiro",
+    "name": "Port of Rio de Janeiro",
+    "country": "Brazil",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 6,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route",
+      "Brazil–Europe Route"
+    ],
+    "description": "Port of Rio de Janeiro in Brazil. Annual cargo throughput: ~6 million tons. Type: Multi-Purpose Port.",
+    "geojson": "rio-de-janeiro.geojson"
+  },
+  {
+    "code": "rio-grande",
+    "name": "Port of Rio Grande",
+    "country": "Brazil",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route",
+      "River Plate & South Atlantic"
+    ],
+    "description": "Port of Rio Grande in Brazil. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+    "geojson": "rio-grande.geojson"
+  },
+  {
+    "code": "river-plate-route",
+    "name": "River Plate & South Atlantic",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Shipping corridor serving the River Plate estuary (Buenos Aires, Montevideo) and connecting to European, African, and intra-South American routes.",
+    "geojson": "river-plate-route.geojson"
+  },
+  {
+    "code": "rizhao",
+    "name": "Port of Rizhao",
+    "country": "China",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 390,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Rizhao in China. Annual cargo throughput: ~390 million tons. Type: Bulk Port.",
+    "geojson": "rizhao.geojson"
+  },
+  {
+    "code": "rosario",
+    "name": "Port of Rosario",
+    "country": "Argentina",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 20,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "River Plate & South Atlantic"
+    ],
+    "description": "Port of Rosario in Argentina. Annual cargo throughput: ~20 million tons. Type: Bulk Port.",
+    "geojson": "rosario.geojson"
+  },
+  {
+    "code": "rotterdam",
+    "name": "Port of Rotterdam",
+    "country": "Netherlands",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 470,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "North Sea–Baltic Route",
+      "Suez Canal Route"
+    ],
+    "description": "Port of Rotterdam in Netherlands. Annual cargo throughput: ~470 million tons. Type: Multi-Purpose Port.",
+    "geojson": "rotterdam.geojson"
+  },
+  {
+    "code": "sabetta",
+    "name": "Port of Sabetta",
+    "country": "Russia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 30,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Arctic Northern Sea Route"
+    ],
+    "description": "Port of Sabetta in Russia. Annual cargo throughput: ~30 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "sabetta.geojson"
+  },
+  {
+    "code": "salalah",
+    "name": "Port of Salalah",
+    "country": "Oman",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Horn of Africa & Gulf of Aden",
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Salalah in Oman. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "salalah.geojson"
+  },
+  {
+    "code": "salvador",
+    "name": "Port of Salvador",
+    "country": "Brazil",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route"
+    ],
+    "description": "Port of Salvador in Brazil. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+    "geojson": "salvador.geojson"
+  },
+  {
+    "code": "san-antonio-chile",
+    "name": "Puerto de San Antonio",
+    "country": "Chile",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 20,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West Coast Americas Route",
+      "Trans-Pacific Southern Route"
+    ],
+    "description": "Puerto de San Antonio in Chile. Annual cargo throughput: ~20 million tons. Type: Container Port.",
+    "geojson": "san-antonio-chile.geojson"
+  },
+  {
+    "code": "san-juan",
+    "name": "Port of San Juan",
+    "country": "Puerto Rico",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 10,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of San Juan in Puerto Rico. Annual cargo throughput: ~10 million tons. Type: Container Port.",
+    "geojson": "san-juan.geojson"
+  },
+  {
+    "code": "santos",
+    "name": "Port of Santos",
+    "country": "Brazil",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 145,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route",
+      "Brazil–Europe Route"
+    ],
+    "description": "Port of Santos in Brazil. Annual cargo throughput: ~145 million tons. Type: Multi-Purpose Port.",
+    "geojson": "santos.geojson"
+  },
+  {
+    "code": "savannah",
+    "name": "Port of Savannah",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 45,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "East Coast Americas Route"
+    ],
+    "description": "Port of Savannah in United States. Annual cargo throughput: ~45 million tons. Type: Container Port.",
+    "geojson": "savannah.geojson"
+  },
+  {
+    "code": "scandinavia-russia-route",
+    "name": "Scandinavia–Russia Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Baltic and Arctic shipping connecting Scandinavian ports to Russian ports. Important for energy trade, particularly LNG from Russia's Yamal Peninsula.",
+    "geojson": "scandinavia-russia-route.geojson"
+  },
+  {
+    "code": "seattle-tacoma",
+    "name": "Seattle-Tacoma (NWSA)",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Seattle-Tacoma (NWSA) in United States. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "seattle-tacoma.geojson"
+  },
+  {
+    "code": "shanghai",
+    "name": "Port of Shanghai",
+    "country": "China",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 770,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route",
+      "Suez Canal Route"
+    ],
+    "description": "Port of Shanghai in China. Annual cargo throughput: ~770 million tons. Type: Container Port.",
+    "geojson": "shanghai.geojson"
+  },
+  {
+    "code": "shenzhen",
+    "name": "Port of Shenzhen",
+    "country": "China",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 290,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Strait of Malacca Route",
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Shenzhen in China. Annual cargo throughput: ~290 million tons. Type: Container Port.",
+    "geojson": "shenzhen.geojson"
+  },
+  {
+    "code": "sihanoukville",
+    "name": "Port of Sihanoukville",
+    "country": "Cambodia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 15,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Sihanoukville in Cambodia. Annual cargo throughput: ~15 million tons. Type: Multi-Purpose Port.",
+    "geojson": "sihanoukville.geojson"
+  },
+  {
+    "code": "sines",
+    "name": "Port of Sines",
+    "country": "Portugal",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 50,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route"
+    ],
+    "description": "Port of Sines in Portugal. Annual cargo throughput: ~50 million tons. Type: Multi-Purpose Port.",
+    "geojson": "sines.geojson"
+  },
+  {
+    "code": "singapore",
+    "name": "Port of Singapore",
+    "country": "Singapore",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 600,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Strait of Malacca Route",
+      "Trans-Pacific Northern Route",
+      "Suez Canal Route"
+    ],
+    "description": "Port of Singapore in Singapore. Annual cargo throughput: ~600 million tons. Type: Container Port.",
+    "geojson": "singapore.geojson"
+  },
+  {
+    "code": "sohar",
+    "name": "Port of Sohar",
+    "country": "Oman",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 60,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Port of Sohar in Oman. Annual cargo throughput: ~60 million tons. Type: Multi-Purpose Port.",
+    "geojson": "sohar.geojson"
+  },
+  {
+    "code": "south-america-caribbean",
+    "name": "South America–Caribbean Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Connects major South American ports with Caribbean transshipment hubs. Key corridor for Brazilian exports, Venezuelan oil, and intra-regional trade.",
+    "geojson": "south-america-caribbean.geojson"
+  },
+  {
+    "code": "south-china-sea-route",
+    "name": "South China Sea Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Strategically vital waterway connecting the Indian Ocean to the Pacific. Carries ~$3.4 trillion in trade annually and is subject to territorial disputes between multiple nations.",
+    "geojson": "south-china-sea-route.geojson"
+  },
+  {
+    "code": "south-louisiana",
+    "name": "Port of South Louisiana",
+    "country": "United States",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 280,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of South Louisiana in United States. Annual cargo throughput: ~280 million tons. Type: Bulk Port.",
+    "geojson": "south-louisiana.geojson"
+  },
+  {
+    "code": "southampton",
+    "name": "Port of Southampton",
+    "country": "United Kingdom",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "English Channel Route"
+    ],
+    "description": "Port of Southampton in United Kingdom. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "southampton.geojson"
+  },
+  {
+    "code": "southeast-asian-straits",
+    "name": "Southeast Asian Straits",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Network of strategic straits (Malacca, Sunda, Lombok, Makassar) connecting the Indian and Pacific Oceans through the Indonesian archipelago. Alternative routes when Malacca is congested.",
+    "geojson": "southeast-asian-straits.geojson"
+  },
+  {
+    "code": "st-petersburg",
+    "name": "Port of St. Petersburg",
+    "country": "Russia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 60,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route",
+      "Scandinavia–Russia Route"
+    ],
+    "description": "Port of St. Petersburg in Russia. Annual cargo throughput: ~60 million tons. Type: Multi-Purpose Port.",
+    "geojson": "st-petersburg.geojson"
+  },
+  {
+    "code": "strait-of-hormuz",
+    "name": "Strait of Hormuz Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "The world's most important oil chokepoint. Approximately 20% of global petroleum passes through this narrow strait between Iran and Oman/UAE daily.",
+    "geojson": "strait-of-hormuz.geojson"
+  },
+  {
+    "code": "strait-of-malacca",
+    "name": "Strait of Malacca Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "The narrowest and busiest shipping chokepoint in the world. Connects the Indian Ocean to the South China Sea, carrying ~25% of all maritime trade including 80% of China's oil imports.",
+    "geojson": "strait-of-malacca.geojson"
+  },
+  {
+    "code": "suez-canal-route",
+    "name": "Suez Canal Route (Europe–Asia)",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "The world's most critical maritime chokepoint. Connects the Mediterranean to the Red Sea, enabling Europe–Asia trade without circumnavigating Africa. Handles ~12% of global trade and ~30% of container traffic.",
+    "geojson": "suez-canal-route.geojson"
+  },
+  {
+    "code": "suez",
+    "name": "Port of Suez",
+    "country": "Egypt",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Suez Canal Route"
+    ],
+    "description": "Port of Suez in Egypt. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "suez.geojson"
+  },
+  {
+    "code": "suva",
+    "name": "Port of Suva",
+    "country": "Fiji",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 3,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Pacific Islands Route"
+    ],
+    "description": "Port of Suva in Fiji. Annual cargo throughput: ~3 million tons. Type: Multi-Purpose Port.",
+    "geojson": "suva.geojson"
+  },
+  {
+    "code": "sydney",
+    "name": "Port of Sydney",
+    "country": "Australia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Southern Route",
+      "Australia–Southeast Asia Route"
+    ],
+    "description": "Port of Sydney in Australia. Annual cargo throughput: ~5 million tons. Type: Container Port.",
+    "geojson": "sydney.geojson"
+  },
+  {
+    "code": "taichung",
+    "name": "Port of Taichung",
+    "country": "Taiwan",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 130,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "South China Sea Route"
+    ],
+    "description": "Port of Taichung in Taiwan. Annual cargo throughput: ~130 million tons. Type: Multi-Purpose Port.",
+    "geojson": "taichung.geojson"
+  },
+  {
+    "code": "taiwan-strait-route",
+    "name": "Taiwan Strait Route",
+    "classification": "Minor",
+    "itemCategory": "Minor Lane",
+    "description": "Strategic waterway between mainland China and Taiwan. One of the most heavily trafficked shipping lanes in Asia, connecting ports in Southeast China to East China Sea destinations.",
+    "geojson": "taiwan-strait-route.geojson"
+  },
+  {
+    "code": "tallinn",
+    "name": "Port of Tallinn",
+    "country": "Estonia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Tallinn in Estonia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "tallinn.geojson"
+  },
+  {
+    "code": "tanger-med",
+    "name": "Tanger Med",
+    "country": "Morocco",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 80,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route",
+      "West African Coastal Route"
+    ],
+    "description": "Tanger Med in Morocco. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+    "geojson": "tanger-med.geojson"
+  },
+  {
+    "code": "tangshan",
+    "name": "Port of Tangshan",
+    "country": "China",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 760,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Tangshan in China. Annual cargo throughput: ~760 million tons. Type: Bulk Port.",
+    "geojson": "tangshan.geojson"
+  },
+  {
+    "code": "tanjung-pelepas",
+    "name": "Tanjung Pelepas",
+    "country": "Malaysia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 120,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Strait of Malacca Route"
+    ],
+    "description": "Tanjung Pelepas in Malaysia. Annual cargo throughput: ~120 million tons. Type: Container Port.",
+    "geojson": "tanjung-pelepas.geojson"
+  },
+  {
+    "code": "tanjung-perak",
+    "name": "Tanjung Perak (Surabaya)",
+    "country": "Indonesia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 65,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Southeast Asian Straits"
+    ],
+    "description": "Tanjung Perak (Surabaya) in Indonesia. Annual cargo throughput: ~65 million tons. Type: Multi-Purpose Port.",
+    "geojson": "tanjung-perak.geojson"
+  },
+  {
+    "code": "tanjung-priok",
+    "name": "Tanjung Priok (Jakarta)",
+    "country": "Indonesia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 80,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Southeast Asian Straits"
+    ],
+    "description": "Tanjung Priok (Jakarta) in Indonesia. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+    "geojson": "tanjung-priok.geojson"
+  },
+  {
+    "code": "tauranga",
+    "name": "Port of Tauranga",
+    "country": "New Zealand",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 27,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "New Zealand Trade Route"
+    ],
+    "description": "Port of Tauranga in New Zealand. Annual cargo throughput: ~27 million tons. Type: Multi-Purpose Port.",
+    "geojson": "tauranga.geojson"
+  },
+  {
+    "code": "tema",
+    "name": "Port of Tema",
+    "country": "Ghana",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West African Coastal Route"
+    ],
+    "description": "Port of Tema in Ghana. Annual cargo throughput: ~25 million tons. Type: Container Port.",
+    "geojson": "tema.geojson"
+  },
+  {
+    "code": "thessaloniki",
+    "name": "Port of Thessaloniki",
+    "country": "Greece",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 20,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Thessaloniki in Greece. Annual cargo throughput: ~20 million tons. Type: Container Port.",
+    "geojson": "thessaloniki.geojson"
+  },
+  {
+    "code": "tianjin",
+    "name": "Port of Tianjin",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 520,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Tianjin in China. Annual cargo throughput: ~520 million tons. Type: Multi-Purpose Port.",
+    "geojson": "tianjin.geojson"
+  },
+  {
+    "code": "toamasina",
+    "name": "Port of Toamasina",
+    "country": "Madagascar",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 5,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East African Coastal Route"
+    ],
+    "description": "Port of Toamasina in Madagascar. Annual cargo throughput: ~5 million tons. Type: Multi-Purpose Port.",
+    "geojson": "toamasina.geojson"
+  },
+  {
+    "code": "tokyo",
+    "name": "Port of Tokyo",
+    "country": "Japan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 90,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Tokyo in Japan. Annual cargo throughput: ~90 million tons. Type: Container Port.",
+    "geojson": "tokyo.geojson"
+  },
+  {
+    "code": "trans-atlantic-north",
+    "name": "Trans-Atlantic Northern Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Historic shipping corridor linking Northern European ports (Rotterdam, Hamburg, Antwerp) with US/Canadian East Coast ports. Carries ~20% of world container trade.",
+    "geojson": "trans-atlantic-north.geojson"
+  },
+  {
+    "code": "trans-atlantic-south",
+    "name": "Trans-Atlantic Southern Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Connects West African and South American ports. Major corridor for oil exports from Nigeria/Angola and agricultural commodities from Brazil.",
+    "geojson": "trans-atlantic-south.geojson"
+  },
+  {
+    "code": "trans-pacific-north",
+    "name": "Trans-Pacific Northern Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Primary shipping corridor connecting East Asian manufacturing hubs (Shanghai, Busan, Tokyo) with US West Coast ports (Los Angeles, Long Beach, Seattle). Handles ~25% of global container trade by value.",
+    "geojson": "trans-pacific-north.geojson"
+  },
+  {
+    "code": "trans-pacific-south",
+    "name": "Trans-Pacific Southern Route",
+    "classification": "Major",
+    "itemCategory": "Major Lane",
+    "description": "Southern Pacific shipping corridor connecting Southeast Asian ports and Australia with the Americas. Key route for bulk commodities and manufactured goods.",
+    "geojson": "trans-pacific-south.geojson"
+  },
+  {
+    "code": "trieste",
+    "name": "Port of Trieste",
+    "country": "Italy",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 60,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Trieste in Italy. Annual cargo throughput: ~60 million tons. Type: Multi-Purpose Port.",
+    "geojson": "trieste.geojson"
+  },
+  {
+    "code": "tubarao",
+    "name": "Port of Tubarão",
+    "country": "Brazil",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 115,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Trans-Atlantic Southern Route",
+      "Brazil–Europe Route"
+    ],
+    "description": "Port of Tubarão in Brazil. Annual cargo throughput: ~115 million tons. Type: Bulk Port.",
+    "geojson": "tubarao.geojson"
+  },
+  {
+    "code": "tunis",
+    "name": "Port of Tunis (Radès)",
+    "country": "Tunisia",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Tunis (Radès) in Tunisia. Annual cargo throughput: ~8 million tons. Type: Container Port.",
+    "geojson": "tunis.geojson"
+  },
+  {
+    "code": "tuticorin",
+    "name": "Port of Tuticorin",
+    "country": "India",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Tuticorin in India. Annual cargo throughput: ~40 million tons. Type: Container Port.",
+    "geojson": "tuticorin.geojson"
+  },
+  {
+    "code": "ulsan",
+    "name": "Port of Ulsan",
+    "country": "South Korea",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 210,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "East China Sea–Japan Route",
+      "Persian Gulf Oil Routes"
+    ],
+    "description": "Port of Ulsan in South Korea. Annual cargo throughput: ~210 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "ulsan.geojson"
+  },
+  {
+    "code": "ushuaia",
+    "name": "Port of Ushuaia",
+    "country": "Argentina",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 1,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "River Plate & South Atlantic"
+    ],
+    "description": "Port of Ushuaia in Argentina. Annual cargo throughput: ~1 million tons. Type: Multi-Purpose Port.",
+    "geojson": "ushuaia.geojson"
+  },
+  {
+    "code": "ust-luga",
+    "name": "Port of Ust-Luga",
+    "country": "Russia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 110,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "North Sea–Baltic Route"
+    ],
+    "description": "Port of Ust-Luga in Russia. Annual cargo throughput: ~110 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "ust-luga.geojson"
+  },
+  {
+    "code": "valencia",
+    "name": "Port of Valencia",
+    "country": "Spain",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 80,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Valencia in Spain. Annual cargo throughput: ~80 million tons. Type: Container Port.",
+    "geojson": "valencia.geojson"
+  },
+  {
+    "code": "valparaiso",
+    "name": "Port of Valparaíso",
+    "country": "Chile",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 12,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "West Coast Americas Route"
+    ],
+    "description": "Port of Valparaíso in Chile. Annual cargo throughput: ~12 million tons. Type: Container Port.",
+    "geojson": "valparaiso.geojson"
+  },
+  {
+    "code": "vancouver",
+    "name": "Port of Vancouver",
+    "country": "Canada",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 145,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Vancouver in Canada. Annual cargo throughput: ~145 million tons. Type: Multi-Purpose Port.",
+    "geojson": "vancouver.geojson"
+  },
+  {
+    "code": "venice",
+    "name": "Port of Venice",
+    "country": "Italy",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Mediterranean Shipping Route"
+    ],
+    "description": "Port of Venice in Italy. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "venice.geojson"
+  },
+  {
+    "code": "veracruz",
+    "name": "Port of Veracruz",
+    "country": "Mexico",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Caribbean–Gulf of Mexico Route"
+    ],
+    "description": "Port of Veracruz in Mexico. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+    "geojson": "veracruz.geojson"
+  },
+  {
+    "code": "virginia",
+    "name": "Port of Virginia",
+    "country": "United States",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 70,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Atlantic Northern Route",
+      "East Coast Americas Route"
+    ],
+    "description": "Port of Virginia in United States. Annual cargo throughput: ~70 million tons. Type: Container Port.",
+    "geojson": "virginia.geojson"
+  },
+  {
+    "code": "visakhapatnam",
+    "name": "Port of Visakhapatnam",
+    "country": "India",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 75,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "Indian Ocean Crossings"
+    ],
+    "description": "Port of Visakhapatnam in India. Annual cargo throughput: ~75 million tons. Type: Bulk Port.",
+    "geojson": "visakhapatnam.geojson"
+  },
+  {
+    "code": "vladivostok",
+    "name": "Port of Vladivostok",
+    "country": "Russia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 25,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Arctic Northern Sea Route",
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Vladivostok in Russia. Annual cargo throughput: ~25 million tons. Type: Multi-Purpose Port.",
+    "geojson": "vladivostok.geojson"
+  },
+  {
+    "code": "vung-tau",
+    "name": "Cai Mep-Thi Vai (Vung Tau)",
+    "country": "Vietnam",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 100,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network",
+      "South China Sea Route"
+    ],
+    "description": "Cai Mep-Thi Vai (Vung Tau) in Vietnam. Annual cargo throughput: ~100 million tons. Type: Container Port.",
+    "geojson": "vung-tau.geojson"
+  },
+  {
+    "code": "walvis-bay",
+    "name": "Port of Walvis Bay",
+    "country": "Namibia",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 8,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "West African Coastal Route",
+      "Cape of Good Hope Route"
+    ],
+    "description": "Port of Walvis Bay in Namibia. Annual cargo throughput: ~8 million tons. Type: Multi-Purpose Port.",
+    "geojson": "walvis-bay.geojson"
+  },
+  {
+    "code": "west-africa-coast",
+    "name": "West African Coastal Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Coastal shipping route along West Africa from Morocco to Angola. Serves oil exports from Nigeria and Angola, and general cargo to/from rapidly growing West African economies.",
+    "geojson": "west-africa-coast.geojson"
+  },
+  {
+    "code": "west-coast-americas",
+    "name": "West Coast Americas Route",
+    "classification": "Middle",
+    "itemCategory": "Middle Lane",
+    "description": "Coastal shipping route running along the Pacific coast of the Americas from Alaska to Chile. Carries containerized goods, petroleum, and forest products.",
+    "geojson": "west-coast-americas.geojson"
+  },
+  {
+    "code": "wuhan",
+    "name": "Port of Wuhan",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 180,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Wuhan in China. Annual cargo throughput: ~180 million tons. Type: Multi-Purpose Port.",
+    "geojson": "wuhan.geojson"
+  },
+  {
+    "code": "xiamen",
+    "name": "Port of Xiamen",
+    "country": "China",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 230,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "South China Sea Route",
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Xiamen in China. Annual cargo throughput: ~230 million tons. Type: Container Port.",
+    "geojson": "xiamen.geojson"
+  },
+  {
+    "code": "yanbu",
+    "name": "Port of Yanbu",
+    "country": "Saudi Arabia",
+    "portType": "Oil/Gas Terminal",
+    "cargoVolumeMTons": 120,
+    "classification": "Oil/Gas Terminal",
+    "itemCategory": "Oil/Gas Terminal",
+    "keyRoutes": [
+      "Red Sea Route"
+    ],
+    "description": "Port of Yanbu in Saudi Arabia. Annual cargo throughput: ~120 million tons. Type: Oil/Gas Terminal.",
+    "geojson": "yanbu.geojson"
+  },
+  {
+    "code": "yangon",
+    "name": "Port of Yangon",
+    "country": "Myanmar",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 30,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "Intra-Asian Shipping Network"
+    ],
+    "description": "Port of Yangon in Myanmar. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+    "geojson": "yangon.geojson"
+  },
+  {
+    "code": "yingkou",
+    "name": "Port of Yingkou",
+    "country": "China",
+    "portType": "Bulk Port",
+    "cargoVolumeMTons": 310,
+    "classification": "Bulk Port",
+    "itemCategory": "Bulk Port",
+    "keyRoutes": [
+      "East China Sea–Japan Route"
+    ],
+    "description": "Port of Yingkou in China. Annual cargo throughput: ~310 million tons. Type: Bulk Port.",
+    "geojson": "yingkou.geojson"
+  },
+  {
+    "code": "yokohama",
+    "name": "Port of Yokohama",
+    "country": "Japan",
+    "portType": "Container Port",
+    "cargoVolumeMTons": 120,
+    "classification": "Container Port",
+    "itemCategory": "Container Port",
+    "keyRoutes": [
+      "Trans-Pacific Northern Route"
+    ],
+    "description": "Port of Yokohama in Japan. Annual cargo throughput: ~120 million tons. Type: Container Port.",
+    "geojson": "yokohama.geojson"
+  },
+  {
+    "code": "zeebrugge",
+    "name": "Port of Zeebrugge",
+    "country": "Belgium",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 40,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "English Channel Route"
+    ],
+    "description": "Port of Zeebrugge in Belgium. Annual cargo throughput: ~40 million tons. Type: Multi-Purpose Port.",
+    "geojson": "zeebrugge.geojson"
+  },
+  {
+    "code": "zhanjiang",
+    "name": "Port of Zhanjiang",
+    "country": "China",
+    "portType": "Multi-Purpose Port",
+    "cargoVolumeMTons": 340,
+    "classification": "Multi-Purpose Port",
+    "itemCategory": "Multi-Purpose Port",
+    "keyRoutes": [
+      "South China Sea Route"
+    ],
+    "description": "Port of Zhanjiang in China. Annual cargo throughput: ~340 million tons. Type: Multi-Purpose Port.",
+    "geojson": "zhanjiang.geojson"
+  }
+]

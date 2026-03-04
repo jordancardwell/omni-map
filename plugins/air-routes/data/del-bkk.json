@@ -1,0 +1,19 @@
+{
+  "code": "del-bkk",
+  "name": "Delhi — Bangkok",
+  "airports": [
+    "DEL",
+    "BKK"
+  ],
+  "distanceKm": 2948,
+  "weeklyFlights": 120,
+  "airlines": [
+    "IndiGo",
+    "Air India",
+    "Thai Airways"
+  ],
+  "classification": "High Frequency",
+  "itemCategory": "High Frequency",
+  "description": "DEL–BKK route between Delhi and Bangkok. Distance: 2,948 km. ~120 weekly flights operated by IndiGo, Air India, Thai Airways.",
+  "geojson": "del-bkk.geojson"
+}

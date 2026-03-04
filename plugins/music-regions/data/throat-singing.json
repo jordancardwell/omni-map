@@ -1,0 +1,29 @@
+{
+  "code": "throat-singing",
+  "name": "Throat Singing (Khoomei)",
+  "region": "Tuva, Central Asia",
+  "traditionFamily": "Central Asian",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Igil",
+    "Doshpuluur",
+    "Byzaanchy",
+    "Khomus (Jaw Harp)",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Huun-Huur-Tu",
+    "Kongar-ol Ondar",
+    "Sainkho Namtchylak",
+    "Chirgilchin",
+    "Alash"
+  ],
+  "description": "Khoomei (throat singing) is a vocal art from Tuva and Mongolia where a single performer produces two or more pitches simultaneously through precise manipulation of the vocal tract. Styles include sygyt (whistling overtone), kargyraa (deep undertone), and khoomei (the foundational technique). The practice is deeply connected to nomadic pastoral life and the sounds of nature.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Tuvan Throat Singing",
+      "url": "https://ich.unesco.org/en/RL/tuvan-throat-singing-00396"
+    }
+  ],
+  "geojson": "throat-singing.geojson"
+}

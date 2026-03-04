@@ -1,0 +1,20 @@
+{
+  "code": "nan-ren",
+  "name": "Nanshan Radio Observatory",
+  "country": "China",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 2080,
+  "aperture": "26 m",
+  "telescopes": [
+    "Nanshan 26m"
+  ],
+  "keyDiscoveries": [
+    "Pulsar timing",
+    "VLBI observations",
+    "Active galactic nuclei"
+  ],
+  "location": "Nanshan Radio Observatory, China",
+  "description": "Xinjiang Astronomical Observatory facility near Urumqi. A key VLBI station in the Chinese VLBI Network and the European VLBI Network.",
+  "geojson": "nan-ren.geojson"
+}

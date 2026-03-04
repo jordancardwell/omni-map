@@ -1,0 +1,18 @@
+{
+  "code": "clt-jfk",
+  "name": "Charlotte — New York",
+  "airports": [
+    "CLT",
+    "JFK"
+  ],
+  "distanceKm": 871,
+  "weeklyFlights": 60,
+  "airlines": [
+    "American",
+    "JetBlue"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CLT–JFK route between Charlotte and New York. Distance: 871 km. ~60 weekly flights operated by American, JetBlue.",
+  "geojson": "clt-jfk.geojson"
+}

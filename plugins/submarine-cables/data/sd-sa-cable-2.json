@@ -1,0 +1,16 @@
+{
+  "code": "sd-sa-cable-2",
+  "name": "SD-SA Cable-2",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1691,
+  "yearLaid": 2013,
+  "rfsDate": "2014-06",
+  "owner": "Sudatel",
+  "landingPoints": [
+    "Port Sudan, Sudan",
+    "Jeddah, Saudi Arabia"
+  ],
+  "description": "SD-SA Cable-2 connecting Port Sudan to Jeddah in the Middle East.",
+  "geojson": "sd-sa-cable-2.geojson"
+}

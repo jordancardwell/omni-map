@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "code": "day-of-german-unity",
+        "name": "Day of German Unity",
+        "festivalType": "National",
+        "dateOrSeason": "October 3",
+        "location": "Berlin, Germany"
+      }
+    }
+  ]
+}

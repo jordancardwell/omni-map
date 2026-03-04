@@ -1,0 +1,18 @@
+{
+  "code": "proboscis-monkey",
+  "name": "Proboscis Monkey",
+  "scientificName": "Nasalis larvatus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~7,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Mangrove and riverine forest",
+  "threats": [
+    "Habitat loss",
+    "Hunting",
+    "Palm oil plantations"
+  ],
+  "conservationEfforts": "Kinabatangan Corridor of Life project. Protected in several reserves in Borneo. Ecotourism provides economic incentive for conservation.",
+  "description": "Found only on Borneo, the male's enormous nose can exceed 10 cm and amplifies vocalizations. They are among the best swimmers of all primates and have been observed swimming across rivers.",
+  "geojson": "proboscis-monkey.geojson"
+}

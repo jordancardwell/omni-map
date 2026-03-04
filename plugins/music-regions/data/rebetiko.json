@@ -1,0 +1,29 @@
+{
+  "code": "rebetiko",
+  "name": "Rebetiko",
+  "region": "Greece",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Bouzouki",
+    "Baglamas",
+    "Guitar",
+    "Vocals",
+    "Accordion"
+  ],
+  "keyArtists": [
+    "Markos Vamvakaris",
+    "Vassilis Tsitsanis",
+    "Marika Ninou",
+    "Sotiria Bellou",
+    "Giorgos Batis"
+  ],
+  "description": "Rebetiko is an urban Greek music genre that emerged in the port cities of Piraeus and Thessaloniki in the early 20th century, often called the 'Greek Blues.' Born from the music of refugees, immigrants, and the urban underclass, rebetiko songs deal with themes of love, loss, poverty, and social marginalization. UNESCO inscribed rebetiko in 2017.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Rebetiko",
+      "url": "https://ich.unesco.org/en/RL/rebetiko-01291"
+    }
+  ],
+  "geojson": "rebetiko.geojson"
+}

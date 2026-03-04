@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7210277778,
+          41.8422777778
+        ]
+      },
+      "properties": {
+        "code": "historical-monuments-of-mtskheta",
+        "name": "Historical Monuments of Mtskheta",
+        "type": "Cultural",
+        "country": "Georgia",
+        "yearInscribed": "1994"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "san-agustin-archaeological-park",
+  "name": "San Agustín Archaeological Park",
+  "type": "Cultural",
+  "country": "Colombia",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The largest group of religious monuments and megalithic sculptures in South America stands in a wild, spectacular landscape. Gods and mythical animals are skilfully represented in styles ranging from abstract to realist. These works of art display the creativity and imagination of a northern Andean culture that flourished from the 1st to the 8th century.",
+  "danger": false,
+  "geojson": "san-agustin-archaeological-park.geojson"
+}

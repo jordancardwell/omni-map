@@ -1,0 +1,15 @@
+{
+  "code": "ancient-city-of-polonnaruwa",
+  "name": "Ancient City of Polonnaruwa",
+  "type": "Cultural",
+  "country": "Sri Lanka",
+  "yearInscribed": "1982",
+  "criteria": [
+    "(i)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century.",
+  "danger": false,
+  "geojson": "ancient-city-of-polonnaruwa.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43416667,
+          48.36444444
+        ]
+      },
+      "properties": {
+        "code": "wachau-cultural-landscape",
+        "name": "Wachau Cultural Landscape",
+        "type": "Cultural",
+        "country": "Austria",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

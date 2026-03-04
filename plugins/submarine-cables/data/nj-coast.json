@@ -1,0 +1,16 @@
+{
+  "code": "nj-coast",
+  "name": "NJ Coast",
+  "capacityTbps": 12,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 1060,
+  "yearLaid": 2018,
+  "rfsDate": "2011-06",
+  "owner": "Lumen",
+  "landingPoints": [
+    "Tuckerton, USA",
+    "Manahawkin, USA"
+  ],
+  "description": "NJ Coast connecting Tuckerton to Manahawkin.",
+  "geojson": "nj-coast.geojson"
+}

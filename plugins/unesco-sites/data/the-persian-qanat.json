@@ -1,0 +1,15 @@
+{
+  "code": "the-persian-qanat",
+  "name": "The Persian Qanat",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2016",
+  "criteria": [
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Throughout the arid regions of Iran, agricultural and permanent settlements are supported by the ancient qanat system of tapping alluvial aquifers at the heads of valleys and conducting the water along underground tunnels by gravity, often over many kilometres. The eleven qanats representing this system include rest areas for workers, water reservoirs and watermills. The traditional communal management system still in place allows equitable and sustainable water sharing and distribution. The qanats provide exceptional testimony to cultural traditions and civilizations in desert areas with an arid climate.",
+  "danger": false,
+  "geojson": "the-persian-qanat.geojson"
+}

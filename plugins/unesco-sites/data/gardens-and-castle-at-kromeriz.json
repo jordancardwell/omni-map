@@ -1,0 +1,15 @@
+{
+  "code": "gardens-and-castle-at-kromeriz",
+  "name": "Gardens and Castle at Kroměříž",
+  "type": "Cultural",
+  "country": "Czechia",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Kroměříž stands on the site of an earlier ford across the River Morava, at the foot of the Chriby mountain range which dominates the central part of Moravia. The gardens and castle of Kroměříž are an exceptionally complete and well-preserved example of a European Baroque princely residence and its gardens.",
+  "danger": false,
+  "geojson": "gardens-and-castle-at-kromeriz.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "pt-sn-direct",
+  "name": "PT-SN Direct",
+  "capacityTbps": 53,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 4004,
+  "yearLaid": 2021,
+  "rfsDate": "2024-06",
+  "owner": "EllaLink",
+  "landingPoints": [
+    "Sines, Portugal",
+    "Dakar, Senegal"
+  ],
+  "description": "PT-SN Direct connecting Sines to Dakar.",
+  "geojson": "pt-sn-direct.geojson"
+}

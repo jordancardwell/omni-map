@@ -1,0 +1,21 @@
+{
+  "code": "sunspot",
+  "name": "Sunspot Solar Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2804,
+  "aperture": "0.76 m (Dunn Solar)",
+  "telescopes": [
+    "Richard B. Dunn Solar Telescope",
+    "Various solar instruments"
+  ],
+  "keyDiscoveries": [
+    "Solar granulation",
+    "Sunspot dynamics",
+    "Solar magnetic fields"
+  ],
+  "location": "Sunspot Solar Observatory, United States",
+  "description": "Formerly Sacramento Peak Observatory, specializing in solar observation. The Dunn Solar Telescope is a premier instrument for studying solar surface phenomena.",
+  "geojson": "sunspot.geojson"
+}

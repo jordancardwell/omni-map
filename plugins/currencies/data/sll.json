@@ -1,0 +1,16 @@
+{
+  "code": "sll",
+  "name": "Sierra Leonean Leone",
+  "isoCode": "SLE",
+  "symbol": "Le",
+  "region": "Africa",
+  "centralBank": "Bank of Sierra Leone",
+  "exchangeRateEra": "Managed float",
+  "countries": [
+    "Sierra Leone"
+  ],
+  "countryCount": 1,
+  "description": "The Sierra Leonean Leone is the currency of Sierra Leone, known for its diamond mining. A new leone was introduced in 2022.",
+  "historicalNotes": "The new leone (SLE) was introduced in 2022, replacing the old leone at 1,000:1. Sierra Leone was founded as a settlement for freed slaves.",
+  "geojson": "sll.geojson"
+}

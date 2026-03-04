@@ -1,0 +1,21 @@
+{
+  "code": "onsala",
+  "name": "Onsala Space Observatory",
+  "country": "Sweden",
+  "observatoryType": "Radio",
+  "status": "Operational",
+  "elevation": 10,
+  "aperture": "25 m / 20 m",
+  "telescopes": [
+    "25m radome",
+    "20m dish"
+  ],
+  "keyDiscoveries": [
+    "VLBI observations",
+    "Molecular spectroscopy",
+    "Space geodesy"
+  ],
+  "location": "Onsala Space Observatory, Sweden",
+  "description": "Chalmers University facility on the Swedish west coast. A major European VLBI station and host of the Onsala Twin Telescope for geodetic measurements.",
+  "geojson": "onsala.geojson"
+}

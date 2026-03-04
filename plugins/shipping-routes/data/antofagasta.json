@@ -1,0 +1,15 @@
+{
+  "code": "antofagasta",
+  "name": "Port of Antofagasta",
+  "country": "Chile",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 12,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "West Coast Americas Route",
+    "Trans-Pacific Southern Route"
+  ],
+  "description": "Port of Antofagasta in Chile. Annual cargo throughput: ~12 million tons. Type: Bulk Port.",
+  "geojson": "antofagasta.geojson"
+}

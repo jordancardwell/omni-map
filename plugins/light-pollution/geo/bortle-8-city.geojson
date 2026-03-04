@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-8-city",
+        "name": "City Sky",
+        "region": "City centers of large cities"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.8,
+              33.6
+            ],
+            [
+              -117.5,
+              33.6
+            ],
+            [
+              -117.5,
+              34.3
+            ],
+            [
+              -118.8,
+              34.3
+            ],
+            [
+              -118.8,
+              33.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-8-city",
+        "name": "City Sky",
+        "region": "Central Los Angeles"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8,
+              28.2
+            ],
+            [
+              77.6,
+              28.2
+            ],
+            [
+              77.6,
+              28.9
+            ],
+            [
+              76.8,
+              28.9
+            ],
+            [
+              76.8,
+              28.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-8-city",
+        "name": "City Sky",
+        "region": "Central Delhi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.2,
+              41.5
+            ],
+            [
+              -87.3,
+              41.5
+            ],
+            [
+              -87.3,
+              42.2
+            ],
+            [
+              -88.2,
+              42.2
+            ],
+            [
+              -88.2,
+              41.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "bortle-8-city",
+        "name": "City Sky",
+        "region": "Downtown Chicago"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.8,
+              30.8
+            ],
+            [
+              122,
+              30.8
+            ],
+            [
+              122,
+              31.8
+            ],
+            [
+              120.8,
+              31.8
+            ],
+            [
+              120.8,
+              30.8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

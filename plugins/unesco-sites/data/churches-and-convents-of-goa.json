@@ -1,0 +1,15 @@
+{
+  "code": "churches-and-convents-of-goa",
+  "name": "Churches and Convents of Goa",
+  "type": "Cultural",
+  "country": "India",
+  "yearInscribed": "1986",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The churches and convents of Goa, the former capital of the Portuguese Indies – particularly the Church of Bom Jesus, which contains the tomb of St Francis-Xavier – illustrate the evangelization of Asia. These monuments were influential in spreading forms of Manueline, Mannerist and Baroque art in all the countries of Asia where missions were established.",
+  "danger": false,
+  "geojson": "churches-and-convents-of-goa.geojson"
+}

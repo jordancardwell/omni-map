@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3,
+          63.3
+        ]
+      },
+      "properties": {
+        "code": "high-coast-kvarken-archipelago",
+        "name": "High Coast / Kvarken Archipelago",
+        "type": "Natural",
+        "country": "Sweden, Finland",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

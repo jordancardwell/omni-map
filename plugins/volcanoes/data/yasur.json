@@ -1,0 +1,21 @@
+{
+  "code": "yasur",
+  "name": "Yasur",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 361,
+  "lastEruption": "2023",
+  "vei": 2,
+  "country": "Vanuatu",
+  "region": "Tanna Island",
+  "location": "Tanna Island, Vanuatu",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Volcanic bombs",
+    "Ashfall",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Has been in near-continuous eruption for at least 800 years. One of the most accessible active volcanoes in the world.",
+  "description": "Yasur is one of the world's most accessible active volcanoes, allowing visitors to stand at the crater rim and watch strombolian explosions. It has been erupting for at least 800 years.",
+  "geojson": "yasur.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "christmas-island",
+  "name": "Christmas Island (British Tests)",
+  "country": "United Kingdom",
+  "operator": "British MOD (former)",
+  "coordinates": "1.9861°N, 157.4750°W",
+  "status": "Historical",
+  "notableLaunches": [
+    "Operation Grapple nuclear tests",
+    "Blue Streak missile development support"
+  ],
+  "orbitalInclinationRange": "N/A (nuclear tests)",
+  "location": "Christmas Island (British Tests), United Kingdom",
+  "description": "British nuclear weapons test site in the Pacific (now Kiritimati, Kiribati). While primarily for nuclear testing, it supported rocket technology development connected to the Blue Streak missile program.",
+  "geojson": "christmas-island.geojson"
+}

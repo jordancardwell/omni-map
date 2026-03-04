@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3675,
+          45.76833333
+        ]
+      },
+      "properties": {
+        "code": "archaeological-area-and-the-patriarchal-basilica-of-aquileia",
+        "name": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+        "type": "Cultural",
+        "country": "Italy",
+        "yearInscribed": "1998"
+      }
+    }
+  ]
+}

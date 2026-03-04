@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6436111111,
+          28.2713888889
+        ]
+      },
+      "properties": {
+        "code": "teide-national-park",
+        "name": "Teide National Park",
+        "type": "Natural",
+        "country": "Spain",
+        "yearInscribed": "2007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "rw",
+  "name": "Rwanda",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "C",
+    "J"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type J — Three round pins (Swiss style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "European/Swiss-style plugs.",
+  "geojson": "rw.geojson"
+}

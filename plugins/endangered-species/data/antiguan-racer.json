@@ -1,0 +1,18 @@
+{
+  "code": "antiguan-racer",
+  "name": "Antiguan Racer",
+  "scientificName": "Alsophis antiguae",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~1,100 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Dry coastal scrubland",
+  "threats": [
+    "Invasive mongooses and rats",
+    "Hurricanes",
+    "Small range"
+  ],
+  "conservationEfforts": "Fauna & Flora International eradicated rats from offshore islands. Population increased from 50 to over 1,100. One of the most successful snake conservation programs ever.",
+  "description": "Once considered the world's rarest snake with just 50 individuals on a single tiny island. Rat eradication on nearby islands and translocations have dramatically increased the population.",
+  "geojson": "antiguan-racer.geojson"
+}

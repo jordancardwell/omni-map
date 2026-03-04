@@ -1,0 +1,14 @@
+{
+  "code": "monte-san-giorgio",
+  "name": "Monte San Giorgio",
+  "type": "Natural",
+  "country": "Italy, Switzerland",
+  "yearInscribed": "2003",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The pyramid-shaped, wooded mountain of Monte San Giorgio beside Lake Lugano is regarded as the best fossil record of marine life from the Triassic Period (245–230 million years ago). The sequence records life in a tropical lagoon environment, sheltered and partially separated from the open sea by an offshore reef. Diverse marine life flourished within this lagoon, including reptiles, fish, bivalves, ammonites, echinoderms and crustaceans. Because the lagoon was near land, the remains also include land-based fossils of reptiles, insects and plants, resulting in an extremely rich source of fossils.",
+  "danger": false,
+  "geojson": "monte-san-giorgio.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "mex-ams",
+  "name": "Mexico City — Amsterdam",
+  "airports": [
+    "MEX",
+    "AMS"
+  ],
+  "distanceKm": 9206,
+  "weeklyFlights": 15,
+  "airlines": [
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–AMS route between Mexico City and Amsterdam. Distance: 9,206 km. ~15 weekly flights operated by KLM.",
+  "geojson": "mex-ams.geojson"
+}

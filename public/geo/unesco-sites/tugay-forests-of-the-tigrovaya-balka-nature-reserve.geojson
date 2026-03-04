@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3413888889,
+          37.2047222222
+        ]
+      },
+      "properties": {
+        "code": "tugay-forests-of-the-tigrovaya-balka-nature-reserve",
+        "name": "Tugay forests of the Tigrovaya Balka Nature Reserve",
+        "type": "Natural",
+        "country": "Tajikistan",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

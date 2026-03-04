@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "idsp-aoraki-mackenzie",
+        "name": "Aoraki Mackenzie Dark Sky Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.465,
+          -43.887
+        ]
+      }
+    }
+  ]
+}

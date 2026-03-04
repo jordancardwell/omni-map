@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9993888889,
+          31.5129166667
+        ]
+      },
+      "properties": {
+        "code": "migratory-bird-sanctuaries-along-the-coast-of-yellow-sea-bohai-gulf-of-china",
+        "name": "Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

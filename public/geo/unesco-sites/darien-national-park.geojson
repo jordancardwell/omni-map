@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54722222,
+          7.736111111
+        ]
+      },
+      "properties": {
+        "code": "darien-national-park",
+        "name": "Darien National Park",
+        "type": "Natural",
+        "country": "Panama",
+        "yearInscribed": "1981"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "dja-faunal-reserve",
+  "name": "Dja Faunal Reserve",
+  "type": "Natural",
+  "country": "Cameroon",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Africa",
+  "description": "This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened.",
+  "danger": false,
+  "geojson": "dja-faunal-reserve.geojson"
+}

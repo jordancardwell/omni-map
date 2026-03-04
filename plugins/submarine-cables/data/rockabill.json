@@ -1,0 +1,16 @@
+{
+  "code": "rockabill",
+  "name": "Rockabill",
+  "capacityTbps": 25,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 230,
+  "yearLaid": 2019,
+  "rfsDate": "2019-12",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Dublin, Ireland",
+    "Southport, UK"
+  ],
+  "description": "Short high-capacity link across the Irish Sea.",
+  "geojson": "rockabill.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "dougga-thugga",
+  "name": "Dougga / Thugga",
+  "type": "Cultural",
+  "country": "Tunisia",
+  "yearInscribed": "1997",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Arab States",
+  "description": "Before the Roman annexation of Numidia, the town of Thugga, built on an elevated site overlooking a fertile plain, was the capital of an important Libyco-Punic state. It flourished under Roman and Byzantine rule, but declined in the Islamic period. The impressive ruins that are visible today give some idea of the resources of a small Roman town on the fringes of the empire.",
+  "danger": false,
+  "geojson": "dougga-thugga.geojson"
+}

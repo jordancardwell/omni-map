@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4374,-0.6841]},"properties":{"code":"cotopaxi","name":"Cotopaxi","volcanoType":"Stratovolcano","status":"Erupting/Recent","elevation":5897,"lastEruption":"2023","vei":4}}]}

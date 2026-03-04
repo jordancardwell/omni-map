@@ -1,0 +1,18 @@
+{
+  "code": "ecfs-eastern-caribbean-fibre-system",
+  "name": "ECFS (Eastern Caribbean Fibre System)",
+  "capacityTbps": 2.5,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1600,
+  "yearLaid": 1995,
+  "rfsDate": "1995-06",
+  "owner": "Cable & Wireless",
+  "landingPoints": [
+    "San Juan, Puerto Rico",
+    "Philipsburg, Sint Maarten",
+    "Bridgetown, Barbados",
+    "Port of Spain, Trinidad"
+  ],
+  "description": "One of the first fiber optic cables serving the Eastern Caribbean.",
+  "geojson": "ecfs-eastern-caribbean-fibre-system.geojson"
+}

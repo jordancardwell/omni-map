@@ -1,0 +1,29 @@
+{
+  "code": "carnatic",
+  "name": "Carnatic Music",
+  "region": "Southern India",
+  "traditionFamily": "South Asian",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Veena",
+    "Mridangam",
+    "Violin",
+    "Ghatam",
+    "Kanjira"
+  ],
+  "keyArtists": [
+    "M.S. Subbulakshmi",
+    "Lalgudi Jayaraman",
+    "T.N. Seshagopalan",
+    "Mandolin U. Srinivas",
+    "Balamuralikrishna"
+  ],
+  "description": "Carnatic music is the classical music tradition of South India, rooted in ancient texts and the compositions of the Trinity of Carnatic music: Tyagaraja, Muthuswami Dikshitar, and Syama Sastri. Unlike Hindustani music, Carnatic music emphasizes composed structures (kritis) alongside improvisation. The system uses 72 parent scales (melakartas) as a foundation for thousands of ragas.",
+  "resources": [
+    {
+      "title": "Smithsonian Folkways – Carnatic Music",
+      "url": "https://folkways.si.edu/search?query=carnatic"
+    }
+  ],
+  "geojson": "carnatic.geojson"
+}

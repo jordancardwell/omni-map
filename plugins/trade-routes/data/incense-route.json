@@ -1,0 +1,12 @@
+{
+  "code": "incense-route",
+  "name": "Incense Route",
+  "routeType": "Land",
+  "era": "Ancient",
+  "period": "c. 7th century BCE – 2nd century CE",
+  "commodities": ["Frankincense", "Myrrh", "Spices", "Gold", "Precious stones", "Textiles", "Ivory"],
+  "majorStops": ["Dhofar (Oman)", "Shabwa", "Marib", "Najran", "Petra", "Gaza", "Damascus", "Alexandria"],
+  "significance": "Connected the incense-producing regions of southern Arabia to the Mediterranean, making the Nabataean kingdom fabulously wealthy and giving rise to the rock-cut city of Petra",
+  "description": "The Incense Route was a network of major ancient land and sea trading routes linking the Mediterranean world with eastern and southern sources of incense. Frankincense and myrrh — aromatic resins from trees native to the southern Arabian Peninsula and Horn of Africa — were among the most prized substances in the ancient world.\n\nThe land route stretched roughly 2,400 km from Dhofar in southern Oman through Yemen and along the western edge of the Arabian Peninsula to Petra in modern Jordan, then onward to the Mediterranean ports of Gaza and Damascus. Camel caravans took about 60 days to make the journey.\n\nThe Nabataean people controlled the most lucrative section of the route, building the magnificent city of Petra as their capital. The route was recognized as a UNESCO World Heritage Site in 2005. It declined after the Romans discovered how to use monsoon winds to sail directly to India, bypassing the overland middlemen.",
+  "geojson": "incense-route.geojson"
+}

@@ -1,0 +1,25 @@
+{
+  "code": "han-dynasty",
+  "name": "Han Dynasty",
+  "era": "Ancient",
+  "peakYear": "100 BCE",
+  "areaAtPeakKm2": 6500000,
+  "populationEstimate": "60 million",
+  "capital": "Chang'an (Xi'an)",
+  "keyAchievements": [
+    "Paper invention",
+    "Silk Road trade",
+    "Civil service examinations",
+    "Confucianism as state ideology",
+    "Iron and steel technology"
+  ],
+  "declineFactors": [
+    "Eunuch court influence",
+    "Yellow Turban Rebellion",
+    "Land concentration",
+    "Warlord fragmentation",
+    "Economic inequality"
+  ],
+  "description": "The Han Dynasty (206 BCE–220 CE) is considered one of the golden ages of Chinese civilization. It established many of the political and cultural norms that would define China for two millennia, including the civil service examination system and Confucian state ideology.\n\nThe Han era saw the invention of paper, significant advances in metallurgy and agriculture, and the opening of the Silk Road. The term 'Han Chinese' — the majority ethnic group in China today — derives from this dynasty.",
+  "geojson": "han-dynasty.geojson"
+}

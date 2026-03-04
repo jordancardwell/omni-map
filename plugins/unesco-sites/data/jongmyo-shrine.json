@@ -1,0 +1,14 @@
+{
+  "code": "jongmyo-shrine",
+  "name": "Jongmyo Shrine",
+  "type": "Cultural",
+  "country": "Republic of Korea",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Jongmyo is the oldest and most authentic of the Confucian royal shrines to have been preserved. Dedicated to the forefathers of the Joseon dynasty (1392–1910), the shrine has existed in its present form since the 16th century and houses tablets bearing the teachings of members of the former royal family. Ritual ceremonies linking music, song and dance still take place there, perpetuating a tradition that goes back to the 14th century.",
+  "danger": false,
+  "geojson": "jongmyo-shrine.geojson"
+}

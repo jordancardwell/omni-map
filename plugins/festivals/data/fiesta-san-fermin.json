@@ -1,0 +1,14 @@
+{
+  "code": "fiesta-san-fermin",
+  "name": "Running of the Bulls (San Fermín)",
+  "festivalType": "Cultural",
+  "dateOrSeason": "July 6–14",
+  "origin": "Navarrese tradition",
+  "estimatedAttendance": "1+ million visitors",
+  "unescoICH": "Not inscribed",
+  "traditions": "Encierro (bull running through streets); chupinazo (opening rocket); procession of San Fermín; bullfights; txupinazo celebration.",
+  "historicalBackground": "San Fermín honors the city's patron saint since the 13th century. The encierro tradition emerged in the 14th century. Hemingway's 1926 novel brought global fame.",
+  "description": "Pamplona's legendary festival, where brave runners dash through narrow streets ahead of charging bulls in a centuries-old tradition.",
+  "location": "Pamplona, Spain",
+  "geojson": "fiesta-san-fermin.geojson"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "th",
+  "name": "Thailand",
+  "avgDownloadMbps": 183.7,
+  "avgUploadMbps": 118.6,
+  "avgLatencyMs": 9,
+  "mobileDownloadMbps": 54.3,
+  "mobileUploadMbps": 10.8,
+  "fixedDownloadMbps": 183.7,
+  "fixedUploadMbps": 118.6,
+  "rank": 17,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Southeast Asia",
+  "dataYear": 2024,
+  "trendDescription": "Major investment in fiber infrastructure. ~18% year-over-year improvement.",
+  "geojson": "th.geojson"
+}

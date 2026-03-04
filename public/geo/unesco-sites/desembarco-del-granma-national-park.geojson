@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.63333,
+          19.88333
+        ]
+      },
+      "properties": {
+        "code": "desembarco-del-granma-national-park",
+        "name": "Desembarco del Granma National Park",
+        "type": "Natural",
+        "country": "Cuba",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

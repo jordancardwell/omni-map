@@ -1,0 +1,35 @@
+{
+  "code": "utc+8",
+  "name": "China Standard Time",
+  "nativeName": "UTC+08:00",
+  "utcOffset": "UTC+08:00",
+  "utcOffsetHours": 8,
+  "offsetGroup": "7. Far East (UTC+8 to +10:30)",
+  "ianaNames": [
+    "Asia/Shanghai",
+    "Asia/Singapore",
+    "Asia/Taipei",
+    "Australia/Perth",
+    "Asia/Irkutsk"
+  ],
+  "countries": [
+    "China",
+    "Singapore",
+    "Taiwan",
+    "Philippines",
+    "Malaysia",
+    "Indonesia (central)",
+    "Australia (Western Australia)",
+    "Brunei",
+    "Mongolia",
+    "Russia (Irkutsk)",
+    "Hong Kong",
+    "Macau"
+  ],
+  "dstRules": "Generally no DST observed; China uses a single timezone for the entire country despite spanning 5 geographic zones",
+  "description": "The world's most populous time zone, covering over 1.7 billion people. China controversially uses a single timezone (Beijing Time) across its vast territory. Singapore, despite being geographically at UTC+7, uses UTC+8 for economic alignment with China and Malaysia.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+8.geojson"
+}

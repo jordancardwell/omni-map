@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4358333333,
+          45.7097222222
+        ]
+      },
+      "properties": {
+        "code": "joggins-fossil-cliffs",
+        "name": "Joggins Fossil Cliffs",
+        "type": "Natural",
+        "country": "Canada",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8519,
+          1.2902
+        ]
+      },
+      "properties": {
+        "code": "national-day-singapore",
+        "name": "National Day (Singapore)",
+        "festivalType": "National",
+        "dateOrSeason": "August 9",
+        "location": "Singapore"
+      }
+    }
+  ]
+}

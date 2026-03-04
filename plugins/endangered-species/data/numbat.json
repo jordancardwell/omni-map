@@ -1,0 +1,19 @@
+{
+  "code": "numbat",
+  "name": "Numbat",
+  "scientificName": "Myrmecobius fasciatus",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~1,000 individuals",
+  "populationTrend": "Increasing",
+  "habitatType": "Eucalypt woodland",
+  "threats": [
+    "Fox predation",
+    "Cat predation",
+    "Habitat loss",
+    "Fire"
+  ],
+  "conservationEfforts": "Project Numbat fox and cat control programs. Reintroduction to fenced reserves across southern Australia. Population increasing from about 1,000 individuals.",
+  "description": "Australia's only specialized ant and termite eater, consuming up to 20,000 termites per day using its long sticky tongue. Once widespread, it now survives mainly in small pockets of Western Australia.",
+  "geojson": "numbat.geojson"
+}

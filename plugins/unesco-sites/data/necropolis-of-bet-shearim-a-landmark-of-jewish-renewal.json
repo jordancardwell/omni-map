@@ -1,0 +1,15 @@
+{
+  "code": "necropolis-of-bet-shearim-a-landmark-of-jewish-renewal",
+  "name": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+  "type": "Cultural",
+  "country": "Israel",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Consisting of a series of catacombs, the necropolis developed from the 2nd century AD as the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule. Located southeast of the city of Haifa, these catacombs are a treasury of artworks and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim bears unique testimony to ancient Judaism under the leadership of Rabbi Judah the Patriarch, who is credited with Jewish renewal after 135 AD.",
+  "danger": false,
+  "geojson": "necropolis-of-bet-shearim-a-landmark-of-jewish-renewal.geojson"
+}

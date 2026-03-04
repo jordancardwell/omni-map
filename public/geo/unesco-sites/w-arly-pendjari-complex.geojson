@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4877777778,
+          11.8841666667
+        ]
+      },
+      "properties": {
+        "code": "w-arly-pendjari-complex",
+        "name": "W-Arly-Pendjari Complex",
+        "type": "Natural",
+        "country": "Benin, Niger, Burkina Faso",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

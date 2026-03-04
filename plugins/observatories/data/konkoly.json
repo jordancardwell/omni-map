@@ -1,0 +1,21 @@
+{
+  "code": "konkoly",
+  "name": "Konkoly Observatory",
+  "country": "Hungary",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 474,
+  "aperture": "1 m (RCC)",
+  "telescopes": [
+    "1m RCC",
+    "Schmidt telescope"
+  ],
+  "keyDiscoveries": [
+    "Variable star catalogs",
+    "Asteroid discoveries",
+    "Exoplanet transits"
+  ],
+  "location": "Konkoly Observatory, Hungary",
+  "description": "The principal astronomical institute of Hungary, part of the Research Centre for Astronomy and Earth Sciences. Extensive work on variable stars and asteroids.",
+  "geojson": "konkoly.geojson"
+}

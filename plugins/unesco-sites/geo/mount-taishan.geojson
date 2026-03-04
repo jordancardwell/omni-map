@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1,
+          36.26667
+        ]
+      },
+      "properties": {
+        "code": "mount-taishan",
+        "name": "Mount Taishan",
+        "type": "Mixed",
+        "country": "China",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

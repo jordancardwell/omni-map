@@ -1,0 +1,19 @@
+{
+  "code": "syd-nrt",
+  "name": "Sydney — Tokyo",
+  "airports": [
+    "SYD",
+    "NRT"
+  ],
+  "distanceKm": 7832,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Qantas",
+    "JAL",
+    "ANA"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "SYD–NRT route between Sydney and Tokyo. Distance: 7,832 km. ~60 weekly flights operated by Qantas, JAL, ANA.",
+  "geojson": "syd-nrt.geojson"
+}

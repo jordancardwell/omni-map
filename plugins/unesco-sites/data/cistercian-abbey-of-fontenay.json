@@ -1,0 +1,14 @@
+{
+  "code": "cistercian-abbey-of-fontenay",
+  "name": "Cistercian Abbey of Fontenay",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1981",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "This stark Burgundian monastery was founded by St Bernard in 1119. With its church, cloister, refectory, sleeping quarters, bakery and ironworks, it is an excellent illustration of the ideal of self-sufficiency as practised by the earliest communities of Cistercian monks.",
+  "danger": false,
+  "geojson": "cistercian-abbey-of-fontenay.geojson"
+}

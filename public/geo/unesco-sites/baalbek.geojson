@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2041666667,
+          34.0066666667
+        ]
+      },
+      "properties": {
+        "code": "baalbek",
+        "name": "Baalbek",
+        "type": "Cultural",
+        "country": "Lebanon",
+        "yearInscribed": "1984"
+      }
+    }
+  ]
+}

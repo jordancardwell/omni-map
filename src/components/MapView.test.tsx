@@ -6,12 +6,16 @@ const mockContainer = document.createElement("div");
 mockContainer.getBoundingClientRect = () =>
   ({ left: 0, top: 0, right: 800, bottom: 600, width: 800, height: 600, x: 0, y: 0, toJSON: () => ({}) }) as DOMRect;
 
+const mockPane = document.createElement("div");
+
 const mockMap = {
   hasLayer: vi.fn(() => true),
   removeLayer: vi.fn(),
   latLngToContainerPoint: vi.fn(() => ({ x: 100, y: 200 })),
   getContainer: vi.fn(() => mockContainer),
   containerPointToLatLng: vi.fn(() => ({ lat: 51, lng: -1 })),
+  createPane: vi.fn(() => mockPane),
+  getPane: vi.fn(() => null),
 };
 
 // Store registered event handlers so tests can invoke them
@@ -22,6 +26,7 @@ const mockLayerInstance = {
     return this;
   }),
   eachLayer: vi.fn(),
+  setStyle: vi.fn(),
   on: vi.fn((event: string, handler: (e: unknown) => void) => {
     layerEventHandlers[event] = handler;
     return mockLayerInstance;
@@ -49,6 +54,9 @@ vi.mock("react-leaflet", () => ({
       data-attribution={attribution}
     />
   ),
+  ZoomControl: ({ position }: { position?: string }) => (
+    <div data-testid="zoom-control" data-position={position} />
+  ),
   useMap: () => mockMap,
 }));
 
@@ -56,8 +64,13 @@ vi.mock("leaflet", () => ({
   default: {
     geoJSON: vi.fn(() => mockLayerInstance),
     point: vi.fn((x: number, y: number) => ({ x, y })),
+    markerClusterGroup: vi.fn(() => mockLayerInstance),
+    circleMarker: vi.fn(() => mockLayerInstance),
+    divIcon: vi.fn(() => ({})),
   },
 }));
+
+vi.mock("leaflet.markercluster", () => ({}));
 
 import MapView from "./MapView";
 import type { LanguageOverlay } from "./MapView";
@@ -106,7 +119,8 @@ describe("MapView", () => {
   it("renders without overlays by default", () => {
     const { getByTestId } = render(<MapView />);
     const styleEl = getByTestId("overlay-glow-styles");
-    expect(styleEl.textContent).toBe("");
+    // No overlay-specific glow CSS, but cluster CSS is always present
+    expect(styleEl.textContent).not.toContain(".overlay-");
   });
 });
 
@@ -227,6 +241,72 @@ describe("GlowOverlay", () => {
     expect(styleEl.textContent).toContain("#4A90D9");
     expect(styleEl.textContent).toContain(".overlay-zh");
     expect(styleEl.textContent).toContain("#E74C3C");
+  });
+
+  it("creates custom pane for plugin overlays", async () => {
+    const overlays: LanguageOverlay[] = [
+      { code: "en", data: mockGeoJson, color: "#4A90D9", pluginId: "languages" },
+    ];
+
+    await act(async () => {
+      render(<MapView overlays={overlays} />);
+    });
+
+    expect(mockMap.createPane).toHaveBeenCalledWith("plugin-languages");
+  });
+
+  it("creates separate panes for different plugins", async () => {
+    const overlays: LanguageOverlay[] = [
+      { code: "en", data: mockGeoJson, color: "#4A90D9", pluginId: "languages" },
+      { code: "temp", data: mockGeoJson, color: "#FF6B6B", pluginId: "climate" },
+    ];
+
+    await act(async () => {
+      render(<MapView overlays={overlays} />);
+    });
+
+    expect(mockMap.createPane).toHaveBeenCalledWith("plugin-languages");
+    expect(mockMap.createPane).toHaveBeenCalledWith("plugin-climate");
+  });
+
+  it("passes pane name to L.geoJSON options", async () => {
+    const L = (await import("leaflet")).default;
+    const overlays: LanguageOverlay[] = [
+      { code: "en", data: mockGeoJson, color: "#4A90D9", pluginId: "languages" },
+    ];
+
+    await act(async () => {
+      render(<MapView overlays={overlays} />);
+    });
+
+    expect(L.geoJSON).toHaveBeenCalledWith(
+      mockGeoJson,
+      expect.objectContaining({ pane: "plugin-languages" })
+    );
+  });
+
+  it("updates opacity via setStyle when opacity changes", async () => {
+    const overlays: LanguageOverlay[] = [
+      { code: "en", data: mockGeoJson, color: "#4A90D9", opacity: 1 },
+    ];
+
+    let result: ReturnType<typeof render>;
+    await act(async () => {
+      result = render(<MapView overlays={overlays} />);
+    });
+
+    const updatedOverlays: LanguageOverlay[] = [
+      { code: "en", data: mockGeoJson, color: "#4A90D9", opacity: 0.5 },
+    ];
+
+    await act(async () => {
+      result!.rerender(<MapView overlays={updatedOverlays} />);
+    });
+
+    expect(mockLayerInstance.setStyle).toHaveBeenCalledWith({
+      fillOpacity: 0.15,
+      opacity: 0.4,
+    });
   });
 });
 

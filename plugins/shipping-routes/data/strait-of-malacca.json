@@ -1,0 +1,8 @@
+{
+  "code": "strait-of-malacca",
+  "name": "Strait of Malacca Route",
+  "classification": "Major",
+  "itemCategory": "Major Lane",
+  "description": "The narrowest and busiest shipping chokepoint in the world. Connects the Indian Ocean to the South China Sea, carrying ~25% of all maritime trade including 80% of China's oil imports.",
+  "geojson": "strait-of-malacca.geojson"
+}

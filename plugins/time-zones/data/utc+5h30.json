@@ -1,0 +1,22 @@
+{
+  "code": "utc+5h30",
+  "name": "India Standard Time",
+  "nativeName": "UTC+05:30",
+  "utcOffset": "UTC+05:30",
+  "utcOffsetHours": 5.5,
+  "offsetGroup": "5. Mid-East (UTC+3 to +5:45)",
+  "ianaNames": [
+    "Asia/Kolkata",
+    "Asia/Colombo"
+  ],
+  "countries": [
+    "India",
+    "Sri Lanka"
+  ],
+  "dstRules": "No DST observed",
+  "description": "One of the world's most populous time zones, covering over 1.4 billion people in India alone. India uses a single time zone despite spanning roughly 30° of longitude. Sri Lanka adopted UTC+05:30 in 2006 to align with India.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+5h30.geojson"
+}

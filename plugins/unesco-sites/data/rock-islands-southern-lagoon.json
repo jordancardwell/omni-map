@@ -1,0 +1,18 @@
+{
+  "code": "rock-islands-southern-lagoon",
+  "name": "Rock Islands Southern Lagoon",
+  "type": "Mixed",
+  "country": "Palau",
+  "yearInscribed": "2012",
+  "criteria": [
+    "(iii)",
+    "(v)",
+    "(vii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Rock Islands Southern Lagoon covers 100,200 ha and includes 445 uninhabited limestone islands of volcanic origin. Many of them display unique mushroom-like shapes in turquoise lagoons surrounded by coral reefs. The aesthetic beauty of the site is heightened by a complex reef system featuring over 385 coral species and different types of habitat. They sustain a large diversity of plants, birds and marine life including dugong and at least thirteen shark species. The site harbours the highest concentration of marine lakes anywhere, isolated bodies of seawater separated from the ocean by land barriers. They are among the islands’ distinctive features and sustain high endemism of populations which continue to yield new species discoveries. The remains of stonework villages, as well as burial sites and rock art, bear testimony to the organization of small island communities over some three millennia. The abandonment of the villages in the 17th and 18th centuries illustrates the consequences of climate change, population growth and subsistence behaviour on a society living in a marginal marine environment.",
+  "danger": false,
+  "geojson": "rock-islands-southern-lagoon.geojson"
+}

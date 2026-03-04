@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0623361111,
+          40.1847305556
+        ]
+      },
+      "properties": {
+        "code": "bursa-and-cumalkzk-the-birth-of-the-ottoman-empire",
+        "name": "Bursa and Cumalıkızık: the Birth of the Ottoman Empire",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

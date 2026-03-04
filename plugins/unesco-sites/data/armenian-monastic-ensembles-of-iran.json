@@ -1,0 +1,15 @@
+{
+  "code": "armenian-monastic-ensembles-of-iran",
+  "name": "Armenian Monastic Ensembles of Iran",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2008",
+  "criteria": [
+    "(ii)",
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The Armenian Monastic Ensembles of Iran, in the north-west of the country, consists of three monastic ensembles of the Armenian Christian faith: St Thaddeus and St Stepanos and the Chapel of Dzordzor. These edifices - the oldest of which, St Thaddeus, dates back to the 7th century – are examples of outstanding universal value of the Armenian architectural and decorative traditions. They bear testimony to very important interchanges with the other regional cultures, in particular the Byzantine, Orthodox and Persian. Situated on the south-eastern fringe of the main zone of the Armenian cultural space, the monasteries constituted a major centre for the dissemination of that culture in the region. They are the last regional remains of this culture that are still in a satisfactory state of integrity and authenticity. Furthermore, as places of pilgrimage, the monastic ensembles are living witnesses of Armenian religious traditions through the centuries.",
+  "danger": false,
+  "geojson": "armenian-monastic-ensembles-of-iran.geojson"
+}

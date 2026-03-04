@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.68,
+          27.8955555556
+        ]
+      },
+      "properties": {
+        "code": "fanjingshan",
+        "name": "Fanjingshan",
+        "type": "Natural",
+        "country": "China",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}

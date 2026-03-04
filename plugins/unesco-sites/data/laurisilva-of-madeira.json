@@ -1,0 +1,15 @@
+{
+  "code": "laurisilva-of-madeira",
+  "name": "Laurisilva of Madeira",
+  "type": "Natural",
+  "country": "Portugal",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "The Laurisilva of Madeira is an outstanding relict of a previously widespread laurel forest type. It is the largest surviving area of laurel forest and is believed to be 90% primary forest. It contains a unique suite of plants and animals, including many endemic species such as the Madeiran long-toed pigeon.",
+  "danger": false,
+  "geojson": "laurisilva-of-madeira.geojson"
+}

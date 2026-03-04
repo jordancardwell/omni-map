@@ -1,0 +1,14 @@
+{
+  "code": "passover",
+  "name": "Passover",
+  "festivalType": "Religious",
+  "dateOrSeason": "March–April (Nisan 15)",
+  "origin": "Jewish tradition",
+  "estimatedAttendance": "14+ million Jews worldwide",
+  "unescoICH": "Not inscribed",
+  "traditions": "Seder meal with symbolic foods; reading the Haggadah; eating matzah (unleavened bread); removing chametz from homes; singing traditional songs.",
+  "historicalBackground": "Passover commemorates the Exodus from Egypt and the Israelites' liberation from slavery, as described in the Torah. The Seder ritual dates back thousands of years.",
+  "description": "The Festival of Freedom, a major Jewish holiday commemorating the liberation of the Israelites from Egyptian slavery with ritual meals and storytelling.",
+  "location": "Jerusalem, Israel",
+  "geojson": "passover.geojson"
+}

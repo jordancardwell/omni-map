@@ -1,0 +1,18 @@
+{
+  "code": "raman",
+  "name": "Raman",
+  "capacityTbps": 80,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 7500,
+  "yearLaid": 2020,
+  "rfsDate": "2024-01",
+  "owner": "Google",
+  "landingPoints": [
+    "Mumbai, India",
+    "Muscat, Oman",
+    "Djibouti, Djibouti",
+    "Amman, Jordan"
+  ],
+  "description": "Segment of the Blue-Raman system connecting India to Jordan.",
+  "geojson": "raman.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64638889,
+          47.55944444
+        ]
+      },
+      "properties": {
+        "code": "hallstatt-dachstein-salzkammergut-cultural-landscape",
+        "name": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+        "type": "Cultural",
+        "country": "Austria",
+        "yearInscribed": "1997"
+      }
+    }
+  ]
+}

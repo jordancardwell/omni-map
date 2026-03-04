@@ -1,0 +1,19 @@
+{
+  "code": "kul-cgk",
+  "name": "Kuala Lumpur — Jakarta",
+  "airports": [
+    "KUL",
+    "CGK"
+  ],
+  "distanceKm": 1129,
+  "weeklyFlights": 250,
+  "airlines": [
+    "AirAsia",
+    "Malaysia Airlines",
+    "Batik Air"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "KUL–CGK route between Kuala Lumpur and Jakarta. Distance: 1,129 km. ~250 weekly flights operated by AirAsia, Malaysia Airlines, Batik Air.",
+  "geojson": "kul-cgk.geojson"
+}

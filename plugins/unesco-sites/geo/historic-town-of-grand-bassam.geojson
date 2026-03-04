@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7363888889,
+          5.1958333333
+        ]
+      },
+      "properties": {
+        "code": "historic-town-of-grand-bassam",
+        "name": "Historic Town of Grand-Bassam",
+        "type": "Cultural",
+        "country": "Côte d'Ivoire",
+        "yearInscribed": "2012"
+      }
+    }
+  ]
+}

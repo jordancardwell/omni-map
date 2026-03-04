@@ -1,0 +1,17 @@
+{
+  "code": "lake-baikal",
+  "name": "Lake Baikal",
+  "type": "Natural",
+  "country": "Russian Federation",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated in south-east Siberia, the 3.15-million-ha Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve. Known as the 'Galapagos of Russia', its age and isolation have produced one of the world's richest and most unusual freshwater faunas, which is of exceptional value to evolutionary science.",
+  "danger": false,
+  "geojson": "lake-baikal.geojson"
+}

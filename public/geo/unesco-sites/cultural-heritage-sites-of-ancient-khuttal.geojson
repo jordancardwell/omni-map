@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2987127778,
+          37.7443936111
+        ]
+      },
+      "properties": {
+        "code": "cultural-heritage-sites-of-ancient-khuttal",
+        "name": "Cultural Heritage Sites of Ancient Khuttal",
+        "type": "Cultural",
+        "country": "Tajikistan",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

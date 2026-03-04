@@ -1,0 +1,14 @@
+{
+  "code": "limon",
+  "name": "Port of Limón",
+  "country": "Costa Rica",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 10,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Caribbean–Gulf of Mexico Route"
+  ],
+  "description": "Port of Limón in Costa Rica. Annual cargo throughput: ~10 million tons. Type: Multi-Purpose Port.",
+  "geojson": "limon.geojson"
+}

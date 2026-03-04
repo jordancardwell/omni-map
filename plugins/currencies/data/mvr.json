@@ -1,0 +1,16 @@
+{
+  "code": "mvr",
+  "name": "Maldivian Rufiyaa",
+  "isoCode": "MVR",
+  "symbol": "Rf",
+  "region": "Asia",
+  "centralBank": "Maldives Monetary Authority",
+  "exchangeRateEra": "Pegged to USD",
+  "countries": [
+    "Maldives"
+  ],
+  "countryCount": 1,
+  "description": "The Maldivian Rufiyaa is the currency of the Maldives, a low-lying island nation threatened by rising sea levels.",
+  "historicalNotes": "The rufiyaa has been used since 1947. The Maldives is the world's lowest-lying country, with an average elevation of just 1.5 meters.",
+  "geojson": "mvr.geojson"
+}

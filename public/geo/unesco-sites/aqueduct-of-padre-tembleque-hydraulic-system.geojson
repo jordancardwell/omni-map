@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6625666667,
+          19.8352777778
+        ]
+      },
+      "properties": {
+        "code": "aqueduct-of-padre-tembleque-hydraulic-system",
+        "name": "Aqueduct of Padre Tembleque Hydraulic System",
+        "type": "Cultural",
+        "country": "Mexico",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "br",
+  "name": "Brazil",
+  "voltage": "127V/220V",
+  "frequency": "60 Hz",
+  "plugTypes": [
+    "C",
+    "N"
+  ],
+  "plugTypeCount": 2,
+  "plugDescriptions": [
+    "Type C — Two round pins (Europlug, most common worldwide)",
+    "Type N — Three round pins (Brazilian style)"
+  ],
+  "voltageStandard": "Dual",
+  "adapterNotes": "Voltage varies by region (127V in São Paulo/Rio, 220V in Brasília/south). Uses unique Type N plug. Bring adapter.",
+  "geojson": "br.geojson"
+}

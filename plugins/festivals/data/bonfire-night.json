@@ -1,0 +1,14 @@
+{
+  "code": "bonfire-night",
+  "name": "Guy Fawkes Night",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "November 5",
+  "origin": "British tradition",
+  "estimatedAttendance": "Millions across UK",
+  "unescoICH": "Not inscribed",
+  "traditions": "Bonfires; firework displays; burning Guy Fawkes effigies; sparklers; toffee apples; parkin cake; bonfire toffee.",
+  "historicalBackground": "Guy Fawkes Night commemorates the failed Gunpowder Plot of 1605, when Catholic conspirators attempted to blow up Parliament and King James I.",
+  "description": "Britain's night of fire and fireworks, commemorating the foiled Gunpowder Plot with bonfires, effigies, and spectacular pyrotechnics.",
+  "location": "London, UK",
+  "geojson": "bonfire-night.geojson"
+}

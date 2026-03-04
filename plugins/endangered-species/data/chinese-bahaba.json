@@ -1,0 +1,18 @@
+{
+  "code": "chinese-bahaba",
+  "name": "Chinese Bahaba",
+  "scientificName": "Bahaba taipingensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely depleted",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal and estuarine waters",
+  "threats": [
+    "Overfishing for swim bladder",
+    "Habitat degradation",
+    "Pollution"
+  ],
+  "conservationEfforts": "Swim bladders sell for up to $300,000 each. Fishing bans during spawning season. Aquaculture research to reduce pressure on wild stocks. Trade monitoring.",
+  "description": "A large croaker fish whose dried swim bladder (called fish maw) is one of the most expensive seafood items in the world. A single bladder can sell for hundreds of thousands of dollars.",
+  "geojson": "chinese-bahaba.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "hk-st-link",
+  "name": "HK-ST Link",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 3219,
+  "yearLaid": 2021,
+  "rfsDate": "2018-06",
+  "owner": "China Telecom",
+  "landingPoints": [
+    "Hong Kong, China",
+    "Shantou, China"
+  ],
+  "description": "HK-ST Link connecting Hong Kong to Shantou in Southeast Asia.",
+  "geojson": "hk-st-link.geojson"
+}

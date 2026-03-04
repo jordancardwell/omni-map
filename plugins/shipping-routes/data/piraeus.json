@@ -1,0 +1,15 @@
+{
+  "code": "piraeus",
+  "name": "Port of Piraeus",
+  "country": "Greece",
+  "portType": "Container Port",
+  "cargoVolumeMTons": 75,
+  "classification": "Container Port",
+  "itemCategory": "Container Port",
+  "keyRoutes": [
+    "Mediterranean Shipping Route",
+    "Black Sea Shipping Route"
+  ],
+  "description": "Port of Piraeus in Greece. Annual cargo throughput: ~75 million tons. Type: Container Port.",
+  "geojson": "piraeus.geojson"
+}

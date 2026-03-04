@@ -1,0 +1,20 @@
+{
+  "code": "coral-triangle",
+  "name": "Coral Triangle",
+  "location": "Indonesia, Philippines, Papua New Guinea, Solomon Islands, Timor-Leste, Malaysia",
+  "areaKm2": 5700000,
+  "reefType": "Fringing",
+  "healthStatus": "Vulnerable",
+  "coralSpecies": 605,
+  "marineSpecies": 3000,
+  "threats": [
+    "Destructive fishing practices",
+    "Climate change",
+    "Coastal development",
+    "Pollution",
+    "Coral mining"
+  ],
+  "conservationStatus": "Coral Triangle Initiative on Coral Reefs, Fisheries, and Food Security (CTI-CFF) is a multilateral partnership of six governments. Multiple marine protected area networks across member nations.",
+  "description": "The Coral Triangle is the global epicenter of marine biodiversity, containing 76% of all known coral species and over 3,000 species of reef fish. Spanning 5.7 million km² across six nations in Southeast Asia and the Pacific, it is often called the 'Amazon of the Seas.'\n\nThe region sustains the livelihoods of over 120 million coastal people who depend directly on reef resources. The Coral Triangle Initiative, launched in 2009, represents the most ambitious multilateral marine conservation effort in history, coordinating protection across six sovereign nations with diverse governance structures.",
+  "geojson": "coral-triangle.geojson"
+}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1281,42.3814]},"properties":{"code":"chandra-cxc","name":"Chandra X-ray Center","observatoryType":"Space-based","status":"Operational","country":"United States"}}]}

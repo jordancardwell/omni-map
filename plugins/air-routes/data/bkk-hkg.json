@@ -1,0 +1,19 @@
+{
+  "code": "bkk-hkg",
+  "name": "Bangkok — Hong Kong",
+  "airports": [
+    "BKK",
+    "HKG"
+  ],
+  "distanceKm": 1689,
+  "weeklyFlights": 200,
+  "airlines": [
+    "Thai Airways",
+    "Cathay Pacific",
+    "Thai AirAsia"
+  ],
+  "classification": "Ultra High Frequency",
+  "itemCategory": "Ultra High Frequency",
+  "description": "BKK–HKG route between Bangkok and Hong Kong. Distance: 1,689 km. ~200 weekly flights operated by Thai Airways, Cathay Pacific, Thai AirAsia.",
+  "geojson": "bkk-hkg.geojson"
+}

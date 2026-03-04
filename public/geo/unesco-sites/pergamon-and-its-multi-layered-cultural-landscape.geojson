@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18,
+          39.1258333333
+        ]
+      },
+      "properties": {
+        "code": "pergamon-and-its-multi-layered-cultural-landscape",
+        "name": "Pergamon and its Multi-Layered Cultural Landscape",
+        "type": "Cultural",
+        "country": "Türkiye",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

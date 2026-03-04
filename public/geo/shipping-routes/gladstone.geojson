@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"gladstone","name":"Port of Gladstone","featureType":"port","portType":"Bulk Port","country":"Australia"},"geometry":{"type":"Point","coordinates":[151.27,-23.85]}}]}

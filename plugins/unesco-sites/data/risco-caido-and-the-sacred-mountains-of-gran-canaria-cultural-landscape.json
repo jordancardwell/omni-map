@@ -1,0 +1,15 @@
+{
+  "code": "risco-caido-and-the-sacred-mountains-of-gran-canaria-cultural-landscape",
+  "name": "Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape",
+  "type": "Cultural",
+  "country": "Spain",
+  "yearInscribed": "2019",
+  "criteria": [
+    "(iii)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in a vast mountainous area in the centre of Gran Canaria, Risco Caído comprises cliffs, ravines and volcanic formations in a landscape of rich biodiversity. The landscape includes a large number of troglodyte settlements — habitats, granaries and cisterns — whose age is proof of the presence of a pre-Hispanic culture on the island, which has evolved in isolation, from the arrival of North African Berbers, around the beginning of our era, until the first Spanish settlers in the 15th century. The troglodyte complex also includes cult cavities and two sacred temples, or almogarenes — Risco Caído and Roque Bentayga — where seasonal ceremonies were held. These temples are thought to be linked to a possible cult of the stars and Mother Earth.",
+  "danger": false,
+  "geojson": "risco-caido-and-the-sacred-mountains-of-gran-canaria-cultural-landscape.geojson"
+}

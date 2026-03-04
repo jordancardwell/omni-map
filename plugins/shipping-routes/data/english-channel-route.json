@@ -1,0 +1,8 @@
+{
+  "code": "english-channel-route",
+  "name": "English Channel Route",
+  "classification": "Middle",
+  "itemCategory": "Middle Lane",
+  "description": "One of the world's busiest shipping lanes. Connects the North Sea to the Atlantic, with traffic separation schemes managing 500+ vessel movements daily.",
+  "geojson": "english-channel-route.geojson"
+}

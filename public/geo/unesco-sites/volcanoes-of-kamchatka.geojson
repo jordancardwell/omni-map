@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.5,
+          56.33333333
+        ]
+      },
+      "properties": {
+        "code": "volcanoes-of-kamchatka",
+        "name": "Volcanoes of Kamchatka",
+        "type": "Natural",
+        "country": "Russian Federation",
+        "yearInscribed": "1996"
+      }
+    }
+  ]
+}

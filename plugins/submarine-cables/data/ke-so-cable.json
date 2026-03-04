@@ -1,0 +1,16 @@
+{
+  "code": "ke-so-cable",
+  "name": "KE-SO Cable",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 522,
+  "yearLaid": 2018,
+  "rfsDate": "2016-06",
+  "owner": "Hormuud",
+  "landingPoints": [
+    "Mombasa, Kenya",
+    "Mogadishu, Somalia"
+  ],
+  "description": "KE-SO Cable connecting Mombasa to Mogadishu along the African coast.",
+  "geojson": "ke-so-cable.geojson"
+}

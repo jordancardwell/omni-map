@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7775,
+          61.12056
+        ]
+      },
+      "properties": {
+        "code": "bronze-age-burial-site-of-sammallahdenmaki",
+        "name": "Bronze Age Burial Site of Sammallahdenmäki",
+        "type": "Cultural",
+        "country": "Finland",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

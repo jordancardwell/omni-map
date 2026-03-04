@@ -1,0 +1,14 @@
+{
+  "code": "peking-man-site-at-zhoukoudian",
+  "name": "Peking Man Site at Zhoukoudian",
+  "type": "Cultural",
+  "country": "China",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Scientific work at the site, which lies 42 km south-west of Beijing, is still underway. So far, it has led to the discovery of the remains of Sinanthropus pekinensis, who lived in the Middle Pleistocene, along with various objects, and remains of Homo sapiens sapiens dating as far back as 18,000–11,000 B.C. The site is not only an exceptional reminder of the prehistorical human societies of the Asian continent, but also illustrates the process of evolution.",
+  "danger": false,
+  "geojson": "peking-man-site-at-zhoukoudian.geojson"
+}

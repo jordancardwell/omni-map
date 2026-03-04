@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.360253,
+          41.378088
+        ]
+      },
+      "properties": {
+        "code": "itchan-kala",
+        "name": "Itchan Kala",
+        "type": "Cultural",
+        "country": "Uzbekistan",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

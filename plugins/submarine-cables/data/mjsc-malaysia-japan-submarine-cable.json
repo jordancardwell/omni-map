@@ -1,0 +1,17 @@
+{
+  "code": "mjsc-malaysia-japan-submarine-cable",
+  "name": "MJSC (Malaysia-Japan Submarine Cable)",
+  "capacityTbps": 0.56,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 8500,
+  "yearLaid": 1999,
+  "rfsDate": "1999-08",
+  "owner": "NTT Communications",
+  "landingPoints": [
+    "Mersing, Malaysia",
+    "Shima, Japan",
+    "Toucheng, Taiwan"
+  ],
+  "description": "Malaysia-Japan cable system.",
+  "geojson": "mjsc-malaysia-japan-submarine-cable.geojson"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "equiano",
+  "name": "Equiano",
+  "capacityTbps": 200,
+  "capacityTier": "Ultra-High (>100 Tbps)",
+  "lengthKm": 15000,
+  "yearLaid": 2021,
+  "rfsDate": "2023-01",
+  "owner": "Google",
+  "landingPoints": [
+    "Lisbon, Portugal",
+    "Lomé, Togo",
+    "Lagos, Nigeria",
+    "Swakopmund, Namibia",
+    "Cape Town, South Africa"
+  ],
+  "description": "Google's private cable serving Africa, with capacity of 20x the entire installed base of cables serving Africa at launch.",
+  "geojson": "equiano.geojson"
+}

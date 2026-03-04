@@ -1,0 +1,16 @@
+{
+  "code": "uk-sg-cable",
+  "name": "UK-SG Cable",
+  "capacityTbps": 33,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 15225,
+  "yearLaid": 2012,
+  "rfsDate": "2024-06",
+  "owner": "BT",
+  "landingPoints": [
+    "London, UK",
+    "Singapore"
+  ],
+  "description": "UK-SG Cable connecting London to Singapore.",
+  "geojson": "uk-sg-cable.geojson"
+}

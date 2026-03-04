@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.25,
+          -16.5
+        ]
+      },
+      "properties": {
+        "code": "discovery-coast-atlantic-forest-reserves",
+        "name": "Discovery Coast Atlantic Forest Reserves",
+        "type": "Natural",
+        "country": "Brazil",
+        "yearInscribed": "1999"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7242777778,
+          37.4214722222
+        ]
+      },
+      "properties": {
+        "code": "hyrcanian-forests",
+        "name": "Hyrcanian Forests",
+        "type": "Natural",
+        "country": "Azerbaijan, Iran (Islamic Republic of)",
+        "yearInscribed": "2019"
+      }
+    }
+  ]
+}

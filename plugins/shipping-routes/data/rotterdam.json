@@ -1,0 +1,16 @@
+{
+  "code": "rotterdam",
+  "name": "Port of Rotterdam",
+  "country": "Netherlands",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 470,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Trans-Atlantic Northern Route",
+    "North Sea–Baltic Route",
+    "Suez Canal Route"
+  ],
+  "description": "Port of Rotterdam in Netherlands. Annual cargo throughput: ~470 million tons. Type: Multi-Purpose Port.",
+  "geojson": "rotterdam.geojson"
+}

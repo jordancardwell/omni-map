@@ -1,0 +1,16 @@
+{
+  "code": "uk-sn-cable",
+  "name": "UK-SN Cable",
+  "capacityTbps": 42,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6654,
+  "yearLaid": 2010,
+  "rfsDate": "2013-06",
+  "owner": "Orange",
+  "landingPoints": [
+    "Bude, UK",
+    "Dakar, Senegal"
+  ],
+  "description": "UK-SN Cable connecting Bude to Dakar.",
+  "geojson": "uk-sn-cable.geojson"
+}

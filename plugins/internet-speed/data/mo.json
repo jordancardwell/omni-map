@@ -1,0 +1,17 @@
+{
+  "code": "mo",
+  "name": "Macau",
+  "avgDownloadMbps": 198.4,
+  "avgUploadMbps": 108.6,
+  "avgLatencyMs": 8,
+  "mobileDownloadMbps": 68.4,
+  "mobileUploadMbps": 14.2,
+  "fixedDownloadMbps": 198.4,
+  "fixedUploadMbps": 108.6,
+  "rank": 13,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "East Asia",
+  "dataYear": 2024,
+  "trendDescription": "Dense urban area with excellent fiber coverage. ~8% year-over-year growth.",
+  "geojson": "mo.geojson"
+}

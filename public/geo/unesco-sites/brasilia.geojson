@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9,
+          -15.78333
+        ]
+      },
+      "properties": {
+        "code": "brasilia",
+        "name": "Brasilia",
+        "type": "Cultural",
+        "country": "Brazil",
+        "yearInscribed": "1987"
+      }
+    }
+  ]
+}

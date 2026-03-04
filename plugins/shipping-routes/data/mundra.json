@@ -1,0 +1,14 @@
+{
+  "code": "mundra",
+  "name": "Port of Mundra",
+  "country": "India",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 200,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "India–Persian Gulf Route"
+  ],
+  "description": "Port of Mundra in India. Annual cargo throughput: ~200 million tons. Type: Multi-Purpose Port.",
+  "geojson": "mundra.geojson"
+}

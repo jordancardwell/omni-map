@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.98722,
+          60.14722
+        ]
+      },
+      "properties": {
+        "code": "fortress-of-suomenlinna",
+        "name": "Fortress of Suomenlinna",
+        "type": "Cultural",
+        "country": "Finland",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

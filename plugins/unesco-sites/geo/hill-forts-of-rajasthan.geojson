@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6461111111,
+          24.8833333333
+        ]
+      },
+      "properties": {
+        "code": "hill-forts-of-rajasthan",
+        "name": "Hill Forts of Rajasthan",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

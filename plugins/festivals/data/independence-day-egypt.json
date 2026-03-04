@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-egypt",
+  "name": "Revolution Day (Egypt)",
+  "festivalType": "National",
+  "dateOrSeason": "July 23",
+  "origin": "Egyptian national",
+  "estimatedAttendance": "105+ million Egyptians",
+  "unescoICH": "Not inscribed",
+  "traditions": "Presidential address; military displays; cultural performances; fireworks over the Nile; patriotic concerts.",
+  "historicalBackground": "Revolution Day commemorates the Egyptian Revolution of 1952, when the Free Officers Movement led by Gamal Abdel Nasser overthrew the monarchy.",
+  "description": "Egypt's celebration of the 1952 Revolution, with military displays and fireworks along the Nile honoring the birth of the republic.",
+  "location": "Cairo, Egypt",
+  "geojson": "independence-day-egypt.geojson"
+}

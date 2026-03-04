@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.91667,
+          4.13333
+        ]
+      },
+      "properties": {
+        "code": "gunung-mulu-national-park",
+        "name": "Gunung Mulu National Park",
+        "type": "Natural",
+        "country": "Malaysia",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

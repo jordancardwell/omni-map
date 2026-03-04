@@ -1,0 +1,17 @@
+{
+  "code": "es",
+  "name": "Spain",
+  "avgDownloadMbps": 202.5,
+  "avgUploadMbps": 98.4,
+  "avgLatencyMs": 13,
+  "mobileDownloadMbps": 61.8,
+  "mobileUploadMbps": 12.7,
+  "fixedDownloadMbps": 202.5,
+  "fixedUploadMbps": 98.4,
+  "rank": 11,
+  "speedTier": "Very Fast (150+ Mbps)",
+  "region": "Southern Europe",
+  "dataYear": 2024,
+  "trendDescription": "Fiber-to-the-home expansion driving growth. ~13% year-over-year.",
+  "geojson": "es.geojson"
+}

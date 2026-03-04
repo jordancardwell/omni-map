@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6580555556,
+          -15.9116666667
+        ]
+      },
+      "properties": {
+        "code": "mount-mulanje-cultural-landscape",
+        "name": "Mount Mulanje Cultural Landscape",
+        "type": "Cultural",
+        "country": "Malawi",
+        "yearInscribed": "2025"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "code": "brazilian",
+  "name": "Brazilian Cuisine",
+  "cuisineFamily": "Latin American",
+  "description": "Brazilian cuisine is a vibrant fusion of Portuguese, African, and indigenous Tupi influences, producing one of the world's most diverse food cultures. From the churrasco tradition of the south to the dendê oil-based dishes of Bahia, Brazil's continental size ensures remarkable regional variety.",
+  "signatureDishes": [
+    "Feijoada",
+    "Churrasco",
+    "Moqueca",
+    "Pão de Queijo",
+    "Acarajé",
+    "Coxinha"
+  ],
+  "keyIngredients": [
+    "Black Beans",
+    "Cassava",
+    "Dendê Oil",
+    "Coconut Milk",
+    "Açaí",
+    "Guaraná"
+  ],
+  "cookingTechniques": [
+    "Churrasco (rotisserie grilling)",
+    "Slow bean stewing",
+    "Deep frying",
+    "Moqueca clay pot cooking"
+  ],
+  "unescoRecognition": "None specific; Belém designated UNESCO City of Gastronomy (2015)",
+  "keyRegions": [
+    "Bahia",
+    "São Paulo",
+    "Rio Grande do Sul",
+    "Minas Gerais",
+    "Pará"
+  ],
+  "geojson": "brazilian.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3097222222,
+          33.5108333333
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-damascus",
+        "name": "Ancient City of Damascus",
+        "type": "Cultural",
+        "country": "Syrian Arab Republic",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

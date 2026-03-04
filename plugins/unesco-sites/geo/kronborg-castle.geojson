@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62083333,
+          56.03889
+        ]
+      },
+      "properties": {
+        "code": "kronborg-castle",
+        "name": "Kronborg Castle",
+        "type": "Cultural",
+        "country": "Denmark",
+        "yearInscribed": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "assumption-procession",
+  "name": "Feast of the Assumption (Gozo)",
+  "festivalType": "Religious",
+  "dateOrSeason": "August 15",
+  "origin": "Maltese Catholic tradition",
+  "estimatedAttendance": "Thousands in Gozo",
+  "unescoICH": "Not inscribed",
+  "traditions": "Elaborate street decorations; firework factories' displays; brass band marches; life-size religious statues; village feasts.",
+  "historicalBackground": "Malta's village festas honor patron saints with fierce inter-village rivalry. The Assumption celebration in Gozo combines deep Catholic devotion with spectacular pyrotechnics.",
+  "description": "Malta's most spectacular village festa, where Gozo erupts in fireworks, processions, and fervent devotion for the Assumption of Mary.",
+  "location": "Victoria, Gozo, Malta",
+  "geojson": "assumption-procession.geojson"
+}

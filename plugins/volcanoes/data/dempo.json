@@ -1,0 +1,21 @@
+{
+  "code": "dempo",
+  "name": "Dempo",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3173,
+  "lastEruption": "2009",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Sumatra",
+  "location": "Sumatra, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "Moderately active with eruptions recorded since 1818.",
+  "description": "Mount Dempo is one of the highest volcanoes in Sumatra, surrounded by tea plantations in the highlands of South Sumatra.",
+  "geojson": "dempo.geojson"
+}

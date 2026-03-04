@@ -1,0 +1,14 @@
+{
+  "code": "tihar",
+  "name": "Tihar (Festival of Lights)",
+  "festivalType": "Seasonal",
+  "dateOrSeason": "October–November",
+  "origin": "Nepalese Hindu tradition",
+  "estimatedAttendance": "30+ million Nepalis",
+  "unescoICH": "Not inscribed",
+  "traditions": "Five days honoring crows, dogs, cows, oxen, and siblings; oil lamps and candles; Deusi-Bhailo singing; rangoli; card games.",
+  "historicalBackground": "Tihar is Nepal's version of Diwali but includes unique days for honoring animals. Kukur Tihar (Dog Day) has gained global attention for garlanding dogs.",
+  "description": "Nepal's unique five-day Festival of Lights, where crows, dogs, cows, and siblings are each honored on successive days.",
+  "location": "Kathmandu, Nepal",
+  "geojson": "tihar.geojson"
+}

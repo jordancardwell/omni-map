@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9752777778,
+          18.7880555556
+        ]
+      },
+      "properties": {
+        "code": "archipielago-de-revillagigedo",
+        "name": "Archipiélago de Revillagigedo",
+        "type": "Natural",
+        "country": "Mexico",
+        "yearInscribed": "2016"
+      }
+    }
+  ]
+}

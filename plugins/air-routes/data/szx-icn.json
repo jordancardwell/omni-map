@@ -1,0 +1,18 @@
+{
+  "code": "szx-icn",
+  "name": "Shenzhen — Seoul",
+  "airports": [
+    "SZX",
+    "ICN"
+  ],
+  "distanceKm": 2043,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Shenzhen Airlines",
+    "Korean Air"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "SZX–ICN route between Shenzhen and Seoul. Distance: 2,043 km. ~30 weekly flights operated by Shenzhen Airlines, Korean Air.",
+  "geojson": "szx-icn.geojson"
+}

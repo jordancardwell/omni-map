@@ -1,0 +1,19 @@
+{
+  "code": "goliath-frog",
+  "name": "Goliath Frog",
+  "scientificName": "Conraua goliath",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Amphibians",
+  "populationEstimate": "Unknown, declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Fast-flowing river and waterfall",
+  "threats": [
+    "Bushmeat hunting",
+    "Habitat loss",
+    "Pet trade",
+    "Dam construction"
+  ],
+  "conservationEfforts": "Community-based conservation in Cameroon. Research into population status and ecology. Proposed protected areas along key river systems.",
+  "description": "The world's largest living frog, reaching 32 cm and 3.3 kg. Found only in a small area of Cameroon and Equatorial Guinea. They build large circular nests of rocks to protect their eggs.",
+  "geojson": "goliath-frog.geojson"
+}

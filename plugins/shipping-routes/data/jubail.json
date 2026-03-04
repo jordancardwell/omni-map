@@ -1,0 +1,14 @@
+{
+  "code": "jubail",
+  "name": "Port of Jubail",
+  "country": "Saudi Arabia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 100,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Persian Gulf Oil Routes"
+  ],
+  "description": "Port of Jubail in Saudi Arabia. Annual cargo throughput: ~100 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "jubail.geojson"
+}

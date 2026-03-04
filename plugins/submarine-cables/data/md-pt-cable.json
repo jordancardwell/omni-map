@@ -1,0 +1,16 @@
+{
+  "code": "md-pt-cable",
+  "name": "MD-PT Cable",
+  "capacityTbps": 11,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2328,
+  "yearLaid": 2021,
+  "rfsDate": "2017-06",
+  "owner": "Altice",
+  "landingPoints": [
+    "Funchal, Portugal",
+    "Lisbon, Portugal"
+  ],
+  "description": "MD-PT Cable connecting Funchal to Lisbon in Europe.",
+  "geojson": "md-pt-cable.geojson"
+}

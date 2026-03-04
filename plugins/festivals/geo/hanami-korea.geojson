@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.667,
+          35.15
+        ]
+      },
+      "properties": {
+        "code": "hanami-korea",
+        "name": "Cherry Blossom Festival (Jinhae)",
+        "festivalType": "Seasonal",
+        "dateOrSeason": "Late March–April",
+        "location": "Jinhae, South Korea"
+      }
+    }
+  ]
+}

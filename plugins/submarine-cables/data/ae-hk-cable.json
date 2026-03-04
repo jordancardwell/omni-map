@@ -1,0 +1,16 @@
+{
+  "code": "ae-hk-cable",
+  "name": "AE-HK Cable",
+  "capacityTbps": 51,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5192,
+  "yearLaid": 2012,
+  "rfsDate": "2015-06",
+  "owner": "Etisalat",
+  "landingPoints": [
+    "Fujairah, UAE",
+    "Hong Kong, China"
+  ],
+  "description": "AE-HK Cable connecting Fujairah to Hong Kong.",
+  "geojson": "ae-hk-cable.geojson"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "astronomical-observatories-of-kazan-federal-university",
+  "name": "Astronomical Observatories of Kazan Federal University",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "2023",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The property is comprised of two component parts: one in the historical centre of Kazan and the other in a forested suburban area west of the city. The Kazan City Astronomical Observatory, built in 1837, is located on the University campus and the building is characterized by a semi-circular façade and three towers with domes built to house astronomical instruments. The suburban Engelhardt Astronomical Observatory includes structures for sky observations and residential buildings, all located within a park. The observatories have been preserved complete with astronomical instruments and today perform mainly educational functions.",
+  "danger": false,
+  "geojson": "astronomical-observatories-of-kazan-federal-university.geojson"
+}

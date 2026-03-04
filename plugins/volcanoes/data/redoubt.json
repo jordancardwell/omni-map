@@ -1,0 +1,22 @@
+{
+  "code": "redoubt",
+  "name": "Mount Redoubt",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 3108,
+  "lastEruption": "2009",
+  "vei": 3,
+  "country": "United States",
+  "region": "Alaska",
+  "location": "Alaska, United States",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars",
+    "Aviation hazards"
+  ],
+  "eruptionHistory": "Major eruptions in 1902, 1966, 1989-90, and 2009. The 1989 eruption caused a KLM 747 to lose all four engines.",
+  "description": "Mount Redoubt is a prominent stratovolcano on the western side of Cook Inlet. Its eruptions pose significant hazards to aviation and the Kenai Peninsula.",
+  "geojson": "redoubt.geojson"
+}

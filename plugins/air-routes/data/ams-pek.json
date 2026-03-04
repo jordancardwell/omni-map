@@ -1,0 +1,18 @@
+{
+  "code": "ams-pek",
+  "name": "Amsterdam — Beijing",
+  "airports": [
+    "AMS",
+    "PEK"
+  ],
+  "distanceKm": 7828,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Air China",
+    "KLM"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "AMS–PEK route between Amsterdam and Beijing. Distance: 7,828 km. ~25 weekly flights operated by Air China, KLM.",
+  "geojson": "ams-pek.geojson"
+}

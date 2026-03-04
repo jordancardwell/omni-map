@@ -1,0 +1,17 @@
+{
+  "code": "hkg-jfk",
+  "name": "Hong Kong — New York",
+  "airports": [
+    "HKG",
+    "JFK"
+  ],
+  "distanceKm": 12970,
+  "weeklyFlights": 25,
+  "airlines": [
+    "Cathay Pacific"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HKG–JFK route between Hong Kong and New York. Distance: 12,970 km. ~25 weekly flights operated by Cathay Pacific.",
+  "geojson": "hkg-jfk.geojson"
+}

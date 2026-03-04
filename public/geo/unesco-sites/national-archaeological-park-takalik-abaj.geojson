@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7325,
+          14.6386111111
+        ]
+      },
+      "properties": {
+        "code": "national-archaeological-park-takalik-abaj",
+        "name": "National Archaeological Park Tak’alik Ab’aj",
+        "type": "Cultural",
+        "country": "Guatemala",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

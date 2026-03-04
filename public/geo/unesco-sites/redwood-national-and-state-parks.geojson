@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9980556,
+          41.37388889
+        ]
+      },
+      "properties": {
+        "code": "redwood-national-and-state-parks",
+        "name": "Redwood National and State Parks",
+        "type": "Natural",
+        "country": "United States of America",
+        "yearInscribed": "1980"
+      }
+    }
+  ]
+}

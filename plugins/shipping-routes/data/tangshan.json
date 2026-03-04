@@ -1,0 +1,14 @@
+{
+  "code": "tangshan",
+  "name": "Port of Tangshan",
+  "country": "China",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 760,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "East China Sea–Japan Route"
+  ],
+  "description": "Port of Tangshan in China. Annual cargo throughput: ~760 million tons. Type: Bulk Port.",
+  "geojson": "tangshan.geojson"
+}

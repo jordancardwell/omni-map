@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "code": "mekong-basin", "name": "Mekong Basin" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[98,33],[100,30],[101,26],[101,22],[102,19],[103,16],[104,14],[105,12],[106,10],[107,9],[107,11],[106,14],[105,17],[104,20],[103,23],[102,26],[100,29],[99,32],[98,33]]]
+    }
+  }]
+}

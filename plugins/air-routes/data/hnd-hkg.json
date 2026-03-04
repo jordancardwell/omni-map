@@ -1,0 +1,18 @@
+{
+  "code": "hnd-hkg",
+  "name": "Tokyo — Hong Kong",
+  "airports": [
+    "HND",
+    "HKG"
+  ],
+  "distanceKm": 2902,
+  "weeklyFlights": 40,
+  "airlines": [
+    "ANA",
+    "Cathay Pacific"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "HND–HKG route between Tokyo and Hong Kong. Distance: 2,902 km. ~40 weekly flights operated by ANA, Cathay Pacific.",
+  "geojson": "hnd-hkg.geojson"
+}

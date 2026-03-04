@@ -1,0 +1,17 @@
+{
+  "code": "clt-mco",
+  "name": "Charlotte — Orlando",
+  "airports": [
+    "CLT",
+    "MCO"
+  ],
+  "distanceKm": 755,
+  "weeklyFlights": 50,
+  "airlines": [
+    "American"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "CLT–MCO route between Charlotte and Orlando. Distance: 755 km. ~50 weekly flights operated by American.",
+  "geojson": "clt-mco.geojson"
+}

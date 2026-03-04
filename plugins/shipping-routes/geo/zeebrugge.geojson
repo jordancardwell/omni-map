@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"zeebrugge","name":"Port of Zeebrugge","featureType":"port","portType":"Multi-Purpose Port","country":"Belgium"},"geometry":{"type":"Point","coordinates":[3.18,51.34]}}]}

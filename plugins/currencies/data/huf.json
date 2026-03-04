@@ -1,0 +1,16 @@
+{
+  "code": "huf",
+  "name": "Hungarian Forint",
+  "isoCode": "HUF",
+  "symbol": "Ft",
+  "region": "Europe",
+  "centralBank": "Magyar Nemzeti Bank",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Hungary"
+  ],
+  "countryCount": 1,
+  "description": "The Hungarian Forint is named after the gold coins of Florence (fiorino). Hungary has one of the most open economies in the EU.",
+  "historicalNotes": "Introduced in 1946 to replace the pengő after the worst hyperinflation in history. Hungary is an EU member but has not set a target date for Euro adoption.",
+  "geojson": "huf.geojson"
+}

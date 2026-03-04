@@ -1,0 +1,16 @@
+{
+  "code": "mzn",
+  "name": "Mozambican Metical",
+  "isoCode": "MZN",
+  "symbol": "MT",
+  "region": "Africa",
+  "centralBank": "Bank of Mozambique",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Mozambique"
+  ],
+  "countryCount": 1,
+  "description": "The Mozambican Metical is named after a gold coin weight used in Arab trade along the East African coast.",
+  "historicalNotes": "The 'new metical' was introduced in 2006, removing three zeros. Mozambique was a Portuguese colony until 1975.",
+  "geojson": "mzn.geojson"
+}

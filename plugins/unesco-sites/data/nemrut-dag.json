@@ -1,0 +1,16 @@
+{
+  "code": "nemrut-dag",
+  "name": "Nemrut Dağ",
+  "type": "Cultural",
+  "country": "Türkiye",
+  "yearInscribed": "1987",
+  "criteria": [
+    "(i)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The mausoleum of Antiochus I (69–34 B.C.), who reigned over Commagene, a kingdom founded north of Syria and the Euphrates after the breakup of Alexander's empire, is one of the most ambitious constructions of the Hellenistic period. The syncretism of its pantheon, and the lineage of its kings, which can be traced back through two sets of legends, Greek and Persian, is evidence of the dual origin of this kingdom's culture.",
+  "danger": false,
+  "geojson": "nemrut-dag.geojson"
+}

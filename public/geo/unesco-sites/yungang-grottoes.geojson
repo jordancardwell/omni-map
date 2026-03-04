@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.12222,
+          40.10972
+        ]
+      },
+      "properties": {
+        "code": "yungang-grottoes",
+        "name": "Yungang Grottoes",
+        "type": "Cultural",
+        "country": "China",
+        "yearInscribed": "2001"
+      }
+    }
+  ]
+}

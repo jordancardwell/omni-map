@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5833333333,
+          31.8333333333
+        ]
+      },
+      "properties": {
+        "code": "great-himalayan-national-park-conservation-area",
+        "name": "Great Himalayan National Park Conservation Area",
+        "type": "Natural",
+        "country": "India",
+        "yearInscribed": "2014"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "cotopaxi",
+  "name": "Cotopaxi",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 5897,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Ecuador",
+  "region": "Cotopaxi Province",
+  "location": "Cotopaxi Province, Ecuador",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Lahars",
+    "Pyroclastic flows",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "Has erupted more than 50 times since 1738. The 1877 eruption produced lahars that traveled over 100 km. Renewed activity began in 2015.",
+  "description": "Cotopaxi is one of the world's highest active volcanoes. Its glacier-covered summit and massive lahar potential make it one of Ecuador's most dangerous volcanoes.",
+  "geojson": "cotopaxi.geojson"
+}

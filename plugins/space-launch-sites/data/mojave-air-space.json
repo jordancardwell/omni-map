@@ -1,0 +1,17 @@
+{
+  "code": "mojave-air-space",
+  "name": "Mojave Air and Space Port",
+  "country": "United States",
+  "operator": "East Kern Airport District",
+  "coordinates": "35.0594°N, 118.1519°W",
+  "status": "Active",
+  "notableLaunches": [
+    "SpaceShipOne (first private crewed spaceflight)",
+    "Scaled Composites tests",
+    "Various rocket engine tests"
+  ],
+  "orbitalInclinationRange": "N/A (suborbital/testing)",
+  "location": "Mojave Air and Space Port, United States",
+  "description": "FAA-licensed spaceport in the Mojave Desert, California. Site of SpaceShipOne's historic X Prize-winning flights in 2004. Major center for private rocket engine development and testing.",
+  "geojson": "mojave-air-space.geojson"
+}

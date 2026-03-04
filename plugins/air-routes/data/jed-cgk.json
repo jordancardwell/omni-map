@@ -1,0 +1,18 @@
+{
+  "code": "jed-cgk",
+  "name": "Jeddah — Jakarta",
+  "airports": [
+    "JED",
+    "CGK"
+  ],
+  "distanceKm": 7971,
+  "weeklyFlights": 40,
+  "airlines": [
+    "Saudia",
+    "Garuda Indonesia"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "JED–CGK route between Jeddah and Jakarta. Distance: 7,971 km. ~40 weekly flights operated by Saudia, Garuda Indonesia.",
+  "geojson": "jed-cgk.geojson"
+}

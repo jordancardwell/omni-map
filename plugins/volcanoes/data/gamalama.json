@@ -1,0 +1,21 @@
+{
+  "code": "gamalama",
+  "name": "Gamalama",
+  "volcanoType": "Stratovolcano",
+  "status": "Historically Active",
+  "elevation": 1715,
+  "lastEruption": "2018",
+  "vei": 2,
+  "country": "Indonesia",
+  "region": "Ternate",
+  "location": "Ternate, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Ashfall",
+    "Pyroclastic flows",
+    "Lahars"
+  ],
+  "eruptionHistory": "Has erupted over 70 times since 1538. The city of Ternate is built on its slopes.",
+  "description": "Gamalama is the volcano that forms the island of Ternate, historically the center of the spice trade. The city of Ternate is built directly on its slopes.",
+  "geojson": "gamalama.geojson"
+}

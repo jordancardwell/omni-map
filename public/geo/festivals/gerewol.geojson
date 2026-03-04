@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1254,
+          13.5116
+        ]
+      },
+      "properties": {
+        "code": "gerewol",
+        "name": "Gerewol",
+        "festivalType": "Cultural",
+        "dateOrSeason": "September–October",
+        "location": "Ingall, Niger"
+      }
+    }
+  ]
+}

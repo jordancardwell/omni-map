@@ -1,0 +1,17 @@
+{
+  "code": "shark-bay-western-australia",
+  "name": "Shark Bay, Western Australia",
+  "type": "Natural",
+  "country": "Australia",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(vii)",
+    "(viii)",
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "At the most westerly point of the Australian continent, Shark Bay, with its islands and the land surrounding it, has three exceptional natural features: its vast sea-grass beds, which are the largest (4,800 km2) and richest in the world; its dugong (‘sea cow’) population; and its stromatolites (colonies of algae which form hard, dome-shaped deposits and are among the oldest forms of life on earth). Shark Bay is also home to five species of endangered mammals.",
+  "danger": false,
+  "geojson": "shark-bay-western-australia.geojson"
+}

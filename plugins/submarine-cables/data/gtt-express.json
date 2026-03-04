@@ -1,0 +1,16 @@
+{
+  "code": "gtt-express",
+  "name": "GTT Express",
+  "capacityTbps": 40,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 6300,
+  "yearLaid": 2019,
+  "rfsDate": "2020-03",
+  "owner": "GTT Communications",
+  "landingPoints": [
+    "Tuckerton, USA",
+    "Katwijk, Netherlands"
+  ],
+  "description": "Express transatlantic route with low-latency connectivity.",
+  "geojson": "gtt-express.geojson"
+}

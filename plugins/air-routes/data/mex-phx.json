@@ -1,0 +1,18 @@
+{
+  "code": "mex-phx",
+  "name": "Mexico City — Phoenix",
+  "airports": [
+    "MEX",
+    "PHX"
+  ],
+  "distanceKm": 2017,
+  "weeklyFlights": 25,
+  "airlines": [
+    "American",
+    "Southwest"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–PHX route between Mexico City and Phoenix. Distance: 2,017 km. ~25 weekly flights operated by American, Southwest.",
+  "geojson": "mex-phx.geojson"
+}

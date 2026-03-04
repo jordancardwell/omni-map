@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-19.6333,63.6333]},"properties":{"code":"eyjafjallajokull","name":"Eyjafjallajökull","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1651,"lastEruption":"2010","vei":4}}]}

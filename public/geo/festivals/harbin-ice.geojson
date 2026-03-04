@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.535,
+          45.8038
+        ]
+      },
+      "properties": {
+        "code": "harbin-ice",
+        "name": "Harbin Ice and Snow Festival",
+        "festivalType": "Cultural",
+        "dateOrSeason": "January–February",
+        "location": "Harbin, China"
+      }
+    }
+  ]
+}

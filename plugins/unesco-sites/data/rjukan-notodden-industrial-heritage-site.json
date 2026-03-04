@@ -1,0 +1,15 @@
+{
+  "code": "rjukan-notodden-industrial-heritage-site",
+  "name": "Rjukan-Notodden Industrial Heritage Site",
+  "type": "Cultural",
+  "country": "Norway",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "Located in a dramatic landscape of mountains, waterfalls and river valleys, the site comprises hydroelectric power plants, transmission lines, factories, transport systems and towns. The complex was established by the Norsk-Hydro Company to manufacture artificial fertilizer from nitrogen in the air. It was built to meet the Western world’s growing demand for agricultural production in the early 20th century. The company towns of Rjukan and Notodden show workers’ accommodation and social institutions linked by rail and ferry to ports where the fertilizer was loaded. The Rjukan-Notodden site manifests an exceptional combination of industrial assets and themes associated to the natural landscape. It stands out as an example of a new global industry in the early 20th century.",
+  "danger": false,
+  "geojson": "rjukan-notodden-industrial-heritage-site.geojson"
+}

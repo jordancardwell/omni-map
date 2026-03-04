@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "uk-australia", "name": "United Kingdom \u2192 Australia", "migrantVolume": 3}, "geometry": {"type": "LineString", "coordinates": [[-1, 52], [10, 45], [25, 35], [40, 20], [55, 10], [70, 0], [85, -8], [100, -15], [115, -22], [130, -28], [140, -32], [148, -34]]}}]}

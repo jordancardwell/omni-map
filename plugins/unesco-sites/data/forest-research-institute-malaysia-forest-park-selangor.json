@@ -1,0 +1,14 @@
+{
+  "code": "forest-research-institute-malaysia-forest-park-selangor",
+  "name": "Forest Research Institute Malaysia Forest Park Selangor",
+  "type": "Cultural",
+  "country": "Malaysia",
+  "yearInscribed": "2025",
+  "criteria": [
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located 16 km northwest of Kuala Lumpur, the property is a human-made tropical rainforest established on degraded tin-mining land from the 1920s. It includes scientific, residential, and service buildings, water bodies, and trails. The site represents a pioneering reforestation effort, successfully transforming barren land into a mature lowland tropical forest, showcasing early ecological restoration and sustainable land rehabilitation practices.",
+  "danger": false,
+  "geojson": "forest-research-institute-malaysia-forest-park-selangor.geojson"
+}

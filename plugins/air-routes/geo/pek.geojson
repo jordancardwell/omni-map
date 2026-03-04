@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"pek","name":"Beijing Capital International","featureType":"airport","iataCode":"PEK","annualPassengers":58000000,"classification":"Major Hub"},"geometry":{"type":"Point","coordinates":[116.6031,40.0799]}}]}

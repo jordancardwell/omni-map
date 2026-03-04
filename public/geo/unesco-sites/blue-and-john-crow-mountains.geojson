@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5711111111,
+          18.0775
+        ]
+      },
+      "properties": {
+        "code": "blue-and-john-crow-mountains",
+        "name": "Blue and John Crow Mountains",
+        "type": "Mixed",
+        "country": "Jamaica",
+        "yearInscribed": "2015"
+      }
+    }
+  ]
+}

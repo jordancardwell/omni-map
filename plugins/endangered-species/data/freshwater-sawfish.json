@@ -1,0 +1,19 @@
+{
+  "code": "freshwater-sawfish",
+  "name": "Freshwater Sawfish",
+  "scientificName": "Pristis pristis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "Unknown, severely declining",
+  "populationTrend": "Decreasing",
+  "habitatType": "Freshwater river and estuary",
+  "threats": [
+    "Bycatch",
+    "Habitat loss",
+    "Entanglement",
+    "Dam construction"
+  ],
+  "conservationEfforts": "Protected in Australia where the largest populations remain. Indigenous ranger programs monitor populations in northern Australia. International trade banned.",
+  "description": "The largest of the sawfish family, historically reaching 6.5 meters. It was once found globally in tropical rivers but has been lost from over half its historical range.",
+  "geojson": "freshwater-sawfish.geojson"
+}

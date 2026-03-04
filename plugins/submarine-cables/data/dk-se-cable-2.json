@@ -1,0 +1,16 @@
+{
+  "code": "dk-se-cable-2",
+  "name": "DK-SE Cable-2",
+  "capacityTbps": 6,
+  "capacityTier": "Medium (5–20 Tbps)",
+  "lengthKm": 2218,
+  "yearLaid": 2015,
+  "rfsDate": "2011-06",
+  "owner": "GlobalConnect",
+  "landingPoints": [
+    "Copenhagen, Denmark",
+    "Karlshamn, Sweden"
+  ],
+  "description": "DK-SE Cable-2 connecting Copenhagen to Karlshamn in Europe.",
+  "geojson": "dk-se-cable-2.geojson"
+}

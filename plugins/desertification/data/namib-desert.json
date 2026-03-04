@@ -1,0 +1,23 @@
+{
+  "code": "namib-desert",
+  "name": "Namib Desert",
+  "region": "Southern Africa",
+  "aridityGroup": "1. Hyper-Arid",
+  "aridityClassification": "Hyper-Arid",
+  "aridityIndex": "< 0.05 — coastal fog desert",
+  "area": "81,000 km²",
+  "degradationTrend": "Stable",
+  "populationAffected": 100000,
+  "affectedCountries": [
+    "Namibia",
+    "Angola"
+  ],
+  "desertificationDrivers": [
+    "Cold Benguela Current",
+    "Limited precipitation",
+    "Uranium mining"
+  ],
+  "desertFrontier": "Stable coastal boundaries; interior margin shifting slightly east",
+  "description": "The Namib is one of the oldest deserts in the world, having been arid for at least 55 million years. Despite hyper-arid conditions, unique fog-basking beetles and welwitschia plants survive on coastal fog from the cold Benguela Current. The Sossusvlei dunes reach over 300m in height.",
+  "geojson": "namib-desert.geojson"
+}

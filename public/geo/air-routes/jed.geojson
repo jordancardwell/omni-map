@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"jed","name":"King Abdulaziz International","featureType":"airport","iataCode":"JED","annualPassengers":40000000,"classification":"International Hub"},"geometry":{"type":"Point","coordinates":[39.1565,21.6796]}}]}

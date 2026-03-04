@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0269444444,
+          47.2361111111
+        ]
+      },
+      "properties": {
+        "code": "fortifications-of-vauban",
+        "name": "Fortifications of Vauban",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2008"
+      }
+    }
+  ]
+}

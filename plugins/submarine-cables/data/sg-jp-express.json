@@ -1,0 +1,16 @@
+{
+  "code": "sg-jp-express",
+  "name": "SG-JP Express",
+  "capacityTbps": 26,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8986,
+  "yearLaid": 2011,
+  "rfsDate": "2022-06",
+  "owner": "NTT",
+  "landingPoints": [
+    "Singapore",
+    "Tokyo, Japan"
+  ],
+  "description": "SG-JP Express connecting Singapore to Tokyo.",
+  "geojson": "sg-jp-express.geojson"
+}

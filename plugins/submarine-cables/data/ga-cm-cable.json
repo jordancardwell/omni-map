@@ -1,0 +1,16 @@
+{
+  "code": "ga-cm-cable",
+  "name": "GA-CM Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1371,
+  "yearLaid": 2013,
+  "rfsDate": "2017-06",
+  "owner": "MTN",
+  "landingPoints": [
+    "Libreville, Gabon",
+    "Douala, Cameroon"
+  ],
+  "description": "GA-CM Cable connecting Libreville to Douala along the African coast.",
+  "geojson": "ga-cm-cable.geojson"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.13667,
+          16.93389
+        ]
+      },
+      "properties": {
+        "code": "rice-terraces-of-the-philippine-cordilleras",
+        "name": "Rice Terraces of the Philippine Cordilleras",
+        "type": "Cultural",
+        "country": "Philippines",
+        "yearInscribed": "1995"
+      }
+    }
+  ]
+}

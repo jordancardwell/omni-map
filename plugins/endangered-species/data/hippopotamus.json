@@ -1,0 +1,19 @@
+{
+  "code": "hippopotamus",
+  "name": "Pygmy Hippopotamus",
+  "scientificName": "Choeropsis liberiensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~2,000-2,500 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical lowland forest and swamp",
+  "threats": [
+    "Deforestation",
+    "Bushmeat hunting",
+    "War and instability",
+    "Mining"
+  ],
+  "conservationEfforts": "Sapo National Park in Liberia protects core habitat. ZSL EDGE programme funds research and community conservation. Captive populations in zoos worldwide.",
+  "description": "Much smaller than the common hippo at only 250 kg. They are secretive, nocturnal forest dwellers found in the shrinking forests of West Africa.",
+  "geojson": "hippopotamus.geojson"
+}

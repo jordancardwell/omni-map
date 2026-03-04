@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.18528,
+          28.52583
+        ]
+      },
+      "properties": {
+        "code": "qutb-minar-and-its-monuments-delhi",
+        "name": "Qutb Minar and its Monuments, Delhi",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

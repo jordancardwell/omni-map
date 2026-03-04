@@ -1,0 +1,28 @@
+{
+  "code": "arabian",
+  "name": "Arabian Plate",
+  "plateClass": "Minor",
+  "crustType": "Continental",
+  "area": 5,
+  "movementDirection": "North-Northeast",
+  "movementRate": "15–25",
+  "boundaryTypes": [
+    "Convergent",
+    "Divergent",
+    "Transform"
+  ],
+  "adjacentPlates": [
+    "eurasian",
+    "african",
+    "indian"
+  ],
+  "notableFeatures": [
+    "Red Sea Rift",
+    "Dead Sea Transform",
+    "Zagros Mountains",
+    "Gulf of Aden"
+  ],
+  "description": "The Arabian Plate carries the Arabian Peninsula and extends under the Persian Gulf. It separated from the African Plate along the Red Sea Rift — one of the best examples of an active continental rift on Earth. The northern collision boundary with the Eurasian Plate has created the Zagros Mountains of Iran. The Dead Sea Transform fault forms the western boundary with the African Plate.",
+  "geologicalHistory": "The Arabian Plate began separating from the African Plate about 25–30 million years ago as the Red Sea Rift opened. The Gulf of Aden represents a more advanced stage of rifting that is transitioning to seafloor spreading. The collision with the Eurasian Plate began about 13 million years ago, forming the Zagros fold-and-thrust belt, which contains enormous petroleum reserves.",
+  "geojson": "arabian.geojson"
+}

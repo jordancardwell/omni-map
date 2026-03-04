@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1733333333,
+          45.5863055556
+        ]
+      },
+      "properties": {
+        "code": "cordouan-lighthouse",
+        "name": "Cordouan Lighthouse",
+        "type": "Cultural",
+        "country": "France",
+        "yearInscribed": "2021"
+      }
+    }
+  ]
+}

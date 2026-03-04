@@ -1,0 +1,15 @@
+{
+  "code": "ciudad-universitaria-de-caracas",
+  "name": "Ciudad Universitaria de Caracas",
+  "type": "Cultural",
+  "country": "Venezuela (Bolivarian Republic of)",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(i)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Ciudad Universitaria de Caracas, built to the design of the architect Carlos Raúl Villanueva, between 1940 and 1960, is an outstanding example of the Modern Movement in architecture. The university campus integrates the large number of buildings and functions into a clearly articulated ensemble, including masterpieces of modern architecture and visual arts, such as the Aula Magna with the Clouds of Alexander Calder, the Olympic Stadium, and the Covered Plaza.",
+  "danger": false,
+  "geojson": "ciudad-universitaria-de-caracas.geojson"
+}

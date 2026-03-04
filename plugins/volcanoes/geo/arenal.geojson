@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.7033,10.4626]},"properties":{"code":"arenal","name":"Arenal Volcano","volcanoType":"Stratovolcano","status":"Historically Active","elevation":1670,"lastEruption":"2010","vei":3}}]}

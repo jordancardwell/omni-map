@@ -1,0 +1,14 @@
+{
+  "code": "noumea",
+  "name": "Port of Nouméa",
+  "country": "New Caledonia",
+  "portType": "Bulk Port",
+  "cargoVolumeMTons": 5,
+  "classification": "Bulk Port",
+  "itemCategory": "Bulk Port",
+  "keyRoutes": [
+    "Pacific Islands Route"
+  ],
+  "description": "Port of Nouméa in New Caledonia. Annual cargo throughput: ~5 million tons. Type: Bulk Port.",
+  "geojson": "noumea.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "za-na-cable",
+  "name": "ZA-NA Cable",
+  "capacityTbps": 4,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 1264,
+  "yearLaid": 2021,
+  "rfsDate": "2014-06",
+  "owner": "Paratus",
+  "landingPoints": [
+    "Cape Town, South Africa",
+    "Walvis Bay, Namibia"
+  ],
+  "description": "ZA-NA Cable connecting Cape Town to Walvis Bay in East Africa/Indian Ocean.",
+  "geojson": "za-na-cable.geojson"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ischigualasto-talampaya-natural-parks",
+  "name": "Ischigualasto / Talampaya Natural Parks",
+  "type": "Natural",
+  "country": "Argentina",
+  "yearInscribed": "2000",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "These two contiguous parks, extending over 275,300 ha in the desert region on the western border of the Sierra Pampeanas of central Argentina, contain the most complete continental fossil record known from the Triassic Period (245-208 million years ago). Six geological formations in the parks contain fossils of a wide range of ancestors of mammals, dinosaurs and plants revealing the evolution of vertebrates and the nature of palaeo-environments in the Triassic Period.",
+  "danger": false,
+  "geojson": "ischigualasto-talampaya-natural-parks.geojson"
+}

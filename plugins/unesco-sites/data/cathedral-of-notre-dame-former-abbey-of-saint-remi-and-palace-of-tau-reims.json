@@ -1,0 +1,15 @@
+{
+  "code": "cathedral-of-notre-dame-former-abbey-of-saint-remi-and-palace-of-tau-reims",
+  "name": "Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+  "type": "Cultural",
+  "country": "France",
+  "yearInscribed": "1991",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "The outstanding handling of new architectural techniques in the 13th century, and the harmonious marriage of sculptural decoration with architecture, has made Notre-Dame in Reims one of the masterpieces of Gothic art. The former abbey still has its beautiful 9th-century nave, in which lie the remains of Archbishop St Rémi (440–533), who instituted the Holy Anointing of the kings of France. The former archiepiscopal palace known as the Tau Palace, which played an important role in religious ceremonies, was almost entirely rebuilt in the 17th century.",
+  "danger": false,
+  "geojson": "cathedral-of-notre-dame-former-abbey-of-saint-remi-and-palace-of-tau-reims.geojson"
+}

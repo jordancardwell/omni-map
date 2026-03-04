@@ -1,0 +1,16 @@
+{
+  "code": "au",
+  "name": "Australia",
+  "voltage": "230V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "I"
+  ],
+  "plugTypeCount": 1,
+  "plugDescriptions": [
+    "Type I — Two angled flat pins + grounding (Australian/Chinese style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Type I (angled flat pins) is unique to Australia/NZ/China. Adapter needed for all other devices.",
+  "geojson": "au.geojson"
+}

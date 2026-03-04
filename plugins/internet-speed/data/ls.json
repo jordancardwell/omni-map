@@ -1,0 +1,17 @@
+{
+  "code": "ls",
+  "name": "Lesotho",
+  "avgDownloadMbps": 6.4,
+  "avgUploadMbps": 2.2,
+  "avgLatencyMs": 44,
+  "mobileDownloadMbps": 8.8,
+  "mobileUploadMbps": 2.4,
+  "fixedDownloadMbps": 6.4,
+  "fixedUploadMbps": 2.2,
+  "rank": 166,
+  "speedTier": "Very Slow (<10 Mbps)",
+  "region": "Sub-Saharan Africa",
+  "dataYear": 2024,
+  "trendDescription": "Mountain kingdom with limited coverage. ~12% year-over-year growth.",
+  "geojson": "ls.geojson"
+}

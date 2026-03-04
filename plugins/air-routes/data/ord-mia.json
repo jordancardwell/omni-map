@@ -1,0 +1,18 @@
+{
+  "code": "ord-mia",
+  "name": "Chicago — Miami",
+  "airports": [
+    "ORD",
+    "MIA"
+  ],
+  "distanceKm": 1930,
+  "weeklyFlights": 70,
+  "airlines": [
+    "American",
+    "United"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "ORD–MIA route between Chicago and Miami. Distance: 1,930 km. ~70 weekly flights operated by American, United.",
+  "geojson": "ord-mia.geojson"
+}

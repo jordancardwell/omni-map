@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.09916667,
+          49.02055556
+        ]
+      },
+      "properties": {
+        "code": "old-town-of-regensburg-with-stadtamhof",
+        "name": "Old town of Regensburg with Stadtamhof",
+        "type": "Cultural",
+        "country": "Germany",
+        "yearInscribed": "2006"
+      }
+    }
+  ]
+}

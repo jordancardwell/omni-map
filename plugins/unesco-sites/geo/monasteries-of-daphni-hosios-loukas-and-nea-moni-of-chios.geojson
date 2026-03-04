@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7466666667,
+          38.3952777778
+        ]
+      },
+      "properties": {
+        "code": "monasteries-of-daphni-hosios-loukas-and-nea-moni-of-chios",
+        "name": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+        "type": "Cultural",
+        "country": "Greece",
+        "yearInscribed": "1990"
+      }
+    }
+  ]
+}

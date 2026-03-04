@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.51167,
+          61.12806
+        ]
+      },
+      "properties": {
+        "code": "old-rauma",
+        "name": "Old Rauma",
+        "type": "Cultural",
+        "country": "Finland",
+        "yearInscribed": "1991"
+      }
+    }
+  ]
+}

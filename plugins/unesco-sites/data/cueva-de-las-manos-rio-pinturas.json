@@ -1,0 +1,14 @@
+{
+  "code": "cueva-de-las-manos-rio-pinturas",
+  "name": "Cueva de las Manos, Río Pinturas",
+  "type": "Cultural",
+  "country": "Argentina",
+  "yearInscribed": "1999",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "The Cueva de las Manos, Río Pinturas, contains an exceptional assemblage of cave art, executed between 13,000 and 9,500 years ago. It takes its name (Cave of the Hands) from the stencilled outlines of human hands in the cave, but there are also many depictions of animals, such as guanacos (Lama guanicoe ), still commonly found in the region, as well as hunting scenes. The people responsible for the paintings may have been the ancestors of the historic hunter-gatherer communities of Patagonia found by European settlers in the 19th century.",
+  "danger": false,
+  "geojson": "cueva-de-las-manos-rio-pinturas.geojson"
+}

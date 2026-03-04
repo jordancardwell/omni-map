@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"incheon","name":"Port of Incheon","featureType":"port","portType":"Multi-Purpose Port","country":"South Korea"},"geometry":{"type":"Point","coordinates":[126.58,37.45]}}]}

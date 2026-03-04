@@ -1,0 +1,25 @@
+{
+  "code": "folk-traditional",
+  "name": "Folk / Traditional Religions",
+  "family": "Indigenous & Folk",
+  "foundingPeriod": "Prehistoric origins",
+  "adherents": {
+    "estimated": 430000000,
+    "percentWorld": "5.5%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["China", "Sub-Saharan Africa", "Southeast Asia", "Oceania", "Americas"],
+  "denominations": [
+    "Chinese Folk Religion",
+    "African Traditional Religions",
+    "Yoruba",
+    "Vodou",
+    "Candomblé",
+    "Shamanism",
+    "Animism",
+    "Ancestor Worship"
+  ],
+  "description": "Folk and traditional religions encompass a wide range of indigenous, ethnic, and localized spiritual practices found worldwide. These traditions typically involve animism, ancestor veneration, spirit worship, and rituals tied to the natural world and agricultural cycles. Chinese folk religion, African traditional religions, and various indigenous practices across the Americas and Oceania fall into this category.",
+  "historicalNotes": "Folk and traditional religions represent humanity's oldest spiritual practices, predating all organized world religions. Chinese folk religion blends Confucian, Taoist, and Buddhist elements with local traditions and ancestor worship. African traditional religions are diverse, with the Yoruba, Akan, and Zulu traditions being among the most widely practiced. In the Americas, indigenous traditions survived colonialism and sometimes syncretized with Christianity (e.g., Vodou, Candomblé, Santería). Many of these traditions are experiencing revival as communities seek to preserve cultural heritage.",
+  "geojson": "folk-traditional.geojson"
+}

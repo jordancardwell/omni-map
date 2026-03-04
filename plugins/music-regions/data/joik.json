@@ -1,0 +1,27 @@
+{
+  "code": "joik",
+  "name": "Joik (Sami Singing)",
+  "region": "Sápmi (Northern Scandinavia)",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Not Listed",
+  "instruments": [
+    "Vocals",
+    "Fávdna (Frame Drum)",
+    "Goavddis"
+  ],
+  "keyArtists": [
+    "Mari Boine",
+    "Nils-Aslak Valkeapää",
+    "Sofia Jannok",
+    "Wimme Saari",
+    "Jon Henrik Fjällgren"
+  ],
+  "description": "Joik (luohti/vuolle) is the traditional vocal expression of the Sami people of Northern Scandinavia and the Kola Peninsula. Unlike Western songs 'about' something, a joik is said to 'be' the person, animal, or place it represents—a direct sonic evocation rather than a description. One of the oldest living music traditions in Europe, joik was suppressed for centuries by Christian missionaries but is experiencing a cultural revival.",
+  "resources": [
+    {
+      "title": "Sami Cultural Centre",
+      "url": "https://www.samikulturguovddas.fi/"
+    }
+  ],
+  "geojson": "joik.geojson"
+}

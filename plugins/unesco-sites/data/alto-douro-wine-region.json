@@ -1,0 +1,16 @@
+{
+  "code": "alto-douro-wine-region",
+  "name": "Alto Douro Wine Region",
+  "type": "Cultural",
+  "country": "Portugal",
+  "yearInscribed": "2001",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Europe and North America",
+  "description": "Wine has been produced by traditional landholders in the Alto Douro region for some 2,000 years. Since the 18th century, its main product, port wine, has been world famous for its quality. This long tradition of viticulture has produced a cultural landscape of outstanding beauty that reflects its technological, social and economic evolution.",
+  "danger": false,
+  "geojson": "alto-douro-wine-region.geojson"
+}

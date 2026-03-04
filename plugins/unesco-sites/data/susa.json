@@ -1,0 +1,17 @@
+{
+  "code": "susa",
+  "name": "Susa",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2015",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Located in the south-west of Iran, in the lower Zagros Mountains, the property encompasses a group of archaeological mounds rising on the eastern side of the Shavur River, as well as Ardeshir’s palace, on the opposite bank of the river. The excavated architectural monuments include administrative, residential and palatial structures. Susa contains several layers of superimposed urban settlements in a continuous succession from the late 5th millennium BCE until the 13th century CE. The site bears exceptional testimony to the Elamite, Persian and Parthian cultural traditions, which have largely disappeared.",
+  "danger": false,
+  "geojson": "susa.geojson"
+}

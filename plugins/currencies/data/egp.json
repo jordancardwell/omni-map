@@ -1,0 +1,16 @@
+{
+  "code": "egp",
+  "name": "Egyptian Pound",
+  "isoCode": "EGP",
+  "symbol": "E£",
+  "region": "Africa",
+  "centralBank": "Central Bank of Egypt",
+  "exchangeRateEra": "Free-floating",
+  "countries": [
+    "Egypt"
+  ],
+  "countryCount": 1,
+  "description": "The Egyptian Pound is the currency of Egypt, home to the Suez Canal and Africa's third-largest economy.",
+  "historicalNotes": "Egypt adopted the pound in 1834. The currency was pegged to the British pound until 1962, then to the US dollar. Egypt floated the pound in 2016 as part of an IMF reform program.",
+  "geojson": "egp.geojson"
+}

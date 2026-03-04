@@ -1,0 +1,17 @@
+{
+  "code": "the-persian-garden",
+  "name": "The Persian Garden",
+  "type": "Cultural",
+  "country": "Iran (Islamic Republic of)",
+  "yearInscribed": "2011",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iii)",
+    "(iv)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The property includes nine gardens in as many provinces. They exemplify the diversity of Persian garden designs that evolved and adapted to different climate conditions while retaining principles that have their roots in the times of Cyrus the Great, 6th century BC. Always divided into four sectors, with water playing an important role for both irrigation and ornamentation, the Persian garden was conceived to symbolize Eden and the four Zoroastrian elements of sky, earth, water and plants. These gardens, dating back to different periods since the 6th century BC, also feature buildings, pavilions and walls, as well as sophisticated irrigation systems. They have influenced the art of garden design as far as India and Spain.",
+  "danger": false,
+  "geojson": "the-persian-garden.geojson"
+}

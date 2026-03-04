@@ -1,0 +1,16 @@
+{
+  "code": "aeconnect-1",
+  "name": "AEConnect-1",
+  "capacityTbps": 52,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 5200,
+  "yearLaid": 2016,
+  "rfsDate": "2016-12",
+  "owner": "Aqua Comms",
+  "landingPoints": [
+    "Shirley, USA",
+    "Killala, Ireland"
+  ],
+  "description": "AEConnect-1 transatlantic system connecting the US and Ireland.",
+  "geojson": "aeconnect-1.geojson"
+}

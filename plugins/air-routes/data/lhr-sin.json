@@ -1,0 +1,18 @@
+{
+  "code": "lhr-sin",
+  "name": "London — Singapore",
+  "airports": [
+    "LHR",
+    "SIN"
+  ],
+  "distanceKm": 10881,
+  "weeklyFlights": 60,
+  "airlines": [
+    "Singapore Airlines",
+    "British Airways"
+  ],
+  "classification": "Medium Frequency",
+  "itemCategory": "Medium Frequency",
+  "description": "LHR–SIN route between London and Singapore. Distance: 10,881 km. ~60 weekly flights operated by Singapore Airlines, British Airways.",
+  "geojson": "lhr-sin.geojson"
+}

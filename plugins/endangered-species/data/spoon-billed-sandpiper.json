@@ -1,0 +1,19 @@
+{
+  "code": "spoon-billed-sandpiper",
+  "name": "Spoon-billed Sandpiper",
+  "scientificName": "Calidris pygmaea",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Birds",
+  "populationEstimate": "~240-456 pairs",
+  "populationTrend": "Decreasing",
+  "habitatType": "Coastal tundra and mudflats",
+  "threats": [
+    "Habitat loss on migration routes",
+    "Hunting",
+    "Climate change",
+    "Land reclamation"
+  ],
+  "conservationEfforts": "Head-starting programme in Chukotka collects eggs for captive rearing. Critical flyway sites protected in Myanmar and Bangladesh. International task force coordinates conservation.",
+  "description": "A tiny shorebird with a distinctive spatula-shaped bill tip. It breeds in northeastern Russia and migrates to Southeast Asia, facing threats along its entire migration route.",
+  "geojson": "spoon-billed-sandpiper.geojson"
+}

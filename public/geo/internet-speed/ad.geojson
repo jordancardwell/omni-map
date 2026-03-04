@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"code":"ad","name":"Andorra","country":"AD","speedTier":"Fast (75–150 Mbps)"},"geometry":{"type":"Polygon","coordinates":[[[1.4,42.4],[1.4,42.7],[1.8,42.7],[1.8,42.4],[1.4,42.4]]]}}]}

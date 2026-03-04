@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.73381,
+          14.556504
+        ]
+      },
+      "properties": {
+        "code": "antigua-guatemala",
+        "name": "Antigua Guatemala",
+        "type": "Cultural",
+        "country": "Guatemala",
+        "yearInscribed": "1979"
+      }
+    }
+  ]
+}

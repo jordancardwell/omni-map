@@ -1,0 +1,15 @@
+{
+  "code": "new-zealand-sub-antarctic-islands",
+  "name": "New Zealand Sub-Antarctic Islands",
+  "type": "Natural",
+  "country": "New Zealand",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ix)",
+    "(x)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "The New Zealand Sub-Antarctic Islands consist of five island groups (the Snares, Bounty Islands, Antipodes Islands, Auckland Islands and Campbell Island) in the Southern Ocean south-east of New Zealand. The islands, lying between the Antarctic and Subtropical Convergences and the seas, have a high level of productivity, biodiversity, wildlife population densities and endemism among birds, plants and invertebrates. They are particularly notable for the large number and diversity of pelagic seabirds and penguins that nest there. There are 126 bird species in total, including 40 seabirds of which eight breed nowhere else in the world.",
+  "danger": false,
+  "geojson": "new-zealand-sub-antarctic-islands.geojson"
+}

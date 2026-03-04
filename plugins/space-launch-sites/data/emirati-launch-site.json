@@ -1,0 +1,15 @@
+{
+  "code": "emirati-launch-site",
+  "name": "Al Ain Launch Site (planned)",
+  "country": "United Arab Emirates",
+  "operator": "UAE Space Agency (planned)",
+  "coordinates": "24.2000°N, 55.7000°E",
+  "status": "Planned",
+  "notableLaunches": [
+    "Planned first UAE domestic launch"
+  ],
+  "orbitalInclinationRange": "24°–98° (planned)",
+  "location": "Al Ain Launch Site (planned), United Arab Emirates",
+  "description": "Proposed UAE launch facility. The UAE has announced plans to develop domestic launch capability to complement its growing satellite and Mars mission programs.",
+  "geojson": "emirati-launch-site.geojson"
+}

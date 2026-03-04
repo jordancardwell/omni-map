@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"code": "bangladesh-india", "name": "Bangladesh \u2192 India", "migrantVolume": 4}, "geometry": {"type": "LineString", "coordinates": [[90, 24], [88, 24], [86, 25], [84, 26], [82, 26]]}}]}

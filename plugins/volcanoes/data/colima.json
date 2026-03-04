@@ -1,0 +1,22 @@
+{
+  "code": "colima",
+  "name": "Volcán de Colima",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 3839,
+  "lastEruption": "2019",
+  "vei": 4,
+  "country": "Mexico",
+  "region": "Jalisco",
+  "location": "Jalisco, Mexico",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava flows"
+  ],
+  "eruptionHistory": "The most active volcano in Mexico. Has erupted more than 40 times since 1576. Major eruptions produce pyroclastic flows and dome collapses.",
+  "description": "Volcán de Colima, also known as the Volcán de Fuego, is the most historically active volcano in Mexico. It sits within a caldera formed by a massive prehistoric collapse.",
+  "geojson": "colima.geojson"
+}

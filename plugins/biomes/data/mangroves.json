@@ -1,0 +1,13 @@
+{
+  "code": "mangroves",
+  "name": "Mangroves",
+  "biomeType": "Coastal",
+  "areaKm2": 150000,
+  "keyCharacteristics": "Salt-tolerant forests at the interface of land and sea in tropical and subtropical coastlines. Critical nursery habitat for marine species and coastal protection.",
+  "typicalFlora": ["Red mangrove", "Black mangrove", "White mangrove", "Mangrove palm", "Pneumatophore-bearing species", "Salt-excreting species"],
+  "typicalFauna": ["Saltwater crocodile", "Proboscis monkey", "Mangrove crab", "Manatee", "Mudskipper", "Tiger prawn"],
+  "threatLevel": "Critical",
+  "conservationStatus": "Over 35% of global mangrove area lost since the 1980s. Shrimp farming, coastal development, and pollution are major drivers. Mangroves store 3-5 times more carbon per hectare than terrestrial forests.",
+  "description": "Mangroves are unique coastal ecosystems formed by salt-tolerant trees and shrubs that grow in the intertidal zones of tropical and subtropical coastlines. They occur in approximately 123 countries and territories.\n\nMangrove trees have evolved remarkable adaptations to their challenging environment: prop roots and pneumatophores for gas exchange in waterlogged soils, salt-filtering root systems, and viviparous seeds that germinate while still attached to the parent tree.\n\nDespite occupying a tiny fraction of Earth's surface, mangroves provide disproportionate ecosystem services: coastal protection from storms and tsunamis, nursery habitat for 75% of commercially caught fish species, and carbon sequestration rates 2-4 times higher than mature tropical forests.",
+  "geojson": "mangroves.geojson"
+}

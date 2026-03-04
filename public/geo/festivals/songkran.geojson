@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      },
+      "properties": {
+        "code": "songkran",
+        "name": "Songkran",
+        "festivalType": "Religious",
+        "dateOrSeason": "April 13–15",
+        "location": "Bangkok, Thailand"
+      }
+    }
+  ]
+}

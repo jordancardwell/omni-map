@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.87888889,
+          49.21722222
+        ]
+      },
+      "properties": {
+        "code": "jewish-quarter-and-st-procopius-basilica-in-trebic",
+        "name": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+        "type": "Cultural",
+        "country": "Czechia",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

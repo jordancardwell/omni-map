@@ -1,0 +1,16 @@
+{
+  "code": "itchan-kala",
+  "name": "Itchan Kala",
+  "type": "Cultural",
+  "country": "Uzbekistan",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(iii)",
+    "(iv)",
+    "(v)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Itchan Kala is the inner town (protected by brick walls some 10 m high) of the old Khiva oasis, which was the last resting-place of caravans before crossing the desert to Iran. Although few very old monuments still remain, it is a coherent and well-preserved example of the Muslim architecture of Central Asia. There are several outstanding structures such as the Djuma Mosque, the mausoleums and the madrasas and the two magnificent palaces built at the beginning of the 19th century by Alla-Kulli-Khan.",
+  "danger": false,
+  "geojson": "itchan-kala.geojson"
+}

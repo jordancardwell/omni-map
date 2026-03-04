@@ -1,0 +1,1045 @@
+[
+  {
+    "code": "atlantic-forest",
+    "name": "Atlantic Forest",
+    "location": "Eastern South America (Brazil, Paraguay, Argentina)",
+    "areaKm2": 1233875,
+    "habitatRemaining": "11.7%",
+    "plantSpecies": 20000,
+    "endemicPlants": 8000,
+    "vertebrateSpecies": 1361,
+    "endemicVertebrates": 567,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Golden lion tamarin",
+      "Muriqui",
+      "Harpy eagle",
+      "Maned sloth",
+      "Black lion tamarin"
+    ],
+    "threats": [
+      "Deforestation",
+      "Agriculture expansion",
+      "Urbanization",
+      "Logging"
+    ],
+    "conservationEfforts": "Brazil's Atlantic Forest Law (2006) protects remaining fragments. Restoration initiatives aim to restore 15 million hectares by 2050. The Lion Tamarin Conservation Program has increased golden lion tamarin populations from 200 to over 3,700.",
+    "description": "The Atlantic Forest once stretched along Brazil's entire Atlantic coast and extended inland to eastern Paraguay and northeastern Argentina. Today only about 12% of the original forest remains, making it one of the most threatened biodiversity hotspots on Earth.\n\nDespite massive habitat loss, the Atlantic Forest harbors extraordinary biodiversity with over 20,000 plant species, 40% of which are found nowhere else. It is home to more than 260 species of mammals, including iconic species like the golden lion tamarin and the woolly spider monkey (muriqui), both of which are endangered.",
+    "geojson": "atlantic-forest.geojson"
+  },
+  {
+    "code": "california-floristic-province",
+    "name": "California Floristic Province",
+    "location": "Western North America (USA, Mexico)",
+    "areaKm2": 293804,
+    "habitatRemaining": "24.7%",
+    "plantSpecies": 3488,
+    "endemicPlants": 2124,
+    "vertebrateSpecies": 584,
+    "endemicVertebrates": 71,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "California condor",
+      "Island fox",
+      "Giant sequoia",
+      "Torrey pine",
+      "Desert tortoise"
+    ],
+    "threats": [
+      "Urban sprawl",
+      "Wildfires",
+      "Agriculture",
+      "Climate change",
+      "Invasive species"
+    ],
+    "conservationEfforts": "Extensive protected area network including Yosemite, Sequoia, and Channel Islands national parks. California condor recovery program brought species from 22 individuals to over 500. California's 30x30 initiative aims to conserve 30% of lands and waters by 2030.",
+    "description": "The California Floristic Province stretches along the Pacific coast from southern Oregon through California to northern Baja California, Mexico. This Mediterranean-climate region is characterized by hot, dry summers and cool, wet winters.\n\nThe province supports remarkable plant diversity with over 3,400 vascular plant species, 61% of which are endemic. Iconic habitats include coastal sage scrub, chaparral, oak woodlands, and ancient redwood and sequoia forests containing the tallest and most massive trees on Earth.",
+    "geojson": "california-floristic-province.geojson"
+  },
+  {
+    "code": "cape-floristic-region",
+    "name": "Cape Floristic Region",
+    "location": "Southwestern South Africa",
+    "areaKm2": 78555,
+    "habitatRemaining": "29.5%",
+    "plantSpecies": 9000,
+    "endemicPlants": 6210,
+    "vertebrateSpecies": 562,
+    "endemicVertebrates": 53,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Cape sugarbird",
+      "Geometric tortoise",
+      "Table Mountain ghost frog",
+      "King protea",
+      "Cape mountain zebra"
+    ],
+    "threats": [
+      "Agriculture",
+      "Urban expansion",
+      "Invasive alien species",
+      "Climate change",
+      "Too-frequent fires"
+    ],
+    "conservationEfforts": "UNESCO World Heritage Site since 2004. The Cape Action for People and the Environment (CAPE) program coordinates conservation efforts. CapeNature manages extensive protected areas. Working for Water program removes invasive species.",
+    "description": "The Cape Floristic Region at the southwestern tip of Africa is the smallest of the world's six floral kingdoms yet contains the highest known concentration of plant species per unit area. The fynbos biome is its most iconic habitat — a shrubland ecosystem adapted to nutrient-poor soils and periodic fire.\n\nWith over 9,000 plant species and 69% endemism, this region's botanical richness rivals tropical rainforests. The protea family is especially diverse here, with South Africa's national flower, the king protea, being one of 330 protea species in the region.",
+    "geojson": "cape-floristic-region.geojson"
+  },
+  {
+    "code": "caribbean-islands",
+    "name": "Caribbean Islands",
+    "location": "Caribbean Sea (Greater and Lesser Antilles)",
+    "areaKm2": 229549,
+    "habitatRemaining": "11.3%",
+    "plantSpecies": 13000,
+    "endemicPlants": 6550,
+    "vertebrateSpecies": 916,
+    "endemicVertebrates": 484,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Cuban solenodon",
+      "Jamaican hutia",
+      "Puerto Rican parrot",
+      "Hispaniolan solenodon",
+      "Cuban crocodile"
+    ],
+    "threats": [
+      "Tourism development",
+      "Deforestation",
+      "Invasive species",
+      "Hurricanes",
+      "Agriculture"
+    ],
+    "conservationEfforts": "Caribbean Challenge Initiative targets protecting 20% of marine and coastal habitats. Puerto Rican parrot recovery program has increased population. Multiple national parks across islands. Island-specific invasive species eradication programs.",
+    "description": "The Caribbean Islands hotspot encompasses all the islands in the Caribbean Sea, including the Greater Antilles (Cuba, Jamaica, Hispaniola, Puerto Rico), the Lesser Antilles, and the Bahamas. This island archipelago has been isolated long enough for spectacular evolutionary radiation.\n\nThe hotspot contains over 13,000 plant species with 50% endemism and extraordinary vertebrate endemism at 53%. The islands are particularly important for reptile and amphibian diversity. However, Caribbean islands have already experienced the highest documented extinction rates of any hotspot.",
+    "geojson": "caribbean-islands.geojson"
+  },
+  {
+    "code": "caucasus",
+    "name": "Caucasus",
+    "location": "Between Black Sea and Caspian Sea (Georgia, Armenia, Azerbaijan, Russia, Turkey, Iran)",
+    "areaKm2": 532658,
+    "habitatRemaining": "21.4%",
+    "plantSpecies": 6400,
+    "endemicPlants": 1600,
+    "vertebrateSpecies": 632,
+    "endemicVertebrates": 59,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Caucasian leopard",
+      "West Caucasian tur",
+      "Caucasian grouse",
+      "Persian leopard",
+      "Brown bear"
+    ],
+    "threats": [
+      "Overgrazing",
+      "Logging",
+      "Poaching",
+      "Mining",
+      "Infrastructure development"
+    ],
+    "conservationEfforts": "Caucasus Nature Fund supports protected areas in Georgia, Armenia, and Azerbaijan. WWF Caucasus Programme works on habitat corridors. Several UNESCO biosphere reserves and national parks established. Leopard reintroduction programs underway.",
+    "description": "The Caucasus hotspot straddles the border between Europe and Asia, encompassing the Greater and Lesser Caucasus mountain ranges and surrounding lowlands. This geographically complex region serves as a crossroads between temperate European and subtropical Asian flora and fauna.\n\nThe region supports diverse habitats from subtropical lowland forests to alpine meadows above 3,500 meters. With 6,400 plant species including 1,600 endemics, the Caucasus is the most floristically rich mountain region in the western Palearctic. It is also a critical corridor for large mammal migrations.",
+    "geojson": "caucasus.geojson"
+  },
+  {
+    "code": "cerrado",
+    "name": "Cerrado",
+    "location": "Central Brazil",
+    "areaKm2": 2031990,
+    "habitatRemaining": "21.3%",
+    "plantSpecies": 12070,
+    "endemicPlants": 4400,
+    "vertebrateSpecies": 1268,
+    "endemicVertebrates": 117,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Maned wolf",
+      "Giant anteater",
+      "Giant armadillo",
+      "Hyacinth macaw",
+      "Pampas deer"
+    ],
+    "threats": [
+      "Soybean agriculture",
+      "Cattle ranching",
+      "Charcoal production",
+      "Fire regime changes",
+      "Infrastructure"
+    ],
+    "conservationEfforts": "Only about 8% of the Cerrado is in protected areas. The Cerrado Manifesto (2017) calls for zero deforestation. Conservation programs for maned wolf and giant armadillo. Sustainable agriculture initiatives promote Cerrado-friendly farming.",
+    "description": "The Cerrado is the world's most biodiverse tropical savanna, covering roughly 21% of Brazil's land area. It is the second-largest biome in South America after the Amazon. The landscape ranges from dense grasslands to open woodlands with twisted, fire-adapted trees.\n\nOften called the 'upside-down forest' because its plants invest heavily in deep root systems, the Cerrado stores vast amounts of carbon underground. It is also the source of major river systems including tributaries of the Amazon, Paraná, and São Francisco rivers, making it crucial for Brazil's water security.",
+    "geojson": "cerrado.geojson"
+  },
+  {
+    "code": "chilean-winter-rainfall",
+    "name": "Chilean Winter Rainfall-Valdivian Forests",
+    "location": "Central and Southern Chile",
+    "areaKm2": 397142,
+    "habitatRemaining": "30.3%",
+    "plantSpecies": 3892,
+    "endemicPlants": 1957,
+    "vertebrateSpecies": 335,
+    "endemicVertebrates": 81,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Darwin's fox",
+      "Chilean wine palm",
+      "Monkey puzzle tree",
+      "Pudu deer",
+      "Huemul deer"
+    ],
+    "threats": [
+      "Forestry plantations",
+      "Agriculture",
+      "Urbanization",
+      "Mining",
+      "Fire"
+    ],
+    "conservationEfforts": "Chile's national parks protect key areas including Torres del Paine and Alerce Costero. The Route of Parks initiative created a 2,800 km trail connecting 17 national parks. Monkey puzzle tree is legally protected.",
+    "description": "This hotspot extends along central and southern Chile, encompassing Mediterranean-climate scrublands in the north and the lush Valdivian temperate rainforests in the south. The Andes mountains and Pacific Ocean create extreme isolation, driving high endemism.\n\nThe Valdivian forests are among the world's few temperate rainforests, home to ancient alerce trees (Fitzroya cupressoides) that can live over 3,600 years. The Mediterranean zone supports unique matorral vegetation adapted to seasonal drought.",
+    "geojson": "chilean-winter-rainfall.geojson"
+  },
+  {
+    "code": "coastal-forests-eastern-africa",
+    "name": "Coastal Forests of Eastern Africa",
+    "location": "East African coast (Somalia to Mozambique)",
+    "areaKm2": 291250,
+    "habitatRemaining": "10.3%",
+    "plantSpecies": 4000,
+    "endemicPlants": 1750,
+    "vertebrateSpecies": 1019,
+    "endemicVertebrates": 198,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Zanzibar red colobus",
+      "Aders' duiker",
+      "Tana River mangabey",
+      "African violet",
+      "Sokoke scops owl"
+    ],
+    "threats": [
+      "Agriculture",
+      "Logging",
+      "Charcoal production",
+      "Population growth",
+      "Fire"
+    ],
+    "conservationEfforts": "Critical Ecosystem Partnership Fund supports conservation projects. Arabuko-Sokoke Forest managed as a nature reserve. Community forest management programs in Tanzania. Eastern Arc Endowment Fund established for long-term conservation.",
+    "description": "The Coastal Forests of Eastern Africa form a narrow, fragmented strip along the Indian Ocean coast from southern Somalia through Kenya, Tanzania, and into northern Mozambique. These forests are remnants of a once-continuous tropical forest that covered eastern Africa.\n\nDespite their small and fragmented extent, these forests harbor remarkable levels of endemism, particularly among plants, reptiles, and amphibians. The region includes the Eastern Arc Mountains, sometimes called the 'Galápagos of Africa' for their exceptional concentration of endemic species.",
+    "geojson": "coastal-forests-eastern-africa.geojson"
+  },
+  {
+    "code": "east-melanesian-islands",
+    "name": "East Melanesian Islands",
+    "location": "Southwest Pacific (Solomon Islands, Vanuatu, Bismarck Archipelago)",
+    "areaKm2": 99384,
+    "habitatRemaining": "29.8%",
+    "plantSpecies": 8000,
+    "endemicPlants": 3000,
+    "vertebrateSpecies": 522,
+    "endemicVertebrates": 174,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Solomon Islands skink",
+      "Bougainville monkey-faced bat",
+      "Fearful owl",
+      "Coconut crab",
+      "Woodford's rail"
+    ],
+    "threats": [
+      "Logging",
+      "Mining",
+      "Subsistence agriculture",
+      "Invasive species",
+      "Climate change"
+    ],
+    "conservationEfforts": "Community-based resource management programs established. Protected areas include Kolombangara and Arnavon Islands. NGOs work with local communities on sustainable forestry. Climate adaptation planning underway.",
+    "description": "The East Melanesian Islands hotspot encompasses the Solomon Islands, Vanuatu, and the Bismarck Archipelago (part of Papua New Guinea). These oceanic and near-continental islands support a mix of lowland and montane tropical forests.\n\nIsland isolation has driven high rates of speciation, particularly among birds, reptiles, and plants. The region contains some of the largest remaining tracts of tropical forest in the Pacific. Many species are restricted to single islands, making them extremely vulnerable to habitat loss.",
+    "geojson": "east-melanesian-islands.geojson"
+  },
+  {
+    "code": "eastern-afromontane",
+    "name": "Eastern Afromontane",
+    "location": "Eastern Africa (Ethiopia to Mozambique)",
+    "areaKm2": 1017806,
+    "habitatRemaining": "11.1%",
+    "plantSpecies": 7598,
+    "endemicPlants": 2350,
+    "vertebrateSpecies": 1330,
+    "endemicVertebrates": 300,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Mountain gorilla",
+      "Ethiopian wolf",
+      "Gelada",
+      "Giant lobelia",
+      "African wild dog"
+    ],
+    "threats": [
+      "Agriculture expansion",
+      "Deforestation",
+      "Overgrazing",
+      "Human settlement",
+      "Political instability"
+    ],
+    "conservationEfforts": "Mountain gorilla conservation in Virunga and Bwindi has increased populations from 620 to over 1,000. Ethiopian wolf conservation program. Multiple national parks including Bale Mountains and Mount Kenya. African Wildlife Foundation supports habitat corridors.",
+    "description": "The Eastern Afromontane hotspot forms a chain of isolated mountain ranges stretching from Saudi Arabia through Ethiopia, down the East African Rift to southern Mozambique. These 'sky islands' of montane forest and grassland are separated by lowland habitats.\n\nThe isolation of these mountain blocks has driven extraordinary endemism, similar to oceanic islands. The hotspot includes the Albertine Rift, which has the highest vertebrate species richness of any region in Africa. It is also the source of the Nile River and contains Africa's largest lakes.",
+    "geojson": "eastern-afromontane.geojson"
+  },
+  {
+    "code": "forests-of-east-australia",
+    "name": "Forests of East Australia",
+    "location": "Eastern Australia (Queensland to Victoria)",
+    "areaKm2": 254015,
+    "habitatRemaining": "36.4%",
+    "plantSpecies": 8257,
+    "endemicPlants": 2144,
+    "vertebrateSpecies": 1186,
+    "endemicVertebrates": 174,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Koala",
+      "Platypus",
+      "Greater glider",
+      "Wollemi pine",
+      "Southern cassowary"
+    ],
+    "threats": [
+      "Land clearing",
+      "Logging",
+      "Urbanization",
+      "Bushfires",
+      "Climate change"
+    ],
+    "conservationEfforts": "Extensive national park system including Gondwana Rainforests World Heritage Area. Koala conservation strategies at state and federal levels. Wollemi pine rediscovery led to ex-situ conservation. Post-2019/2020 bushfire recovery programs.",
+    "description": "The Forests of East Australia hotspot stretches along the east coast and Great Dividing Range from Cooktown in Queensland to the Melbourne region in Victoria. It encompasses tropical, subtropical, and temperate rainforests, wet sclerophyll forests, and associated habitats.\n\nThis region is home to many of Australia's most iconic species and contains ancient Gondwanan lineages. The Wollemi pine, discovered alive in 1994, was previously known only from fossils 90 million years old. The 2019-2020 bushfire season devastated large areas, affecting an estimated 3 billion animals.",
+    "geojson": "forests-of-east-australia.geojson"
+  },
+  {
+    "code": "guinean-forests-west-africa",
+    "name": "Guinean Forests of West Africa",
+    "location": "West Africa (Guinea to Cameroon)",
+    "areaKm2": 620314,
+    "habitatRemaining": "15.6%",
+    "plantSpecies": 9000,
+    "endemicPlants": 2250,
+    "vertebrateSpecies": 1323,
+    "endemicVertebrates": 285,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Western chimpanzee",
+      "Pygmy hippopotamus",
+      "Diana monkey",
+      "Jentink's duiker",
+      "West African manatee"
+    ],
+    "threats": [
+      "Logging",
+      "Agriculture",
+      "Bushmeat hunting",
+      "Mining",
+      "Population growth"
+    ],
+    "conservationEfforts": "Cross River gorilla conservation in Nigeria-Cameroon border. Tai National Park (Côte d'Ivoire) is a UNESCO World Heritage Site. Community-based natural resource management programs. Wild Chimpanzee Foundation protects key habitats.",
+    "description": "The Guinean Forests of West Africa extend from Guinea through Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, to Cameroon. The hotspot comprises two distinct sub-regions: the Upper Guinea forests and the Lower Guinea forests, separated by the Dahomey Gap.\n\nThese forests are critical for primate conservation, harboring more threatened primate species than almost any other hotspot. The region is home to western chimpanzees, several species of colobus monkeys, and the critically endangered Cross River gorilla. Despite heavy degradation, remaining forest fragments support remarkable biodiversity.",
+    "geojson": "guinean-forests-west-africa.geojson"
+  },
+  {
+    "code": "himalaya",
+    "name": "Himalaya",
+    "location": "South-Central Asia (Nepal, Bhutan, India, Pakistan, China, Myanmar)",
+    "areaKm2": 741706,
+    "habitatRemaining": "25.3%",
+    "plantSpecies": 10000,
+    "endemicPlants": 3160,
+    "vertebrateSpecies": 977,
+    "endemicVertebrates": 112,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Snow leopard",
+      "Red panda",
+      "Himalayan tahr",
+      "Takin",
+      "Black-necked crane"
+    ],
+    "threats": [
+      "Deforestation",
+      "Overgrazing",
+      "Poaching",
+      "Infrastructure development",
+      "Climate change"
+    ],
+    "conservationEfforts": "Snow Leopard Trust protects habitat across range countries. Bhutan maintains 51% forest cover by constitutional mandate. Sacred Himalayan Landscape initiative links protected areas across Nepal, India, and Bhutan. Red panda conservation programs in Nepal.",
+    "description": "The Himalaya hotspot extends along the world's highest mountain range from Pakistan through northern India, Nepal, Bhutan, to northeastern Myanmar. The dramatic elevation gradient from 100 meters to over 8,000 meters creates extraordinary habitat diversity.\n\nThe region transitions from tropical forests in the lowland terai to alpine meadows and permanent snowfields. This elevational diversity supports a correspondingly rich biota. The Himalaya is also one of the most important sources of freshwater in the world, with glaciers feeding rivers that supply water to over a billion people.",
+    "geojson": "himalaya.geojson"
+  },
+  {
+    "code": "horn-of-africa",
+    "name": "Horn of Africa",
+    "location": "Northeast Africa (Somalia, Ethiopia, Eritrea, Djibouti, Kenya)",
+    "areaKm2": 1659363,
+    "habitatRemaining": "5.0%",
+    "plantSpecies": 5000,
+    "endemicPlants": 2750,
+    "vertebrateSpecies": 697,
+    "endemicVertebrates": 92,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Somali wild ass",
+      "Dibatag",
+      "Beira antelope",
+      "Warsangeli linnet",
+      "Speke's gazelle"
+    ],
+    "threats": [
+      "Overgrazing",
+      "Charcoal production",
+      "Drought",
+      "Political instability",
+      "Desertification"
+    ],
+    "conservationEfforts": "Limited formal conservation due to political instability. Some community-managed rangelands in Ethiopia and Kenya. Somali wild ass conservation efforts in Eritrea. Djibouti established Day Forest National Park for endemic species.",
+    "description": "The Horn of Africa hotspot covers the arid and semi-arid lands of Somalia, Djibouti, Eritrea, Ethiopia, and northeastern Kenya. Despite its arid appearance, this region harbors surprising biological richness and exceptionally high plant endemism, with 55% of plant species found nowhere else.\n\nThe hotspot's biodiversity is shaped by its position at the junction of three biogeographic regions: Afrotropical, Palearctic, and Oriental. The landscape includes coastal deserts, dry savannas, juniper forests, and montane habitats. It is one of the most understudied hotspots due to ongoing political conflicts.",
+    "geojson": "horn-of-africa.geojson"
+  },
+  {
+    "code": "indo-burma",
+    "name": "Indo-Burma",
+    "location": "Southeast Asia (Myanmar, Thailand, Laos, Vietnam, Cambodia, southern China)",
+    "areaKm2": 2373057,
+    "habitatRemaining": "5.0%",
+    "plantSpecies": 13500,
+    "endemicPlants": 7000,
+    "vertebrateSpecies": 2185,
+    "endemicVertebrates": 528,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Saola",
+      "Tonkin snub-nosed monkey",
+      "Irrawaddy dolphin",
+      "Giant ibis",
+      "Siamese crocodile"
+    ],
+    "threats": [
+      "Agriculture",
+      "Logging",
+      "Hunting",
+      "Hydropower dams",
+      "Infrastructure development"
+    ],
+    "conservationEfforts": "WWF Greater Mekong program documents hundreds of new species annually. Saola Working Group coordinates conservation of this recently discovered species. Protected area systems expanding in Vietnam and Laos. Mekong River Commission addresses transboundary conservation.",
+    "description": "Indo-Burma spans mainland Southeast Asia, covering most of Myanmar, Thailand, Laos, Cambodia, Vietnam, and parts of southern China. This vast hotspot encompasses tropical and subtropical forests, mangroves, freshwater swamps, and major river systems including the Mekong.\n\nThe region is one of the world's most prolific sources of newly discovered species, with hundreds described since 2000, including the saola (Pseudoryx nghetinhensis), one of the world's rarest mammals, discovered only in 1992. The Mekong River alone supports over 1,100 fish species.",
+    "geojson": "indo-burma.geojson"
+  },
+  {
+    "code": "irano-anatolian",
+    "name": "Irano-Anatolian",
+    "location": "Western Asia (Turkey, Iran, Iraq, Armenia, Georgia, Azerbaijan, Turkmenistan)",
+    "areaKm2": 899773,
+    "habitatRemaining": "14.9%",
+    "plantSpecies": 6000,
+    "endemicPlants": 2500,
+    "vertebrateSpecies": 550,
+    "endemicVertebrates": 48,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Persian leopard",
+      "Anatolian wild sheep",
+      "Persian fallow deer",
+      "Imperial eagle",
+      "Wild goat"
+    ],
+    "threats": [
+      "Overgrazing",
+      "Agriculture",
+      "Dam construction",
+      "Urbanization",
+      "Desertification"
+    ],
+    "conservationEfforts": "Iran's Department of Environment manages extensive protected areas. Turkey's national parks protect key habitats. Persian fallow deer reintroduction programs. WWF-Turkey promotes sustainable agriculture practices.",
+    "description": "The Irano-Anatolian hotspot covers the mountain ranges and plateaus of Turkey, Iran, and surrounding countries. The region includes the Zagros and Alborz mountains, the Anatolian plateau, and parts of the South Caspian lowlands.\n\nThis hotspot is a major center of origin for food crops — wheat, barley, rye, and many fruit trees were first domesticated here. The region's wild relatives of crop plants represent an irreplaceable genetic resource. Despite its seemingly harsh landscapes, the hotspot supports rich oak and juniper forests, alpine meadows, and wetlands.",
+    "geojson": "irano-anatolian.geojson"
+  },
+  {
+    "code": "japan",
+    "name": "Japan",
+    "location": "Japanese Archipelago (Japan)",
+    "areaKm2": 373490,
+    "habitatRemaining": "26.1%",
+    "plantSpecies": 5600,
+    "endemicPlants": 1950,
+    "vertebrateSpecies": 560,
+    "endemicVertebrates": 117,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Japanese macaque",
+      "Japanese giant salamander",
+      "Amami rabbit",
+      "Japanese serow",
+      "Iriomote cat"
+    ],
+    "threats": [
+      "Urbanization",
+      "Infrastructure development",
+      "Invasive species",
+      "Overexploitation",
+      "Climate change"
+    ],
+    "conservationEfforts": "Extensive national park system covering diverse habitats. Japanese giant salamander is protected as a special natural monument. Iriomote-Ishigaki National Park protects the Iriomote cat's habitat. Japan's Biodiversity Strategy targets 30% protected areas by 2030.",
+    "description": "The Japan hotspot encompasses the four main islands and thousands of smaller islands of the Japanese archipelago. Stretching over 3,000 km from subarctic Hokkaido to subtropical Okinawa, the islands span a remarkable range of climate zones and habitats.\n\nJapan's long isolation, varied terrain, and climate gradient have produced high levels of endemism. The archipelago includes temperate broadleaf forests, alpine zones, subtropical rainforests, and rich marine environments. The Japanese giant salamander, reaching 1.5 meters, is the world's second-largest amphibian.",
+    "geojson": "japan.geojson"
+  },
+  {
+    "code": "madagascar",
+    "name": "Madagascar and the Indian Ocean Islands",
+    "location": "Indian Ocean (Madagascar, Mauritius, Seychelles, Comoros, Réunion)",
+    "areaKm2": 600461,
+    "habitatRemaining": "10.0%",
+    "plantSpecies": 12000,
+    "endemicPlants": 9704,
+    "vertebrateSpecies": 773,
+    "endemicVertebrates": 552,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Ring-tailed lemur",
+      "Aye-aye",
+      "Fossa",
+      "Baobab tree",
+      "Panther chameleon"
+    ],
+    "threats": [
+      "Slash-and-burn agriculture",
+      "Logging",
+      "Mining",
+      "Charcoal production",
+      "Hunting"
+    ],
+    "conservationEfforts": "Madagascar increased protected areas from 1.7 to 6 million hectares under the Durban Vision. Madagascar Biodiversity Partnership works on lemur conservation. Duke Lemur Center supports field research. Seychelles Island Foundation manages Aldabra and Vallée de Mai World Heritage Sites.",
+    "description": "Madagascar, the world's fourth-largest island, separated from Africa roughly 160 million years ago, allowing its flora and fauna to evolve in spectacular isolation. Along with nearby Indian Ocean islands (Comoros, Mauritius, Seychelles, Réunion), it forms one of the most distinctive biodiversity hotspots.\n\nMadagascar alone is home to over 100 species of lemurs, all found nowhere else on Earth. Plant endemism exceeds 80%, including six of the world's eight baobab species. The island's eastern rainforests, western dry forests, and southern spiny forests each harbor distinct species assemblages. Tragically, 90% of the original vegetation has been lost.",
+    "geojson": "madagascar.geojson"
+  },
+  {
+    "code": "madrean-pine-oak-woodlands",
+    "name": "Madrean Pine-Oak Woodlands",
+    "location": "Western Mexico and Southwestern USA",
+    "areaKm2": 461265,
+    "habitatRemaining": "20.3%",
+    "plantSpecies": 5300,
+    "endemicPlants": 3975,
+    "vertebrateSpecies": 764,
+    "endemicVertebrates": 207,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Thick-billed parrot",
+      "Mexican wolf",
+      "Imperial woodpecker",
+      "Eared quetzal",
+      "Coppery-tailed trogon"
+    ],
+    "threats": [
+      "Logging",
+      "Agriculture",
+      "Mining",
+      "Overgrazing",
+      "Drug-related land clearing"
+    ],
+    "conservationEfforts": "Sierra Madre Alliance supports community conservation. Mexican wolf reintroduction program. Protected areas including Sierra de Manantlán Biosphere Reserve. Community-managed forests in Oaxaca serve as conservation models.",
+    "description": "The Madrean Pine-Oak Woodlands hotspot encompasses the mountain ranges of western Mexico and extends into the southwestern United States. The Sierra Madre Occidental, Sierra Madre Oriental, and connecting ranges support the world's most diverse pine and oak forests.\n\nWith more species of pine and oak than any comparable area on Earth, this region is a global center of diversity for these important tree genera. The varied topography creates a mosaic of habitats from subtropical dry forests in deep canyons to conifer forests on peaks. The region is also critical for migratory birds.",
+    "geojson": "madrean-pine-oak-woodlands.geojson"
+  },
+  {
+    "code": "maputaland-pondoland-albany",
+    "name": "Maputaland-Pondoland-Albany",
+    "location": "Southeastern Africa (South Africa, Mozambique, Eswatini)",
+    "areaKm2": 274136,
+    "habitatRemaining": "29.5%",
+    "plantSpecies": 8100,
+    "endemicPlants": 1900,
+    "vertebrateSpecies": 732,
+    "endemicVertebrates": 72,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Coelacanth",
+      "Loggerhead turtle",
+      "Leatherback turtle",
+      "Samango monkey",
+      "Suni antelope"
+    ],
+    "threats": [
+      "Agriculture",
+      "Urban development",
+      "Mining",
+      "Invasive species",
+      "Overexploitation"
+    ],
+    "conservationEfforts": "iSimangaliso Wetland Park is a World Heritage Site. Pondoland Centre of Endemism is under increasing protection. Turtle nesting beach conservation in northern KwaZulu-Natal. Community conservancies established in Maputaland.",
+    "description": "The Maputaland-Pondoland-Albany hotspot stretches along the eastern coast of southern Africa from southern Mozambique through Eswatini and eastern South Africa. It includes subtropical coastal forests, grasslands, and one of Africa's most important marine environments.\n\nThe hotspot is notable for the discovery of the coelacanth — a 'living fossil' fish thought to have been extinct for 65 million years — off the coast of South Africa in 1938. The region's coastal dune forests are among the tallest in the world, and its grasslands support exceptional plant diversity with high endemism.",
+    "geojson": "maputaland-pondoland-albany.geojson"
+  },
+  {
+    "code": "mediterranean-basin",
+    "name": "Mediterranean Basin",
+    "location": "Southern Europe, North Africa, Western Asia",
+    "areaKm2": 2085292,
+    "habitatRemaining": "4.7%",
+    "plantSpecies": 22500,
+    "endemicPlants": 11700,
+    "vertebrateSpecies": 770,
+    "endemicVertebrates": 157,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Mediterranean monk seal",
+      "Iberian lynx",
+      "Barbary macaque",
+      "Loggerhead sea turtle",
+      "Egyptian vulture"
+    ],
+    "threats": [
+      "Tourism development",
+      "Urbanization",
+      "Agriculture intensification",
+      "Wildfires",
+      "Climate change"
+    ],
+    "conservationEfforts": "Iberian lynx recovery program increased population from 94 to over 1,100. Mediterranean monk seal protected in marine reserves. EU Natura 2000 network covers key habitats. Barcelona Convention protects marine environment.",
+    "description": "The Mediterranean Basin hotspot encircles the Mediterranean Sea, encompassing coastal areas of southern Europe, North Africa, and western Asia. It is one of the world's largest and most diverse hotspots, spanning three continents and 22 countries.\n\nThe Mediterranean climate of hot, dry summers and mild, wet winters has shaped a unique flora that includes over 22,500 plant species — more than four times the number found in all the rest of Europe. The region is also a cradle of human civilization, with landscapes shaped by millennia of human habitation. Olive groves, vineyards, and terraced hillsides are integral to both culture and biodiversity.",
+    "geojson": "mediterranean-basin.geojson"
+  },
+  {
+    "code": "mesoamerica",
+    "name": "Mesoamerica",
+    "location": "Central America and Southern Mexico",
+    "areaKm2": 1130019,
+    "habitatRemaining": "20.0%",
+    "plantSpecies": 17000,
+    "endemicPlants": 2941,
+    "vertebrateSpecies": 2859,
+    "endemicVertebrates": 724,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Resplendent quetzal",
+      "Baird's tapir",
+      "Scarlet macaw",
+      "Jaguar",
+      "Howler monkey"
+    ],
+    "threats": [
+      "Deforestation",
+      "Agriculture",
+      "Urbanization",
+      "Climate change",
+      "Drug trafficking land clearing"
+    ],
+    "conservationEfforts": "Mesoamerican Biological Corridor connects protected areas from Mexico to Panama. Belize Barrier Reef is a World Heritage Site. Community-based ecotourism provides economic alternatives. Guatemala's Maya Biosphere Reserve protects 2.1 million hectares.",
+    "description": "Mesoamerica extends from central Mexico through Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama. This hotspot bridges North and South America, serving as a critical biological corridor for species migration between continents.\n\nThe region's extraordinary vertebrate diversity — with over 2,800 species — reflects its role as a meeting ground for Nearctic and Neotropical fauna. Cloud forests draped in mosses and orchids harbor the resplendent quetzal, while lowland rainforests support jaguars and tapirs. Coral reefs along the Caribbean coast form the world's second-largest barrier reef.",
+    "geojson": "mesoamerica.geojson"
+  },
+  {
+    "code": "mountains-of-central-asia",
+    "name": "Mountains of Central Asia",
+    "location": "Central Asia (Kyrgyzstan, Tajikistan, China, Kazakhstan, Uzbekistan, Afghanistan)",
+    "areaKm2": 863362,
+    "habitatRemaining": "21.5%",
+    "plantSpecies": 5500,
+    "endemicPlants": 1500,
+    "vertebrateSpecies": 573,
+    "endemicVertebrates": 52,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Snow leopard",
+      "Marco Polo sheep",
+      "Bukhara deer",
+      "Saker falcon",
+      "Wild apple tree"
+    ],
+    "threats": [
+      "Overgrazing",
+      "Mining",
+      "Deforestation",
+      "Climate change",
+      "Poaching"
+    ],
+    "conservationEfforts": "Snow leopard conservation programs span multiple countries. Wild apple forest protection in Kazakhstan's Ile-Alatau National Park. Global Snow Leopard and Ecosystem Protection Program coordinates 12 range countries. Community-based conservation in Kyrgyz and Tajik mountains.",
+    "description": "The Mountains of Central Asia hotspot covers the Tien Shan, Pamir, and associated mountain ranges of Central Asia. These mountains rise dramatically from surrounding deserts and steppes, creating isolated islands of biodiversity.\n\nThe region is globally significant as the origin of many cultivated fruit and nut trees. Wild ancestors of apples, walnuts, plums, and apricots grow in the mountain forests of Kazakhstan and Kyrgyzstan. The fruit and nut forests of the western Tien Shan represent an irreplaceable genetic resource. Snow leopards patrol the highest ridges, while the valleys support distinctive juniper and pistachio woodlands.",
+    "geojson": "mountains-of-central-asia.geojson"
+  },
+  {
+    "code": "mountains-of-southwest-china",
+    "name": "Mountains of Southwest China",
+    "location": "Southwestern China (Sichuan, Yunnan, Tibet, Guizhou)",
+    "areaKm2": 262446,
+    "habitatRemaining": "8.0%",
+    "plantSpecies": 12000,
+    "endemicPlants": 3500,
+    "vertebrateSpecies": 1140,
+    "endemicVertebrates": 428,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Giant panda",
+      "Red panda",
+      "Golden snub-nosed monkey",
+      "Takin",
+      "Chinese giant salamander"
+    ],
+    "threats": [
+      "Agriculture",
+      "Logging",
+      "Infrastructure",
+      "Hydropower",
+      "Climate change"
+    ],
+    "conservationEfforts": "Giant panda reserves protect 67% of wild panda habitat. China's grain-to-green program reforests farmland on slopes. Wolong National Nature Reserve is a flagship conservation site. Sichuan Giant Panda Sanctuaries are a UNESCO World Heritage Site.",
+    "description": "The Mountains of Southwest China hotspot encompasses the rugged mountains where the eastern edge of the Tibetan Plateau meets the Sichuan Basin and Yunnan Plateau. Deep river gorges — the Yangtze, Mekong, and Salween run parallel within 75 km of each other — create dramatic topographic variation.\n\nThis region is home to the giant panda, China's most iconic conservation symbol, as well as an extraordinary diversity of rhododendrons, primulas, and gentians that have enriched gardens worldwide. The 'Three Parallel Rivers' area is one of the world's most geologically and biologically diverse landscapes.",
+    "geojson": "mountains-of-southwest-china.geojson"
+  },
+  {
+    "code": "new-caledonia",
+    "name": "New Caledonia",
+    "location": "Southwest Pacific Ocean (French territory)",
+    "areaKm2": 18576,
+    "habitatRemaining": "28.0%",
+    "plantSpecies": 3270,
+    "endemicPlants": 2432,
+    "vertebrateSpecies": 190,
+    "endemicVertebrates": 84,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Kagu",
+      "New Caledonian crow",
+      "Crested gecko",
+      "Amborella",
+      "New Caledonian giant gecko"
+    ],
+    "threats": [
+      "Nickel mining",
+      "Invasive species",
+      "Wildfires",
+      "Deforestation",
+      "Urbanization"
+    ],
+    "conservationEfforts": "Lagoons of New Caledonia are a UNESCO World Heritage Site. Province-level environmental protection agencies manage conservation. Kagu recovery program has stabilized populations. Invasive species control programs target deer, pigs, and rats.",
+    "description": "New Caledonia, a French territory in the southwest Pacific, is a continental fragment that separated from Australia 80 million years ago. This ancient isolation has produced one of the world's most distinctive floras, with 74% of plant species found nowhere else.\n\nThe island is home to Amborella trichopoda, considered the most ancient living flowering plant lineage on Earth. The kagu, a nearly flightless bird found only on New Caledonia, and the New Caledonian crow, famous for its remarkable tool-making abilities, are conservation icons. The island's ultramafic soils support unique plant communities adapted to high nickel and chromium concentrations.",
+    "geojson": "new-caledonia.geojson"
+  },
+  {
+    "code": "new-zealand",
+    "name": "New Zealand",
+    "location": "Southwest Pacific Ocean (New Zealand)",
+    "areaKm2": 270534,
+    "habitatRemaining": "22.0%",
+    "plantSpecies": 2300,
+    "endemicPlants": 1865,
+    "vertebrateSpecies": 284,
+    "endemicVertebrates": 136,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Kiwi",
+      "Tuatara",
+      "Kakapo",
+      "Kea",
+      "Weta"
+    ],
+    "threats": [
+      "Invasive predators",
+      "Habitat conversion",
+      "Climate change",
+      "Pollution",
+      "Tourism pressure"
+    ],
+    "conservationEfforts": "Predator Free 2050 initiative aims to eliminate introduced predators. Kakapo recovery program manages every individual. Island sanctuaries provide predator-free refuges. Zealandia ecosanctuary in Wellington demonstrates urban restoration. DOC manages one-third of NZ's land area.",
+    "description": "New Zealand, separated from Gondwana roughly 80 million years ago, evolved in extreme isolation without land mammals until human arrival about 800 years ago. This produced a unique biota dominated by birds, including many flightless species that evolved without predator pressure.\n\nThe introduction of rats, stoats, and possums by humans has devastated native wildlife. Despite this, New Zealand retains remarkable biological treasures: the tuatara (sole survivor of an order that predates dinosaurs), the kakapo (world's heaviest parrot), and the kiwi. New Zealand is a global leader in conservation innovation, including the ambitious Predator Free 2050 program.",
+    "geojson": "new-zealand.geojson"
+  },
+  {
+    "code": "north-american-coastal-plain",
+    "name": "North American Coastal Plain",
+    "location": "Southeastern USA and northeastern Mexico",
+    "areaKm2": 1145920,
+    "habitatRemaining": "14.2%",
+    "plantSpecies": 6200,
+    "endemicPlants": 1816,
+    "vertebrateSpecies": 1489,
+    "endemicVertebrates": 264,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Red-cockaded woodpecker",
+      "Gopher tortoise",
+      "Venus flytrap",
+      "Florida panther",
+      "Longleaf pine"
+    ],
+    "threats": [
+      "Urban sprawl",
+      "Agriculture",
+      "Fire suppression",
+      "Sea level rise",
+      "Invasive species"
+    ],
+    "conservationEfforts": "Longleaf pine ecosystem restoration across 15 million acres targeted. Prescribed fire programs restore natural fire regimes. Florida panther recovery reduced highway mortality. Venus flytrap habitat protected in Green Swamp Preserve.",
+    "description": "The North American Coastal Plain stretches along the southeastern United States from Long Island, New York, to eastern Texas and into northeastern Mexico. Recognized as a biodiversity hotspot in 2016, it is the most recently designated hotspot.\n\nThe region's longleaf pine savannas once covered 90 million acres but have been reduced by 97%. These fire-dependent ecosystems support extraordinary plant diversity, including carnivorous plants like the Venus flytrap and pitcher plants. Coastal wetlands, barrier islands, and the Everglades add to the region's ecological significance.",
+    "geojson": "north-american-coastal-plain.geojson"
+  },
+  {
+    "code": "philippines",
+    "name": "Philippines",
+    "location": "Southeast Asia (Philippine Archipelago)",
+    "areaKm2": 297179,
+    "habitatRemaining": "7.0%",
+    "plantSpecies": 9253,
+    "endemicPlants": 6091,
+    "vertebrateSpecies": 855,
+    "endemicVertebrates": 352,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Philippine eagle",
+      "Tamaraw",
+      "Philippine tarsier",
+      "Philippine cockatoo",
+      "Rafflesia"
+    ],
+    "threats": [
+      "Deforestation",
+      "Mining",
+      "Agriculture",
+      "Urbanization",
+      "Typhoons"
+    ],
+    "conservationEfforts": "Philippine Eagle Foundation breeds and releases eagles. Mount Kitanglad and Mount Apo are protected. Community-based forest management covers 5 million hectares. National Greening Program plants trees on degraded lands.",
+    "description": "The Philippines, an archipelago of over 7,600 islands in Southeast Asia, is one of the world's most biologically rich and threatened regions. With only 7% of original habitat remaining, the Philippines faces dire conservation challenges.\n\nDespite severe habitat loss, the islands harbor astonishing levels of endemism: 66% of plant species and 41% of vertebrates are found nowhere else. Each major island has evolved its own endemic species. The Philippine eagle, the world's largest eagle, is the national bird and a powerful conservation symbol. The islands also host the world's largest flower, Rafflesia, and smallest primate, the tarsier.",
+    "geojson": "philippines.geojson"
+  },
+  {
+    "code": "polynesia-micronesia",
+    "name": "Polynesia-Micronesia",
+    "location": "Central and South Pacific Ocean",
+    "areaKm2": 47239,
+    "habitatRemaining": "21.0%",
+    "plantSpecies": 5330,
+    "endemicPlants": 3074,
+    "vertebrateSpecies": 342,
+    "endemicVertebrates": 168,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Hawaiian monk seal",
+      "Nene goose",
+      "Coconut crab",
+      "Tuatara relative",
+      "Hawaiian honeycreepers"
+    ],
+    "threats": [
+      "Invasive species",
+      "Climate change",
+      "Sea level rise",
+      "Tourism",
+      "Overexploitation"
+    ],
+    "conservationEfforts": "Papahānaumokuākea Marine National Monument is one of the world's largest protected areas. Hawaiian forest bird conservation programs. Invasive species eradication on key islands. Pacific Islands Managed and Protected Area Community coordinates regional efforts.",
+    "description": "Polynesia-Micronesia encompasses thousands of islands scattered across the vast central and south Pacific Ocean, including Hawaii, Fiji, Samoa, Tonga, French Polynesia, and Micronesian nations. These islands range from high volcanic peaks to low coral atolls.\n\nThe hotspot has suffered the highest documented extinction rate of any region, particularly among birds. Hawaii alone has lost over 70 bird species since human arrival. The remaining species show extraordinary adaptive radiation — Hawaiian honeycreepers evolved from a single ancestor into over 50 species. Climate change and sea level rise pose existential threats to low-lying atoll nations.",
+    "geojson": "polynesia-micronesia.geojson"
+  },
+  {
+    "code": "southwest-australia",
+    "name": "Southwest Australia",
+    "location": "Southwestern Australia",
+    "areaKm2": 356717,
+    "habitatRemaining": "30.0%",
+    "plantSpecies": 5571,
+    "endemicPlants": 2948,
+    "vertebrateSpecies": 456,
+    "endemicVertebrates": 100,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Numbat",
+      "Western swamp tortoise",
+      "Honey possum",
+      "Carnaby's cockatoo",
+      "Quokka"
+    ],
+    "threats": [
+      "Land clearing",
+      "Salinity",
+      "Invasive species",
+      "Climate change",
+      "Dieback disease"
+    ],
+    "conservationEfforts": "Extensive nature reserve system managed by DBCA. Numbat recovery program. Western swamp tortoise captive breeding. Phytophthora dieback management programs. Southwest Australia Ecoregion Initiative coordinates landscape-scale conservation.",
+    "description": "Southwest Australia is an ancient, flat landscape that has remained above sea level and unglaciated for hundreds of millions of years. This geological stability, combined with nutrient-poor soils and Mediterranean climate, has driven extraordinary plant speciation.\n\nThe region is a global center of plant diversity, with over 5,500 plant species in an area the size of Germany. The kwongan heathlands rival South Africa's fynbos in their floral richness. Many plants have evolved remarkable adaptations to nutrient-poor soils, including carnivorous sundews (with over 100 species) and elaborate root structures.",
+    "geojson": "southwest-australia.geojson"
+  },
+  {
+    "code": "succulent-karoo",
+    "name": "Succulent Karoo",
+    "location": "Southwestern Africa (South Africa, Namibia)",
+    "areaKm2": 102691,
+    "habitatRemaining": "29.0%",
+    "plantSpecies": 6356,
+    "endemicPlants": 2439,
+    "vertebrateSpecies": 345,
+    "endemicVertebrates": 32,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Riverine rabbit",
+      "Armadillo girdled lizard",
+      "Namaqua chameleon",
+      "Living stones (Lithops)",
+      "Elephant's trunk (Pachypodium)"
+    ],
+    "threats": [
+      "Mining",
+      "Overgrazing",
+      "Climate change",
+      "Illegal plant collection",
+      "Agriculture"
+    ],
+    "conservationEfforts": "Succulent Karoo Ecosystem Programme (SKEP) coordinates conservation across the region. Namaqua National Park protects spring wildflower displays. Riverine rabbit conservation program. Succulent plant nurseries reduce wild collection pressure.",
+    "description": "The Succulent Karoo, stretching along the Atlantic coast of southwestern Africa from Namibia into South Africa, is the world's only arid biodiversity hotspot. Despite receiving less than 200mm of annual rainfall, this semi-desert supports an incredible diversity of succulent plants.\n\nThe region is home to the world's richest succulent flora, with over 1,700 succulent species. Mesembryanthemaceae (the ice plant family) alone has over 1,000 species. In spring, the normally drab landscape transforms into spectacular wildflower displays. 'Living stones' (Lithops) are camouflaged succulents that resemble the rocks they grow among.",
+    "geojson": "succulent-karoo.geojson"
+  },
+  {
+    "code": "sundaland",
+    "name": "Sundaland",
+    "location": "Southeast Asia (Malay Peninsula, Borneo, Sumatra, Java)",
+    "areaKm2": 1501063,
+    "habitatRemaining": "7.8%",
+    "plantSpecies": 25000,
+    "endemicPlants": 15000,
+    "vertebrateSpecies": 1800,
+    "endemicVertebrates": 701,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Orangutan",
+      "Sumatran rhinoceros",
+      "Sumatran tiger",
+      "Proboscis monkey",
+      "Rafflesia arnoldii"
+    ],
+    "threats": [
+      "Palm oil plantations",
+      "Logging",
+      "Mining",
+      "Fires",
+      "Poaching"
+    ],
+    "conservationEfforts": "Roundtable on Sustainable Palm Oil (RSPO) promotes sustainable production. Orangutan rehabilitation centers in Borneo and Sumatra. Heart of Borneo initiative protects 22 million hectares. Leuser Ecosystem in Sumatra is the last place where orangutans, tigers, elephants, and rhinos coexist.",
+    "description": "Sundaland encompasses the western half of the Indo-Malayan archipelago, including the Malay Peninsula, Borneo, Sumatra, Java, and surrounding islands. During ice ages, these were connected by land bridges on the Sunda Shelf, allowing species exchange.\n\nThe hotspot's tropical rainforests are among the most species-rich on Earth. Borneo alone has more tree species than all of tropical Africa. Sundaland is home to both species of orangutan, the critically endangered Sumatran rhinoceros and tiger, and Rafflesia arnoldii — the world's largest flower. Rapid conversion to oil palm plantations is the greatest threat.",
+    "geojson": "sundaland.geojson"
+  },
+  {
+    "code": "tropical-andes",
+    "name": "Tropical Andes",
+    "location": "Western South America (Venezuela to Bolivia)",
+    "areaKm2": 1542644,
+    "habitatRemaining": "25.0%",
+    "plantSpecies": 30000,
+    "endemicPlants": 15000,
+    "vertebrateSpecies": 3389,
+    "endemicVertebrates": 1567,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Spectacled bear",
+      "Mountain tapir",
+      "Andean condor",
+      "Poison dart frogs",
+      "Cinchona tree"
+    ],
+    "threats": [
+      "Agriculture",
+      "Mining",
+      "Coca cultivation",
+      "Road construction",
+      "Climate change"
+    ],
+    "conservationEfforts": "Extensive national park systems across Andean countries. Spectacled bear conservation corridors. Quinine tree (Cinchona) protected in historical reserves. Paramo ecosystem conservation initiatives. Andean Community promotes regional biodiversity strategies.",
+    "description": "The Tropical Andes hotspot stretches along the Andean mountain chain from western Venezuela to central Bolivia, encompassing an extraordinary range of habitats from lowland tropical forests to páramo grasslands above 4,000 meters.\n\nThis is the most species-rich of all biodiversity hotspots, with 30,000 plant species (half endemic) and nearly 3,400 vertebrate species. The dramatic elevation gradients create compressed climate zones, with different species assemblages at each level. Cloud forests harbor exceptional epiphyte diversity, while páramo grasslands contain unique giant rosette plants (Espeletia). More amphibian species are found here than in any comparable area.",
+    "geojson": "tropical-andes.geojson"
+  },
+  {
+    "code": "tumbes-choco-magdalena",
+    "name": "Tumbes-Chocó-Magdalena",
+    "location": "Western South America and Central America (Panama to Peru)",
+    "areaKm2": 274597,
+    "habitatRemaining": "24.2%",
+    "plantSpecies": 11000,
+    "endemicPlants": 2750,
+    "vertebrateSpecies": 1625,
+    "endemicVertebrates": 418,
+    "threatLevel": "Endangered",
+    "keySpecies": [
+      "Baird's tapir",
+      "Brown-headed spider monkey",
+      "Harpy eagle",
+      "Golden poison frog",
+      "Ecuadorian white-fronted capuchin"
+    ],
+    "threats": [
+      "Logging",
+      "Agriculture",
+      "Mining",
+      "Shrimp farming",
+      "Road construction"
+    ],
+    "conservationEfforts": "Chocó-Darién Conservation Corridor links protected areas. Colombia's national park system covers key areas. Ecuador's Cotacachi-Cayapas Ecological Reserve. Community territories of Afro-Colombian and Indigenous peoples serve as de facto protected areas.",
+    "description": "The Tumbes-Chocó-Magdalena hotspot runs along the Pacific coast from eastern Panama through western Colombia and Ecuador to northwestern Peru, including the Magdalena Valley of Colombia. The Chocó region is one of the wettest places on Earth, receiving up to 13,000mm of rain annually.\n\nThis extraordinary rainfall supports some of the world's most luxuriant tropical forests. The hotspot is the global center of diversity for bromeliads and has exceptional levels of amphibian endemism. The golden poison frog (Phyllobates terribilis), found only in Colombia's Chocó, produces the most potent natural toxin known — enough to kill 10 adult humans.",
+    "geojson": "tumbes-choco-magdalena.geojson"
+  },
+  {
+    "code": "wallacea",
+    "name": "Wallacea",
+    "location": "Eastern Indonesia (Sulawesi, Lombok, Flores, Timor, Maluku)",
+    "areaKm2": 338494,
+    "habitatRemaining": "15.0%",
+    "plantSpecies": 10000,
+    "endemicPlants": 1500,
+    "vertebrateSpecies": 1142,
+    "endemicVertebrates": 490,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Anoa",
+      "Babirusa",
+      "Maleo bird",
+      "Komodo dragon",
+      "Red-knobbed hornbill"
+    ],
+    "threats": [
+      "Logging",
+      "Mining",
+      "Agriculture",
+      "Invasive species",
+      "Overexploitation"
+    ],
+    "conservationEfforts": "Komodo National Park protects the dragon's habitat. Tangkoko Nature Reserve in Sulawesi protects key species. Community-based marine management in Raja Ampat. Babirusa and anoa conservation breeding programs.",
+    "description": "Wallacea, named after naturalist Alfred Russel Wallace, encompasses the islands of eastern Indonesia between the Sunda Shelf and the Sahul Shelf. Never connected by land bridges to either Asia or Australia, these islands harbor a distinctive transitional fauna.\n\nWallace's Line, the biogeographic boundary that passes through this region, marks one of the sharpest faunal transitions on Earth. Sulawesi's fauna is particularly unusual, with species like the babirusa ('pig-deer') and anoa (dwarf buffalo) found nowhere else. The region also includes Komodo, home to the world's largest lizard, and Flores, where the diminutive 'Hobbit' hominin (Homo floresiensis) was discovered.",
+    "geojson": "wallacea.geojson"
+  },
+  {
+    "code": "western-ghats-sri-lanka",
+    "name": "Western Ghats and Sri Lanka",
+    "location": "South Asia (Western India and Sri Lanka)",
+    "areaKm2": 189611,
+    "habitatRemaining": "6.8%",
+    "plantSpecies": 5916,
+    "endemicPlants": 3049,
+    "vertebrateSpecies": 1073,
+    "endemicVertebrates": 355,
+    "threatLevel": "Critical",
+    "keySpecies": [
+      "Lion-tailed macaque",
+      "Nilgiri tahr",
+      "Sri Lankan leopard",
+      "Purple frog",
+      "Asian elephant"
+    ],
+    "threats": [
+      "Agriculture",
+      "Urbanization",
+      "Mining",
+      "Dam construction",
+      "Plantation monocultures"
+    ],
+    "conservationEfforts": "Western Ghats designated as UNESCO World Heritage Site in 2012. Sri Lanka's Sinharaja Forest Reserve is also a World Heritage Site. Nilgiri Biosphere Reserve protects key habitats. Kerala Forest Research Institute conducts tropical forest research. Elephant corridors being restored.",
+    "description": "The Western Ghats and Sri Lanka hotspot encompasses the mountains running along India's western coast and the island of Sri Lanka. These two landmasses share an ancient geological connection and many species.\n\nThe Western Ghats are older than the Himalaya and harbor ancient lineages that evolved in isolation. The purple frog (Nasikabatrachus sahyadrensis), discovered in 2003, represents a lineage that diverged from other frogs over 100 million years ago. Sri Lanka, despite its small size, has exceptional amphibian endemism — over 90% of its amphibians are found nowhere else. Tea and coffee plantations have replaced much of the original forest.",
+    "geojson": "western-ghats-sri-lanka.geojson"
+  }
+]

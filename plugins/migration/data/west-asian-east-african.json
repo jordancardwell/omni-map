@@ -1,0 +1,24 @@
+{
+  "code": "west-asian-east-african",
+  "name": "West Asian\u2013East African Flyway",
+  "layerGroup": "Bird Flyways",
+  "subtitle": "Central Asia to East Africa",
+  "badgeValue": "~300 species",
+  "speciesCount": "~300 migratory species including cranes, flamingos, and waders",
+  "keyStopoverSites": [
+    "Caspian Sea Wetlands",
+    "Persian Gulf Mudflats",
+    "Ethiopian Highlands",
+    "East African Rift Lakes",
+    "Indus Delta"
+  ],
+  "threats": [
+    "Dam projects",
+    "Oil extraction",
+    "Desertification",
+    "Overgrazing",
+    "Agricultural chemicals"
+  ],
+  "description": "The West Asian\u2013East African Flyway stretches from western Siberia through Central and West Asia to East Africa. It is critical for the Siberian Crane \u2014 one of the most endangered crane species. The Caspian Sea wetlands serve as a major staging area, while the East African Rift Valley lakes provide vital wintering grounds for flamingos and waterbirds. Dam construction on major rivers and oil extraction around the Caspian threaten crucial wetland habitats along this corridor.",
+  "geojson": "west-asian-east-african.geojson"
+}

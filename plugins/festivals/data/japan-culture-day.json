@@ -1,0 +1,14 @@
+{
+  "code": "japan-culture-day",
+  "name": "Culture Day (Bunka no Hi)",
+  "festivalType": "National",
+  "dateOrSeason": "November 3",
+  "origin": "Japanese national",
+  "estimatedAttendance": "126+ million Japanese",
+  "unescoICH": "Not inscribed",
+  "traditions": "Art exhibitions; cultural festivals; autumn leaf viewing; Order of Culture awards at Imperial Palace; parades in historical dress.",
+  "historicalBackground": "Culture Day was originally Emperor Meiji's birthday. After WWII, it was redesignated to promote culture, the arts, and academic endeavor.",
+  "description": "Japan's celebration of arts and culture, when museums open for free and communities showcase traditional arts and performances.",
+  "location": "Tokyo, Japan",
+  "geojson": "japan-culture-day.geojson"
+}

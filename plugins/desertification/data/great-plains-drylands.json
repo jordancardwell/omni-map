@@ -1,0 +1,23 @@
+{
+  "code": "great-plains-drylands",
+  "name": "Great Plains Drylands",
+  "region": "North America",
+  "aridityGroup": "3. Semi-Arid",
+  "aridityClassification": "Semi-Arid",
+  "aridityIndex": "0.20–0.50 — semi-arid continental grassland",
+  "area": "1,300,000 km²",
+  "degradationTrend": "Worsening",
+  "populationAffected": 10000000,
+  "affectedCountries": [
+    "United States"
+  ],
+  "desertificationDrivers": [
+    "Ogallala Aquifer depletion",
+    "Intensive agriculture",
+    "Drought cycles",
+    "Wind erosion"
+  ],
+  "desertFrontier": "High Plains transitioning from semi-arid to arid conditions in western Kansas and Texas Panhandle",
+  "description": "The western Great Plains sit atop the Ogallala Aquifer, one of the world's largest underground freshwater reserves. Decades of center-pivot irrigation have depleted the aquifer by over 30% in some areas — it would take 6,000 years to naturally refill. Parts of western Kansas and the Texas Panhandle are returning to dryland farming as wells run dry. The Dust Bowl of the 1930s demonstrated the catastrophic consequences of land degradation in this region.",
+  "geojson": "great-plains-drylands.geojson"
+}

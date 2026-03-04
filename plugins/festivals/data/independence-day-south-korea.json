@@ -1,0 +1,14 @@
+{
+  "code": "independence-day-south-korea",
+  "name": "Liberation Day (South Korea)",
+  "festivalType": "National",
+  "dateOrSeason": "August 15",
+  "origin": "Korean national",
+  "estimatedAttendance": "51+ million South Koreans",
+  "unescoICH": "Not inscribed",
+  "traditions": "Presidential address; flag ceremonies; patriotic concerts; visiting independence sites; pardoning prisoners.",
+  "historicalBackground": "Liberation Day (Gwangbokjeol) marks August 15, 1945, when Korea was liberated from Japanese colonial rule after 35 years of occupation.",
+  "description": "South Korea's celebration of liberation from Japanese colonial rule, with patriotic ceremonies and cultural events honoring independence heroes.",
+  "location": "Seoul, South Korea",
+  "geojson": "independence-day-south-korea.geojson"
+}

@@ -1,0 +1,23 @@
+{
+  "code": "unaffiliated",
+  "name": "Unaffiliated / Non-religious",
+  "family": "Non-religious",
+  "foundingPeriod": "N/A",
+  "adherents": {
+    "estimated": 1200000000,
+    "percentWorld": "15.6%",
+    "source": "Pew Research Center 2024"
+  },
+  "keyRegions": ["China", "Europe", "Japan", "South Korea", "Australia", "North America"],
+  "denominations": [
+    "Atheist",
+    "Agnostic",
+    "Secular",
+    "Spiritual but not religious",
+    "Humanist",
+    "Rationalist"
+  ],
+  "description": "The religiously unaffiliated, sometimes called 'nones,' include atheists, agnostics, and people who do not identify with any particular religion. This is the third-largest demographic group globally after Christians and Muslims. The unaffiliated may hold a variety of spiritual beliefs or none at all, and their numbers have been growing rapidly in many developed nations.",
+  "historicalNotes": "While non-belief has existed throughout history, the Enlightenment (17th–18th centuries) marked a turning point with the rise of secular humanism and rationalism. The 20th century saw state atheism in communist countries, particularly China and the Soviet Union. In recent decades, secularization has accelerated across Western Europe, Oceania, and parts of East Asia. The 'New Atheism' movement of the 2000s, led by Richard Dawkins, Christopher Hitchens, and Sam Harris, brought public attention to non-belief. Today, the unaffiliated represent the fastest-growing demographic in many developed nations.",
+  "geojson": "unaffiliated.geojson"
+}

@@ -1,0 +1,28 @@
+{
+  "code": "fado",
+  "name": "Fado",
+  "region": "Lisbon, Portugal",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Portuguese Guitar",
+    "Classical Guitar",
+    "Vocals",
+    "Viola Baixo"
+  ],
+  "keyArtists": [
+    "Amália Rodrigues",
+    "Mariza",
+    "Carlos do Carmo",
+    "Mísia",
+    "Ana Moura"
+  ],
+  "description": "Fado is a genre of Portuguese music characterized by mournful tunes and lyrics about the sea, longing (saudade), and fate. Originating in the working-class neighborhoods of Lisbon in the early 19th century, it is traditionally performed in fado houses (casas de fado). UNESCO inscribed fado on the Intangible Cultural Heritage list in 2011.",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Fado",
+      "url": "https://ich.unesco.org/en/RL/fado-urban-popular-song-of-portugal-00563"
+    }
+  ],
+  "geojson": "fado.geojson"
+}

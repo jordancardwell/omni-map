@@ -1,0 +1,20 @@
+{
+  "code": "elt",
+  "name": "Extremely Large Telescope",
+  "country": "Chile",
+  "observatoryType": "Optical",
+  "status": "Under Construction",
+  "elevation": 3046,
+  "aperture": "39.3 m",
+  "telescopes": [
+    "ELT"
+  ],
+  "keyDiscoveries": [
+    "Expected: Exoplanet atmospheres",
+    "First light objects",
+    "Dark energy"
+  ],
+  "location": "Extremely Large Telescope, Chile",
+  "description": "ESO's next-generation telescope at Cerro Armazones, the world's largest optical/infrared telescope. First light expected around 2028.",
+  "geojson": "elt.geojson"
+}

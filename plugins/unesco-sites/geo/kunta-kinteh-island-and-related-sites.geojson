@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.35719444,
+          13.31616667
+        ]
+      },
+      "properties": {
+        "code": "kunta-kinteh-island-and-related-sites",
+        "name": "Kunta Kinteh Island and Related Sites",
+        "type": "Cultural",
+        "country": "Gambia",
+        "yearInscribed": "2003"
+      }
+    }
+  ]
+}

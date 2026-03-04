@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4913888889,
+          44.6108333333
+        ]
+      },
+      "properties": {
+        "code": "ancient-city-of-tauric-chersonese-and-its-chora",
+        "name": "Ancient City of Tauric Chersonese and its Chora",
+        "type": "Cultural",
+        "country": "Ukraine",
+        "yearInscribed": "2013"
+      }
+    }
+  ]
+}

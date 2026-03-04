@@ -1,0 +1,12 @@
+{
+  "code": "amber-road",
+  "name": "Amber Road",
+  "routeType": "Land",
+  "era": "Ancient",
+  "period": "c. 3000 BCE – 500 CE",
+  "commodities": ["Amber", "Furs", "Honey", "Wax", "Tin", "Iron", "Wine", "Olive oil", "Glassware"],
+  "majorStops": ["Gdańsk (Baltic coast)", "Wrocław", "Brno", "Vienna", "Ljubljana", "Aquileia", "Venice", "Rome"],
+  "significance": "One of Europe's oldest trade routes, connecting Baltic amber sources to Mediterranean civilizations — amber was prized as 'northern gold' by the Romans and Greeks",
+  "description": "The Amber Road was an ancient trade route for the transfer of amber from coastal areas of the North Sea and the Baltic Sea to the Mediterranean. Amber, fossilized tree resin millions of years old, was highly valued in the ancient world for jewelry, medicine, and religious purposes.\n\nThe main route ran from the Baltic coast near modern Gdańsk, south through the Moravian Gate (between the Carpathians and Sudetes), following the March and Danube rivers to the head of the Adriatic at Aquileia. From there, amber was distributed throughout the Roman Empire.\n\nArchaeological evidence shows this route was active as early as 3000 BCE, with Baltic amber found in Mycenaean shaft graves and Egyptian pharaonic tombs. The Romans formalized the route, and Pliny the Elder documented the trade. Germanic and Celtic tribes along the route prospered as intermediaries.",
+  "geojson": "amber-road.geojson"
+}

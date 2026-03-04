@@ -1,0 +1,17 @@
+{
+  "code": "mex-lhr",
+  "name": "Mexico City — London",
+  "airports": [
+    "MEX",
+    "LHR"
+  ],
+  "distanceKm": 8904,
+  "weeklyFlights": 15,
+  "airlines": [
+    "British Airways"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MEX–LHR route between Mexico City and London. Distance: 8,904 km. ~15 weekly flights operated by British Airways.",
+  "geojson": "mex-lhr.geojson"
+}

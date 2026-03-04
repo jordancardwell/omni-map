@@ -1,0 +1,14 @@
+{
+  "code": "chaine-des-puys-limagne-fault-tectonic-arena",
+  "name": "Chaîne des Puys - Limagne fault tectonic arena",
+  "type": "Natural",
+  "country": "France",
+  "yearInscribed": "2018",
+  "criteria": [
+    "(viii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Situated in the centre of France, the property comprises the long Limagne fault, the alignments of the Chaîne des Puys volcanoes and the inverted relief of the Montagne de la Serre. It is an emblematic segment of the West European Rift, created in the aftermath of the formation of the Alps, 35 million years ago. The geological features of the property demonstrate how the continental crust cracks, then collapses, allowing deep magma to rise and cause uplifting at the surface. The property is an exceptional illustration of continental break-up – or rifting – which is one of the five major stages of plate tectonics.",
+  "danger": false,
+  "geojson": "chaine-des-puys-limagne-fault-tectonic-arena.geojson"
+}

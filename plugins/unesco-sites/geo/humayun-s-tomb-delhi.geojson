@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.25056,
+          28.59333
+        ]
+      },
+      "properties": {
+        "code": "humayun-s-tomb-delhi",
+        "name": "Humayun's Tomb, Delhi",
+        "type": "Cultural",
+        "country": "India",
+        "yearInscribed": "1993"
+      }
+    }
+  ]
+}

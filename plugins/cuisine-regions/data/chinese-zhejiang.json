@@ -1,0 +1,34 @@
+{
+  "code": "chinese-zhejiang",
+  "name": "Zhejiang Cuisine (Zhe)",
+  "cuisineFamily": "Chinese (Eight Great)",
+  "description": "Zhejiang cuisine is noted for its fresh, tender flavors and elegant presentation. Using seasonal ingredients from the fertile region around West Lake, it features mellow, non-greasy dishes that highlight the natural taste of premium ingredients.",
+  "signatureDishes": [
+    "Dongpo Pork",
+    "West Lake Fish in Vinegar",
+    "Longjing Shrimp",
+    "Beggar's Chicken"
+  ],
+  "keyIngredients": [
+    "Shaoxing Wine",
+    "Longjing Tea",
+    "Freshwater Fish",
+    "Bamboo Shoots",
+    "Light Soy Sauce"
+  ],
+  "cookingTechniques": [
+    "Quick-frying",
+    "Braising",
+    "Steaming",
+    "Stewing",
+    "Tea-infusing"
+  ],
+  "unescoRecognition": "Hangzhou designated UNESCO City of Gastronomy (2017)",
+  "keyRegions": [
+    "Zhejiang Province",
+    "Hangzhou",
+    "Ningbo",
+    "Shaoxing"
+  ],
+  "geojson": "chinese-zhejiang.geojson"
+}

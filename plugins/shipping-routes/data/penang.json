@@ -1,0 +1,14 @@
+{
+  "code": "penang",
+  "name": "Port of Penang",
+  "country": "Malaysia",
+  "portType": "Multi-Purpose Port",
+  "cargoVolumeMTons": 30,
+  "classification": "Multi-Purpose Port",
+  "itemCategory": "Multi-Purpose Port",
+  "keyRoutes": [
+    "Strait of Malacca Route"
+  ],
+  "description": "Port of Penang in Malaysia. Annual cargo throughput: ~30 million tons. Type: Multi-Purpose Port.",
+  "geojson": "penang.geojson"
+}

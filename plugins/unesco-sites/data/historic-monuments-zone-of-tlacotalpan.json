@@ -1,0 +1,15 @@
+{
+  "code": "historic-monuments-zone-of-tlacotalpan",
+  "name": "Historic Monuments Zone of Tlacotalpan",
+  "type": "Cultural",
+  "country": "Mexico",
+  "yearInscribed": "1998",
+  "criteria": [
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Latin America and the Caribbean",
+  "description": "Tlacotalpan, a Spanish colonial river port on the Gulf coast of Mexico, was founded in the mid-16th century. It has preserved its original urban fabric to a remarkable degree, with wide streets, colonnaded houses in a profusion of styles and colours, and many mature trees in the public open spaces and private gardens.",
+  "danger": false,
+  "geojson": "historic-monuments-zone-of-tlacotalpan.geojson"
+}

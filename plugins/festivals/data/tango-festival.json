@@ -1,0 +1,14 @@
+{
+  "code": "tango-festival",
+  "name": "Buenos Aires Tango Festival",
+  "festivalType": "Cultural",
+  "dateOrSeason": "August",
+  "origin": "Argentine tradition",
+  "estimatedAttendance": "500,000+ visitors",
+  "unescoICH": "Tango inscribed 2009",
+  "traditions": "Tango dance competitions (Mundial de Tango); milongas (dance events); outdoor performances; tango orchestra concerts; dance workshops.",
+  "historicalBackground": "Tango originated in the working-class neighborhoods of Buenos Aires and Montevideo in the late 19th century, blending European, African, and indigenous influences.",
+  "description": "The world's premier tango event, celebrating Argentina's iconic dance with competitions, milongas, and performances across Buenos Aires.",
+  "location": "Buenos Aires, Argentina",
+  "geojson": "tango-festival.geojson"
+}

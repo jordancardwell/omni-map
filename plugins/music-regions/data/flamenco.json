@@ -1,0 +1,29 @@
+{
+  "code": "flamenco",
+  "name": "Flamenco",
+  "region": "Andalusia, Spain",
+  "traditionFamily": "European",
+  "unescoICHStatus": "Inscribed",
+  "instruments": [
+    "Spanish Guitar",
+    "Cajón",
+    "Palmas (Handclaps)",
+    "Castanets",
+    "Vocals"
+  ],
+  "keyArtists": [
+    "Paco de Lucía",
+    "Camarón de la Isla",
+    "Carmen Amaya",
+    "Manolo Sanlúcar",
+    "Estrella Morente"
+  ],
+  "description": "Flamenco is an expressive art form from Andalusia, Spain, encompassing cante (singing), toque (guitar playing), and baile (dance). It draws from Romani, Moorish, Andalusian, and Jewish cultural traditions. Inscribed on the UNESCO Representative List of the Intangible Cultural Heritage in 2010, flamenco is renowned for its emotional intensity and complex rhythmic patterns (compás).",
+  "resources": [
+    {
+      "title": "UNESCO ICH – Flamenco",
+      "url": "https://ich.unesco.org/en/RL/flamenco-00363"
+    }
+  ],
+  "geojson": "flamenco.geojson"
+}

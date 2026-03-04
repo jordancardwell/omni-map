@@ -1,0 +1,17 @@
+{
+  "code": "bwk",
+  "name": "Cold Desert",
+  "group": "B - Arid",
+  "temperatureRange": "Annual mean <18°C; cold winters, warm summers",
+  "precipitationPattern": "Very low; <250mm/year, often as snow in winter",
+  "vegetation": "Sparse shrubland, sagebrush, drought-adapted grasses",
+  "exampleCities": [
+    "Ulaanbaatar",
+    "Lhasa",
+    "Kashgar",
+    "Turpan"
+  ],
+  "description": "Cold desert climate (BWk) combines aridity with cold winters. Found in high-altitude plateaus and continental interiors far from moisture sources. The Gobi Desert, Patagonian steppe, and parts of Central Asia are examples. Temperature extremes between seasons are dramatic.",
+  "typicalWeather": "Clear skies predominate. Summers are warm (25-35°C) but winters are bitterly cold (-15 to -30°C). Precipitation is scant and often falls as snow. Strong winds are common, especially in spring.",
+  "geojson": "bwk.geojson"
+}

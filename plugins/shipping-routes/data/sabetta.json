@@ -1,0 +1,14 @@
+{
+  "code": "sabetta",
+  "name": "Port of Sabetta",
+  "country": "Russia",
+  "portType": "Oil/Gas Terminal",
+  "cargoVolumeMTons": 30,
+  "classification": "Oil/Gas Terminal",
+  "itemCategory": "Oil/Gas Terminal",
+  "keyRoutes": [
+    "Arctic Northern Sea Route"
+  ],
+  "description": "Port of Sabetta in Russia. Annual cargo throughput: ~30 million tons. Type: Oil/Gas Terminal.",
+  "geojson": "sabetta.geojson"
+}

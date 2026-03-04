@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0068,
+          25.3176
+        ]
+      },
+      "properties": {
+        "code": "maha-shivaratri",
+        "name": "Maha Shivaratri",
+        "festivalType": "Religious",
+        "dateOrSeason": "February–March",
+        "location": "Varanasi, India"
+      }
+    }
+  ]
+}

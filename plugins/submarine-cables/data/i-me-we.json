@@ -1,0 +1,20 @@
+{
+  "code": "i-me-we",
+  "name": "I-ME-WE",
+  "capacityTbps": 3.84,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 12100,
+  "yearLaid": 2009,
+  "rfsDate": "2010-02",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Mumbai, India",
+    "Muscat, Oman",
+    "Fujairah, UAE",
+    "Jeddah, Saudi Arabia",
+    "Suez, Egypt",
+    "Marseille, France"
+  ],
+  "description": "India-Middle East-Western Europe cable.",
+  "geojson": "i-me-we.geojson"
+}

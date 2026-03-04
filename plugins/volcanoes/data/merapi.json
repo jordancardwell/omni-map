@@ -1,0 +1,22 @@
+{
+  "code": "merapi",
+  "name": "Mount Merapi",
+  "volcanoType": "Stratovolcano",
+  "status": "Erupting/Recent",
+  "elevation": 2930,
+  "lastEruption": "2023",
+  "vei": 4,
+  "country": "Indonesia",
+  "region": "Java",
+  "location": "Java, Indonesia",
+  "tectonicSetting": "Subduction zone",
+  "hazards": [
+    "Pyroclastic flows",
+    "Lahars",
+    "Ashfall",
+    "Lava domes"
+  ],
+  "eruptionHistory": "One of the most active and dangerous volcanoes in the world. The 2010 eruption killed 353 people. Has erupted regularly since 1548.",
+  "description": "Mount Merapi is the most active volcano in Indonesia and one of the most dangerous in the world. It looms over the city of Yogyakarta, threatening millions of people.",
+  "geojson": "merapi.geojson"
+}

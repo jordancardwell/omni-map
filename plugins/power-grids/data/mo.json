@@ -1,0 +1,22 @@
+{
+  "code": "mo",
+  "name": "Macau",
+  "voltage": "220V",
+  "frequency": "50 Hz",
+  "plugTypes": [
+    "D",
+    "G",
+    "M",
+    "F"
+  ],
+  "plugTypeCount": 4,
+  "plugDescriptions": [
+    "Type D — Three large round pins in triangle (India/South Asia)",
+    "Type G — Three rectangular pins (British style)",
+    "Type M — Three large round pins (South African style)",
+    "Type F — Two round pins + grounding clips (Schuko, German style)"
+  ],
+  "voltageStandard": "220V",
+  "adapterNotes": "Mix of plug types. Bring a universal adapter.",
+  "geojson": "mo.geojson"
+}

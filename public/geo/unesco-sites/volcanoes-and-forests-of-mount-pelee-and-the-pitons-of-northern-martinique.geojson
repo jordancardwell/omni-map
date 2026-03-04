@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1758611111,
+          14.8233027778
+        ]
+      },
+      "properties": {
+        "code": "volcanoes-and-forests-of-mount-pelee-and-the-pitons-of-northern-martinique",
+        "name": "Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique",
+        "type": "Natural",
+        "country": "France",
+        "yearInscribed": "2023"
+      }
+    }
+  ]
+}

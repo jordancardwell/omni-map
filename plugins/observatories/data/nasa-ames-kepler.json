@@ -1,0 +1,22 @@
+{
+  "code": "nasa-ames-kepler",
+  "name": "NASA Ames Research Center (Kepler/TESS)",
+  "country": "United States",
+  "observatoryType": "Space-based",
+  "status": "Operational",
+  "elevation": 12,
+  "aperture": "Kepler: 0.95 m / TESS: 4 × 10 cm",
+  "telescopes": [
+    "Kepler (retired)",
+    "K2 (retired)",
+    "TESS"
+  ],
+  "keyDiscoveries": [
+    "Thousands of exoplanets",
+    "Exoplanet demographics",
+    "TESS transiting planets"
+  ],
+  "location": "NASA Ames Research Center (Kepler/TESS), United States",
+  "description": "Managed Kepler which discovered over 2,600 exoplanets. TESS, now managed jointly, is surveying the entire sky for nearby transiting exoplanets.",
+  "geojson": "nasa-ames-kepler.geojson"
+}

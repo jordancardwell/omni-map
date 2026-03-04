@@ -1,0 +1,21 @@
+{
+  "code": "vainu-bappu",
+  "name": "Vainu Bappu Observatory",
+  "country": "India",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 725,
+  "aperture": "2.3 m",
+  "telescopes": [
+    "Vainu Bappu 2.3m",
+    "1m Carl Zeiss"
+  ],
+  "keyDiscoveries": [
+    "Radial velocity of stars",
+    "Chromospheric studies",
+    "Comet observations"
+  ],
+  "location": "Vainu Bappu Observatory, India",
+  "description": "Indian Institute of Astrophysics observatory in Kavalur, Tamil Nadu. The 2.3m telescope is the largest optical telescope in Asia's developing nations.",
+  "geojson": "vainu-bappu.geojson"
+}

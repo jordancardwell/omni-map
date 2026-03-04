@@ -1,0 +1,13 @@
+{
+  "code": "tundra",
+  "name": "Tundra",
+  "biomeType": "Tundra",
+  "areaKm2": 8000000,
+  "keyCharacteristics": "Treeless Arctic and Antarctic landscapes with permafrost, extreme cold, and brief growing seasons. Low plant diversity but high animal productivity in summer.",
+  "typicalFlora": ["Arctic willow", "Reindeer lichen", "Cotton grass", "Bearberry", "Dwarf birch", "Sphagnum moss"],
+  "typicalFauna": ["Caribou", "Arctic fox", "Polar bear", "Musk ox", "Snowy owl", "Lemming"],
+  "threatLevel": "High",
+  "conservationStatus": "Climate change is warming the Arctic at twice the global rate. Permafrost thaw releases stored carbon and methane. Industrial development (oil, mining) fragments habitat.",
+  "description": "Tundra is Earth's coldest biome, characterized by treeless landscapes, permafrost, and extremely short growing seasons of just 6-10 weeks. Temperatures can drop below -50°C in winter, and even summer temperatures rarely exceed 10°C.\n\nArctic tundra encircles the North Pole across Alaska, Canada, Russia, Greenland, and Scandinavia. Alpine tundra occurs at high elevations on mountains worldwide. Despite harsh conditions, these ecosystems support surprising biodiversity during the brief summer.\n\nTundra soils contain enormous stores of organic carbon frozen in permafrost—an estimated 1,672 billion tonnes. As climate change thaws permafrost, this carbon is released as CO₂ and methane, creating a dangerous positive feedback loop.",
+  "geojson": "tundra.geojson"
+}

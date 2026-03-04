@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4525,
+          -32.3863888889
+        ]
+      },
+      "properties": {
+        "code": "the-emergence-of-modern-human-behaviour-the-pleistocene-occupation-sites-of-sout",
+        "name": "The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa",
+        "type": "Cultural",
+        "country": "South Africa",
+        "yearInscribed": "2024"
+      }
+    }
+  ]
+}

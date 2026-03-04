@@ -1,0 +1,22 @@
+{
+  "code": "apo",
+  "name": "Apache Point Observatory",
+  "country": "United States",
+  "observatoryType": "Optical",
+  "status": "Operational",
+  "elevation": 2788,
+  "aperture": "3.5 m",
+  "telescopes": [
+    "ARC 3.5m",
+    "SDSS 2.5m",
+    "ARCSAT"
+  ],
+  "keyDiscoveries": [
+    "Sloan Digital Sky Survey",
+    "3D galaxy mapping",
+    "Quasar catalogs"
+  ],
+  "location": "Apache Point Observatory, United States",
+  "description": "Home of the Sloan Digital Sky Survey telescope that created the most detailed three-dimensional maps of the universe, cataloging millions of galaxies and quasars.",
+  "geojson": "apo.geojson"
+}

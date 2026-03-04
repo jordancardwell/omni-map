@@ -1,0 +1,17 @@
+{
+  "code": "qa",
+  "name": "Qatar",
+  "avgDownloadMbps": 65.2,
+  "avgUploadMbps": 14.8,
+  "avgLatencyMs": 8,
+  "mobileDownloadMbps": 98.4,
+  "mobileUploadMbps": 16.8,
+  "fixedDownloadMbps": 65.2,
+  "fixedUploadMbps": 14.8,
+  "rank": 63,
+  "speedTier": "Moderate (30–75 Mbps)",
+  "region": "Middle East",
+  "dataYear": 2024,
+  "trendDescription": "Strong mobile 5G. Fixed broadband catching up. ~18% year-over-year growth.",
+  "geojson": "qa.geojson"
+}

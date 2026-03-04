@@ -1,0 +1,15 @@
+{
+  "code": "city-of-vicenza-and-the-palladian-villas-of-the-veneto",
+  "name": "City of Vicenza and the Palladian Villas of the Veneto",
+  "type": "Cultural",
+  "country": "Italy",
+  "yearInscribed": "1994",
+  "criteria": [
+    "(i)",
+    "(ii)"
+  ],
+  "region": "Europe and North America",
+  "description": "Founded in the 2nd century B.C. in northern Italy, Vicenza prospered under Venetian rule from the early 15th to the end of the 18th century. The work of Andrea Palladio (1508–80), based on a detailed study of classical Roman architecture, gives the city its unique appearance. Palladio's urban buildings, as well as his villas, scattered throughout the Veneto region, had a decisive influence on the development of architecture. His work inspired a distinct architectural style known as Palladian, which spread to England and other European countries, and also to North America.",
+  "danger": false,
+  "geojson": "city-of-vicenza-and-the-palladian-villas-of-the-veneto.geojson"
+}

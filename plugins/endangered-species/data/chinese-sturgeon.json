@@ -1,0 +1,19 @@
+{
+  "code": "chinese-sturgeon",
+  "name": "Chinese Sturgeon",
+  "scientificName": "Acipenser sinensis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Fish",
+  "populationEstimate": "~100 breeding adults",
+  "populationTrend": "Decreasing",
+  "habitatType": "River and coastal waters",
+  "threats": [
+    "Dam construction",
+    "Water pollution",
+    "Overfishing",
+    "Ship traffic"
+  ],
+  "conservationEfforts": "Gezhouba Dam hatchery releases millions of juveniles annually. Yangtze fishing ban since 2021. Research into artificial spawning techniques.",
+  "description": "One of the oldest surviving fish species at 140 million years old. They migrate from the ocean to the Yangtze River to spawn, but the Gezhouba Dam has blocked access to historical spawning grounds since 1981.",
+  "geojson": "chinese-sturgeon.geojson"
+}

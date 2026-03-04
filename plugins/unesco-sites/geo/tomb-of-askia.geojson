@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04456,
+          16.2898
+        ]
+      },
+      "properties": {
+        "code": "tomb-of-askia",
+        "name": "Tomb of Askia",
+        "type": "Cultural",
+        "country": "Mali",
+        "yearInscribed": "2004"
+      }
+    }
+  ]
+}

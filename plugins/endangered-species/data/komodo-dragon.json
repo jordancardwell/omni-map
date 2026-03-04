@@ -1,0 +1,19 @@
+{
+  "code": "komodo-dragon",
+  "name": "Komodo Dragon",
+  "scientificName": "Varanus komodoensis",
+  "iucnStatus": "Endangered",
+  "taxonomicGroup": "Reptiles",
+  "populationEstimate": "~3,000 individuals",
+  "populationTrend": "Stable",
+  "habitatType": "Tropical savanna and forest",
+  "threats": [
+    "Climate change",
+    "Habitat loss",
+    "Volcanic activity",
+    "Prey depletion"
+  ],
+  "conservationEfforts": "Komodo National Park protects the majority of the population. Strict visitor management limits tourism impact. Ranger patrols prevent poaching of deer (the dragon's main prey).",
+  "description": "The world's largest living lizard, reaching 3 meters and 70 kg. They have venomous bites and can detect carrion from 9.5 km away. Found only on a few Indonesian islands.",
+  "geojson": "komodo-dragon.geojson"
+}

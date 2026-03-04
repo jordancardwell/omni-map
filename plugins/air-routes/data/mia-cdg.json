@@ -1,0 +1,17 @@
+{
+  "code": "mia-cdg",
+  "name": "Miami — Paris",
+  "airports": [
+    "MIA",
+    "CDG"
+  ],
+  "distanceKm": 7371,
+  "weeklyFlights": 30,
+  "airlines": [
+    "Air France"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "MIA–CDG route between Miami and Paris. Distance: 7,371 km. ~30 weekly flights operated by Air France.",
+  "geojson": "mia-cdg.geojson"
+}

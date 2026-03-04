@@ -1,0 +1,22 @@
+{
+  "code": "amazon-rainforest",
+  "name": "Amazon Rainforest",
+  "country": "Brazil, Peru, Colombia, Venezuela, Ecuador, Bolivia, Guyana, Suriname, French Guiana",
+  "forestType": "Tropical",
+  "areaKm2": 5500000,
+  "intactness": "Moderately Degraded",
+  "changeSince2000": "-10.3% (approximately 567,000 km² lost)",
+  "annualLossRate": "0.4–0.5% per year",
+  "threats": [
+    "Cattle ranching",
+    "Soybean agriculture",
+    "Illegal logging",
+    "Mining",
+    "Infrastructure development",
+    "Wildfires",
+    "Climate change"
+  ],
+  "conservationStatus": "Mixed protection. ~27% under formal protection (national parks, indigenous reserves). Brazilian Forest Code requires 80% forest retention on private land. ARPA program protects 60 million hectares. Increasing deforestation pressure since 2019, though recent policy shifts have slowed losses.",
+  "description": "The **Amazon Rainforest** is the world's largest tropical rainforest, spanning nine countries across the Amazon Basin. It contains approximately 10% of all species on Earth and produces roughly 6% of the world's oxygen.\n\n### Key Statistics\n- **Biodiversity**: ~80,000 plant species, 2,500+ fish species, 1,500+ bird species\n- **Carbon storage**: Holds ~150–200 billion tonnes of carbon\n- **Indigenous peoples**: Home to ~400 indigenous groups\n- **River system**: Amazon River carries 20% of the world's freshwater\n\n### Deforestation Trends\nThe IFL 2020 analysis shows significant fragmentation, particularly along the \"arc of deforestation\" in the southern and eastern edges. Tipping point research suggests 20–25% total deforestation could trigger savannification of large areas.",
+  "geojson": "amazon-rainforest.geojson"
+}

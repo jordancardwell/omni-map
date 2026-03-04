@@ -1,0 +1,16 @@
+{
+  "code": "historic-centre-of-saint-petersburg-and-related-groups-of-monuments",
+  "name": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+  "type": "Cultural",
+  "country": "Russian Federation",
+  "yearInscribed": "1990",
+  "criteria": [
+    "(i)",
+    "(ii)",
+    "(iv)"
+  ],
+  "region": "Europe and North America",
+  "description": "The 'Venice of the North', with its numerous canals and more than 400 bridges, is the result of a vast urban project begun in 1703 under Peter the Great. Later known as Leningrad (in the former USSR), the city is closely associated with the October Revolution. Its architectural heritage reconciles the very different Baroque and pure neoclassical styles, as can be seen in the Admiralty, the Winter Palace, the Marble Palace and the Hermitage.",
+  "danger": false,
+  "geojson": "historic-centre-of-saint-petersburg-and-related-groups-of-monuments.geojson"
+}

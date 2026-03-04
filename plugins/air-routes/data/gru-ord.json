@@ -1,0 +1,17 @@
+{
+  "code": "gru-ord",
+  "name": "São Paulo — Chicago",
+  "airports": [
+    "GRU",
+    "ORD"
+  ],
+  "distanceKm": 8428,
+  "weeklyFlights": 15,
+  "airlines": [
+    "United"
+  ],
+  "classification": "Standard Frequency",
+  "itemCategory": "Standard Frequency",
+  "description": "GRU–ORD route between São Paulo and Chicago. Distance: 8,428 km. ~15 weekly flights operated by United.",
+  "geojson": "gru-ord.geojson"
+}

@@ -1,0 +1,538 @@
+[
+  {
+    "code": "achaemenid-persia",
+    "name": "Achaemenid Persian Empire",
+    "period": "c. 550–330 BCE",
+    "region": "Middle East",
+    "type": "Civilization",
+    "writingSystem": "Old Persian cuneiform",
+    "majorAchievements": [
+      "Royal Road postal system",
+      "Satrapy governance",
+      "Persepolis",
+      "Zoroastrianism",
+      "Qanat irrigation",
+      "Human rights (Cyrus Cylinder)"
+    ],
+    "keyCities": [
+      "Persepolis",
+      "Susa",
+      "Pasargadae",
+      "Ecbatana",
+      "Babylon"
+    ],
+    "description": "The Achaemenid Empire, founded by Cyrus the Great, was the largest empire the world had yet seen, stretching from Egypt to the Indus Valley. It pioneered effective governance of diverse peoples through the satrapy system, built the Royal Road for rapid communication, and promoted cultural tolerance. The Cyrus Cylinder is sometimes considered the first declaration of human rights.",
+    "geojson": "achaemenid-persia.geojson"
+  },
+  {
+    "code": "ancient-china",
+    "name": "Ancient China (Shang/Zhou)",
+    "period": "c. 1600–256 BCE",
+    "region": "East Asia",
+    "type": "Civilization",
+    "writingSystem": "Oracle bone script / Chinese characters",
+    "majorAchievements": [
+      "Bronze casting",
+      "Oracle bone divination",
+      "Mandate of Heaven concept",
+      "Iron smelting",
+      "Crossbow",
+      "Confucianism and Daoism"
+    ],
+    "keyCities": [
+      "Anyang",
+      "Zhengzhou",
+      "Luoyang",
+      "Hao",
+      "Qufu"
+    ],
+    "description": "Ancient China's Shang dynasty established the first verifiable Chinese state with sophisticated bronze work and the earliest Chinese writing on oracle bones. The succeeding Zhou dynasty, the longest-lasting in Chinese history, saw the development of foundational philosophical traditions including Confucianism, Daoism, and Legalism during the intellectually vibrant Hundred Schools of Thought period.",
+    "geojson": "ancient-china.geojson"
+  },
+  {
+    "code": "ancient-egypt",
+    "name": "Ancient Egypt",
+    "period": "c. 3100–30 BCE",
+    "region": "Africa",
+    "type": "Civilization",
+    "writingSystem": "Hieroglyphics",
+    "majorAchievements": [
+      "Pyramids of Giza",
+      "Mummification",
+      "Papyrus writing",
+      "Advanced medicine",
+      "Monumental architecture",
+      "Calendar system"
+    ],
+    "keyCities": [
+      "Memphis",
+      "Thebes",
+      "Alexandria",
+      "Heliopolis",
+      "Amarna"
+    ],
+    "description": "Ancient Egypt flourished along the Nile River for over three millennia, producing one of the most iconic civilizations in human history. Egyptian achievements in architecture, medicine, writing, and governance influenced cultures across the Mediterranean and beyond. The civilization's monuments, including the Great Pyramids and the Sphinx, remain among the most recognizable structures ever built.",
+    "geojson": "ancient-egypt.geojson"
+  },
+  {
+    "code": "ancient-greece",
+    "name": "Ancient Greece",
+    "period": "c. 800–146 BCE",
+    "region": "Europe",
+    "type": "Civilization",
+    "writingSystem": "Greek alphabet",
+    "majorAchievements": [
+      "Democracy",
+      "Philosophy",
+      "Olympic Games",
+      "Theater",
+      "Western mathematics",
+      "Historiography"
+    ],
+    "keyCities": [
+      "Athens",
+      "Sparta",
+      "Corinth",
+      "Thebes",
+      "Delphi"
+    ],
+    "description": "Ancient Greece is regarded as the foundational civilization of Western culture. Greek city-states pioneered democracy, produced towering philosophical traditions through Socrates, Plato, and Aristotle, and made groundbreaking advances in mathematics, science, theater, and art. Greek influence spread throughout the Mediterranean and was further amplified by Alexander the Great's conquests.",
+    "geojson": "ancient-greece.geojson"
+  },
+  {
+    "code": "ancient-rome",
+    "name": "Ancient Rome",
+    "period": "c. 753 BCE – 476 CE",
+    "region": "Europe",
+    "type": "Civilization",
+    "writingSystem": "Latin alphabet",
+    "majorAchievements": [
+      "Roman law",
+      "Aqueducts",
+      "Road network",
+      "Concrete architecture",
+      "Republican government",
+      "Pax Romana"
+    ],
+    "keyCities": [
+      "Rome",
+      "Pompeii",
+      "Carthage",
+      "Constantinople",
+      "Londinium"
+    ],
+    "description": "Ancient Rome grew from a small city-state on the Italian peninsula to become the largest empire in the ancient Western world. Roman innovations in law, engineering, architecture, and governance formed the backbone of Western civilization. The Roman road network, aqueducts, and legal system established patterns that persisted for centuries after the empire's fall.",
+    "geojson": "ancient-rome.geojson"
+  },
+  {
+    "code": "axum",
+    "name": "Kingdom of Axum",
+    "period": "c. 100–940 CE",
+    "region": "Africa",
+    "type": "Civilization",
+    "writingSystem": "Ge'ez script",
+    "majorAchievements": [
+      "Obelisk stelae",
+      "Early adoption of Christianity",
+      "Coinage system",
+      "International trade hub",
+      "Ge'ez literature",
+      "Terraced agriculture"
+    ],
+    "keyCities": [
+      "Axum",
+      "Adulis",
+      "Matara",
+      "Yeha",
+      "Hawulti"
+    ],
+    "description": "The Kingdom of Axum (also Aksum) was a major trading empire centered in modern-day Ethiopia and Eritrea. At its height, it was considered one of the four great powers of the ancient world alongside Rome, Persia, and China. Axum was among the first states to adopt Christianity as an official religion and developed its own writing system, coinage, and monumental architecture including towering obelisks.",
+    "geojson": "axum.geojson"
+  },
+  {
+    "code": "great-zimbabwe",
+    "name": "Great Zimbabwe",
+    "period": "c. 1100–1450 CE",
+    "region": "Africa",
+    "type": "Civilization",
+    "writingSystem": "None (oral tradition)",
+    "majorAchievements": [
+      "Dry-stone architecture",
+      "Gold and ivory trade",
+      "Regional political center",
+      "Sophisticated social hierarchy",
+      "Cattle herding economy",
+      "Long-distance trade networks"
+    ],
+    "keyCities": [
+      "Great Zimbabwe",
+      "Mapungubwe",
+      "Khami",
+      "Danangombe"
+    ],
+    "description": "Great Zimbabwe was the capital of a thriving kingdom in southeastern Africa, known for its impressive dry-stone walls built without mortar. The ruins of the Great Enclosure represent the largest ancient stone structure south of the Sahara. The kingdom controlled the gold and ivory trade between the interior of Africa and the Swahili coast, connecting to Indian Ocean trade networks.",
+    "geojson": "great-zimbabwe.geojson"
+  },
+  {
+    "code": "inca",
+    "name": "Inca Empire",
+    "period": "c. 1438–1533 CE",
+    "region": "South America",
+    "type": "Civilization",
+    "writingSystem": "Quipu (knotted string records)",
+    "majorAchievements": [
+      "Machu Picchu",
+      "Road network (Qhapaq Ñan)",
+      "Terrace farming",
+      "Suspension bridges",
+      "Freeze-drying food preservation",
+      "Brain surgery (trepanation)"
+    ],
+    "keyCities": [
+      "Cusco",
+      "Machu Picchu",
+      "Quito",
+      "Chan Chan",
+      "Ollantaytambo"
+    ],
+    "description": "The Inca Empire was the largest empire in pre-Columbian America, stretching along the western coast of South America. Despite lacking writing, wheeled vehicles, or iron tools, the Inca built an extraordinary civilization with a road network spanning over 40,000 km, sophisticated agricultural terracing, and monumental stone architecture. Their engineering achievements at sites like Machu Picchu continue to astound modern observers.",
+    "geojson": "inca.geojson"
+  },
+  {
+    "code": "indus-valley",
+    "name": "Indus Valley Civilization",
+    "period": "c. 3300–1300 BCE",
+    "region": "South Asia",
+    "type": "Civilization",
+    "writingSystem": "Indus script (undeciphered)",
+    "majorAchievements": [
+      "Urban planning",
+      "Standardized weights and measures",
+      "Advanced drainage systems",
+      "Brick architecture",
+      "Maritime trade",
+      "Dental surgery"
+    ],
+    "keyCities": [
+      "Mohenjo-daro",
+      "Harappa",
+      "Lothal",
+      "Dholavira",
+      "Rakhigarhi"
+    ],
+    "description": "The Indus Valley Civilization, also known as the Harappan Civilization, was one of the world's earliest urban cultures. Spanning parts of modern Pakistan and northwestern India, it featured remarkably planned cities with grid layouts, sophisticated sanitation systems, and standardized construction. Its writing system remains undeciphered, leaving many mysteries about its social organization.",
+    "geojson": "indus-valley.geojson"
+  },
+  {
+    "code": "khmer",
+    "name": "Khmer Empire",
+    "period": "c. 802–1431 CE",
+    "region": "Southeast Asia",
+    "type": "Civilization",
+    "writingSystem": "Khmer script (Pallava-derived)",
+    "majorAchievements": [
+      "Angkor Wat",
+      "Hydraulic engineering",
+      "Bayon temple faces",
+      "Massive reservoir systems",
+      "Hindu-Buddhist synthesis",
+      "Urban planning"
+    ],
+    "keyCities": [
+      "Angkor",
+      "Koh Ker",
+      "Banteay Chhmar",
+      "Preah Vihear",
+      "Sambor Prei Kuk"
+    ],
+    "description": "The Khmer Empire, centered in modern-day Cambodia, built one of the most impressive civilizations in Southeast Asia. Its capital at Angkor was one of the largest preindustrial cities in the world, supported by an elaborate hydraulic system of reservoirs and canals. Angkor Wat, the empire's crowning achievement, remains the largest religious monument ever constructed.",
+    "geojson": "khmer.geojson"
+  },
+  {
+    "code": "maya",
+    "name": "Maya Civilization",
+    "period": "c. 2000 BCE – 1500 CE",
+    "region": "Mesoamerica",
+    "type": "Civilization",
+    "writingSystem": "Maya hieroglyphs",
+    "majorAchievements": [
+      "Calendar system",
+      "Concept of zero",
+      "Astronomical observations",
+      "Stepped pyramids",
+      "Hieroglyphic writing",
+      "Advanced agriculture"
+    ],
+    "keyCities": [
+      "Tikal",
+      "Chichén Itzá",
+      "Palenque",
+      "Copán",
+      "Calakmul"
+    ],
+    "description": "The Maya civilization of Mesoamerica developed one of the most sophisticated writing systems in the pre-Columbian Americas, along with remarkable achievements in mathematics, astronomy, and architecture. Maya city-states were connected through trade networks and shared cultural practices while maintaining distinct political identities. Their calendar system and astronomical knowledge were among the most precise in the ancient world.",
+    "geojson": "maya.geojson"
+  },
+  {
+    "code": "mesopotamia",
+    "name": "Mesopotamia",
+    "period": "c. 3500–539 BCE",
+    "region": "Middle East",
+    "type": "Civilization",
+    "writingSystem": "Cuneiform",
+    "majorAchievements": [
+      "Invention of writing",
+      "Code of Hammurabi",
+      "Irrigation systems",
+      "Wheel invention",
+      "Base-60 mathematics",
+      "Ziggurats"
+    ],
+    "keyCities": [
+      "Ur",
+      "Uruk",
+      "Babylon",
+      "Nineveh",
+      "Akkad"
+    ],
+    "description": "Mesopotamia, the 'land between rivers' (Tigris and Euphrates), is often called the cradle of civilization. It gave rise to successive cultures including the Sumerians, Akkadians, Babylonians, and Assyrians. Mesopotamians invented cuneiform writing, developed advanced irrigation, and created some of humanity's earliest legal codes.",
+    "geojson": "mesopotamia.geojson"
+  },
+  {
+    "code": "minoan",
+    "name": "Minoan Civilization",
+    "period": "c. 2700–1450 BCE",
+    "region": "Europe",
+    "type": "Civilization",
+    "writingSystem": "Linear A (undeciphered) / Linear B",
+    "majorAchievements": [
+      "Palace complexes",
+      "Fresco painting",
+      "Maritime trade network",
+      "Indoor plumbing",
+      "Bull-leaping ceremonies",
+      "Advanced metalwork"
+    ],
+    "keyCities": [
+      "Knossos",
+      "Phaistos",
+      "Malia",
+      "Zakros",
+      "Akrotiri"
+    ],
+    "description": "The Minoan civilization on the island of Crete was the first advanced civilization in Europe. Named after the mythical King Minos, the Minoans built elaborate palace complexes, developed two writing systems, and established a vast maritime trade network across the eastern Mediterranean. Their vibrant frescoes and sophisticated art influenced the later Mycenaean civilization on mainland Greece.",
+    "geojson": "minoan.geojson"
+  },
+  {
+    "code": "mycenaean",
+    "name": "Mycenaean Civilization",
+    "period": "c. 1600–1100 BCE",
+    "region": "Europe",
+    "type": "Civilization",
+    "writingSystem": "Linear B",
+    "majorAchievements": [
+      "Cyclopean masonry",
+      "Lion Gate architecture",
+      "Shaft grave burial",
+      "Bronze armor and weapons",
+      "Palatial administration",
+      "Maritime expansion"
+    ],
+    "keyCities": [
+      "Mycenae",
+      "Tiryns",
+      "Pylos",
+      "Thebes",
+      "Orchomenos"
+    ],
+    "description": "The Mycenaean civilization was the last phase of the Bronze Age in ancient Greece, and the historical setting of the Homeric epics. Known for their fortified palace complexes, imposing Cyclopean walls, and rich shaft graves filled with gold, the Mycenaeans dominated the Aegean world and traded extensively across the Mediterranean. Their collapse around 1100 BCE ushered in the Greek Dark Ages.",
+    "geojson": "mycenaean.geojson"
+  },
+  {
+    "code": "norte-chico",
+    "name": "Norte Chico (Caral-Supe)",
+    "period": "c. 3000–1800 BCE",
+    "region": "South America",
+    "type": "Civilization",
+    "writingSystem": "Quipu (knotted string records)",
+    "majorAchievements": [
+      "Monumental architecture",
+      "Irrigation agriculture",
+      "Quipu record keeping",
+      "Complex society without ceramics",
+      "Textile production",
+      "Earliest urban centers in the Americas"
+    ],
+    "keyCities": [
+      "Caral",
+      "Áspero",
+      "Bandurria",
+      "Huaricanga"
+    ],
+    "description": "Norte Chico (also known as Caral-Supe) is the oldest known civilization in the Americas, predating the Olmec by nearly two millennia. Located along the arid coast of central Peru, it developed monumental platform mounds, sunken circular plazas, and complex irrigation systems. Remarkably, this civilization flourished without pottery or writing in the conventional sense, instead using quipu for record keeping.",
+    "geojson": "norte-chico.geojson"
+  },
+  {
+    "code": "olmec",
+    "name": "Olmec Civilization",
+    "period": "c. 1500–400 BCE",
+    "region": "Mesoamerica",
+    "type": "Civilization",
+    "writingSystem": "Olmec hieroglyphs (proto-writing)",
+    "majorAchievements": [
+      "Colossal stone heads",
+      "Mesoamerican ballgame",
+      "Long Count calendar origins",
+      "Jade carving",
+      "Urban ceremonial centers",
+      "Rubber processing"
+    ],
+    "keyCities": [
+      "San Lorenzo",
+      "La Venta",
+      "Tres Zapotes",
+      "Laguna de los Cerros"
+    ],
+    "description": "The Olmec are often regarded as the 'mother culture' of Mesoamerica, establishing many cultural patterns adopted by later civilizations. They are best known for their massive basalt head sculptures, some weighing over 20 tons. The Olmec developed early forms of writing, a complex calendar, and the ceremonial ballgame that would become central to Mesoamerican cultures for millennia.",
+    "geojson": "olmec.geojson"
+  },
+  {
+    "code": "phoenician",
+    "name": "Phoenician Civilization",
+    "period": "c. 1500–300 BCE",
+    "region": "Middle East",
+    "type": "Civilization",
+    "writingSystem": "Phoenician alphabet",
+    "majorAchievements": [
+      "Alphabet invention",
+      "Maritime navigation",
+      "Purple dye (Tyrian purple)",
+      "Glass manufacturing",
+      "Colonial network",
+      "Circumnavigation of Africa"
+    ],
+    "keyCities": [
+      "Tyre",
+      "Sidon",
+      "Byblos",
+      "Carthage",
+      "Berytus"
+    ],
+    "description": "The Phoenicians were master seafarers and traders based along the coast of modern-day Lebanon. Their greatest legacy is the Phoenician alphabet, the ancestor of virtually all modern alphabets including Greek, Latin, Arabic, and Hebrew. Phoenician merchants established trading colonies across the Mediterranean, including Carthage, which would grow to rival Rome itself.",
+    "geojson": "phoenician.geojson"
+  },
+  {
+    "code": "site-angkor-wat",
+    "name": "Angkor Wat",
+    "period": "c. 1113–1150 CE",
+    "region": "Southeast Asia",
+    "type": "Archaeological Site",
+    "writingSystem": "Khmer script",
+    "majorAchievements": [
+      "Largest religious monument in the world",
+      "Bas-relief galleries",
+      "Astronomical alignment",
+      "Moat and water management"
+    ],
+    "keyCities": [
+      "Angkor"
+    ],
+    "description": "Angkor Wat is the largest religious monument in the world, originally built as a Hindu temple dedicated to Vishnu and gradually transformed into a Buddhist site. Its five lotus-shaped towers, extensive bas-reliefs depicting scenes from Hindu mythology, and massive moat represent the pinnacle of Khmer architecture. The temple complex covers over 160 hectares.",
+    "geojson": "site-angkor-wat.geojson"
+  },
+  {
+    "code": "site-giza",
+    "name": "Pyramids of Giza",
+    "period": "c. 2580–2510 BCE",
+    "region": "Africa",
+    "type": "Archaeological Site",
+    "writingSystem": "Hieroglyphics",
+    "majorAchievements": [
+      "Great Pyramid (one of Seven Wonders)",
+      "Precise astronomical alignment",
+      "Massive limestone construction",
+      "The Great Sphinx"
+    ],
+    "keyCities": [
+      "Giza"
+    ],
+    "description": "The Pyramids of Giza, located on the outskirts of modern Cairo, are the most iconic monuments of Ancient Egypt and the only surviving wonder of the ancient world. The Great Pyramid of Khufu stood as the tallest human-made structure for nearly 4,000 years. The precision of their construction — aligned to within fractions of a degree to true north — continues to inspire awe and scholarly debate.",
+    "geojson": "site-giza.geojson"
+  },
+  {
+    "code": "site-gobekli-tepe",
+    "name": "Göbekli Tepe",
+    "period": "c. 9500–8000 BCE",
+    "region": "Middle East",
+    "type": "Archaeological Site",
+    "writingSystem": "Pre-literate",
+    "majorAchievements": [
+      "Oldest known monumental architecture",
+      "Carved T-shaped pillars",
+      "Ritual gathering site",
+      "Pre-agricultural construction"
+    ],
+    "keyCities": [
+      "Göbekli Tepe"
+    ],
+    "description": "Göbekli Tepe in southeastern Turkey is the world's oldest known monumental structure, predating Stonehenge by 6,000 years. Its massive carved pillars, arranged in circles, were built by hunter-gatherers before the advent of agriculture, challenging the conventional view that permanent settlements and farming were prerequisites for monumental construction.",
+    "geojson": "site-gobekli-tepe.geojson"
+  },
+  {
+    "code": "site-machu-picchu",
+    "name": "Machu Picchu",
+    "period": "c. 1450–1572 CE",
+    "region": "South America",
+    "type": "Archaeological Site",
+    "writingSystem": "Quipu",
+    "majorAchievements": [
+      "Mountain-top citadel",
+      "Dry-stone polished walls",
+      "Agricultural terraces",
+      "Intihuatana ritual stone"
+    ],
+    "keyCities": [
+      "Machu Picchu"
+    ],
+    "description": "Machu Picchu, perched at 2,430 meters in the Peruvian Andes, is the most famous archaeological site in South America. Built as a royal estate for the Inca emperor Pachacuti, its precisely cut stone walls, terraced fields, and integration with the dramatic mountain landscape showcase the pinnacle of Inca engineering. The site was unknown to the outside world until Hiram Bingham's 1911 expedition.",
+    "geojson": "site-machu-picchu.geojson"
+  },
+  {
+    "code": "site-mohenjo-daro",
+    "name": "Mohenjo-daro",
+    "period": "c. 2500–1900 BCE",
+    "region": "South Asia",
+    "type": "Archaeological Site",
+    "writingSystem": "Indus script",
+    "majorAchievements": [
+      "Great Bath complex",
+      "Grid-planned streets",
+      "Advanced sewerage system",
+      "Standardized brick construction"
+    ],
+    "keyCities": [
+      "Mohenjo-daro"
+    ],
+    "description": "Mohenjo-daro, meaning 'Mound of the Dead', was one of the largest settlements of the Indus Valley Civilization. Located in modern-day Sindh, Pakistan, its ruins reveal remarkably sophisticated urban planning with a grid street layout, advanced drainage systems, and the Great Bath — one of the earliest known public water structures. The city may have housed up to 40,000 people at its peak.",
+    "geojson": "site-mohenjo-daro.geojson"
+  },
+  {
+    "code": "site-persepolis",
+    "name": "Persepolis",
+    "period": "c. 515–330 BCE",
+    "region": "Middle East",
+    "type": "Archaeological Site",
+    "writingSystem": "Old Persian cuneiform",
+    "majorAchievements": [
+      "Gate of All Nations",
+      "Apadana audience hall",
+      "Multi-cultural relief carvings",
+      "Monumental terrace platform"
+    ],
+    "keyCities": [
+      "Persepolis"
+    ],
+    "description": "Persepolis was the ceremonial capital of the Achaemenid Persian Empire, built on a massive stone terrace by Darius I and his successors. Its grand staircases, audience halls, and detailed relief carvings depicting tribute-bearing delegations from across the empire provide an unparalleled record of ancient Persian artistic achievement. Alexander the Great burned the complex in 330 BCE.",
+    "geojson": "site-persepolis.geojson"
+  }
+]

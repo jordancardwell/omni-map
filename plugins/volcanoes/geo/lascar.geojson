@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-67.73,-23.37]},"properties":{"code":"lascar","name":"Láscar","volcanoType":"Stratovolcano","status":"Historically Active","elevation":5592,"lastEruption":"2007","vei":4}}]}

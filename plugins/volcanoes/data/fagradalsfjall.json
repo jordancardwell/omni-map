@@ -1,0 +1,20 @@
+{
+  "code": "fagradalsfjall",
+  "name": "Fagradalsfjall",
+  "volcanoType": "Fissure vent",
+  "status": "Erupting/Recent",
+  "elevation": 385,
+  "lastEruption": "2024",
+  "vei": 1,
+  "country": "Iceland",
+  "region": "Reykjanes",
+  "location": "Reykjanes, Iceland",
+  "tectonicSetting": "Divergent boundary",
+  "hazards": [
+    "Lava flows",
+    "Volcanic gases"
+  ],
+  "eruptionHistory": "Series of eruptions beginning March 2021 after ~800 years of dormancy on the Reykjanes Peninsula. Multiple eruptions in 2021, 2022, 2023, and 2024.",
+  "description": "Fagradalsfjall marked the beginning of a new volcanic era on the Reykjanes Peninsula. The accessible eruptions near Reykjavik attracted hundreds of thousands of visitors.",
+  "geojson": "fagradalsfjall.geojson"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ma-gi-cable",
+  "name": "MA-GI Cable",
+  "capacityTbps": 3,
+  "capacityTier": "Standard (<5 Tbps)",
+  "lengthKm": 204,
+  "yearLaid": 2022,
+  "rfsDate": "2020-06",
+  "owner": "Maroc Telecom",
+  "landingPoints": [
+    "Tangier, Morocco",
+    "Gibraltar"
+  ],
+  "description": "MA-GI Cable connecting Tangier to Gibraltar along the West African coast.",
+  "geojson": "ma-gi-cable.geojson"
+}

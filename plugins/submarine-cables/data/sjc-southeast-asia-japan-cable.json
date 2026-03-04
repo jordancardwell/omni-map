@@ -1,0 +1,20 @@
+{
+  "code": "sjc-southeast-asia-japan-cable",
+  "name": "SJC (Southeast Asia-Japan Cable)",
+  "capacityTbps": 28,
+  "capacityTier": "High (20–100 Tbps)",
+  "lengthKm": 8900,
+  "yearLaid": 2012,
+  "rfsDate": "2013-06",
+  "owner": "Consortium",
+  "landingPoints": [
+    "Singapore",
+    "Hong Kong, China",
+    "Tokyo, Japan",
+    "Manila, Philippines",
+    "Shantou, China",
+    "Brunei"
+  ],
+  "description": "Southeast Asia-Japan Cable system connecting major Asian markets.",
+  "geojson": "sjc-southeast-asia-japan-cable.geojson"
+}

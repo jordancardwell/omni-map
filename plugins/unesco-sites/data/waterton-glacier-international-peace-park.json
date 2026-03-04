@@ -1,0 +1,15 @@
+{
+  "code": "waterton-glacier-international-peace-park",
+  "name": "Waterton Glacier International Peace Park",
+  "type": "Natural",
+  "country": "Canada, United States of America",
+  "yearInscribed": "1995",
+  "criteria": [
+    "(vii)",
+    "(ix)"
+  ],
+  "region": "Europe and North America",
+  "description": "In 1932 Waterton Lakes National Park (Alberta, Canada) was combined with the Glacier National Park (Montana, United States) to form the world's first International Peace Park. Situated on the border between the two countries and offering outstanding scenery, the park is exceptionally rich in plant and mammal species as well as prairie, forest, and alpine and glacial features.",
+  "danger": false,
+  "geojson": "waterton-glacier-international-peace-park.geojson"
+}

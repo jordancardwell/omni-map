@@ -1,0 +1,40 @@
+{
+  "code": "utc+2",
+  "name": "Eastern European Time",
+  "nativeName": "UTC+02:00",
+  "utcOffset": "UTC+02:00",
+  "utcOffsetHours": 2,
+  "offsetGroup": "4. Central (UTC±0 to +2)",
+  "ianaNames": [
+    "Europe/Athens",
+    "Africa/Cairo",
+    "Africa/Johannesburg",
+    "Europe/Helsinki",
+    "Europe/Bucharest"
+  ],
+  "countries": [
+    "Greece",
+    "Egypt",
+    "South Africa",
+    "Finland",
+    "Romania",
+    "Bulgaria",
+    "Ukraine",
+    "Israel",
+    "Lebanon",
+    "Jordan",
+    "Libya",
+    "Mozambique",
+    "Zimbabwe",
+    "Zambia",
+    "Botswana",
+    "Namibia",
+    "Democratic Republic of the Congo (east)"
+  ],
+  "dstRules": "European countries observe DST as EEST (UTC+3 in summer); Israel uses IDT; African countries generally do not",
+  "description": "Spans from Scandinavia through Eastern Europe to southern Africa. This zone bridges three continents, covering major cities like Athens, Cairo, Helsinki, Johannesburg, and Bucharest. South Africa, the largest economy in Africa, operates on this time year-round.",
+  "speakers": {
+    "total": 0
+  },
+  "geojson": "utc+2.geojson"
+}

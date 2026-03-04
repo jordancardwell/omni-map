@@ -1,0 +1,18 @@
+{
+  "code": "african-elephant-forest",
+  "name": "African Forest Elephant",
+  "scientificName": "Loxodonta cyclotis",
+  "iucnStatus": "Critically Endangered",
+  "taxonomicGroup": "Mammals",
+  "populationEstimate": "~100,000 individuals",
+  "populationTrend": "Decreasing",
+  "habitatType": "Tropical rainforest",
+  "threats": [
+    "Poaching for ivory",
+    "Habitat loss",
+    "Bushmeat hunting"
+  ],
+  "conservationEfforts": "CITES ivory trade ban. Central African Forest Initiative funds habitat protection. Anti-poaching patrols deployed in key forest areas.",
+  "description": "Smaller than savanna elephants with straighter, thinner tusks and rounder ears. They play a crucial role as forest gardeners, dispersing seeds through their dung and creating clearings.",
+  "geojson": "african-elephant-forest.geojson"
+}

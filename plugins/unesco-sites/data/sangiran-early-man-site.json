@@ -1,0 +1,14 @@
+{
+  "code": "sangiran-early-man-site",
+  "name": "Sangiran Early Man Site",
+  "type": "Cultural",
+  "country": "Indonesia",
+  "yearInscribed": "1996",
+  "criteria": [
+    "(iii)"
+  ],
+  "region": "Asia and the Pacific",
+  "description": "Excavations here from 1936 to 1941 led to the discovery of the first hominid fossil at this site. Later, 50 fossils of Meganthropus palaeo and Pithecanthropus erectus/Homo erectus were found – half of all the world's known hominid fossils. Inhabited for the past one and a half million years, Sangiran is one of the key sites for the understanding of human evolution.",
+  "danger": false,
+  "geojson": "sangiran-early-man-site.geojson"
+}

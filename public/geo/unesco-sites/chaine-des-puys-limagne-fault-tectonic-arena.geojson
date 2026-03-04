@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9651111111,
+          45.7793888889
+        ]
+      },
+      "properties": {
+        "code": "chaine-des-puys-limagne-fault-tectonic-arena",
+        "name": "Chaîne des Puys - Limagne fault tectonic arena",
+        "type": "Natural",
+        "country": "France",
+        "yearInscribed": "2018"
+      }
+    }
+  ]
+}
