@@ -146,15 +146,20 @@ function MapPageContent() {
   // Sync active overlays to URL query params
   useEffect(() => {
     if (!initializedRef.current) return;
-    const codes = [...allActiveCodes].sort();
     const params = new URLSearchParams();
-    if (codes.length > 0) {
-      params.set("overlays", codes.join(","));
+    params.set("plugin", activePluginTab);
+    if (showAllActive) {
+      params.set("showAll", "true");
+    } else {
+      const codes = [...allActiveCodes].sort();
+      if (codes.length > 0) {
+        params.set("overlays", codes.join(","));
+      }
     }
     const search = params.toString();
     const newUrl = search ? `?${search}` : window.location.pathname;
     router.replace(newUrl, { scroll: false });
-  }, [allActiveCodes, router]);
+  }, [allActiveCodes, activePluginTab, showAllActive, router]);
 
   // Pre-select plugin tab and overlays from query params on mount,
   // then activate Show All for the initial plugin.
@@ -170,40 +175,44 @@ function MapPageContent() {
       }
     }
 
-    // Toggle specific overlays from ?overlays= or ?overlay= params
-    const overlaysParam = searchParams.get("overlays");
-    const overlayParam = searchParams.get("overlay");
+    const showAllParam = searchParams.get("showAll") === "true";
 
-    const codes: string[] = [];
-    if (overlaysParam) {
-      codes.push(
-        ...overlaysParam
-          .split(",")
-          .map((c) => c.trim())
-          .filter(Boolean)
-      );
-    } else if (overlayParam) {
-      codes.push(overlayParam.trim());
-    }
+    // Toggle specific overlays from ?overlays= or ?overlay= params (only when not showAll)
+    if (!showAllParam) {
+      const overlaysParam = searchParams.get("overlays");
+      const overlayParam = searchParams.get("overlay");
 
-    for (const code of codes) {
-      for (const plugin of plugins) {
-        const registry = pluginDataRegistries[plugin.id];
-        if (!registry) continue;
-        const idField = plugin.sidebarConfig?.idField ?? "code";
-        const found = registry.find(
-          (item) => String(getFieldValue(item, idField)) === code
+      const codes: string[] = [];
+      if (overlaysParam) {
+        codes.push(
+          ...overlaysParam
+            .split(",")
+            .map((c) => c.trim())
+            .filter(Boolean)
         );
-        if (found) {
-          handleToggleItem(plugin.id, code);
-          break;
+      } else if (overlayParam) {
+        codes.push(overlayParam.trim());
+      }
+
+      for (const code of codes) {
+        for (const plugin of plugins) {
+          const registry = pluginDataRegistries[plugin.id];
+          if (!registry) continue;
+          const idField = plugin.sidebarConfig?.idField ?? "code";
+          const found = registry.find(
+            (item) => String(getFieldValue(item, idField)) === code
+          );
+          if (found) {
+            handleToggleItem(plugin.id, code);
+            break;
+          }
         }
       }
     }
 
     initializedRef.current = true;
 
-    // Activate Show All for the initial plugin
+    // Activate Show All for the initial plugin (default behavior, or from ?showAll=true)
     const initPlugin = plugins.find((p) => p.id === effectivePluginId);
     const initRegistry = pluginDataRegistries[effectivePluginId];
     if (initPlugin && initRegistry) {
