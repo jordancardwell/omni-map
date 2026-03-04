@@ -7,27 +7,6 @@ import pluginRegistry from "@/generated/plugin-registry.json";
 
 const plugins = pluginRegistry as unknown as PluginMetadata[];
 
-const ICON_MAP: Record<string, string> = {
-  globe: "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
-  map: "M20.5 3l-.16.03L15 5.1 9 3 3.36 4.9c-.21.07-.36.25-.36.48V20.5c0 .28.22.5.5.5l.16-.03L9 18.9l6 2.1 5.64-1.9c.21-.07.36-.25.36-.48V3.5c0-.28-.22-.5-.5-.5zM15 19l-6-2.11V5l6 2.11V19z",
-  layers: "M11.99 18.54l-7.37-5.73L3 14.07l9 7 9-7-1.63-1.27-7.38 5.74zM12 16l7.36-5.73L21 9l-9-7-9 7 1.63 1.27L12 16z",
-  chart: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z",
-};
-
-function PluginIcon({ icon, color }: { icon: string; color: string }) {
-  const path = ICON_MAP[icon] || ICON_MAP.globe;
-  return (
-    <svg
-      viewBox="0 0 24 24"
-      className="w-8 h-8"
-      fill={color}
-      aria-hidden="true"
-    >
-      <path d={path} />
-    </svg>
-  );
-}
-
 function capitalize(s: string): string {
   return s.charAt(0).toUpperCase() + s.slice(1);
 }
@@ -150,8 +129,8 @@ export default function LandingPage() {
         </div>
       </header>
 
-      {/* Card grid */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      {/* Plugin list */}
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         {sortedCategories.length === 0 ? (
           <p
             className="text-center text-gray-500 py-12"
@@ -161,71 +140,36 @@ export default function LandingPage() {
           </p>
         ) : (
           sortedCategories.map((category) => (
-            <section key={category} className="mb-10">
+            <section key={category} className="mb-6" data-testid={`category-grid-${category}`}>
               <h2
-                className="text-lg font-semibold text-gray-300 mb-4 uppercase tracking-wider"
+                className="text-xs font-semibold text-gray-500 mb-1 px-3 uppercase tracking-wider"
                 data-testid={`category-header-${category}`}
               >
                 {capitalize(category)}
               </h2>
-              <div
-                className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"
-                data-testid={`category-grid-${category}`}
-              >
-                {grouped[category].map((plugin) => (
+              <div className="rounded-lg overflow-hidden border border-gray-800">
+                {grouped[category].map((plugin, i) => (
                   <button
                     key={plugin.id}
                     onClick={() => handleCardClick(plugin)}
-                    className="group bg-gray-800 border border-gray-700 rounded-xl p-5 text-left hover:border-blue-500 hover:bg-gray-750 transition-all cursor-pointer focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className={`group w-full flex items-center gap-3 px-3 py-2.5 text-left hover:bg-gray-800 transition-colors cursor-pointer focus:outline-none focus:bg-gray-800 ${
+                      i > 0 ? "border-t border-gray-800/50" : ""
+                    }`}
                     data-testid={`overlay-card-${plugin.id}`}
                   >
-                    {/* Thumbnail / color preview */}
-                    <div
-                      className="w-full h-24 rounded-lg mb-4 flex items-center justify-center"
-                      style={{
-                        backgroundColor: plugin.thumbnail.startsWith("#")
-                          ? plugin.thumbnail
-                          : undefined,
-                      }}
-                      data-testid={`card-thumbnail-${plugin.id}`}
-                    >
-                      <PluginIcon
-                        icon={plugin.icon}
-                        color={
-                          plugin.thumbnail.startsWith("#")
-                            ? "rgba(255,255,255,0.8)"
-                            : plugin.defaultColor
-                        }
-                      />
-                    </div>
-
-                    {/* Name */}
-                    <div className="flex items-center gap-2 mb-2">
-                      <h3 className="text-lg font-semibold text-gray-100 group-hover:text-blue-400 transition-colors">
-                        {plugin.name}
-                      </h3>
-                    </div>
-
-                    {/* Description */}
-                    <p
-                      className="text-sm text-gray-400 mb-3 line-clamp-2"
+                    <span
+                      className="w-2.5 h-2.5 rounded-full flex-shrink-0"
+                      style={{ backgroundColor: plugin.defaultColor }}
+                    />
+                    <span className="text-sm font-medium text-gray-100 group-hover:text-blue-400 transition-colors flex-shrink-0">
+                      {plugin.name}
+                    </span>
+                    <span
+                      className="text-sm text-gray-500 truncate min-w-0"
                       data-testid={`card-description-${plugin.id}`}
                     >
                       {plugin.description}
-                    </p>
-
-                    {/* Category tags */}
-                    <div className="flex flex-wrap gap-1">
-                      {plugin.categories.map((cat) => (
-                        <span
-                          key={cat}
-                          className="px-2 py-0.5 text-xs rounded-full bg-gray-700 text-gray-300"
-                          data-testid={`card-tag-${plugin.id}-${cat}`}
-                        >
-                          {capitalize(cat)}
-                        </span>
-                      ))}
-                    </div>
+                    </span>
                   </button>
                 ))}
               </div>

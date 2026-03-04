@@ -10,6 +10,9 @@ import { getPluginPalette } from "@/lib/language-utils";
 import GenericSidebar from "@/components/GenericSidebar";
 import type { PluginPanel } from "@/components/GenericSidebar";
 import GenericDetailPanel from "@/components/GenericDetailPanel";
+import ControlBar from "@/components/ControlBar";
+import FloatingDetailPanel from "@/components/FloatingDetailPanel";
+import type { HoverDetail } from "@/components/FloatingDetailPanel";
 import OverlayLegend from "@/components/OverlayLegend";
 import type { LanguageOverlay } from "@/components/MapView";
 import pluginRegistry from "@/generated/plugin-registry.json";
@@ -110,6 +113,9 @@ function MapPageContent() {
   const [geoJsonCache, setGeoJsonCache] = useState<
     Record<string, FeatureCollection>
   >({});
+  const geoJsonCacheRef = useRef<Record<string, FeatureCollection>>({});
+  // Keep ref in sync with state for use in stable callbacks
+  geoJsonCacheRef.current = geoJsonCache;
   const [overlayOpacity, setOverlayOpacity] = useState<Record<string, number>>(
     {}
   );
@@ -121,6 +127,11 @@ function MapPageContent() {
     plugins[0]?.id ?? ""
   );
   const [previewOverlay, setPreviewOverlay] = useState<LanguageOverlay | null>(null);
+  const [showAllActive, setShowAllActive] = useState(false);
+  const [savedSelections, setSavedSelections] = useState<Record<string, Set<string>>>({});
+  const [hoverDetailMode, setHoverDetailMode] = useState(true);
+  const [hoverDetail, setHoverDetail] = useState<HoverDetail | null>(null);
+  const [batchLoading, setBatchLoading] = useState(false);
   const initializedRef = useRef(false);
 
   // All active item codes across all plugins (flattened for URL sync)
@@ -145,13 +156,16 @@ function MapPageContent() {
     router.replace(newUrl, { scroll: false });
   }, [allActiveCodes, router]);
 
-  // Pre-select plugin tab and overlays from query params on mount
+  // Pre-select plugin tab and overlays from query params on mount,
+  // then activate Show All for the initial plugin.
   useEffect(() => {
     // Set active plugin tab from ?plugin= param
+    let effectivePluginId = plugins[0]?.id ?? "";
     const pluginParam = searchParams.get("plugin");
     if (pluginParam) {
       const matchedPlugin = plugins.find((p) => p.id === pluginParam.trim());
       if (matchedPlugin) {
+        effectivePluginId = matchedPlugin.id;
         setActivePluginTab(matchedPlugin.id);
       }
     }
@@ -188,11 +202,34 @@ function MapPageContent() {
     }
 
     initializedRef.current = true;
+
+    // Activate Show All for the initial plugin
+    const initPlugin = plugins.find((p) => p.id === effectivePluginId);
+    const initRegistry = pluginDataRegistries[effectivePluginId];
+    if (initPlugin && initRegistry) {
+      const idField = initPlugin.sidebarConfig?.idField ?? "code";
+      const allCodes = initRegistry.map((item) => String(getFieldValue(item, idField)));
+      setActiveItems((prev) => ({
+        ...prev,
+        [effectivePluginId]: new Set(allCodes),
+      }));
+      setShowAllActive(true);
+
+      let cancelled = false;
+      batchFetchGeoJson(effectivePluginId, allCodes, () => cancelled);
+      return () => { cancelled = true; };
+    }
+
     // Only run on mount
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleToggleItem = async (pluginId: string, itemId: string) => {
+    // Exit show-all mode if user manually toggles an item
+    if (showAllActive && pluginId === activePluginTab) {
+      setShowAllActive(false);
+    }
+
     setActiveItems((prev) => {
       const pluginItems = new Set(prev[pluginId] ?? []);
       if (pluginItems.has(itemId)) {
@@ -249,9 +286,9 @@ function MapPageContent() {
     setSelectedItem(null);
   }, []);
 
-  // Fetch GeoJSON for an item (reuses cache)
+  // Fetch a single GeoJSON item (uses ref for cache check — stable identity)
   const fetchGeoJson = useCallback(async (pluginId: string, itemId: string): Promise<FeatureCollection | null> => {
-    if (geoJsonCache[itemId]) return geoJsonCache[itemId];
+    if (geoJsonCacheRef.current[itemId]) return geoJsonCacheRef.current[itemId];
     try {
       const res = await fetch(`/geo/${pluginId}/${itemId}.geojson`);
       if (res.ok) {
@@ -269,7 +306,50 @@ function MapPageContent() {
       }
     } catch { /* ignore */ }
     return null;
-  }, [geoJsonCache]);
+  }, []);
+
+  // Batch-fetch many GeoJSON items with a single state update at the end.
+  // Returns early if cancelled() returns true (for effect cleanup).
+  const batchFetchGeoJson = useCallback(async (
+    pluginId: string,
+    codes: string[],
+    cancelled?: () => boolean,
+  ) => {
+    const missing = codes.filter((code) => !geoJsonCacheRef.current[code]);
+    if (missing.length === 0) return;
+
+    setBatchLoading(true);
+    const CONCURRENCY = 50;
+    const results: Record<string, FeatureCollection> = {};
+
+    for (let i = 0; i < missing.length; i += CONCURRENCY) {
+      if (cancelled?.()) break;
+      const batch = missing.slice(i, i + CONCURRENCY);
+      await Promise.all(
+        batch.map(async (code) => {
+          try {
+            const res = await fetch(`/geo/${pluginId}/${code}.geojson`);
+            if (res.ok) {
+              results[code] = await res.json();
+              return;
+            }
+          } catch { /* ignore */ }
+          try {
+            const res = await fetch(`/geo/${code}.geojson`);
+            if (res.ok) {
+              results[code] = await res.json();
+            }
+          } catch { /* ignore */ }
+        })
+      );
+    }
+
+    if (!cancelled?.()) {
+      // Single state update with all fetched data
+      setGeoJsonCache((prev) => ({ ...prev, ...results }));
+      setBatchLoading(false);
+    }
+  }, []);
 
   const handleHoverItem = useCallback(async (pluginId: string, itemId: string) => {
     const plugin = plugins.find((p) => p.id === pluginId);
@@ -308,6 +388,69 @@ function MapPageContent() {
 
   const handleHoverItemEnd = useCallback(() => {
     setPreviewOverlay(null);
+  }, []);
+
+  // Show All / Hide All toggle
+  const handleToggleShowAll = useCallback(async () => {
+    if (showAllActive) {
+      // Restore saved selections
+      const restored = savedSelections[activePluginTab];
+      setActiveItems((prev) => ({
+        ...prev,
+        [activePluginTab]: restored ?? new Set(),
+      }));
+      setShowAllActive(false);
+      return;
+    }
+
+    const plugin = plugins.find((p) => p.id === activePluginTab);
+    if (!plugin) return;
+    const registry = pluginDataRegistries[activePluginTab];
+    if (!registry) return;
+    const idField = plugin.sidebarConfig?.idField ?? "code";
+
+    // Save current selections
+    setSavedSelections((prev) => ({
+      ...prev,
+      [activePluginTab]: new Set(activeItems[activePluginTab] ?? []),
+    }));
+
+    // Activate all items
+    const allCodes = registry.map((item) => String(getFieldValue(item, idField)));
+    setActiveItems((prev) => ({
+      ...prev,
+      [activePluginTab]: new Set(allCodes),
+    }));
+    setShowAllActive(true);
+
+    await batchFetchGeoJson(activePluginTab, allCodes);
+  }, [showAllActive, activePluginTab, activeItems, savedSelections, batchFetchGeoJson]);
+
+  // Hover overlay handlers for floating detail panel
+  const handleHoverOverlay = useCallback(
+    (code: string, x: number, y: number) => {
+      for (const plugin of plugins) {
+        const registry = pluginDataRegistries[plugin.id];
+        if (!registry) continue;
+        const idField = plugin.sidebarConfig?.idField ?? "code";
+        const item = registry.find(
+          (it) => String(getFieldValue(it, idField)) === code
+        );
+        if (item) {
+          setHoverDetail({ pluginId: plugin.id, item, x, y });
+          return;
+        }
+      }
+    },
+    []
+  );
+
+  const handleMoveOverlay = useCallback((x: number, y: number) => {
+    setHoverDetail((prev) => (prev ? { ...prev, x, y } : null));
+  }, []);
+
+  const handleHoverOverlayEnd = useCallback(() => {
+    setHoverDetail(null);
   }, []);
 
   // Build overlay list for MapView from all active items
@@ -404,6 +547,8 @@ function MapPageContent() {
 
   const handleClickOverlay = useCallback(
     (code: string) => {
+      // Suppress click-to-detail when hover detail mode is on
+      if (hoverDetailMode) return;
       for (const plugin of plugins) {
         const registry = pluginDataRegistries[plugin.id];
         if (!registry) continue;
@@ -417,7 +562,52 @@ function MapPageContent() {
         }
       }
     },
-    [handleSelectItem]
+    [handleSelectItem, hoverDetailMode]
+  );
+
+  // When switching tabs with Show All on: clear old, load new
+  const handleChangeActivePlugin = useCallback(
+    async (pluginId: string) => {
+      const wasShowAll = showAllActive;
+
+      // Restore old plugin's saved selections
+      if (wasShowAll) {
+        const restored = savedSelections[activePluginTab];
+        setActiveItems((prev) => ({
+          ...prev,
+          [activePluginTab]: restored ?? new Set(),
+        }));
+      }
+
+      setActivePluginTab(pluginId);
+      setHoverDetail(null);
+
+      if (wasShowAll) {
+        // Activate all items for the new plugin
+        const plugin = plugins.find((p) => p.id === pluginId);
+        const registry = pluginDataRegistries[pluginId];
+        if (!plugin || !registry) {
+          setShowAllActive(false);
+          return;
+        }
+        const idField = plugin.sidebarConfig?.idField ?? "code";
+
+        // Save new plugin's current selections before overwriting
+        setSavedSelections((prev) => ({
+          ...prev,
+          [pluginId]: new Set(activeItems[pluginId] ?? []),
+        }));
+
+        const allCodes = registry.map((item) => String(getFieldValue(item, idField)));
+        setActiveItems((prev) => ({
+          ...prev,
+          [pluginId]: new Set(allCodes),
+        }));
+
+        await batchFetchGeoJson(pluginId, allCodes);
+      }
+    },
+    [showAllActive, activePluginTab, activeItems, savedSelections, batchFetchGeoJson]
   );
 
   const selectedPlugin = selectedItem
@@ -451,7 +641,7 @@ function MapPageContent() {
         <GenericSidebar
           panels={sidebarPanels}
           activePluginId={activePluginTab}
-          onChangeActivePlugin={setActivePluginTab}
+          onChangeActivePlugin={handleChangeActivePlugin}
           onToggleItem={(pluginId, itemId) =>
             handleToggleItem(pluginId, itemId)
           }
@@ -460,14 +650,39 @@ function MapPageContent() {
           onHoverItemEnd={handleHoverItemEnd}
         />
         <MapView
-          overlays={previewOverlay ? [...overlays, previewOverlay] : overlays}
+          overlays={previewOverlay && !overlays.some((o) => o.code === previewOverlay.code) ? [...overlays, previewOverlay] : overlays}
           onClickOverlay={handleClickOverlay}
+          hoverDetailMode={hoverDetailMode}
+          onHoverOverlay={handleHoverOverlay}
+          onMoveOverlay={handleMoveOverlay}
+          onHoverOverlayEnd={handleHoverOverlayEnd}
         />
         <OverlayLegend
           overlays={overlays}
           onToggleLanguage={handleToggleOverlay}
           onChangeOpacity={handleChangeOpacity}
         />
+        <ControlBar
+          showAllActive={showAllActive}
+          hoverDetailMode={hoverDetailMode}
+          batchLoading={batchLoading}
+          onToggleShowAll={handleToggleShowAll}
+          onToggleHoverDetail={() => setHoverDetailMode((prev) => !prev)}
+        />
+        {hoverDetail && (() => {
+          const hp = plugins.find((p) => p.id === hoverDetail.pluginId);
+          if (!hp) return null;
+          return (
+            <FloatingDetailPanel
+              detail={hoverDetail}
+              titleField={hp.detailPanelConfig?.titleField ?? "name"}
+              subtitleField={hp.detailPanelConfig?.subtitleField}
+              detailFields={hp.detailFields ?? []}
+              allItems={pluginDataRegistries[hoverDetail.pluginId] ?? []}
+              idField={hp.sidebarConfig?.idField ?? "code"}
+            />
+          );
+        })()}
         {selectedItem && selectedPlugin && (
           <GenericDetailPanel
             item={selectedItem.item}

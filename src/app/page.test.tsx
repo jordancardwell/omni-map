@@ -76,26 +76,12 @@ describe("LandingPage", () => {
     expect(screen.getByTestId("overlay-card-trade-routes")).toBeInTheDocument();
   });
 
-  it("displays card name, description, and category tags", () => {
+  it("displays card name and description", () => {
     render(<LandingPage />);
     expect(screen.getByText("World Languages")).toBeInTheDocument();
     expect(
       screen.getByTestId("card-description-languages")
     ).toHaveTextContent("Geographic regions of world languages");
-    expect(
-      screen.getByTestId("card-tag-languages-linguistics")
-    ).toBeInTheDocument();
-    expect(
-      screen.getByTestId("card-tag-languages-culture")
-    ).toBeInTheDocument();
-  });
-
-  it("renders thumbnail with plugin color", () => {
-    render(<LandingPage />);
-    const thumbnail = screen.getByTestId("card-thumbnail-languages");
-    // happy-dom returns hex, browsers return rgb()
-    const bg = thumbnail.style.backgroundColor;
-    expect(bg === "#4A90D9" || bg === "rgb(74, 144, 217)").toBe(true);
   });
 
   it("groups cards by category with headers", () => {
@@ -125,13 +111,10 @@ describe("LandingPage", () => {
     expect(screen.getByTestId("category-chip-economics")).toBeInTheDocument();
   });
 
-  it("uses responsive grid classes", () => {
+  it("renders category sections with list items", () => {
     render(<LandingPage />);
-    const grid = screen.getByTestId("category-grid-linguistics");
-    expect(grid.className).toContain("grid-cols-1");
-    expect(grid.className).toContain("sm:grid-cols-2");
-    expect(grid.className).toContain("lg:grid-cols-3");
-    expect(grid.className).toContain("xl:grid-cols-4");
+    const section = screen.getByTestId("category-grid-linguistics");
+    expect(section).toBeInTheDocument();
   });
 
   it("uses dark theme styling", () => {

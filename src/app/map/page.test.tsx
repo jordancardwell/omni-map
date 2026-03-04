@@ -154,10 +154,15 @@ describe("MapPage", () => {
     expect(screen.getByTestId("sidebar-search")).toBeInTheDocument();
   });
 
-  it("does not fetch GeoJSON on initial render (lazy-loading)", () => {
-    const fetchSpy = vi.spyOn(globalThis, "fetch");
+  it("fetches GeoJSON on initial render (show-all default)", () => {
+    const fetchSpy = vi.spyOn(globalThis, "fetch").mockResolvedValue(
+      new Response(JSON.stringify(mockGeoJson), {
+        status: 200,
+        headers: { "Content-Type": "application/json" },
+      })
+    );
     render(<MapPage />);
-    expect(fetchSpy).not.toHaveBeenCalled();
+    expect(fetchSpy).toHaveBeenCalled();
   });
 
   it("fetches GeoJSON when an item is toggled on", async () => {
@@ -170,7 +175,8 @@ describe("MapPage", () => {
     const user = userEvent.setup();
 
     render(<MapPage />);
-    expect(fetchSpy).not.toHaveBeenCalled();
+    // Show-all fires fetch on mount
+    expect(fetchSpy).toHaveBeenCalled();
 
     const toggleButton = screen.getByTestId("sidebar-toggle-en");
     await user.click(toggleButton);
@@ -217,6 +223,13 @@ describe("MapPage", () => {
     const { unmount } = render(<MapPage />);
     expect(globalThis.fetch).toHaveBeenCalled();
     unmount();
+  });
+
+  it("renders the control bar", () => {
+    render(<MapPage />);
+    expect(screen.getByTestId("control-bar")).toBeInTheDocument();
+    expect(screen.getByTestId("toggle-show-all")).toBeInTheDocument();
+    expect(screen.getByTestId("toggle-hover-detail")).toBeInTheDocument();
   });
 
   it("pre-selects multiple overlays from overlays query param", async () => {

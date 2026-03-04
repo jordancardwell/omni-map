@@ -29,6 +29,7 @@ export interface LanguageOverlay {
 }
 
 export interface TooltipData {
+  code: string;
   name: string;
   nativeName: string;
   family: string;
@@ -40,6 +41,10 @@ export interface TooltipData {
 interface MapViewProps {
   overlays?: LanguageOverlay[];
   onClickOverlay?: (code: string) => void;
+  hoverDetailMode?: boolean;
+  onHoverOverlay?: (code: string, x: number, y: number) => void;
+  onMoveOverlay?: (x: number, y: number) => void;
+  onHoverOverlayEnd?: () => void;
 }
 
 const FADE_DURATION_MS = 400;
@@ -220,17 +225,16 @@ function GlowOverlay({
     });
 
     layer.on("mouseover", (e: L.LeafletMouseEvent) => {
-      if (name && nativeName && family && totalSpeakers != null) {
-        const point = map.latLngToContainerPoint(e.latlng);
-        onHover({
-          name,
-          nativeName,
-          family,
-          totalSpeakers,
-          x: point.x,
-          y: point.y,
-        });
-      }
+      const point = map.latLngToContainerPoint(e.latlng);
+      onHover({
+        code,
+        name: name ?? "",
+        nativeName: nativeName ?? "",
+        family: family ?? "",
+        totalSpeakers: totalSpeakers ?? 0,
+        x: point.x,
+        y: point.y,
+      });
     });
 
     layer.on("mousemove", (e: L.LeafletMouseEvent) => {
@@ -248,23 +252,21 @@ function GlowOverlay({
 
     // Mobile: contextmenu fires on long-press in most mobile browsers
     layer.on("contextmenu", (e: L.LeafletMouseEvent) => {
-      if (name && nativeName && family && totalSpeakers != null) {
-        const point = map.latLngToContainerPoint(e.latlng);
-        onHover({
-          name,
-          nativeName,
-          family,
-          totalSpeakers,
-          x: point.x,
-          y: point.y,
-        });
-      }
+      const point = map.latLngToContainerPoint(e.latlng);
+      onHover({
+        code,
+        name: name ?? "",
+        nativeName: nativeName ?? "",
+        family: family ?? "",
+        totalSpeakers: totalSpeakers ?? 0,
+        x: point.x,
+        y: point.y,
+      });
     });
 
     // Fallback long-press via touch events
     const container = map.getContainer();
     const handleTouchStart = (e: TouchEvent) => {
-      if (!name || !nativeName || !family || totalSpeakers == null) return;
       const touch = e.touches[0];
       const rect = container.getBoundingClientRect();
       const x = touch.clientX - rect.left;
@@ -281,7 +283,7 @@ function GlowOverlay({
 
       if (isInLayer) {
         longPressTimer.current = setTimeout(() => {
-          onHover({ name, nativeName, family, totalSpeakers, x, y });
+          onHover({ code, name: name ?? "", nativeName: nativeName ?? "", family: family ?? "", totalSpeakers: totalSpeakers ?? 0, x, y });
         }, LONG_PRESS_MS);
       }
     };
@@ -445,6 +447,7 @@ function PointClusterOverlay({
             family = String(overlay.family ?? "");
           }
           onHover({
+            code: overlay.code,
             name: String(props.name ?? overlay.name ?? overlay.code),
             nativeName,
             family,
@@ -605,16 +608,41 @@ function LanguageTooltip({ tooltip }: { tooltip: TooltipData }) {
   );
 }
 
-export default function MapView({ overlays = [], onClickOverlay }: MapViewProps) {
+export default function MapView({
+  overlays = [],
+  onClickOverlay,
+  hoverDetailMode = false,
+  onHoverOverlay,
+  onMoveOverlay,
+  onHoverOverlayEnd,
+}: MapViewProps) {
   const [tooltip, setTooltip] = useState<TooltipData | null>(null);
 
-  const handleHover = useCallback((data: TooltipData | null) => {
-    setTooltip(data);
-  }, []);
+  const handleHover = useCallback(
+    (data: TooltipData | null) => {
+      if (hoverDetailMode) {
+        if (data) {
+          onHoverOverlay?.(data.code, data.x, data.y);
+        } else {
+          onHoverOverlayEnd?.();
+        }
+      } else {
+        setTooltip(data);
+      }
+    },
+    [hoverDetailMode, onHoverOverlay, onHoverOverlayEnd]
+  );
 
-  const handleMove = useCallback((x: number, y: number) => {
-    setTooltip((prev) => (prev ? { ...prev, x, y } : null));
-  }, []);
+  const handleMove = useCallback(
+    (x: number, y: number) => {
+      if (hoverDetailMode) {
+        onMoveOverlay?.(x, y);
+      } else {
+        setTooltip((prev) => (prev ? { ...prev, x, y } : null));
+      }
+    },
+    [hoverDetailMode, onMoveOverlay]
+  );
 
   // Derive unique plugin IDs for pane creation, preserving order
   const pluginIds = Array.from(
