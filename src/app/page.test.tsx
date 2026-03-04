@@ -229,7 +229,7 @@ describe("LandingPage", () => {
 
       await user.click(screen.getByTestId("overlay-card-languages"));
 
-      expect(mockPush).toHaveBeenCalledWith("/map?overlay=languages");
+      expect(mockPush).toHaveBeenCalledWith("/map?plugin=languages");
     });
   });
 });

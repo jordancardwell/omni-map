@@ -105,8 +105,18 @@ function MapPageContent() {
     router.replace(newUrl, { scroll: false });
   }, [allActiveCodes, router]);
 
-  // Pre-select overlays from query params on mount
+  // Pre-select plugin tab and overlays from query params on mount
   useEffect(() => {
+    // Set active plugin tab from ?plugin= param
+    const pluginParam = searchParams.get("plugin");
+    if (pluginParam) {
+      const matchedPlugin = plugins.find((p) => p.id === pluginParam.trim());
+      if (matchedPlugin) {
+        setActivePluginTab(matchedPlugin.id);
+      }
+    }
+
+    // Toggle specific overlays from ?overlays= or ?overlay= params
     const overlaysParam = searchParams.get("overlays");
     const overlayParam = searchParams.get("overlay");
 

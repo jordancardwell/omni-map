@@ -95,7 +95,7 @@ export default function LandingPage() {
   const sortedCategories = Object.keys(grouped).sort();
 
   const handleCardClick = (plugin: PluginMetadata) => {
-    router.push(`/map?overlay=${plugin.id}`);
+    router.push(`/map?plugin=${plugin.id}`);
   };
 
   return (
