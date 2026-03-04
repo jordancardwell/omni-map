@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useEffect, useRef, useMemo } from "react";
+import { Suspense, useState, useCallback, useEffect, useRef, useMemo } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import dynamic from "next/dynamic";
@@ -54,6 +54,14 @@ const pluginDataRegistries: Record<string, Record<string, unknown>[]> = {
 const plugins = pluginRegistry as unknown as PluginMetadata[];
 
 export default function MapPage() {
+  return (
+    <Suspense>
+      <MapPageContent />
+    </Suspense>
+  );
+}
+
+function MapPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const [activeItems, setActiveItems] = useState<Record<string, Set<string>>>(
