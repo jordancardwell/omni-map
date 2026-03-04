@@ -28,6 +28,26 @@ import timeZonesRegistry from "@/generated/time-zones-registry.json";
 import volcanoesRegistry from "@/generated/volcanoes-registry.json";
 import unescoSitesRegistry from "@/generated/unesco-sites-registry.json";
 import lightPollutionRegistry from "@/generated/light-pollution-registry.json";
+import airRoutesRegistry from "@/generated/air-routes-registry.json";
+import ancientCivilizationsRegistry from "@/generated/ancient-civilizations-registry.json";
+import coralReefsRegistry from "@/generated/coral-reefs-registry.json";
+import cuisineRegionsRegistry from "@/generated/cuisine-regions-registry.json";
+import desertificationRegistry from "@/generated/desertification-registry.json";
+import endangeredSpeciesRegistry from "@/generated/endangered-species-registry.json";
+import festivalsRegistry from "@/generated/festivals-registry.json";
+import historicalEmpiresRegistry from "@/generated/historical-empires-registry.json";
+import indigenousTerritoriesRegistry from "@/generated/indigenous-territories-registry.json";
+import migrationRegistry from "@/generated/migration-registry.json";
+import musicRegionsRegistry from "@/generated/music-regions-registry.json";
+import observatoriesRegistry from "@/generated/observatories-registry.json";
+import oceanCurrentsRegistry from "@/generated/ocean-currents-registry.json";
+import rainforestsRegistry from "@/generated/rainforests-registry.json";
+import shippingRoutesRegistry from "@/generated/shipping-routes-registry.json";
+import spaceLaunchSitesRegistry from "@/generated/space-launch-sites-registry.json";
+import submarineCablesRegistry from "@/generated/submarine-cables-registry.json";
+import tradeRoutesRegistry from "@/generated/trade-routes-registry.json";
+import waterScarcityRegistry from "@/generated/water-scarcity-registry.json";
+import wildfireRiskRegistry from "@/generated/wildfire-risk-registry.json";
 import type { PluginMetadata } from "@/lib/plugins/types";
 
 const MapView = dynamic(() => import("@/components/MapView"), { ssr: false });
@@ -49,6 +69,26 @@ const pluginDataRegistries: Record<string, Record<string, unknown>[]> = {
   volcanoes: volcanoesRegistry as unknown as Record<string, unknown>[],
   "unesco-sites": unescoSitesRegistry as unknown as Record<string, unknown>[],
   "light-pollution": lightPollutionRegistry as unknown as Record<string, unknown>[],
+  "air-routes": airRoutesRegistry as unknown as Record<string, unknown>[],
+  "ancient-civilizations": ancientCivilizationsRegistry as unknown as Record<string, unknown>[],
+  "coral-reefs": coralReefsRegistry as unknown as Record<string, unknown>[],
+  "cuisine-regions": cuisineRegionsRegistry as unknown as Record<string, unknown>[],
+  desertification: desertificationRegistry as unknown as Record<string, unknown>[],
+  "endangered-species": endangeredSpeciesRegistry as unknown as Record<string, unknown>[],
+  festivals: festivalsRegistry as unknown as Record<string, unknown>[],
+  "historical-empires": historicalEmpiresRegistry as unknown as Record<string, unknown>[],
+  "indigenous-territories": indigenousTerritoriesRegistry as unknown as Record<string, unknown>[],
+  migration: migrationRegistry as unknown as Record<string, unknown>[],
+  "music-regions": musicRegionsRegistry as unknown as Record<string, unknown>[],
+  observatories: observatoriesRegistry as unknown as Record<string, unknown>[],
+  "ocean-currents": oceanCurrentsRegistry as unknown as Record<string, unknown>[],
+  rainforests: rainforestsRegistry as unknown as Record<string, unknown>[],
+  "shipping-routes": shippingRoutesRegistry as unknown as Record<string, unknown>[],
+  "space-launch-sites": spaceLaunchSitesRegistry as unknown as Record<string, unknown>[],
+  "submarine-cables": submarineCablesRegistry as unknown as Record<string, unknown>[],
+  "trade-routes": tradeRoutesRegistry as unknown as Record<string, unknown>[],
+  "water-scarcity": waterScarcityRegistry as unknown as Record<string, unknown>[],
+  "wildfire-risk": wildfireRiskRegistry as unknown as Record<string, unknown>[],
 };
 
 const plugins = pluginRegistry as unknown as PluginMetadata[];
