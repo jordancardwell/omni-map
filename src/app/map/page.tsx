@@ -51,6 +51,7 @@ import submarineCablesRegistry from "@/generated/submarine-cables-registry.json"
 import tradeRoutesRegistry from "@/generated/trade-routes-registry.json";
 import waterScarcityRegistry from "@/generated/water-scarcity-registry.json";
 import wildfireRiskRegistry from "@/generated/wildfire-risk-registry.json";
+import zgClientZipcodesRegistry from "@/generated/zg-client-zipcodes-registry.json";
 import type { PluginMetadata } from "@/lib/plugins/types";
 
 const MapView = dynamic(() => import("@/components/MapView"), { ssr: false });
@@ -92,6 +93,7 @@ const pluginDataRegistries: Record<string, Record<string, unknown>[]> = {
   "trade-routes": tradeRoutesRegistry as unknown as Record<string, unknown>[],
   "water-scarcity": waterScarcityRegistry as unknown as Record<string, unknown>[],
   "wildfire-risk": wildfireRiskRegistry as unknown as Record<string, unknown>[],
+  "zg-client-zipcodes": zgClientZipcodesRegistry as unknown as Record<string, unknown>[],
 };
 
 const plugins = pluginRegistry as unknown as PluginMetadata[];
