@@ -1,0 +1,32 @@
+{
+  "id": "zg-client-zipcodes",
+  "name": "Zoomin Groomin Client Zip Codes",
+  "description": "Service area zip codes for Zoomin Groomin Lowcountry clients in South Carolina",
+  "type": "regions",
+  "version": "1.0.0",
+  "icon": "paw",
+  "defaultColor": "#4CAF50",
+  "categories": ["business", "service-area"],
+  "dataType": "regions",
+  "dataSource": "static",
+  "category": "Business",
+  "thumbnail": "#4CAF50",
+  "sidebarConfig": {
+    "idField": "code",
+    "searchFields": ["code", "name", "area"],
+    "groupBy": "area",
+    "titleField": "name",
+    "subtitleField": "code",
+    "badgeField": "code",
+    "badgeFormat": "text"
+  },
+  "detailPanelConfig": {
+    "titleField": "name",
+    "subtitleField": "code"
+  },
+  "detailFields": [
+    { "key": "code", "label": "Zip Code", "type": "text" },
+    { "key": "area", "label": "Area", "type": "text" },
+    { "key": "county", "label": "County", "type": "text" }
+  ]
+}

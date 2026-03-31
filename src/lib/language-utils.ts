@@ -220,6 +220,10 @@ export const PLUGIN_PALETTES: Record<string, string[]> = {
   migration: [
     "#0EA5E9", "#F59E0B",
   ],
+  "zg-client-zipcodes": [
+    "#4CAF50", "#66BB6A", "#81C784", "#A5D6A7", "#388E3C",
+    "#2E7D32", "#1B5E20", "#43A047", "#C8E6C9",
+  ],
 };
 
 export function getPluginPalette(pluginId: string): string[] {

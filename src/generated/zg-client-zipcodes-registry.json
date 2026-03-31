@@ -1,0 +1,163 @@
+[
+  {
+    "code": "29403",
+    "name": "Downtown Charleston",
+    "area": "Charleston",
+    "county": "Charleston County",
+    "geojson": "29403.geojson"
+  },
+  {
+    "code": "29405",
+    "name": "North Charleston",
+    "area": "North Charleston",
+    "county": "Charleston County",
+    "geojson": "29405.geojson"
+  },
+  {
+    "code": "29407",
+    "name": "West Ashley",
+    "area": "Charleston",
+    "county": "Charleston County",
+    "geojson": "29407.geojson"
+  },
+  {
+    "code": "29410",
+    "name": "Hanahan",
+    "area": "North Charleston",
+    "county": "Berkeley County",
+    "geojson": "29410.geojson"
+  },
+  {
+    "code": "29412",
+    "name": "James Island / Folly Beach",
+    "area": "Charleston",
+    "county": "Charleston County",
+    "geojson": "29412.geojson"
+  },
+  {
+    "code": "29418",
+    "name": "North Charleston / Ladson",
+    "area": "North Charleston",
+    "county": "Charleston County",
+    "geojson": "29418.geojson"
+  },
+  {
+    "code": "29429",
+    "name": "Awendaw",
+    "area": "East Cooper",
+    "county": "Charleston County",
+    "geojson": "29429.geojson"
+  },
+  {
+    "code": "29439",
+    "name": "Edisto Island",
+    "area": "South of Charleston",
+    "county": "Charleston County",
+    "geojson": "29439.geojson"
+  },
+  {
+    "code": "29445",
+    "name": "Goose Creek",
+    "area": "North Charleston",
+    "county": "Berkeley County",
+    "geojson": "29445.geojson"
+  },
+  {
+    "code": "29450",
+    "name": "Huger",
+    "area": "East Cooper",
+    "county": "Berkeley County",
+    "geojson": "29450.geojson"
+  },
+  {
+    "code": "29451",
+    "name": "Isle of Palms",
+    "area": "East Cooper",
+    "county": "Charleston County",
+    "geojson": "29451.geojson"
+  },
+  {
+    "code": "29453",
+    "name": "Jamestown",
+    "area": "East Cooper",
+    "county": "Berkeley County",
+    "geojson": "29453.geojson"
+  },
+  {
+    "code": "29455",
+    "name": "Johns Island",
+    "area": "Charleston",
+    "county": "Charleston County",
+    "geojson": "29455.geojson"
+  },
+  {
+    "code": "29456",
+    "name": "Hollywood",
+    "area": "South of Charleston",
+    "county": "Charleston County",
+    "geojson": "29456.geojson"
+  },
+  {
+    "code": "29458",
+    "name": "McClellanville",
+    "area": "East Cooper",
+    "county": "Charleston County",
+    "geojson": "29458.geojson"
+  },
+  {
+    "code": "29464",
+    "name": "Mount Pleasant",
+    "area": "East Cooper",
+    "county": "Charleston County",
+    "geojson": "29464.geojson"
+  },
+  {
+    "code": "29466",
+    "name": "Mount Pleasant (North)",
+    "area": "East Cooper",
+    "county": "Charleston County",
+    "geojson": "29466.geojson"
+  },
+  {
+    "code": "29470",
+    "name": "Ravenel",
+    "area": "South of Charleston",
+    "county": "Charleston County",
+    "geojson": "29470.geojson"
+  },
+  {
+    "code": "29482",
+    "name": "Sullivan's Island",
+    "area": "East Cooper",
+    "county": "Charleston County",
+    "geojson": "29482.geojson"
+  },
+  {
+    "code": "29483",
+    "name": "Summerville",
+    "area": "Summerville",
+    "county": "Dorchester County",
+    "geojson": "29483.geojson"
+  },
+  {
+    "code": "29485",
+    "name": "Summerville (South)",
+    "area": "Summerville",
+    "county": "Dorchester County",
+    "geojson": "29485.geojson"
+  },
+  {
+    "code": "29486",
+    "name": "Summerville (North)",
+    "area": "Summerville",
+    "county": "Berkeley County",
+    "geojson": "29486.geojson"
+  },
+  {
+    "code": "29492",
+    "name": "Daniel Island / Cainhoy",
+    "area": "East Cooper",
+    "county": "Berkeley County",
+    "geojson": "29492.geojson"
+  }
+]
